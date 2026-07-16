@@ -20,6 +20,7 @@ SOURCES = ROOT / "sources"
 RAW = ROOT / "raw"
 SCHEMA = ROOT / "schema"
 CATALOG = WIKI / "catalog.jsonl"
+INDEXES_DIR = WIKI / "indexes"
 MANIFEST = SCHEMA / "source-manifest.jsonl"
 LOG = WIKI / "log.md"
 
@@ -31,6 +32,12 @@ MD_LINK = re.compile(r"(?<!!)\[[^\]]*\]\(([^)]+)\)")
 FRONTMATTER = re.compile(r"\A---\n(.*?)\n---\n?", re.DOTALL)
 YAML_LIST_ITEM = re.compile(r"^\s*-\s+[\"']?(.+?)[\"']?\s*$")
 TAG_TOKEN = re.compile(r"[A-Za-z0-9][A-Za-z0-9_-]*")
+HEADING = re.compile(r"^#{1,6}\s+(.+?)\s*$")
+# Normalized abbrev refs: "mt 6:5-15" or chapter-only "joh 17"
+ABBREV_REF = re.compile(
+    r"\b([1-3]?[a-z]{1,5})\s+(\d+)(?::(\d+)(?:-(\d+))?)?\b",
+    re.IGNORECASE,
+)
 
 WIKI_DIR_META = {
     "concepts": ("Concepts", "Source-backed syntheses of biblical doctrines, themes, and practices."),
@@ -41,6 +48,197 @@ WIKI_DIR_META = {
 }
 
 SKIP_DIR_PARTS = {".git", ".qmd", ".obsidian", "__pycache__", "node_modules"}
+
+# book_key, name, abbrev — matches AGENTS.md
+BOOK_TABLE: list[tuple[int, str, str]] = [
+    (1, "Genesis", "ge"),
+    (2, "Exodus", "ex"),
+    (3, "Leviticus", "le"),
+    (4, "Numbers", "nu"),
+    (5, "Deuteronomy", "de"),
+    (6, "Joshua", "jos"),
+    (7, "Judges", "jud"),
+    (8, "Ruth", "ru"),
+    (9, "1 Samuel", "1sa"),
+    (10, "2 Samuel", "2sa"),
+    (11, "1 Kings", "1ki"),
+    (12, "2 Kings", "2ki"),
+    (13, "1 Chronicles", "1ch"),
+    (14, "2 Chronicles", "2ch"),
+    (15, "Ezra", "ezr"),
+    (16, "Nehemiah", "ne"),
+    (17, "Esther", "es"),
+    (18, "Job", "job"),
+    (19, "Psalms", "ps"),
+    (20, "Proverbs", "pr"),
+    (21, "Ecclesiastes", "ec"),
+    (22, "Song of Solomon", "so"),
+    (23, "Isaiah", "isa"),
+    (24, "Jeremiah", "jer"),
+    (25, "Lamentations", "la"),
+    (26, "Ezekiel", "eze"),
+    (27, "Daniel", "da"),
+    (28, "Hosea", "ho"),
+    (29, "Joel", "joe"),
+    (30, "Amos", "am"),
+    (31, "Obadiah", "ob"),
+    (32, "Jonah", "jon"),
+    (33, "Micah", "mic"),
+    (34, "Nahum", "na"),
+    (35, "Habakkuk", "hab"),
+    (36, "Zephaniah", "zep"),
+    (37, "Haggai", "hag"),
+    (38, "Zechariah", "zec"),
+    (39, "Malachi", "mal"),
+    (40, "Matthew", "mt"),
+    (41, "Mark", "mr"),
+    (42, "Luke", "lu"),
+    (43, "John", "joh"),
+    (44, "Acts", "ac"),
+    (45, "Romans", "ro"),
+    (46, "1 Corinthians", "1co"),
+    (47, "2 Corinthians", "2co"),
+    (48, "Galatians", "ga"),
+    (49, "Ephesians", "eph"),
+    (50, "Philippians", "php"),
+    (51, "Colossians", "col"),
+    (52, "1 Thessalonians", "1th"),
+    (53, "2 Thessalonians", "2th"),
+    (54, "1 Timothy", "1ti"),
+    (55, "2 Timothy", "2ti"),
+    (56, "Titus", "tit"),
+    (57, "Philemon", "phm"),
+    (58, "Hebrews", "heb"),
+    (59, "James", "jas"),
+    (60, "1 Peter", "1pe"),
+    (61, "2 Peter", "2pe"),
+    (62, "1 John", "1jo"),
+    (63, "2 John", "2jo"),
+    (64, "3 John", "3jo"),
+    (65, "Jude", "jude"),
+    (66, "Revelation", "re"),
+]
+
+# Common display aliases (lowercase) → abbrev
+BOOK_ALIASES: dict[str, str] = {}
+ABBREV_TO_KEY: dict[str, int] = {}
+ABBREV_TO_NAME: dict[str, str] = {}
+KEY_TO_ABBREV: dict[int, str] = {}
+KEY_TO_NAME: dict[int, str] = {}
+
+for _key, _name, _abbrev in BOOK_TABLE:
+    ABBREV_TO_KEY[_abbrev] = _key
+    ABBREV_TO_NAME[_abbrev] = _name
+    KEY_TO_ABBREV[_key] = _abbrev
+    KEY_TO_NAME[_key] = _name
+    BOOK_ALIASES[_name.lower()] = _abbrev
+    BOOK_ALIASES[_abbrev] = _abbrev
+
+# Extra English display forms (conservative)
+for _alias, _abbrev in {
+    "psalm": "ps",
+    "song of songs": "so",
+    "canticles": "so",
+    "ecclesiastes": "ec",
+    "qoheleth": "ec",
+    "apocalypse": "re",
+    "rom": "ro",
+    "rom.": "ro",
+    "matt": "mt",
+    "matt.": "mt",
+    "mat": "mt",
+    "jn": "joh",
+    "jhn": "joh",
+    "gen": "ge",
+    "exod": "ex",
+    "exo": "ex",
+    "lev": "le",
+    "num": "nu",
+    "deut": "de",
+    "josh": "jos",
+    "judg": "jud",
+    "1 sam": "1sa",
+    "2 sam": "2sa",
+    "1 kgs": "1ki",
+    "2 kgs": "2ki",
+    "1 chr": "1ch",
+    "2 chr": "2ch",
+    "1 cor": "1co",
+    "2 cor": "2co",
+    "1 thess": "1th",
+    "2 thess": "2th",
+    "1 tim": "1ti",
+    "2 tim": "2ti",
+    "1 pet": "1pe",
+    "2 pet": "2pe",
+    "1 jn": "1jo",
+    "2 jn": "2jo",
+    "3 jn": "3jo",
+    "phil": "php",
+    "phm": "phm",
+    "rev": "re",
+    "isaiah": "isa",
+    "jeremiah": "jer",
+    "ezekiel": "eze",
+    "micah": "mic",
+    "ephesians": "eph",
+    "galatians": "ga",
+    "colossians": "col",
+    "hebrews": "heb",
+    "james": "jas",
+    "jude": "jude",
+    "acts": "ac",
+    "luke": "lu",
+    "mark": "mr",
+    "john": "joh",
+    "matthew": "mt",
+    "romans": "ro",
+    "revelation": "re",
+    "genesis": "ge",
+    "exodus": "ex",
+}.items():
+    BOOK_ALIASES[_alias] = _abbrev
+
+# Longest-first book name pattern for body extraction
+_BOOK_NAME_ALTS = sorted(
+    {name for name, _ in ((n, a) for _, n, a in BOOK_TABLE)}
+    | {
+        "Psalm",
+        "Psalms",
+        "Song of Songs",
+        "1 Sam",
+        "2 Sam",
+        "1 Kgs",
+        "2 Kgs",
+        "1 Chr",
+        "2 Chr",
+        "1 Cor",
+        "2 Cor",
+        "1 Thess",
+        "2 Thess",
+        "1 Tim",
+        "2 Tim",
+        "1 Pet",
+        "2 Pet",
+        "1 Jn",
+        "2 Jn",
+        "3 Jn",
+        "Rom",
+        "Matt",
+        "Gen",
+        "Exod",
+        "Rev",
+    },
+    key=len,
+    reverse=True,
+)
+# Use [^\S\n] (horizontal whitespace) so verse ranges cannot span newlines
+# (avoids "1 Timothy 1:11\n- 2 Corinthians" → "1ti 1:11-2").
+_BOOK_NAME_RE = re.compile(
+    r"\b(" + "|".join(re.escape(n) for n in _BOOK_NAME_ALTS) + r")\b"
+    r"(?:\.|[^\S\n])+(\d+)(?:[^\S\n]*[:.][^\S\n]*(\d+)(?:[^\S\n]*[-–—][^\S\n]*(\d+))?)?",
+    re.IGNORECASE,
+)
 
 
 def today() -> str:
@@ -117,9 +315,14 @@ def is_wiki_concept(path: Path) -> bool:
         return False
     if not path.is_relative_to(WIKI):
         return False
-    if path.name in {"index.md", "catalog.jsonl"}:
+    if path.name in {"index.md", "catalog.jsonl", "log.md"}:
         return False
-    if path.name == "log.md":
+    try:
+        rel_parts = path.relative_to(WIKI).parts
+    except ValueError:
+        return False
+    # Generated reverse-index tree is not synthesis
+    if rel_parts and rel_parts[0] == "indexes":
         return False
     return True
 
@@ -150,6 +353,16 @@ def extract_wikilink_targets(text: str) -> list[str]:
     return targets
 
 
+def normalize_source_path(path: str) -> str:
+    sp = unquote(path.strip().strip("'\""))
+    sp = sp.split("#", 1)[0].strip()
+    if not sp:
+        return ""
+    if not sp.endswith(".md"):
+        sp = f"{sp}.md"
+    return sp
+
+
 def sources_section_links(text: str) -> list[str]:
     body = body_after_frontmatter(text)
     lines = body.splitlines()
@@ -166,20 +379,17 @@ def sources_section_links(text: str) -> list[str]:
                 target = raw.split("|", 1)[0].split("#", 1)[0].strip()
                 if not target:
                     continue
-                if not target.endswith(".md"):
-                    target = f"{target}.md"
-                links.append(unquote(target))
-    return links
+                links.append(normalize_source_path(target))
+    return [x for x in links if x]
 
 
 def resolve_source_paths_from_wiki(path: Path, text: str, meta: dict[str, Any]) -> list[str]:
     found: list[str] = []
     source_path = meta.get("source_path")
     if isinstance(source_path, str) and source_path.strip():
-        sp = source_path.strip().strip("\"'")
-        if not sp.endswith(".md"):
-            sp = f"{sp}.md"
-        found.append(sp)
+        sp = normalize_source_path(source_path)
+        if sp:
+            found.append(sp)
 
     for target in sources_section_links(text):
         if target.startswith("sources/"):
@@ -187,9 +397,23 @@ def resolve_source_paths_from_wiki(path: Path, text: str, meta: dict[str, Any]) 
 
     for target in extract_wikilink_targets(text):
         if target.startswith("sources/"):
-            found.append(target)
+            found.append(normalize_source_path(target))
 
     # de-dupe preserving order
+    seen: set[str] = set()
+    ordered: list[str] = []
+    for item in found:
+        if item and item not in seen:
+            seen.add(item)
+            ordered.append(item)
+    return ordered
+
+
+def resolve_related_wiki_paths(text: str) -> list[str]:
+    found: list[str] = []
+    for target in extract_wikilink_targets(text):
+        if target.startswith("wiki/"):
+            found.append(unquote(target))
     seen: set[str] = set()
     ordered: list[str] = []
     for item in found:
@@ -197,6 +421,152 @@ def resolve_source_paths_from_wiki(path: Path, text: str, meta: dict[str, Any]) 
             seen.add(item)
             ordered.append(item)
     return ordered
+
+
+def extract_headings(text: str) -> list[str]:
+    body = body_after_frontmatter(text)
+    headings: list[str] = []
+    for line in body.splitlines():
+        match = HEADING.match(line)
+        if not match:
+            continue
+        title = match.group(1).strip()
+        # skip the page H1 when it duplicates the note title style
+        if title:
+            headings.append(title)
+    return headings
+
+
+def lookup_abbrev(token: str) -> str | None:
+    cleaned = token.strip().lower().rstrip(".")
+    if cleaned in BOOK_ALIASES:
+        return BOOK_ALIASES[cleaned]
+    if cleaned in ABBREV_TO_KEY:
+        return cleaned
+    return None
+
+
+def format_norm_ref(abbrev: str, chapter: int, verse: int | None = None, end: int | None = None) -> str:
+    if verse is None:
+        return f"{abbrev} {chapter}"
+    if end is None or end == verse:
+        return f"{abbrev} {chapter}:{verse}"
+    return f"{abbrev} {chapter}:{verse}-{end}"
+
+
+def normalize_abbrev_ref_string(raw: str) -> str | None:
+    """Normalize a primary frontmatter-style ref string to vault abbrev form."""
+    text = raw.strip().strip("'\"").replace("–", "-").replace("—", "-")
+    match = re.match(
+        r"^([1-3]?[a-z]+)\s+(\d+):(\d+)(?:-(\d+))?$",
+        text,
+        re.IGNORECASE,
+    )
+    if not match:
+        return None
+    abbrev = lookup_abbrev(match.group(1))
+    if not abbrev:
+        return None
+    chapter = int(match.group(2))
+    verse = int(match.group(3))
+    end = int(match.group(4)) if match.group(4) else None
+    return format_norm_ref(abbrev, chapter, verse, end)
+
+
+def extract_display_refs(text: str) -> list[str]:
+    """Conservatively extract Bible refs from display English forms in body text."""
+    # Normalize dashes for verse ranges
+    normalized = text.replace("–", "-").replace("—", "-")
+    found: list[str] = []
+    for match in _BOOK_NAME_RE.finditer(normalized):
+        name = match.group(1)
+        abbrev = lookup_abbrev(name)
+        if not abbrev:
+            continue
+        chapter = int(match.group(2))
+        verse = int(match.group(3)) if match.group(3) else None
+        end = int(match.group(4)) if match.group(4) else None
+        found.append(format_norm_ref(abbrev, chapter, verse, end))
+    return found
+
+
+def biblical_passages_section_text(text: str) -> str:
+    body = body_after_frontmatter(text)
+    lines = body.splitlines()
+    in_section = False
+    chunk: list[str] = []
+    for line in lines:
+        if line.strip() in {"## Biblical passages", "# Biblical passages"}:
+            in_section = True
+            continue
+        if in_section and line.startswith("## "):
+            break
+        if in_section:
+            chunk.append(line)
+    return "\n".join(chunk)
+
+
+def extract_bible_references(meta: dict[str, Any], text: str) -> list[str]:
+    """Derive refs from frontmatter primary + ## Biblical passages only.
+
+    Full-body scan is intentionally avoided: claim prose and source path labels
+    produce false positives. Prefer conservative, section-scoped extraction.
+    """
+    refs: list[str] = []
+
+    primary = meta.get("bible_reference")
+    if isinstance(primary, str) and primary.strip():
+        norm = normalize_abbrev_ref_string(primary)
+        if norm:
+            refs.append(norm)
+
+    section = biblical_passages_section_text(text)
+    if section.strip():
+        refs.extend(extract_display_refs(section))
+
+    # Deduplicate preserving order
+    seen: set[str] = set()
+    ordered: list[str] = []
+    for ref in refs:
+        if ref not in seen:
+            seen.add(ref)
+            ordered.append(ref)
+    return ordered
+
+
+def book_keys_from_refs(refs: list[str]) -> list[int]:
+    keys: list[int] = []
+    seen: set[int] = set()
+    for ref in refs:
+        match = ABBREV_REF.match(ref)
+        if not match:
+            # chapter-only already matches ABBREV_REF with optional verse
+            parts = ref.split()
+            if len(parts) >= 1:
+                abbrev = lookup_abbrev(parts[0])
+                if abbrev and abbrev in ABBREV_TO_KEY:
+                    key = ABBREV_TO_KEY[abbrev]
+                    if key not in seen:
+                        seen.add(key)
+                        keys.append(key)
+            continue
+        abbrev = lookup_abbrev(match.group(1))
+        if abbrev and abbrev in ABBREV_TO_KEY:
+            key = ABBREV_TO_KEY[abbrev]
+            if key not in seen:
+                seen.add(key)
+                keys.append(key)
+    return keys
+
+
+def optional_int(meta: dict[str, Any], key: str) -> int | None:
+    value = meta.get(key)
+    if value is None or value == "":
+        return None
+    try:
+        return int(str(value))
+    except ValueError:
+        return None
 
 
 def load_jsonl(path: Path) -> list[dict[str, Any]]:
@@ -219,55 +589,6 @@ def write_jsonl(path: Path, rows: list[dict[str, Any]]) -> None:
             handle.write("\n")
 
 
-def cmd_doctor(_: argparse.Namespace) -> int:
-    errors: list[str] = []
-    warnings: list[str] = []
-
-    if sys.version_info < (3, 10):
-        errors.append(f"Python >= 3.10 required (found {sys.version.split()[0]})")
-
-    for required in (WIKI, SOURCES, RAW, SCHEMA, ROOT / "AGENTS.md"):
-        if not required.exists():
-            errors.append(f"missing required path: {rel(required) if required.is_relative_to(ROOT) else required}")
-
-    for sub in WIKI_DIR_META:
-        d = WIKI / sub
-        if not d.is_dir():
-            warnings.append(f"missing wiki subdir: wiki/{sub}")
-        index = d / "index.md"
-        if d.is_dir() and not index.is_file():
-            errors.append(f"missing index: wiki/{sub}/index.md")
-
-    concepts = iter_wiki_concepts()
-    sources = iter_source_docs()
-
-    print("Bible Vault wiki doctor")
-    print(f"  root: {ROOT}")
-    print(f"  python: {sys.version.split()[0]}")
-    print(f"  wiki concepts: {len(concepts)}")
-    print(f"  source docs (excl. index.md): {len(sources)}")
-    print(f"  catalog: {'present' if CATALOG.is_file() else 'missing'}")
-    print(f"  source-manifest: {'present' if MANIFEST.is_file() else 'missing'}")
-    print(f"  qmd lint: {'present' if (ROOT / '.qmd/bin/lint-wiki').is_file() else 'missing'}")
-
-    if CATALOG.is_file():
-        print(f"  catalog rows: {len(load_jsonl(CATALOG))}")
-    if MANIFEST.is_file():
-        rows = load_jsonl(MANIFEST)
-        covered = sum(1 for r in rows if r.get("covered_by"))
-        print(f"  manifest rows: {len(rows)} (covered: {covered})")
-
-    for warning in warnings:
-        print(f"WARN {warning}")
-    if errors:
-        for error in errors:
-            print(f"ERROR {error}")
-        print(f"{len(errors)} doctor error(s)")
-        return 1
-    print("Doctor passed")
-    return 0
-
-
 def catalog_row(path: Path) -> dict[str, Any] | None:
     text = read_text(path)
     meta = parse_frontmatter(text)
@@ -278,6 +599,39 @@ def catalog_row(path: Path) -> dict[str, Any] | None:
         source_count = int(str(meta.get("source_count", "0")))
     except ValueError:
         source_count = 0
+
+    source_paths = resolve_source_paths_from_wiki(path, text, meta)
+    related_paths = resolve_related_wiki_paths(text)
+    headings = extract_headings(text)
+    bible_references = extract_bible_references(meta, text)
+    bible_book_keys = book_keys_from_refs(bible_references)
+
+    primary_ref = meta.get("bible_reference")
+    primary_ref_s = str(primary_ref).strip() if primary_ref not in (None, "") else None
+    if primary_ref_s:
+        normalized_primary = normalize_abbrev_ref_string(primary_ref_s)
+        primary_ref_out: str | None = normalized_primary or primary_ref_s
+    else:
+        primary_ref_out = None
+
+    book_key = optional_int(meta, "bible_book_key")
+    book_name = str(meta.get("bible_book_name") or "").strip() or None
+    if book_key is None and bible_book_keys:
+        # do not invent frontmatter; derived list is separate
+        pass
+
+    primary_source_path = None
+    sp = meta.get("source_path")
+    if isinstance(sp, str) and sp.strip():
+        primary_source_path = normalize_source_path(sp)
+
+    aliases: list[str] = []
+    raw_aliases = meta.get("aliases")
+    if isinstance(raw_aliases, list):
+        aliases = [str(a).strip() for a in raw_aliases if str(a).strip()]
+    elif isinstance(raw_aliases, str) and raw_aliases.strip():
+        aliases = [raw_aliases.strip()]
+
     return {
         "path": rel(path),
         "title": str(meta.get("title") or path.stem),
@@ -287,6 +641,18 @@ def catalog_row(path: Path) -> dict[str, Any] | None:
         "updated": str(meta.get("updated") or ""),
         "source_count": source_count,
         "description": str(meta.get("description") or ""),
+        "bible_reference": primary_ref_out,
+        "bible_book_key": book_key,
+        "bible_book_name": book_name,
+        "bible_references": bible_references,
+        "bible_book_keys": bible_book_keys if book_key is None else (
+            [book_key] + [k for k in bible_book_keys if k != book_key]
+        ),
+        "source_paths": source_paths,
+        "related_paths": related_paths,
+        "primary_source_path": primary_source_path,
+        "headings": headings,
+        "aliases": aliases,
     }
 
 
@@ -324,9 +690,200 @@ def rebuild_wiki_indexes() -> None:
     ]
     for dirname, (title, blurb) in WIKI_DIR_META.items():
         wiki_index_lines.append(f"* [{title}]({dirname}/) - {blurb}")
-    wiki_index_lines.append("* [Wiki log](log.md) - Chronological record of ingests, filed queries, lint passes, and maintenance.")
+    wiki_index_lines.append(
+        "* [Generated indexes](indexes/) - Machine-built reverse indexes (tag, passage, source, type)."
+    )
+    wiki_index_lines.append(
+        "* [Wiki log](log.md) - Chronological record of ingests, filed queries, lint passes, and maintenance."
+    )
     wiki_index_lines.append("")
     (WIKI / "index.md").write_text("\n".join(wiki_index_lines), encoding="utf-8")
+
+
+def rebuild_reverse_indexes(rows: list[dict[str, Any]]) -> None:
+    """Emit wiki/indexes/*.jsonl reverse indexes from enriched catalog rows."""
+    INDEXES_DIR.mkdir(parents=True, exist_ok=True)
+
+    by_tag: dict[str, list[str]] = defaultdict(list)
+    by_type: dict[str, list[str]] = defaultdict(list)
+    by_source: dict[str, list[str]] = defaultdict(list)
+    by_passage: dict[str, dict[str, Any]] = {}
+
+    def passage_entry(key: str, kind: str, book_key: int | None) -> dict[str, Any]:
+        if key not in by_passage:
+            by_passage[key] = {
+                "key": key,
+                "kind": kind,
+                "book_key": book_key,
+                "pages": [],
+            }
+        return by_passage[key]
+
+    for row in rows:
+        path = str(row.get("path") or "")
+        if not path:
+            continue
+        for tag in row.get("tags") or []:
+            tag_s = str(tag).strip().lower()
+            if tag_s:
+                by_tag[tag_s].append(path)
+        type_s = str(row.get("type") or "").strip()
+        if type_s:
+            by_type[type_s].append(path)
+        for sp in row.get("source_paths") or []:
+            sp_s = normalize_source_path(str(sp))
+            if sp_s:
+                by_source[sp_s].append(path)
+        # Primary + derived refs
+        refs = list(row.get("bible_references") or [])
+        primary = row.get("bible_reference")
+        if primary:
+            refs = [str(primary)] + refs
+        seen_refs: set[str] = set()
+        for ref in refs:
+            ref_s = str(ref).strip().lower()
+            if not ref_s or ref_s in seen_refs:
+                continue
+            seen_refs.add(ref_s)
+            # Parse book key from ref
+            m = re.match(r"^([1-3]?[a-z]+)\s+(\d+)", ref_s)
+            book_key = ABBREV_TO_KEY.get(m.group(1)) if m else None
+            entry = passage_entry(ref_s, "ref", book_key)
+            if path not in entry["pages"]:
+                entry["pages"].append(path)
+            if book_key is not None:
+                book_key_s = f"book:{book_key}"
+                b_entry = passage_entry(book_key_s, "book", book_key)
+                if path not in b_entry["pages"]:
+                    b_entry["pages"].append(path)
+
+        for bk in row.get("bible_book_keys") or []:
+            try:
+                book_key = int(bk)
+            except (TypeError, ValueError):
+                continue
+            book_key_s = f"book:{book_key}"
+            b_entry = passage_entry(book_key_s, "book", book_key)
+            if path not in b_entry["pages"]:
+                b_entry["pages"].append(path)
+
+    def finalize_map(mapping: dict[str, list[str]]) -> list[dict[str, Any]]:
+        rows_out: list[dict[str, Any]] = []
+        for key in sorted(mapping):
+            pages = sorted(set(mapping[key]))
+            rows_out.append({"key": key, "pages": pages, "count": len(pages)})
+        return rows_out
+
+    write_jsonl(INDEXES_DIR / "by-tag.jsonl", finalize_map(by_tag))
+    write_jsonl(INDEXES_DIR / "by-type.jsonl", finalize_map(by_type))
+    write_jsonl(INDEXES_DIR / "by-source.jsonl", finalize_map(by_source))
+
+    passage_rows: list[dict[str, Any]] = []
+    for key in sorted(by_passage):
+        entry = by_passage[key]
+        pages = sorted(set(entry["pages"]))
+        passage_rows.append(
+            {
+                "key": entry["key"],
+                "kind": entry["kind"],
+                "book_key": entry["book_key"],
+                "pages": pages,
+                "count": len(pages),
+            }
+        )
+    write_jsonl(INDEXES_DIR / "by-passage.jsonl", passage_rows)
+
+    index_md = "\n".join(
+        [
+            "# Generated indexes",
+            "",
+            "# Contents",
+            "",
+            "* Machine-built reverse indexes regenerated by `wiki_tool.py build`.",
+            "* Do not hand-edit JSONL files in this directory.",
+            "",
+            "* [by-tag.jsonl](by-tag.jsonl) - tag → wiki pages",
+            "* [by-passage.jsonl](by-passage.jsonl) - normalized Bible ref / book → wiki pages",
+            "* [by-source.jsonl](by-source.jsonl) - source path → wiki pages",
+            "* [by-type.jsonl](by-type.jsonl) - page type → wiki pages",
+            "",
+        ]
+    )
+    (INDEXES_DIR / "index.md").write_text(index_md, encoding="utf-8")
+
+
+def catalog_is_stale() -> bool:
+    if not CATALOG.is_file():
+        return True
+    cat_mtime = CATALOG.stat().st_mtime
+    for path in iter_wiki_concepts():
+        if path.stat().st_mtime > cat_mtime:
+            return True
+    return False
+
+
+def cmd_doctor(_: argparse.Namespace) -> int:
+    errors: list[str] = []
+    warnings: list[str] = []
+
+    if sys.version_info < (3, 10):
+        errors.append(f"Python >= 3.10 required (found {sys.version.split()[0]})")
+
+    for required in (WIKI, SOURCES, RAW, SCHEMA, ROOT / "AGENTS.md"):
+        if not required.exists():
+            errors.append(f"missing required path: {rel(required) if required.is_relative_to(ROOT) else required}")
+
+    for sub in WIKI_DIR_META:
+        d = WIKI / sub
+        if not d.is_dir():
+            warnings.append(f"missing wiki subdir: wiki/{sub}")
+        index = d / "index.md"
+        if d.is_dir() and not index.is_file():
+            errors.append(f"missing index: wiki/{sub}/index.md")
+
+    concepts = iter_wiki_concepts()
+    sources = iter_source_docs()
+
+    print("Bible Vault wiki doctor")
+    print(f"  root: {ROOT}")
+    print(f"  python: {sys.version.split()[0]}")
+    print(f"  wiki concepts: {len(concepts)}")
+    print(f"  source docs (excl. index.md): {len(sources)}")
+    print(f"  catalog: {'present' if CATALOG.is_file() else 'missing'}")
+    print(f"  source-manifest: {'present' if MANIFEST.is_file() else 'missing'}")
+    print(f"  reverse indexes: {'present' if INDEXES_DIR.is_dir() else 'missing'}")
+    print(f"  qmd lint: {'present' if (ROOT / '.qmd/bin/lint-wiki').is_file() else 'missing'}")
+
+    if CATALOG.is_file():
+        rows = load_jsonl(CATALOG)
+        print(f"  catalog rows: {len(rows)}")
+        with_refs = sum(1 for r in rows if r.get("bible_references"))
+        with_sources = sum(1 for r in rows if r.get("source_paths"))
+        print(f"  catalog with bible_references: {with_refs}")
+        print(f"  catalog with source_paths: {with_sources}")
+        if catalog_is_stale():
+            warnings.append("catalog may be stale (a wiki page is newer than catalog.jsonl; run build)")
+    if INDEXES_DIR.is_dir():
+        for name in ("by-tag.jsonl", "by-passage.jsonl", "by-source.jsonl", "by-type.jsonl"):
+            p = INDEXES_DIR / name
+            if p.is_file():
+                print(f"  {name}: {len(load_jsonl(p))} rows")
+            else:
+                warnings.append(f"missing reverse index: wiki/indexes/{name}")
+    if MANIFEST.is_file():
+        rows = load_jsonl(MANIFEST)
+        covered = sum(1 for r in rows if r.get("covered_by"))
+        print(f"  manifest rows: {len(rows)} (covered: {covered})")
+
+    for warning in warnings:
+        print(f"WARN {warning}")
+    if errors:
+        for error in errors:
+            print(f"ERROR {error}")
+        print(f"{len(errors)} doctor error(s)")
+        return 1
+    print("Doctor passed")
+    return 0
 
 
 def cmd_build(_: argparse.Namespace) -> int:
@@ -342,7 +899,9 @@ def cmd_build(_: argparse.Namespace) -> int:
     rows.sort(key=lambda r: r["path"])
     write_jsonl(CATALOG, rows)
     rebuild_wiki_indexes()
+    rebuild_reverse_indexes(rows)
     print(f"Wrote {rel(CATALOG)} ({len(rows)} rows)")
+    print(f"Wrote reverse indexes under {rel(INDEXES_DIR)}")
     print("Regenerated wiki index.md files")
     if missing_fm:
         print(f"{missing_fm} file(s) skipped for missing frontmatter")
@@ -483,7 +1042,6 @@ def wiki_coverage_map() -> dict[str, list[str]]:
         meta = parse_frontmatter(text) or {}
         for source_path in resolve_source_paths_from_wiki(path, text, meta):
             coverage[source_path].append(rel(path))
-    # also include log.md? no
     return {k: sorted(set(v)) for k, v in coverage.items()}
 
 
@@ -537,7 +1095,6 @@ def cmd_source_scan(args: argparse.Namespace) -> int:
             old = prior.get(row["path"])
             if old and old.get("covered_by"):
                 row["covered_by"] = list(old["covered_by"])
-        # If first run, compute coverage anyway as helpful default? No — honor flags.
     if update and accept:
         rows = build_manifest_rows(accept_covered=True)
 
@@ -630,36 +1187,325 @@ def cmd_source_coverage(_: argparse.Namespace) -> int:
     return 0
 
 
+def tokenize_query(query: str) -> list[str]:
+    return [t for t in re.split(r"[^\w:.-]+", query.lower()) if t]
+
+
+def query_to_ref_hints(query: str) -> list[str]:
+    """Extract normalized ref / book hints from a free-text query."""
+    hints: list[str] = []
+    q = query.replace("–", "-").replace("—", "-")
+    # Display forms in the query itself
+    for ref in extract_display_refs(q):
+        hints.append(ref.lower())
+    # Abbrev forms
+    for match in ABBREV_REF.finditer(q.lower()):
+        abbrev = lookup_abbrev(match.group(1))
+        if not abbrev:
+            continue
+        chapter = int(match.group(2))
+        verse = int(match.group(3)) if match.group(3) else None
+        end = int(match.group(4)) if match.group(4) else None
+        hints.append(format_norm_ref(abbrev, chapter, verse, end))
+    # Book-name-only tokens (e.g. "matthew")
+    for token in tokenize_query(query):
+        abbrev = lookup_abbrev(token)
+        if abbrev and abbrev in ABBREV_TO_KEY:
+            hints.append(f"book:{ABBREV_TO_KEY[abbrev]}")
+            hints.append(abbrev)
+    # Dedup
+    seen: set[str] = set()
+    ordered: list[str] = []
+    for h in hints:
+        if h not in seen:
+            seen.add(h)
+            ordered.append(h)
+    return ordered
+
+
+def score_catalog_row(
+    row: dict[str, Any],
+    terms: list[str],
+    query: str,
+    ref_hints: list[str],
+    *,
+    require_tag: str | None = None,
+    require_ref: str | None = None,
+    require_source: str | None = None,
+    require_type: str | None = None,
+) -> tuple[float, list[str]] | None:
+    """Return (score, reasons) or None if filtered out / no match."""
+    reasons: list[str] = []
+    score = 0.0
+
+    title = str(row.get("title") or "")
+    title_l = title.lower()
+    path = str(row.get("path") or "")
+    path_l = path.lower()
+    desc = str(row.get("description") or "")
+    desc_l = desc.lower()
+    type_s = str(row.get("type") or "")
+    type_l = type_s.lower()
+    tags = [str(t).lower() for t in (row.get("tags") or [])]
+    aliases = [str(a).lower() for a in (row.get("aliases") or [])]
+    refs = [str(r).lower() for r in (row.get("bible_references") or [])]
+    if row.get("bible_reference"):
+        refs = [str(row["bible_reference"]).lower()] + refs
+    source_paths = [str(s).lower() for s in (row.get("source_paths") or [])]
+    book_keys = set()
+    for bk in row.get("bible_book_keys") or []:
+        try:
+            book_keys.add(int(bk))
+        except (TypeError, ValueError):
+            pass
+    if row.get("bible_book_key") is not None:
+        try:
+            book_keys.add(int(row["bible_book_key"]))
+        except (TypeError, ValueError):
+            pass
+
+    # Hard filters
+    if require_tag and require_tag.lower() not in tags:
+        return None
+    if require_type and require_type.lower() not in type_l:
+        return None
+    if require_source:
+        rs = require_source.lower()
+        if not any(rs in sp for sp in source_paths):
+            return None
+    if require_ref:
+        rr = require_ref.lower().replace("–", "-")
+        # allow book name or abbrev or partial ref
+        ref_ok = any(rr in r or r in rr for r in refs)
+        # book filter: "mt" or "matthew" or "book:40"
+        if not ref_ok:
+            abbrev = lookup_abbrev(rr) if " " not in rr else None
+            if abbrev and ABBREV_TO_KEY.get(abbrev) in book_keys:
+                ref_ok = True
+            if rr.startswith("book:"):
+                try:
+                    if int(rr.split(":", 1)[1]) in book_keys:
+                        ref_ok = True
+                except ValueError:
+                    pass
+            for hint_ref in extract_display_refs(require_ref):
+                if any(hint_ref.lower() in r or r.startswith(hint_ref.lower()) for r in refs):
+                    ref_ok = True
+            # chapter-level: "mt 6" matches "mt 6:5-15"
+            if not ref_ok:
+                for r in refs:
+                    if r.startswith(rr) or rr.startswith(r.split(":")[0]):
+                        # stronger: same book+chapter prefix
+                        if r.split(":")[0] == rr or r.startswith(rr + ":") or r.startswith(rr + " "):
+                            ref_ok = True
+                            break
+                        parts_q = rr.split()
+                        parts_r = r.split()
+                        if len(parts_q) >= 2 and len(parts_r) >= 2:
+                            if parts_q[0] == parts_r[0] and parts_q[1].split(":")[0] == parts_r[1].split(":")[0]:
+                                ref_ok = True
+                                break
+        if not ref_ok:
+            return None
+
+    # If only filters and empty query, include with base score
+    query_empty = not terms and not query.strip()
+
+    # Title
+    if query.strip() and query.strip().lower() == title_l:
+        score += 10
+        reasons.append("exact title")
+    else:
+        for t in terms:
+            if t == title_l:
+                score += 10
+                reasons.append("exact title")
+            elif t in title_l:
+                score += 5
+                reasons.append(f"title:{t}")
+
+    # Tags
+    for t in terms:
+        if t in tags:
+            score += 5
+            reasons.append(f"tag:{t}")
+        else:
+            for tag in tags:
+                if t in tag:
+                    score += 2
+                    reasons.append(f"tag-part:{tag}")
+                    break
+
+    # Aliases (frontmatter only)
+    for t in terms:
+        for alias in aliases:
+            if t == alias or t in alias:
+                score += 4
+                reasons.append(f"alias:{alias}")
+                break
+
+    # Path basename
+    base = Path(path).stem.lower()
+    for t in terms:
+        if t in base or t in path_l:
+            score += 3
+            reasons.append(f"path:{t}")
+            break
+
+    # Type token
+    for t in terms:
+        if t in type_l:
+            score += 1
+            reasons.append(f"type:{t}")
+
+    # Description (lower weight; boilerplate-heavy)
+    boilerplate = desc_l.startswith("a source-backed")
+    desc_weight = 0.5 if boilerplate else 1.0
+    for t in terms:
+        if t in desc_l:
+            score += desc_weight
+            reasons.append(f"description:{t}")
+
+    # Bible refs
+    for hint in ref_hints:
+        hint_l = hint.lower()
+        if hint_l.startswith("book:"):
+            try:
+                bk = int(hint_l.split(":", 1)[1])
+            except ValueError:
+                continue
+            if bk in book_keys:
+                score += 4
+                reasons.append(f"book:{bk}")
+            continue
+        # abbrev-only hint
+        if re.fullmatch(r"[1-3]?[a-z]{1,5}", hint_l):
+            abbrev = lookup_abbrev(hint_l)
+            if abbrev and ABBREV_TO_KEY.get(abbrev) in book_keys:
+                score += 2
+                reasons.append(f"book-abbrev:{abbrev}")
+            continue
+        for r in refs:
+            if r == hint_l:
+                score += 8
+                reasons.append(f"ref:{r}")
+                break
+            # chapter match: hint "mt 6" vs "mt 6:5-15"
+            if r.startswith(hint_l + ":") or r.startswith(hint_l):
+                score += 6
+                reasons.append(f"ref-prefix:{r}")
+                break
+            hint_chapter = hint_l.split(":")[0]
+            ref_chapter = r.split(":")[0]
+            if hint_chapter == ref_chapter:
+                score += 5
+                reasons.append(f"ref-chapter:{r}")
+                break
+
+    # Source path tokens (skip pure numbers / very short tokens — too noisy)
+    for t in terms:
+        if t.isdigit() or len(t) < 3:
+            continue
+        for sp in source_paths:
+            if t in sp:
+                score += 3
+                reasons.append(f"source:{t}")
+                break
+
+    # Status / source_count soft boosts
+    status = str(row.get("status") or "")
+    if status == "reviewed":
+        score += 1
+        reasons.append("status:reviewed")
+    elif status == "developing":
+        score += 0.5
+    try:
+        sc = int(row.get("source_count") or 0)
+    except (TypeError, ValueError):
+        sc = 0
+    if sc > 0:
+        score += min(sc, 5) * 0.2
+
+    # Filter-only mode: matched filters already applied
+    if query_empty and (
+        require_tag or require_ref or require_source or require_type
+    ):
+        if score <= 0:
+            score = 1.0
+            reasons.append("filter-match")
+        return (score, reasons)
+
+    if score <= 0 and not reasons:
+        return None
+    # Require some substantive match when there is a query
+    substantive = [
+        r
+        for r in reasons
+        if not r.startswith("status:") and r not in {"filter-match"}
+    ]
+    # source_count boost alone should not match
+    if not substantive and terms:
+        return None
+    return (score, reasons)
+
+
 def cmd_search_catalog(args: argparse.Namespace) -> int:
-    query = (args.query or "").strip().lower()
-    if not query:
-        print("ERROR --query is required")
+    query = (args.query or "").strip()
+    require_tag = getattr(args, "tag", None)
+    require_ref = getattr(args, "ref", None)
+    require_source = getattr(args, "source", None)
+    require_type = getattr(args, "type", None)
+
+    if not query and not any([require_tag, require_ref, require_source, require_type]):
+        print("ERROR provide --query and/or a filter (--tag/--ref/--source/--type)")
         return 1
     if not CATALOG.is_file():
         print(f"ERROR missing catalog: {rel(CATALOG)} (run build)")
         return 1
-    terms = [t for t in re.split(r"\s+", query) if t]
-    hits: list[tuple[int, dict[str, Any]]] = []
+
+    terms = tokenize_query(query) if query else []
+    ref_hints = query_to_ref_hints(query) if query else []
+    if require_ref:
+        ref_hints = list(dict.fromkeys(ref_hints + query_to_ref_hints(require_ref)))
+
+    hits: list[tuple[float, list[str], dict[str, Any]]] = []
     for row in load_jsonl(CATALOG):
-        blob = " ".join(
-            [
-                str(row.get("title", "")),
-                str(row.get("description", "")),
-                str(row.get("type", "")),
-                " ".join(row.get("tags") or []),
-                str(row.get("path", "")),
-            ]
-        ).lower()
-        score = sum(1 for t in terms if t in blob)
-        if score:
-            hits.append((score, row))
-    hits.sort(key=lambda item: (-item[0], item[1].get("path", "")))
+        result = score_catalog_row(
+            row,
+            terms,
+            query,
+            ref_hints,
+            require_tag=require_tag,
+            require_ref=require_ref,
+            require_source=require_source,
+            require_type=require_type,
+        )
+        if result is None:
+            continue
+        score, reasons = result
+        hits.append((score, reasons, row))
+
+    hits.sort(key=lambda item: (-item[0], item[2].get("path", "")))
     limit = args.limit or 10
-    print(f"{len(hits)} hit(s) for {query!r} (showing up to {limit})")
-    for score, row in hits[:limit]:
-        print(f"  [{score}] {row.get('path')} — {row.get('title')} ({row.get('type')})")
+    label = query if query else "(filters only)"
+    print(f"{len(hits)} hit(s) for {label!r} (showing up to {limit})")
+    for score, reasons, row in hits[:limit]:
+        # de-dupe reasons preserving order
+        seen_r: set[str] = set()
+        reason_list: list[str] = []
+        for r in reasons:
+            if r not in seen_r:
+                seen_r.add(r)
+                reason_list.append(r)
+        reason_s = ", ".join(reason_list[:8])
+        print(f"  [{score:.1f}] {row.get('path')} — {row.get('title')} ({row.get('type')})")
         if row.get("description"):
             print(f"       {row['description']}")
+        if reason_s:
+            print(f"       match: {reason_s}")
+        refs = row.get("bible_references") or []
+        if refs:
+            print(f"       refs: {', '.join(str(r) for r in refs[:6])}")
     return 0
 
 
@@ -701,7 +1547,7 @@ def build_parser() -> argparse.ArgumentParser:
     sub = parser.add_subparsers(dest="command", required=True)
 
     sub.add_parser("doctor", help="Non-mutating health check")
-    sub.add_parser("build", help="Generate catalog and wiki indexes")
+    sub.add_parser("build", help="Generate catalog, reverse indexes, and wiki indexes")
     sub.add_parser("lint", help="Validate wiki notes")
 
     scan = sub.add_parser("source-scan", help="List or update source manifest")
@@ -718,7 +1564,11 @@ def build_parser() -> argparse.ArgumentParser:
     sub.add_parser("source-coverage", help="Show wiki coverage of sources")
 
     search = sub.add_parser("search-catalog", help="Search wiki/catalog.jsonl")
-    search.add_argument("--query", required=True, help="Search text")
+    search.add_argument("--query", default="", help="Search text (optional if a filter is set)")
+    search.add_argument("--tag", default=None, help="Require this thematic tag")
+    search.add_argument("--ref", default=None, help="Require Bible ref/book match (e.g. 'mt 6' or 'Matthew')")
+    search.add_argument("--source", default=None, help="Require source path substring")
+    search.add_argument("--type", default=None, help="Require page type substring")
     search.add_argument("--limit", type=int, default=10, help="Max hits")
 
     log = sub.add_parser("log", help="Append an entry to wiki/log.md")

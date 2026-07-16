@@ -53,7 +53,10 @@ python3 .tools/scripts/wiki_tool.py source-lint
 
 ## Catalog and indexes
 
-- [ ] `wiki/catalog.jsonl` regenerated via `build`
+- [ ] `wiki/catalog.jsonl` regenerated via `build` (includes derived refs, source_paths, related_paths)
+- [ ] `wiki/indexes/{by-tag,by-passage,by-source,by-type}.jsonl` regenerated via `build`
+- [ ] `wiki/indexes/index.md` present and frontmatter-free
+- [ ] `doctor` reports catalog row counts and reverse-index sizes; no stale-catalog warning
 - [ ] Wiki folder `index.md` files regenerated or consistent with disk
 - [ ] `schema/source-manifest.jsonl` updated after intentional coverage changes
 
