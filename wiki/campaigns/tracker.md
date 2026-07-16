@@ -236,7 +236,7 @@ Every ToD psalm source file linked; every corresponding `wiki/passages/Psalm N` 
 | Volume 3 (Pss ~53–78) | reviewed | 27 | Full ToD file list + Psalm passage thickens; 0 uncovered |
 | Volume 4 (Pss ~79–103) | reviewed | 26 | Full ToD file list + Psalm passage thickens; 0 uncovered |
 | Volume 5 (Pss ~104–118) | reviewed | 16 | Full ToD file list + Psalm passage thickens; 0 uncovered |
-| Volume 6 (Pss ~119–124) | pending | 5 + Ps 119 tree | Include all `psalm-119/**` content files |
+| Volume 6 (Pss ~119–124) | reviewed | 28 | Full ToD file list + Psalm passage thickens; 0 uncovered |
 | Volume 7 (Pss ~125–150) | pending | 26 | |
 | **4.2 ToD 100%** | **pending** | **~171** | Gate: 0 uncovered under `chspurgeon-tod/` |
 

@@ -5,7 +5,7 @@ description: The deliverance of the church. (1–5). Thankfulness for the delive
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Psalm 124: The deliverance of the church. (1–5). Than
 - God suffers the enemies of his people sometimes to prevail very far against them, that his power may be seen the more in their deliverance. Happy the people whose God is Jehovah, a God all-sufficient. [[sources/commentaries_english/mhenry-concise/psalms/psalm-124#Verses 1–5|Matthew Henry Concise on Psalm 124]]
 - God is the Author of all our deliverances, and he must have the glory. The enemies lay snares for God's people, to bring them into sin and trouble, and to hold them there. [[sources/commentaries_english/mhenry-concise/psalms/psalm-124#Verses 6–8|Matthew Henry Concise on Psalm 124]]
 - David penned this psalm (we suppose) upon occasion of some great deliverance which God wrought for him and his people from some very threatening danger, which was likely to have involved them all in ruin, whether by… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-124|Matthew Henry Complete on Psalm 124]]
+- Title — A Song of degrees of David. Of course the superfine critics have pounced upon this title as inaccurate, but we are at liberty to believe as much or as little of their assertions as we may please. They declare… [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-124|Treasury of David, Psalm 124]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 124 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 6|Spurgeon Treasury of David Volume 6]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -50,6 +55,7 @@ Primary scope: Psalm 124 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-124|Matthew Henry Concise, Psalm 124]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-124|Matthew Henry Complete on Psalm 124]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-124|Treasury of David, Psalm 124]]
 
 ## Open questions
 
