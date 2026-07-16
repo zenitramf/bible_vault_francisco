@@ -95,6 +95,7 @@
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — September|Spurgeon Faith's Checkbook — September]] - Phase 4 full-calendar month source-note for Faith's Checkbook September: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Spurgeon Morning and Evening Theme Enrichment]] - Selective month-sample enrichment from Spurgeon daily devotionals for concept mesh (Phase 3.6). Not a calendar mirror.
 * [[wiki/source-notes/Spurgeon Morning and Evening — April|Spurgeon Morning and Evening — April]] - Phase 4 full-calendar month source-note for Morning and Evening April: every daily entry file listed.
+* [[wiki/source-notes/Spurgeon Morning and Evening — August|Spurgeon Morning and Evening — August]] - Phase 4 full-calendar month source-note for Morning and Evening August: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — February|Spurgeon Morning and Evening — February]] - Phase 4 full-calendar month source-note for Morning and Evening February: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — January|Spurgeon Morning and Evening — January]] - Phase 4 full-calendar month source-note for Morning and Evening January: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — July|Spurgeon Morning and Evening — July]] - Phase 4 full-calendar month source-note for Morning and Evening July: every daily entry file listed.
