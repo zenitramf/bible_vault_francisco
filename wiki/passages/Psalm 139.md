@@ -5,7 +5,7 @@ description: God knows all things. (1–6). He is every where present. (7–16).
 tags: [prayer, worship, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Psalm 139: God knows all things. (1–6). He is every w
 - We cannot see God, but he can see us. The psalmist did not desire to go from the Lord. [[sources/commentaries_english/mhenry-concise/psalms/psalm-139#Verses 7–16|Matthew Henry Concise on Psalm 139]]
 - God's counsels concerning us and our welfare are deep, such as cannot be known. We cannot think how many mercies we have received from him. [[sources/commentaries_english/mhenry-concise/psalms/psalm-139#Verses 17–24|Matthew Henry Concise on Psalm 139]]
 - Some of the Jewish doctors are of opinion that this is the most excellent of all the psalms of David; and a very pious devout meditation it is upon the doctrine of God's omniscience, which we should therefore have our… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-139|Matthew Henry Complete on Psalm 139]]
+- One of the most notable of the sacred hymns. It sings the omniscience and omnipresence of God, inferring from these the overthrow of the powers of wickedness, since he who sees and hears the abominable deeds and words… [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-139|Treasury of David, Psalm 139]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -34,6 +37,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 139 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 7|Spurgeon Treasury of David Volume 7]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -51,6 +56,7 @@ Primary scope: Psalm 139 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-139|Matthew Henry Concise, Psalm 139]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-139|Matthew Henry Complete on Psalm 139]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-139|Treasury of David, Psalm 139]]
 
 ## Open questions
 

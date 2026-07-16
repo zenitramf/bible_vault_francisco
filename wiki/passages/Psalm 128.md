@@ -5,7 +5,7 @@ description: The blessings of those who fear God. (1-6).
 tags: [prayer, worship, faith, holiness, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 128: The blessings of those who fear God. (1-6).
 
 - Only those who are truly holy, are truly happy. In vain do we pretend to be of those that fear God, if we do not make conscience of keeping stedfastly to his ways. [[sources/commentaries_english/mhenry-concise/psalms/psalm-128#Verses 1-6|Matthew Henry Concise on Psalm 128]]
 - This, as the former, is a psalm for families. In that we were taught that the prosperity of our families depends upon the blessing of God; in this we are taught that the only way to obtain that blessing which will make… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-128|Matthew Henry Complete on Psalm 128]]
+- Title — A Song of Degrees. There is an evident ascent from the last Psalm: that did but hint at the way in which a house may be built up, but this draws a picture of that house built, and adorned with domestic bliss… [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-128|Treasury of David, Psalm 128]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 128 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 7|Spurgeon Treasury of David Volume 7]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -49,6 +54,7 @@ Primary scope: Psalm 128 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-128|Matthew Henry Concise, Psalm 128]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-128|Matthew Henry Complete on Psalm 128]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-128|Treasury of David, Psalm 128]]
 
 ## Open questions
 
