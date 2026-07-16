@@ -5,7 +5,7 @@ description: The dispute raised by Judaizing teachers. (1–6). The council at J
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Acts 15: The dispute raised by Judaizing teachers. (1�
 - We see from the words “purifying their hearts by faith,” and the address of St. Peter, that justification by faith, and sanctification by the Holy Ghost, cannot be separated; and that both are the gift of God. [[sources/commentaries_english/mhenry-concise/acts/chapter-15#Verses 7–21|Matthew Henry Concise on Acts 15]]
 - Being warranted to declare themselves directed by the immediate influence of the Holy Ghost, the apostles and disciples were assured that it seemed good unto God the Holy Spirit, as well as to them, to lay upon the converts no other burden than the things before mentioned, which were necessary, either on their own a… [[sources/commentaries_english/mhenry-concise/acts/chapter-15#Verses 22–35|Matthew Henry Concise on Acts 15]]
 - Here we have a private quarrel between two ministers, no less than Paul and Barnabas, yet made to end well. Barnabas wished his nephew John Mark to go with them. [[sources/commentaries_english/mhenry-concise/acts/chapter-15#Verses 36–41|Matthew Henry Concise on Acts 15]]
+- Hitherto we have, with a great deal of pleasure, attended the apostles in their glorious travels for the propagating of the gospel in foreign parts, have seen the bounds of the church enlarged by the accession both of… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-15|Matthew Henry Complete on Acts 15]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 15 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -43,6 +48,7 @@ Primary scope: Acts 15 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-15|Matthew Henry Concise, Acts 15]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-15|Matthew Henry Complete on Acts 15]]
 
 ## Open questions
 

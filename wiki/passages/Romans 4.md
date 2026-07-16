@@ -5,7 +5,7 @@ description: Abraham justified by faith apart from works; the same way of believ
 tags: [faith, salvation, covenant, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -21,8 +21,11 @@ Henry Concise treats Romans 4 as the Abraham case study: even the Jews’ greate
 - Abraham, however exalted, had nothing to boast before God, being saved by grace through faith as others are. [[sources/commentaries_english/mhenry-concise/romans/chapter-4#Verses 1–12|Matthew Henry Concise on Romans 4]]
 - The promise was made to Abraham long before the law; it points at Christ and refers to the earlier promise of blessing. [[sources/commentaries_english/mhenry-concise/romans/chapter-4#Verses 13–22|Matthew Henry Concise on Romans 4]]
 - Abraham’s history was recorded to teach later ages that we are not justified by the merit of our own works, but by faith in Jesus Christ and his righteousness. [[sources/commentaries_english/mhenry-concise/romans/chapter-4#Verses 23–25|Matthew Henry Concise on Romans 4]]
+- The great gospel doctrine of justification by faith without the works of the law was so very contrary to the notions the Jews had learnt from those that sat in Moses' chair, that it would hardly go down with them; and… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-4|Matthew Henry Complete on Romans 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justification|Justification]]
@@ -44,6 +49,7 @@ Primary scope: Romans 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-4|Matthew Henry Concise, Romans 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-4|Matthew Henry Complete on Romans 4]]
 
 ## Open questions
 

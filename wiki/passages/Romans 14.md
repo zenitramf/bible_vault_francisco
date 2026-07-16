@@ -5,7 +5,7 @@ description: Weak and strong; no judging or despising; faith and peace in indiff
 tags: [church, discipleship, christian-life, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -22,8 +22,11 @@ Romans 14 in Henry Concise addresses differences over indifferent matters: the w
 - None who belongs to Christ is allowedly a self-seeker; all live and die to the Lord. [[sources/commentaries_english/mhenry-concise/romans/chapter-14#Verses 7–13|Matthew Henry Concise on Romans 14]]
 - Christ deals gently with the weak in grace; drawing a soul to sin by liberty threatens that soul’s destruction. [[sources/commentaries_english/mhenry-concise/romans/chapter-14#Verses 14–18|Matthew Henry Concise on Romans 14]]
 - Meekness, humility, self-denial, and love make for peace; many talk of peace without following what makes for peace. [[sources/commentaries_english/mhenry-concise/romans/chapter-14#Verses 19–23|Matthew Henry Concise on Romans 14]]
+- The apostle having, in the former chapter, directed our conduct one towards another in civil things, and prescribed the sacred laws of justice, peaceableness, and order, to be observed by us as members of the… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-14|Matthew Henry Complete on Romans 14]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 14 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -44,6 +49,7 @@ Primary scope: Romans 14 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-14|Matthew Henry Concise, Romans 14]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-14|Matthew Henry Complete on Romans 14]]
 
 ## Open questions
 

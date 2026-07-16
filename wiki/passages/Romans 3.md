@@ -5,7 +5,7 @@ description: Universal guilt; justification freely by grace through faith in Chr
 tags: [salvation, faith, redemption, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -24,8 +24,11 @@ Romans 3 in Henry Concise seals universal guilt under sin’s burden and dominio
 - Guilty sinners are justified freely by God’s grace through the redemption that is in Christ Jesus, set forth as a propitiation through faith in his blood. [[sources/commentaries_english/mhenry-concise/romans/chapter-3#Verses 21–26|Matthew Henry Concise on Romans 3]]
 - God carries justification and salvation so as to shut out boasting; if saved by works, boasting would not be excluded. [[sources/commentaries_english/mhenry-concise/romans/chapter-3#Verses 27–31|Matthew Henry Concise on Romans 3]]
 - Free grace through faith does not abolish the law; the law is established in its proper place rather than made a ladder of self-justification. [[sources/commentaries_english/mhenry-concise/romans/chapter-3#Verses 21–26|Matthew Henry Concise on Romans 3]]
+- The apostle, in this chapter, carries on his discourse concerning justification. He had already proved the guilt both of Gentiles and Jews. Now in this chapter, I. He answers some objections that might be made against… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-3|Matthew Henry Complete on Romans 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -34,6 +37,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Justification|Justification]]
@@ -47,6 +52,7 @@ Primary scope: Romans 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-3|Matthew Henry Concise, Romans 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-3|Matthew Henry Complete on Romans 3]]
 
 ## Open questions
 

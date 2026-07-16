@@ -5,7 +5,7 @@ description: The apostle's hope and desire of heavenly glory. (1–8). This exci
 tags: [pastoral-ministry, christ, christian-life, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 47
 bible_book_name: "2 Corinthians"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Corinthians 5: The apostle's hope and desire of heave
 - The believer not only is well assured by faith that there is another and a happy life after this is ended, but he has good hope, through grace, of heaven as a dwelling-place, a resting-place, a hiding-place. In our Father's house there are many mansions, whose Builder and Maker is God. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-5#Verses 1–8|Matthew Henry Concise on 2 Corinthians 5]]
 - The apostle quickens himself and others to acts of duty. Well-grounded hopes of heaven will not encourage sloth and sinful security. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-5#Verses 9–15|Matthew Henry Concise on 2 Corinthians 5]]
 - The renewed man acts upon new principles, by new rules, with new ends, and in new company. The believer is created anew; his heart is not merely set right, but a new heart is given him. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-5#Verses 16–21|Matthew Henry Concise on 2 Corinthians 5]]
+- The apostle proceeds in showing the reasons why they did not faint under their afflictions, namely, their expectation, desire, and assurance of happiness after death (2Co 5:1-5), and deduces an inference for the… [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-5|Matthew Henry Complete on 2 Corinthians 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Corinthians 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Christ|Christ]]
@@ -42,6 +47,7 @@ Primary scope: 2 Corinthians 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-5|Matthew Henry Concise, 2 Corinthians 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-5|Matthew Henry Complete on 2 Corinthians 5]]
 
 ## Open questions
 

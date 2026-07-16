@@ -5,7 +5,7 @@ description: The apostle blesses God for his special benefits through Christ. (1
 tags: [holiness, christian-life, christ, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 60
 bible_book_name: "1 Peter"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on 1 Peter 1: The apostle blesses God for his special bene
 - Jesus Christ was the main subject of the prophets' studies. Their inquiry into the sufferings of Christ and the glories that should follow, would lead to a view of the whole gospel, the sum whereof is, That Christ Jesus was delivered for our offences, and raised again for our justification. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-1#Verses 10–12|Matthew Henry Concise on 1 Peter 1]]
 - As the traveller, the racer, the warrior, and the labourer, gathered in their long and loose garments, that they might be ready in their business, so let Christians do by their minds and affections. Be sober, be watchful against all spiritual dangers and enemies, and be temperate in all behaviour. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-1#Verses 13–16|Matthew Henry Concise on 1 Peter 1]]
 - Holy confidence in God as a Father, and awful fear of him as a Judge, agree together; and to regard God always as a Judge, makes him dear to us as a Father. If believers do evil, God will visit them with corrections. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-1#Verses 17–25|Matthew Henry Concise on 1 Peter 1]]
+- The apostle describes the persons to whom he writes, and salutes them (1Pe 1:1,2), blesses God for their regeneration to a lively hope of eternal salvation (1Pe 1:3-5), in the hope of this salvation he shows they had… [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-1|Matthew Henry Complete on 1 Peter 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Peter 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Christ|Christ]]
@@ -43,6 +48,7 @@ Primary scope: 1 Peter 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-peter/chapter-1|Matthew Henry Concise, 1 Peter 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-1|Matthew Henry Complete on 1 Peter 1]]
 
 ## Open questions
 

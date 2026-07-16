@@ -5,7 +5,7 @@ description: The apostle exhorts to be always ready for the coming of Christ to 
 tags: [church, salvation, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 52
 bible_book_name: "1 Thessalonians"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on 1 Thessalonians 5: The apostle exhorts to be always rea
 - The ministers of the gospel are described by the work of their office, which is to serve and honour the Lord. It is their duty not only to give good counsel, but also to warn the flock of dangers, and reprove for whatever may be amiss. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-5#Verses 12–15|Matthew Henry Concise on 1 Thessalonians 5]]
 - We are to rejoice in creature-comforts, as if we rejoiced not, and must not expect to live many years, and rejoice in them all; but if we do rejoice in God, we may do that evermore. A truly religious life is a life of constant joy. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-5#Verses 16–22|Matthew Henry Concise on 1 Thessalonians 5]]
 - The apostle prays that they might be sanctified more perfectly, for the best are sanctified but in part while in this world; therefore we should pray for, and press toward, complete holiness. And as we must fall, if God did not carry on his good work in the soul, we should pray to God to perfect his work, till we ar… [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-5#Verses 23–28|Matthew Henry Concise on 1 Thessalonians 5]]
+- The apostle, having spoken in the end of the foregoing chapter concerning the resurrection, and the second coming of Christ, proceeds to speak concerning the uselessness of enquiring after the particular time of… [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-5|Matthew Henry Complete on 1 Thessalonians 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Thessalonians 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -43,6 +48,7 @@ Primary scope: 1 Thessalonians 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-5|Matthew Henry Concise, 1 Thessalonians 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-5|Matthew Henry Complete on 1 Thessalonians 5]]
 
 ## Open questions
 

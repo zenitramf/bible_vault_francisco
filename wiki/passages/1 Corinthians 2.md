@@ -5,7 +5,7 @@ description: The plain manner in which the apostle preached Christ crucified. (1
 tags: [church, holiness, christ, christian-life]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Corinthians 2: The plain manner in which the apostle 
 - Christ, in his person, and offices, and sufferings, is the sum and substance of the gospel, and ought to be the great subject of a gospel minister's preaching, but not so as to leave out other parts of God's revealed truth and will. Paul preached the whole counsel of God. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-2#Verses 1–5|Matthew Henry Concise on 1 Corinthians 2]]
 - Those who receive the doctrine of Christ as Divine, and, having been enlightened by the Holy Spirit, have looked well into it, see not only the plain history of Christ, and him crucified, but the deep and admirable designs of Divine wisdom therein. It is the mystery made manifest to the saints, Col 1:26, though form… [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-2#Verses 6–9|Matthew Henry Concise on 1 Corinthians 2]]
 - God has revealed true wisdom to us by his Spirit. Here is a proof of the Divine authority of the Holy Scriptures, 2Pe 1:21. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-2#Verses 10–16|Matthew Henry Concise on 1 Corinthians 2]]
+- The apostle proceeds with his argument in this chapter, and, I. Reminds the Corinthians of the plain manner wherein he delivered the gospel to them, 1Co 2:1-5. But yet, II. Shows them that he had communicated to them a… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-2|Matthew Henry Complete on 1 Corinthians 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Corinthians 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -42,6 +47,7 @@ Primary scope: 1 Corinthians 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-2|Matthew Henry Concise, 1 Corinthians 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-2|Matthew Henry Complete on 1 Corinthians 2]]
 
 ## Open questions
 

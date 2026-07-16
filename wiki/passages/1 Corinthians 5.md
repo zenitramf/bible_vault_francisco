@@ -5,7 +5,7 @@ description: The apostle blames the Corinthians for connivance at an incestuous 
 tags: [church, holiness, christ, christian-life]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 1 Corinthians 5: The apostle blames the Corinthians for
 
 - The apostle notices a flagrant abuse, winked at by the Corinthians. Party spirit, and a false notion of Christian liberty, seem to have saved the offender from censure. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-5#Verses 1–8|Matthew Henry Concise on 1 Corinthians 5]]
 - Christians are to avoid familiar converse with all who disgrace the Christian name. Such are only fit companions for their brethren in sin, and to such company they should be left, whenever it is possible to do so. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-5#Verses 9–13|Matthew Henry Concise on 1 Corinthians 5]]
+- In this chapter the apostle, I. Blames them for their indulgence in the case of the incestuous person, and orders him to be excommunicated, and delivered to Satan, 1Co 5:1-6. II. He exhorts them to Christian purity, by… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-5|Matthew Henry Complete on 1 Corinthians 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Corinthians 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -41,6 +46,7 @@ Primary scope: 1 Corinthians 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-5|Matthew Henry Concise, 1 Corinthians 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-5|Matthew Henry Complete on 1 Corinthians 5]]
 
 ## Open questions
 

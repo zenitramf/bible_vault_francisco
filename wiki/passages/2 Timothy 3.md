@@ -5,7 +5,7 @@ description: The apostle foretells the rise of dangerous enemies to the gospel. 
 tags: [pastoral-ministry, discipleship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 55
 bible_book_name: "2 Timothy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Timothy 3: The apostle foretells the rise of dangerou
 - Even in gospel times there would be perilous times; on account of persecution from without, still more on account of corruptions within. Men love to gratify their own lusts, more than to please God and do their duty. [[sources/commentaries_english/mhenry-concise/2-timothy/chapter-3#Verses 1–9|Matthew Henry Concise on 2 Timothy 3]]
 - The more fully we know the doctrine of Christ, as taught by the apostles, the more closely we shall cleave to it. When we know the afflictions of believers only in part, they tempt us to decline the cause for which they suffer. [[sources/commentaries_english/mhenry-concise/2-timothy/chapter-3#Verses 10–13|Matthew Henry Concise on 2 Timothy 3]]
 - Those who would learn the things of God, and be assured of them, must know the Holy Scriptures, for they are the Divine revelation. The age of children is the age to learn; and those who would get true learning, must get it out of the Scriptures. [[sources/commentaries_english/mhenry-concise/2-timothy/chapter-3#Verses 14–17|Matthew Henry Concise on 2 Timothy 3]]
+- I\. The apostle forewarns Timothy what the last days would be, with the reasons thereof, 2Ti 3:1-9. II. Prescribes various remedies against them (2Ti 3:10-17), particularly his own example ("But thou hast fully known… [[sources/commentaries_english/mhenry-complete/volume-6/2-timothy/chapter-3|Matthew Henry Complete on 2 Timothy 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Timothy 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -42,6 +47,7 @@ Primary scope: 2 Timothy 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-timothy/chapter-3|Matthew Henry Concise, 2 Timothy 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/2-timothy/chapter-3|Matthew Henry Complete on 2 Timothy 3]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The apostle answers several questions about marriage. (1–9). Marr
 tags: [church, holiness, christ, christian-life]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on 1 Corinthians 7: The apostle answers several questions 
 - The rules of Christianity reach every condition; and in every state a man may live so as to be a credit to it. It is the duty of every Christian to be content with his lot, and to conduct himself in his rank and place as becomes a Christian. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-7#Verses 17–24|Matthew Henry Concise on 1 Corinthians 7]]
 - Considering the distress of those times, the unmarried state was best. Notwithstanding, the apostle does not condemn marriage. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-7#Verses 25–35|Matthew Henry Concise on 1 Corinthians 7]]
 - The apostle is thought to give advice here about the disposal of children in marriage. In this view, the general meaning is plain. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-7#Verses 36–40|Matthew Henry Concise on 1 Corinthians 7]]
+- In this chapter the apostle answers some cases proposed to him by the Corinthians about marriage. He, I. Shows them that marriage was appointed as a remedy against fornication, and therefore that persons had better… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-7|Matthew Henry Complete on 1 Corinthians 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Corinthians 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: 1 Corinthians 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-7|Matthew Henry Concise, 1 Corinthians 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-7|Matthew Henry Complete on 1 Corinthians 7]]
 
 ## Open questions
 

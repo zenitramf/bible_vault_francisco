@@ -5,7 +5,7 @@ description: Paul kindly received at Melita. (1–10). He arrives at Rome. (11�
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Acts 28: Paul kindly received at Melita. (1–10). He a
 - The common events of travelling are seldom worthy of being told; but the comfort of communion with the saints, and kindness shown by friends, deserve particular mention. The Christians at Rome were so far from being ashamed of Paul, or afraid of owning him, because he was a prisoner, that they were the more careful … [[sources/commentaries_english/mhenry-concise/acts/chapter-28#Verses 11–16|Matthew Henry Concise on Acts 28]]
 - It was for the honour of Paul that those who examined his case, acquitted him. In his appeal he sought not to accuse his nation, but only to clear himself. [[sources/commentaries_english/mhenry-concise/acts/chapter-28#Verses 17–22|Matthew Henry Concise on Acts 28]]
 - Paul persuaded the Jews concerning Jesus. Some were wrought upon by the word, and others hardened; some received the light, and others shut their eyes against it. [[sources/commentaries_english/mhenry-concise/acts/chapter-28#Verses 23–31|Matthew Henry Concise on Acts 28]]
+- We are the more concerned to take notice of and to improve what is here recorded concerning blessed Paul because, after the story of this chapter, we hear no more of him in the sacred history, though we have a great… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-28|Matthew Henry Complete on Acts 28]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 28 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -42,6 +47,7 @@ Primary scope: Acts 28 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-28|Matthew Henry Concise, Acts 28]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-28|Matthew Henry Complete on Acts 28]]
 
 ## Open questions
 

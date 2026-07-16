@@ -5,7 +5,7 @@ description: An earnest exhortation to stand fast in the liberty of the gospel. 
 tags: [faith, salvation, christ, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 48
 bible_book_name: "Galatians"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Galatians 5: An earnest exhortation to stand fast in th
 - The life of a Christian is a race, wherein he must run, and hold on, if he would obtain the prize. It is not enough that we profess Christianity, but we must run well, by living up to that profession. [[sources/commentaries_english/mhenry-concise/galatians/chapter-5#Verses 7–12|Matthew Henry Concise on Galatians 5]]
 - The gospel is a doctrine according to godliness, 1Ti 6:3, and is so far from giving the least countenance to sin, that it lays us under the strongest obligation to avoid and subdue it. The apostle urges that all the law is fulfilled in one word, even in this, Thou shalt love thy neighbour as thyself. [[sources/commentaries_english/mhenry-concise/galatians/chapter-5#Verses 13–15|Matthew Henry Concise on Galatians 5]]
 - If it be our care to act under the guidance and power of the blessed Spirit, though we may not be freed from the stirrings and oppositions of the corrupt nature which remains in us, it shall not have dominion over us. Believers are engaged in a conflict, in which they earnestly desire that grace may obtain full and … [[sources/commentaries_english/mhenry-concise/galatians/chapter-5#Verses 16–26|Matthew Henry Concise on Galatians 5]]
+- In this chapter the apostle comes to make application of his foregoing discourse. He begins it with a general caution, or exhortation (Ga 5:1), which he afterwards enforces by several considerations, Ga 5:2-12. He then… [[sources/commentaries_english/mhenry-complete/volume-6/galatians/chapter-5|Matthew Henry Complete on Galatians 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Galatians 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -44,6 +49,7 @@ Primary scope: Galatians 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/galatians/chapter-5|Matthew Henry Concise, Galatians 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/galatians/chapter-5|Matthew Henry Complete on Galatians 5]]
 
 ## Open questions
 

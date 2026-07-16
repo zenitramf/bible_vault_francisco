@@ -5,7 +5,7 @@ description: The insufficiency of sacrifices for taking away sin, The necessity 
 tags: [christ, faith, covenant, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 58
 bible_book_name: "Hebrews"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Hebrews 10: The insufficiency of sacrifices for taking 
 - The apostle having closed the first part of the epistle, the doctrine is applied to practical purposes. As believers had an open way to the presence of God, it became them to use this privilege. [[sources/commentaries_english/mhenry-concise/hebrews/chapter-10#Verses 19–25|Matthew Henry Concise on Hebrews 10]]
 - The exhortations against apostacy and to perseverance, are urged by many strong reasons. The sin here mentioned is a total and final falling away, when men, with a full and fixed will and resolution, despise and reject Christ, the only Saviour; despise and resist the Spirit, the only Sanctifier; and despise and reno… [[sources/commentaries_english/mhenry-concise/hebrews/chapter-10#Verses 26–31|Matthew Henry Concise on Hebrews 10]]
 - Many and various afflictions united against the early Christians, and they had a great conflict. The Christian spirit is not a selfish spirit; it puts us upon pitying others, visiting them, helping them, and pleading for them. [[sources/commentaries_english/mhenry-concise/hebrews/chapter-10#Verses 32–39|Matthew Henry Concise on Hebrews 10]]
+- The apostle knew very well that the Hebrews, to whom he wrote, were strangely fond of the Levitical dispensation, and therefore he fills his mouth with arguments to wean them from it; and in order thereto proceeds in… [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-10|Matthew Henry Complete on Hebrews 10]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Hebrews 10 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -45,6 +50,7 @@ Primary scope: Hebrews 10 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/hebrews/chapter-10|Matthew Henry Concise, Hebrews 10]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-10|Matthew Henry Complete on Hebrews 10]]
 
 ## Open questions
 

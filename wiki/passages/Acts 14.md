@@ -5,7 +5,7 @@ description: Paul and Barnabas at Iconium. (1–7). A cripple healed at Lystra, 
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Acts 14: Paul and Barnabas at Iconium. (1–7). A cripp
 - The apostles spake so plainly, with such evidence and proof of the Spirit, and with such power; so warmly, and with such concern for the souls of men; that those who heard them could not but say, God was with them of a truth. Yet the success was not to be reckoned to the manner of their preaching, but to the Spirit … [[sources/commentaries_english/mhenry-concise/acts/chapter-14#Verses 1–7|Matthew Henry Concise on Acts 14]]
 - All things are possible to those that believe. When we have faith, that most precious gift of God, we shall be delivered from the spiritual helplessness in which we were born, and from the dominion of sinful habits since formed; we shall be made able to stand upright and walk cheerfully in the ways of the Lord. [[sources/commentaries_english/mhenry-concise/acts/chapter-14#Verses 8–18|Matthew Henry Concise on Acts 14]]
 - See how restless the rage of the Jews was against the gospel of Christ. The people stoned Paul, in a popular tumult. [[sources/commentaries_english/mhenry-concise/acts/chapter-14#Verses 19–28|Matthew Henry Concise on Acts 14]]
+- We have, in this chapter, a further account of the progress of the gospel, by the ministry of Paul and Barnabas among the Gentiles; it goes on conquering and to conquer, yet meeting with opposition, as before, among… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-14|Matthew Henry Complete on Acts 14]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 14 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -42,6 +47,7 @@ Primary scope: Acts 14 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-14|Matthew Henry Concise, Acts 14]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-14|Matthew Henry Complete on Acts 14]]
 
 ## Open questions
 

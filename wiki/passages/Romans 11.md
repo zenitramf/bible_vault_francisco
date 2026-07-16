@@ -5,7 +5,7 @@ description: Remnant by grace; Gentile inclusion; warning against pride; depth o
 tags: [salvation, covenant, church, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -22,8 +22,11 @@ Henry Concise on Romans 11 holds that Israel’s rejection is not total: a remna
 - Jewish unbelief became the occasion for large Gentile reconciliation; future receiving of the Jews would mean even greater blessing. [[sources/commentaries_english/mhenry-concise/romans/chapter-11#Verses 11–21|Matthew Henry Concise on Romans 11]]
 - Gentiles must not be high-minded but fear; spiritual judgments are severe, and boasting against natural branches is forbidden. [[sources/commentaries_english/mhenry-concise/romans/chapter-11#Verses 22–32|Matthew Henry Concise on Romans 11]]
 - Even Paul sits down to adore the depth of God’s wisdom and knowledge; those who know most still feel their weakness most. [[sources/commentaries_english/mhenry-concise/romans/chapter-11#Verses 33–36|Matthew Henry Concise on Romans 11]]
+- The apostle, having reconciled that great truth of the rejection of the Jews with the promise made unto the fathers, is, in this chapter, further labouring to mollify the harshness of it, and to reconcile it to the… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-11|Matthew Henry Complete on Romans 11]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 11 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Romans 11 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-11|Matthew Henry Concise, Romans 11]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-11|Matthew Henry Complete on Romans 11]]
 
 ## Open questions
 

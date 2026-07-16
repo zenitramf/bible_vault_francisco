@@ -5,7 +5,7 @@ description: Exhortation to brotherly love. (1, 2). Cautions against several sin
 tags: [church, salvation, christ, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 49
 bible_book_name: "Ephesians"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Ephesians 5: Exhortation to brotherly love. (1, 2). Cau
 - Filthy lusts must be rooted out. These sins must be dreaded and detested. [[sources/commentaries_english/mhenry-concise/ephesians/chapter-5#Verses 3–14|Matthew Henry Concise on Ephesians 5]]
 - Another remedy against sin, is care, or caution, it being impossible else to maintain purity of heart and life. Time is a talent given us by God, and it is misspent and lost when not employed according to his design. [[sources/commentaries_english/mhenry-concise/ephesians/chapter-5#Verses 15–21|Matthew Henry Concise on Ephesians 5]]
 - The duty of wives is, submission to their husbands in the Lord, which includes honouring and obeying them, from a principle of love to them. The duty of husbands is to love their wives. [[sources/commentaries_english/mhenry-concise/ephesians/chapter-5#Verses 22–33|Matthew Henry Concise on Ephesians 5]]
+- We had several important exhortations in the close of the foregoing chapter, and they are continued in this: particularly, I. We have here an exhortation to mutual love and charity, Eph 5:1,2. II. Against all manner of… [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-5|Matthew Henry Complete on Ephesians 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ephesians 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -45,6 +50,7 @@ Primary scope: Ephesians 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ephesians/chapter-5|Matthew Henry Concise, Ephesians 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-5|Matthew Henry Complete on Ephesians 5]]
 
 ## Open questions
 

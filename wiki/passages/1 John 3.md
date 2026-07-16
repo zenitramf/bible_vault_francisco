@@ -5,7 +5,7 @@ description: The apostle admires the love of God in making believers his childre
 tags: [christian-life, christ, holiness, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 62
 bible_book_name: "1 John"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on 1 John 3: The apostle admires the love of God in making
 - We should love the Lord Jesus, value his love, and therefore love all our brethren in Christ. This love is the special fruit of our faith, and a certain sign of our being born again. [[sources/commentaries_english/mhenry-concise/1-john/chapter-3#Verses 11–15|Matthew Henry Concise on 1 John 3]]
 - Here is the condescension, the miracle, the mystery of Divine love, that God would redeem the church with his own blood. Surely we should love those whom God has loved, and so loved. [[sources/commentaries_english/mhenry-concise/1-john/chapter-3#Verses 16–21|Matthew Henry Concise on 1 John 3]]
 - When believers had confidence towards God, through the Spirit of adoption, and by faith in the great High Priest, they might ask what they would of their reconciled Father. They would receive it, if good for them. [[sources/commentaries_english/mhenry-concise/1-john/chapter-3#Verses 22–24|Matthew Henry Concise on 1 John 3]]
+- The apostle here magnifies the love of God in our adoption, 1Jo 3:1,2. He thereupon argues for holiness (1Jo 3:3), and against sin, 1Jo 3:4-19. He presses brotherly love, 1Jo 3:11-18. How to assure our hearts before… [[sources/commentaries_english/mhenry-complete/volume-6/1-john/chapter-3|Matthew Henry Complete on 1 John 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 John 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: 1 John 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-john/chapter-3|Matthew Henry Concise, 1 John 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-john/chapter-3|Matthew Henry Complete on 1 John 3]]
 
 ## Open questions
 

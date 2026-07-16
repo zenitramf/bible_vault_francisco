@@ -5,7 +5,7 @@ description: The duties of children and parents. (1–4). Of servants and master
 tags: [church, salvation, christ, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 49
 bible_book_name: "Ephesians"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Ephesians 6: The duties of children and parents. (1–4
 - The duty of servants is summed up in one word, obedience. The servants of old were generally slaves. [[sources/commentaries_english/mhenry-concise/ephesians/chapter-6#Verses 5–9|Matthew Henry Concise on Ephesians 6]]
 - Spiritual strength and courage are needed for our spiritual warfare and suffering. Those who would prove themselves to have true grace, must aim at all grace; and put on the whole armour of God, which he prepares and bestows. [[sources/commentaries_english/mhenry-concise/ephesians/chapter-6#Verses 10–18|Matthew Henry Concise on Ephesians 6]]
 - The gospel was a mystery till made known by Divine revelation; and it is the work of Christ's ministers to declare it. The best and most eminent ministers need the prayers of believers. [[sources/commentaries_english/mhenry-concise/ephesians/chapter-6#Verses 19–24|Matthew Henry Concise on Ephesians 6]]
+- In this chapter, I. The apostle proceeds in the exhortation to relative duties which he began in the former, particularly he insists on the duties of children and parents, and of servants and masters, Eph 6:1-9. II. He… [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-6|Matthew Henry Complete on Ephesians 6]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ephesians 6 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -44,6 +49,7 @@ Primary scope: Ephesians 6 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ephesians/chapter-6|Matthew Henry Concise, Ephesians 6]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-6|Matthew Henry Complete on Ephesians 6]]
 
 ## Open questions
 

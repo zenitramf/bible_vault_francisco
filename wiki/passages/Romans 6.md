@@ -5,7 +5,7 @@ description: Dead to sin, alive to God; baptism and union with Christ; wages of 
 tags: [holiness, salvation, discipleship, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -23,8 +23,11 @@ Henry Concise presses that free grace does not license sin: justification and ho
 - Believers made free from sin’s reign and alive unto God must not let sin reign in mortal bodies but yield themselves to God. [[sources/commentaries_english/mhenry-concise/romans/chapter-6#Verses 11–15|Matthew Henry Concise on Romans 6]]
 - Everyone is servant of the master to whom he yields; obedience from the heart to gospel teaching marks the new service. [[sources/commentaries_english/mhenry-concise/romans/chapter-6#Verses 16–20|Matthew Henry Concise on Romans 6]]
 - Sin’s end is death; holiness issues in everlasting life. The gift of God is eternal life through Jesus Christ our Lord. [[sources/commentaries_english/mhenry-concise/romans/chapter-6#Verses 21–23|Matthew Henry Concise on Romans 6]]
+- The apostle having at large asserted, opened, and proved, the great doctrine of justification by faith, for fear lest any should suck poison out of that sweet flower, and turn that grace of God into wantonness and… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-6|Matthew Henry Complete on Romans 6]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 6 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Surrender|Surrender]]
@@ -47,6 +52,7 @@ Primary scope: Romans 6 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-6|Matthew Henry Concise, Romans 6]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-6|Matthew Henry Complete on Romans 6]]
 
 ## Open questions
 

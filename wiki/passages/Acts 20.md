@@ -5,7 +5,7 @@ description: Paul's journeys. (1–6). Eutychus restored to life. (7–12). Paul
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Acts 20: Paul's journeys. (1–6). Eutychus restored to
 - Paul hastened to Jerusalem, but tried to do good by the way, when going from place to place, as every good man should do. In doing God's work, our own wills and those of our friends must often be crossed; we must not spend time with them when duty calls us another way. [[sources/commentaries_english/mhenry-concise/acts/chapter-20#Verses 13–16|Matthew Henry Concise on Acts 20]]
 - The elders knew that Paul was no designing, self-seeking man. Those who would in any office serve the Lord acceptably, and profitably to others, must do it with humility. [[sources/commentaries_english/mhenry-concise/acts/chapter-20#Verses 17–27|Matthew Henry Concise on Acts 20]]
 - If the Holy Ghost has made ministers overseers of the flock, that is, shepherds, they must be true to their trust. Let them consider their Master's concern for the flock committed to their charge. [[sources/commentaries_english/mhenry-concise/acts/chapter-20#Verses 28–38|Matthew Henry Concise on Acts 20]]
+- In this chapter we have, I. Paul's travels up and down about Macedonia, Greece, and Asia, and his coming at length to Troas, Ac 20:1-6. II. A particular account of his spending one Lord's day at Troas, and his raising… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-20|Matthew Henry Complete on Acts 20]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 20 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -44,6 +49,7 @@ Primary scope: Acts 20 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-20|Matthew Henry Concise, Acts 20]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-20|Matthew Henry Complete on Acts 20]]
 
 ## Open questions
 

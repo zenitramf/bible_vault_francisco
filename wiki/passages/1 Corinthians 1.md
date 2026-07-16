@@ -5,7 +5,7 @@ description: A salutation and thanksgiving. (1–9). Exhortation to brotherly lo
 tags: [church, holiness, christ, christian-life]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on 1 Corinthians 1: A salutation and thanksgiving. (1–9)
 - In the great things of religion be of one mind; and where there is not unity of sentiment, still let there be union of affection. Agreement in the greater things should extinguish divisions about the lesser. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-1#Verses 10–16|Matthew Henry Concise on 1 Corinthians 1]]
 - Paul had been bred up in Jewish learning; but the plain preaching of a crucified Jesus, was more powerful than all the oratory and philosophy of the heathen world. This is the sum and substance of the gospel. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-1#Verses 17–25|Matthew Henry Concise on 1 Corinthians 1]]
 - God did not choose philosophers, nor orators, nor statesmen, nor men of wealth, and power, and interest in the world, to publish the gospel of grace and peace. He best judges what men and what measures serve the purposes of his glory. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-1#Verses 26–31|Matthew Henry Concise on 1 Corinthians 1]]
+- In this chapter we have, I. The preface or introduction to the whole epistle, 1Co 1:1-9. II. One principal occasion of writing it hinted, namely, their divisions and the origin of them, 1Co 1:10-13. III. An account of… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-1|Matthew Henry Complete on 1 Corinthians 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Corinthians 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -42,6 +47,7 @@ Primary scope: 1 Corinthians 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-1|Matthew Henry Concise, 1 Corinthians 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-1|Matthew Henry Complete on 1 Corinthians 1]]
 
 ## Open questions
 

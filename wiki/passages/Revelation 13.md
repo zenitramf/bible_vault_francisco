@@ -5,7 +5,7 @@ description: A wild beast rises out of the sea, to whom the dragon gives his pow
 tags: [christ, prophecy, worship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 66
 bible_book_name: "Revelation"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Revelation 13: A wild beast rises out of the sea, to wh
 
 - The apostle, standing on the shore, saw a savage beast rise out of the sea; a tyrannical, idolatrous, persecuting power, springing up out of the troubles which took place. It was a frightful monster! [[sources/commentaries_english/mhenry-concise/revelation/chapter-13#Verses 1–10|Matthew Henry Concise on Revelation 13]]
 - Those who understand the first beast to denote a worldly power, take the second to be also a persecuting and assumed power, which acts under the disguise of religion, and of charity to the souls of men. It is a spiritual dominion, professing to be derived from Christ, and exercised at first in a gentle manner, but s… [[sources/commentaries_english/mhenry-concise/revelation/chapter-13#Verses 11–18|Matthew Henry Concise on Revelation 13]]
+- We have, in this chapter, a further discovery and description of the church's enemies: not other enemies than are mentioned before, but described after another manner, that the methods of their enmity may more fully… [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-13|Matthew Henry Complete on Revelation 13]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Revelation 13 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Prophecy|Prophecy]]
@@ -42,6 +47,7 @@ Primary scope: Revelation 13 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/revelation/chapter-13|Matthew Henry Concise, Revelation 13]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-13|Matthew Henry Complete on Revelation 13]]
 
 ## Open questions
 

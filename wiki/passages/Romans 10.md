@@ -5,7 +5,7 @@ description: Righteousness of faith near in the word; calling on the Lord; faith
 tags: [salvation, faith, christ, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -22,8 +22,11 @@ Romans 10 in Henry Concise contrasts law-righteousness with faith-righteousness 
 - The righteousness of faith does not require climbing to heaven or descending into the deep; Christ is offered in the word of the gospel near to us. [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 5–11|Matthew Henry Concise on Romans 10]]
 - There is not one kinder God for Jews and a lesser for Gentiles; the promise is the same to all who call on the name of the Lord Jesus. [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 12–17|Matthew Henry Concise on Romans 10]]
 - Faith comes by hearing, and hearing by the word of God; the gospel must be sent if people are to believe. [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 12–17|Matthew Henry Concise on Romans 10]]
+- The dissolving of the peculiar church-state of the Jews, and the rejection of that polity by the repealing of their ceremonial law, the vacating of all the institutions of it, the abolishing of their priesthood, the… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-10|Matthew Henry Complete on Romans 10]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 10 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Faith|Faith]]
@@ -45,6 +50,7 @@ Primary scope: Romans 10 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-10|Matthew Henry Concise, Romans 10]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-10|Matthew Henry Complete on Romans 10]]
 
 ## Open questions
 

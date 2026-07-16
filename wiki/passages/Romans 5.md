@@ -5,7 +5,7 @@ description: Peace and access through justification; Adam’s fall and Christ’
 tags: [salvation, faith, christ, redemption]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -22,8 +22,11 @@ Romans 5 in Henry Concise traces the happy effects of justification—peace with
 - Christ died for sinners who were guilty and hateful, not merely useless; he died to save from sins, and we were still sinners when he died for us. [[sources/commentaries_english/mhenry-concise/romans/chapter-5#Verses 6–11|Matthew Henry Concise on Romans 5]]
 - Adam’s offense exposed mankind to condemnation; the free gift of righteousness and salvation through Jesus Christ brings believers into a safer and more exalted standing than the misery Adam introduced. [[sources/commentaries_english/mhenry-concise/romans/chapter-5#Verses 12–14|Matthew Henry Concise on Romans 5]]
 - By Christ and his righteousness we have more and greater privileges than we lost by Adam’s offense; where sin abounded, grace superabounded. [[sources/commentaries_english/mhenry-concise/romans/chapter-5#Verses 20, 21|Matthew Henry Concise on Romans 5]]
+- The apostle, having made good his point, and fully proved justification by faith, in this chapter proceeds in the explication, illustration, and application of that truth. I. He shows the fruits of justification, Ro… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-5|Matthew Henry Complete on Romans 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Justification|Justification]]
@@ -46,6 +51,7 @@ Primary scope: Romans 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-5|Matthew Henry Concise, Romans 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-5|Matthew Henry Complete on Romans 5]]
 
 ## Open questions
 

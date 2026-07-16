@@ -5,7 +5,7 @@ description: The excellence of Christ's priesthood above that of Aaron is shown.
 tags: [christ, faith, covenant, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 58
 bible_book_name: "Hebrews"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Hebrews 8: The excellence of Christ's priesthood above 
 
 - The substance, or summary, of what had been declared was, that Christians had such a High Priest as they needed. He took upon himself human nature, appeared on earth, and there gave himself as a sacrifice to God for the sins of his people. [[sources/commentaries_english/mhenry-concise/hebrews/chapter-8#Verses 1–6|Matthew Henry Concise on Hebrews 8]]
 - The superior excellence of the priesthood of Christ, above that of Aaron, is shown from that covenant of grace, of which Christ was Mediator. The law not only made all subject to it, liable to be condemned for the guilt of sin, but also was unable to remove that guilt, and clear the conscience from the sense and ter… [[sources/commentaries_english/mhenry-concise/hebrews/chapter-8#Verses 7–13|Matthew Henry Concise on Hebrews 8]]
+- In this chapter the apostle pursues his former subject, the priesthood of Christ. And, I. He sums up what he had already said, Heb 8:1,2. II. He sets before them the necessary parts of the priestly office, Heb 8:3-5.… [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-8|Matthew Henry Complete on Hebrews 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Hebrews 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -42,6 +47,7 @@ Primary scope: Hebrews 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/hebrews/chapter-8|Matthew Henry Concise, Hebrews 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-8|Matthew Henry Complete on Hebrews 8]]
 
 ## Open questions
 

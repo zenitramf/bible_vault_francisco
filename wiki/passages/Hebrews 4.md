@@ -5,7 +5,7 @@ description: Humble, cautious fear is urged, lest any should come short of the p
 tags: [christ, faith, covenant, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 58
 bible_book_name: "Hebrews"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Hebrews 4: Humble, cautious fear is urged, lest any sho
 
 - The privileges we have under the gospel, are greater than any had under the law of Moses, though the same gospel for substance was preached under both Testaments. There have been in all ages many unprofitable hearers; and unbelief is at the root of all unfruitfulness under the word. [[sources/commentaries_english/mhenry-concise/hebrews/chapter-4#Verses 1–10|Matthew Henry Concise on Hebrews 4]]
 - Observe the end proposed: rest spiritual and eternal; the rest of grace here, and glory hereafter; in Christ on earth, with Christ in heaven. After due and diligent labour, sweet and satisfying rest shall follow; and labour now, will make that rest more pleasant when it comes. [[sources/commentaries_english/mhenry-concise/hebrews/chapter-4#Verses 11–16|Matthew Henry Concise on Hebrews 4]]
+- The apostle, having in the foregoing chapter set forth the sin and punishment of the ancient Jews, proceeds in this, I. To declare that our privileges by Christ under the gospel exceed the privileges of the Jewish… [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-4|Matthew Henry Complete on Hebrews 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Hebrews 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -42,6 +47,7 @@ Primary scope: Hebrews 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/hebrews/chapter-4|Matthew Henry Concise, Hebrews 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-4|Matthew Henry Complete on Hebrews 4]]
 
 ## Open questions
 

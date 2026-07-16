@@ -5,7 +5,7 @@ description: The apostle reminds the Thessalonians of his preaching and behaviou
 tags: [church, salvation, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 52
 bible_book_name: "1 Thessalonians"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on 1 Thessalonians 2: The apostle reminds the Thessalonian
 - Mildness and tenderness greatly recommend religion, and are most conformable to God's gracious dealing with sinners, in and by the gospel. This is the way to win people. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-2#Verses 7–12|Matthew Henry Concise on 1 Thessalonians 2]]
 - We should receive the word of God with affections suitable to its holiness, wisdom, truth, and goodness. The words of men are frail and perishing, like themselves, and sometimes false, foolish, and fickle; but God's word is holy, wise, just, and faithful. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-2#Verses 13–16|Matthew Henry Concise on 1 Thessalonians 2]]
 - This world is not a place where we are to be always, or long together. In heaven holy souls shall meet, and never part more. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-2#Verses 17–20|Matthew Henry Concise on 1 Thessalonians 2]]
+- In this chapter the apostle puts the Thessalonians in mind of the manner of his preaching among them, 1Th 2:1-6. Then of the manner of his conversation among them, 1Th 2:7-12. Afterwards of the success of his ministry,… [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-2|Matthew Henry Complete on 1 Thessalonians 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Thessalonians 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -43,6 +48,7 @@ Primary scope: 1 Thessalonians 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-2|Matthew Henry Concise, 1 Thessalonians 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-2|Matthew Henry Complete on 1 Thessalonians 2]]
 
 ## Open questions
 

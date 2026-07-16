@@ -5,7 +5,7 @@ description: Exhortations to meekness, gentleness, and humility. (1–5). To kin
 tags: [faith, salvation, christ, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 48
 bible_book_name: "Galatians"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Galatians 6: Exhortations to meekness, gentleness, and 
 - Many excuse themselves from the work of religion, though they may make a show, and profess it. They may impose upon others, yet they deceive themselves if they think to impose upon God, who knows their hearts as well as actions; and as he cannot be deceived, so he will not be mocked. [[sources/commentaries_english/mhenry-concise/galatians/chapter-6#Verses 6–11|Matthew Henry Concise on Galatians 6]]
 - Proud, vain, and carnal hearts, are content with just so much religion as will help to keep up a fair show. But the apostle professes his own faith, hope, and joy; and that his principal glory was in the cross of Christ. [[sources/commentaries_english/mhenry-concise/galatians/chapter-6#Verses 12–15|Matthew Henry Concise on Galatians 6]]
 - A new creation to the image of Christ, as showing faith in him, is the greatest distinction between one man and another, and a blessing is declared on all who walk according to this rule. The blessings are, peace and mercy. [[sources/commentaries_english/mhenry-concise/galatians/chapter-6#Verses 16–18|Matthew Henry Concise on Galatians 6]]
+- This chapter chiefly consists of two parts. In the former the apostle gives us several plain and practical directions, which more especially tend to instruct Christians in their duty to one another, and to promote the… [[sources/commentaries_english/mhenry-complete/volume-6/galatians/chapter-6|Matthew Henry Complete on Galatians 6]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Galatians 6 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -43,6 +48,7 @@ Primary scope: Galatians 6 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/galatians/chapter-6|Matthew Henry Concise, Galatians 6]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/galatians/chapter-6|Matthew Henry Complete on Galatians 6]]
 
 ## Open questions
 

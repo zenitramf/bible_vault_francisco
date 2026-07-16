@@ -5,7 +5,7 @@ description: Paul takes Timothy to be his assistant. (1–5). Paul proceeds to M
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Acts 16: Paul takes Timothy to be his assistant. (1–5
 - Satan, though the father of lies, will declare the most important truths, when he can thereby serve his purposes. But much mischief is done to the real servants of Christ, by unholy and false preachers of the gospel, who are confounded with them by careless observers. [[sources/commentaries_english/mhenry-concise/acts/chapter-16#Verses 16–24|Matthew Henry Concise on Acts 16]]
 - The consolations of God to his suffering servants are neither few nor small. How much more happy are true Christians than their prosperous enemies! [[sources/commentaries_english/mhenry-concise/acts/chapter-16#Verses 25–34|Matthew Henry Concise on Acts 16]]
 - Paul, though willing to suffer for the cause of Christ, and without any desire to avenge himself, did not choose to depart under the charge of having deserved wrongful punishment, and therefore required to be dismissed in an honourable manner. It was not a mere point of honour that the apostle stood upon, but justic… [[sources/commentaries_english/mhenry-concise/acts/chapter-16#Verses 35–40|Matthew Henry Concise on Acts 16]]
+- It is some rebuke to Barnabas that after he left Paul we hear no more of him, of what he did or suffered for Christ. But Paul, as he was recommended by the brethren to the grace of God, so his services for Christ after… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-16|Matthew Henry Complete on Acts 16]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 16 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -44,6 +49,7 @@ Primary scope: Acts 16 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-16|Matthew Henry Concise, Acts 16]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-16|Matthew Henry Complete on Acts 16]]
 
 ## Open questions
 

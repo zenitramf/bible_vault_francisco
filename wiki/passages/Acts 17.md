@@ -5,7 +5,7 @@ description: Paul at Thessalonica. (1–9). The noble conduct of the Bereans. (1
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Acts 17: Paul at Thessalonica. (1–9). The noble condu
 - Athens was then famed for polite learning, philosophy, and the fine arts; but none are more childish and superstitious, more impious, or more credulous, than some persons, deemed eminent for learning and ability. It was wholly given to idolatry. [[sources/commentaries_english/mhenry-concise/acts/chapter-17#Verses 16–21|Matthew Henry Concise on Acts 17]]
 - Here we have a sermon to heathens, who worshipped false gods, and were without the true God in the world; and to them the scope of the discourse was different from what the apostle preached to the Jews. In the latter case, his business was to lead his hearers by prophecies and miracles to the knowledge of the Redeem… [[sources/commentaries_english/mhenry-concise/acts/chapter-17#Verses 22–31|Matthew Henry Concise on Acts 17]]
 - The apostle was treated with more outward civility at Athens than in some other places; but none more despised his doctrine, or treated it with more indifference. Of all subjects, that which deserves the most attention gains the least. [[sources/commentaries_english/mhenry-concise/acts/chapter-17#Verses 32–34|Matthew Henry Concise on Acts 17]]
+- We have here a further account of the travels of Paul, and his services and sufferings for Christ. He was not like a candle upon a table, that gives light only to one room, but like the sun that goes its circuit to… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-17|Matthew Henry Complete on Acts 17]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 17 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -44,6 +49,7 @@ Primary scope: Acts 17 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-17|Matthew Henry Concise, Acts 17]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-17|Matthew Henry Complete on Acts 17]]
 
 ## Open questions
 

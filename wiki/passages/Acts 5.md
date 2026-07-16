@@ -5,7 +5,7 @@ description: The death of Ananias and Sapphira. (1–11). The power which accomp
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Acts 5: The death of Ananias and Sapphira. (1–11). Th
 - There is no prison so dark, so strong, but God can visit his people in it, and, if he pleases, fetch them out. Recoveries from sickness, releases out of trouble, are granted, not that we may enjoy the comforts of life, but that God may be honoured with the services of our life. [[sources/commentaries_english/mhenry-concise/acts/chapter-5#Verses 17–25|Matthew Henry Concise on Acts 5]]
 - Many will do an evil thing with daring, yet cannot bear to hear of it afterward, or to have it charged upon them. We cannot expect to be redeemed and healed by Christ, unless we give up ourselves to be ruled by him. [[sources/commentaries_english/mhenry-concise/acts/chapter-5#Verses 26–33|Matthew Henry Concise on Acts 5]]
 - The Lord still has all hearts in his hands, and sometimes directs the prudence of the worldly wise, so as to restrain the persecutors. Common sense tells us to be cautious, while experience and observation show that the success of frauds in matters of religion has been very short. [[sources/commentaries_english/mhenry-concise/acts/chapter-5#Verses 34–42|Matthew Henry Concise on Acts 5]]
+- In this chapter we have, I. The sin and punishment of Ananias and Sapphira, who, for lying to the Holy Ghost, were struck dead at the word of Peter, Ac 5:1-11. II. The flourishing state of the church, in the power that… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-5|Matthew Henry Complete on Acts 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -44,6 +49,7 @@ Primary scope: Acts 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-5|Matthew Henry Concise, Acts 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-5|Matthew Henry Complete on Acts 5]]
 
 ## Open questions
 

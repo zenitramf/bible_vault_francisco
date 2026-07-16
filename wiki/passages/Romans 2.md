@@ -5,7 +5,7 @@ description: Judgment according to truth; no justification by law privilege or o
 tags: [salvation, justice, holiness, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -23,8 +23,11 @@ Henry’s concise reading of Romans 2 dismantles Jewish (and any professing) con
 - Even Gentiles without the written law have conscience as a witness that acquits or condemns as they keep or break natural dictates. [[sources/commentaries_english/mhenry-concise/romans/chapter-2#Verses 1–16|Matthew Henry Concise on Romans 2]]
 - Proud boasting in God and outward profession is the root of hypocrisy; unholy lives of professors dishonor God and cause his name to be blasphemed. [[sources/commentaries_english/mhenry-concise/romans/chapter-2#Verses 17–24|Matthew Henry Concise on Romans 2]]
 - No forms, ordinances, or notions profit without regenerating grace that leads to seeking an interest in the righteousness of God by faith; outward-only religion is not true belonging. [[sources/commentaries_english/mhenry-concise/romans/chapter-2#Verses 25–29|Matthew Henry Concise on Romans 2]]
+- The scope of the first two chapters of this epistle may be gathered from Ro 3:9, "We have before proved both Jews and Gentiles that they are all under sin." This we have proved upon the Gentiles (Ro 1:1-32), now in… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-2|Matthew Henry Complete on Romans 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -46,6 +51,7 @@ Primary scope: Romans 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-2|Matthew Henry Concise, Romans 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-2|Matthew Henry Complete on Romans 2]]
 
 ## Open questions
 

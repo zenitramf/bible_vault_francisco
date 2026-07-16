@@ -5,7 +5,7 @@ description: Bearing the weak; Jew and Gentile praise; ministry to the nations; 
 tags: [church, discipleship, prayer, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -22,8 +22,11 @@ Henry Concise on Romans 15 calls the strong to bear infirmities of the weak afte
 - Christ confirmed promises to the Jews; Gentiles brought into the church should praise God and not despise Jewish believers. [[sources/commentaries_english/mhenry-concise/romans/chapter-15#Verses 8–13|Matthew Henry Concise on Romans 15]]
 - Conversion of souls is God’s work; Paul glories only in what Christ works by him through the Spirit. [[sources/commentaries_english/mhenry-concise/romans/chapter-15#Verses 14–21|Matthew Henry Concise on Romans 15]]
 - Christians should value fervent prayer; those who beg others’ prayers must pray themselves, striving in prayer by the love of the Spirit. [[sources/commentaries_english/mhenry-concise/romans/chapter-15#Verses 30–33|Matthew Henry Concise on Romans 15]]
+- The apostle, in this chapter, continues the discourse of the former, concerning mutual forbearance in indifferent things; and so draws towards a conclusion of the epistle. Where such differences of apprehension, and… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-15|Matthew Henry Complete on Romans 15]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 15 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -45,6 +50,7 @@ Primary scope: Romans 15 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-15|Matthew Henry Concise, Romans 15]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-15|Matthew Henry Complete on Romans 15]]
 
 ## Open questions
 

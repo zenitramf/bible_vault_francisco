@@ -5,7 +5,7 @@ description: The duties of wives and husbands. (1–7). Christians exhorted to a
 tags: [holiness, christian-life, christ, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 60
 bible_book_name: "1 Peter"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Peter 3: The duties of wives and husbands. (1–7). C
 - The wife must discharge her duty to her own husband, though he obey not the word. We daily see how narrowly evil men watch the ways and lives of professors of religion. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-3#Verses 1–7|Matthew Henry Concise on 1 Peter 3]]
 - Though Christians cannot always be exactly of the same mind, yet they should have compassion one of another, and love as brethren. If any man desires to live comfortably on earth, or to possess eternal life in heaven, he must bridle his tongue from wicked, abusive, or deceitful words. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-3#Verses 8–13|Matthew Henry Concise on 1 Peter 3]]
 - We sanctify God before others, when our conduct invites and encourages them to glorify and honour him. What was the ground and reason of their hope? [[sources/commentaries_english/mhenry-concise/1-peter/chapter-3#Verses 14–22|Matthew Henry Concise on 1 Peter 3]]
+- Wherein the apostle describes the duties of husbands and wives one to another, beginning with the duty of the wife, 1Pe 3:1-7. He exhorts Christians to unity, love, compassion, peace, and patience under sufferings; to… [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-3|Matthew Henry Complete on 1 Peter 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Peter 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Christ|Christ]]
@@ -43,6 +48,7 @@ Primary scope: 1 Peter 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-peter/chapter-3|Matthew Henry Concise, 1 Peter 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-3|Matthew Henry Complete on 1 Peter 3]]
 
 ## Open questions
 

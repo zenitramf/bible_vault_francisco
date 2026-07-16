@@ -5,7 +5,7 @@ description: Subjection to governors; love as the law’s fulfillment; put on Ch
 tags: [justice, discipleship, christian-life, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -21,8 +21,11 @@ Henry Concise on Romans 13 teaches gospel-shaped submission to just authority, d
 - The grace of the gospel teaches submission where pride only murmurs; just power must be submitted to and obeyed, whatever the personal character of rulers may be. [[sources/commentaries_english/mhenry-concise/romans/chapter-13#Verses 1–7|Matthew Henry Concise on Romans 13]]
 - Christians must avoid contracting debts they cannot discharge and must render to all their due; love fulfills the law toward the neighbor. [[sources/commentaries_english/mhenry-concise/romans/chapter-13#Verses 8–10|Matthew Henry Concise on Romans 13]]
 - Believers must awake now from carnal security and spiritual deadness, cast off dark works, and put on the Lord Jesus Christ. [[sources/commentaries_english/mhenry-concise/romans/chapter-13#Verses 11–14|Matthew Henry Concise on Romans 13]]
+- There are three good lessons taught us in this chapter, where the apostle enlarges more upon his precepts than he had done in the foregoing chapter, finding them more needful to be fully pressed. I. A lesson of… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-13|Matthew Henry Complete on Romans 13]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 13 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Justice|Justice]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -44,6 +49,7 @@ Primary scope: Romans 13 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-13|Matthew Henry Concise, Romans 13]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-13|Matthew Henry Complete on Romans 13]]
 
 ## Open questions
 

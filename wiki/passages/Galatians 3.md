@@ -5,7 +5,7 @@ description: The Galatians reproved for departing from the great doctrine of jus
 tags: [faith, salvation, christ, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 48
 bible_book_name: "Galatians"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Galatians 3: The Galatians reproved for departing from 
 - The covenant God made with Abraham, was not done away by the giving the law to Moses. The covenant was made with Abraham and his Seed. [[sources/commentaries_english/mhenry-concise/galatians/chapter-3#Verses 15–18|Matthew Henry Concise on Galatians 3]]
 - If that promise was enough for salvation, wherefore then serveth the law? The Israelites, though chosen to be God's peculiar people, were sinners as well as others. [[sources/commentaries_english/mhenry-concise/galatians/chapter-3#Verses 19–22|Matthew Henry Concise on Galatians 3]]
 - Real Christians enjoy great privileges under the gospel; and are no longer accounted servants, but sons; not now kept at such a distance, and under such restraints as the Jews were. Having accepted Christ Jesus as their Lord and Saviour, and relying on him alone for justification and salvation, they become the sons … [[sources/commentaries_english/mhenry-concise/galatians/chapter-3#Verses 26–29|Matthew Henry Concise on Galatians 3]]
+- The apostle in this chapter, I. Reproves the Galatians for their folly, in suffering themselves to be drawn away from the faith of the gospel, and endeavours, from several considerations, to impress them with a sense… [[sources/commentaries_english/mhenry-complete/volume-6/galatians/chapter-3|Matthew Henry Complete on Galatians 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Galatians 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -45,6 +50,7 @@ Primary scope: Galatians 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/galatians/chapter-3|Matthew Henry Concise, Galatians 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/galatians/chapter-3|Matthew Henry Complete on Galatians 3]]
 
 ## Open questions
 

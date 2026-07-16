@@ -5,7 +5,7 @@ description: The conversion of Saul. (1–9). Saul converted preaches Christ. (1
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Acts 9: The conversion of Saul. (1–9). Saul converted
 - When we enter into the way of God, we must look for trials; but the Lord knows how to deliver the godly, and will, with the temptation, also make a way to escape. Though Saul's conversion was and is a proof of the truth of Christianity, yet it could not, of itself, convert one soul at enmity with the truth; for noth… [[sources/commentaries_english/mhenry-concise/acts/chapter-9#Verses 23–31|Matthew Henry Concise on Acts 9]]
 - Christians are saints, or holy people; not only the eminent ones, as Saint Peter and Saint Paul, but every sincere professor of the faith of Christ. Christ chose patients whose diseases were incurable in the course of nature, to show how desperate was the case of fallen mankind. [[sources/commentaries_english/mhenry-concise/acts/chapter-9#Verses 32–35|Matthew Henry Concise on Acts 9]]
 - Many are full of good words, who are empty and barren in good works; but Tabitha was a great doer, no great talker. Christians who have not property to give in charity, may yet be able to do acts of charity, working with their hands, or walking with their feet, for the good of others. [[sources/commentaries_english/mhenry-concise/acts/chapter-9#Verses 36–43|Matthew Henry Concise on Acts 9]]
+- In this chapter we have, I. The famous story of St. Paul's conversion from being an outrageous persecutor of the gospel of Christ to be an illustrious professor and preacher of it. 1. How he was first awakened and… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-9|Matthew Henry Complete on Acts 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -44,6 +49,7 @@ Primary scope: Acts 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-9|Matthew Henry Concise, Acts 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-9|Matthew Henry Complete on Acts 9]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The nature and power of faith described. (1–3). It is set forth b
 tags: [christ, faith, covenant, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 58
 bible_book_name: "Hebrews"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Hebrews 11: The nature and power of faith described. (1
 - We are often called to leave worldly connexions, interests, and comforts. If heirs of Abraham's faith, we shall obey and go forth, though not knowing what may befall us; and we shall be found in the way of duty, looking for the performance of God's promises. [[sources/commentaries_english/mhenry-concise/hebrews/chapter-11#Verses 8–19|Matthew Henry Concise on Hebrews 11]]
 - Isaac blessed Jacob and Esau, concerning things to come. Things present are not the best things; no man knoweth love or hatred by having them or wanting them. [[sources/commentaries_english/mhenry-concise/hebrews/chapter-11#Verses 20–31|Matthew Henry Concise on Hebrews 11]]
 - The world considers that the righteous are not worthy to live in the world, and God declares the world is not worthy of them. Though the righteous and the worldlings widely differ in their judgment, they agree in this, it is not fit that good men should have their rest in this world. [[sources/commentaries_english/mhenry-concise/hebrews/chapter-11#Verses 39, 40|Matthew Henry Concise on Hebrews 11]]
+- The apostle having, in the close of the foregoing chapter, recommended the grace of faith and a life of faith as the best preservative against apostasy, he how enlarges upon the nature and fruits of this excellent… [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-11|Matthew Henry Complete on Hebrews 11]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Hebrews 11 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -45,6 +50,7 @@ Primary scope: Hebrews 11 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/hebrews/chapter-11|Matthew Henry Concise, Hebrews 11]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-11|Matthew Henry Complete on Hebrews 11]]
 
 ## Open questions
 

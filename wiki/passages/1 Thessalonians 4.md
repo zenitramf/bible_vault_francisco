@@ -5,7 +5,7 @@ description: Exhortations to purity and holiness. (1–8). To brotherly love, pe
 tags: [church, salvation, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 52
 bible_book_name: "1 Thessalonians"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Thessalonians 4: Exhortations to purity and holiness.
 - To abide in the faith of the gospel is not enough, we must abound in the work of faith. The rule according to which all ought to walk and act, is the commandments given by the Lord Jesus Christ. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-4#Verses 1–8|Matthew Henry Concise on 1 Thessalonians 4]]
 - We should notice in others what is good, to their praise, that we may engage them to abound therein more and more. All who are savingly taught of God, are taught to love one another. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-4#Verses 9–12|Matthew Henry Concise on 1 Thessalonians 4]]
 - Here is comfort for the relations and friends of those who die in the Lord. Grief for the death of friends is lawful; we may weep for our own loss, though it may be their gain. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-4#Verses 13–18|Matthew Henry Concise on 1 Thessalonians 4]]
+- In this chapter the apostle gives earnest exhortations to abound in holiness, with a caution against uncleanness, enforced with several arguments, 1Th 4:1-8. He then mentions the great duties of brotherly love, and… [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-4|Matthew Henry Complete on 1 Thessalonians 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Thessalonians 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -42,6 +47,7 @@ Primary scope: 1 Thessalonians 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-4|Matthew Henry Concise, 1 Thessalonians 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-4|Matthew Henry Complete on 1 Thessalonians 4]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The consideration of Christ's sufferings is urged for purity and ho
 tags: [holiness, christian-life, christ, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 60
 bible_book_name: "1 Peter"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Peter 4: The consideration of Christ's sufferings is 
 - The strongest and best arguments against sin, are taken from the sufferings of Christ. He died to destroy sin; and though he cheerfully submitted to the worst sufferings, yet he never gave way to the least sin. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-4#Verses 1–6|Matthew Henry Concise on 1 Peter 4]]
 - The destruction of the Jewish church and nation, foretold by our Saviour, was very near. And the speedy approach of death and judgment concerns all, to which these words naturally lead our minds. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-4#Verses 7–11|Matthew Henry Concise on 1 Peter 4]]
 - By patience and fortitude in suffering, by dependence on the promises of God, and keeping to the word the Holy Spirit hath revealed, the Holy Spirit is glorified; but by the contempt and reproaches cast upon believers, he is evil spoken of, and is blasphemed. One would think such cautions as these were needless to C… [[sources/commentaries_english/mhenry-concise/1-peter/chapter-4#Verses 12–19|Matthew Henry Concise on 1 Peter 4]]
+- The work of a Christian is twofold—doing the will of God and suffering his pleasure. This chapter directs us in both. The duties we are here exhorted to employ ourselves in are the mortification of sin, living to God,… [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-4|Matthew Henry Complete on 1 Peter 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Peter 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Christ|Christ]]
@@ -43,6 +48,7 @@ Primary scope: 1 Peter 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-peter/chapter-4|Matthew Henry Concise, 1 Peter 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-4|Matthew Henry Complete on 1 Peter 4]]
 
 ## Open questions
 

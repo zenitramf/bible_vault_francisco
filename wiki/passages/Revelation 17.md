@@ -5,7 +5,7 @@ description: One of the angels who had the vials, explains the meaning of the fo
 tags: [christ, prophecy, worship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 66
 bible_book_name: "Revelation"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Revelation 17: One of the angels who had the vials, exp
 - Rome clearly appears to be meant in this chapter. Pagan Rome subdued and ruled with military power, not by art and flatteries. [[sources/commentaries_english/mhenry-concise/revelation/chapter-17#Verses 1–6|Matthew Henry Concise on Revelation 17]]
 - The beast on which the woman sat was, and is not, and yet is. It was a seat of idolatry and persecution, and is not; not in the ancient form, which was pagan: yet it is; it is truly the seat of idolatry and tyranny, though of another sort and form. [[sources/commentaries_english/mhenry-concise/revelation/chapter-17#Verses 7–14|Matthew Henry Concise on Revelation 17]]
 - God so ruled the hearts of these kings, by his power over them, and by his providence, that they did those things, without intending it, which he purposed and foretold. They shall see their folly, and how they have been bewitched and enslaved by the harlot, and be made instruments in her destruction. [[sources/commentaries_english/mhenry-concise/revelation/chapter-17#Verses 15–18|Matthew Henry Concise on Revelation 17]]
+- This chapter contains another representation of those things that had been revealed before concerning the wickedness and ruin of antichrist. This antichrist had been before represented as a beast, and is now described… [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-17|Matthew Henry Complete on Revelation 17]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Revelation 17 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Prophecy|Prophecy]]
@@ -43,6 +48,7 @@ Primary scope: Revelation 17 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/revelation/chapter-17|Matthew Henry Concise, Revelation 17]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-17|Matthew Henry Complete on Revelation 17]]
 
 ## Open questions
 

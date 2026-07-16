@@ -5,7 +5,7 @@ description: The fifth trumpet is followed by a representation of another star a
 tags: [christ, prophecy, worship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 66
 bible_book_name: "Revelation"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Revelation 9: The fifth trumpet is followed by a repres
 
 - Upon sounding the fifth trumpet, a star fell from heaven to the earth. Having ceased to be a minister of Christ, he who is represented by this star becomes the minister of the devil; and lets loose the powers of hell against the churches of Christ. [[sources/commentaries_english/mhenry-concise/revelation/chapter-9#Verses 1–12|Matthew Henry Concise on Revelation 9]]
 - The sixth angel sounded, and here the power of the Turks seems the subject. Their time is limited. [[sources/commentaries_english/mhenry-concise/revelation/chapter-9#Verses 13–21|Matthew Henry Concise on Revelation 9]]
+- In this chapter we have an account of the sounding of the fifth and sixth trumpets, the appearances that attended them, and the events that were to follow; the fifth trumpet (Re 9:1-12), the sixth, Re 9:13-21. [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-9|Matthew Henry Complete on Revelation 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Revelation 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Prophecy|Prophecy]]
@@ -42,6 +47,7 @@ Primary scope: Revelation 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/revelation/chapter-9|Matthew Henry Concise, Revelation 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-9|Matthew Henry Complete on Revelation 9]]
 
 ## Open questions
 

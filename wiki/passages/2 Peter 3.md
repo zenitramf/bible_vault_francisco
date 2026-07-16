@@ -5,7 +5,7 @@ description: The design here is to remind of Christ's final coming to judgement.
 tags: [faith, prophecy, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 61
 bible_book_name: "2 Peter"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Peter 3: The design here is to remind of Christ's fin
 - The purified minds of Christians are to be stirred up, that they may be active and lively in the work of holiness. There will be scoffers in the last days, under the gospel, men who make light of sin, and mock at salvation by Jesus Christ. [[sources/commentaries_english/mhenry-concise/2-peter/chapter-3#Verses 1–4|Matthew Henry Concise on 2 Peter 3]]
 - Had these scoffers considered the dreadful vengeance with which God swept away a whole world of ungodly men at once, surely they would not have scoffed at his threatening an equally terrible judgment. The heavens and the earth which now are, by the same word, it is declared, will be destroyed by fire. [[sources/commentaries_english/mhenry-concise/2-peter/chapter-3#Verses 5–10|Matthew Henry Concise on 2 Peter 3]]
 - From the doctrine of Christ's second coming, we are exhorted to purity and godliness. This is the effect of real knowledge. [[sources/commentaries_english/mhenry-concise/2-peter/chapter-3#Verses 11–18|Matthew Henry Concise on 2 Peter 3]]
+- The apostle drawing towards the conclusion of his second epistle, begins this last chapter with repeating the account of his design and scope in writing a second time to them, 2Pe 3:1-2. II. He proceeds to mention one… [[sources/commentaries_english/mhenry-complete/volume-6/2-peter/chapter-3|Matthew Henry Complete on 2 Peter 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Peter 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prophecy|Prophecy]]
@@ -41,6 +46,7 @@ Primary scope: 2 Peter 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-peter/chapter-3|Matthew Henry Concise, 2 Peter 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/2-peter/chapter-3|Matthew Henry Complete on 2 Peter 3]]
 
 ## Open questions
 

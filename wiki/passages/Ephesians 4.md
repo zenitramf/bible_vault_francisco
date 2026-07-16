@@ -5,7 +5,7 @@ description: Exhortations to mutual forbearance and union. (1–6). To a due use
 tags: [church, salvation, christ, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 49
 bible_book_name: "Ephesians"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Ephesians 4: Exhortations to mutual forbearance and uni
 - The apostle charged the Ephesians in the name and by the authority of the Lord Jesus, that having professed the gospel, they should not be as the unconverted Gentiles, who walked in vain fancies and carnal affections. Do not men, on every side, walk in the vanity of their minds? [[sources/commentaries_english/mhenry-concise/ephesians/chapter-4#Verses 17–24|Matthew Henry Concise on Ephesians 4]]
 - Notice the particulars wherewith we should adorn our Christian profession. Take heed of every thing contrary to truth. [[sources/commentaries_english/mhenry-concise/ephesians/chapter-4#Verses 25–28|Matthew Henry Concise on Ephesians 4]]
 - Filthy words proceed from corruption in the speaker, and they corrupt the minds and manners of those who hear them: Christians should beware of all such discourse. It is the duty of Christians to seek, by the blessing of God, to bring persons to think seriously, and to encourage and warn believers by their conversat… [[sources/commentaries_english/mhenry-concise/ephesians/chapter-4#Verses 29–32|Matthew Henry Concise on Ephesians 4]]
+- We have gone through the former part of this epistle, which consists of several important doctrinal truths, contained in the three preceding chapters. We enter now on the latter part of it, in which we have the most… [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-4|Matthew Henry Complete on Ephesians 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ephesians 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -46,6 +51,7 @@ Primary scope: Ephesians 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ephesians/chapter-4|Matthew Henry Concise, Ephesians 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-4|Matthew Henry Complete on Ephesians 4]]
 
 ## Open questions
 

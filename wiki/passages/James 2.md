@@ -5,7 +5,7 @@ description: All professions of faith are vain, if not producing love and justic
 tags: [faith, discipleship, holiness, christian-life]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 59
 bible_book_name: "James"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on James 2: All professions of faith are vain, if not prod
 
 - Those who profess faith in Christ as the Lord of glory, must not respect persons on account of mere outward circumstances and appearances, in a manner not agreeing with their profession of being disciples of the lowly Jesus. St. [[sources/commentaries_english/mhenry-concise/james/chapter-2#Verses 1–13|Matthew Henry Concise on James 2]]
 - Those are wrong who put a mere notional belief of the gospel for the whole of evangelical religion, as many now do. No doubt, true faith alone, whereby men have part in Christ's righteousness, atonement, and grace, saves their souls; but it produces holy fruits, and is shown to be real by its effect on their works; … [[sources/commentaries_english/mhenry-concise/james/chapter-2#Verses 14–26|Matthew Henry Concise on James 2]]
+- In this chapter the apostle condemns a sinful regarding of the rich, and despising the poor, which he imputes to partiality and injustice, and shows it to be an acting contrary to God, who has chosen the poor, and… [[sources/commentaries_english/mhenry-complete/volume-6/james/chapter-2|Matthew Henry Complete on James 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: James 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -41,6 +46,7 @@ Primary scope: James 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/james/chapter-2|Matthew Henry Concise, James 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/james/chapter-2|Matthew Henry Complete on James 2]]
 
 ## Open questions
 

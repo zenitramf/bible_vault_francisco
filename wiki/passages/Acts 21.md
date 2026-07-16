@@ -5,7 +5,7 @@ description: Paul's voyage towards Jerusalem. (1–7). Paul at Cesarea. The prop
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Acts 21: Paul's voyage towards Jerusalem. (1–7). Paul
 - Paul had express warning of his troubles, that when they came, they might be no surprise or terror to him. The general notice given us, that through much tribulation we must enter into the kingdom of God, should be of the same use to us. [[sources/commentaries_english/mhenry-concise/acts/chapter-21#Verses 8–18|Matthew Henry Concise on Acts 21]]
 - Paul ascribed all his success to God, and to God they gave the praise. God had honoured him more than any of the apostles, yet they did not envy him; but on the contrary, glorified the Lord. [[sources/commentaries_english/mhenry-concise/acts/chapter-21#Verses 19–26|Matthew Henry Concise on Acts 21]]
 - In the temple, where Paul should have been protected as in a place of safety, he was violently set upon. They falsely charged him with ill doctrine and ill practice against the Mosaic ceremonies. [[sources/commentaries_english/mhenry-concise/acts/chapter-21#Verses 27–40|Matthew Henry Concise on Acts 21]]
+- We have, with a great deal of pleasure, attended the apostle in his travels throughout the Gentile nations to preach the gospel, and have seen a great harvest of souls gathered in to Christ; there we have seen likewise… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-21|Matthew Henry Complete on Acts 21]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 21 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -43,6 +48,7 @@ Primary scope: Acts 21 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-21|Matthew Henry Concise, Acts 21]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-21|Matthew Henry Complete on Acts 21]]
 
 ## Open questions
 

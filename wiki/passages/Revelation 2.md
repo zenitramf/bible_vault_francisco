@@ -5,7 +5,7 @@ description: Epistles to the churches in Asia, with warnings and encouragements,
 tags: [christ, prophecy, worship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 66
 bible_book_name: "Revelation"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Revelation 2: Epistles to the churches in Asia, with wa
 - Our Lord Jesus is the First, for by him were all things made; he was before all things, with God, and is God himself. He is the Last, for he will be the Judge of all. [[sources/commentaries_english/mhenry-concise/revelation/chapter-2#Verses 8–11|Matthew Henry Concise on Revelation 2]]
 - The word of God is a sword, able to slay both sin and sinners. It turns and cuts every way; but the believer need not fear this sword; yet this confidence cannot be supported without steady obedience. [[sources/commentaries_english/mhenry-concise/revelation/chapter-2#Verses 12–17|Matthew Henry Concise on Revelation 2]]
 - Even when the Lord knows the works of his people to be wrought in love, faith, zeal, and patience; yet if his eyes, which are as a flame of fire, observe them committing or allowing what is evil, he will rebuke, correct, or punish them. Here is praise of the ministry and people of Thyatira, by One who knew the princ… [[sources/commentaries_english/mhenry-concise/revelation/chapter-2#Verses 18–29|Matthew Henry Concise on Revelation 2]]
+- The apostle John, having in the foregoing chapter written the things which he had seen, now proceeds to write the things that are, according to the command of God (Re 1:19), that is, the present state of the seven… [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-2|Matthew Henry Complete on Revelation 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Revelation 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Prophecy|Prophecy]]
@@ -44,6 +49,7 @@ Primary scope: Revelation 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/revelation/chapter-2|Matthew Henry Concise, Revelation 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-2|Matthew Henry Complete on Revelation 2]]
 
 ## Open questions
 

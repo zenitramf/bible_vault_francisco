@@ -5,7 +5,7 @@ description: A lame man healed by Peter and John. (1–11). Peter's address to t
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Acts 3: A lame man healed by Peter and John. (1–11). 
 - Observe the difference in the manner of working the miracles. Our Lord always spoke as having Almighty power, never hesitated to receive the greatest honour that was given to him on account of his Divine miracles. [[sources/commentaries_english/mhenry-concise/acts/chapter-3#Verses 12–18|Matthew Henry Concise on Acts 3]]
 - The absolute necessity of repentance is to be solemnly charged upon the consciences of all who desire that their sins may be blotted out, and that they may share in the refreshment which nothing but a sense of Christ's pardoning love can afford. Blessed are those who have felt this. [[sources/commentaries_english/mhenry-concise/acts/chapter-3#Verses 19–21|Matthew Henry Concise on Acts 3]]
 - Here is a powerful address to warn the Jews of the dreadful consequences of their unbelief, in the very words of Moses, their favourite prophet, out of pretended zeal for whom they were ready to reject Christianity, and to try to destroy it. Christ came into the world to bring a blessing with him. [[sources/commentaries_english/mhenry-concise/acts/chapter-3#Verses 22–26|Matthew Henry Concise on Acts 3]]
+- In this chapter we have a miracle and a sermon: the miracle wrought to make way for the sermon, to confirm the doctrine that was to be preached, and to make way for it into the minds of the people; and then the sermon… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-3|Matthew Henry Complete on Acts 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -43,6 +48,7 @@ Primary scope: Acts 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-3|Matthew Henry Concise, Acts 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-3|Matthew Henry Complete on Acts 3]]
 
 ## Open questions
 

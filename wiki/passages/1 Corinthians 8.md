@@ -5,7 +5,7 @@ description: The danger of having a high conceit of knowledge. (1–6). The misc
 tags: [church, holiness, christ, christian-life]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 1 Corinthians 8: The danger of having a high conceit of
 
 - There is no proof of ignorance more common than conceit of knowledge. Much may be known, when nothing is known to good purpose. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-8#Verses 1–6|Matthew Henry Concise on 1 Corinthians 8]]
 - Eating one kind of food, and abstaining from another, have nothing in them to recommend a person to God. But the apostle cautions against putting a stumbling-block in the way of the weak; lest they be made bold to eat what was offered to the idol, not as common food, but as a sacrifice, and thereby be guilty of idol… [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-8#Verses 7–13|Matthew Henry Concise on 1 Corinthians 8]]
+- The apostle, in this chapter, answers another case proposed to him by some of the Corinthians, about eating those things that had been sacrificed to idols. I. He hints at the occasion of this case, and gives a caution… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-8|Matthew Henry Complete on 1 Corinthians 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Corinthians 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -41,6 +46,7 @@ Primary scope: 1 Corinthians 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-8|Matthew Henry Concise, 1 Corinthians 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-8|Matthew Henry Complete on 1 Corinthians 8]]
 
 ## Open questions
 

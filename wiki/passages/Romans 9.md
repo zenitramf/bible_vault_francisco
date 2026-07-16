@@ -5,7 +5,7 @@ description: Israel, election, and God’s freedom; righteousness by faith vs wo
 tags: [salvation, covenant, faith, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -22,8 +22,11 @@ Henry Concise treats Romans 9 with pastoral sorrow for Israel and theological fi
 - Not all who are of Israel are the true Israel; the children of the promise are counted for the seed. [[sources/commentaries_english/mhenry-concise/romans/chapter-9#Verses 6–13|Matthew Henry Concise on Romans 9]]
 - God’s purpose according to election stands not of works but of him who calls; he has mercy on whom he will have mercy. [[sources/commentaries_english/mhenry-concise/romans/chapter-9#Verses 14–24|Matthew Henry Concise on Romans 9]]
 - Gentiles who followed not after righteousness attained righteousness by faith; Israel pursuing the law of righteousness did not attain it because they sought it not by faith. [[sources/commentaries_english/mhenry-concise/romans/chapter-9#Verses 30–33|Matthew Henry Concise on Romans 9]]
+- The apostle, having plainly asserted and largely proved that justification and salvation are to had by faith only, and not by the works of the law, by Christ and not by Moses, comes in this and the following chapters… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-9|Matthew Henry Complete on Romans 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Faith|Faith]]
@@ -45,6 +50,7 @@ Primary scope: Romans 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-9|Matthew Henry Concise, Romans 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-9|Matthew Henry Complete on Romans 9]]
 
 ## Open questions
 

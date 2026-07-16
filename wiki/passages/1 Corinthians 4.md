@@ -5,7 +5,7 @@ description: The true character of gospel ministers. (1–6). Cautions against d
 tags: [church, holiness, christ, christian-life]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Corinthians 4: The true character of gospel ministers
 - Apostles were no more than servants of Christ, but they were not to be undervalued. They had a great trust, and for that reason, had an honourable office. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-4#Verses 1–6|Matthew Henry Concise on 1 Corinthians 4]]
 - We have no reason to be proud; all we have, or are, or do, that is good, is owing to the free and rich grace of God. A sinner snatched from destruction by sovereign grace alone, must be very absurd and inconsistent, if proud of the free gifts of God. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-4#Verses 7–13|Matthew Henry Concise on 1 Corinthians 4]]
 - In reproving for sin, we should distinguish between sinners and their sins. Reproofs that kindly and affectionately warn, are likely to reform. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-4#Verses 14–21|Matthew Henry Concise on 1 Corinthians 4]]
+- In this chapter the apostle, I. Directs them how to account of him and his fellow-ministers, and therein, tacitly at least, reproves them for their unworthy carriage towards him, 1Co 4:1-6. II. He cautions them against… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-4|Matthew Henry Complete on 1 Corinthians 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Corinthians 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -42,6 +47,7 @@ Primary scope: 1 Corinthians 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-4|Matthew Henry Concise, 1 Corinthians 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-4|Matthew Henry Complete on 1 Corinthians 4]]
 
 ## Open questions
 

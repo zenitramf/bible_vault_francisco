@@ -5,7 +5,7 @@ description: The Corinthians reproved for their contentions. (1–4). The true s
 tags: [church, holiness, christ, christian-life]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on 1 Corinthians 3: The Corinthians reproved for their con
 - The apostle was a wise master-builder; but the grace of God made him such. Spiritual pride is abominable; it is using the greatest favours of God, to feed our own vanity, and make idols of ourselves. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-3#Verses 10–15|Matthew Henry Concise on 1 Corinthians 3]]
 - From other parts of the epistle, it appears that the false teachers among the Corinthians taught unholy doctrines. Such teaching tended to corrupt, to pollute, and destroy the building, which should be kept pure and holy for God. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-3#Verses 16, 17|Matthew Henry Concise on 1 Corinthians 3]]
 - To have a high opinion of our own wisdom, is but to flatter ourselves; and self-flattery is the next step to self-deceit. The wisdom that wordly men esteem, is foolishness with God. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-3#Verses 18–23|Matthew Henry Concise on 1 Corinthians 3]]
+- In this chapter the apostle, I. Blames the Corinthians for their carnality and divisions, 1Co 3:1-4. II. He instructs them how what was amiss among them might be rectified, by remembering, 1. That their ministers were… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-3|Matthew Henry Complete on 1 Corinthians 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Corinthians 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: 1 Corinthians 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-3|Matthew Henry Concise, 1 Corinthians 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-3|Matthew Henry Complete on 1 Corinthians 3]]
 
 ## Open questions
 

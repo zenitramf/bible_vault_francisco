@@ -5,7 +5,7 @@ description: The apostle sets forth his office, and his qualifications for it, a
 tags: [church, salvation, christ, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 49
 bible_book_name: "Ephesians"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Ephesians 3: The apostle sets forth his office, and his
 - Those whom God advances to honourable employments, he makes low in their own eyes; and where God gives grace to be humble, there he gives all other needful grace. How highly he speaks of Jesus Christ; the unsearchable riches of Christ! [[sources/commentaries_english/mhenry-concise/ephesians/chapter-3#Verses 8–12|Matthew Henry Concise on Ephesians 3]]
 - The apostle seems to be more anxious lest the believers should be discouraged and faint upon his tribulations, than for what he himself had to bear. He asks for spiritual blessings, which are the best blessings. [[sources/commentaries_english/mhenry-concise/ephesians/chapter-3#Verses 13–19|Matthew Henry Concise on Ephesians 3]]
 - It is proper always to end prayers with praises. Let us expect more, and ask for more, encouraged by what Christ has already done for our souls, being assured that the conversion of sinners, and the comfort of believers, will be to his glory, for ever and ever. [[sources/commentaries_english/mhenry-concise/ephesians/chapter-3#Verses 20, 21|Matthew Henry Concise on Ephesians 3]]
+- This chapter consists of two parts. I. Of the account which Paul gives the Ephesians concerning himself, as he was appointed by God to be the apostle of the Gentiles, Eph 3:1-13. II. Of his devout and affectionate… [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-3|Matthew Henry Complete on Ephesians 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ephesians 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -45,6 +50,7 @@ Primary scope: Ephesians 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ephesians/chapter-3|Matthew Henry Concise, Ephesians 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-3|Matthew Henry Complete on Ephesians 3]]
 
 ## Open questions
 

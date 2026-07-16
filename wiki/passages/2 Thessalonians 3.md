@@ -5,7 +5,7 @@ description: The apostle expresses confidence in the Thessalonians, and prays fo
 tags: [salvation, church, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 53
 bible_book_name: "2 Thessalonians"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Thessalonians 3: The apostle expresses confidence in 
 - Those who are far apart still may meet together at the throne of grace; and those not able to do or receive any other kindness, may in this way do and receive real and very great kindness. Enemies to the preaching of the gospel, and persecutors of its faithful preachers, are unreasonable and wicked men. [[sources/commentaries_english/mhenry-concise/2-thessalonians/chapter-3#Verses 1–5|Matthew Henry Concise on 2 Thessalonians 3]]
 - Those who have received the gospel, are to live according to the gospel. Such as could work, and would not, were not to be maintained in idleness. [[sources/commentaries_english/mhenry-concise/2-thessalonians/chapter-3#Verses 6–15|Matthew Henry Concise on 2 Thessalonians 3]]
 - The apostle prays for the Thessalonians. And let us desire the same blessings for ourselves and our friends. [[sources/commentaries_english/mhenry-concise/2-thessalonians/chapter-3#Verses 16–18|Matthew Henry Concise on 2 Thessalonians 3]]
+- In the close of the foregoing chapter, the apostle had prayed earnestly for the Thessalonians, and now he desires their prayers, encouraging them to trust in God, to which he subjoins another petition for them, 2Th… [[sources/commentaries_english/mhenry-complete/volume-6/2-thessalonians/chapter-3|Matthew Henry Complete on 2 Thessalonians 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Thessalonians 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Church|Church]]
@@ -41,6 +46,7 @@ Primary scope: 2 Thessalonians 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-thessalonians/chapter-3|Matthew Henry Concise, 2 Thessalonians 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/2-thessalonians/chapter-3|Matthew Henry Complete on 2 Thessalonians 3]]
 
 ## Open questions
 

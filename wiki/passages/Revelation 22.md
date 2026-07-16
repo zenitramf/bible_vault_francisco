@@ -5,7 +5,7 @@ description: A description of the heavenly state, under the figures of the water
 tags: [christ, prophecy, worship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 66
 bible_book_name: "Revelation"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Revelation 22: A description of the heavenly state, und
 - All streams of earthly comfort are muddy; but these are clear, and refreshing. They give life, and preserve life, to those who drink of them, and thus they will flow for evermore. [[sources/commentaries_english/mhenry-concise/revelation/chapter-22#Verses 1–5|Matthew Henry Concise on Revelation 22]]
 - The Lord Jesus spake by the angel, solemnly confirming the contents of this book, particularly of this last vision. He is the Lord God faithful and true. [[sources/commentaries_english/mhenry-concise/revelation/chapter-22#Verses 6–19|Matthew Henry Concise on Revelation 22]]
 - After discovering these things to his people on earth, Christ seems to take leave of them, and return to heaven; but he assures them it shall not be long before he comes again. And while we are busy in the duties of our different stations of life; whatever labours may try us, whatever difficulties may surround us, w… [[sources/commentaries_english/mhenry-concise/revelation/chapter-22#Verses 20, 21|Matthew Henry Concise on Revelation 22]]
+- In this chapter we have, I. A further description of the heavenly state of the church, Re 22:1-5. II. A confirmation of this and all the other visions of this book, Re 22:6-19. III. The conclusion, Re 22:20,21. [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-22|Matthew Henry Complete on Revelation 22]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Revelation 22 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Prophecy|Prophecy]]
@@ -42,6 +47,7 @@ Primary scope: Revelation 22 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/revelation/chapter-22|Matthew Henry Concise, Revelation 22]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-22|Matthew Henry Complete on Revelation 22]]
 
 ## Open questions
 

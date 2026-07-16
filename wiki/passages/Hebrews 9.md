@@ -5,7 +5,7 @@ description: The Jewish tabernacle and its utensils. (1–5). Their use and mean
 tags: [christ, faith, covenant, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 58
 bible_book_name: "Hebrews"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Hebrews 9: The Jewish tabernacle and its utensils. (1�
 - All good things past, present, and to come, were and are founded upon the priestly office of Christ, and come to us from thence. Our High Priest entered into heaven once for all, and has obtained eternal redemption. [[sources/commentaries_english/mhenry-concise/hebrews/chapter-9#Verses 11–14|Matthew Henry Concise on Hebrews 9]]
 - The solemn transactions between God and man, are sometimes called a covenant, here a testament, which is a willing deed of a person, bestowing legacies on such persons as are described, and it only takes effect upon his death. Thus Christ died, not only to obtain the blessings of salvation for us, but to give power … [[sources/commentaries_english/mhenry-concise/hebrews/chapter-9#Verses 15–22|Matthew Henry Concise on Hebrews 9]]
 - It is evident that the sacrifices of Christ are infinitely better than those of the law, which could neither procure pardon for sin, nor impart power against it. Sin would still have been upon us, and have had dominion over us; but Jesus Christ, by one sacrifice, has destroyed the works of the devil, that believers … [[sources/commentaries_english/mhenry-concise/hebrews/chapter-9#Verses 23–28|Matthew Henry Concise on Hebrews 9]]
+- The apostle, having declared the Old-Testament dispensation antiquated and vanishing away, proceeds to let the Hebrews see the correspondence there was between the Old Testament and the New; and that whatever was… [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-9|Matthew Henry Complete on Hebrews 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Hebrews 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -45,6 +50,7 @@ Primary scope: Hebrews 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/hebrews/chapter-9|Matthew Henry Concise, Hebrews 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-9|Matthew Henry Complete on Hebrews 9]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The descent of the Holy Spirit at the day of Pentecost. (1–4). Th
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Acts 2: The descent of the Holy Spirit at the day of Pe
 - Peter's sermon shows that he was thoroughly recovered from his fall, and thoroughly restored to the Divine favour; for he who had denied Christ, now boldly confessed him. His account of the miraculous pouring forth of the Spirit, was designed to awaken the hearers to embrace the faith of Christ, and to join themselv… [[sources/commentaries_english/mhenry-concise/acts/chapter-2#Verses 14–21|Matthew Henry Concise on Acts 2]]
 - From this gift of the Holy Ghost, Peter preaches unto them Jesus: and here is the history of Christ. Here is an account of his death and sufferings, which they witnessed but a few weeks before. [[sources/commentaries_english/mhenry-concise/acts/chapter-2#Verses 22–36|Matthew Henry Concise on Acts 2]]
 - In these verses we have the history of the truly primitive church, of the first days of it; its state of infancy indeed, but, like that, the state of its greatest innocence. They kept close to holy ordinances, and abounded in piety and devotion; for Christianity, when admitted in the power of it, will dispose the so… [[sources/commentaries_english/mhenry-concise/acts/chapter-2#Verses 42–47|Matthew Henry Concise on Acts 2]]
+- Between the promise of the Messiah (even the latest of those promises) and his coming many ages intervened; but between the promise of the Spirit and his coming there were but a few days; and during those days the… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-2|Matthew Henry Complete on Acts 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -44,6 +49,7 @@ Primary scope: Acts 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-2|Matthew Henry Concise, Acts 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-2|Matthew Henry Complete on Acts 2]]
 
 ## Open questions
 

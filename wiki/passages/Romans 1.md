@@ -5,7 +5,7 @@ description: Gospel righteousness from faith to faith; Gentile guilt under revea
 tags: [salvation, faith, christ, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
@@ -24,8 +24,11 @@ Matthew Henry Concise reads Romans 1 as opening the epistle’s design: all fles
 - None can obtain God’s favor or escape wrath by their own works; sinfulness includes ungodliness against God and unrighteousness against neighbor, rooted in holding the truth in unrighteousness. [[sources/commentaries_english/mhenry-concise/romans/chapter-1#Verses 18–25|Matthew Henry Concise on Romans 1]]
 - Creator’s invisible power and Godhead are clearly shown in the works he has made, so that even idolaters are without excuse when they exchange the Creator’s glory for idols. [[sources/commentaries_english/mhenry-concise/romans/chapter-1#Verses 18–25|Matthew Henry Concise on Romans 1]]
 - Being given up to lusts is a severe slavery; the charges apply more or less to human nature until full submission to the faith of Christ and renewal by divine power. [[sources/commentaries_english/mhenry-concise/romans/chapter-1#Verses 26–32|Matthew Henry Concise on Romans 1]]
+- In this chapter we may observe, I. The preface and introduction to the whole epistle, to Ac 1:1-16. II. A description of the deplorable condition of the Gentile world, which begins the proof of the doctrine of… [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-1|Matthew Henry Complete on Romans 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. It should be thickened later with Matthew Henry Complete on the same chapter and with Spurgeon sermons that treat the same pericopes. Concise claims are pastoral and doctrinal summaries, not a full critical commentary.
 
@@ -34,6 +37,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. It should be th
 Primary scope: Romans 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Faith|Faith]]
@@ -46,6 +51,7 @@ Primary scope: Romans 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-1|Matthew Henry Concise, Romans 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-1|Matthew Henry Complete on Romans 1]]
 
 ## Open questions
 

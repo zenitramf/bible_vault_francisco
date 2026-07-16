@@ -5,7 +5,7 @@ description: Paul instructs the disciples of John at Ephesus. (1–7). He teache
 tags: [church, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Acts 19: Paul instructs the disciples of John at Ephesu
 - It was common, especially among the Jews, for persons to profess or to try to cast out evil spirits. If we resist the devil by faith in Christ, he will flee from us; but if we think to resist him by the using of Christ's name, or his works, as a spell or charm, Satan will prevail against us. [[sources/commentaries_english/mhenry-concise/acts/chapter-19#Verses 13–20|Matthew Henry Concise on Acts 19]]
 - Persons who came from afar to pay their devotions at the temple of Ephesus, bought little silver shrines, or models of the temple, to carry home with them. See how craftsmen make advantage to themselves of people's superstition, and serve their worldly ends by it. [[sources/commentaries_english/mhenry-concise/acts/chapter-19#Verses 21–31|Matthew Henry Concise on Acts 19]]
 - The Jews came forward in this tumult. Those who are thus careful to distinguish themselves from the servants of Christ now, and are afraid of being taken for them, shall have their doom accordingly in the great day. [[sources/commentaries_english/mhenry-concise/acts/chapter-19#Verses 32–41|Matthew Henry Concise on Acts 19]]
+- We left Paul in his circuit visiting the churches (Ac 18:23), but we have not forgotten, nor has he, the promise he made to his friends at Ephesus, to return to them, and make some stay there; now this chapter shows us… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-19|Matthew Henry Complete on Acts 19]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Acts 19 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -44,6 +49,7 @@ Primary scope: Acts 19 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-19|Matthew Henry Concise, Acts 19]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-19|Matthew Henry Complete on Acts 19]]
 
 ## Open questions
 

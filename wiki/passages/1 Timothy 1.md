@@ -5,7 +5,7 @@ description: The apostle salutes Timothy. (1–4). The design of the law as give
 tags: [pastoral-ministry, church, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 54
 bible_book_name: "1 Timothy"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on 1 Timothy 1: The apostle salutes Timothy. (1–4). The 
 - Whatever tends to weaken love to God, or love to the brethren, tends to defeat the end of the commandment. The design of the gospel is answered, when sinners, through repentance towards God and faith in Jesus Christ, are brought to exercise Christian love. [[sources/commentaries_english/mhenry-concise/1-timothy/chapter-1#Verses 5–11|Matthew Henry Concise on 1 Timothy 1]]
 - The apostle knew that he would justly have perished, if the Lord had been extreme to mark what was amiss; and also if his grace and mercy had not been abundant to him when dead in sin, working faith and love to Christ in his heart. This is a faithful saying; these are true and faithful words, which may be depended o… [[sources/commentaries_english/mhenry-concise/1-timothy/chapter-1#Verses 12–17|Matthew Henry Concise on 1 Timothy 1]]
 - The ministry is a warfare against sin and Satan; carried on under the Lord Jesus, who is the Captain of our salvation. The good hopes others have had of us, should stir us up to duty. [[sources/commentaries_english/mhenry-concise/1-timothy/chapter-1#Verses 18–20|Matthew Henry Concise on 1 Timothy 1]]
+- After the inscription (1Ti 1:1,2) we have, I. The charge given to Timothy, 1Ti 1:3,4. II. The true end of the law (1Ti 1:5-11), where he shows that it is entirely agreeable to the gospel. III. He mentions his own call… [[sources/commentaries_english/mhenry-complete/volume-6/1-timothy/chapter-1|Matthew Henry Complete on 1 Timothy 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Timothy 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
 - [[wiki/concepts/Church|Church]]
@@ -42,6 +47,7 @@ Primary scope: 1 Timothy 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-timothy/chapter-1|Matthew Henry Concise, 1 Timothy 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/1-timothy/chapter-1|Matthew Henry Complete on 1 Timothy 1]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The duties which become sound doctrine. (1–8). Believing servants
 tags: [pastoral-ministry, holiness, church]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 56
 bible_book_name: "Titus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Titus 2: The duties which become sound doctrine. (1–8
 - Old disciples of Christ must behave in every thing agreeably to the Christian doctrine. That the aged men be sober; not thinking that the decays of nature will justify any excess; but seeking comfort from nearer communion with God, not from any undue indulgence. [[sources/commentaries_english/mhenry-concise/titus/chapter-2#Verses 1–8|Matthew Henry Concise on Titus 2]]
 - Servants must know and do their duty to their earthly masters, with a reference to their heavenly one. In serving an earthly master according to Christ's will, He is served; such shall be rewarded by him. [[sources/commentaries_english/mhenry-concise/titus/chapter-2#Verses 9, 10|Matthew Henry Concise on Titus 2]]
 - The doctrine of grace and salvation by the gospel, is for all ranks and conditions of men. It teaches to forsake sin; to have no more to do with it. [[sources/commentaries_english/mhenry-concise/titus/chapter-2#Verses 11–15|Matthew Henry Concise on Titus 2]]
+- The apostle here directs Titus about the faithful discharge of his own office generally (Tit 2:1), and particularly as to several sorts of persons (Tit 2:2-10) and gives the grounds of these and of other following… [[sources/commentaries_english/mhenry-complete/volume-6/titus/chapter-2|Matthew Henry Complete on Titus 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Titus 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -42,6 +47,7 @@ Primary scope: Titus 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/titus/chapter-2|Matthew Henry Concise, Titus 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/titus/chapter-2|Matthew Henry Complete on Titus 2]]
 
 ## Open questions
 

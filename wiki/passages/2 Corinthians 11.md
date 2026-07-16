@@ -5,7 +5,7 @@ description: The apostle gives the reasons for speaking in his own commendation.
 tags: [pastoral-ministry, christ, christian-life, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 47
 bible_book_name: "2 Corinthians"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on 2 Corinthians 11: The apostle gives the reasons for spe
 - It is far better to be plain in speech, yet walking openly and consistently with the gospel, than to be admired by thousands, and be lifted up in pride, so as to disgrace the gospel by evil tempers and unholy lives. The apostle would not give room for any to accuse him of worldly designs in preaching the gospel, tha… [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-11#Verses 5–15|Matthew Henry Concise on 2 Corinthians 11]]
 - It is the duty and practice of Christians to humble themselves, in obedience to the command and example of the Lord; yet prudence must direct in what it is needful to do things which we may do lawfully, even the speaking of what God has wrought for us, and in us, and by us. Doubtless here is reference to facts in wh… [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-11#Verses 16–21|Matthew Henry Concise on 2 Corinthians 11]]
 - The apostle gives an account of his labours and sufferings; not out of pride or vain-glory, but to the honour of God, who enabled him to do and suffer so much for the cause of Christ; and shows wherein he excelled the false apostles, who tried to lessen his character and usefulness. It astonishes us to reflect on th… [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-11#Verses 22–33|Matthew Henry Concise on 2 Corinthians 11]]
+- In this chapter the apostle goes on with his discourse, in opposition to the false apostles, who were very industrious to lessen his interest and reputation among the Corinthians, and had prevailed too much by their… [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-11|Matthew Henry Complete on 2 Corinthians 11]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Corinthians 11 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Christ|Christ]]
@@ -43,6 +48,7 @@ Primary scope: 2 Corinthians 11 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-11|Matthew Henry Concise, 2 Corinthians 11]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-11|Matthew Henry Complete on 2 Corinthians 11]]
 
 ## Open questions
 

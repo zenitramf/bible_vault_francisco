@@ -5,7 +5,7 @@ description: Another angel from heaven proclaims the fall of mystical Babylon. (
 tags: [christ, prophecy, worship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 66
 bible_book_name: "Revelation"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Revelation 18: Another angel from heaven proclaims the 
 - The downfal and destruction of the mystical Babylon are determined in the counsels of God. Another angel comes from heaven. [[sources/commentaries_english/mhenry-concise/revelation/chapter-18#Verses 1–8|Matthew Henry Concise on Revelation 18]]
 - The mourners had shared Babylon's sensual pleasures, and gained by her wealth and trade. The kings of the earth, whom she flattered into idolatry, allowing them to be tyrannical over their subjects, while obedient to her; and the merchants, those who trafficked for her indulgences, pardons, and honours; these mourn. [[sources/commentaries_english/mhenry-concise/revelation/chapter-18#Verses 9–19|Matthew Henry Concise on Revelation 18]]
 - That which is matter of rejoicing to the servants of God on earth, is matter of rejoicing to the angels in heaven. The apostles, who are honoured and daily worshipped at Rome in an idolatrous manner, will rejoice in her fall. [[sources/commentaries_english/mhenry-concise/revelation/chapter-18#Verses 20–24|Matthew Henry Concise on Revelation 18]]
+- We have here, I. An angel proclaiming the fall of Babylon, Re 18:1,2. II. Assigning the reasons of her fall, Re 18:3. III. Giving warning to all who belonged to God to come out of her (Re 18:4,5), and to assist in her… [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-18|Matthew Henry Complete on Revelation 18]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Revelation 18 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Prophecy|Prophecy]]
@@ -43,6 +48,7 @@ Primary scope: Revelation 18 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/revelation/chapter-18|Matthew Henry Concise, Revelation 18]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-18|Matthew Henry Complete on Revelation 18]]
 
 ## Open questions
 

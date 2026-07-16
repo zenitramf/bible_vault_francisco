@@ -5,7 +5,7 @@ description: The church in heaven and that on earth triumph, and praise the Lord
 tags: [christ, prophecy, worship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 66
 bible_book_name: "Revelation"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Revelation 19: The church in heaven and that on earth t
 
 - Praising God for what we have, is praying for what is yet further to be done for us. There is harmony between the angels and the saints in this triumphant song. [[sources/commentaries_english/mhenry-concise/revelation/chapter-19#Verses 1–10|Matthew Henry Concise on Revelation 19]]
 - Christ, the glorious Head of the church, is described as on a white horse, the emblem of justice and holiness. He has many crowns, for he is King of kings, and Lord of lords. [[sources/commentaries_english/mhenry-concise/revelation/chapter-19#Verses 11–21|Matthew Henry Concise on Revelation 19]]
+- In this chapter we have, I. A further account of the triumphant song of angels and saints for the fall of Babylon, Re 19:1-4. II. The marriage between Christ and the church proclaimed and perfected, Re 19:5-10. III.… [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-19|Matthew Henry Complete on Revelation 19]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Revelation 19 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Prophecy|Prophecy]]
@@ -42,6 +47,7 @@ Primary scope: Revelation 19 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/revelation/chapter-19|Matthew Henry Concise, Revelation 19]]
+- [[sources/commentaries_english/mhenry-complete/volume-6/revelation/chapter-19|Matthew Henry Complete on Revelation 19]]
 
 ## Open questions
 
