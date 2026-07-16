@@ -15,9 +15,13 @@ updated: 2026-07-16
 python3 .tools/scripts/wiki_tool.py search-catalog --query "prayer spirit intercession"
 python3 .tools/scripts/wiki_tool.py search-catalog --ref "ro 8"
 python3 .tools/scripts/wiki_tool.py search-catalog --tag prayer --limit 10
+
+# Traditional verse cross-references (TSK; not synthesis)
+python3 .tools/scripts/wiki_tool.py tsk --ref "ro 8:28"
+python3 .tools/scripts/wiki_tool.py tsk --chapter "mt 6" --max-refs 12
 ```
 
-Open the best `wiki/` hits. Use reverse indexes under `wiki/indexes/` when browsing by tag, passage, source, or type. Open `sources/` only for verification, disagreement, or missing detail—prefer paths already linked from wiki pages or listed in catalog `source_paths`.
+Open the best `wiki/` hits. Use reverse indexes under `wiki/indexes/` when browsing by tag, passage, source, or type. Open `sources/` only for verification, disagreement, or missing detail—prefer paths already linked from wiki pages or listed in catalog `source_paths`. For cross-reference chains, use `tsk` instead of scanning `sources/reference/tsk/tskxref.txt`.
 
 ## Ingest a new source
 

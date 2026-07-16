@@ -20,7 +20,7 @@ This bundle is OKF (Open Knowledge Format v0.1). Every concept document has YAML
 1. **Catalog first** — ranked search over `wiki/catalog.jsonl` (metadata map of every compiled note).
 2. **Open ranked wiki pages** — concepts, passages, source-notes, questions, people.
 3. **Follow wikilinks and reverse indexes** — `wiki/indexes/` for browse-by-tag, passage, source, or type.
-4. **Open specific sources only when needed** — use catalog `source_paths` / page `## Sources` links; never scan the whole commentary tree by default.
+4. **Open specific sources only when needed** — use catalog `source_paths` / page `## Sources` links; never scan the whole commentary tree by default. For traditional verse cross-reference chains, use `wiki_tool.py tsk` (data under `sources/reference/tsk/`); do not hand-scan `tskxref.txt`.
 
 ```bash
 # Primary retrieval (always available; no models)
@@ -30,6 +30,10 @@ python3 .tools/scripts/wiki_tool.py search-catalog --tag prayer
 python3 .tools/scripts/wiki_tool.py search-catalog --source "sermon_1532"
 python3 .tools/scripts/wiki_tool.py search-catalog --type "Biblical Concept" --query "holiness"
 python3 .tools/scripts/wiki_tool.py search-catalog --query "matthew 6" --limit 10
+
+# Verse cross-references (Treasury of Scripture Knowledge; not wiki synthesis)
+python3 .tools/scripts/wiki_tool.py tsk --ref "mt 6:9"
+python3 .tools/scripts/wiki_tool.py tsk --chapter "ge 1"
 ```
 
 **What the catalog scores:** title, path, tags, aliases, description, type, Bible references (including book/chapter hints), linked source paths, and soft boosts for `status` / `source_count`. CLI hits include **match reasons** and derived refs—use them to pick pages.

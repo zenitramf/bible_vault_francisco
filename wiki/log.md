@@ -392,3 +392,10 @@ append_only: true
 ## [2026-07-16] campaign | Phase 5.3 complete — all concepts reviewed
 
 - Executed 5.3.1–5.3.6: second-pass promoted all 30 Biblical Concept pages to reviewed. Thickened Creation (+Ge2, Ps104), Intercession (+Heb7), Justice (+Amos5, Mic6 Concise). Pruned Phase-4 volume-inventory Related links (~21). Rubric R1–R7 pass on all. Suite-style catalog smoke 8/8 Hits. Residual defers: none. Phase 5 concept graph maturation complete.
+
+## [2026-07-16] ingest | Treasury of Scripture Knowledge
+
+- Ingested immutable TSK cross-reference table under sources/reference/tsk/ (tskxref.txt + readme.txt + provenance).
+- Added wiki_tool.py tsk CLI (--ref/--chapter, markdown|plain|json).
+- Source note wiki/source-notes/Treasury of Scripture Knowledge.md; tool-only integration (no mass passage injection).
+- Documented in AGENTS.md, command-reference, workflow-examples, llm-wiki-query skill.
