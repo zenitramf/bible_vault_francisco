@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Holiness
-description: A source-backed synthesis of holiness as conformity to the holy God who calls and sanctifies his people through truth.
+description: Conformity to the holy God who calls and sanctifies his people through truth (1 Pet 1; Jn 17:17; Heb 10:14).
 tags: [holiness, christ, salvation, christian-life]
 status: seed
 updated: 2026-07-16

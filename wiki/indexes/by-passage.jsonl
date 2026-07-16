@@ -20,11 +20,11 @@
 {"book_key": 23, "count": 1, "key": "book:23", "kind": "book", "pages": ["wiki/concepts/Christ.md"]}
 {"book_key": 24, "count": 2, "key": "book:24", "kind": "book", "pages": ["wiki/concepts/Covenant.md", "wiki/concepts/Prophecy.md"]}
 {"book_key": 33, "count": 1, "key": "book:33", "kind": "book", "pages": ["wiki/concepts/Justice.md"]}
-{"book_key": 40, "count": 4, "key": "book:40", "kind": "book", "pages": ["wiki/concepts/Christ.md", "wiki/concepts/Church.md", "wiki/concepts/Discipleship.md", "wiki/concepts/Prayer.md"]}
+{"book_key": 40, "count": 5, "key": "book:40", "kind": "book", "pages": ["wiki/concepts/Christ.md", "wiki/concepts/Church.md", "wiki/concepts/Discipleship.md", "wiki/concepts/Prayer.md", "wiki/passages/Matthew 6 5-15.md"]}
 {"book_key": 42, "count": 1, "key": "book:42", "kind": "book", "pages": ["wiki/concepts/Discipleship.md"]}
 {"book_key": 43, "count": 6, "key": "book:43", "kind": "book", "pages": ["wiki/concepts/Christ.md", "wiki/concepts/Holiness.md", "wiki/concepts/Holy Spirit.md", "wiki/concepts/Pastoral Ministry.md", "wiki/concepts/Prayer.md", "wiki/concepts/Worship.md"]}
 {"book_key": 44, "count": 2, "key": "book:44", "kind": "book", "pages": ["wiki/concepts/Holy Spirit.md", "wiki/concepts/Salvation.md"]}
-{"book_key": 45, "count": 5, "key": "book:45", "kind": "book", "pages": ["wiki/concepts/Faith.md", "wiki/concepts/Holy Spirit.md", "wiki/concepts/Prayer.md", "wiki/concepts/Redemption.md", "wiki/concepts/Salvation.md"]}
+{"book_key": 45, "count": 6, "key": "book:45", "kind": "book", "pages": ["wiki/concepts/Faith.md", "wiki/concepts/Holy Spirit.md", "wiki/concepts/Prayer.md", "wiki/concepts/Redemption.md", "wiki/concepts/Salvation.md", "wiki/passages/Romans 8 26-27.md"]}
 {"book_key": 46, "count": 2, "key": "book:46", "kind": "book", "pages": ["wiki/concepts/Prophecy.md", "wiki/concepts/Redemption.md"]}
 {"book_key": 47, "count": 3, "key": "book:47", "kind": "book", "pages": ["wiki/concepts/Christ-Centered Ministry.md", "wiki/questions/What Sustains Christian Ministry.md", "wiki/source-notes/Devotional on 1 Timothy 1 12.md"]}
 {"book_key": 48, "count": 3, "key": "book:48", "kind": "book", "pages": ["wiki/concepts/Covenant.md", "wiki/concepts/Faith.md", "wiki/concepts/Salvation.md"]}
@@ -66,7 +66,7 @@
 {"book_key": 40, "count": 1, "key": "mt 16:24-26", "kind": "ref", "pages": ["wiki/concepts/Discipleship.md"]}
 {"book_key": 40, "count": 1, "key": "mt 18:20", "kind": "ref", "pages": ["wiki/concepts/Church.md"]}
 {"book_key": 40, "count": 1, "key": "mt 1:18-23", "kind": "ref", "pages": ["wiki/concepts/Christ.md"]}
-{"book_key": 40, "count": 1, "key": "mt 6:5-15", "kind": "ref", "pages": ["wiki/concepts/Prayer.md"]}
+{"book_key": 40, "count": 2, "key": "mt 6:5-15", "kind": "ref", "pages": ["wiki/concepts/Prayer.md", "wiki/passages/Matthew 6 5-15.md"]}
 {"book_key": 50, "count": 1, "key": "php 2:11", "kind": "ref", "pages": ["wiki/source-notes/Devotional on 1 Timothy 1 12.md"]}
 {"book_key": 19, "count": 1, "key": "ps 103", "kind": "ref", "pages": ["wiki/concepts/Redemption.md"]}
 {"book_key": 19, "count": 1, "key": "ps 130:7", "kind": "ref", "pages": ["wiki/concepts/Redemption.md"]}
@@ -78,4 +78,4 @@
 {"book_key": 45, "count": 1, "key": "ro 4", "kind": "ref", "pages": ["wiki/concepts/Faith.md"]}
 {"book_key": 45, "count": 2, "key": "ro 4:16", "kind": "ref", "pages": ["wiki/concepts/Faith.md", "wiki/concepts/Salvation.md"]}
 {"book_key": 45, "count": 1, "key": "ro 8:26", "kind": "ref", "pages": ["wiki/concepts/Holy Spirit.md"]}
-{"book_key": 45, "count": 1, "key": "ro 8:26-27", "kind": "ref", "pages": ["wiki/concepts/Prayer.md"]}
+{"book_key": 45, "count": 2, "key": "ro 8:26-27", "kind": "ref", "pages": ["wiki/concepts/Prayer.md", "wiki/passages/Romans 8 26-27.md"]}

@@ -1,7 +1,7 @@
 ---
 type: Source Note
 title: Devotional on 1 Timothy 1:12
-description: Summary and evaluation of a personal devotional on Christ-centered, Christ-enabled, faithful ministry.
+description: Personal devotional on Christ-centered, Christ-enabled, faithful ministry from 1 Timothy 1:12.
 tags: [christ, pastoral-ministry, discipleship]
 status: seed
 updated: 2026-07-16

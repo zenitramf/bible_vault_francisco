@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Faith
-description: A source-backed synthesis of faith as trust in Gods promise and in Christ, the means of justification and the principle of the life that pleases God.
+description: Trust in God's promise and in Christ; the means of justification and the principle of the life that pleases God (Gen 15:6; Rom 4; Heb 11).
 tags: [faith, salvation, christ, covenant]
 status: seed
 updated: 2026-07-16

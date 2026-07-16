@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Prayer
-description: A source-backed synthesis of prayer as humble approach to the Father, taught by Christ, helped by the Spirit, and perfected in Christ's intercession.
+description: Humble approach to the Father, taught by Christ, helped by the Spirit, and perfected in Christ's intercession (Mt 6:5–15; Jn 17; Rom 8:26–27).
 tags: [prayer, christ, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
@@ -37,6 +37,8 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27.
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/concepts/Worship|Worship]]
+- [[wiki/passages/Matthew 6 5-15|Matthew 6:5–15]]
+- [[wiki/passages/Romans 8 26-27|Romans 8:26–27]]
 
 ## Sources
 

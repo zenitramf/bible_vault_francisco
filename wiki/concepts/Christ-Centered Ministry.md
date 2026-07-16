@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Christ-Centered Ministry
-description: A source-backed synthesis of ministry focused on Christ, enabled by Christ, and exercised as faithful stewardship.
+description: Ministry focused on Christ, enabled by Christ, and exercised as faithful stewardship (1 Tim 1:12).
 tags: [christ, pastoral-ministry, discipleship]
 status: seed
 updated: 2026-07-16

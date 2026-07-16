@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Salvation
-description: A source-backed synthesis of salvation as Gods free grace in Christ, received by faith and not by works of the law.
+description: God's free grace in Christ, received by faith and not by works of the law (Acts 15:11; Rom 3–4; Eph 2).
 tags: [salvation, grace, faith, christ]
 status: seed
 updated: 2026-07-16
