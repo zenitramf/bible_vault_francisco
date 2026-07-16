@@ -5,7 +5,7 @@ description: Praise for God's sovereign power in the creation. (1–7). For his 
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Psalm 66: Praise for God's sovereign power in the creat
 - The Lord not only preserves our temporal life, but maintains the spiritual life which he has given to believers. By afflictions we are proved, as silver in the fire. [[sources/commentaries_english/mhenry-concise/psalms/psalm-66#Verses 8–12|Matthew Henry Concise on Psalm 66]]
 - We should declare unto those that fear God, what he has done for our souls, and how he has heard and answered our prayers, inviting them to join us in prayer and praise; this will turn to our mutual comfort, and to the glory of God. We cannot share these spiritual privileges, if we retain the love of sin in our… [[sources/commentaries_english/mhenry-concise/psalms/psalm-66#Verses 13–20|Matthew Henry Concise on Psalm 66]]
 - This is a thanksgiving-psalm, and it is of such a general use and application that we need not suppose it penned upon any particular occasion. All people are here called upon to praise God, I. For the general instances… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-66|Matthew Henry Complete on Psalm 66]]
+- Title — To the Chief Musician. He had need be a man of great skill, worthily to sing such a Psalm as this: the best music in the world would be honoured by marriage with such expressions. A Song or Psalm, or a Song and… [[sources/commentaries_english/chspurgeon-tod/volume-3/psalm-66|Treasury of David, Psalm 66]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -34,6 +37,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 66 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 3|Spurgeon Treasury of David Volume 3]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -51,6 +56,7 @@ Primary scope: Psalm 66 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-66|Matthew Henry Concise, Psalm 66]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-66|Matthew Henry Complete on Psalm 66]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-3/psalm-66|Treasury of David, Psalm 66]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: David complains of great distress. (1–12). And begs for succour. 
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Psalm 69: David complains of great distress. (1–12). 
 - These are prophecies of the destruction of Christ's persecutors. Verses 22, 23, are applied to the judgments of God upon the unbelieving Jews, in Ro 11:9, 10. [[sources/commentaries_english/mhenry-concise/psalms/psalm-69#Verses 22–29|Matthew Henry Concise on Psalm 69]]
 - The psalmist concludes the psalm with holy joy and praise, which he began with complaints of his grief. It is a great comfort to us, that humble and thankful praises are more pleasing to God than the most costly, pompous sacrifices. [[sources/commentaries_english/mhenry-concise/psalms/psalm-69#Verses 30–36|Matthew Henry Concise on Psalm 69]]
 - David penned this psalm when he was in affliction; and in it, I. He complains of the great distress and trouble he was in and earnestly begs of God to relieve and succour him, Ps 69:1-21. II. He imprecates the… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-69|Matthew Henry Complete on Psalm 69]]
+- Title — To the Chief Musician upon Shoshannim. Thus for the second time we have a Psalm entitled "upon the lilies." In the forty-first they were golden lilies, dropping sweet smelling myrrh, and blooming in the fair… [[sources/commentaries_english/chspurgeon-tod/volume-3/psalm-69|Treasury of David, Psalm 69]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -34,6 +37,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 69 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 3|Spurgeon Treasury of David Volume 3]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -51,6 +56,7 @@ Primary scope: Psalm 69 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-69|Matthew Henry Concise, Psalm 69]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-69|Matthew Henry Complete on Psalm 69]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-3/psalm-69|Treasury of David, Psalm 69]]
 
 ## Open questions
 

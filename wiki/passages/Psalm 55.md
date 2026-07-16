@@ -5,7 +5,7 @@ description: Prayer to God to manifest his favour. (1–8). The great wickedness
 tags: [prayer, worship, faith, holiness, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Psalm 55: Prayer to God to manifest his favour. (1–8)
 - No wickedness so distresses the believer, as that which he witnesses in those who profess to be of the church of God. Let us not be surprised at the corruptions and disorders of the church on earth, but long to see the New Jerusalem. [[sources/commentaries_english/mhenry-concise/psalms/psalm-55#Verses 9–15|Matthew Henry Concise on Psalm 55]]
 - In every trial let us call upon the Lord, and he will save us. He shall hear us, and not blame us for coming too often; the oftener the more welcome. [[sources/commentaries_english/mhenry-concise/psalms/psalm-55#Verses 16–23|Matthew Henry Concise on Psalm 55]]
 - It is the conjecture of many expositors that David penned this psalm upon occasion of Absalom's rebellion, and that the particular enemy he here speaks of, that dealt treacherously with him, was Ahithophel; and some… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-55|Matthew Henry Complete on Psalm 55]]
+- Title — To the Chief Musician on Neginoth. Another song to be accompanied by stringed instruments. The strain is at one time mournful, and at another softly sweet. It needed the chief musician's best care to see that… [[sources/commentaries_english/chspurgeon-tod/volume-3/psalm-55|Treasury of David, Psalm 55]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -34,6 +37,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 55 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 3|Spurgeon Treasury of David Volume 3]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -51,6 +56,7 @@ Primary scope: Psalm 55 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-55|Matthew Henry Concise, Psalm 55]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-55|Matthew Henry Complete on Psalm 55]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-3/psalm-55|Treasury of David, Psalm 55]]
 
 ## Open questions
 

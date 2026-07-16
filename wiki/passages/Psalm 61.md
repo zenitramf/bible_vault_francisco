@@ -5,7 +5,7 @@ description: David seeks God upon former experience. (1–4). He vows to serve G
 tags: [prayer, worship, faith, holiness, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Psalm 61: David seeks God upon former experience. (1–
 - David begins with prayers and tears, but ends with praise. Thus the soul, being lifted up to God, returns to the enjoyment of itself. [[sources/commentaries_english/mhenry-concise/psalms/psalm-61#Verses 1–4|Matthew Henry Concise on Psalm 61]]
 - There is a people in the world that fear God's name. There is a heritage peculiar to that people; present comforts in the soul, earnests of future bliss. [[sources/commentaries_english/mhenry-concise/psalms/psalm-61#Verses 5–8|Matthew Henry Concise on Psalm 61]]
 - David, in this psalm, as in many others, begins with a sad heart, but concludes with an air of pleasantness—begins with prayers and tears, but ends with songs of praise. Thus the soul, by being lifted up to God,… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-61|Matthew Henry Complete on Psalm 61]]
+- Title — To the Chief Musician upon Neginah, a Psalm of David. The original indicates that both the hymn and the musical instrument were David's. He wrote the verses and himself sang them to the stringed instrument… [[sources/commentaries_english/chspurgeon-tod/volume-3/psalm-61|Treasury of David, Psalm 61]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 61 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 3|Spurgeon Treasury of David Volume 3]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -50,6 +55,7 @@ Primary scope: Psalm 61 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-61|Matthew Henry Concise, Psalm 61]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-61|Matthew Henry Complete on Psalm 61]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-3/psalm-61|Treasury of David, Psalm 61]]
 
 ## Open questions
 
