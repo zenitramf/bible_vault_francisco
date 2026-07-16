@@ -187,3 +187,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.3 Sermons Volumes 1–10
 
 - Volume source-notes for sermons volumes 1–10 (576 files). Path-scoped zero-uncovered OK (trailing-slash filters).
+
+## [2026-07-16] campaign | Phase 4.3 Sermons Volumes 11–20
+
+- Volume source-notes for sermons volumes 11–20 (602 files). Zero-uncovered OK.

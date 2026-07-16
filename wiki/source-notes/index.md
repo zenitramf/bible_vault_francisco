@@ -83,7 +83,17 @@
 * [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Spurgeon Morning and Evening Theme Enrichment]] - Selective month-sample enrichment from Spurgeon daily devotionals for concept mesh (Phase 3.6). Not a calendar mirror.
 * [[wiki/source-notes/Spurgeon Sermons Volume 1|Spurgeon Sermons Volume 1]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 1.
 * [[wiki/source-notes/Spurgeon Sermons Volume 10|Spurgeon Sermons Volume 10]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 10.
+* [[wiki/source-notes/Spurgeon Sermons Volume 11|Spurgeon Sermons Volume 11]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 11.
+* [[wiki/source-notes/Spurgeon Sermons Volume 12|Spurgeon Sermons Volume 12]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 12.
+* [[wiki/source-notes/Spurgeon Sermons Volume 13|Spurgeon Sermons Volume 13]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 13.
+* [[wiki/source-notes/Spurgeon Sermons Volume 14|Spurgeon Sermons Volume 14]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 14.
+* [[wiki/source-notes/Spurgeon Sermons Volume 15|Spurgeon Sermons Volume 15]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 15.
+* [[wiki/source-notes/Spurgeon Sermons Volume 16|Spurgeon Sermons Volume 16]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 16.
+* [[wiki/source-notes/Spurgeon Sermons Volume 17|Spurgeon Sermons Volume 17]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 17.
+* [[wiki/source-notes/Spurgeon Sermons Volume 18|Spurgeon Sermons Volume 18]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 18.
+* [[wiki/source-notes/Spurgeon Sermons Volume 19|Spurgeon Sermons Volume 19]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 19.
 * [[wiki/source-notes/Spurgeon Sermons Volume 2|Spurgeon Sermons Volume 2]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 2.
+* [[wiki/source-notes/Spurgeon Sermons Volume 20|Spurgeon Sermons Volume 20]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 20.
 * [[wiki/source-notes/Spurgeon Sermons Volume 3|Spurgeon Sermons Volume 3]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 3.
 * [[wiki/source-notes/Spurgeon Sermons Volume 4|Spurgeon Sermons Volume 4]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 4.
 * [[wiki/source-notes/Spurgeon Sermons Volume 5|Spurgeon Sermons Volume 5]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 5.
