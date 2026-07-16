@@ -76,6 +76,33 @@ class CatalogExtractionTests(unittest.TestCase):
             finally:
                 wt.INDEXES_DIR = old
 
+    def test_parse_tsk_query_abbrev_and_name(self) -> None:
+        self.assertEqual(wt.parse_tsk_query("mt 6:9"), (40, 6, 9, None))
+        self.assertEqual(wt.parse_tsk_query("mt 6:9-13"), (40, 6, 9, 13))
+        self.assertEqual(wt.parse_tsk_query("ge 1"), (1, 1, None, None))
+        self.assertEqual(wt.parse_tsk_query("Matthew 6:9"), (40, 6, 9, None))
+        self.assertEqual(wt.parse_tsk_query("1 Timothy 1:12"), (54, 1, 12, None))
+        self.assertIsNone(wt.parse_tsk_query("not a ref"))
+
+    def test_format_tsk_ref_token(self) -> None:
+        self.assertEqual(wt.format_tsk_ref_token("pr 8:22-24"), "pr 8:22-24")
+        self.assertEqual(wt.format_tsk_ref_token("ps 33:6,9"), "ps 33:6,9")
+        self.assertEqual(wt.format_tsk_ref_token("Le14_40"), "Le14_40")
+
+    def test_tsk_lookup_genesis_1_1(self) -> None:
+        if not wt.TSK_XREF.is_file():
+            self.skipTest("TSK data not present")
+        pairs = wt.tsk_entries_for(1, 1, 1, 1)
+        self.assertTrue(pairs)
+        verse, entries = pairs[0]
+        self.assertEqual(verse, 1)
+        words = {e["word"] for e in entries}
+        self.assertIn("beginning", words)
+        self.assertIn("God", words)
+        md = wt.render_tsk_markdown(1, 1, 1, None, pairs, max_refs=5)
+        self.assertIn("ge 1:1", md)
+        self.assertIn("beginning", md)
+
     def test_search_ranks_prayer_for_prayer_query(self) -> None:
         if not wt.CATALOG.is_file():
             self.skipTest("catalog missing; run build")

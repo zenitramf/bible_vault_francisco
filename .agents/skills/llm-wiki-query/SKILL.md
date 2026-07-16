@@ -24,6 +24,15 @@ python3 .tools/scripts/wiki_tool.py search-catalog --type "Biblical Concept" --q
 
 Catalog rows and reverse indexes (`wiki/indexes/`) include derived `bible_references`, `source_paths`, and `related_paths`. Use match reasons in the CLI output to choose pages.
 
+When the user wants **cross-references / parallel passages** for a verse (not commentary synthesis), query TSK:
+
+```bash
+python3 .tools/scripts/wiki_tool.py tsk --ref "mt 6:9"
+python3 .tools/scripts/wiki_tool.py tsk --chapter "ro 8" --max-refs 15
+```
+
+TSK is evidence under `sources/reference/tsk/`; do not open or scan `tskxref.txt` directly.
+
 2. Open the most relevant wiki notes only.
 3. Open `sources/` only when:
    - the wiki is incomplete,

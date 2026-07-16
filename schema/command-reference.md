@@ -35,6 +35,8 @@ python3 .tools/scripts/wiki_tool.py <command> [options]
 | `search-catalog --ref "mt 6"` | Filter/boost by Bible reference or book |
 | `search-catalog --source PATH` | Filter by source path substring |
 | `search-catalog --type "Passage"` | Filter by page type substring |
+| `tsk --ref "mt 6:9"` | Treasury of Scripture Knowledge cross-refs for a verse or range |
+| `tsk --chapter "ge 1"` | TSK entries for every verse in a chapter |
 | `log --title "..." --details "..."` | Append an entry to `wiki/log.md` |
 
 ### `search-catalog` examples
@@ -48,6 +50,27 @@ python3 .tools/scripts/wiki_tool.py search-catalog --tag prayer --type "Biblical
 ```
 
 Hits print a score, match reasons, and derived refs when present. This is the primary agent retrieval path for the compiled wiki.
+
+### `tsk` (Treasury of Scripture Knowledge)
+
+Immutable data: `sources/reference/tsk/tskxref.txt` (see provenance note beside it). Do not hand-scan the TSV; use this command when a study question needs traditional cross-reference chains. Output is **not** wiki synthesis—pair with `search-catalog` / passage hubs.
+
+```bash
+python3 .tools/scripts/wiki_tool.py tsk --ref "mt 6:9"
+python3 .tools/scripts/wiki_tool.py tsk --ref "Matthew 6:9-13"
+python3 .tools/scripts/wiki_tool.py tsk --chapter "ge 1"
+python3 .tools/scripts/wiki_tool.py tsk --ref "joh 1:1" --format json
+python3 .tools/scripts/wiki_tool.py tsk --chapter "ps 23" --format plain --max-refs 12
+```
+
+| Option | Purpose |
+|---|---|
+| `--ref` | Verse or verse range (`mt 6:9`, `mt 6:1-15`, English book names ok) |
+| `--chapter` | All TSK rows for a chapter (`mt 6`, `Genesis 1`) |
+| `--format` | `markdown` (default), `plain`, or `json` |
+| `--max-refs` | Cap how many refs print per keyword entry (`0` = unlimited) |
+
+Markdown output links the matching `wiki/passages/` chapter hub when present.
 
 ### Coverage gates (`source-coverage`)
 

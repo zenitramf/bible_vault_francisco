@@ -23,6 +23,8 @@ CATALOG = WIKI / "catalog.jsonl"
 INDEXES_DIR = WIKI / "indexes"
 MANIFEST = SCHEMA / "source-manifest.jsonl"
 LOG = WIKI / "log.md"
+TSK_XREF = SOURCES / "reference" / "tsk" / "tskxref.txt"
+TSK_PROVENANCE = SOURCES / "reference" / "tsk" / "provenance.md"
 
 REQUIRED_WIKI_FIELDS = ("type", "title", "description", "tags")
 ALLOWED_STATUS = {"seed", "developing", "reviewed"}
@@ -1556,6 +1558,16 @@ def cmd_doctor(_: argparse.Namespace) -> int:
     print(f"  source-manifest: {'present' if MANIFEST.is_file() else 'missing'}")
     print(f"  reverse indexes: {'present' if INDEXES_DIR.is_dir() else 'missing'}")
     print(f"  lint_wiki: {'present' if (ROOT / '.tools/scripts/lint_wiki.py').is_file() else 'missing'}")
+    if TSK_XREF.is_file():
+        try:
+            size_mb = TSK_XREF.stat().st_size / 1_000_000
+        except OSError:
+            size_mb = 0.0
+        print(f"  TSK data: present ({rel(TSK_XREF)}, {size_mb:.2f} MB)")
+    else:
+        warnings.append(f"TSK data missing: {rel(TSK_XREF)} (wiki_tool.py tsk will fail)")
+    if not TSK_PROVENANCE.is_file():
+        warnings.append(f"TSK provenance missing: {rel(TSK_PROVENANCE)}")
 
     if CATALOG.is_file():
         rows = load_jsonl(CATALOG)
@@ -2313,6 +2325,360 @@ def cmd_search_catalog(args: argparse.Namespace) -> int:
     return 0
 
 
+# ---------------------------------------------------------------------------
+# Treasury of Scripture Knowledge (TSK) lookup
+# ---------------------------------------------------------------------------
+
+# Cache: book_key -> chapter -> verse -> list of {sort, word, refs: list[str]}
+_TSK_INDEX: dict[int, dict[int, dict[int, list[dict[str, Any]]]]] | None = None
+_TSK_STATS: dict[str, int] | None = None
+
+# Single TSK ref token: "mt 6:9", "pr 8:22-24", "ps 33:6,9", "ps 33:6,9-11"
+_TSK_TOKEN_RE = re.compile(
+    r"^([1-3]?[a-z]+)\s+(\d+)(?::(.+))?$",
+    re.IGNORECASE,
+)
+
+
+def tsk_data_path() -> Path:
+    """Return path to tskxref.txt (overrideable in tests via TSK_XREF)."""
+    return TSK_XREF
+
+
+def load_tsk_index(force: bool = False) -> dict[int, dict[int, dict[int, list[dict[str, Any]]]]]:
+    """Parse tskxref.txt into a nested dict. Cached for the process lifetime."""
+    global _TSK_INDEX, _TSK_STATS
+    if _TSK_INDEX is not None and not force:
+        return _TSK_INDEX
+
+    path = tsk_data_path()
+    if not path.is_file():
+        raise FileNotFoundError(
+            f"TSK data missing: {rel(path) if path.is_relative_to(ROOT) else path}. "
+            "Expected sources/reference/tsk/tskxref.txt"
+        )
+
+    index: dict[int, dict[int, dict[int, list[dict[str, Any]]]]] = defaultdict(
+        lambda: defaultdict(lambda: defaultdict(list))
+    )
+    rows = 0
+    with path.open("r", encoding="utf-8", errors="replace", newline="") as handle:
+        for line in handle:
+            line = line.rstrip("\r\n")
+            if not line:
+                continue
+            parts = line.split("\t")
+            if len(parts) < 6:
+                continue
+            try:
+                book = int(parts[0])
+                chapter = int(parts[1])
+                verse = int(parts[2])
+                sort_order = int(parts[3])
+            except ValueError:
+                continue
+            word = parts[4]
+            ref_field = parts[5]
+            refs = [r.strip() for r in ref_field.split(";") if r.strip()]
+            index[book][chapter][verse].append(
+                {"sort": sort_order, "word": word, "refs": refs}
+            )
+            rows += 1
+
+    # Freeze nested defaultdicts into plain dicts; sort entries by sort order
+    frozen: dict[int, dict[int, dict[int, list[dict[str, Any]]]]] = {}
+    verse_count = 0
+    for book, chapters in index.items():
+        frozen[book] = {}
+        for chapter, verses in chapters.items():
+            frozen[book][chapter] = {}
+            for verse, entries in verses.items():
+                entries.sort(key=lambda e: (e["sort"], e["word"]))
+                frozen[book][chapter][verse] = entries
+                verse_count += 1
+
+    _TSK_INDEX = frozen
+    _TSK_STATS = {"rows": rows, "verses": verse_count}
+    return _TSK_INDEX
+
+
+def tsk_stats() -> dict[str, int]:
+    load_tsk_index()
+    assert _TSK_STATS is not None
+    return dict(_TSK_STATS)
+
+
+def parse_tsk_query(raw: str) -> tuple[int, int, int | None, int | None] | None:
+    """Parse user ref/chapter query into (book_key, chapter, verse_start|None, verse_end|None).
+
+    Accepts vault abbrevs and English book names, e.g.:
+      mt 6:9 | Matthew 6:9 | mt 6 | mt 6:1-15 | joh 1:1-3
+    """
+    text = raw.strip().strip("'\"").replace("–", "-").replace("—", "-")
+    if not text:
+        return None
+
+    # Prefer full book-name match (handles "1 Timothy 1:12")
+    m = _BOOK_NAME_RE.match(text)
+    if m and m.end() >= len(text.strip()):
+        abbrev = lookup_abbrev(m.group(1))
+        if not abbrev or abbrev not in ABBREV_TO_KEY:
+            return None
+        chapter = int(m.group(2))
+        verse = int(m.group(3)) if m.group(3) else None
+        end = int(m.group(4)) if m.group(4) else None
+        return ABBREV_TO_KEY[abbrev], chapter, verse, end
+
+    # Abbrev form: "mt 6:9", "1ti 1:12-14", "ge 1"
+    m = re.match(
+        r"^([1-3]?[a-z]+)\s+(\d+)(?::(\d+)(?:-(\d+))?)?\s*$",
+        text,
+        re.IGNORECASE,
+    )
+    if not m:
+        return None
+    abbrev = lookup_abbrev(m.group(1))
+    if not abbrev or abbrev not in ABBREV_TO_KEY:
+        return None
+    chapter = int(m.group(2))
+    verse = int(m.group(3)) if m.group(3) else None
+    end = int(m.group(4)) if m.group(4) else None
+    return ABBREV_TO_KEY[abbrev], chapter, verse, end
+
+
+def format_tsk_ref_token(token: str) -> str:
+    """Normalize a single TSK reference_list token for display; pass through unknowns."""
+    token = token.strip()
+    if not token:
+        return token
+    m = _TSK_TOKEN_RE.match(token)
+    if not m:
+        return token
+    abbrev = lookup_abbrev(m.group(1))
+    if not abbrev:
+        return token
+    chapter = m.group(2)
+    rest = m.group(3)
+    if not rest:
+        return f"{abbrev} {chapter}"
+    return f"{abbrev} {chapter}:{rest}"
+
+
+def passage_hub_path(book_key: int, chapter: int) -> Path | None:
+    """Return wiki/passages/<Book> <chapter>.md if it exists."""
+    name = KEY_TO_NAME.get(book_key)
+    if not name:
+        return None
+    path = WIKI / "passages" / f"{name} {chapter}.md"
+    return path if path.is_file() else None
+
+
+def tsk_entries_for(
+    book_key: int,
+    chapter: int,
+    verse_start: int | None = None,
+    verse_end: int | None = None,
+) -> list[tuple[int, list[dict[str, Any]]]]:
+    """Return sorted (verse, entries) pairs for a chapter or verse range."""
+    index = load_tsk_index()
+    chapters = index.get(book_key, {})
+    verses_map = chapters.get(chapter, {})
+    if not verses_map:
+        return []
+
+    if verse_start is None:
+        keys = sorted(verses_map.keys())
+    else:
+        end = verse_end if verse_end is not None else verse_start
+        if end < verse_start:
+            verse_start, end = end, verse_start
+        keys = [v for v in sorted(verses_map.keys()) if verse_start <= v <= end]
+
+    return [(v, verses_map[v]) for v in keys]
+
+
+def render_tsk_markdown(
+    book_key: int,
+    chapter: int,
+    verse_start: int | None,
+    verse_end: int | None,
+    pairs: list[tuple[int, list[dict[str, Any]]]],
+    *,
+    max_refs: int = 0,
+) -> str:
+    abbrev = KEY_TO_ABBREV[book_key]
+    book_name = KEY_TO_NAME[book_key]
+    if verse_start is None:
+        scope = f"{abbrev} {chapter}"
+        title_scope = f"{book_name} {chapter}"
+    elif verse_end is None or verse_end == verse_start:
+        scope = f"{abbrev} {chapter}:{verse_start}"
+        title_scope = f"{book_name} {chapter}:{verse_start}"
+    else:
+        scope = f"{abbrev} {chapter}:{verse_start}-{verse_end}"
+        title_scope = f"{book_name} {chapter}:{verse_start}-{verse_end}"
+
+    lines: list[str] = [
+        f"# TSK — {title_scope}",
+        "",
+        f"Query: `{scope}`",
+        f"Data: `{rel(tsk_data_path())}`",
+        f"Provenance: `{rel(TSK_PROVENANCE)}`",
+        "",
+    ]
+    hub = passage_hub_path(book_key, chapter)
+    if hub:
+        lines.append(f"Passage hub: [[{obsidian_link_target(hub)}|{book_name} {chapter}]]")
+        lines.append("")
+
+    if not pairs:
+        lines.append("_No TSK entries for this reference._")
+        lines.append("")
+        return "\n".join(lines)
+
+    for verse, entries in pairs:
+        lines.append(f"## {abbrev} {chapter}:{verse}")
+        lines.append("")
+        for entry in entries:
+            refs = entry["refs"]
+            if max_refs and max_refs > 0:
+                shown = refs[:max_refs]
+                suffix = f"; … (+{len(refs) - max_refs} more)" if len(refs) > max_refs else ""
+            else:
+                shown = refs
+                suffix = ""
+            pretty = "; ".join(format_tsk_ref_token(r) for r in shown) + suffix
+            word = entry["word"].strip() or "(phrase)"
+            lines.append(f"- **{word}** — {pretty}")
+        lines.append("")
+
+    stats = tsk_stats()
+    lines.append(
+        f"_TSK table: {stats['rows']} entries across {stats['verses']} verses. "
+        "Cross-references are traditional chains, not vault synthesis._"
+    )
+    lines.append("")
+    return "\n".join(lines)
+
+
+def render_tsk_plain(
+    book_key: int,
+    chapter: int,
+    pairs: list[tuple[int, list[dict[str, Any]]]],
+    *,
+    max_refs: int = 0,
+) -> str:
+    abbrev = KEY_TO_ABBREV[book_key]
+    out: list[str] = []
+    if not pairs:
+        return f"(no TSK entries for {abbrev} {chapter})"
+    for verse, entries in pairs:
+        for entry in entries:
+            refs = entry["refs"]
+            if max_refs and max_refs > 0:
+                shown = refs[:max_refs]
+                extra = f" …+{len(refs) - max_refs}" if len(refs) > max_refs else ""
+            else:
+                shown = refs
+                extra = ""
+            ref_s = ";".join(shown) + extra
+            out.append(f"{abbrev} {chapter}:{verse}\t{entry['word']}\t{ref_s}")
+    return "\n".join(out) + ("\n" if out else "")
+
+
+def render_tsk_json(
+    book_key: int,
+    chapter: int,
+    verse_start: int | None,
+    verse_end: int | None,
+    pairs: list[tuple[int, list[dict[str, Any]]]],
+    *,
+    max_refs: int = 0,
+) -> str:
+    abbrev = KEY_TO_ABBREV[book_key]
+    book_name = KEY_TO_NAME[book_key]
+    verses_out: list[dict[str, Any]] = []
+    for verse, entries in pairs:
+        entry_rows: list[dict[str, Any]] = []
+        for entry in entries:
+            refs = entry["refs"]
+            if max_refs and max_refs > 0:
+                refs = refs[:max_refs]
+            entry_rows.append(
+                {
+                    "sort": entry["sort"],
+                    "word": entry["word"],
+                    "refs": refs,
+                    "refs_display": [format_tsk_ref_token(r) for r in refs],
+                }
+            )
+        verses_out.append({"verse": verse, "entries": entry_rows})
+
+    hub = passage_hub_path(book_key, chapter)
+    payload = {
+        "book_key": book_key,
+        "book_name": book_name,
+        "abbrev": abbrev,
+        "chapter": chapter,
+        "verse_start": verse_start,
+        "verse_end": verse_end,
+        "passage_hub": rel(hub) if hub else None,
+        "data_path": rel(tsk_data_path()),
+        "verses": verses_out,
+        "stats": tsk_stats(),
+    }
+    return json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
+
+
+def cmd_tsk(args: argparse.Namespace) -> int:
+    """Look up Treasury of Scripture Knowledge cross-references by verse or chapter."""
+    raw = (args.ref or args.chapter or "").strip()
+    if not raw:
+        print("ERROR: provide --ref (verse or range) or --chapter", file=sys.stderr)
+        return 2
+
+    # --chapter forces chapter-wide even if a verse was typed
+    parsed = parse_tsk_query(raw)
+    if not parsed:
+        print(f"ERROR: could not parse reference: {raw!r}", file=sys.stderr)
+        print('  examples: --ref "mt 6:9"  --ref "Matthew 6:9-13"  --chapter "ge 1"', file=sys.stderr)
+        return 2
+
+    book_key, chapter, verse_start, verse_end = parsed
+    if args.chapter is not None and args.ref is None:
+        verse_start, verse_end = None, None
+
+    try:
+        pairs = tsk_entries_for(book_key, chapter, verse_start, verse_end)
+    except FileNotFoundError as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        return 1
+
+    max_refs = int(args.max_refs or 0)
+    fmt = (args.format or "markdown").lower()
+    if fmt in {"md", "markdown"}:
+        sys.stdout.write(
+            render_tsk_markdown(
+                book_key, chapter, verse_start, verse_end, pairs, max_refs=max_refs
+            )
+        )
+    elif fmt == "plain":
+        sys.stdout.write(render_tsk_plain(book_key, chapter, pairs, max_refs=max_refs))
+    elif fmt == "json":
+        sys.stdout.write(
+            render_tsk_json(
+                book_key, chapter, verse_start, verse_end, pairs, max_refs=max_refs
+            )
+        )
+    else:
+        print(f"ERROR: unknown --format {args.format!r} (use markdown|plain|json)", file=sys.stderr)
+        return 2
+
+    if not pairs:
+        return 1
+    return 0
+
+
 def cmd_log(args: argparse.Namespace) -> int:
     title = (args.title or "").strip()
     details = (args.details or "").strip()
@@ -2407,6 +2773,34 @@ def build_parser() -> argparse.ArgumentParser:
     search.add_argument("--type", default=None, help="Require page type substring")
     search.add_argument("--limit", type=int, default=10, help="Max hits")
 
+    tsk = sub.add_parser(
+        "tsk",
+        help="Look up Treasury of Scripture Knowledge cross-references (tool-only; data under sources/reference/tsk/)",
+    )
+    tsk_scope = tsk.add_mutually_exclusive_group(required=True)
+    tsk_scope.add_argument(
+        "--ref",
+        default=None,
+        help="Verse or range (e.g. 'mt 6:9', 'Matthew 6:9-13', 'ge 1:1')",
+    )
+    tsk_scope.add_argument(
+        "--chapter",
+        default=None,
+        help="Full chapter (e.g. 'mt 6', 'Genesis 1'); ignores any verse if present",
+    )
+    tsk.add_argument(
+        "--format",
+        choices=("markdown", "md", "plain", "json"),
+        default="markdown",
+        help="Output format (default: markdown)",
+    )
+    tsk.add_argument(
+        "--max-refs",
+        type=int,
+        default=0,
+        help="Cap refs listed per keyword entry (0 = all)",
+    )
+
     log = sub.add_parser("log", help="Append an entry to wiki/log.md")
     log.add_argument("--title", required=True, help="Log title after the date")
     log.add_argument("--details", default="", help="Details (newline-separated bullets ok)")
@@ -2427,6 +2821,7 @@ def main(argv: list[str] | None = None) -> int:
         "source_delta": cmd_source_delta,
         "source_coverage": cmd_source_coverage,
         "search_catalog": cmd_search_catalog,
+        "tsk": cmd_tsk,
         "log": cmd_log,
     }
     return dispatch[command](args)
