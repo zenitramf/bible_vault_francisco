@@ -105,7 +105,17 @@
 * [[wiki/source-notes/Spurgeon Sermons Volume 29|Spurgeon Sermons Volume 29]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 29.
 * [[wiki/source-notes/Spurgeon Sermons Volume 3|Spurgeon Sermons Volume 3]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 3.
 * [[wiki/source-notes/Spurgeon Sermons Volume 30|Spurgeon Sermons Volume 30]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 30.
+* [[wiki/source-notes/Spurgeon Sermons Volume 31|Spurgeon Sermons Volume 31]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 31.
+* [[wiki/source-notes/Spurgeon Sermons Volume 32|Spurgeon Sermons Volume 32]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 32.
+* [[wiki/source-notes/Spurgeon Sermons Volume 33|Spurgeon Sermons Volume 33]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 33.
+* [[wiki/source-notes/Spurgeon Sermons Volume 34|Spurgeon Sermons Volume 34]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 34.
+* [[wiki/source-notes/Spurgeon Sermons Volume 35|Spurgeon Sermons Volume 35]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 35.
+* [[wiki/source-notes/Spurgeon Sermons Volume 36|Spurgeon Sermons Volume 36]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 36.
+* [[wiki/source-notes/Spurgeon Sermons Volume 37|Spurgeon Sermons Volume 37]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 37.
+* [[wiki/source-notes/Spurgeon Sermons Volume 38|Spurgeon Sermons Volume 38]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 38.
+* [[wiki/source-notes/Spurgeon Sermons Volume 39|Spurgeon Sermons Volume 39]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 39.
 * [[wiki/source-notes/Spurgeon Sermons Volume 4|Spurgeon Sermons Volume 4]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 4.
+* [[wiki/source-notes/Spurgeon Sermons Volume 40|Spurgeon Sermons Volume 40]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 40.
 * [[wiki/source-notes/Spurgeon Sermons Volume 5|Spurgeon Sermons Volume 5]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 5.
 * [[wiki/source-notes/Spurgeon Sermons Volume 6|Spurgeon Sermons Volume 6]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 6.
 * [[wiki/source-notes/Spurgeon Sermons Volume 7|Spurgeon Sermons Volume 7]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 7.

@@ -249,7 +249,7 @@ One reviewed row per volume band (or per volume if splitting commits). Each volu
 | Volumes 1–10 | reviewed | 576 | Volume source-notes list every sermon; 0 uncovered |
 | Volumes 11–20 | reviewed | 602 | Volume source-notes list every sermon; 0 uncovered |
 | Volumes 21–30 | reviewed | 616 | Volume source-notes list every sermon; 0 uncovered |
-| Volumes 31–40 | pending | ~566 | |
+| Volumes 31–40 | reviewed | 574 | Volume source-notes list every sermon; 0 uncovered |
 | Volumes 41–50 | pending | ~522 | |
 | Volumes 51–60 | pending | ~524 | |
 | Volumes 61–63 | pending | ~124 | Final volumes (vol 63 smaller) |
