@@ -11,13 +11,19 @@ The user asks a biblical, theological, or vault-knowledge question.
 
 ## Order of operations
 
-1. Start with `wiki/index.md` and/or the catalog:
+1. Start with the enriched catalog (primary agent map). Prefer filters when the user names a tag, passage, or source:
 
 ```bash
 python3 .tools/scripts/wiki_tool.py search-catalog --query "user topic"
+python3 .tools/scripts/wiki_tool.py search-catalog --query "matthew 6"
+python3 .tools/scripts/wiki_tool.py search-catalog --ref "mt 6" --limit 5
+python3 .tools/scripts/wiki_tool.py search-catalog --tag prayer
+python3 .tools/scripts/wiki_tool.py search-catalog --source "sermon_1532"
 ```
 
-2. Lexical and (if needed) semantic wiki search:
+Catalog rows and reverse indexes (`wiki/indexes/`) include derived `bible_references`, `source_paths`, and `related_paths`. Use match reasons in the CLI output to choose pages.
+
+2. Lexical and (if needed) semantic wiki search when catalog hits are thin or you need body-level phrases:
 
 ```bash
 qmd search "query terms" -c bible-wiki --json -n 10

@@ -16,6 +16,14 @@ python3 .tools/scripts/wiki_tool.py source-lint
 python3 .tools/scripts/audit_public.py
 ```
 
+`build` regenerates `wiki/catalog.jsonl`, `wiki/indexes/*.jsonl` (by-tag, by-passage, by-source, by-type), and folder `index.md` files. Run it after any material wiki edit.
+
+Optional catalog unit checks:
+
+```bash
+python3 .tools/scripts/test_wiki_tool_catalog.py
+```
+
 ## Coverage reports
 
 ```bash

@@ -18,8 +18,8 @@ python3 .tools/scripts/wiki_tool.py <command> [options]
 
 | Command | Purpose |
 |---|---|
-| `doctor` | Non-mutating health check (folders, Python, catalog, manifest, note counts) |
-| `build` | Write `wiki/catalog.jsonl` and regenerate wiki `index.md` files |
+| `doctor` | Non-mutating health check (folders, Python, catalog, reverse indexes, manifest, note counts) |
+| `build` | Write `wiki/catalog.jsonl`, `wiki/indexes/*.jsonl`, and regenerate wiki `index.md` files |
 | `lint` | Validate wiki frontmatter, tags shape, source_count, claims, wikilinks |
 | `source-scan` | List or update `schema/source-manifest.jsonl` from `sources/` |
 | `source-scan --update` | Rewrite manifest inventory from disk |
@@ -27,8 +27,24 @@ python3 .tools/scripts/wiki_tool.py <command> [options]
 | `source-lint` | Manifest consistency and covered-without-links failures |
 | `source-delta` | Sources on disk missing from the manifest |
 | `source-coverage` | Covered vs uncovered summary |
-| `search-catalog --query "text"` | Search compiled wiki catalog |
+| `search-catalog --query "text"` | Ranked search over the enriched catalog (title, tags, refs, sources) |
+| `search-catalog --tag TAG` | Filter to pages with a thematic tag |
+| `search-catalog --ref "mt 6"` | Filter/boost by Bible reference or book |
+| `search-catalog --source PATH` | Filter by source path substring |
+| `search-catalog --type "Passage"` | Filter by page type substring |
 | `log --title "..." --details "..."` | Append an entry to `wiki/log.md` |
+
+### `search-catalog` examples
+
+```bash
+python3 .tools/scripts/wiki_tool.py search-catalog --query "prayer"
+python3 .tools/scripts/wiki_tool.py search-catalog --query "matthew 6"
+python3 .tools/scripts/wiki_tool.py search-catalog --ref "ro 8" --limit 5
+python3 .tools/scripts/wiki_tool.py search-catalog --source "sermon_1532"
+python3 .tools/scripts/wiki_tool.py search-catalog --tag prayer --type "Biblical Concept"
+```
+
+Hits print a score, match reasons, and derived refs when present.
 
 ## `audit_public.py`
 

@@ -181,7 +181,8 @@ Record meaningful disagreements in `## Agreements and tensions`; do not flatten 
 
 ## Catalog and source manifest
 
-- `wiki/catalog.jsonl` — one JSON object per compiled wiki note (path, title, type, tags, sources metadata, updated). Rebuild with `wiki_tool.py build`.
+- `wiki/catalog.jsonl` — one JSON object per compiled wiki note (path, title, type, tags, description, status, source_count, updated) plus derived retrieval fields (`bible_references`, `source_paths`, `related_paths`, `headings`, optional `aliases`). Rebuild with `wiki_tool.py build`.
+- `wiki/indexes/` — generated reverse indexes (`by-tag`, `by-passage`, `by-source`, `by-type` JSONL). Rebuild with `wiki_tool.py build`; do not hand-edit.
 - `schema/source-manifest.jsonl` — inventory of `sources/**/*.md` with optional `covered_by` wiki paths. Coverage is derived from wiki links and `source_path`; **never** by rewriting source files. Most of the commentary corpus is intentionally uncovered until ingested into synthesis.
 
 ## Ingest workflow
@@ -212,10 +213,12 @@ python3 .tools/scripts/audit_public.py
 
 ## Query workflow
 
-Search maintained synthesis before raw evidence. Prefer the catalog for a fast map of compiled notes, then qmd:
+Search maintained synthesis before raw evidence. Prefer the enriched catalog for a fast map of compiled notes (title, tags, Bible refs, source paths), then qmd:
 
 ```bash
 python3 .tools/scripts/wiki_tool.py search-catalog --query "query terms"
+python3 .tools/scripts/wiki_tool.py search-catalog --ref "mt 6"
+python3 .tools/scripts/wiki_tool.py search-catalog --tag prayer
 qmd search "query terms" -c bible-wiki --json -n 10
 .qmd/bin/semantic-wiki-safe "natural-language question" --json -n 10
 ```
