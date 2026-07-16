@@ -1,0 +1,10 @@
+# Local tooling for Qdrant Cloud + Multilingual E5 Small (ONNX).
+# Install into a dedicated venv (do not use system Python):
+#   python3 -m venv .tools/venv-qdrant
+#   .tools/venv-qdrant/bin/pip install -r .tools/requirements-qdrant.txt
+qdrant-client>=1.12
+fastembed>=0.4
+numpy>=1.26
+onnxruntime>=1.17
+huggingface_hub>=0.23
+tokenizers>=0.19
