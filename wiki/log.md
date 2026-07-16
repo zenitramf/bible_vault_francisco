@@ -215,3 +215,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.3 Sermons 100%
 
 - All sermon volume bands reviewed; source-coverage --path chspurgeon-sermons --require-zero OK.
+
+## [2026-07-16] campaign | Phase 4.4 FCB January + front matter
+
+- Month source-note for FCB January (31 day files) plus root preface/verses. Zero-uncovered for month path and root files.
