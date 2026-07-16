@@ -262,7 +262,7 @@ This server has limited CPU and memory. All routine index changes use the guarde
 - `.qmd/bin/embed-notes-safe` embeds only the tiny `bible-personal-notes` pilot collection under tighter limits.
 - `.qmd/bin/semantic-wiki-safe` runs an explicit vector-only, no-rerank query against `bible-wiki`. Do not substitute bare `qmd vsearch`; qmd 2.5.3 attempted to initialize the large query-expansion model during validation.
 - `.qmd/bin/search-wiki-safe` merges catalog + BM25 wiki + vector wiki without loading expansion/rerank models.
-- Hosted Qdrant Cloud holds sparse `wiki_bm25` and dense `sources_e5` (E5-small ONNX locally at query time). Use `.qmd/bin/qdrant-search` / `qdrant-sources-search` / `qdrant-wiki-search`. Do not load expand/rerank models for Qdrant either.
+- Hosted Qdrant Cloud holds sparse `wiki_bm25` and dense `sources_e5`. **Embedding compute is Qdrant Cloud Inference** (not local ONNX/FastEmbed). Use `.qmd/bin/qdrant-search` / `qdrant-sources-search` / `qdrant-wiki-search`. Do not load expand/rerank models.
 
 Do not embed full `bible-sources` without explicit user approval. The personal-notes pilot is the only pre-approved **local qmd** vector slice outside `bible-wiki`; the approved **hosted** source pilot is mhenry-concise in Qdrant `sources_e5`. Files in `raw/` are never indexed or embedded. Do not remove the cgroup, batch-size, CPU, concurrency, or timeout protections. A killed or failed embedding job is preferable to placing other server services under memory pressure.
 

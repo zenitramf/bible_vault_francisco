@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Dense E5 search over sources_e5 (always filters vault_id).
+# Dense E5 search over sources_e5 — query embed on Qdrant Cloud Inference.
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
 VENV="${ROOT}/.tools/venv-qdrant"
@@ -15,12 +15,5 @@ fi
 if [[ -z "${QCLOUD_BIBLE_CLUSTER_API_KEY:-${QDRANT_API_KEY:-}}" ]]; then
   printf 'Missing QCLOUD_BIBLE_CLUSTER_API_KEY (or QDRANT_API_KEY).\n' >&2
   exit 2
-fi
-minimum_available_kib=786432
-available_kib=$(awk '/^MemAvailable:/ { print $2 }' /proc/meminfo)
-if (( available_kib < minimum_available_kib )); then
-  printf 'Refusing sources E5 query: MemAvailable is %s KiB; need >= %s KiB.\n' \
-    "$available_kib" "$minimum_available_kib" >&2
-  exit 1
 fi
 exec "${VENV}/bin/python" "${ROOT}/.tools/scripts/qdrant_sources_search.py" "$@"

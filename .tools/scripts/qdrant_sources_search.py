@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-"""Dense search over sources_e5 (multilingual-e5-small).
+"""Dense search over sources_e5 via Qdrant Cloud Inference (E5-small).
 
-Always filters vault_id. Optional corpus / book filters.
+Query embedding runs on Qdrant. Always filters vault_id.
 
   .qmd/bin/qdrant-sources-search "how to pray without hypocrisy"
-  .qmd/bin/qdrant-sources-search "oración hipocresía" --corpus mhenry-concise --json
-  .qmd/bin/qdrant-sources-search "creation of light" --book-key 1 --min-score 0.8
+  .qmd/bin/qdrant-sources-search "oración" --corpus mhenry-concise --json
 """
 
 from __future__ import annotations
@@ -20,11 +19,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from qdrant_client.http import models as qm  # noqa: E402
 
-from e5_embed import E5Encoder  # noqa: E402
 from qdrant_common import (  # noqa: E402
     E5_MODEL_ID,
     SOURCES_COLLECTION,
     VAULT_ID,
+    dense_document,
     make_client,
 )
 
@@ -76,14 +75,11 @@ def search_sources(
     content_kind: str = "",
     min_score: float = 0.0,
     preview_chars: int = 280,
-    encoder: E5Encoder | None = None,
 ) -> list[dict[str, Any]]:
-    enc = encoder or E5Encoder()
-    qvec = enc.encode_one(query, kind="query")
     client = make_client()
     response = client.query_points(
         collection_name=SOURCES_COLLECTION,
-        query=qvec,
+        query=dense_document(query),
         query_filter=build_filter(
             corpus=corpus,
             book_key=book_key,
@@ -117,6 +113,8 @@ def search_sources(
                 "bible_reference": p.get("bible_reference"),
                 "language": p.get("language"),
                 "embed_model": p.get("embed_model") or E5_MODEL_ID,
+                "embed_backend": p.get("embed_backend")
+                or "qdrant-cloud-inference",
                 "text_preview": text[:preview_chars],
             }
         )
@@ -125,38 +123,15 @@ def search_sources(
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("query", help="Natural-language query")
+    parser.add_argument("query")
     parser.add_argument("--limit", "-n", type=int, default=8)
     parser.add_argument("--json", action="store_true")
-    parser.add_argument(
-        "--corpus",
-        default="",
-        help="Optional source_corpus filter (e.g. mhenry-concise)",
-    )
-    parser.add_argument(
-        "--book-key",
-        type=int,
-        default=0,
-        help="Optional bible_book_key filter",
-    )
-    parser.add_argument("--language", default="", help="Optional language filter")
-    parser.add_argument(
-        "--content-kind",
-        default="",
-        help="Optional content_kind filter (commentary, sermon, …)",
-    )
-    parser.add_argument(
-        "--min-score",
-        type=float,
-        default=0.0,
-        help="Drop hits below this cosine score (0 = no floor)",
-    )
-    parser.add_argument(
-        "--preview-chars",
-        type=int,
-        default=280,
-        help="Chars of text_preview (default 280)",
-    )
+    parser.add_argument("--corpus", default="")
+    parser.add_argument("--book-key", type=int, default=0)
+    parser.add_argument("--language", default="")
+    parser.add_argument("--content-kind", default="")
+    parser.add_argument("--min-score", type=float, default=0.0)
+    parser.add_argument("--preview-chars", type=int, default=280)
     args = parser.parse_args(argv)
 
     query = args.query.strip()
@@ -175,9 +150,7 @@ def main(argv: list[str] | None = None) -> int:
             min_score=args.min_score,
             preview_chars=args.preview_chars,
         )
-    except SystemExit:
-        raise
-    except Exception as exc:  # noqa: BLE001 — CLI surface
+    except Exception as exc:  # noqa: BLE001
         print(f"sources search failed: {exc}", file=sys.stderr)
         return 1
 
@@ -188,6 +161,8 @@ def main(argv: list[str] | None = None) -> int:
                     "query": query,
                     "vault_id": VAULT_ID,
                     "collection": SOURCES_COLLECTION,
+                    "embed_backend": "qdrant-cloud-inference",
+                    "embed_model": E5_MODEL_ID,
                     "filters": {
                         "source_corpus": args.corpus or None,
                         "bible_book_key": args.book_key or None,
@@ -208,11 +183,10 @@ def main(argv: list[str] | None = None) -> int:
             filt.append(f"corpus={args.corpus}")
         if args.book_key:
             filt.append(f"book_key={args.book_key}")
-        if args.language:
-            filt.append(f"lang={args.language}")
         extra = (" · " + " · ".join(filt)) if filt else ""
         print(
-            f"sources_e5 · vault_id={VAULT_ID} · query={query!r} · n={len(rows)}{extra}"
+            f"sources_e5 · vault_id={VAULT_ID} · query={query!r} · n={len(rows)}"
+            f"{extra} · embed=cloud:{E5_MODEL_ID}"
         )
         if not rows:
             print("  (no hits — run qdrant-sources-upsert first?)")

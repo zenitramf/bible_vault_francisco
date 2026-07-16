@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Upsert wiki pages into Qdrant collection wiki_bm25 (sparse BM25).
+"""Upsert wiki pages into Qdrant wiki_bm25 (sparse BM25 via Cloud Inference).
 
-Uses FastEmbed model Qdrant/bm25. One point per wiki markdown page.
-Requires QCLOUD_BIBLE_CLUSTER_API_KEY. Run from vault root or any cwd.
+Embedding runs on Qdrant Cloud (model Qdrant/bm25), not on hermes.
+One point per wiki markdown page.
 
-  python3 .tools/scripts/qdrant_wiki_upsert.py
-  python3 .tools/scripts/qdrant_wiki_upsert.py --dry-run
+  .qmd/bin/qdrant-wiki-upsert
+  .qmd/bin/qdrant-wiki-upsert --dry-run
 """
 
 from __future__ import annotations
@@ -15,13 +15,12 @@ import hashlib
 import sys
 from pathlib import Path
 
-# Allow running as script without package install
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from fastembed import SparseTextEmbedding  # noqa: E402
 from qdrant_client.http import models as qm  # noqa: E402
 
 from qdrant_common import (  # noqa: E402
+    BM25_FINGERPRINT,
     BM25_MODEL,
     BM25_VECTOR_NAME,
     VAULT_ID,
@@ -31,6 +30,7 @@ from qdrant_common import (  # noqa: E402
     make_client,
     parse_frontmatter,
     point_id,
+    sparse_document,
     strip_wikilinks,
     vault_root,
     wiki_page_type,
@@ -46,23 +46,19 @@ def build_document_text(meta: dict, body: str, title_fallback: str) -> str:
     else:
         tag_s = str(tags)
     cleaned = strip_wikilinks(body)
-    # Prefer lexical signal from title/desc/tags + prose
     parts = [title, description, tag_s, cleaned]
     return "\n".join(p for p in parts if p and str(p).strip())
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--limit", type=int, default=0, help="Max pages (0=all)")
     parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help="Parse and report without upserting",
-    )
-    parser.add_argument(
-        "--limit",
+        "--batch-size",
         type=int,
-        default=0,
-        help="Upsert at most N pages (0 = all)",
+        default=16,
+        help="Cloud Inference upsert batch size (default 16)",
     )
     args = parser.parse_args(argv)
 
@@ -70,14 +66,12 @@ def main(argv: list[str] | None = None) -> int:
     paths = iter_wiki_markdown(root)
     if args.limit and args.limit > 0:
         paths = paths[: args.limit]
-
     if not paths:
         print("No wiki markdown pages found.", file=sys.stderr)
         return 1
 
     commit = git_commit(root)
     records: list[dict] = []
-    texts: list[str] = []
 
     for path in paths:
         rel = path.relative_to(root).as_posix()
@@ -103,6 +97,8 @@ def main(argv: list[str] | None = None) -> int:
             "chunk_index": 0,
             "chunk_count": 1,
             "embed_model": BM25_MODEL,
+            "embed_fingerprint": BM25_FINGERPRINT,
+            "embed_backend": "qdrant-cloud-inference",
             "git_commit": commit,
         }
         if meta.get("bible_book_key") is not None:
@@ -112,11 +108,12 @@ def main(argv: list[str] | None = None) -> int:
                 pass
         if meta.get("bible_reference"):
             payload["bible_reference"] = str(meta["bible_reference"])
+        records.append({"id": pid, "text": text, "payload": payload})
 
-        records.append({"id": pid, "payload": payload})
-        texts.append(text)
-
-    print(f"Wiki pages: {len(records)} (vault_id={VAULT_ID})")
+    print(
+        f"Wiki pages: {len(records)} (vault_id={VAULT_ID}) "
+        f"embed={BM25_MODEL} via Cloud Inference"
+    )
     if args.dry_run:
         for r in records[:5]:
             print(f"  dry-run {r['payload']['vault_rel_path']}")
@@ -124,32 +121,20 @@ def main(argv: list[str] | None = None) -> int:
             print(f"  ... +{len(records) - 5} more")
         return 0
 
-    print(f"Loading sparse model {BM25_MODEL} …")
-    model = SparseTextEmbedding(model_name=BM25_MODEL)
-    embeddings = list(model.embed(texts))
-
-    points: list[qm.PointStruct] = []
-    for rec, emb in zip(records, embeddings, strict=True):
-        points.append(
-            qm.PointStruct(
-                id=rec["id"],
-                payload=rec["payload"],
-                vector={
-                    BM25_VECTOR_NAME: qm.SparseVector(
-                        indices=emb.indices.tolist(),
-                        values=emb.values.tolist(),
-                    )
-                },
-            )
-        )
-
     client = make_client()
-    # Batch upsert
-    batch = 32
-    for i in range(0, len(points), batch):
-        chunk = points[i : i + batch]
-        client.upsert(collection_name=WIKI_COLLECTION, points=chunk)
-        print(f"  upserted {min(i + batch, len(points))}/{len(points)}")
+    batch = max(1, args.batch_size)
+    for i in range(0, len(records), batch):
+        chunk = records[i : i + batch]
+        points = [
+            qm.PointStruct(
+                id=r["id"],
+                payload=r["payload"],
+                vector={BM25_VECTOR_NAME: sparse_document(r["text"])},
+            )
+            for r in chunk
+        ]
+        client.upsert(collection_name=WIKI_COLLECTION, points=points)
+        print(f"  upserted {min(i + batch, len(records))}/{len(records)}")
 
     info = client.get_collection(WIKI_COLLECTION)
     print(

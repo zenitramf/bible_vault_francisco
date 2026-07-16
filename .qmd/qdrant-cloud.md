@@ -9,7 +9,9 @@ status: developing
 
 # Qdrant Cloud (Bible Vault)
 
-Hosted ANN / sparse retrieval for this vault. Embeddings are produced **locally**; Qdrant stores vectors + payload only.
+Hosted ANN / sparse retrieval for this vault. Embeddings are produced by
+**Qdrant Cloud Inference** (free `intfloat/multilingual-e5-small` + `Qdrant/bm25`);
+hermes only chunks text, upserts `Document(...)`, and queries.
 
 ## Cluster
 
@@ -72,20 +74,19 @@ python3 .tools/scripts/qdrant_bootstrap.py
 .qmd/bin/qdrant-wiki-search "intercession" --limit 5 --json
 ```
 
-## Multilingual E5 Small (local, phase 3)
+## Embedding backend: Qdrant Cloud Inference
 
-Uses `intfloat/multilingual-e5-small` via **quantized ONNX** (Xenova export) + onnxruntime — 384-d, L2-normalized, E5 prefixes.
+| Collection | Model | Where it runs |
+|---|---|---|
+| `wiki_bm25` | `Qdrant/bm25` (sparse, IDF) | Qdrant Cloud |
+| `sources_e5` | `intfloat/multilingual-e5-small` (384-d) | Qdrant Cloud |
 
-```bash
-.qmd/bin/e5-encode self-test
-.qmd/bin/e5-encode passage "Prayer is address to the Father"
-.qmd/bin/e5-encode query "how should Christians pray" --json
-.qmd/bin/e5-encode info --download
-```
+Client must use `cloud_inference=True` (set in `make_client()`). For E5 family,
+Qdrant applies `passage:` / query-side prefixes server-side.
 
-Cache: `~/.cache/bible_vault_e5` (or `$BIBLE_VAULT_E5_CACHE`).
+Optional offline helper (not used by upsert/search): `.qmd/bin/e5-encode` (local ONNX).
 
-## Sources dense pilot (phase 4)
+## Sources dense pilot (phase 4+)
 
 Default corpus: **mhenry-concise** (~4.8k chunks after heading-aware split).
 
@@ -97,7 +98,8 @@ Default corpus: **mhenry-concise** (~4.8k chunks after heading-aware split).
 .qmd/bin/qdrant-sources-search "creation of light" --book-key 1 --limit 5
 ```
 
-Pilot metrics (this host): ~12.5 min wall · ~735 s embed · ~8 s upsert · ~846 MiB max RSS · `sources_e5` **4871** points green.
+Re-upsert after switching to Cloud Inference so stored vectors match the
+cloud model (do not mix local ONNX vectors with cloud-inferred queries).
 
 ## Agent search (phase 5)
 

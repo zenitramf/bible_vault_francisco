@@ -29,6 +29,10 @@ BM25_VECTOR_NAME = "bm25"
 BM25_MODEL = "Qdrant/bm25"
 E5_MODEL_ID = "intfloat/multilingual-e5-small"
 E5_DIM = 384
+# Embeddings run on Qdrant Cloud Inference (not on hermes).
+EMBED_BACKEND = "qdrant-cloud-inference"
+E5_FINGERPRINT = f"{E5_MODEL_ID}|{EMBED_BACKEND}|dim={E5_DIM}"
+BM25_FINGERPRINT = f"{BM25_MODEL}|{EMBED_BACKEND}"
 
 # Stable namespace for deterministic point IDs (not a secret).
 POINT_NS = uuid.UUID("6b1b1e2a-0c4d-4f3a-9e5f-2a7d8c1b0e9f")
@@ -57,8 +61,36 @@ def qdrant_url() -> str:
     return os.environ.get("QDRANT_URL", DEFAULT_URL).rstrip("/")
 
 
-def make_client() -> QdrantClient:
-    return QdrantClient(url=qdrant_url(), api_key=api_key(), timeout=60)
+def make_client(*, timeout: int | None = None) -> QdrantClient:
+    """Qdrant Cloud client with Cloud Inference enabled.
+
+    cloud_inference=True sends Document(...) embed requests to Qdrant
+    instead of running models locally (FastEmbed/ONNX).
+    """
+    # Inference upserts/queries can be slower than raw vector ops.
+    t = timeout
+    if t is None:
+        t = int(os.environ.get("QDRANT_TIMEOUT", "180"))
+    return QdrantClient(
+        url=qdrant_url(),
+        api_key=api_key(),
+        timeout=t,
+        cloud_inference=True,
+    )
+
+
+def dense_document(text: str, *, model: str = E5_MODEL_ID):
+    """Cloud Inference document for dense E5 (passage/query prefixes applied by Qdrant)."""
+    from qdrant_client.http import models as qm
+
+    return qm.Document(text=text, model=model)
+
+
+def sparse_document(text: str, *, model: str = BM25_MODEL):
+    """Cloud Inference document for sparse BM25."""
+    from qdrant_client.http import models as qm
+
+    return qm.Document(text=text, model=model)
 
 
 def point_id(*parts: str | int) -> str:

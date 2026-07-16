@@ -78,7 +78,8 @@ python3 .tools/scripts/qdrant_bootstrap.py   # empty collections + indexes
 .qmd/bin/qdrant-search "prayer" --channel both --json   # agent multi-channel
 ```
 
-Requires `QCLOUD_BIBLE_CLUSTER_API_KEY`. Embeddings stay local; Qdrant stores vectors + vault-linked payload only.
+Requires `QCLOUD_BIBLE_CLUSTER_API_KEY`. **Embeddings run on Qdrant Cloud Inference**
+(`intfloat/multilingual-e5-small`, `Qdrant/bm25`); hermes only chunks + upserts/queries.
 
 ## Recommended agent retrieval order
 

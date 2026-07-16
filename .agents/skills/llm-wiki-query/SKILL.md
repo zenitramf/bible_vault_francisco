@@ -75,6 +75,6 @@ Optional personal-notes vector pilot (only if embedded via `embed-notes-safe`):
 - Do not use bare `qmd vsearch` (use `semantic-wiki-safe` / `search-wiki-safe`).
 - Do not embed full `bible-sources` into local qmd without explicit approval.
 - Hosted source vectors: approved pilot is **mhenry-concise** in Qdrant; expand corpora only when asked.
-- Qdrant needs `QCLOUD_BIBLE_CLUSTER_API_KEY`. See `.qmd/qdrant-cloud.md`.
+- Qdrant needs `QCLOUD_BIBLE_CLUSTER_API_KEY`. Embeddings use **Cloud Inference** (not local ONNX). See `.qmd/qdrant-cloud.md`.
 - Prefer `search-wiki-safe` for local wiki merge; `qdrant-search` for hosted wiki + sources E5.
 - Wiki BM25 scores and sources E5 cosine scores are **not** comparable — do not merge-rank them.

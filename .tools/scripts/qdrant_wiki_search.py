@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Search wiki_bm25 (sparse BM25) on Qdrant Cloud.
+"""Search wiki_bm25 via Qdrant Cloud Inference (sparse BM25).
 
-Always filters by vault_id=bible_vault_francisco.
+Always filters by vault_id. Query embedding runs on Qdrant, not hermes.
 
-  python3 .tools/scripts/qdrant_wiki_search.py "prayer and the Father"
-  python3 .tools/scripts/qdrant_wiki_search.py "intercession" --limit 5 --json
+  .qmd/bin/qdrant-wiki-search "prayer and the Father"
+  .qmd/bin/qdrant-wiki-search "intercession" --limit 5 --json
 """
 
 from __future__ import annotations
@@ -17,7 +17,6 @@ from typing import Any
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from fastembed import SparseTextEmbedding  # noqa: E402
 from qdrant_client.http import models as qm  # noqa: E402
 
 from qdrant_common import (  # noqa: E402
@@ -26,16 +25,8 @@ from qdrant_common import (  # noqa: E402
     VAULT_ID,
     WIKI_COLLECTION,
     make_client,
+    sparse_document,
 )
-
-_sparse_model: SparseTextEmbedding | None = None
-
-
-def get_bm25_model() -> SparseTextEmbedding:
-    global _sparse_model
-    if _sparse_model is None:
-        _sparse_model = SparseTextEmbedding(model_name=BM25_MODEL)
-    return _sparse_model
 
 
 def search_wiki(
@@ -44,10 +35,7 @@ def search_wiki(
     limit: int = 8,
     page_type: str = "",
     min_score: float = 0.0,
-    model: SparseTextEmbedding | None = None,
 ) -> list[dict[str, Any]]:
-    m = model or get_bm25_model()
-    emb = list(m.embed([query]))[0]
     must: list[qm.Condition] = [
         qm.FieldCondition(key="vault_id", match=qm.MatchValue(value=VAULT_ID))
     ]
@@ -60,10 +48,7 @@ def search_wiki(
     client = make_client()
     response = client.query_points(
         collection_name=WIKI_COLLECTION,
-        query=qm.SparseVector(
-            indices=emb.indices.tolist(),
-            values=emb.values.tolist(),
-        ),
+        query=sparse_document(query),
         using=BM25_VECTOR_NAME,
         query_filter=qm.Filter(must=must),
         limit=limit,
@@ -87,6 +72,7 @@ def search_wiki(
                 "tags": payload.get("tags") or [],
                 "bible_reference": payload.get("bible_reference"),
                 "text_preview": (payload.get("text") or "")[:280],
+                "embed_model": payload.get("embed_model") or BM25_MODEL,
             }
         )
     return rows
@@ -95,23 +81,10 @@ def search_wiki(
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("query", help="Free-text query")
-    parser.add_argument(
-        "--limit", "-n", type=int, default=8, help="Max hits (default 8)"
-    )
-    parser.add_argument(
-        "--json", action="store_true", help="JSON object on stdout"
-    )
-    parser.add_argument(
-        "--page-type",
-        default="",
-        help="Optional page_type filter (concept, passage, …)",
-    )
-    parser.add_argument(
-        "--min-score",
-        type=float,
-        default=0.0,
-        help="Drop hits below this score (0 = no floor)",
-    )
+    parser.add_argument("--limit", "-n", type=int, default=8)
+    parser.add_argument("--json", action="store_true")
+    parser.add_argument("--page-type", default="")
+    parser.add_argument("--min-score", type=float, default=0.0)
     args = parser.parse_args(argv)
 
     query = args.query.strip()
@@ -137,6 +110,7 @@ def main(argv: list[str] | None = None) -> int:
                     "query": query,
                     "vault_id": VAULT_ID,
                     "collection": WIKI_COLLECTION,
+                    "embed_backend": "qdrant-cloud-inference",
                     "filters": {
                         "page_type": args.page_type or None,
                         "min_score": args.min_score or None,
@@ -150,10 +124,11 @@ def main(argv: list[str] | None = None) -> int:
         )
     else:
         print(
-            f"wiki_bm25 · vault_id={VAULT_ID} · query={query!r} · n={len(rows)}"
+            f"wiki_bm25 · vault_id={VAULT_ID} · query={query!r} · n={len(rows)} "
+            f"· embed=cloud:{BM25_MODEL}"
         )
         if not rows:
-            print("  (no hits — run qdrant_wiki_upsert.py first?)")
+            print("  (no hits — run qdrant-wiki-upsert first?)")
         for i, r in enumerate(rows, 1):
             tags = ",".join(r["tags"]) if r["tags"] else "-"
             print(
