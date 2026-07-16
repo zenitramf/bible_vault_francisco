@@ -1,7 +1,7 @@
 ---
 type: Biblical Question
 title: What Sustains Christian Ministry?
-description: A source-backed answer centered on Christ's worth, strength, and entrusting of ministry to faithful stewards.
+description: Christ's worth, strength, and entrusting of ministry to faithful stewards (1 Tim 1:12; 2 Cor 3:5; 12:9–10).
 tags: [christ, pastoral-ministry, discipleship]
 status: seed
 updated: 2026-07-16

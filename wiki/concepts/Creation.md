@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Creation
-description: A source-backed synthesis of creation as God's free, ordered work by word and Spirit, establishing his ownership and humanity in his image.
+description: God's free, ordered work by word and Spirit, establishing his ownership and humanity in his image (Gen 1).
 tags: [creation, holy-spirit, christ]
 status: seed
 updated: 2026-07-16

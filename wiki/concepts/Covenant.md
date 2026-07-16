@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Covenant
-description: A source-backed synthesis of covenant as God-initiated relationship sealed by promise, obligation, and Christ as mediator of the new covenant.
+description: God-initiated relationship sealed by promise and obligation, with Christ as mediator of the new covenant (Gen 15–17; Jer 31; Heb 8).
 tags: [covenant, christ, salvation, faith]
 status: seed
 updated: 2026-07-16

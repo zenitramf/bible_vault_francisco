@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Prophecy
-description: A source-backed synthesis of prophecy as Gods word spoken through holy messengers, tested against false prophecy, and used for church edification.
+description: God's word spoken through holy messengers, tested against false prophecy, and used for church edification (2 Pet 1; Jer 23; 1 Cor 14).
 tags: [prophecy, holy-spirit, church, justice]
 status: seed
 updated: 2026-07-16

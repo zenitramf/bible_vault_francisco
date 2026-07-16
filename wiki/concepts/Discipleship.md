@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Discipleship
-description: A source-backed synthesis of discipleship as following Christ through self-denial, cross-bearing, and counted cost.
+description: Following Christ through self-denial, cross-bearing, and counted cost (Mt 16:24–26; Lk 14:26–30).
 tags: [discipleship, christ, christian-life, faith]
 status: seed
 updated: 2026-07-16

@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Justice
-description: A source-backed synthesis of justice as Gods righteous requirement to do justly, love mercy, and defend the oppressed.
+description: God's righteous requirement to do justly, love mercy, and defend the oppressed (Mic 6:6–8; Ps 9).
 tags: [justice, prophecy, holiness, christian-life]
 status: seed
 updated: 2026-07-16
