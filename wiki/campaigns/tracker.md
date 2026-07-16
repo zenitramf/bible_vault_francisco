@@ -24,7 +24,7 @@ Update this page whenever a section is started or finished. Status values: `pend
 | Section | Status | Wiki pages |
 |---|---|---|
 | Devotional on 1 Timothy 1:12 | reviewed | Existing source-note + ministry graph |
-| THE PASTOR AND HIS CHURCH (Andrés Gómez) | reviewed | Linked from Pastoral Ministry, Spiritual Warfare |
+| THE PASTOR AND HIS CHURCH (Andrés Gómez) | reviewed | Source-note; Pastoral Ministry + Spiritual Warfare mesh |
 | Ayudas en el estudio bíblico | reviewed | Source-note; Discipleship mesh |
 | Little Known Bible Heroes | reviewed | Source-note; Faith / Discipleship mesh |
 | Pastor Andy Doss y Merced Baptist Church | reviewed | Source-note; Holy Spirit mesh |
@@ -34,17 +34,33 @@ Update this page whenever a section is started or finished. Status values: `pend
 | Section | Status | Wiki pages |
 |---|---|---|
 | Romans (16 chapters) | reviewed | Passage atlas Rom 1–16; concept mesh; book source-note |
-| Matthew | pending | |
-| John | pending | |
-| Ephesians | pending | |
-| 1 Timothy | pending | |
-| Luke | pending | |
-| Acts | pending | |
-| Galatians | pending | |
-| Hebrews | pending | |
-| James | pending | |
-| 1 Peter | pending | |
-| Remaining NT concise | pending | |
+| Matthew (28 chapters) | reviewed | Passage atlas Mt 1–28; book source-note; Christ/Discipleship mesh |
+| John (21 chapters) | reviewed | Passage atlas; book source-note |
+| Ephesians (6 chapters) | reviewed | Passage atlas; book source-note; Church/Salvation mesh |
+| 1 Timothy (6 chapters) | reviewed | Passage atlas; book source-note; Pastoral mesh |
+| Luke (24 chapters) | reviewed | Passage atlas; book source-note |
+| Acts (28 chapters) | reviewed | Passage atlas; book source-note; Church/Spirit mesh |
+| Galatians (6 chapters) | reviewed | Passage atlas; book source-note; Faith mesh |
+| Hebrews (13 chapters) | reviewed | Passage atlas; book source-note; Faith/Christ mesh |
+| James (5 chapters) | reviewed | Passage atlas; book source-note; Faith mesh |
+| 1 Peter (5 chapters) | reviewed | Passage atlas; book source-note; Holiness mesh |
+| Mark (16 chapters) | reviewed | Passage atlas; book source-note |
+| 1 Corinthians (16 chapters) | reviewed | Passage atlas; book source-note |
+| 2 Corinthians (13 chapters) | reviewed | Passage atlas; book source-note |
+| Philippians (4 chapters) | reviewed | Passage atlas; book source-note |
+| Colossians (4 chapters) | reviewed | Passage atlas; book source-note |
+| 1 Thessalonians (5 chapters) | reviewed | Passage atlas; book source-note |
+| 2 Thessalonians (3 chapters) | reviewed | Passage atlas; book source-note |
+| 2 Timothy (4 chapters) | reviewed | Passage atlas; book source-note |
+| Titus (3 chapters) | reviewed | Passage atlas; book source-note |
+| Philemon (1 chapter) | reviewed | Passage atlas; book source-note |
+| 2 Peter (3 chapters) | reviewed | Passage atlas; book source-note |
+| 1 John (5 chapters) | reviewed | Passage atlas; book source-note |
+| 2 John (1 chapter) | reviewed | Passage atlas; book source-note |
+| 3 John (1 chapter) | reviewed | Passage atlas; book source-note |
+| Jude (1 chapter) | reviewed | Passage atlas; book source-note |
+| Revelation (22 chapters) | reviewed | Passage atlas; book source-note; Prophecy mesh |
+| **Phase 2 NT concise** | **reviewed** | **All 27 NT books covered chapter-by-chapter from mhenry-concise** |
 
 ## Phase 3 — Concept promotion
 
