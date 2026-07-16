@@ -311,3 +311,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.5 MAE November
 
 - Month source-note for MAE November (30 files). --require-zero OK.
+
+## [2026-07-16] campaign | Phase 4.5 MAE December
+
+- Month source-note for MAE December (31 files). --require-zero OK.
