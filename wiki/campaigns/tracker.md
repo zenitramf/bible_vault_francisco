@@ -289,7 +289,7 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 | August | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
 | September | reviewed | 30 | Month source-note lists all day files; 0 uncovered |
 | October | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
-| November | pending | 30 | |
+| November | reviewed | 30 | Month source-note lists all day files; 0 uncovered |
 | December | pending | 31 | |
 | **4.5 MAE 100%** | **pending** | **~366** | Gate: 0 uncovered under `chspurgeon-mae/` |
 
