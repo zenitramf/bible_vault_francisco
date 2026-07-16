@@ -5,7 +5,7 @@ description: The Israelites not to think their success came by their own worthin
 tags: [covenant, holiness, justice, worship, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Deuteronomy 9: The Israelites not to think their succes
 
 - Moses represents the strength of the enemies they were now to encounter. This was to drive them to God, and engage their hope in him. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-9#Verses 1–6|Matthew Henry Concise on Deuteronomy 9]]
 - That the Israelites might have no pretence to think that God brought them to Canaan for their righteousness, Moses shows what a miracle of mercy it was, that they had not been destroyed in the wilderness. It is good for us often to remember against ourselves, with sorrow and shame, our former sins; that we may see… [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-9#Verses 7–29|Matthew Henry Concise on Deuteronomy 9]]
+- The design of Moses in this chapter is to convince the people of Israel of their utter unworthiness to receive from God those great favours that were now to be conferred upon them, writing this, as it were, in capital… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-9|Matthew Henry Complete on Deuteronomy 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Deuteronomy 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-9|Matthew Henry Concise, Deuteronomy 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-9|Matthew Henry Complete on Deuteronomy 9]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The plague of locusts threatened, Pharaoh, moved by his servants, i
 tags: [covenant, redemption, holiness, worship, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Exodus 10: The plague of locusts threatened, Pharaoh, m
 - The plagues of Egypt show the sinfulness of sin. They warn the children of men not to strive with their Maker. [[sources/commentaries_english/mhenry-concise/exodus/chapter-10#Verses 1–11|Matthew Henry Concise on Exodus 10]]
 - God bids Moses stretch out his hand; locusts came at the call. An army might more easily have been resisted than this host of insects. [[sources/commentaries_english/mhenry-concise/exodus/chapter-10#Verses 12–20|Matthew Henry Concise on Exodus 10]]
 - The plague of darkness brought upon Egypt was a dreadful plague. It was darkness which might be felt, so thick were the fogs. [[sources/commentaries_english/mhenry-concise/exodus/chapter-10#Verses 21–29|Matthew Henry Concise on Exodus 10]]
+- The eighth and ninth of the plagues of Egypt, that of locusts and that of darkness, are recorded in this chapter. I. Concerning the plague of locusts, 1. God instructs Moses in the meaning of these amazing… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-10|Matthew Henry Complete on Exodus 10]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 10 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -45,6 +50,7 @@ Primary scope: Exodus 10 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-10|Matthew Henry Concise, Exodus 10]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-10|Matthew Henry Complete on Exodus 10]]
 
 ## Open questions
 

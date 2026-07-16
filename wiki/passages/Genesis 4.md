@@ -5,7 +5,7 @@ description: The birth, employment, and religion of Cain and Abel. (1–7). Cain
 tags: [creation, covenant, faith, redemption]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Genesis 4: The birth, employment, and religion of Cain 
 - When Cain was born, Eve said, I have gotten a man from the Lord. Perhaps she thought that this was the promised seed. [[sources/commentaries_english/mhenry-concise/genesis/chapter-4#Verses 1–7|Matthew Henry Concise on Genesis 4]]
 - Cain cast off all fear of God, and attended no more on God's ordinances. Hypocritical professors, who dissemble and trifle with God, are justly left to themselves to do something grossly scandalous. [[sources/commentaries_english/mhenry-concise/genesis/chapter-4#Verses 16–18|Matthew Henry Concise on Genesis 4]]
 - Our first parents were comforted in their affliction by the birth of a son, whom they called Seth, that is, ‘set,’ ‘settled,’ or ‘placed;’ in his seed mankind should continue to the end of time, and from him the Messiah should descend. While Cain, the head of the apostacy, is made a wanderer, Seth, from whom the true… [[sources/commentaries_english/mhenry-concise/genesis/chapter-4#Verses 25, 26|Matthew Henry Concise on Genesis 4]]
+- In this chapter we have both the world and the church in a family, in a little family, in Adam's family, and a specimen given of the character and state of both in after-ages, nay, in all ages, to the end of time. As… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-4|Matthew Henry Complete on Genesis 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Genesis 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-4|Matthew Henry Concise, Genesis 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-4|Matthew Henry Complete on Genesis 4]]
 
 ## Open questions
 

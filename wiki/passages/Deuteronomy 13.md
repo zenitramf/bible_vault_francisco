@@ -5,7 +5,7 @@ description: Enticers to idolatry to be put to death. (1–5). Relations who ent
 tags: [covenant, holiness, justice, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 13: Enticers to idolatry to be put to death
 - Moses had cautioned against the peril that might arise from the Canaanites. Here he cautions against the rise of idolatry among themselves. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-13#Verses 1–5|Matthew Henry Concise on Deuteronomy 13]]
 - It is the policy of Satan to try to lead us to evil by those whom we love, whom we least suspect of any ill design, and whom we are desirous to please, and apt to conform to. The enticement here is supposed to come from a brother or child, who are near by nature; from a wife or friend, who are near by choice, and are… [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-13#Verses 6–11|Matthew Henry Concise on Deuteronomy 13]]
 - Here is the case of a city revolting from the God of Israel, and serving other gods. The crime is supposed to be committed by one of the cities of Israel. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-13#Verses 12–18|Matthew Henry Concise on Deuteronomy 13]]
+- Moses is still upon that necessary subject concerning the peril of idolatry. In the close of the foregoing chapter he had cautioned them against the peril that might arise from their predecessors the Canaanites. In… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-13|Matthew Henry Complete on Deuteronomy 13]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 13 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Deuteronomy 13 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-13|Matthew Henry Concise, Deuteronomy 13]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-13|Matthew Henry Complete on Deuteronomy 13]]
 
 ## Open questions
 

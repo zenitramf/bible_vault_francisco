@@ -5,7 +5,7 @@ description: The inheritance of the daughters of Zelophehad. (1–4). The daught
 tags: [covenant, faith, holiness, worship, wisdom]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 4
 bible_book_name: "Numbers"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Numbers 36: The inheritance of the daughters of Zelophe
 - The heads of the tribe of Manasseh represent the evil which might follow, if the daughters of Zelophehad should marry into any other tribes. They sought to preserve the Divine appointment of inheritances, and that contests and quarrels should not rise among those who should come afterwards. [[sources/commentaries_english/mhenry-concise/numbers/chapter-36#Verses 1–4|Matthew Henry Concise on Numbers 36]]
 - Those who consult the oracles of God, concerning the making of their heavenly inheritance sure, shall not only be directed what to do, but their inquiries shall be graciously accepted. God would not have one tribe enriched at the expense of another. [[sources/commentaries_english/mhenry-concise/numbers/chapter-36#Verses 5–12|Matthew Henry Concise on Numbers 36]]
 - These are the judgments the Lord commanded in the plains of Moab. Most of them related to the settlement in Canaan, into which the Israelites were now entering. [[sources/commentaries_english/mhenry-concise/numbers/chapter-36#Verse 13|Matthew Henry Concise on Numbers 36]]
+- We have in this chapter the determination of another question that arose upon the case of the daughters of Zelophehad. God had appointed that they should inherit, Nu 27:7. Now here, I. An inconvenience is suggested, in… [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-36|Matthew Henry Complete on Numbers 36]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Numbers 36 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Numbers 36 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/numbers/chapter-36|Matthew Henry Concise, Numbers 36]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-36|Matthew Henry Complete on Numbers 36]]
 
 ## Open questions
 

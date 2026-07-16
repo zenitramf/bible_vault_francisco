@@ -5,7 +5,7 @@ description: The priests' garments. (1–31). The tabernacle completed. (32–43
 tags: [covenant, redemption, holiness, worship, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Exodus 39: The priests' garments. (1–31). The taberna
 
 - The priests' garments were rich and splendid. The church in its infancy was thus taught by shadows of good things to come; but the substance is Christ, and the grace of the gospel. [[sources/commentaries_english/mhenry-concise/exodus/chapter-39#Verses 1–31|Matthew Henry Concise on Exodus 39]]
 - The tabernacle was a type or emblem of Jesus Christ. As the Most High dwelt visibly within the sanctuary, even on the ark, so did he reside in the human nature and tabernacle of his dear Son; in Christ dwelt all the fulness of the Godhead bodily, Col 2:9. [[sources/commentaries_english/mhenry-concise/exodus/chapter-39#Verses 32–43|Matthew Henry Concise on Exodus 39]]
+- This chapter gives us an account of the finishing of the work of the tabernacle. I. The last things prepared were the holy garments. The ephod and its curious girdle, Ex 39:1-5. The onyx-stones for the shoulders, Ex… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-39|Matthew Henry Complete on Exodus 39]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 39 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -44,6 +49,7 @@ Primary scope: Exodus 39 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-39|Matthew Henry Concise, Exodus 39]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-39|Matthew Henry Complete on Exodus 39]]
 
 ## Open questions
 

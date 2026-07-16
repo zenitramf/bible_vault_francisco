@@ -5,7 +5,7 @@ description: The rebellion of Korah, Dathan, and Abiram Korah contends for the p
 tags: [covenant, faith, holiness, worship, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 4
 bible_book_name: "Numbers"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Numbers 16: The rebellion of Korah, Dathan, and Abiram 
 - Pride and ambition occasion a great deal of mischief both in churches and states. The rebels quarrel with the settlement of the priesthood upon Aaron and his family. [[sources/commentaries_english/mhenry-concise/numbers/chapter-16#Verses 1–11|Matthew Henry Concise on Numbers 16]]
 - The seventy elders of Israel attend Moses. It is our duty to do what we can to countenance and support lawful authority when it is opposed. [[sources/commentaries_english/mhenry-concise/numbers/chapter-16#Verses 23–34|Matthew Henry Concise on Numbers 16]]
 - The gaping earth was scarcely closed, before the same sins are again committed, and all these warnings slighted. They called the rebels the people of the Lord; and find fault with Divine justice. [[sources/commentaries_english/mhenry-concise/numbers/chapter-16#Verses 41–50|Matthew Henry Concise on Numbers 16]]
+- The date of the history contained in this chapter is altogether uncertain. Probably these mutinies happened after their removal back again from Kadesh-barnea, when they were fixed (if I may so speak) for their… [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-16|Matthew Henry Complete on Numbers 16]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Numbers 16 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Numbers 16 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/numbers/chapter-16|Matthew Henry Concise, Numbers 16]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-16|Matthew Henry Complete on Numbers 16]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Jacob sends ten sons to buy corn. (1–6). Joseph's treatment of hi
 tags: [creation, covenant, faith, redemption, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Genesis 42: Jacob sends ten sons to buy corn. (1–6). 
 - Jacob saw the corn his neighbours had bought in Egypt, and brought home. It is a spur to exertion to see others supplied. [[sources/commentaries_english/mhenry-concise/genesis/chapter-42#Verses 1–6|Matthew Henry Concise on Genesis 42]]
 - The office of conscience is to bring to mind things long since said and done. When the guilt of this sin of Joseph's brethren was fresh, they made light of it, and sat down to eat bread; but now, long afterward, their consciences accused them of it. [[sources/commentaries_english/mhenry-concise/genesis/chapter-42#Verses 21–24|Matthew Henry Concise on Genesis 42]]
 - Here is the report Jacob's sons made to their father. It troubled the good man. [[sources/commentaries_english/mhenry-concise/genesis/chapter-42#Verses 29–38|Matthew Henry Concise on Genesis 42]]
+- We had, in the foregoing chapter, the fulfilling of the dreams which Joseph had interpreted: in this and the following chapters we have the fulfilling of the dreams which Joseph himself had dreamed, that his father's… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-42|Matthew Henry Complete on Genesis 42]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 42 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Genesis 42 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-42|Matthew Henry Concise, Genesis 42]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-42|Matthew Henry Complete on Genesis 42]]
 
 ## Open questions
 

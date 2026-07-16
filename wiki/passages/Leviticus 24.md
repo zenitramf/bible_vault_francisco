@@ -5,7 +5,7 @@ description: Oil for the lamps, The shew-bread. (1–9). The law of blasphemy, b
 tags: [holiness, worship, covenant, redemption, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 3
 bible_book_name: "Leviticus"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Leviticus 24: Oil for the lamps, The shew-bread. (1–9
 
 - The loaves of bread typify Christ as the Bread of life, and the food of the souls of his people. He is the Light of his church, the Light of the world; in and through his word this light shines. [[sources/commentaries_english/mhenry-concise/leviticus/chapter-24#Verses 1–9|Matthew Henry Concise on Leviticus 24]]
 - This offender was the son of an Egyptian father, and an Israelitish mother. The notice of his parents shows the common ill effect of mixed marriages. [[sources/commentaries_english/mhenry-concise/leviticus/chapter-24#Verses 10–23|Matthew Henry Concise on Leviticus 24]]
+- In this chapter we have, I. A repetition of the laws concerning the lamps and the show-bread, Le 24:1-9. II. A violation of the law against blasphemy, with the imprisonment, trial, condemnation, and execution, of the… [[sources/commentaries_english/mhenry-complete/volume-1/leviticus/chapter-24|Matthew Henry Complete on Leviticus 24]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Leviticus 24 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Worship|Worship]]
@@ -43,6 +48,7 @@ Primary scope: Leviticus 24 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/leviticus/chapter-24|Matthew Henry Concise, Leviticus 24]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/leviticus/chapter-24|Matthew Henry Complete on Leviticus 24]]
 
 ## Open questions
 

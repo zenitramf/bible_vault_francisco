@@ -5,7 +5,7 @@ description: The words Moses spake to Israel in the plains of Moab, The promise 
 tags: [covenant, holiness, justice, worship, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 1: The words Moses spake to Israel in the p
 - Moses spake to the people all the Lord had given him in commandment. Horeb was but eleven days distant from Kadesh-barnea. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-1#Verses 1–8|Matthew Henry Concise on Deuteronomy 1]]
 - Moses reminds the people of the happy constitution of their government, which might make them all safe and easy, if it was not their own fault. He owns the fulfilment of God's promise to Abraham, and prays for the further accomplishment of it. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-1#Verses 9–18|Matthew Henry Concise on Deuteronomy 1]]
 - Moses reminds the Israelites of their march from Horeb to Kadesh-barnea, through that great and terrible wilderness. He shows how near they were to a happy settlement in Canaan. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-1#Verses 19–46|Matthew Henry Concise on Deuteronomy 1]]
+- The first part of Moses's farewell sermon to Israel begins with this chapter, and is continued to the latter end of the fourth chapter. In the first five verses of this chapter we have the date of the sermon, the place… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-1|Matthew Henry Complete on Deuteronomy 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Deuteronomy 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-1|Matthew Henry Concise, Deuteronomy 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-1|Matthew Henry Complete on Deuteronomy 1]]
 
 ## Open questions
 

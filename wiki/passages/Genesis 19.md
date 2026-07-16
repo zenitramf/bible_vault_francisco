@@ -5,7 +5,7 @@ description: The destruction of Sodom, and the deliverance of Lot. (1–29). The
 tags: [creation, covenant, faith, redemption, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Genesis 19: The destruction of Sodom, and the deliveran
 
 - Lot was good, but there was not one more of the same character in the city. All the people of Sodom were very wicked and vile. [[sources/commentaries_english/mhenry-concise/genesis/chapter-19#Verses 1–29|Matthew Henry Concise on Genesis 19]]
 - See the peril of security. Lot, who kept chaste in Sodom, and was a mourner for the wickedness of the place, and a witness against it, when in the mountain, alone, and, as he thought, out of the way of temptation, is shamefully overtaken. [[sources/commentaries_english/mhenry-concise/genesis/chapter-19#Verses 30–38|Matthew Henry Concise on Genesis 19]]
+- The contents of this chapter we have, 2Pe 2:6-8, where we find that "God, turning the cities of Sodom and Gomorrah into ashes, condemned them with an overthrow, and delivered just Lot." It is the history of Sodom's… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-19|Matthew Henry Complete on Genesis 19]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 19 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: Genesis 19 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-19|Matthew Henry Concise, Genesis 19]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-19|Matthew Henry Complete on Genesis 19]]
 
 ## Open questions
 

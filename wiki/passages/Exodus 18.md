@@ -5,7 +5,7 @@ description: Jethro brings to Moses his wife and two sons. (1–6). Moses entert
 tags: [covenant, redemption, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Exodus 18: Jethro brings to Moses his wife and two sons
 - Jethro came to rejoice with Moses in the happiness of Israel, and to bring his wife and children to him. Moses must have his family with him, that while he ruled the church of God, he might set a good example in family government, 1Ti 3:5. [[sources/commentaries_english/mhenry-concise/exodus/chapter-18#Verses 1–6|Matthew Henry Concise on Exodus 18]]
 - Conversation concerning God's wondrous works is good, and edifies. Jethro not only rejoiced in the honour done to his son-in-law, but in all the goodness done to Israel. [[sources/commentaries_english/mhenry-concise/exodus/chapter-18#Verses 7–12|Matthew Henry Concise on Exodus 18]]
 - Here is the great zeal and the toil of Moses as a magistrate. Having been employed to redeem Israel out of the house of bondage, he is a further type of Christ, that he is employed as a lawgiver and a judge among them. [[sources/commentaries_english/mhenry-concise/exodus/chapter-18#Verses 13–27|Matthew Henry Concise on Exodus 18]]
+- This chapter is concerning Moses himself, and the affairs of his own family. I. Jethro his father-in-law brings to him his wife and children, Ex 18:1-6. II. Moses entertains his father-in-law with great respect (Ex… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-18|Matthew Henry Complete on Exodus 18]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 18 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -44,6 +49,7 @@ Primary scope: Exodus 18 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-18|Matthew Henry Concise, Exodus 18]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-18|Matthew Henry Complete on Exodus 18]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The altar of burnt offerings. (1–8). The court of the tabernacle.
 tags: [covenant, redemption, holiness, worship, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Exodus 27: The altar of burnt offerings. (1–8). The c
 - In the court before the tabernacle, where the people attended, was an altar, to which they must bring their sacrifices, and on which their priests must offer them to God. It was of wood overlaid with brass. [[sources/commentaries_english/mhenry-concise/exodus/chapter-27#Verses 1–8|Matthew Henry Concise on Exodus 27]]
 - The tabernacle was enclosed in a court, about sixty yards long and thirty broad, formed by curtains hung upon brazen pillars, fixed in brazen sockets. Within this enclosure the priests and Levites offered the sacrifices, and thither the Jewish people were admitted. [[sources/commentaries_english/mhenry-concise/exodus/chapter-27#Verses 9–19|Matthew Henry Concise on Exodus 27]]
 - The pure oil signified the gifts and graces of the Spirit, which all believers receive from Christ, the good Olive, and without which our light cannot shine before men. The priests were to light the lamps, and tend them. [[sources/commentaries_english/mhenry-concise/exodus/chapter-27#Verses 20, 21|Matthew Henry Concise on Exodus 27]]
+- In this chapter directions are given, I. Concerning the brazen altar for burnt-offerings, Ex 27:1-8. II. Concerning the court of the tabernacle, with the hangings of it, Ex 27:9-19. III. Concerning oil for the lamp, Ex… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-27|Matthew Henry Complete on Exodus 27]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 27 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -45,6 +50,7 @@ Primary scope: Exodus 27 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-27|Matthew Henry Concise, Exodus 27]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-27|Matthew Henry Complete on Exodus 27]]
 
 ## Open questions
 

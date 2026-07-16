@@ -5,7 +5,7 @@ description: The burning at Taberah. (1–3). The people lust for flesh, and loa
 tags: [covenant, faith, holiness, worship, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 4
 bible_book_name: "Numbers"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Numbers 11: The burning at Taberah. (1–3). The people
 - Here is the people's sin; they complained. See the sinfulness of sin, which takes occasion from the commandment to be provoking. [[sources/commentaries_english/mhenry-concise/numbers/chapter-11#Verses 1–3|Matthew Henry Concise on Numbers 11]]
 - Moses is to choose such as he knew to be elders, that is, wise and experienced men. God promises to qualify them. [[sources/commentaries_english/mhenry-concise/numbers/chapter-11#Verses 16–23|Matthew Henry Concise on Numbers 11]]
 - God performed his promise to the people, in giving them flesh. How much more diligent men are in collecting the meat that perishes, than in labouring for meat which endures to everlasting life! [[sources/commentaries_english/mhenry-concise/numbers/chapter-11#Verses 31–35|Matthew Henry Concise on Numbers 11]]
+- Hitherto things had gone pretty well in Israel; little interruption had been given to the methods of God's favour to them since the matter of the golden calf; the people seemed teachable in marshalling and purifying… [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-11|Matthew Henry Complete on Numbers 11]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Numbers 11 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Numbers 11 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/numbers/chapter-11|Matthew Henry Concise, Numbers 11]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-11|Matthew Henry Complete on Numbers 11]]
 
 ## Open questions
 

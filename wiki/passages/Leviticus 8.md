@@ -5,7 +5,7 @@ description: The consecration of Aaron and his sons. (1–13). The offerings of 
 tags: [holiness, worship, covenant, redemption, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 3
 bible_book_name: "Leviticus"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Leviticus 8: The consecration of Aaron and his sons. (1
 
 - The consecration of Aaron and his sons had been delayed until the tabernacle had been prepared, and the laws of the sacrifices given. Aaron and his sons were washed with water, to signify that they ought to purify themselves from all sinful dispositions, and ever after to keep themselves pure. [[sources/commentaries_english/mhenry-concise/leviticus/chapter-8#Verses 1–13|Matthew Henry Concise on Leviticus 8]]
 - In these types we see our great High Priest, even Christ Jesus, solemnly appointed, anointed, and invested with his sacred office, by his own blood, and the influences of his Holy Spirit. He sanctifies the ordinances of religion, to the benefit of his people and the honour of God the Father; who for his sake accepts… [[sources/commentaries_english/mhenry-concise/leviticus/chapter-8#Verses 14–36|Matthew Henry Concise on Leviticus 8]]
+- This chapter gives us an account of the solemn consecration of Aaron and his sons to the priest's office. I. It was done publicly, and the congregation was called together to be witnesses of it, Le 8:1-4. II. It was… [[sources/commentaries_english/mhenry-complete/volume-1/leviticus/chapter-8|Matthew Henry Complete on Leviticus 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Leviticus 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Worship|Worship]]
@@ -43,6 +48,7 @@ Primary scope: Leviticus 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/leviticus/chapter-8|Matthew Henry Concise, Leviticus 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/leviticus/chapter-8|Matthew Henry Complete on Leviticus 8]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The cities of the Levites. (1–8). The cities of refuge, The laws 
 tags: [covenant, faith, holiness, worship, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 4
 bible_book_name: "Numbers"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Numbers 35: The cities of the Levites. (1–8). The cit
 
 - The cities of the priests and Levites were not only to accommodate them, but to place them, as religious teachers, in several parts of the land. For though the typical service of the tabernacle or temple was only in one place, the preaching of the word of God, and prayer and praise, were not thus confined. [[sources/commentaries_english/mhenry-concise/numbers/chapter-35#Verses 1–8|Matthew Henry Concise on Numbers 35]]
 - To show plainly the abhorrence of murder, and to provide the more effectually for the punishment of the murderer, the nearest relation of the deceased, under the title of avenger of blood, (or the redeemer of blood,) in notorious cases, might pursue, and execute vengeance. A distinction is made, not between sudden… [[sources/commentaries_english/mhenry-concise/numbers/chapter-35#Verses 9–34|Matthew Henry Concise on Numbers 35]]
+- Orders having been given before for the dividing of the land of Canaan among the lay-tribes (as I may call them), care is here taken for a competent provision for the clergy, the tribe of Levi, which ministered in holy… [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-35|Matthew Henry Complete on Numbers 35]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Numbers 35 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Numbers 35 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/numbers/chapter-35|Matthew Henry Concise, Numbers 35]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-35|Matthew Henry Complete on Numbers 35]]
 
 ## Open questions
 

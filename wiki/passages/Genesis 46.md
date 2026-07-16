@@ -5,7 +5,7 @@ description: God's promises to Jacob. (1–4). Jacob and his family go to Egypt.
 tags: [creation, covenant, faith, redemption, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Genesis 46: God's promises to Jacob. (1–4). Jacob and
 - Even as to those events and undertakings which appear most joyful, we should seek counsel, assistance, and a blessing from the Lord. Attending on his ordinances, and receiving the pledges of his covenant love, we expect his presence, and that peace which it confers. [[sources/commentaries_english/mhenry-concise/genesis/chapter-46#Verses 1–4|Matthew Henry Concise on Genesis 46]]
 - We have here a particular account of Jacob's family. Though the fulfilling of promises is always sure, yet it is often slow. [[sources/commentaries_english/mhenry-concise/genesis/chapter-46#Verses 5–27|Matthew Henry Concise on Genesis 46]]
 - It was justice to Pharaoh to let him know that such a family was come to settle in his dominions. If others put confidence in us, we must not be so base as to abuse it by imposing upon them. [[sources/commentaries_english/mhenry-concise/genesis/chapter-46#Verses 28–34|Matthew Henry Concise on Genesis 46]]
+- Jacob is here removing to Egypt in his old age, forced thither by a famine, and invited thither by a son. Here, I. God sends him thither, Ge 46:1-4. II. All his family goes with him, Ge 46:5-27. III. Joseph bids him… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-46|Matthew Henry Complete on Genesis 46]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 46 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Genesis 46 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-46|Matthew Henry Concise, Genesis 46]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-46|Matthew Henry Complete on Genesis 46]]
 
 ## Open questions
 

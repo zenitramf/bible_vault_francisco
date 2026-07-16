@@ -5,7 +5,7 @@ description: The first sabbath. (1–3). Particulars about the creation. (4–7)
 tags: [creation, covenant, faith, redemption, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Genesis 2: The first sabbath. (1–3). Particulars abou
 - After six days, God ceased from all works of creation. In miracles, he has overruled nature, but never changed its settled course, or added to it. [[sources/commentaries_english/mhenry-concise/genesis/chapter-2#Verses 1–3|Matthew Henry Concise on Genesis 2]]
 - After God had formed Adam, he put him in the garden. All boasting was thereby shut out. [[sources/commentaries_english/mhenry-concise/genesis/chapter-2#Verse 15|Matthew Henry Concise on Genesis 2]]
 - Power over the creatures was given to man, and as a proof of this he named them all. It also shows his insight into the works of God. [[sources/commentaries_english/mhenry-concise/genesis/chapter-2#Verses 18–25|Matthew Henry Concise on Genesis 2]]
+- This chapter is an appendix to the history of the creation, more particularly explaining and enlarging upon that part of the history which relates immediately to man, the favourite of this lower world. We have in it,… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-2|Matthew Henry Complete on Genesis 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Genesis 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-2|Matthew Henry Concise, Genesis 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-2|Matthew Henry Complete on Genesis 2]]
 
 ## Open questions
 

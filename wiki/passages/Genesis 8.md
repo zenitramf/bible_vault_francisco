@@ -5,7 +5,7 @@ description: God remembers Noah, and dries up the waters. (1–3). The ark rests
 tags: [creation, covenant, faith, redemption, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Genesis 8: God remembers Noah, and dries up the waters.
 - The whole race of mankind, except Noah and his family, were now dead, so that God's remembering Noah, was the return of his mercy to mankind, of whom he would not make a full end. The demands of Divine justice had been answered by the ruin of sinners. [[sources/commentaries_english/mhenry-concise/genesis/chapter-8#Verses 1–3|Matthew Henry Concise on Genesis 8]]
 - God consults our benefit, rather than our desires; he knows what is good for us better than we do for ourselves, and how long it is fit our restraints should continue, and desired mercies should be delayed. We would go out of the ark before the ground is dried; and perhaps, if the door, is shut, are ready to thrust… [[sources/commentaries_english/mhenry-concise/genesis/chapter-8#Verses 13–19|Matthew Henry Concise on Genesis 8]]
 - Noah was now gone out into a desolate world, where, one might have thought, his first care would have been to build a house for himself, but he begins with an alter for God. He begins well, that begins with God. [[sources/commentaries_english/mhenry-concise/genesis/chapter-8#Verses 20–22|Matthew Henry Concise on Genesis 8]]
+- In the close of the foregoing chapter we left the world in ruins and the church in straits; but in this chapter we have the repair of the one and the enlargement of the other. Now the scene alters, and another face of… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-8|Matthew Henry Complete on Genesis 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Genesis 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-8|Matthew Henry Concise, Genesis 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-8|Matthew Henry Complete on Genesis 8]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Who are shut out from the congregation. (1–8). Cleanliness enjoin
 tags: [covenant, holiness, justice, worship, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 23: Who are shut out from the congregation.
 - We ought to value the privileges of God's people, both for ourselves and for our children, above all other advantages. No personal blemishes, no crimes of our forefathers, no difference of nation, shuts us out under the Christian dispensation. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-23#Verses 1–8|Matthew Henry Concise on Deuteronomy 23]]
 - The camp of the Lord must have nothing offensive in it. If there must be this care taken to preserve the body clean, much more should we be careful to keep the mind pure. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-23#Verses 9–14|Matthew Henry Concise on Deuteronomy 23]]
 - It is honourable to shelter and protect the weak, provided they are not wicked. Proselytes and converts to the truth, should be treated with particular tenderness, that they may have no temptation to return to the world. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-23#Verses 15–25|Matthew Henry Concise on Deuteronomy 23]]
+- The laws of this chapter provide, I. For the preserving of the purity and honour of the families of Israel, by excluding such as would be a disgrace to them, De 23:1-8. II. For the preserving of the purity and honour… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-23|Matthew Henry Complete on Deuteronomy 23]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 23 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -45,6 +50,7 @@ Primary scope: Deuteronomy 23 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-23|Matthew Henry Concise, Deuteronomy 23]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-23|Matthew Henry Complete on Deuteronomy 23]]
 
 ## Open questions
 

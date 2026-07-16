@@ -5,7 +5,7 @@ description: Moses and Aaron encouraged. (1–7). The rods turned into serpents,
 tags: [covenant, redemption, holiness, worship, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Exodus 7: Moses and Aaron encouraged. (1–7). The rods
 - God glorifies himself. He makes people know that he is Jehovah. [[sources/commentaries_english/mhenry-concise/exodus/chapter-7#Verses 1–7|Matthew Henry Concise on Exodus 7]]
 - What men dislike, because it opposes their pride and lusts, they will not be convinced of; but it is easy to cause them to believe things they wish to be true. God always sends with his word full proofs of its Divine authority; but when men are bent to disobey, and willing to object, he often permits a snare to be… [[sources/commentaries_english/mhenry-concise/exodus/chapter-7#Verses 8–13|Matthew Henry Concise on Exodus 7]]
 - Here is the first of the ten plagues, the turning of the water into blood. It was a dreadful plague. [[sources/commentaries_english/mhenry-concise/exodus/chapter-7#Verses 14–25|Matthew Henry Concise on Exodus 7]]
+- In this chapter, I. The dispute between God and Moses finishes, and Moses applies himself to the execution of his commission, in obedience to God's command, Ex 7:1-7. II. The dispute between Moses and Pharaoh begins,… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-7|Matthew Henry Complete on Exodus 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -45,6 +50,7 @@ Primary scope: Exodus 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-7|Matthew Henry Concise, Exodus 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-7|Matthew Henry Complete on Exodus 7]]
 
 ## Open questions
 

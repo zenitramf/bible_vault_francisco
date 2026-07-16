@@ -5,7 +5,7 @@ description: Directions to the priest to judge concerning leprosy. (1–17). Fur
 tags: [holiness, worship, covenant, redemption, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 3
 bible_book_name: "Leviticus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Leviticus 13: Directions to the priest to judge concern
 - The plague of leprosy was an uncleanness, rather than a disease. Christ is said to cleanse lepers, not to cure them. [[sources/commentaries_english/mhenry-concise/leviticus/chapter-13#Verses 1–17|Matthew Henry Concise on Leviticus 13]]
 - When the priest had pronounced the leper unclean, it put a stop to his business in the world, cut him off from his friends and relations, and ruined all the comfort he could have in the world. He must humble himself under the mighty hand of God, not insisting upon his cleanness, when the priest had pronounced him… [[sources/commentaries_english/mhenry-concise/leviticus/chapter-13#Verses 45, 46|Matthew Henry Concise on Leviticus 13]]
 - The garment suspected to be tainted with leprosy was not to be burned immediately. If, upon search, it was found that there was a leprous spot, it must be burned, or at least that part of it. [[sources/commentaries_english/mhenry-concise/leviticus/chapter-13#Verses 47–59|Matthew Henry Concise on Leviticus 13]]
+- The next ceremonial uncleanness is that of the leprosy, concerning which the law was very large and particular; we have the discovery of it in this chapter, and the cleansing of the leper in the next. Scarcely any one… [[sources/commentaries_english/mhenry-complete/volume-1/leviticus/chapter-13|Matthew Henry Complete on Leviticus 13]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Leviticus 13 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Leviticus 13 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/leviticus/chapter-13|Matthew Henry Concise, Leviticus 13]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/leviticus/chapter-13|Matthew Henry Complete on Leviticus 13]]
 
 ## Open questions
 

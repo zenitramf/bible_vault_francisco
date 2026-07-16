@@ -5,7 +5,7 @@ description: Balak's fear of Israel, He sends for Balaam. (1–14). Balaam goes 
 tags: [covenant, faith, holiness, worship, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 4
 bible_book_name: "Numbers"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Numbers 22: Balak's fear of Israel, He sends for Balaam
 - The king of Moab formed a plan to get the people of Israel cursed; that is, to set God against them, who had hitherto fought for them. He had a false notion, that if he could get some prophet to pray for evil upon them, and to pronounce a blessing upon himself and his forces, that then he should be able to deal with… [[sources/commentaries_english/mhenry-concise/numbers/chapter-22#Verses 1–14|Matthew Henry Concise on Numbers 22]]
 - We must not think, that because God does not always by his providence restrain men from sin, therefore he approves of it, or that it is not hateful to him. The holy angels oppose sin, and perhaps are employed in preventing it more than we are aware. [[sources/commentaries_english/mhenry-concise/numbers/chapter-22#Verses 22–35|Matthew Henry Concise on Numbers 22]]
 - Balak has now nothing to complain of, but that Balaam did not come sooner. Balaam bids Balak not depend too much upon him. [[sources/commentaries_english/mhenry-concise/numbers/chapter-22#Verses 36–41|Matthew Henry Concise on Numbers 22]]
+- At this chapter begins the famous story of Balak and Balaam, their attempt to curse Israel, and the baffling of that attempt; God's people are long afterwards told to remember what Balak the king of Moab consulted, and… [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-22|Matthew Henry Complete on Numbers 22]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Numbers 22 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Numbers 22 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/numbers/chapter-22|Matthew Henry Concise, Numbers 22]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-22|Matthew Henry Complete on Numbers 22]]
 
 ## Open questions
 

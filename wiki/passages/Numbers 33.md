@@ -5,7 +5,7 @@ description: Encampments of the Israelites. (1–49). The Canaanites to be destr
 tags: [covenant, faith, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 4
 bible_book_name: "Numbers"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Numbers 33: Encampments of the Israelites. (1–49). Th
 
 - This is a brief review of the travels of the children of Israel through the wilderness. It is a memorable history. [[sources/commentaries_english/mhenry-concise/numbers/chapter-33#Verses 1–49|Matthew Henry Concise on Numbers 33]]
 - Now that they were to pass over Jordan, they were entering again into temptation to follow idols; and they are threatened that, if they spared either the idols or the idolaters, their sin would certainly be their punishment. They would foster vipers in their own bosoms. [[sources/commentaries_english/mhenry-concise/numbers/chapter-33#Verses 50–56|Matthew Henry Concise on Numbers 33]]
+- In this chapter we have, I. A particular account of the removals and encampments of the children of Israel, from their escape out of Egypt to their entrance into Canaan, forty-two in all, with some remarkable events… [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-33|Matthew Henry Complete on Numbers 33]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Numbers 33 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -42,6 +47,7 @@ Primary scope: Numbers 33 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/numbers/chapter-33|Matthew Henry Concise, Numbers 33]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-33|Matthew Henry Complete on Numbers 33]]
 
 ## Open questions
 

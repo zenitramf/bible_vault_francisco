@@ -5,7 +5,7 @@ description: The song of Moses. (1, 2). The character of God, The character of I
 tags: [covenant, holiness, justice, worship, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 32: The song of Moses. (1, 2). The characte
 - Moses begins with a solemn appeal to heaven and earth, concerning the truth and importance of what he was about to say. His doctrine is the gospel, the speech of God, the doctrine of Christ; the doctrine of grace and mercy through him, and of life and salvation by him. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-32#Verses 1, 2|Matthew Henry Concise on Deuteronomy 32]]
 - The revolt of Israel was described in the foregoing verses, and here follow the resolves of Divine justice as to them. We deceive ourselves, if we think that God will be mocked by a faithless people. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-32#Verses 19–25|Matthew Henry Concise on Deuteronomy 32]]
 - Now Moses had done his work, why should he desire to live a day longer? God reminds him of the sin of which he had been guilty, for which he was kept from entering Canaan. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-32#Verses 48–52|Matthew Henry Concise on Deuteronomy 32]]
+- In this chapter we have, I. The song which Moses, by the appointment of God, delivered to the children of Israel, for a standing admonition to them, to take heed of forsaking God. This takes up most of the chapter, in… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-32|Matthew Henry Complete on Deuteronomy 32]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 32 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -45,6 +50,7 @@ Primary scope: Deuteronomy 32 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-32|Matthew Henry Concise, Deuteronomy 32]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-32|Matthew Henry Complete on Deuteronomy 32]]
 
 ## Open questions
 

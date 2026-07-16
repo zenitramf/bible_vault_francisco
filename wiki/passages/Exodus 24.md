@@ -5,7 +5,7 @@ description: Moses is called up into the mountain, The people promise obedience.
 tags: [covenant, redemption, holiness, worship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Exodus 24: Moses is called up into the mountain, The pe
 - A solemn covenant was made between God and Israel. Very solemn it was, typifying the covenant of grace between God and believers, through Christ. [[sources/commentaries_english/mhenry-concise/exodus/chapter-24#Verses 1–8|Matthew Henry Concise on Exodus 24]]
 - The elders saw the God of Israel; they had some glimpse of his glory, though whatever they saw, it was something of which no image or picture could be made, yet enough to satisfy them that God was with them of a truth. Nothing is described but what was under his feet. [[sources/commentaries_english/mhenry-concise/exodus/chapter-24#Verses 9–11|Matthew Henry Concise on Exodus 24]]
 - A cloud covered the mount six days; a token of God's special presence there. Moses was sure that he who called him up would protect him. [[sources/commentaries_english/mhenry-concise/exodus/chapter-24#Verses 12–18|Matthew Henry Concise on Exodus 24]]
+- Moses, as mediator between God and Israel, having received divers laws and ordinances from God privately in the three foregoing chapters, in this chapter, I. Comes down to the people, acquaints them with the laws he… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-24|Matthew Henry Complete on Exodus 24]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 24 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -45,6 +50,7 @@ Primary scope: Exodus 24 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-24|Matthew Henry Concise, Exodus 24]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-24|Matthew Henry Complete on Exodus 24]]
 
 ## Open questions
 

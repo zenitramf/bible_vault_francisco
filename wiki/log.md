@@ -121,3 +121,9 @@ append_only: true
 - Extended wiki_tool.py source-coverage with --path, --uncovered-only, --require-zero, --limit, --verbose for zero-uncovered gates per volume/month/corpus.
 - Documented gates in schema/command-reference.md and schema/workflow-examples.md; updated tracker 4.0 rows to reviewed and recorded measured baseline table.
 - Commit-per-subphase discipline: one commit when each tracker sub-row flips to reviewed after path-scoped --require-zero passes. No content ingest in 4.0.
+
+## [2026-07-16] campaign | Phase 4.1 Complete Volume 1
+
+- Generated wiki/source-notes/Matthew Henry Complete Volume 1.md citing all 188 content files.
+- Thickened 182 matching passage pages with Complete digest claims and Sources links.
+- source-coverage --path mhenry-complete/volume-1 --require-zero OK.

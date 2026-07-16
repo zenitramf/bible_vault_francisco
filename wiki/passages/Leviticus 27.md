@@ -5,7 +5,7 @@ description: The law concerning vows, Of persons and animals. (1–13). Vows con
 tags: [holiness, worship, covenant, redemption, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 3
 bible_book_name: "Leviticus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Leviticus 27: The law concerning vows, Of persons and a
 - Zeal for the service of God disposed the Israelites, on some occasions, to dedicate themselves or their children to the service of the Lord, in his house for life. Some persons who thus dedicated themselves might be employed as assistants; in general they were to be redeemed for a value. [[sources/commentaries_english/mhenry-concise/leviticus/chapter-27#Verses 1–13|Matthew Henry Concise on Leviticus 27]]
 - Things or persons devoted, are distinguished from things or persons that were only sanctified. Devoted things were most holy to the Lord, and could neither be taken back nor applied to other purposes. [[sources/commentaries_english/mhenry-concise/leviticus/chapter-27#Verses 26–33|Matthew Henry Concise on Leviticus 27]]
 - The last verse seems to have reference to this whole book. Many of the precepts in it are moral, and always binding; others are ceremonial, and peculiar to the Jewish nation; yet they have a spiritual meaning, and so teach us; for unto us, by these institutions, is the gospel preached, as well as unto them, Heb 4:2. [[sources/commentaries_english/mhenry-concise/leviticus/chapter-27#Verse 34|Matthew Henry Concise on Leviticus 27]]
+- The Le 26:46 seemed to close up the statute-book; yet this chapter is added as an appendix. Having given laws concerning instituted services, here he directs concerning vows and voluntary services, the free-will… [[sources/commentaries_english/mhenry-complete/volume-1/leviticus/chapter-27|Matthew Henry Complete on Leviticus 27]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Leviticus 27 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Worship|Worship]]
@@ -43,6 +48,7 @@ Primary scope: Leviticus 27 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/leviticus/chapter-27|Matthew Henry Concise, Leviticus 27]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/leviticus/chapter-27|Matthew Henry Complete on Leviticus 27]]
 
 ## Open questions
 

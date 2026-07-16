@@ -5,7 +5,7 @@ description: Moses calls Israel's mercies to remembrance. (1–9). The Divine wr
 tags: [covenant, holiness, justice, worship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 29: Moses calls Israel's mercies to remembr
 - Both former mercies, and fresh mercies, should be thought on by us as motives to obedience. The hearing ear, and seeing eye, and the understanding heart, are the gift of God. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-29#Verses 1–9|Matthew Henry Concise on Deuteronomy 29]]
 - Idolatry would be the ruin of their nation. It is no new thing for God to bring desolating judgments on a people near to him in profession. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-29#Verses 22–28|Matthew Henry Concise on Deuteronomy 29]]
 - Moses ends his prophecy of the Jews' rejection, just as St. Paul ends his discourse on the same subject, when it began to be fulfilled, Ro 11:33. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-29#Verse 29|Matthew Henry Concise on Deuteronomy 29]]
+- The first words of this chapter are the contents of it, "These are the words of the covenant" (De 29:1), that is, these that follow. Here is, I. A recital of God's dealings with them, in order to the bringing of them… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-29|Matthew Henry Complete on Deuteronomy 29]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 29 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Deuteronomy 29 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-29|Matthew Henry Concise, Deuteronomy 29]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-29|Matthew Henry Complete on Deuteronomy 29]]
 
 ## Open questions
 

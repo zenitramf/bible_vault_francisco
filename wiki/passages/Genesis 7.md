@@ -5,7 +5,7 @@ description: Noah, and his family and the living creatures, enter the ark, and t
 tags: [creation, covenant, faith, redemption]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Genesis 7: Noah, and his family and the living creature
 - The call to Noah is very kind, like that of a tender father to his children to come in-doors when he sees night or a storm coming. Noah did not go into the ark till God bade him, though he knew it was to be his place of refuge. [[sources/commentaries_english/mhenry-concise/genesis/chapter-7#Verses 1–12|Matthew Henry Concise on Genesis 7]]
 - The flood was increasing forty days. The waters rose so high, that the tops of the highest mountains were overflowed more than twenty feet. [[sources/commentaries_english/mhenry-concise/genesis/chapter-7#Verses 17–20|Matthew Henry Concise on Genesis 7]]
 - All the men, women, and children, that were in the world, excepting those in the ark, died. We may easily imagine what terror seized them. [[sources/commentaries_english/mhenry-concise/genesis/chapter-7#Verses 21–24|Matthew Henry Concise on Genesis 7]]
+- In this chapter we have the performance of what was foretold in the foregoing chapter, both concerning the destruction of the old world and the salvation of Noah; for we may be sure that no word of God shall fall to… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-7|Matthew Henry Complete on Genesis 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Genesis 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-7|Matthew Henry Concise, Genesis 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-7|Matthew Henry Complete on Genesis 7]]
 
 ## Open questions
 

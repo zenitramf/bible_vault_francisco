@@ -5,7 +5,7 @@ description: Joseph visits his dying father. (1–7). Jacob blesses Joseph's son
 tags: [creation, covenant, faith, redemption, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Genesis 48: Joseph visits his dying father. (1–7). Ja
 
 - The death-beds of believers, with the prayers and counsels of dying persons, are suited to make serious impressions upon the young, the gay, and the prosperous: we shall do well to take children on such occasions, when it can be done properly. If the Lord please, it is very desirable to bear our dying testimony to… [[sources/commentaries_english/mhenry-concise/genesis/chapter-48#Verses 1–7|Matthew Henry Concise on Genesis 48]]
 - The two good men own God in their comforts. Joseph says, They are my sons whom God has given me. [[sources/commentaries_english/mhenry-concise/genesis/chapter-48#Verses 8–22|Matthew Henry Concise on Genesis 48]]
+- The time drawing nigh that Israel must die, having, in the former chapter, given order about his burial, in this he takes leave of his grand-children by Joseph, and in the next of all his children. Thus Jacob's dying… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-48|Matthew Henry Complete on Genesis 48]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 48 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: Genesis 48 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-48|Matthew Henry Concise, Genesis 48]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-48|Matthew Henry Complete on Genesis 48]]
 
 ## Open questions
 

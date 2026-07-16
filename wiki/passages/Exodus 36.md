@@ -5,7 +5,7 @@ description: The making of the tabernacle, The liberality of the people restrain
 tags: [covenant, redemption, holiness, worship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Exodus 36: The making of the tabernacle, The liberality
 ## Core claims
 
 - The readiness and zeal with which these builders set about their work, the exactness with which they performed it, and the faithfulness with which they objected to receive more contributions, are worthy of our imitation. Thus should we serve God, and our superiors also, in all things lawful. [[sources/commentaries_english/mhenry-concise/exodus/chapter-36#Verses 1-38|Matthew Henry Concise on Exodus 36]]
+- In this chapter, I. The work of the tabernacle is begun, Ex 36:1-4. II. A stop is put to the people's contributions, Ex 36:5-7. III. A particular account is given of the making of the tabernacle itself; the fine… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-36|Matthew Henry Complete on Exodus 36]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 36 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -43,6 +48,7 @@ Primary scope: Exodus 36 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-36|Matthew Henry Concise, Exodus 36]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-36|Matthew Henry Complete on Exodus 36]]
 
 ## Open questions
 

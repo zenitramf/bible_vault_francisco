@@ -1,7 +1,5 @@
 # Bible Wiki
 
-Live database view: [[wiki/index.base|Wiki hub base]]. Section folders also have paired `index.base` files (see also [[bases.base|Base of bases]]). Static OKF lists remain below.
-
 # Contents
 
 * [[wiki/concepts/index|Concepts]] - Source-backed syntheses of biblical doctrines, themes, and practices.

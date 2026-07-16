@@ -5,7 +5,7 @@ description: The Lord appears to Abraham. (1–8). Sarah's unbelief reproved. (9
 tags: [creation, covenant, faith, redemption, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Genesis 18: The Lord appears to Abraham. (1–8). Sarah
 - Abraham was waiting to entertain any weary traveller, for inns were not to be met with as among us. While Abraham was thus sitting, he saw three men coming. [[sources/commentaries_english/mhenry-concise/genesis/chapter-18#Verses 1–8|Matthew Henry Concise on Genesis 18]]
 - The two who are supposed to have been created angels went toward Sodom. The one who is called Jehovah throughout the chapter, continued with Abraham, and would not hide from him the thing he intended to do. [[sources/commentaries_english/mhenry-concise/genesis/chapter-18#Verses 16–22|Matthew Henry Concise on Genesis 18]]
 - Here is the first solemn prayer upon record in the Bible; and it is a prayer for the sparing of Sodom. Abraham prayed earnestly that Sodom might be spared, if but a few righteous persons should be found in it. [[sources/commentaries_english/mhenry-concise/genesis/chapter-18#Verses 23–33|Matthew Henry Concise on Genesis 18]]
+- We have an account in this chapter of another interview between God and Abraham, probably within a few days after the former, as the reward of his cheerful obedience to the law of circumcision. Here is, I. The kind… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-18|Matthew Henry Complete on Genesis 18]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 18 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Genesis 18 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-18|Matthew Henry Concise, Genesis 18]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-18|Matthew Henry Complete on Genesis 18]]
 
 ## Open questions
 

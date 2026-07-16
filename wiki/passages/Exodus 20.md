@@ -5,7 +5,7 @@ description: The preface to the ten commandments. (1, 2). The commandments of th
 tags: [covenant, redemption, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Exodus 20: The preface to the ten commandments. (1, 2).
 - God speaks many ways to the children of men; by conscience, by providences, by his voice, to all which we ought carefully to attend; but he never spake at any time so as he spake the TEN COMMANDMENTS. This law God had given to man before; it was written in his heart; but sin so defaced it, that it was necessary to… [[sources/commentaries_english/mhenry-concise/exodus/chapter-20#Verses 1, 2|Matthew Henry Concise on Exodus 20]]
 - The laws of the SECOND table, that is, the last six of the ten commandments, state our duty to ourselves and to one another, and explain the great commandment, Thou shalt love thy neighbour as thyself, Lu 10:27. Godliness and honesty must go together. [[sources/commentaries_english/mhenry-concise/exodus/chapter-20#Verses 12–17|Matthew Henry Concise on Exodus 20]]
 - Moses having entered into the thick darkness, God there spake in his hearing all that follows from hence to the end of chap. 23, which is mostly an exposition of the ten commandments. [[sources/commentaries_english/mhenry-concise/exodus/chapter-20#Verses 22–26|Matthew Henry Concise on Exodus 20]]
+- All things being prepared for the solemn promulgation of the divine law, we have, in this chapter, I. The ten commandments, as God himself spoke them upon Mount Sinai (Ex 20:1-17), as remarkable a portion of scripture… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-20|Matthew Henry Complete on Exodus 20]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 20 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -44,6 +49,7 @@ Primary scope: Exodus 20 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-20|Matthew Henry Concise, Exodus 20]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-20|Matthew Henry Complete on Exodus 20]]
 
 ## Open questions
 

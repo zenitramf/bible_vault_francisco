@@ -5,7 +5,7 @@ description: The offerings of the princes at the dedication of the tabernacle. (
 tags: [covenant, faith, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 4
 bible_book_name: "Numbers"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Numbers 7: The offerings of the princes at the dedicati
 
 - The offering of the princes to the service of the tabernacle was not made till it was fully set up. Necessary observances must always take place of free-will offerings. [[sources/commentaries_english/mhenry-concise/numbers/chapter-7#Verses 1–9|Matthew Henry Concise on Numbers 7]]
 - The princes and great men were most forward in the service of God. Here is an example to those in authority, and of the highest rank; they ought to use their honour and power, their estate and interest, to promote religion and the service of God in the places where they live. [[sources/commentaries_english/mhenry-concise/numbers/chapter-7#Verses 10–89|Matthew Henry Concise on Numbers 7]]
+- God having set up house (as it were) in the midst of the camp of Israel, the princes of Israel here come a visiting with their presents, as tenants to their landlord, in the name of their respective tribes. I. They… [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-7|Matthew Henry Complete on Numbers 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Numbers 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -42,6 +47,7 @@ Primary scope: Numbers 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/numbers/chapter-7|Matthew Henry Concise, Numbers 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-7|Matthew Henry Complete on Numbers 7]]
 
 ## Open questions
 

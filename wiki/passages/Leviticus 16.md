@@ -5,7 +5,7 @@ description: The great day of atonement. (1–14). The sacrifices on it, The sca
 tags: [holiness, worship, covenant, redemption]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 3
 bible_book_name: "Leviticus"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Leviticus 16: The great day of atonement. (1–14). The
 
 - Without entering into particulars of the sacrifices on the great day of atonement, we may notice that it was to be a statute for ever, till that dispensation be at an end. As long as we are continually sinning, we continually need the atonement. [[sources/commentaries_english/mhenry-concise/leviticus/chapter-16#Verses 1–14|Matthew Henry Concise on Leviticus 16]]
 - Here are typified the two great gospel privileges, of the remission of sin, and access to God, both of which we owe to our Lord Jesus. See the expiation of guilt. [[sources/commentaries_english/mhenry-concise/leviticus/chapter-16#Verses 15–34|Matthew Henry Concise on Leviticus 16]]
+- In this chapter we have the institution of the annual solemnity of the day of atonement, or expiation, which had as much gospel in it as perhaps any of the appointments of the ceremonial law, as appears by the… [[sources/commentaries_english/mhenry-complete/volume-1/leviticus/chapter-16|Matthew Henry Complete on Leviticus 16]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Leviticus 16 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Worship|Worship]]
@@ -42,6 +47,7 @@ Primary scope: Leviticus 16 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/leviticus/chapter-16|Matthew Henry Concise, Leviticus 16]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/leviticus/chapter-16|Matthew Henry Complete on Leviticus 16]]
 
 ## Open questions
 

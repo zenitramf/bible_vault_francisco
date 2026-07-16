@@ -5,7 +5,7 @@ description: The people cause Aaron to make a golden calf. (1–6). God's disple
 tags: [covenant, redemption, holiness, worship, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Exodus 32: The people cause Aaron to make a golden calf
 - While Moses was in the mount, receiving the law from God, the people made a tumultuous address to Aaron. This giddy multitude were weary of waiting for the return of Moses. [[sources/commentaries_english/mhenry-concise/exodus/chapter-32#Verses 1–6|Matthew Henry Concise on Exodus 32]]
 - What a change it is, to come down from the mount of communion with God, to converse with a wicked world. In God we see nothing but what is pure and pleasing; in the world nothing but what is sinful and provoking. [[sources/commentaries_english/mhenry-concise/exodus/chapter-32#Verses 15–20|Matthew Henry Concise on Exodus 32]]
 - Moses calls it a great sin. The work of ministers is to show people the greatness of their sins. [[sources/commentaries_english/mhenry-concise/exodus/chapter-32#Verses 30–35|Matthew Henry Concise on Exodus 32]]
+- It is a very lamentable interruption which the story of this chapter gives to the record of the establishment of the church, and of religion among the Jews. Things went on admirably well towards that happy settlement:… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-32|Matthew Henry Complete on Exodus 32]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 32 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -45,6 +50,7 @@ Primary scope: Exodus 32 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-32|Matthew Henry Concise, Exodus 32]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-32|Matthew Henry Complete on Exodus 32]]
 
 ## Open questions
 

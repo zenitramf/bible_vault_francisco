@@ -5,7 +5,7 @@ description: Exhortations and cautions, enforced by the Lord's former dealings w
 tags: [covenant, holiness, justice, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Deuteronomy 8: Exhortations and cautions, enforced by t
 
 - Obedience must be, 1. Careful, observe to do; 2. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-8#Verses 1–9|Matthew Henry Concise on Deuteronomy 8]]
 - Moses directs to the duty of a prosperous condition. Let them always remember their Benefactor. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-8#Verses 10–20|Matthew Henry Concise on Deuteronomy 8]]
+- Moses had charged parents in teaching their children to whet the word of God upon them (De 6:7) by frequent repetition of the same things over and over again; and here he himself takes the same method of instructing… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-8|Matthew Henry Complete on Deuteronomy 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -43,6 +48,7 @@ Primary scope: Deuteronomy 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-8|Matthew Henry Concise, Deuteronomy 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-8|Matthew Henry Complete on Deuteronomy 8]]
 
 ## Open questions
 

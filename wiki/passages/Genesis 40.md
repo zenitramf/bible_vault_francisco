@@ -5,7 +5,7 @@ description: The chief butler and baker of Pharaoh in prison, Their dreams inter
 tags: [creation, covenant, faith, redemption]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Genesis 40: The chief butler and baker of Pharaoh in pr
 
 - It was not so much the prison that made the butler and baker sad, as their dreams. God has more ways than one to sadden the spirits. [[sources/commentaries_english/mhenry-concise/genesis/chapter-40#Verses 1–19|Matthew Henry Concise on Genesis 40]]
 - Joseph's interpretation of the dreams came to pass on the very day fixed. On Pharaoh's birth-day, all his servants attended him, and then the cases of these two came to be looked into. [[sources/commentaries_english/mhenry-concise/genesis/chapter-40#Verses 20–23|Matthew Henry Concise on Genesis 40]]
+- In this chapter things are working, though slowly, towards Joseph's advancement. I. Two of Pharaoh's servants are committed to prison, and there to Joseph's care, and so become witnesses of his extraordinary conduct,… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-40|Matthew Henry Complete on Genesis 40]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 40 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: Genesis 40 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-40|Matthew Henry Concise, Genesis 40]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-40|Matthew Henry Complete on Genesis 40]]
 
 ## Open questions
 

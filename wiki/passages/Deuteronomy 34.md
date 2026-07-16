@@ -5,7 +5,7 @@ description: Moses views the promised land from mount Nebo. (1–4). The death a
 tags: [covenant, holiness, justice, worship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 34: Moses views the promised land from moun
 - Moses seemed unwilling to leave his work; but that being finished, he manifested no unwillingness to die. God had declared that he should not enter Canaan. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-34#Verses 1–4|Matthew Henry Concise on Deuteronomy 34]]
 - Moses obeyed this command of God as willingly as any other, though it seemed harder. In this he resembled our Lord Jesus Christ. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-34#Verses 5–8|Matthew Henry Concise on Deuteronomy 34]]
 - Moses brought Israel to the borders of Canaan, and then died and left them. This signifies that the law made nothing perfect, Heb 7:19 It brings men into a wilderness of conviction, but not into the Canaan of rest and settled peace. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-34#Verses 9–12|Matthew Henry Concise on Deuteronomy 34]]
+- Having read how Moses finished his testimony, we are told here how he immediately after finished his life. This chapter could not be written by Moses himself, but was added by Joshua or Eleazar, or, as bishop Patrick… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-34|Matthew Henry Complete on Deuteronomy 34]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 34 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -43,6 +48,7 @@ Primary scope: Deuteronomy 34 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-34|Matthew Henry Concise, Deuteronomy 34]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-34|Matthew Henry Complete on Deuteronomy 34]]
 
 ## Open questions
 

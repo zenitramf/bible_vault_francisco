@@ -5,7 +5,7 @@ description: God gives Moses power to work miracles. (1–9). Moses is loth to b
 tags: [covenant, redemption, holiness, worship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Exodus 4: God gives Moses power to work miracles. (1–
 - Moses objects, that the people would not take his word, unless he showed them some sign. God gives him power to work miracles. [[sources/commentaries_english/mhenry-concise/exodus/chapter-4#Verses 1–9|Matthew Henry Concise on Exodus 4]]
 - After God had appeared in the bush, he often spake to Moses. Pharaoh had hardened his own heart against the groans and cries of the oppressed Israelites; and now God, in the way of righteous judgment, hardens his heart against the teaching of the miracles, and the terror of the plagues. [[sources/commentaries_english/mhenry-concise/exodus/chapter-4#Verses 18–23|Matthew Henry Concise on Exodus 4]]
 - God met Moses in anger. The Lord threatened him with death or sent sickness upon him, as the punishment of his having neglected to circumcise his son. [[sources/commentaries_english/mhenry-concise/exodus/chapter-4#Verses 24–31|Matthew Henry Concise on Exodus 4]]
+- This chapter, I. Continues and concludes God's discourse with Moses at the bush concerning this great affair of bringing Israel out of Egypt. 1. Moses objects the people's unbelief (Ex 4:1), and God answers that… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-4|Matthew Henry Complete on Exodus 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -45,6 +50,7 @@ Primary scope: Exodus 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-4|Matthew Henry Concise, Exodus 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-4|Matthew Henry Complete on Exodus 4]]
 
 ## Open questions
 

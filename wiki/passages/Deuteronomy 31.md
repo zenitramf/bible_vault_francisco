@@ -5,7 +5,7 @@ description: Moses encourages the people, and Joshua. (1–8). The law to be rea
 tags: [covenant, holiness, justice, worship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 31: Moses encourages the people, and Joshua
 - Moses assures Israel of the constant presence of God with them. This is applied by the apostle to all God's spiritual Israel, to encourage their faith and hope; unto us is this gospel preached, as well as unto them; he will never fail thee, nor forsake thee, Heb 13:5. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-31#Verses 1–8|Matthew Henry Concise on Deuteronomy 31]]
 - Moses and Joshua attended the Divine Majesty at the door of the tabernacle. Moses is told again that he must shortly die; even those who are most ready and willing to die, need to be often reminded of its coming. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-31#Verses 14–22|Matthew Henry Concise on Deuteronomy 31]]
 - The solemn delivery of the book of the law to the Levites, to be deposited in, or rather by the side, of the ark, is again related. The song which follows in the next chapter is delivered to Moses, and by him to the people. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-31#Verses 23–30|Matthew Henry Concise on Deuteronomy 31]]
+- In this chapter Moses, having finished his sermon, I. Encourages both the people who were now to enter Canaan (De 31:1-6), and Joshua who was to lead them, De 31:7,8,23. And, II. He takes care for the keeping of these… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-31|Matthew Henry Complete on Deuteronomy 31]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 31 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Deuteronomy 31 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-31|Matthew Henry Concise, Deuteronomy 31]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-31|Matthew Henry Complete on Deuteronomy 31]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The glorious majesty of God. (1–5). The blessings of the twelve t
 tags: [covenant, holiness, justice, worship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 33: The glorious majesty of God. (1–5). T
 - To all his precepts, warnings, and prophecies, Moses added a solemn blessing. He begins with a description of the glorious appearances of God, in giving the law. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-33#Verses 1–5|Matthew Henry Concise on Deuteronomy 33]]
 - All shall be sanctified to true believers; if their way be rough, their feet shall be shod with the preparation of the gospel of peace. As thy days, so shall thy strength be. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-33#Verses 24, 25|Matthew Henry Concise on Deuteronomy 33]]
 - None had such a God as Israel. There is no people like the Israel of God. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-33#Verses 26–29|Matthew Henry Concise on Deuteronomy 33]]
+- Yet Moses has not done with the children of Israel; he seemed to have taken final leave of them in the close of the foregoing chapter, but still he has something more to say. He had preached them a farewell sermon, a… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-33|Matthew Henry Complete on Deuteronomy 33]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 33 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Deuteronomy 33 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-33|Matthew Henry Concise, Deuteronomy 33]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-33|Matthew Henry Complete on Deuteronomy 33]]
 
 ## Open questions
 

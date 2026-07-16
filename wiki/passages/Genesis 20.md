@@ -5,7 +5,7 @@ description: Abraham's sojourn at Gerar, Sarah is taken by Abimelech. (1–8). A
 tags: [creation, covenant, faith, redemption]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Genesis 20: Abraham's sojourn at Gerar, Sarah is taken 
 - Crooked policy will not prosper: it brings ourselves and others into danger. God gives Abimelech notice of his danger of sin, and his danger of death for his sin. [[sources/commentaries_english/mhenry-concise/genesis/chapter-20#Verses 1–8|Matthew Henry Concise on Genesis 20]]
 - See here much to blame, even in the father of the faithful. Mark his distrust of God, his undue care about life, his intent to deceive. [[sources/commentaries_english/mhenry-concise/genesis/chapter-20#Verses 9–13|Matthew Henry Concise on Genesis 20]]
 - We often trouble ourselves, and even are led into temptation and sin, by groundless suspicions; and find the fear of God where we expected it not. Agreements to deceive generally end in shame and sorrow; and restraints from sin, though by suffering, should be thankfully acknowledged. [[sources/commentaries_english/mhenry-concise/genesis/chapter-20#Verses 14–18|Matthew Henry Concise on Genesis 20]]
+- We are here returning to the story of Abraham; yet that part of it which is here recorded is not to his honour. The fairest marbles have their flaws, and, while there are spots in the sun, we must not expect any thing… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-20|Matthew Henry Complete on Genesis 20]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 20 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Genesis 20 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-20|Matthew Henry Concise, Genesis 20]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-20|Matthew Henry Complete on Genesis 20]]
 
 ## Open questions
 

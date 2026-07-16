@@ -5,7 +5,7 @@ description: The Israelites to distinguish themselves from other nations. (1–2
 tags: [covenant, holiness, justice, worship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Deuteronomy 14: The Israelites to distinguish themselve
 
 - Moses tells the people of Israel how God had given them three distinguishing privileges, which were their honour, and figures of those spiritual blessings in heavenly things, with which God has in Christ blessed us. Here is election; “The Lord hath chosen thee.” He did not choose them because they were by their own… [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-14#Verses 1–21|Matthew Henry Concise on Deuteronomy 14]]
 - A second portion from the produce of their land was required. The whole appointment evidently was against the covetousness, distrust, and selfishness of the human heart. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-14#Verses 22–29|Matthew Henry Concise on Deuteronomy 14]]
+- Moses in this chapter teaches them, I. To distinguish themselves from their neighbours by a singularity, 1. In their mourning, De 14:1,2. 2. In their meat, De 14:3-21. II. To devote themselves unto God, and, in token… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-14|Matthew Henry Complete on Deuteronomy 14]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 14 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -43,6 +48,7 @@ Primary scope: Deuteronomy 14 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-14|Matthew Henry Concise, Deuteronomy 14]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-14|Matthew Henry Complete on Deuteronomy 14]]
 
 ## Open questions
 

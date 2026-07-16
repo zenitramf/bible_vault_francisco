@@ -5,7 +5,7 @@ description: The making of the ark, and the furniture of the tabernacle. (1-29).
 tags: [covenant, redemption, holiness, worship, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Exodus 37: The making of the ark, and the furniture of 
 ## Core claims
 
 - In the furniture of the tabernacle were emblems of a spiritual and acceptable service. The incense represented the prayers of the saints. [[sources/commentaries_english/mhenry-concise/exodus/chapter-37#Verses 1-29|Matthew Henry Concise on Exodus 37]]
+- Bezaleel and his workmen are still busy, making I. The ark with the mercy-seat and the cherubim, Ex 37:1-9. II. The table with its vessels, Ex 37:10-16. III. The candlestick with its appurtenances, Ex 37:17-24. IV. The… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-37|Matthew Henry Complete on Exodus 37]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 37 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -43,6 +48,7 @@ Primary scope: Exodus 37 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-37|Matthew Henry Concise, Exodus 37]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-37|Matthew Henry Complete on Exodus 37]]
 
 ## Open questions
 

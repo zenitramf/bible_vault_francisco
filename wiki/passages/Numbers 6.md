@@ -5,7 +5,7 @@ description: The law concerning the Nazarites. (1–21). The form of blessing th
 tags: [covenant, faith, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 4
 bible_book_name: "Numbers"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Numbers 6: The law concerning the Nazarites. (1–21). 
 
 - The word Nazarite signifies separation. Some were appointed of God, before their birth, to be Nazarites all their days, as Samson and John the Baptist. [[sources/commentaries_english/mhenry-concise/numbers/chapter-6#Verses 1–21|Matthew Henry Concise on Numbers 6]]
 - The priests were solemnly to bless the people in the name of the Lord. To be under the almighty protection of God our Saviour; to enjoy his favour as the smile of a loving Father, or as the cheering beams of the sun; while he mercifully forgives our sins, supplies our wants, consoles the heart, and prepares us by his… [[sources/commentaries_english/mhenry-concise/numbers/chapter-6#Verses 22–27|Matthew Henry Concise on Numbers 6]]
+- In this chapter we have, I. The law concerning Nazarites, 1. What it was to which the vow of a Nazarite obliged him, Nu 6:1-8. 2. A remedial law in case a Nazarite happened to be polluted by the touch of a dead body,… [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-6|Matthew Henry Complete on Numbers 6]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Numbers 6 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -42,6 +47,7 @@ Primary scope: Numbers 6 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/numbers/chapter-6|Matthew Henry Concise, Numbers 6]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-6|Matthew Henry Complete on Numbers 6]]
 
 ## Open questions
 

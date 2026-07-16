@@ -5,7 +5,7 @@ description: Intercourse with the Canaanites forbidden. (1–11). Promises if th
 tags: [covenant, holiness, justice, worship, wisdom]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Deuteronomy 7: Intercourse with the Canaanites forbidde
 
 - Here is a strict caution against all friendship and fellowship with idols and idolaters. Those who are in communion with God, must have no communication with the unfruitful works of darkness. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-7#Verses 1–11|Matthew Henry Concise on Deuteronomy 7]]
 - We are in danger of having fellowship with the works of darkness if we take pleasure in fellowship with those who do such works. Whatever brings us into a snare, brings us under a curse. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-7#Verses 12–26|Matthew Henry Concise on Deuteronomy 7]]
+- Moses in this chapter exhorts Israel, I. In general, to keep God's commandments, De 8:11,12. II. In particular, and in order to that, to keep themselves pure from all communion with idolaters. 1. They must utterly… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-7|Matthew Henry Complete on Deuteronomy 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Deuteronomy 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-7|Matthew Henry Concise, Deuteronomy 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-7|Matthew Henry Complete on Deuteronomy 7]]
 
 ## Open questions
 

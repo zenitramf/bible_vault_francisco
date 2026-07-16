@@ -5,7 +5,7 @@ description: The Edomites to be spared. (1–7). The Moabites and Ammonites to b
 tags: [covenant, holiness, justice, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 2: The Edomites to be spared. (1–7). The 
 - Only a short account of the long stay of Israel in the wilderness is given. God not only chastised them for their murmuring and unbelief, but prepared them for Canaan; by humbling them for sin, teaching them to mortify their lusts, to follow God, and to comfort themselves in him. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-2#Verses 1–7|Matthew Henry Concise on Deuteronomy 2]]
 - We have the origin of the Moabites, Edomites, and Ammonites. Moses also gives an instance older than any of these; the Caphtorims drove the Avims out of their country. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-2#Verses 8–23|Matthew Henry Concise on Deuteronomy 2]]
 - God tried his people, by forbidding them to meddle with the rich countries of Moab and Ammon. He gives them possession of the country of the Amorites. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-2#Verses 24–37|Matthew Henry Concise on Deuteronomy 2]]
+- Moses, in this chapter, proceeds in the rehearsal of God's providences concerning Israel in their way to Canaan, yet preserves not the record of any thing that happened during their tedious march back to the Red Sea,… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-2|Matthew Henry Complete on Deuteronomy 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Deuteronomy 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-2|Matthew Henry Concise, Deuteronomy 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-2|Matthew Henry Complete on Deuteronomy 2]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The curtains of the tabernacle. (1–6). The curtains of goats' hai
 tags: [covenant, redemption, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Exodus 26: The curtains of the tabernacle. (1–6). The
 - God manifested his presence among the Israelites in a tabernacle or tent, because of their condition in the wilderness. God suits the tokens of his favour, and the gifts of his grace, to his people's state and wants. [[sources/commentaries_english/mhenry-concise/exodus/chapter-26#Verses 1–6|Matthew Henry Concise on Exodus 26]]
 - The sockets of silver each weighed about 115 pounds; they were placed in rows on the ground. In every pair of these sockets, a strong board of shittim-wood, covered with plates of gold, was fitted by mortises and tenons. [[sources/commentaries_english/mhenry-concise/exodus/chapter-26#Verses 15–30|Matthew Henry Concise on Exodus 26]]
 - A vail, or curtain, separated the holy place from the most holy place. It was hung upon pillars. [[sources/commentaries_english/mhenry-concise/exodus/chapter-26#Verses 31–37|Matthew Henry Concise on Exodus 26]]
+- Moses here receives instructions, I. Concerning the inner curtains of the tent or tabernacle, and the coupling of those curtains, Ex 26:1-6. II. Concerning the outer curtains which were of goats' hair, to strengthen… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-26|Matthew Henry Complete on Exodus 26]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 26 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -44,6 +49,7 @@ Primary scope: Exodus 26 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-26|Matthew Henry Concise, Exodus 26]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-26|Matthew Henry Complete on Exodus 26]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Aaron and his sons set apart for the priest's office, Their garment
 tags: [covenant, redemption, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 2
 bible_book_name: "Exodus"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Exodus 28: Aaron and his sons set apart for the priest'
 - Hitherto the heads of families were the priests, and offered sacrifices; but now this office was confined to the family of Aaron only; and so continued till the gospel dispensation. The holy garments not only distinguished the priests from the people, but were emblems of that holy conduct which should ever be the… [[sources/commentaries_english/mhenry-concise/exodus/chapter-28#Verses 1–5|Matthew Henry Concise on Exodus 28]]
 - The chief ornament of the high priest, was the breastplate, a rich piece of cloth, curiously worked. The name of each tribe was graven in a precious stone, fixed in the breastplate, to signify how precious, in God's sight, believers are, and how honourable. [[sources/commentaries_english/mhenry-concise/exodus/chapter-28#Verses 15–30|Matthew Henry Concise on Exodus 28]]
 - The priest's garments typify the righteousness of Christ. If we appear not before God in that, we shall bear our iniquity, and die. [[sources/commentaries_english/mhenry-concise/exodus/chapter-28#Verses 40–43|Matthew Henry Concise on Exodus 28]]
+- Orders being given for the fitting up of the place of worship, in this and the following chapter care is taken about the priests that were to minister in this holy place, as the menial servants of the God of Israel. He… [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-28|Matthew Henry Complete on Exodus 28]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Exodus 28 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -44,6 +49,7 @@ Primary scope: Exodus 28 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/exodus/chapter-28|Matthew Henry Concise, Exodus 28]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/exodus/chapter-28|Matthew Henry Complete on Exodus 28]]
 
 ## Open questions
 

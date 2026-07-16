@@ -5,7 +5,7 @@ description: The sons of Aaron, The Levites taken instead of the first-born. (1�
 tags: [covenant, faith, holiness, worship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 4
 bible_book_name: "Numbers"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Numbers 3: The sons of Aaron, The Levites taken instead
 - There was much work belonging to the priests' office, and there were now only Aaron and his two sons to do it; God appoints the Levites to attend them. Those whom God finds work for, he will find help for. [[sources/commentaries_english/mhenry-concise/numbers/chapter-3#Verses 1–13|Matthew Henry Concise on Numbers 3]]
 - The Levites were in three classes, according to the sons of Levi; Gershon, Kohath, and Merari; and these were subdivided into families. The posterity of Moses were not at all honoured or privileged, but stood upon the level with other Levites; thus it was plain, that Moses did not seek the advancement of his own… [[sources/commentaries_english/mhenry-concise/numbers/chapter-3#Verses 14–39|Matthew Henry Concise on Numbers 3]]
 - The number of the first-born, and that of the Levites, came near to each other. Known unto God are all his works beforehand; there is an exact proportion between them, and so it will appear, when they are compared together. [[sources/commentaries_english/mhenry-concise/numbers/chapter-3#Verses 40–51|Matthew Henry Concise on Numbers 3]]
+- This chapter and the next are concerning the tribe of Levi, which was to be mustered and marshalled by itself, and not in common with the other tribes, intimating the particular honour put upon them and the particular… [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-3|Matthew Henry Complete on Numbers 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Numbers 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Numbers 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/numbers/chapter-3|Matthew Henry Concise, Numbers 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-3|Matthew Henry Complete on Numbers 3]]
 
 ## Open questions
 

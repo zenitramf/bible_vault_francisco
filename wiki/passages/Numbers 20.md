@@ -5,7 +5,7 @@ description: The people come to Zin, They murmur for water, Moses directed to sm
 tags: [covenant, faith, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 4
 bible_book_name: "Numbers"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Numbers 20: The people come to Zin, They murmur for wat
 - After thirty-eight years' tedious abode in the wilderness, the armies of Israel advanced towards Canaan again. There was no water for the congregation. [[sources/commentaries_english/mhenry-concise/numbers/chapter-20#Verses 1–13|Matthew Henry Concise on Numbers 20]]
 - The nearest way to Canaan from the place where Israel encamped, was through the country of Edom. The ambassadors who were sent returned with a denial. [[sources/commentaries_english/mhenry-concise/numbers/chapter-20#Verses 14–21|Matthew Henry Concise on Numbers 20]]
 - God bids Aaron prepare to die. There is something of displeasure in these orders. [[sources/commentaries_english/mhenry-concise/numbers/chapter-20#Verses 22–29|Matthew Henry Concise on Numbers 20]]
+- At this chapter begins the history of the fortieth year (which was the last year) of the Israelites' wandering in the wilderness. And since the beginning of their second year, when they were sentenced to perform their… [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-20|Matthew Henry Complete on Numbers 20]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Numbers 20 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Numbers 20 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/numbers/chapter-20|Matthew Henry Concise, Numbers 20]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/numbers/chapter-20|Matthew Henry Complete on Numbers 20]]
 
 ## Open questions
 

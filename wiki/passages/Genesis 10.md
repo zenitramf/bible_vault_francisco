@@ -5,7 +5,7 @@ description: The sons of Noah, of Japheth, of Ham. (1–7). Nimrod the first mon
 tags: [creation, covenant, faith, redemption, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Genesis 10: The sons of Noah, of Japheth, of Ham. (1–
 - This chapter shows concerning the three sons of Noah, that of them was the whole earth overspread. No nation but that of the Jews can be sure from which of these seventy it has come. [[sources/commentaries_english/mhenry-concise/genesis/chapter-10#Verses 1–7|Matthew Henry Concise on Genesis 10]]
 - Nimrod was a great man in his day; he began to be mighty in the earth, Those before him were content to be upon the same level with their neighbours, and though every man bare rule in his own house, yet no man pretended any further. Nimrod was resolved to lord it over his neighbours. [[sources/commentaries_english/mhenry-concise/genesis/chapter-10#Verses 8–14|Matthew Henry Concise on Genesis 10]]
 - The posterity of Canaan were numerous, rich, and pleasantly seated; yet Canaan was under a Divine curse, and not a curse causeless. Those that are under the curse of God, may, perhaps, thrive and prosper in this world; for we cannot know love or hatred, the blessing or the curse, by what is before us, but by what is… [[sources/commentaries_english/mhenry-concise/genesis/chapter-10#Verses 15–32|Matthew Henry Concise on Genesis 10]]
+- This chapter shows more particularly what was said in general (Ge 9:19), concerning the three sons of Noah, that "of them was the whole earth overspread;" and the fruit of that blessing (Ge 9:1,7), "replenish the… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-10|Matthew Henry Complete on Genesis 10]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 10 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Genesis 10 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-10|Matthew Henry Concise, Genesis 10]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-10|Matthew Henry Complete on Genesis 10]]
 
 ## Open questions
 

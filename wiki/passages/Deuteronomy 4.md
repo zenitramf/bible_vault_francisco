@@ -5,7 +5,7 @@ description: Earnest exhortations to obedience, and dissuasives from idolatry. (
 tags: [covenant, holiness, justice, worship, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 4: Earnest exhortations to obedience, and d
 - The power and love of God to Israel are here made the ground and reason of a number of cautions and serious warnings; and although there is much reference to their national covenant, yet all may be applied to those who live under the gospel. What are laws made for but to be observed and obeyed? [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-4#Verses 1–23|Matthew Henry Concise on Deuteronomy 4]]
 - Moses urged the greatness, glory, and goodness of God. Did we consider what a God he is with whom we have to do, we should surely make conscience of our duty to him, and not dare to sin against him. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-4#Verses 24–40|Matthew Henry Concise on Deuteronomy 4]]
 - Here is the introduction to another discourse, or sermon, Moses preached to Israel, which we have in the following chapters. He sets the law before them, as the rule they were to work by, the way they were to walk in. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-4#Verses 41–49|Matthew Henry Concise on Deuteronomy 4]]
+- In this chapter we have, I. A most earnest and pathetic exhortation to obedience, both in general, and in some particular instances, backed with a great variety of very pressing arguments, repeated again and again, and… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-4|Matthew Henry Complete on Deuteronomy 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -45,6 +50,7 @@ Primary scope: Deuteronomy 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-4|Matthew Henry Concise, Deuteronomy 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-4|Matthew Henry Complete on Deuteronomy 4]]
 
 ## Open questions
 

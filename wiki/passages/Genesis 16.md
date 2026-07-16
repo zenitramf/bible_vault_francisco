@@ -5,7 +5,7 @@ description: Sarai gives Hagar to Abram. (1–3). Hagar's misbehaviour to Sarai.
 tags: [creation, covenant, faith, redemption]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Genesis 16: Sarai gives Hagar to Abram. (1–3). Hagar'
 - Sarai, no longer expecting to have children herself, proposed to Abram to take another wife, whose children she might; her slave, whose children would be her property. This was done without asking counsel of the Lord. [[sources/commentaries_english/mhenry-concise/genesis/chapter-16#Verses 1–3|Matthew Henry Concise on Genesis 16]]
 - Abram's unhappy marriage to Hagar very soon made a great deal of mischief. We may thank ourselves for the guilt and grief that follow us, when we go out of the way of our duty. [[sources/commentaries_english/mhenry-concise/genesis/chapter-16#Verses 4–6|Matthew Henry Concise on Genesis 16]]
 - Hagar was out of her place, and out of the way of her duty, and going further astray, when the Angel found her. It is a great mercy to be stopped in a sinful way, either by conscience or by providence. [[sources/commentaries_english/mhenry-concise/genesis/chapter-16#Verses 7–16|Matthew Henry Concise on Genesis 16]]
+- Hagar is the person mostly concerned in the story of this chapter, an obscure Egyptian woman, whose name and story we never should have heard of if Providence had not brought her into the family of Abram. Probably she… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-16|Matthew Henry Complete on Genesis 16]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Genesis 16 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Genesis 16 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-16|Matthew Henry Concise, Genesis 16]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-16|Matthew Henry Complete on Genesis 16]]
 
 ## Open questions
 

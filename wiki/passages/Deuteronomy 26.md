@@ -5,7 +5,7 @@ description: Confession in offering the first-fruits. (1–11). The prayer after
 tags: [covenant, holiness, justice, worship, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 26: Confession in offering the first-fruits
 - When God has made good his promises to us, he expects we should own it to the honour of his faithfulness. And our creature comforts are doubly sweet, when we see them flowing from the fountain of the promise. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-26#Verses 1–11|Matthew Henry Concise on Deuteronomy 26]]
 - How should the earth yield its increase, or, if it does, what comfort can we take in it, unless therewith our God gives us his blessing? All this represented the covenant relation between a reconciled God and every true believer, and the privileges and duties belonging to it. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-26#Verses 12–15|Matthew Henry Concise on Deuteronomy 26]]
 - Moses here enforces the precepts. They are God's laws, therefore thou shalt do them, to that end were they given thee; do them, and dispute them not; do them, and draw not back; do them, not carelessly and hypocritically, but with thy heart and soul, thy whole heart and thy whole soul. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-26#Verses 16–19|Matthew Henry Concise on Deuteronomy 26]]
+- With this chapter Moses concludes the particular statutes which he thought fit to give Israel in charge at his parting with them; what follows is by way of sanction and ratification. In this chapter, I. Moses gives… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-26|Matthew Henry Complete on Deuteronomy 26]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 26 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -45,6 +50,7 @@ Primary scope: Deuteronomy 26 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-26|Matthew Henry Concise, Deuteronomy 26]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-26|Matthew Henry Complete on Deuteronomy 26]]
 
 ## Open questions
 

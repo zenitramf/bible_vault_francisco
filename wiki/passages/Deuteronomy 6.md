@@ -5,7 +5,7 @@ description: A persuasive to obedience. (1–3). An exhortation to obedience. (4
 tags: [covenant, holiness, justice, worship, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 5
 bible_book_name: "Deuteronomy"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Deuteronomy 6: A persuasive to obedience. (1–3). An e
 - In this and the like passages, the “commandments” seem to denote the moral law, the “statues” the ceremonial law, and the “judgments” the law by which the judges decided. Moses taught the people all that, and that only, which God commanded him to teach. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-6#Verses 1–3|Matthew Henry Concise on Deuteronomy 6]]
 - Here are means for maintaining and keeping up religion in our hearts and houses. 1. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-6#Verses 6–16|Matthew Henry Concise on Deuteronomy 6]]
 - Moses gives charge to keep God's commandments. Negligence will ruin us; but we cannot be saved without diligence. [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-6#Verses 17–25|Matthew Henry Concise on Deuteronomy 6]]
+- Moses, in this chapter, goes on with his charge to Israel, to be sure to keep up their religion in Canaan. It is much the same with De 4:1-40 I. His preface is a persuasive to obedience, De 6:1-3. II. He lays down the… [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-6|Matthew Henry Complete on Deuteronomy 6]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Deuteronomy 6 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -45,6 +50,7 @@ Primary scope: Deuteronomy 6 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/deuteronomy/chapter-6|Matthew Henry Concise, Deuteronomy 6]]
+- [[sources/commentaries_english/mhenry-complete/volume-1/deuteronomy/chapter-6|Matthew Henry Complete on Deuteronomy 6]]
 
 ## Open questions
 
