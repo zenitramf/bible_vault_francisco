@@ -238,7 +238,7 @@ Every ToD psalm source file linked; every corresponding `wiki/passages/Psalm N` 
 | Volume 5 (Pss ~104–118) | reviewed | 16 | Full ToD file list + Psalm passage thickens; 0 uncovered |
 | Volume 6 (Pss ~119–124) | reviewed | 28 | Full ToD file list + Psalm passage thickens; 0 uncovered |
 | Volume 7 (Pss ~125–150) | reviewed | 27 | Full ToD file list + Psalm passage thickens; 0 uncovered |
-| **4.2 ToD 100%** | **pending** | **~171** | Gate: 0 uncovered under `chspurgeon-tod/` |
+| **4.2 ToD 100%** | **reviewed** | **178** | Gate: 0 uncovered under `chspurgeon-tod/` |
 
 ### 4.3 — Spurgeon sermons (all volumes, full file coverage)
 

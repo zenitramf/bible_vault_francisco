@@ -179,3 +179,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.2 ToD Volume 7
 
 - Full-file coverage for chspurgeon-tod/volume-7 (27 files). Psalm passages thickened. --require-zero OK.
+
+## [2026-07-16] campaign | Phase 4.2 ToD 100%
+
+- All seven ToD volumes reviewed; source-coverage --path chspurgeon-tod --require-zero OK.
