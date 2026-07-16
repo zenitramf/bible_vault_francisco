@@ -291,7 +291,7 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 | October | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
 | November | reviewed | 30 | Month source-note lists all day files; 0 uncovered |
 | December | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
-| **4.5 MAE 100%** | **pending** | **~366** | Gate: 0 uncovered under `chspurgeon-mae/` |
+| **4.5 MAE 100%** | **reviewed** | **366** | Gate: 0 uncovered under `chspurgeon-mae/` |
 
 ### 4.6 — Concept mesh during full ingest
 
