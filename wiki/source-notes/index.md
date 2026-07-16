@@ -97,6 +97,7 @@
 * [[wiki/source-notes/Spurgeon Morning and Evening — April|Spurgeon Morning and Evening — April]] - Phase 4 full-calendar month source-note for Morning and Evening April: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — February|Spurgeon Morning and Evening — February]] - Phase 4 full-calendar month source-note for Morning and Evening February: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — January|Spurgeon Morning and Evening — January]] - Phase 4 full-calendar month source-note for Morning and Evening January: every daily entry file listed.
+* [[wiki/source-notes/Spurgeon Morning and Evening — June|Spurgeon Morning and Evening — June]] - Phase 4 full-calendar month source-note for Morning and Evening June: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — March|Spurgeon Morning and Evening — March]] - Phase 4 full-calendar month source-note for Morning and Evening March: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — May|Spurgeon Morning and Evening — May]] - Phase 4 full-calendar month source-note for Morning and Evening May: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Sermons Volume 1|Spurgeon Sermons Volume 1]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 1.
