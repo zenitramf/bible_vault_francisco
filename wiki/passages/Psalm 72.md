@@ -5,7 +5,7 @@ description: David begins with a prayer for Solomon. (1). He passes into a proph
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Psalm 72: David begins with a prayer for Solomon. (1). 
 - This psalm belongs to Solomon in part, but to Christ more fully and clearly. Solomon was both the king and the king's son, and his pious father desired that the wisdom of God might be in him, that his reign might be a remembrance of the kingdom of the Messiah. [[sources/commentaries_english/mhenry-concise/psalms/psalm-72#Verse 1|Matthew Henry Concise on Psalm 72]]
 - This is a prophecy of the kingdom of Christ; many passages in it cannot be applied to the reign of Solomon. There were righteousness and peace at first in the administration of his government; but, before the end of his reign, there were troubles and unrighteousness. [[sources/commentaries_english/mhenry-concise/psalms/psalm-72#Verses 2–17|Matthew Henry Concise on Psalm 72]]
 - We are taught to bless God in Christ, for all he has done for us by him. David is earnest in prayer for the fulfilment of this prophecy and promise. [[sources/commentaries_english/mhenry-concise/psalms/psalm-72#Verses 18–20|Matthew Henry Concise on Psalm 72]]
+- The foregoing psalm was penned by David when he was old, and, it should seem, so was this too; for Solomon was now standing fair for the crown; that was his prayer for himself, this for his son and successor, and with… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-72|Matthew Henry Complete on Psalm 72]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 72 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -45,6 +50,7 @@ Primary scope: Psalm 72 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-72|Matthew Henry Concise, Psalm 72]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-72|Matthew Henry Complete on Psalm 72]]
 
 ## Open questions
 

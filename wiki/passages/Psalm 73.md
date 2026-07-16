@@ -5,7 +5,7 @@ description: The psalmist's temptation. (1–14). How he gained a victory over i
 tags: [prayer, worship, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Psalm 73: The psalmist's temptation. (1–14). How he g
 - The psalmist was strongly tempted to envy the prosperity of the wicked; a common temptation, which has tried the graces of many saints. But he lays down the great principle by which he resolved to abide. [[sources/commentaries_english/mhenry-concise/psalms/psalm-73#Verses 1–14|Matthew Henry Concise on Psalm 73]]
 - The psalmist having shown the progress of his temptation, shows how faith and grace prevailed. He kept up respect for God's people, and with that he restrained himself from speaking what he had thought amiss. [[sources/commentaries_english/mhenry-concise/psalms/psalm-73#Verses 15–20|Matthew Henry Concise on Psalm 73]]
 - God would not suffer his people to be tempted, if his grace were not sufficient, not only to save them from harm, but to make them gainers by it. This temptation, the working of envy and discontent, is very painful. [[sources/commentaries_english/mhenry-concise/psalms/psalm-73#Verses 21–28|Matthew Henry Concise on Psalm 73]]
+- This psalm, and the ten that next follow it, carry the name of Asaph in the titles of them. If he was the penman of them (as many think), we rightly call them psalms of Asaph. If he was only the chief musician, to whom… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-73|Matthew Henry Complete on Psalm 73]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 73 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -45,6 +50,7 @@ Primary scope: Psalm 73 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-73|Matthew Henry Concise, Psalm 73]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-73|Matthew Henry Complete on Psalm 73]]
 
 ## Open questions
 

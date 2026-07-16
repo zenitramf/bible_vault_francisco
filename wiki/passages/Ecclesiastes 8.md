@@ -5,7 +5,7 @@ description: Commendations of wisdom. (1-5). To prepare for sudden evils and dea
 tags: [wisdom, holiness, worship, christian-life, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 21
 bible_book_name: "Ecclesiastes"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Ecclesiastes 8: Commendations of wisdom. (1-5). To prep
 - None of the rich, the powerful, the honourable, or the accomplished of the sons of men, are so excellent, useful, or happy, as the wise man. Who else can interpret the words of God, or teach aright from his truths and dispensations? [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-8#Verses 1-5|Matthew Henry Concise on Ecclesiastes 8]]
 - Solomon observed, that many a time one man rules over another to his hurt, and that prosperity hardens them in their wickedness. Sinners herein deceive themselves. [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-8#Verses 9-13|Matthew Henry Concise on Ecclesiastes 8]]
 - Faith alone can establish the heart in this mixed scene, where the righteous often suffer, and the wicked prosper. Solomon commended joy, and holy security of mind, arising from confidence in God, because a man has no better thing under the sun, though a good man has much better things above the sun, than soberly and… [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-8#Verses 14-17|Matthew Henry Concise on Ecclesiastes 8]]
+- Solomon, in this chapter, comes to recommend wisdom to us as the most powerful antidote against both the temptations and vexations that arise from the vanity of the world. Here is, I. The benefit and praise of wisdom,… [[sources/commentaries_english/mhenry-complete/volume-3/ecclesiastes/chapter-8|Matthew Henry Complete on Ecclesiastes 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ecclesiastes 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Ecclesiastes 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-8|Matthew Henry Concise, Ecclesiastes 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/ecclesiastes/chapter-8|Matthew Henry Complete on Ecclesiastes 8]]
 
 ## Open questions
 

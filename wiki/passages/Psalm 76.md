@@ -5,7 +5,7 @@ description: The psalmist speaks of God's power. (1–6). All have to fear and t
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 76: The psalmist speaks of God's power. (1–6). 
 
 - Happy people are those who have their land filled with the knowledge of God! happy persons that have their hearts filled with that knowledge! [[sources/commentaries_english/mhenry-concise/psalms/psalm-76#Verses 1–6|Matthew Henry Concise on Psalm 76]]
 - God's people are the meek of the earth, the quiet in the land, that suffer wrong, but do none. The righteous God seems to keep silence long, yet, sooner or later, he will make judgment to be heard. [[sources/commentaries_english/mhenry-concise/psalms/psalm-76#Verses 7–12|Matthew Henry Concise on Psalm 76]]
+- This psalm seems to have been penned upon occasion of some great victory obtained by the church over some threatening enemy or other, and designed to grace the triumph. The LXX. calls it, "A song upon the Assyrians,"… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-76|Matthew Henry Complete on Psalm 76]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 76 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 76 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-76|Matthew Henry Concise, Psalm 76]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-76|Matthew Henry Complete on Psalm 76]]
 
 ## Open questions
 

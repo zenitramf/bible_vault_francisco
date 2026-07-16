@@ -5,7 +5,7 @@ description: David complains of great distress. (1–12). And begs for succour. 
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Psalm 69: David complains of great distress. (1–12). 
 - We should frequently consider the person of the Sufferer here spoken of, and ask why, as well as what he suffered, that, meditating thereon, we may be more humbled for sin, and more convinced of our danger, so that we may feel more gratitude and love, constraining us to live to His glory who died for our salvation.… [[sources/commentaries_english/mhenry-concise/psalms/psalm-69#Verses 1–12|Matthew Henry Concise on Psalm 69]]
 - These are prophecies of the destruction of Christ's persecutors. Verses 22, 23, are applied to the judgments of God upon the unbelieving Jews, in Ro 11:9, 10. [[sources/commentaries_english/mhenry-concise/psalms/psalm-69#Verses 22–29|Matthew Henry Concise on Psalm 69]]
 - The psalmist concludes the psalm with holy joy and praise, which he began with complaints of his grief. It is a great comfort to us, that humble and thankful praises are more pleasing to God than the most costly, pompous sacrifices. [[sources/commentaries_english/mhenry-concise/psalms/psalm-69#Verses 30–36|Matthew Henry Concise on Psalm 69]]
+- David penned this psalm when he was in affliction; and in it, I. He complains of the great distress and trouble he was in and earnestly begs of God to relieve and succour him, Ps 69:1-21. II. He imprecates the… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-69|Matthew Henry Complete on Psalm 69]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 69 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -45,6 +50,7 @@ Primary scope: Psalm 69 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-69|Matthew Henry Concise, Psalm 69]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-69|Matthew Henry Complete on Psalm 69]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Joy to all the people of God. (1–5). Terror to their enemies. (6�
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 149: Joy to all the people of God. (1–5). Terro
 
 - New mercies continually demand new songs of praise, upon earth and in heaven. And the children of Zion have not only to bless the God who made them, but to rejoice in him, as having created them in Christ Jesus unto good works, and formed them saints as well as men. [[sources/commentaries_english/mhenry-concise/psalms/psalm-149#Verses 1–5|Matthew Henry Concise on Psalm 149]]
 - Some of God's servants of old were appointed to execute vengeance according to his word. They did not do it from personal revenge or earthly politics, but in obedience to God's command. [[sources/commentaries_english/mhenry-concise/psalms/psalm-149#Verses 6–9|Matthew Henry Concise on Psalm 149]]
+- The foregoing psalm was a hymn of praise to the Creator; this is a hymn of praise to the Redeemer. It is a psalm of triumph in the God of Israel, and over the enemies of Israel. Probably it was penned upon occasion of… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-149|Matthew Henry Complete on Psalm 149]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 149 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 149 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-149|Matthew Henry Concise, Psalm 149]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-149|Matthew Henry Complete on Psalm 149]]
 
 ## Open questions
 

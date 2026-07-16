@@ -5,7 +5,7 @@ description: An exhortation to bless the Lord. (1-3).
 tags: [prayer, worship, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Psalm 134: An exhortation to bless the Lord. (1-3).
 - We must stir up ourselves to give glory to God, and encourage ourselves to hope for mercy and grace from him. It is an excellent plan to fill up all our spare minutes with pious meditations, and prayers and praises. [[sources/commentaries_english/mhenry-concise/psalms/psalm-134#Verses 1-3|Matthew Henry Concise on Psalm 134]]
 
 - We have now reached the last of the Gradual Psalms. The Pilgrims are going home, and are singing the last song in their psalter. [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-134|Spurgeon, Treasury of David on Psalm 134]]
+- This is the last of the fifteen songs of degrees; and, if they were at any time sung all together in the temple-service, it is fitly made the conclusion of them, for the design of it is to stir up the ministers to go… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-134|Matthew Henry Complete on Psalm 134]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis began from Matthew Henry Concise and is thickened with Spurgeon's Treasury of David on the same psalm (Phase 3.4). Concise notes remain pastoral summaries; ToD adds homiletical depth and historical citations.
 
@@ -31,6 +34,8 @@ This chapter synthesis began from Matthew Henry Concise and is thickened with Sp
 Primary scope: Psalm 134 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/source-notes/Spurgeon Treasury of David Volume 7|Treasury of David Volume 7]]
 
@@ -48,6 +53,7 @@ Primary scope: Psalm 134 (full chapter).
 
 - [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-134|Spurgeon, Treasury of David on Psalm 134]]
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-134|Matthew Henry Concise, Psalm 134]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-134|Matthew Henry Complete on Psalm 134]]
 
 ## Open questions
 

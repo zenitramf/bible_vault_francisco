@@ -5,7 +5,7 @@ description: God to be praised for his mercy. (1–4). For his power and judgmen
 tags: [prayer, worship, faith, holiness, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Psalm 135: God to be praised for his mercy. (1–4). Fo
 - The subject-matter of praise, is the blessings of grace flowing from the everlasting love of God. The name of God as a covenant God and Father in Christ, blessing us with all spiritual blessings in him, is to be loved and praised. [[sources/commentaries_english/mhenry-concise/psalms/psalm-135#Verses 1–4|Matthew Henry Concise on Psalm 135]]
 - God is, and will be always, the same to his church, a gracious, faithful, wonder-working God. And his church is, and will be, the same to him, a thankful, praising people: thus his name endures for ever. [[sources/commentaries_english/mhenry-concise/psalms/psalm-135#Verses 5–14|Matthew Henry Concise on Psalm 135]]
 - These verses arm believers against idolatry and all false worship, by showing what sort of gods the heathen worshipped. And the more deplorable the condition of the Gentile nations that worship idols, the more are we to be thankful that we know better. [[sources/commentaries_english/mhenry-concise/psalms/psalm-135#Verses 15–21|Matthew Henry Concise on Psalm 135]]
+- This is one of the Hallelujah-psalms; that is the title of it, and that is the Amen of it, both its Alpha and its Omega. I. It begins with a call to praise God, particularly a call to the "servants of the Lord" to… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-135|Matthew Henry Complete on Psalm 135]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 135 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -45,6 +50,7 @@ Primary scope: Psalm 135 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-135|Matthew Henry Concise, Psalm 135]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-135|Matthew Henry Complete on Psalm 135]]
 
 ## Open questions
 

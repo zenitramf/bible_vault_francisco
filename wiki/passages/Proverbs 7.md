@@ -5,7 +5,7 @@ description: Invitations to learn wisdom. (1–5). The arts of seducers, with wa
 tags: [wisdom, holiness, discipleship, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 20
 bible_book_name: "Proverbs"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Proverbs 7: Invitations to learn wisdom. (1–5). The a
 
 - We must lay up God's commandments safely. Not only, Keep them, and you shall live; but, Keep them as those that cannot live without them. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-7#Verses 1–5|Matthew Henry Concise on Proverbs 7]]
 - Here is an affecting example of the danger of youthful lusts. It is a history or a parable of the most instructive kind. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-7#Verses 6–27|Matthew Henry Concise on Proverbs 7]]
+- The scope of this chapter is, as of several before, to warn young men against the lusts of the flesh. Solomon remembered of what ill consequence it was to his father, perhaps found himself, and perceived his son,… [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-7|Matthew Henry Complete on Proverbs 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Proverbs 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -43,6 +48,7 @@ Primary scope: Proverbs 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/proverbs/chapter-7|Matthew Henry Concise, Proverbs 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-7|Matthew Henry Complete on Proverbs 7]]
 
 ## Open questions
 

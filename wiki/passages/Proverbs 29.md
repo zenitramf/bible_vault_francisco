@@ -5,7 +5,7 @@ description: Matthew Henry Concise on Proverbs 29.
 tags: [wisdom, holiness, discipleship, justice, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 20
 bible_book_name: "Proverbs"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Proverbs 29: Matthew Henry Concise on Proverbs 29.
 - If God wounds, who can heal? The word of God warns all to flee from the wrath to come, to the hope set before us in Jesus Christ. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-29#Verse 1|Matthew Henry Concise on Proverbs 29]]
 - The rich will look to themselves, but the poor and needy the prince must defend and plead for. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-29#Verse 14|Matthew Henry Concise on Proverbs 29]]
 - The just man abhors the sins of the wicked, and shuns their company. Christ exposed the wickedness of men, yet prayed for the wicked when they were crucifying him. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-29#Verse 27|Matthew Henry Concise on Proverbs 29]]
+- Here, 1. The obstinacy of many wicked people in a wicked way is to be greatly lamented. They are often reproved by parents and friends, by magistrates and ministers, by the providence of God and by their own… [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-29|Matthew Henry Complete on Proverbs 29]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Proverbs 29 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -45,6 +50,7 @@ Primary scope: Proverbs 29 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/proverbs/chapter-29|Matthew Henry Concise, Proverbs 29]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-29|Matthew Henry Complete on Proverbs 29]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The vanity and vexation of mirth, sensual pleasure, riches, and pom
 tags: [wisdom, holiness, worship, christian-life]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 21
 bible_book_name: "Ecclesiastes"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Ecclesiastes 2: The vanity and vexation of mirth, sensu
 - Solomon soon found mirth and pleasure to be vanity. What does noisy, flashy mirth towards making a man happy? [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-2#Verses 1-11|Matthew Henry Concise on Ecclesiastes 2]]
 - Solomon found that knowledge and prudence were preferable to ignorance and folly, though human wisdom and knowledge will not make a man happy. The most learned of men, who dies a stranger to Christ Jesus, will perish equally with the most ignorant; and what good can commendations on earth do to the body in the grave,… [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-2#Verses 12-17|Matthew Henry Concise on Ecclesiastes 2]]
 - Our hearts are very loth to quit their expectations of great things from the creature; but Solomon came to this at length. The world is a vale of tears, even to those that have much of it. [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-2#Verses 18-26|Matthew Henry Concise on Ecclesiastes 2]]
+- Solomon having pronounced all vanity, and particularly knowledge and learning, which he was so far from giving himself joy of that he found the increase of it did but increase his sorrow, in this chapter he goes on to… [[sources/commentaries_english/mhenry-complete/volume-3/ecclesiastes/chapter-2|Matthew Henry Complete on Ecclesiastes 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ecclesiastes 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -43,6 +48,7 @@ Primary scope: Ecclesiastes 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-2|Matthew Henry Concise, Ecclesiastes 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/ecclesiastes/chapter-2|Matthew Henry Complete on Ecclesiastes 2]]
 
 ## Open questions
 

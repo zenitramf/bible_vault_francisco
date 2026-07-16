@@ -5,7 +5,7 @@ description: The benefit of a good name; of death above life; of sorrow above va
 tags: [wisdom, holiness, worship, christian-life, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 21
 bible_book_name: "Ecclesiastes"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Ecclesiastes 7: The benefit of a good name; of death ab
 - Reputation for piety and honesty is more desirable than all the wealth and pleasure in this world. It will do more good to go to a funeral than to a feast. [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-7#Verses 1-6|Matthew Henry Concise on Ecclesiastes 7]]
 - Wisdom is as good as an inheritance, yea better. It shelters from the storms and scorching heat of trouble. [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-7#Verses 11-22|Matthew Henry Concise on Ecclesiastes 7]]
 - Solomon, in his search into the nature and reason of things, had been miserably deluded. But he here speaks with godly sorrow. [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-7#Verses 23-29|Matthew Henry Concise on Ecclesiastes 7]]
+- Solomon had given many proofs and instances of the vanity of this world and the things of it; now, in this chapter, I. He recommends to us some good means proper to be used for the redress of these grievances and the… [[sources/commentaries_english/mhenry-complete/volume-3/ecclesiastes/chapter-7|Matthew Henry Complete on Ecclesiastes 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ecclesiastes 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Ecclesiastes 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-7|Matthew Henry Concise, Ecclesiastes 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/ecclesiastes/chapter-7|Matthew Henry Complete on Ecclesiastes 7]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The conflict in the soul of a believer..
 tags: [prayer, worship, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 42: The conflict in the soul of a believer..
 
 - The psalmist looked to the Lord as his chief good, and set his heart upon him accordingly; casting anchor thus at first, he rides out the storm. A gracious soul can take little satisfaction in God's courts, if it do not meet with God himself there. [[sources/commentaries_english/mhenry-concise/psalms/psalm-42#Verses 1–5|Matthew Henry Concise on Psalm 42]]
 - The way to forget our miseries, is to remember the God of our mercies. David saw troubles coming from God's wrath, and that discouraged him. [[sources/commentaries_english/mhenry-concise/psalms/psalm-42#Verses 6–11|Matthew Henry Concise on Psalm 42]]
+- If the book of Psalms be, as some have styled it, a mirror or looking-glass of pious and devout affections, this psalm in particular deserves, as much as any one psalm, to be so entitled, and is as proper as any to… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-42|Matthew Henry Complete on Psalm 42]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 42 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 42 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-42|Matthew Henry Concise, Psalm 42]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-42|Matthew Henry Complete on Psalm 42]]
 
 ## Open questions
 

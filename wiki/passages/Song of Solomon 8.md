@@ -5,7 +5,7 @@ description: Desire for communion with Christ. (1-4) . The vehemence of this des
 tags: [christ, covenant, worship, prayer, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 22
 bible_book_name: "Song of Solomon"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Song of Solomon 8: Desire for communion with Christ. (1
 - The church wishes for the constant intimacy and freedom with the Lord Jesus that a sister has with a brother. That they might be as his brethren, which they are, when by grace they are made partakers of a Divine nature. [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-8#Verses 1-4|Matthew Henry Concise on Song of Solomon 8]]
 - The church pleads for the Gentiles, who then had not the word of God, nor the means of grace. Those who are brought to Christ themselves, should contrive what they may do to help others to him. [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-8#Verses 8-12|Matthew Henry Concise on Song of Solomon 8]]
 - These verses close the conference between Christ and his church. He first addresses her as dwelling in the gardens, the assemblies and ordinances of his saints. [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-8#Verses 13,14|Matthew Henry Concise on Song of Solomon 8]]
+- The affections between Christ and his spouse are as strong and lively here, in this closing chapter of the song, as ever, and rather more so. I. The spouse continues her importunity for a more intimate communion and… [[sources/commentaries_english/mhenry-complete/volume-3/song-of-solomon/chapter-8|Matthew Henry Complete on Song of Solomon 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Song of Solomon 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: Song of Solomon 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-8|Matthew Henry Concise, Song of Solomon 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/song-of-solomon/chapter-8|Matthew Henry Complete on Song of Solomon 8]]
 
 ## Open questions
 

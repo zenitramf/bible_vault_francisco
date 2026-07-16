@@ -5,7 +5,7 @@ description: The glory of the church. (1–3). It is filled with the Divine bles
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 87: The glory of the church. (1–3). It is fille
 
 - Christ himself is the Foundation of the church, which God has laid. Holiness is the strength and firmness of the church. [[sources/commentaries_english/mhenry-concise/psalms/psalm-87#Verses 1–3|Matthew Henry Concise on Psalm 87]]
 - The church of Christ is more glorious and excellent than the nations of the earth. In the records of heaven, the meanest of those who are born again stand registered. [[sources/commentaries_english/mhenry-concise/psalms/psalm-87#Verses 4–7|Matthew Henry Concise on Psalm 87]]
+- The foregoing psalm was very plain and easy, but in this are things dark and hard to be understood. It is an encomium of Zion, as a type and figure of the gospel-church, to which what is here spoken is very applicable.… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-87|Matthew Henry Complete on Psalm 87]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 87 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 87 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-87|Matthew Henry Concise, Psalm 87]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-87|Matthew Henry Complete on Psalm 87]]
 
 ## Open questions
 

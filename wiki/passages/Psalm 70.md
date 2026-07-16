@@ -5,7 +5,7 @@ description: The speedy destruction of the wicked, and the preservation of the g
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Psalm 70: The speedy destruction of the wicked, and the
 ## Core claims
 
 - This psalm is almost the same as the last five verses of Ps 40. While here we behold Jesus Christ set forth in poverty and distress, we also see him denouncing just and fearful punishment on his Jewish, heathen, and antichristian enemies; and pleading for the joy and happiness of his friends, to his Father's honour. [[sources/commentaries_english/mhenry-concise/psalms/psalm-70#Verses 1-5|Matthew Henry Concise on Psalm 70]]
+- This psalm is adapted to a state of affliction; it is copied almost word for word from the fortieth, and, some think for that reason, is entitled, "a psalm to bring to remembrance;" for it may be of use sometimes to… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-70|Matthew Henry Complete on Psalm 70]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 70 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -43,6 +48,7 @@ Primary scope: Psalm 70 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-70|Matthew Henry Concise, Psalm 70]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-70|Matthew Henry Complete on Psalm 70]]
 
 ## Open questions
 

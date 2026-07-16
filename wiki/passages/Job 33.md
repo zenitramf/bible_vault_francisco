@@ -5,7 +5,7 @@ description: Elihu offers to reason with Job. (1–7). Elihu blames Job for refl
 tags: [wisdom, faith, prayer, justice, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 33: Elihu offers to reason with Job. (1–7). Elihu
 - Job had desired a judge to decide his appeal. Elihu was one according to his wish, a man like himself. [[sources/commentaries_english/mhenry-concise/job/chapter-33#Verses 1–7|Matthew Henry Concise on Job 33]]
 - God speaks to us by conscience, by providences, and by ministers; of all these Elihu discourses. There was not then, that we know of, any Divine revelation in writing, though now it is our principal guide. [[sources/commentaries_english/mhenry-concise/job/chapter-33#Verses 14–18|Matthew Henry Concise on Job 33]]
 - Elihu shows that God's great and gracious design toward the children of men, is, to save them from being for ever miserable, and to bring them to be for ever happy. By whatever means we are kept back from the we shall bless the Lord for them at least, and should bless him for them though they be painful and… [[sources/commentaries_english/mhenry-concise/job/chapter-33#Verses 29–33|Matthew Henry Concise on Job 33]]
+- Pompous prefaces, like the teeming mountain, often introduce poor performances; but Elihu's discourse here does not disappoint the expectations which his preface had raised. It is substantial, and lively, and very much… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-33|Matthew Henry Complete on Job 33]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 33 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Job 33 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-33|Matthew Henry Concise, Job 33]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-33|Matthew Henry Complete on Job 33]]
 
 ## Open questions
 

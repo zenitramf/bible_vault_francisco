@@ -5,7 +5,7 @@ description: A description of the infirmities of age. (1-7). All is vanity: also
 tags: [wisdom, holiness, worship, christian-life, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 21
 bible_book_name: "Ecclesiastes"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Ecclesiastes 12: A description of the infirmities of ag
 
 - We should remember our sins against our Creator, repent, and seek forgiveness. We should remember our duties, and set about them, looking to him for grace and strength. [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-12#Verses 1-7|Matthew Henry Concise on Ecclesiastes 12]]
 - Solomon repeats his text, VANITY OF VANITIES, ALL IS VANITY. These are the words of one that could speak by dear-bought experience of the vanity of the world, which can do nothing to ease men of the burden of sin. [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-12#Verses 8-14|Matthew Henry Concise on Ecclesiastes 12]]
+- The wise and penitent preacher is here closing his sermon; and he closes it, not only lie a good orator, but like a good preacher, with that which was likely to make the best impressions and which he wished might be… [[sources/commentaries_english/mhenry-complete/volume-3/ecclesiastes/chapter-12|Matthew Henry Complete on Ecclesiastes 12]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ecclesiastes 12 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -42,6 +47,7 @@ Primary scope: Ecclesiastes 12 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-12|Matthew Henry Concise, Ecclesiastes 12]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/ecclesiastes/chapter-12|Matthew Henry Complete on Ecclesiastes 12]]
 
 ## Open questions
 

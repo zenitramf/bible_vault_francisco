@@ -5,7 +5,7 @@ description: Elihu speaks of man's conduct. (1–8). Why those who cry out under
 tags: [wisdom, faith, prayer, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 35: Elihu speaks of man's conduct. (1–8). Why tho
 - Elihu reproves Job for justifying himself more than God, and called his attention to the heavens. They are far above us, and God is far above them; how much then is he out of the reach, either of our sins or of our services! [[sources/commentaries_english/mhenry-concise/job/chapter-35#Verses 1–8|Matthew Henry Concise on Job 35]]
 - Job complained that God did not regard the cries of the oppressed against their oppressors. This he knew not how to reconcile the justice of God and his government. [[sources/commentaries_english/mhenry-concise/job/chapter-35#Verses 9–13|Matthew Henry Concise on Job 35]]
 - As in prosperity we are ready to think our mountain will never be brought low; so when in adversity, we are ready to think our valley will never be filled up. But to conclude that to-morrow must be as this day, is as absurd as to think that the weather, when either fair or foul, will be always so. [[sources/commentaries_english/mhenry-concise/job/chapter-35#Verses 14–16|Matthew Henry Concise on Job 35]]
+- Job being still silent, Elihu follows his blow, and here, a third time, undertakes to show him that he had spoken amiss, and ought to recant. Three improper sayings he here charges him with, and returns answer to them… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-35|Matthew Henry Complete on Job 35]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 35 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Job 35 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-35|Matthew Henry Concise, Job 35]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-35|Matthew Henry Complete on Job 35]]
 
 ## Open questions
 

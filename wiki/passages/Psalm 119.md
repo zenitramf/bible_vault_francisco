@@ -5,7 +5,7 @@ description: Matthew Henry Concise on Psalm 119.
 tags: [prayer, worship, faith, holiness, wisdom]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Psalm 119: Matthew Henry Concise on Psalm 119.
 - The psalmist desired grace and strength to lift up his prayers, and that the Lord would receive and notice them. He desired to know more of God in Christ; to know more of the doctrines of the word, and the duties of religion. [[sources/commentaries_english/mhenry-concise/psalms/psalm-119#Verses 169–176|Matthew Henry Concise on Psalm 119]]
 
 - Spurgeon's *Treasury of David* treats Psalm 119 in verse-range sections; the source index links the sequence from verses 1–8 through 169–176. [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/index|Spurgeon, Treasury of David on Psalm 119]]
+- This is a psalm by itself, like none of the rest; it excels them all, and shines brightest in this constellation. It is much longer than any of them more than twice as long as any of them. It is not making long prayers… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-119|Matthew Henry Complete on Psalm 119]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis began from Matthew Henry Concise and is thickened with Spurgeon's Treasury of David on the same psalm (Phase 3.4). Concise notes remain pastoral summaries; ToD adds homiletical depth and historical citations.
 
@@ -33,6 +36,8 @@ This chapter synthesis began from Matthew Henry Concise and is thickened with Sp
 Primary scope: Psalm 119 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/source-notes/Spurgeon Treasury of David Volume 6|Treasury of David Volume 6]]
 
@@ -50,6 +55,7 @@ Primary scope: Psalm 119 (full chapter).
 
 - [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/index|Spurgeon, Treasury of David on Psalm 119]]
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-119|Matthew Henry Concise, Psalm 119]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-119|Matthew Henry Complete on Psalm 119]]
 
 ## Open questions
 

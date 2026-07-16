@@ -5,7 +5,7 @@ description: Bildad shows that man cannot be justified before God. (1-6).
 tags: [wisdom, faith, prayer, christ, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Job 25: Bildad shows that man cannot be justified befor
 ## Core claims
 
 - Bildad drops the question concerning the prosperity of wicked men; but shows the infinite distance there is between God and man. He represents to Job some truths he had too much overlooked. [[sources/commentaries_english/mhenry-concise/job/chapter-25#Verses 1-6|Matthew Henry Concise on Job 25]]
+- Bildad here makes a very short reply to Job's last discourse, as one that began to be tired of the cause. He drops the main question concerning the prosperity of wicked men, as being unable to answer the proofs Job had… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-25|Matthew Henry Complete on Job 25]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 25 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -42,6 +47,7 @@ Primary scope: Job 25 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-25|Matthew Henry Concise, Job 25]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-25|Matthew Henry Complete on Job 25]]
 
 ## Open questions
 

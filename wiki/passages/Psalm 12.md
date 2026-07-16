@@ -5,7 +5,7 @@ description: The psalmist begs help of God, because there were none among men wh
 tags: [prayer, worship, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Psalm 12: The psalmist begs help of God, because there 
 ## Core claims
 
 - This psalm furnishes good thoughts for bad times; a man may comfort himself with such meditations and prayers. Let us see what makes the times bad, and when they may be said to be so. [[sources/commentaries_english/mhenry-concise/psalms/psalm-12#Verses 1-8|Matthew Henry Concise on Psalm 12]]
+- It is supposed that David penned this psalm in Saul's reign, when there was a general decay of honesty and piety both in court and country, which he here complains of to God, and very feelingly, for he himself suffered… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-12|Matthew Henry Complete on Psalm 12]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 12 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -43,6 +48,7 @@ Primary scope: Psalm 12 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-12|Matthew Henry Concise, Psalm 12]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-12|Matthew Henry Complete on Psalm 12]]
 
 ## Open questions
 

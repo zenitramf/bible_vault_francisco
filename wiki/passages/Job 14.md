@@ -5,7 +5,7 @@ description: Job speaks of man's life. (1–6). Of man's death. (7–15). By sin
 tags: [wisdom, faith, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 14: Job speaks of man's life. (1–6). Of man's dea
 - Job enlarges upon the condition of man, addressing himself also to God. Every man of Adam's fallen race is short-lived. [[sources/commentaries_english/mhenry-concise/job/chapter-14#Verses 1–6|Matthew Henry Concise on Job 14]]
 - Though a tree is cut down, yet, in a moist situation, shoots come forth, and grow up as a newly planted tree. But when man is cut off by death, he is for ever removed from his place in this world. [[sources/commentaries_english/mhenry-concise/job/chapter-14#Verses 7–15|Matthew Henry Concise on Job 14]]
 - Job's faith and hope spake, and grace appeared to revive; but depravity again prevailed. He represents God as carrying matters to extremity against him. [[sources/commentaries_english/mhenry-concise/job/chapter-14#Verses 16–22|Matthew Henry Concise on Job 14]]
+- Job had turned from speaking to his friends, finding it to no purpose to reason with them, and here he goes on to speak to God and himself. He had reminded his friends of their frailty and mortality (Job 13:12); here… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-14|Matthew Henry Complete on Job 14]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 14 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Job 14 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-14|Matthew Henry Concise, Job 14]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-14|Matthew Henry Complete on Job 14]]
 
 ## Open questions
 

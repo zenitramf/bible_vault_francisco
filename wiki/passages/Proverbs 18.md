@@ -5,7 +5,7 @@ description: Matthew Henry Concise on Proverbs 18.
 tags: [wisdom, holiness, discipleship, justice, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 20
 bible_book_name: "Proverbs"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Proverbs 18: Matthew Henry Concise on Proverbs 18.
 - If we would get knowledge and grace, we must try all methods of improving ourselves. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-18#Verse 1|Matthew Henry Concise on Proverbs 18]]
 - Firmness of mind supports under many pains and trials. But when the conscience is tortured with remorse, no human fortitude can bear the misery; what then will hell be? [[sources/commentaries_english/mhenry-concise/proverbs/chapter-18#Verse 14|Matthew Henry Concise on Proverbs 18]]
 - Christ Jesus never will forsake those who trust in and love him. May we be such friends to others, for our Master's sake. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-18#Verse 24|Matthew Henry Concise on Proverbs 18]]
+- The original here is difficult, and differently understood. 1. Some take it as a rebuke to an affected singularity. When men take a pride in separating themselves from the sentiments and society of others, in… [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-18|Matthew Henry Complete on Proverbs 18]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Proverbs 18 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Proverbs 18 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/proverbs/chapter-18|Matthew Henry Concise, Proverbs 18]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-18|Matthew Henry Complete on Proverbs 18]]
 
 ## Open questions
 

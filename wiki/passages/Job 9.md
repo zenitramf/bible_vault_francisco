@@ -5,7 +5,7 @@ description: Job acknowledges God's justice. (1–13). He is not able to contend
 tags: [wisdom, faith, prayer, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 9: Job acknowledges God's justice. (1–13). He is 
 - In this answer Job declared that he did not doubt the justice of God, when he denied himself to be a hypocrite; for how should man be just with God? Before him he pleaded guilty of sins more than could be counted; and if God should contend with him in judgment, he could not justify one out of a thousand, of all the… [[sources/commentaries_english/mhenry-concise/job/chapter-9#Verses 1–13|Matthew Henry Concise on Job 9]]
 - Job touches briefly upon the main point now in dispute. His friends maintained that those who are righteous and good, always prosper in this world, and that none but the wicked are in misery and distress: he said, on the contrary, that it is a common thing for the wicked to prosper, and the righteous to be greatly… [[sources/commentaries_english/mhenry-concise/job/chapter-9#Verses 22–24|Matthew Henry Concise on Job 9]]
 - What little need have we of pastimes, and what great need to redeem time, when it runs on so fast towards eternity! How vain the enjoyments of time, which we may quite lose while yet time continues! [[sources/commentaries_english/mhenry-concise/job/chapter-9#Verses 25–35|Matthew Henry Concise on Job 9]]
+- In this and the following chapter we have Job's answer to Bildad's discourse, wherein he speaks honourably of God, humbly of himself, and feelingly of his troubles; but not one word by way of reflection upon his… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-9|Matthew Henry Complete on Job 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Job 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-9|Matthew Henry Concise, Job 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-9|Matthew Henry Complete on Job 9]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: David's integrity. (1–7). The character of his enemies. His hope 
 tags: [prayer, worship, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 17: David's integrity. (1–7). The character of 
 
 - This psalm is a prayer. Feigned prayers are fruitless; but if our hearts lead our prayers, God will meet them with his favour. [[sources/commentaries_english/mhenry-concise/psalms/psalm-17#Verses 1–7|Matthew Henry Concise on Psalm 17]]
 - Being compassed with enemies, David prays to God to keep him in safety. This prayer is a prediction that Christ would be preserved, through all the hardships and difficulties of his humiliation, to the glories and joys of his exalted state, and is a pattern to Christians to commit the keeping of their souls to God,… [[sources/commentaries_english/mhenry-concise/psalms/psalm-17#Verses 8–15|Matthew Henry Concise on Psalm 17]]
+- David being in great distress and danger by the malice of his enemies, does, in this psalm, by prayer address himself to God, his tried refuge, and seeks shelter in him. I. He appeals to God concerning his integrity,… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-17|Matthew Henry Complete on Psalm 17]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 17 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 17 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-17|Matthew Henry Concise, Psalm 17]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-17|Matthew Henry Complete on Psalm 17]]
 
 ## Open questions
 

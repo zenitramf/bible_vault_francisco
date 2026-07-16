@@ -5,7 +5,7 @@ description: Miseries from oppression. (1-3). troubles from envy. (4-6). The fol
 tags: [wisdom, holiness, worship, christian-life, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 21
 bible_book_name: "Ecclesiastes"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Ecclesiastes 4: Miseries from oppression. (1-3). troubl
 - It grieved Solomon to see might prevail against right. Wherever we turn, we see melancholy proofs of the wickedness and misery of mankind, who try to create trouble to themselves and to each other. [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-4#Verses 1-3|Matthew Henry Concise on Ecclesiastes 4]]
 - Frequently, the more men have, the more they would have; and on this they are so intent, that they get no enjoyment from what they have. Selfishness is the cause of this evil. [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-4#Verses 7,8|Matthew Henry Concise on Ecclesiastes 4]]
 - People are never long easy and satisfied; they are fond of changes. This is no new thing. [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-4#Verses 13-16|Matthew Henry Concise on Ecclesiastes 4]]
+- Solomon, having shown the vanity of this world in the temptation which those in power feel to oppress and trample upon their subjects, here further shows, I. The temptation which the oppressed feel to discontent and… [[sources/commentaries_english/mhenry-complete/volume-3/ecclesiastes/chapter-4|Matthew Henry Complete on Ecclesiastes 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ecclesiastes 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Ecclesiastes 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ecclesiastes/chapter-4|Matthew Henry Concise, Ecclesiastes 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/ecclesiastes/chapter-4|Matthew Henry Complete on Ecclesiastes 4]]
 
 ## Open questions
 

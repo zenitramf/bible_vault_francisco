@@ -5,7 +5,7 @@ description: Elihu accuses Job of charging God with injustice. (1–9). God cann
 tags: [wisdom, faith, prayer, christ, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 34: Elihu accuses Job of charging God with injustic
 - Elihu calls upon those present to decide with him upon Job's words. The plainest Christian, whose mind is enlightened, whose heart is sanctified by the Spirit of God, and who is versed in the Scriptures, can say how far matters, words, or actions, agree with true religion, better than any that lean to their own… [[sources/commentaries_english/mhenry-concise/job/chapter-34#Verses 1–9|Matthew Henry Concise on Job 34]]
 - Elihu appeals directly to Job himself. Could he suppose that God was like those earthly princes, who hate right, who are unfit to rule, and prove the scourges of mankind? [[sources/commentaries_english/mhenry-concise/job/chapter-34#Verses 16–30|Matthew Henry Concise on Job 34]]
 - When we reprove for what is amiss, we must direct to what is good. Job's friends would have had him own himself a wicked man. [[sources/commentaries_english/mhenry-concise/job/chapter-34#Verses 31–37|Matthew Henry Concise on Job 34]]
+- Elihu, it is likely, paused awhile, to see if Job had any thing to say against his discourse in the foregoing chapter; but he sitting silent, and it is likely intimating his desire that he would go on, he here… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-34|Matthew Henry Complete on Job 34]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 34 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Job 34 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-34|Matthew Henry Concise, Job 34]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-34|Matthew Henry Complete on Job 34]]
 
 ## Open questions
 

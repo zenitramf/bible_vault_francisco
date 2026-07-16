@@ -5,7 +5,7 @@ description: Concerning wordly wealth. (1–11). Wisdom is of inestimable value.
 tags: [wisdom, faith, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 28: Concerning wordly wealth. (1–11). Wisdom is o
 - Job maintained that the dispensations of Providence were regulated by the highest wisdom. To confirm this, he showed of what a great deal of knowledge and wealth men may make themselves masters. [[sources/commentaries_english/mhenry-concise/job/chapter-28#Verses 1–11|Matthew Henry Concise on Job 28]]
 - Job here speaks of wisdom and understanding, the knowing and enjoying of God and ourselves. Its worth is infinitely more than all the riches in this world. [[sources/commentaries_english/mhenry-concise/job/chapter-28#Verses 12–19|Matthew Henry Concise on Job 28]]
 - There is a two-fold wisdom; one hid in God, which is secret, and belongs not to us; the other made known by him, and revealed to man. One day's events, and one man's affairs, have such reference to, and so hang one upon another, that He only, to whom all is open, and who sees the whole at one view, can rightly judge… [[sources/commentaries_english/mhenry-concise/job/chapter-28#Verses 20–28|Matthew Henry Concise on Job 28]]
+- The strain of this chapter is very unlike the rest of this book. Job forgets his sores, and all his sorrows, and talks like a philosopher or a virtuoso. Here is a great deal both of natural and moral philosophy in this… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-28|Matthew Henry Complete on Job 28]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 28 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Job 28 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-28|Matthew Henry Concise, Job 28]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-28|Matthew Henry Complete on Job 28]]
 
 ## Open questions
 

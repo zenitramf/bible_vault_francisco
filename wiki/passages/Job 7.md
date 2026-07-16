@@ -5,7 +5,7 @@ description: Job's troubles. (1–6). Job expostulates with God. (7–16). He be
 tags: [wisdom, faith, prayer, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 7: Job's troubles. (1–6). Job expostulates with G
 - Job here excuses what he could not justify, his desire of death. Observe man's present place: he is upon earth. [[sources/commentaries_english/mhenry-concise/job/chapter-7#Verses 1–6|Matthew Henry Concise on Job 7]]
 - Plain truths as to the shortness and vanity of man's life, and the certainty of death, do us good, when we think and speak of them with application to ourselves. Dying is done but once, and therefore it had need be well done. [[sources/commentaries_english/mhenry-concise/job/chapter-7#Verses 7–16|Matthew Henry Concise on Job 7]]
 - Job reasons with God concerning his dealings with man. But in the midst of this discourse, Job seems to have lifted up his thoughts to God with some faith and hope. [[sources/commentaries_english/mhenry-concise/job/chapter-7#Verses 17–21|Matthew Henry Concise on Job 7]]
+- Job, in this chapter, goes on to express the bitter sense he had of his calamities and to justify himself in his desire of death. I. He complains to himself and his friends of his troubles, and the constant agitation… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-7|Matthew Henry Complete on Job 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Job 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-7|Matthew Henry Concise, Job 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-7|Matthew Henry Complete on Job 7]]
 
 ## Open questions
 

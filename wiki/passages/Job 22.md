@@ -5,7 +5,7 @@ description: Eliphaz shows that a man's goodness profits not God. (1–4). Job a
 tags: [wisdom, faith, prayer, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 22: Eliphaz shows that a man's goodness profits not
 - Eliphaz considers that, because Job complained so much of his afflictions, he thought God was unjust in afflicting him; but Job was far from thinking so. What Eliphaz says, is unjustly applied to Job, but it is very true, that when God does us good it is not because he is indebted to us. [[sources/commentaries_english/mhenry-concise/job/chapter-22#Verses 1–4|Matthew Henry Concise on Job 22]]
 - Eliphaz would have Job mark the old way that wicked men have trodden, and see what the end of their way was. It is good for us to mark it, that we may not walk therein. [[sources/commentaries_english/mhenry-concise/job/chapter-22#Verses 15–20|Matthew Henry Concise on Job 22]]
 - The answer of Eliphaz wrongly implied that Job had hitherto not known God, and that prosperity in this life would follow his sincere conversion. The counsel Eliphaz here gives is good, though, as to Job, it was built upon a false supposition that he was a stranger and enemy to God. [[sources/commentaries_english/mhenry-concise/job/chapter-22#Verses 21–30|Matthew Henry Concise on Job 22]]
+- Eliphaz here leads on a third attack upon poor Job, in which Bildad followed him, but Zophar drew back, and quitted the field. It was one of the unhappinesses of Job, as it is of many an honest man, to be misunderstood… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-22|Matthew Henry Complete on Job 22]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 22 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Job 22 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-22|Matthew Henry Concise, Job 22]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-22|Matthew Henry Complete on Job 22]]
 
 ## Open questions
 

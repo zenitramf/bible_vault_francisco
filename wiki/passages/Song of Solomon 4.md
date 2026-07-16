@@ -5,7 +5,7 @@ description: Christ sets forth the graces of the church. (1-7) . Christ's love t
 tags: [christ, covenant, worship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 22
 bible_book_name: "Song of Solomon"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Song of Solomon 4: Christ sets forth the graces of the 
 - If each of these comparisons has a meaning applicable to the graces of the church, or of the faithful Christian, they are not clearly known; and great mistakes are made by fanciful guesses. The mountain of myrrh appears to mean the mountain Moriah, on which the temple was built, where the incense was burned, and the… [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-4#Verses 1-7|Matthew Henry Concise on Song of Solomon 4]]
 - Observe the gracious call Christ gives to the church. It is, 1. [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-4#Verses 8-15|Matthew Henry Concise on Song of Solomon 4]]
 - The church prays for the influences of the blessed Spirit, to make this garden fruitful. Graces in the soul are as spices in these gardens, that in them which is valuable and useful. [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-4#Verses 16|Matthew Henry Concise on Song of Solomon 4]]
+- In this chapter, I. Jesus Christ, having espoused his church to himself (So 3:11), highly commends her beauty in the several expressions of it, concluding her fair, all fair, So 4:1-5 and again, So 4:7. II. He retires… [[sources/commentaries_english/mhenry-complete/volume-3/song-of-solomon/chapter-4|Matthew Henry Complete on Song of Solomon 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Song of Solomon 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: Song of Solomon 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-4|Matthew Henry Concise, Song of Solomon 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/song-of-solomon/chapter-4|Matthew Henry Complete on Song of Solomon 4]]
 
 ## Open questions
 

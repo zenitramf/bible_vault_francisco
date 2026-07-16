@@ -5,7 +5,7 @@ description: Exhortation to the study of wisdom. (1–13). Cautions against bad 
 tags: [wisdom, holiness, discipleship, justice, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 20
 bible_book_name: "Proverbs"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Proverbs 4: Exhortation to the study of wisdom. (1–13
 
 - We must look upon our teachers as our fathers: though instruction carry in it reproof and correction, bid it welcome. Solomon's parents loved him, therefore taught him. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-4#Verses 1–13|Matthew Henry Concise on Proverbs 4]]
 - The way of evil men may seem pleasant, and the nearest way to compass some end; but it is an evil way, and will end ill; if thou love thy God and thy soul, avoid it. It is not said, Keep at a due distance, but at a great distance; never think you can get far enough from it. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-4#Verses 14–27|Matthew Henry Concise on Proverbs 4]]
+- When the things of God are to be taught precept must be upon precept, and line upon line, not only because the things themselves are of great worth and weight, but because men's minds, at the best, are unapt to admit… [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-4|Matthew Henry Complete on Proverbs 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Proverbs 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -43,6 +48,7 @@ Primary scope: Proverbs 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/proverbs/chapter-4|Matthew Henry Concise, Proverbs 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-4|Matthew Henry Complete on Proverbs 4]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Job reproves his friends. (1–5). He represents his case as deplor
 tags: [wisdom, faith, prayer, justice, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 16: Job reproves his friends. (1–5). He represent
 - Eliphaz had represented Job's discourses as unprofitable, and nothing to the purpose; Job here gives his the same character. Those who pass censures, must expect to have them retorted; it is easy, it is endless, but what good does it do? [[sources/commentaries_english/mhenry-concise/job/chapter-16#Verses 1–5|Matthew Henry Concise on Job 16]]
 - Here is a doleful representation of Job's grievances. What reason we have to bless God, that we are not making such complaints! [[sources/commentaries_english/mhenry-concise/job/chapter-16#Verses 6–16|Matthew Henry Concise on Job 16]]
 - Job's condition was very deplorable; but he had the testimony of his conscience for him, that he never allowed himself in any gross sin. No one was ever more ready to acknowledge sins of infirmity. [[sources/commentaries_english/mhenry-concise/job/chapter-16#Verses 17–22|Matthew Henry Concise on Job 16]]
+- This chapter begins Job's reply to that discourse of Eliphaz which we had in the foregoing chapter; it is but the second part of the same song of lamentation with which he had before bemoaned himself, and is set to the… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-16|Matthew Henry Complete on Job 16]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 16 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -45,6 +50,7 @@ Primary scope: Job 16 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-16|Matthew Henry Concise, Job 16]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-16|Matthew Henry Complete on Job 16]]
 
 ## Open questions
 

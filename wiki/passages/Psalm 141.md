@@ -5,7 +5,7 @@ description: David prays for God's acceptance and assistance. (1–4). That God 
 tags: [prayer, worship, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 141: David prays for God's acceptance and assista
 
 - Make haste unto me. Those that know how to value God's gracious presence, will be the more fervent in their prayers. [[sources/commentaries_english/mhenry-concise/psalms/psalm-141#Verses 1–4|Matthew Henry Concise on Psalm 141]]
 - We should be ready to welcome the rebuke of our heavenly Father, and also the reproof of our brethren. It shall not break my head, if it may but help to break my heart: we must show that we take it kindly. [[sources/commentaries_english/mhenry-concise/psalms/psalm-141#Verses 5–10|Matthew Henry Concise on Psalm 141]]
+- David was in distress when he penned this psalm, pursued, it is most likely, by Saul, that violent man. Is any distressed? Let him pray; David did so, and had the comfort of it. I. He prays for God's favourable… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-141|Matthew Henry Complete on Psalm 141]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 141 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 141 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-141|Matthew Henry Concise, Psalm 141]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-141|Matthew Henry Complete on Psalm 141]]
 
 ## Open questions
 

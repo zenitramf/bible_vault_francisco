@@ -5,7 +5,7 @@ description: David praises God for protecting his people. (1–10). And for caus
 tags: [prayer, worship, faith, holiness, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 9: David praises God for protecting his people. (
 
 - If we would praise God acceptably, we must praise him in sincerity, with our whole heart. When we give thanks for some one particular mercy, we should remember former mercies. [[sources/commentaries_english/mhenry-concise/psalms/psalm-9#Verses 1–10|Matthew Henry Concise on Psalm 9]]
 - Those who believe that God is greatly to be praised, not only desire to praise him better themselves, but desire that others may join with them. There is a day coming, when it will appear that he has not forgotten the cry of the humble; neither the cry of their blood, or the cry of their prayers. [[sources/commentaries_english/mhenry-concise/psalms/psalm-9#Verses 11–20|Matthew Henry Concise on Psalm 9]]
+- In this psalm, I. David praises God for pleading his cause, and giving him victory over his enemies and the enemies of his country (Ps 9:1-6), and calls upon others to join with him in his songs of praise, Ps 9:11,12.… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-9|Matthew Henry Complete on Psalm 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-9|Matthew Henry Concise, Psalm 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-9|Matthew Henry Complete on Psalm 9]]
 
 ## Open questions
 

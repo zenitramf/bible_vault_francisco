@@ -5,7 +5,7 @@ description: Elihu is displeased at the dispute between Job and his friends. (1�
 tags: [wisdom, faith, prayer, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 32: Elihu is displeased at the dispute between Job 
 - Job's friends were silenced, but not convinced. Others had been present. [[sources/commentaries_english/mhenry-concise/job/chapter-32#Verses 1–5|Matthew Henry Concise on Job 32]]
 - Elihu professes to speak by the inspiration of the Holy Spirit, and corrects both parties. He allowed that those who had the longest experience should speak first. [[sources/commentaries_english/mhenry-concise/job/chapter-32#Verses 6–14|Matthew Henry Concise on Job 32]]
 - If we are sure that the Spirit of God suggested what we are about to say, still we ought to refrain, till it comes to our turn to speak. God is the God of order, not of confusion. [[sources/commentaries_english/mhenry-concise/job/chapter-32#Verses 15–22|Matthew Henry Concise on Job 32]]
+- The stage is clear, for Job and his three friends have sat down, and neither he nor they have any thing more to say; it is therefore very seasonable for a moderator to interpose, and Elihu is the man. In this chapter… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-32|Matthew Henry Complete on Job 32]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 32 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Job 32 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-32|Matthew Henry Concise, Job 32]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-32|Matthew Henry Complete on Job 32]]
 
 ## Open questions
 

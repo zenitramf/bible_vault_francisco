@@ -5,7 +5,7 @@ description: God is to be glorified, for making known himself to us. (1, 2). And
 tags: [prayer, worship, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 8: God is to be glorified, for making known himse
 
 - The psalmist seeks to give unto God the glory due to his name. How bright this glory shines even in this lower world! [[sources/commentaries_english/mhenry-concise/psalms/psalm-8#Verses 1, 2|Matthew Henry Concise on Psalm 8]]
 - We are to consider the heavens, that man thus may be directed to set his affections on things above. What is man, so mean a creature, that he should be thus honoured! [[sources/commentaries_english/mhenry-concise/psalms/psalm-8#Verses 3–9|Matthew Henry Concise on Psalm 8]]
+- This psalm is a solemn meditation on, and admiration of, the glory and greatness of God, of which we are all concerned to think highly and honourably. It begins and ends with the same acknowledgment of the transcendent… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-8|Matthew Henry Complete on Psalm 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-8|Matthew Henry Concise, Psalm 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-8|Matthew Henry Complete on Psalm 8]]
 
 ## Open questions
 

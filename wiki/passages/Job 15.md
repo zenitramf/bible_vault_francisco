@@ -5,7 +5,7 @@ description: Eliphaz reproves Job. (1–16). The unquietness of wicked men. (17�
 tags: [wisdom, faith, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Job 15: Eliphaz reproves Job. (1–16). The unquietness
 
 - Eliphaz begins a second attack upon Job, instead of being softened by his complaints. He unjustly charges Job with casting off the fear of God, and all regard to him, and restraining prayer. [[sources/commentaries_english/mhenry-concise/job/chapter-15#Verses 1–16|Matthew Henry Concise on Job 15]]
 - Eliphaz maintains that the wicked are certainly miserable: whence he would infer, that the miserable are certainly wicked, and therefore Job was so. But because many of God's people have prospered in this world, it does not therefore follow that those who are crossed and made poor, as Job, are not God's people. [[sources/commentaries_english/mhenry-concise/job/chapter-15#Verses 17–35|Matthew Henry Concise on Job 15]]
+- Perhaps Job was so clear, and so well satisfied, in the goodness of his own cause, that he thought, if he had not convinced, yet he had at least silenced all his three friends; but, it seems he had not: in this chapter… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-15|Matthew Henry Complete on Job 15]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 15 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -42,6 +47,7 @@ Primary scope: Job 15 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-15|Matthew Henry Concise, Job 15]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-15|Matthew Henry Complete on Job 15]]
 
 ## Open questions
 

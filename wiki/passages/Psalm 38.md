@@ -5,7 +5,7 @@ description: God's displeasure at sin. (1–11). The psalmist's sufferings and p
 tags: [prayer, worship, faith, holiness, creation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 38: God's displeasure at sin. (1–11). The psalm
 
 - Nothing will disquiet the heart of a good man so much as the sense of God's anger. The way to keep the heart quiet, is to keep ourselves in the love of God. [[sources/commentaries_english/mhenry-concise/psalms/psalm-38#Verses 1–11|Matthew Henry Concise on Psalm 38]]
 - Wicked men hate goodness, even when they benefit by it. David, in the complaints he makes of his enemies, seems to refer to Christ. [[sources/commentaries_english/mhenry-concise/psalms/psalm-38#Verses 12–22|Matthew Henry Concise on Psalm 38]]
+- This is one of the penitential psalms; it is full of grief and complaint from the beginning to the end. David's sins and his afflictions are the cause of his grief and the matter of his complaints. It should seem he… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-38|Matthew Henry Complete on Psalm 38]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 38 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 38 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-38|Matthew Henry Concise, Psalm 38]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-38|Matthew Henry Complete on Psalm 38]]
 
 ## Open questions
 

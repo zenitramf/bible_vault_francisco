@@ -5,7 +5,7 @@ description: The value of the Divine blessing. (1-5).
 tags: [prayer, worship, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Psalm 127: The value of the Divine blessing. (1-5).
 ## Core claims
 
 - —Let us always look to God's providence. In all the affairs and business of a family we must depend upon his blessing. [[sources/commentaries_english/mhenry-concise/psalms/psalm-127#Verses 1-5|Matthew Henry Concise on Psalm 127]]
+- This is a family-psalm, as divers before were state-poems and church-poems. It is entitled (as we read it) "for Solomon," dedicated to him by his father. He having a house to build, a city to keep, and seed to raise up… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-127|Matthew Henry Complete on Psalm 127]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 127 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -43,6 +48,7 @@ Primary scope: Psalm 127 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-127|Matthew Henry Concise, Psalm 127]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-127|Matthew Henry Complete on Psalm 127]]
 
 ## Open questions
 

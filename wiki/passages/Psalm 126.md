@@ -5,7 +5,7 @@ description: Those returned out of captivity are to be thankful. (1–3). Those 
 tags: [prayer, worship, faith, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 126: Those returned out of captivity are to be th
 
 - It is good to observe how God's deliverances of the church are for us, that we may rejoice in them. And how ought redemption from the wrath to come, from the power of sin and of Satan, to be valued! [[sources/commentaries_english/mhenry-concise/psalms/psalm-126#Verses 1–3|Matthew Henry Concise on Psalm 126]]
 - The beginnings of mercies encourage us to pray for the completion of them. And while we are in this world there will be matter for prayer, even when we are most furnished with matter for praise. [[sources/commentaries_english/mhenry-concise/psalms/psalm-126#Verses 4–6|Matthew Henry Concise on Psalm 126]]
+- It was with reference to some great and surprising deliverance of the people of God out of bondage and distress that this psalm was penned, most likely their return out of Babylon in Ezra's time. Though Babylon be not… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-126|Matthew Henry Complete on Psalm 126]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 126 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 126 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-126|Matthew Henry Concise, Psalm 126]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-126|Matthew Henry Complete on Psalm 126]]
 
 ## Open questions
 

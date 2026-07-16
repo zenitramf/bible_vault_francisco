@@ -5,7 +5,7 @@ description: Job humbles himself to God. (1–5). The Lord reasons with Job to s
 tags: [wisdom, faith, prayer, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 40: Job humbles himself to God. (1–5). The Lord r
 - Communion with the Lord effectually convinces and humbles a saint, and makes him glad to part with his most beloved sins. There is need to be thoroughly convinced and humbled, to prepare us for remarkable deliverances. [[sources/commentaries_english/mhenry-concise/job/chapter-40#Verses 1–5|Matthew Henry Concise on Job 40]]
 - Those who profit by what they have heard from God, shall hear more from him. And those who are truly convinced of sin, yet need to be more thoroughly convinced and more humbled. [[sources/commentaries_english/mhenry-concise/job/chapter-40#Verses 6–14|Matthew Henry Concise on Job 40]]
 - God, for the further proving of his own power, describes two vast animals, far exceeding man in bulk and strength. Behemoth signifies beasts. [[sources/commentaries_english/mhenry-concise/job/chapter-40#Verses 15–24|Matthew Henry Concise on Job 40]]
+- Many humbling confounding questions God had put to Job, in the foregoing chapter; now, in this chapter, I. He demands an answer to them, Job 40:1,2. II. Job submits in a humble silence, Job 40:3-5. III. God proceeds to… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-40|Matthew Henry Complete on Job 40]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 40 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Job 40 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-40|Matthew Henry Concise, Job 40]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-40|Matthew Henry Complete on Job 40]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: A description of the depravity of human nature, and the deplorable 
 tags: [prayer, worship, faith, holiness, wisdom]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Psalm 14: A description of the depravity of human natur
 ## Core claims
 
 - The fool hath said in his heart, There is no God. The sinner here described is an atheist, one that saith there is no Judge or Governor of the world, no Providence ruling over the affairs of men. [[sources/commentaries_english/mhenry-concise/psalms/psalm-14#Verses 1-7|Matthew Henry Concise on Psalm 14]]
+- It does not appear upon what occasion this psalm was penned nor whether upon any particular occasion. Some say David penned it when Saul persecuted him; others, when Absalom rebelled against him. But they are mere… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-14|Matthew Henry Complete on Psalm 14]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 14 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -43,6 +48,7 @@ Primary scope: Psalm 14 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-14|Matthew Henry Concise, Psalm 14]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-14|Matthew Henry Complete on Psalm 14]]
 
 ## Open questions
 

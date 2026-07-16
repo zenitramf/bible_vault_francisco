@@ -5,7 +5,7 @@ description: Esteem for Jerusalem. (1–5). Concern for its welfare. (6–9).
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 122: Esteem for Jerusalem. (1–5). Concern for i
 
 - The pleasure and profit from means of grace, should make us disregard trouble and fatigue in going to them; and we should quicken one another to what is good. We should desire our Christian friends, when they have any good work in hand, to call for us, and take us with them. [[sources/commentaries_english/mhenry-concise/psalms/psalm-122#Verses 1–5|Matthew Henry Concise on Psalm 122]]
 - Those who can do nothing else for the peace of Jerusalem, may pray for it. Let us consider all who seek the glory of the Redeemer, as our brethren and fellow-travellers, without regarding differences which do not affect our eternal welfare. [[sources/commentaries_english/mhenry-concise/psalms/psalm-122#Verses 6–9|Matthew Henry Concise on Psalm 122]]
+- This psalm seems to have been penned by David for the use of the people of Israel, when they came up to Jerusalem to worship at the three solemn feasts. It was in David's time that Jerusalem was first chosen to be the… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-122|Matthew Henry Complete on Psalm 122]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 122 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 122 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-122|Matthew Henry Concise, Psalm 122]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-122|Matthew Henry Complete on Psalm 122]]
 
 ## Open questions
 

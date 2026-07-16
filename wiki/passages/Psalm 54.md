@@ -5,7 +5,7 @@ description: David complains of the malice of his enemies. (1–3). Assurance of
 tags: [prayer, worship, faith, holiness, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 54: David complains of the malice of his enemies.
 
 - God is faithful, though men are not to be trusted, and it is well for us it is so. David has no other plea to depend upon than God's name, no other power to depend upon than God's strength, and these he makes his refuge and confidence. [[sources/commentaries_english/mhenry-concise/psalms/psalm-54#Verses 1–3|Matthew Henry Concise on Psalm 54]]
 - Behold, God is mine Helper. If we are for him, he is for us; and if he is for us, we need not fear. [[sources/commentaries_english/mhenry-concise/psalms/psalm-54#Verses 4–7|Matthew Henry Concise on Psalm 54]]
+- The key of this psalm hangs at the door, for the title tells us upon what occasion it was penned—when the inhabitants of Ziph, men of Judah (types of Judas the traitor), betrayed David to Saul, by informing him where… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-54|Matthew Henry Complete on Psalm 54]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 54 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Psalm 54 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-54|Matthew Henry Concise, Psalm 54]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-54|Matthew Henry Complete on Psalm 54]]
 
 ## Open questions
 

@@ -8,6 +8,7 @@
 * [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]] - Selective Complete-commentary deepening on hub chapters already in the concise atlas (Phase 3.5).
 * [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]] - Full-file Phase 4.1 coverage of Matthew Henry Complete volume 1: every chapter/preface file cited; matching passage atlas thickened.
 * [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]] - Full-file Phase 4.1 coverage of Matthew Henry Complete volume 2: every chapter/preface file cited; matching passage atlas thickened.
+* [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]] - Full-file Phase 4.1 coverage of Matthew Henry Complete volume 3: every chapter/preface file cited; matching passage atlas thickened.
 * [[wiki/source-notes/Matthew Henry Concise on 1 Chronicles|Matthew Henry Concise on 1 Chronicles]] - Book-level digest of Matthew Henry Concise 1 Chronicles (29 chapters) for the OT passage atlas (Phase 3.2).
 * [[wiki/source-notes/Matthew Henry Concise on 1 Corinthians|Matthew Henry Concise on 1 Corinthians]] - Book-level digest of Matthew Henry Concise 1 Corinthians (16 chapters) for the NT passage atlas.
 * [[wiki/source-notes/Matthew Henry Concise on 1 John|Matthew Henry Concise on 1 John]] - Book-level digest of Matthew Henry Concise 1 John (5 chapters) for the NT passage atlas.

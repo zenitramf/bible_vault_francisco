@@ -5,7 +5,7 @@ description: Cautions against rash suretiship. (1–5). A rebuke to slothfulness
 tags: [wisdom, holiness, discipleship, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 20
 bible_book_name: "Proverbs"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Proverbs 6: Cautions against rash suretiship. (1–5). 
 - If we live as directed by the word of God, we shall find it profitable even in this present world. We are stewards of our worldly substance, and have to answer to the Lord for our disposal of it; to waste it in rash schemes, or such plans as may entangle us in difficulties and temptations, is wrong. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-6#Verses 1–5|Matthew Henry Concise on Proverbs 6]]
 - If the slothful are to be condemned, who do nothing, much more those that do all the ill they can. Observe how such a man is described. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-6#Verses 12–19|Matthew Henry Concise on Proverbs 6]]
 - The word of God has something to say to us upon all occasions. Let not faithful reproofs ever make us uneasy. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-6#Verses 20–35|Matthew Henry Concise on Proverbs 6]]
+- In this chapter we have, I. A caution against rash suretiship, Pr 6:1-5. II. A rebuke to slothfulness, Pr 6:6-11. III. The character and fate of a malicious mischievous man, Pr 6:12-15. IV. An account of seven things… [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-6|Matthew Henry Complete on Proverbs 6]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Proverbs 6 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Proverbs 6 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/proverbs/chapter-6|Matthew Henry Concise, Proverbs 6]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-6|Matthew Henry Complete on Proverbs 6]]
 
 ## Open questions
 

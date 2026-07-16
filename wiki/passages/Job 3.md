@@ -5,7 +5,7 @@ description: Job complains that he was born. (1–10). Job complaining. (11–19
 tags: [wisdom, faith, prayer, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 3: Job complains that he was born. (1–10). Job co
 - For seven days Job's friends sat by him in silence, without offering consolidation: at the same time Satan assaulted his mind to shake his confidence, and to fill him with hard thoughts of God. The permission seems to have extended to this, as well as to torturing the body. [[sources/commentaries_english/mhenry-concise/job/chapter-3#Verses 1–10|Matthew Henry Concise on Job 3]]
 - Job complained of those present at his birth, for their tender attention to him. No creature comes into the world so helpless as man. [[sources/commentaries_english/mhenry-concise/job/chapter-3#Verses 11–19|Matthew Henry Concise on Job 3]]
 - Job was like a man who had lost his way, and had no prospect of escape, or hope of better times. But surely he was in an ill frame for death when so unwilling to live. [[sources/commentaries_english/mhenry-concise/job/chapter-3#Verses 20–26|Matthew Henry Concise on Job 3]]
+- "You have heard of the patience of Job," says the apostle, Jam 5:11. So we have, and of his impatience too. We wondered that a man should be so patient as he was (Job 1:1-2:13), but we wonder also that a good man… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-3|Matthew Henry Complete on Job 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Job 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-3|Matthew Henry Concise, Job 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-3|Matthew Henry Complete on Job 3]]
 
 ## Open questions
 

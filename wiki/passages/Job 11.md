@@ -5,7 +5,7 @@ description: Zophar reproves Job. (1–6). God's perfections and almighty power.
 tags: [wisdom, faith, prayer, justice, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 11: Zophar reproves Job. (1–6). God's perfections
 - Zophar attacked Job with great vehemence. He represented him as a man that loved to hear himself speak, though he could say nothing to the purpose, and as a man that maintained falsehoods. [[sources/commentaries_english/mhenry-concise/job/chapter-11#Verses 1–6|Matthew Henry Concise on Job 11]]
 - Zophar speaks well concerning God and his greatness and glory, concerning man and his vanity and folly. See here what man is; and let him be humbled. [[sources/commentaries_english/mhenry-concise/job/chapter-11#Verses 7–12|Matthew Henry Concise on Job 11]]
 - Zophar exhorts Job to repentance, and gives him encouragement, yet mixed with hard thoughts of him. He thought that worldly prosperity was always the lot of the righteous, and that Job was to be deemed a hypocrite unless his prosperity was restored. [[sources/commentaries_english/mhenry-concise/job/chapter-11#Verses 13–20|Matthew Henry Concise on Job 11]]
+- Poor Job's wound's were yet bleeding, his sore still runs and ceases not, but none of his friends bring him any oil, any balm; Zophar, the third, pours into them as much vinegar as the two former had done. I. He… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-11|Matthew Henry Complete on Job 11]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 11 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Job 11 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-11|Matthew Henry Concise, Job 11]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-11|Matthew Henry Complete on Job 11]]
 
 ## Open questions
 

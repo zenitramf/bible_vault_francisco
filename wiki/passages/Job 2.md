@@ -5,7 +5,7 @@ description: Satan obtains leave to try Job. (1–6). Job's sufferings. (7–10)
 tags: [wisdom, faith, prayer, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 18
 bible_book_name: "Job"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Job 2: Satan obtains leave to try Job. (1–6). Job's s
 - How well is it for us, that neither men nor devils are to be our judges! but all our judgment comes from the Lord, who never errs. [[sources/commentaries_english/mhenry-concise/job/chapter-2#Verses 1–6|Matthew Henry Concise on Job 2]]
 - The devil tempts his own children, and draws them to sin, and afterwards torments, when he has brought them to ruin; but this child of God he tormented with affliction, and then tempted to make a bad use of his affliction. He provoked Job to curse God. [[sources/commentaries_english/mhenry-concise/job/chapter-2#Verses 7–10|Matthew Henry Concise on Job 2]]
 - The friends of Job seem noted for their rank, as well as for wisdom and piety. Much of the comfort of this life lies in friendship with the prudent and virtuous. [[sources/commentaries_english/mhenry-concise/job/chapter-2#Verses 11–13|Matthew Henry Concise on Job 2]]
+- We left Job honourably acquitted upon a fair trial between God and Satan concerning him. Satan had leave to touch, to touch and take, all he had, and was confident that he would then curse God to his face; but, on the… [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-2|Matthew Henry Complete on Job 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Job 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Job 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/job/chapter-2|Matthew Henry Concise, Job 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/job/chapter-2|Matthew Henry Complete on Job 2]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Matthew Henry Concise on Proverbs 21.
 tags: [wisdom, holiness, discipleship, justice, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 20
 bible_book_name: "Proverbs"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Proverbs 21: Matthew Henry Concise on Proverbs 21.
 - The believer, perceiving that the Lord rules every heart as he sees fit, like the husbandman who turns the water through his grounds as he pleases, seeks to have his own heart, and the hearts of others, directed in his faith, fear, and love. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-21#Verse 1|Matthew Henry Concise on Proverbs 21]]
 - There is true pleasure only in the practice of religion. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-21#Verse 15|Matthew Henry Concise on Proverbs 21]]
 - Means are to be used, but, after all, our safety and salvation are only of the Lord. In our spiritual warfare we must arm ourselves with the whole armour of God; but our strength must be in the Lord, and in the power of his might. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-21#Verses 30, 31|Matthew Henry Concise on Proverbs 21]]
+- Note, 1. Even the hearts of men are in God's hand, and not only their goings, as he had said, Pr 20:24. God can change men's minds, can, by a powerful insensible operation under their spirits, turn them from that which… [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-21|Matthew Henry Complete on Proverbs 21]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Proverbs 21 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +49,7 @@ Primary scope: Proverbs 21 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/proverbs/chapter-21|Matthew Henry Concise, Proverbs 21]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-21|Matthew Henry Complete on Proverbs 21]]
 
 ## Open questions
 

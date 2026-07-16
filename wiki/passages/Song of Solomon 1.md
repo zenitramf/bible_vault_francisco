@@ -5,7 +5,7 @@ description: The title. (1) . The church confesses her deformity. (2-6) . The ch
 tags: [christ, covenant, worship, faith, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 22
 bible_book_name: "Song of Solomon"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Song of Solomon 1: The title. (1) . The church confesse
 - This is "the Song of songs," excellent above any others, for it is wholly taken up with describing the excellences of Christ, and the love between him and his redeemed people. [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-1#Verse 1|Matthew Henry Concise on Song of Solomon 1]]
 - Observe the title given to Christ, O Thou whom my soul loveth. Those that do so, may come to him boldly, and may humbly plead with him. [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-1#Verse 7,8|Matthew Henry Concise on Song of Solomon 1]]
 - The Bridegroom gives high praises of his spouse. In the sight of Christ believers are the excellent of the earth, fitted to be instruments for promoting his glory. [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-1#Verse 9-17|Matthew Henry Concise on Song of Solomon 1]]
+- In this chapter, after the title of the book (So 1:1), we have Christ and his church, Christ and a believer, expressing their esteem for each other. I. The bride, the church, speaks to the bridegroom (So 1:2-4), to the… [[sources/commentaries_english/mhenry-complete/volume-3/song-of-solomon/chapter-1|Matthew Henry Complete on Song of Solomon 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Song of Solomon 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: Song of Solomon 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/song-of-solomon/chapter-1|Matthew Henry Concise, Song of Solomon 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-3/song-of-solomon/chapter-1|Matthew Henry Complete on Song of Solomon 1]]
 
 ## Open questions
 
