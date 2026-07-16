@@ -64,12 +64,26 @@ Installs a pre-commit hook that runs `build`, `lint`, and `source-lint` (no embe
 
 ## Guarded qmd (do not replace)
 
+See also `.qmd/README.md` for collections, path normalization, and models policy.
+
 | Script | Purpose |
 |---|---|
 | `.qmd/bin/update-safe` | BM25 index refresh under memory/CPU limits |
 | `.qmd/bin/embed-wiki-safe` | Embed `bible-wiki` only under limits |
-| `.qmd/bin/semantic-wiki-safe` | Vector-only wiki query, no rerank |
+| `.qmd/bin/embed-notes-safe` | Optional embed of `bible-personal-notes` pilot only |
+| `.qmd/bin/semantic-wiki-safe` | Vector-only wiki query (`vec:`, no rerank) |
+| `.qmd/bin/semantic-notes-safe` | Vector-only personal-notes pilot query |
+| `.qmd/bin/search-wiki-safe` | Merge catalog + BM25 wiki + vector wiki hits |
 | `.qmd/bin/lint-wiki` | Complementary structural lint |
-| `.qmd/bin/benchmark-lexical` | Lexical retrieval baseline |
+| `.qmd/bin/benchmark-lexical` | Source BM25 fixture |
+| `.qmd/bin/benchmark-multilingual` | EN/ES lexical + wiki semantic fixture |
 
-Never run bare `qmd vsearch` or `qmd bench` on this server by default.
+```bash
+.qmd/bin/update-safe
+.qmd/bin/embed-wiki-safe
+.qmd/bin/search-wiki-safe "prayer and the Spirit" --json
+.qmd/bin/benchmark-lexical
+.qmd/bin/benchmark-multilingual
+```
+
+Never run bare `qmd vsearch` or `qmd bench` on this server by default. Do not embed full `bible-sources` without explicit approval. Query-expansion and rerank models are intentionally not used in routine ops.
