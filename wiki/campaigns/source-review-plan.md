@@ -59,13 +59,19 @@ Make the compiled wiki dense enough that ordinary biblical and pastoral question
 
 ## Phase order
 
-1. Operating system (this plan, tracker, core query suite).
-2. Personal notes (vault voice).
-3. mhenry-concise NT backbone (Romans first).
-4. Concept mesh and promotion to `developing`.
-5. Spurgeon as tension and application layer on hub passages.
-6. OT concise backbone (Genesis, Psalms, Isaiah, Proverbs…).
-7. Treasury of David for Psalms; FCB/MAE last.
+1. **Phase 0** — Operating system (this plan, tracker, core query suite).
+2. **Phase 1** — Personal notes (vault voice).
+3. **Phase 2** — mhenry-concise NT backbone (complete).
+4. **Phase 3** — Remaining source ingest (all other material), in tracker sub-phases:
+   - **3.1** mhenry-concise OT priority (Genesis, Psalms, Isaiah, Proverbs)
+   - **3.2** mhenry-concise OT remainder (all other OT books)
+   - **3.3** Spurgeon sermons as theme/hub batches (not sequential)
+   - **3.4** Treasury of David (Psalm / volume)
+   - **3.5** mhenry-complete hub deepening (on demand)
+   - **3.6** FCB / MAE month batches (last among devotionals)
+   - **3.7** articles / books / transcripts when present; new `raw/` drops
+   - **3.8** Concept mesh checkpoint (continuous during 3.1–3.7)
+5. **Phase 4+** — QA polish: query-suite smokes, second-pass concept `reviewed`, lint sweeps.
 
 ## Anti-goals
 
