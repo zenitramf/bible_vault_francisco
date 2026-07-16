@@ -267,3 +267,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.4 FCB 100%
 
 - All FCB months + root reviewed; source-coverage --path chspurgeon-fcb --require-zero OK.
+
+## [2026-07-16] campaign | Phase 4.5 MAE January
+
+- Month source-note for MAE January (31 files). --require-zero OK.
