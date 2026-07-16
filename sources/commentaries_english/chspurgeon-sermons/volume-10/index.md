@@ -2,63 +2,63 @@
 
 # Contents
 
-* [Sermon 547 | Suffering And Reigning With Jesus](sermon_547.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 548 | Forward! Forward! Forward!](sermon_548.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 549 | A Desperate Case—How to Meet It](sermon_549.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 550 | The Ship on Fire—a Voice of Warning](sermon_550.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 551 | Faith and Life](sermon_551.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 552 | Do You Know Him?](sermon_552.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 553 | Election no Discouragement to Seeking Souls](sermon_553.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 554 | Enduring to the End](sermon_554.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 555 | Nothing But Leaves](sermon_555.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 556 | The Sinner's Friend](sermon_556.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 557 | Where to Find Fruit](sermon_557.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 558 | A Bundle of Myrrh](sermon_558.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 559 | The Cripple at Lystra](sermon_559.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 560 | Christ is Glorious—Let Us Make Him Known](sermon_560.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 561 | Expiation](sermon_561.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 562 | \"Alas For Us, If Thou Wert All, and Nought Beyond, O Earth\"](sermon_562.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 563 | The Barley Field on Fire](sermon_563.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 564 | A Promise For Us And For Our Children](sermon_564.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 565 | The Great Liberator](sermon_565.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 566 | General And Yet Particular](sermon_566.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 567 | Labor In Vain](sermon_567.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 568 | What God Cannot Do!](sermon_568.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 569 | The Arrows Of The Lord's Deliverance](sermon_569.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 570 | The First Five Disciples](sermon_570.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 571 | Unbelievers Stumbling—Believers Rejoicing](sermon_571.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 572 | Laus Deo](sermon_572.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 573 | Baptismal Regeneration](sermon_573.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 574 | The Superlative Excellence Of The Holy Spirit](sermon_574.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 575 | The Pierced One Pierces The Heart](sermon_575.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 576 | Quiet Musing!](sermon_576.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 577 | Let Us Go Forth](sermon_577.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 578 | A Bad Excuse Is Worse Than None](sermon_578.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 579 | God Pleading For Saints, And Saints Pleading For God](sermon_579.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 580 | God Is With Us](sermon_580.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 581 | Children Brought to Christ, and Not to the Font](sermon_581.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 582 | The Restoration And Conversion Of The Jews](sermon_582.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 583 | The Lamb—The Light](sermon_583.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 584 | A Hearer In Disguise](sermon_584.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 585 | A Mystery! Saints Sorrowing and Jesus Glad!](sermon_585.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 586 | The Child Samuel's Prayer](sermon_586.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 587 | God's Strange Choice](sermon_587.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 588 | The Prodigal's Reception](sermon_588.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 589 | Jesus Meeting His Warriors](sermon_589.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 590 | The Backslider's Way Hedged Up](sermon_590.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 591 | \"Thus Saith The Lord:\" Or, The Book of Common Prayer Weighed in the Balances of the Sanctuary](sermon_591.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 592 | The True Position Of Assurance](sermon_592.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 593 | Inward Conflicts](sermon_593.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 594 | An Awful Premonition](sermon_594.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 595 | Barabbas Preferred To Jesus](sermon_595.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 596 | Praying And Waiting](sermon_596.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 597 | Preparation for Revival](sermon_597.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 598 | Two Visions](sermon_598.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 599 | The Certainty And Freeness Of Divine Grace](sermon_599.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 600 | The Centurion—Or An Exhortation To The Virtuous](sermon_600.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 601 | A Solemn Enquiry Concerning Our Families](sermon_601.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 602 | The Smoke Of Their Torments](sermon_602.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 603 | Now](sermon_603.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 604 | The Man With The Measuring Line](sermon_604.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 605 | Good Works In Good Company](sermon_605.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 606 | Mary's Song](sermon_606.md) - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_547|Sermon 547 | Suffering And Reigning With Jesus]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_548|Sermon 548 | Forward! Forward! Forward!]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_549|Sermon 549 | A Desperate Case—How to Meet It]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_550|Sermon 550 | The Ship on Fire—a Voice of Warning]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_551|Sermon 551 | Faith and Life]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_552|Sermon 552 | Do You Know Him?]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_553|Sermon 553 | Election no Discouragement to Seeking Souls]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_554|Sermon 554 | Enduring to the End]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_555|Sermon 555 | Nothing But Leaves]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_556|Sermon 556 | The Sinner's Friend]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_557|Sermon 557 | Where to Find Fruit]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_558|Sermon 558 | A Bundle of Myrrh]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_559|Sermon 559 | The Cripple at Lystra]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_560|Sermon 560 | Christ is Glorious—Let Us Make Him Known]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_561|Sermon 561 | Expiation]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_562|Sermon 562 | \"Alas For Us, If Thou Wert All, and Nought Beyond, O Earth\"]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_563|Sermon 563 | The Barley Field on Fire]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_564|Sermon 564 | A Promise For Us And For Our Children]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_565|Sermon 565 | The Great Liberator]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_566|Sermon 566 | General And Yet Particular]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_567|Sermon 567 | Labor In Vain]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_568|Sermon 568 | What God Cannot Do!]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_569|Sermon 569 | The Arrows Of The Lord's Deliverance]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_570|Sermon 570 | The First Five Disciples]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_571|Sermon 571 | Unbelievers Stumbling—Believers Rejoicing]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_572|Sermon 572 | Laus Deo]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_573|Sermon 573 | Baptismal Regeneration]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_574|Sermon 574 | The Superlative Excellence Of The Holy Spirit]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_575|Sermon 575 | The Pierced One Pierces The Heart]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_576|Sermon 576 | Quiet Musing!]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_577|Sermon 577 | Let Us Go Forth]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_578|Sermon 578 | A Bad Excuse Is Worse Than None]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_579|Sermon 579 | God Pleading For Saints, And Saints Pleading For God]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_580|Sermon 580 | God Is With Us]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_581|Sermon 581 | Children Brought to Christ, and Not to the Font]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_582|Sermon 582 | The Restoration And Conversion Of The Jews]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_583|Sermon 583 | The Lamb—The Light]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_584|Sermon 584 | A Hearer In Disguise]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_585|Sermon 585 | A Mystery! Saints Sorrowing and Jesus Glad!]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_586|Sermon 586 | The Child Samuel's Prayer]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_587|Sermon 587 | God's Strange Choice]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_588|Sermon 588 | The Prodigal's Reception]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_589|Sermon 589 | Jesus Meeting His Warriors]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_590|Sermon 590 | The Backslider's Way Hedged Up]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_591|Sermon 591 | \"Thus Saith The Lord:\" Or, The Book of Common Prayer Weighed in the Balances of the Sanctuary]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_592|Sermon 592 | The True Position Of Assurance]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_593|Sermon 593 | Inward Conflicts]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_594|Sermon 594 | An Awful Premonition]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_595|Sermon 595 | Barabbas Preferred To Jesus]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_596|Sermon 596 | Praying And Waiting]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_597|Sermon 597 | Preparation for Revival]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_598|Sermon 598 | Two Visions]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_599|Sermon 599 | The Certainty And Freeness Of Divine Grace]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_600|Sermon 600 | The Centurion—Or An Exhortation To The Virtuous]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_601|Sermon 601 | A Solemn Enquiry Concerning Our Families]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_602|Sermon 602 | The Smoke Of Their Torments]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_603|Sermon 603 | Now]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_604|Sermon 604 | The Man With The Measuring Line]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_605|Sermon 605 | Good Works In Good Company]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-10/sermon_606|Sermon 606 | Mary's Song]] - A sermon by Charles H. Spurgeon.

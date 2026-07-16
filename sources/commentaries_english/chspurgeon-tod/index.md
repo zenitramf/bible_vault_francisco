@@ -2,10 +2,10 @@
 
 # Contents
 
-* [Volume 1](volume-1/) - Contains 27 concepts.
-* [Volume 2](volume-2/) - Contains 27 concepts.
-* [Volume 3](volume-3/) - Contains 27 concepts.
-* [Volume 4](volume-4/) - Contains 26 concepts.
-* [Volume 5](volume-5/) - Contains 16 concepts.
-* [Volume 6](volume-6/) - Contains 6 concepts and 1 subdirectory.
-* [Volume 7](volume-7/) - Contains 27 concepts.
+* [[sources/commentaries_english/chspurgeon-tod/volume-1/index|Volume 1]] - Contains 27 concepts.
+* [[sources/commentaries_english/chspurgeon-tod/volume-2/index|Volume 2]] - Contains 27 concepts.
+* [[sources/commentaries_english/chspurgeon-tod/volume-3/index|Volume 3]] - Contains 27 concepts.
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/index|Volume 4]] - Contains 26 concepts.
+* [[sources/commentaries_english/chspurgeon-tod/volume-5/index|Volume 5]] - Contains 16 concepts.
+* [[sources/commentaries_english/chspurgeon-tod/volume-6/index|Volume 6]] - Contains 6 concepts and 1 subdirectory.
+* [[sources/commentaries_english/chspurgeon-tod/volume-7/index|Volume 7]] - Contains 27 concepts.

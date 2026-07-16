@@ -103,3 +103,9 @@ append_only: true
 ## [2026-07-16] campaign | Phase 3 complete (3.1–3.8)
 
 - Phase 3.2: 631 OT remainder chapters + 35 book source-notes. 3.3: 5 Spurgeon theme batches. 3.4: 7 ToD volume notes + hub Psalms thickened. 3.5: Complete hub deepening (10 hubs). 3.6: FCB/MAE theme enrichment notes. 3.7: empty trees waiting. 3.8: concept mesh (Justification/Justice developing). Full OT concise atlas (39 books). No embedding.
+
+## [2026-07-16] lint | Obsidian wikilink normalization
+
+- Converted vault-internal Markdown links in navigation and wiki pages to Obsidian wikilinks.
+- Updated `wiki_tool.py` to generate and lint Obsidian-style internal links.
+- Validation passed: `doctor`, `lint`, `source-lint`, `audit_public`, `.qmd/bin/lint-wiki`.

@@ -2,55 +2,55 @@
 
 # Contents
 
-* [Sermon 2968 | \"His Great Love\"](sermon_2968.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2969 | Angelic Protection in Appointed Ways](sermon_2969.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2970 | God's Jewels](sermon_2970.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2971 | The Right Kind of Fear](sermon_2971.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2972 | Forgiveness](sermon_2972.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2973 | Thought Condemned, Yet Commanded](sermon_2973.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2974 | A Wafer of Honey](sermon_2974.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2975 | Forgetting God](sermon_2975.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2976 | Order Is Heaven's First Law](sermon_2976.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2977 | Plowing Rock](sermon_2977.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2978 | Power With God](sermon_2978.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2979 | Our Banner](sermon_2979.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2980 | A Lift for the Prostrate](sermon_2980.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2981 | The Safeguards of Forgiveness](sermon_2981.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2982 | The Memorable Hymn](sermon_2982.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2983 | A Wonderful Transformation](sermon_2983.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2984 | A Silly Dove](sermon_2984.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2985 | Messages to Sinners and Saints](sermon_2985.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2986 | One Aspect of Christ's Death](sermon_2986.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2987 | The \"Beau Ideal\" of Life](sermon_2987.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2988 | Great Pardon for Great Sin](sermon_2988.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2989 | Near the Kingdom, or in It?](sermon_2989.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2990 | The Believer Not An Orphan](sermon_2990.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2991 | What We Have, and Are to Have](sermon_2991.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2992 | God's Writing Upon Man's Heart](sermon_2992.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2993 | \"That King Ahaz\"](sermon_2993.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2994 | Jude's Doxology](sermon_2994.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2995 | Very Singular](sermon_2995.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2996 | Enquiring of God](sermon_2996.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2997 | \"Tempted of the Devil\"](sermon_2997.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2998 | The Rule of Christ](sermon_2998.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2999 | Railings](sermon_2999.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3000 | COME AND WELCOME](sermon_3000.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3001 | The Vision of the Field](sermon_3001.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3002 | The Best Thing in the Best Place](sermon_3002.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3003 | A Vivid Contrast](sermon_3003.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3004 | The Christian's Manifestation](sermon_3004.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3005 | Silken Cords](sermon_3005.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3006 | \"The Lord Is My Shepherd\"](sermon_3006.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3007 | Gadding About](sermon_3007.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3008 | An All-important Question](sermon_3008.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3009 | Our Champion](sermon_3009.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3010 | Jacob's Model Prayer](sermon_3010.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3011 | Faith First, Confession Following](sermon_3011.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3012 | God Comforting His People](sermon_3012.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3013 | Warning and Encouragement](sermon_3013.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3014 | A Sermon From a Sick Preacher](sermon_3014.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3015 | The Two Debtors](sermon_3015.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3016 | Good Cheer From Forgiven Sin](sermon_3016.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3017 | Seeing God's Goodness Here](sermon_3017.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3018 | The True Lineage](sermon_3018.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3019 | The Hungry Filled, the Rich Emptied](sermon_3019.md) - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2968|Sermon 2968 | \"His Great Love\"]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2969|Sermon 2969 | Angelic Protection in Appointed Ways]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2970|Sermon 2970 | God's Jewels]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2971|Sermon 2971 | The Right Kind of Fear]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2972|Sermon 2972 | Forgiveness]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2973|Sermon 2973 | Thought Condemned, Yet Commanded]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2974|Sermon 2974 | A Wafer of Honey]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2975|Sermon 2975 | Forgetting God]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2976|Sermon 2976 | Order Is Heaven's First Law]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2977|Sermon 2977 | Plowing Rock]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2978|Sermon 2978 | Power With God]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2979|Sermon 2979 | Our Banner]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2980|Sermon 2980 | A Lift for the Prostrate]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2981|Sermon 2981 | The Safeguards of Forgiveness]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2982|Sermon 2982 | The Memorable Hymn]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2983|Sermon 2983 | A Wonderful Transformation]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2984|Sermon 2984 | A Silly Dove]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2985|Sermon 2985 | Messages to Sinners and Saints]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2986|Sermon 2986 | One Aspect of Christ's Death]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2987|Sermon 2987 | The \"Beau Ideal\" of Life]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2988|Sermon 2988 | Great Pardon for Great Sin]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2989|Sermon 2989 | Near the Kingdom, or in It?]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2990|Sermon 2990 | The Believer Not An Orphan]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2991|Sermon 2991 | What We Have, and Are to Have]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2992|Sermon 2992 | God's Writing Upon Man's Heart]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2993|Sermon 2993 | \"That King Ahaz\"]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2994|Sermon 2994 | Jude's Doxology]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2995|Sermon 2995 | Very Singular]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2996|Sermon 2996 | Enquiring of God]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2997|Sermon 2997 | \"Tempted of the Devil\"]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2998|Sermon 2998 | The Rule of Christ]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_2999|Sermon 2999 | Railings]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3000|Sermon 3000 | COME AND WELCOME]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3001|Sermon 3001 | The Vision of the Field]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3002|Sermon 3002 | The Best Thing in the Best Place]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3003|Sermon 3003 | A Vivid Contrast]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3004|Sermon 3004 | The Christian's Manifestation]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3005|Sermon 3005 | Silken Cords]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3006|Sermon 3006 | \"The Lord Is My Shepherd\"]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3007|Sermon 3007 | Gadding About]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3008|Sermon 3008 | An All-important Question]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3009|Sermon 3009 | Our Champion]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3010|Sermon 3010 | Jacob's Model Prayer]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3011|Sermon 3011 | Faith First, Confession Following]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3012|Sermon 3012 | God Comforting His People]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3013|Sermon 3013 | Warning and Encouragement]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3014|Sermon 3014 | A Sermon From a Sick Preacher]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3015|Sermon 3015 | The Two Debtors]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3016|Sermon 3016 | Good Cheer From Forgiven Sin]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3017|Sermon 3017 | Seeing God's Goodness Here]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3018|Sermon 3018 | The True Lineage]] - A sermon by Charles H. Spurgeon.
+* [[sources/commentaries_english/chspurgeon-sermons/volume-52/sermon_3019|Sermon 3019 | The Hungry Filled, the Rich Emptied]] - A sermon by Charles H. Spurgeon.

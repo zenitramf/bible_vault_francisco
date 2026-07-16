@@ -67,4 +67,4 @@ Prefer full-path Obsidian wikilinks for vault-internal evidence because short fi
 [[wiki/concepts/Prayer|Prayer]]
 ```
 
-OKF also allows standard markdown links (`[title](/path.md)`). When writing new markdown links, prefer bundle-root-relative paths. Do not invent citations.
+Although OKF consumers may tolerate standard Markdown links, this vault uses Obsidian wikilinks for vault-internal targets and reserves standard Markdown links for external URLs. Use full, bundle-root-relative wikilink targets when filenames may collide. Do not invent citations.

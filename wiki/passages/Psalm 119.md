@@ -22,7 +22,7 @@ Matthew Henry Concise on Psalm 119: Matthew Henry Concise on Psalm 119.
 - The settling of God's word in heaven, is opposed to the changes and revolutions of the earth. And the engagements of God's covenant are established more firmly than the earth itself. [[sources/commentaries_english/mhenry-concise/psalms/psalm-119#Verses 89–96|Matthew Henry Concise on Psalm 119]]
 - The psalmist desired grace and strength to lift up his prayers, and that the Lord would receive and notice them. He desired to know more of God in Christ; to know more of the doctrines of the word, and the duties of religion. [[sources/commentaries_english/mhenry-concise/psalms/psalm-119#Verses 169–176|Matthew Henry Concise on Psalm 119]]
 
-- [Psalm 119 Verses 1-8 | The Treasury of David](verses-1-8.md) - > [Psalm 119 Verses 9-16 | The Treasury of David](verses-9-16.md) - > [Psalm 119 Verses 17-24 | The Treasury of David](verses-17-24.md) - > [Psalm 119 Verses 25-32 | The Treasury of David](verses-25-32.md) - >… [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/index|Spurgeon, Treasury of David on Psalm 119]]
+- Spurgeon's *Treasury of David* treats Psalm 119 in verse-range sections; the source index links the sequence from verses 1–8 through 169–176. [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/index|Spurgeon, Treasury of David on Psalm 119]]
 
 ## Agreements and tensions
 

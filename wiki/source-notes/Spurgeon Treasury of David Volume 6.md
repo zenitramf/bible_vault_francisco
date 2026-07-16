@@ -19,9 +19,8 @@ Intentional **volume** ingest of Spurgeon's *Treasury of David* covering roughly
 
 ## Core claims
 
-- [Psalm 119 Verses 1-8 | The Treasury of David](verses-1-8.md) - [Psalm 119 Verses 9-16 | The Treasury of David](verses-9-16.md) - [Psalm 119 Verses 17-24 | The Treasury of David](verses-17-24.md) - [Psalm 119 Verses 25-32 | The Treasury of David](verses-25-32.md) - [Psalm 119… [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/index|Treasury of David, Psalm 119]]
-- [Psalm 119 Verses 1-8 | The Treasury of David](verses-1-8.md) - [Psalm 119 Verses 9-16 | The Treasury of David](verses-9-16.md) - [Psalm 119 Verses 17-24 | The Treasury of David](verses-17-24.md) - [Psalm 119 Verses 25-32 | The Treasury of David](verses-25-32.md) - [Psalm 119… [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/index|Treasury of David, Psalm 119]]
-- [Psalm 119 Verses 1-8 | The Treasury of David](verses-1-8.md) - [Psalm 119 Verses 9-16 | The Treasury of David](verses-9-16.md) - [Psalm 119 Verses 17-24 | The Treasury of David](verses-17-24.md) - [Psalm 119 Verses 25-32 | The Treasury of David](verses-25-32.md) - [Psalm 119… [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/index|Treasury of David, Psalm 119]]
+- Volume 6's strongest current wiki integration is Psalm 119, where Spurgeon organizes the psalm into verse-range source files from 1–8 through 169–176. [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/index|Treasury of David, Psalm 119]]
+- The first Psalm 119 units already available for close reading include [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/verses-1-8|verses 1–8]], [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/verses-9-16|verses 9–16]], [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/verses-17-24|verses 17–24]], and [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/verses-25-32|verses 25–32]]. [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/index|Treasury of David, Psalm 119]]
 
 ## Agreements and tensions
 

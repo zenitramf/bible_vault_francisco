@@ -2,69 +2,69 @@
 
 # Contents
 
-* [1 Chronicles](1-chronicles/) - 1 Chronicles — commentary collection.
-* [1 Corinthians](1-corinthians/) - 1 Corinthians — commentary collection.
-* [1 John](1-john/) - 1 John — commentary collection.
-* [1 Kings](1-kings/) - 1 Kings — commentary collection.
-* [1 Peter](1-peter/) - 1 Peter — commentary collection.
-* [1 Samuel](1-samuel/) - 1 Samuel — commentary collection.
-* [1 Thessalonians](1-thessalonians/) - 1 Thessalonians — commentary collection.
-* [1 Timothy](1-timothy/) - 1 Timothy — commentary collection.
-* [2 Chronicles](2-chronicles/) - 2 Chronicles — commentary collection.
-* [2 Corinthians](2-corinthians/) - 2 Corinthians — commentary collection.
-* [2 John](2-john/) - 2 John — commentary collection.
-* [2 Kings](2-kings/) - 2 Kings — commentary collection.
-* [2 Peter](2-peter/) - 2 Peter — commentary collection.
-* [2 Samuel](2-samuel/) - 2 Samuel — commentary collection.
-* [2 Thessalonians](2-thessalonians/) - 2 Thessalonians — commentary collection.
-* [2 Timothy](2-timothy/) - 2 Timothy — commentary collection.
-* [3 John](3-john/) - 3 John — commentary collection.
-* [Acts](acts/) - Acts — commentary collection.
-* [Amos](amos/) - Amos — commentary collection.
-* [Colossians](colossians/) - Colossians — commentary collection.
-* [Daniel](daniel/) - Daniel — commentary collection.
-* [Deuteronomy](deuteronomy/) - Deuteronomy — commentary collection.
-* [Ecclesiastes](ecclesiastes/) - Ecclesiastes — commentary collection.
-* [Ephesians](ephesians/) - Ephesians — commentary collection.
-* [Esther](esther/) - Esther — commentary collection.
-* [Exodus](exodus/) - Exodus — commentary collection.
-* [Ezekiel](ezekiel/) - Ezekiel — commentary collection.
-* [Ezra](ezra/) - Ezra — commentary collection.
-* [Galatians](galatians/) - Galatians — commentary collection.
-* [Genesis](genesis/) - Genesis — commentary collection.
-* [Habakkuk](habakkuk/) - Habakkuk — commentary collection.
-* [Haggai](haggai/) - Haggai — commentary collection.
-* [Hebrews](hebrews/) - Hebrews — commentary collection.
-* [Hosea](hosea/) - Hosea — commentary collection.
-* [Isaiah](isaiah/) - Isaiah — commentary collection.
-* [James](james/) - James — commentary collection.
-* [Jeremiah](jeremiah/) - Jeremiah — commentary collection.
-* [Job](job/) - Job — commentary collection.
-* [Joel](joel/) - Joel — commentary collection.
-* [John](john/) - John — commentary collection.
-* [Jonah](jonah/) - Jonah — commentary collection.
-* [Joshua](joshua/) - Joshua — commentary collection.
-* [Jude](jude/) - Jude — commentary collection.
-* [Judges](judges/) - Judges — commentary collection.
-* [Lamentations](lamentations/) - Lamentations — commentary collection.
-* [Leviticus](leviticus/) - Leviticus — commentary collection.
-* [Luke](luke/) - Luke — commentary collection.
-* [Malachi](malachi/) - Malachi — commentary collection.
-* [Mark](mark/) - Mark — commentary collection.
-* [Matthew](matthew/) - Matthew — commentary collection.
-* [Micah](micah/) - Micah — commentary collection.
-* [Nahum](nahum/) - Nahum — commentary collection.
-* [Nehemiah](nehemiah/) - Nehemiah — commentary collection.
-* [Numbers](numbers/) - Numbers — commentary collection.
-* [Obadiah](obadiah/) - Obadiah — commentary collection.
-* [Philemon](philemon/) - Philemon — commentary collection.
-* [Philippians](philippians/) - Philippians — commentary collection.
-* [Proverbs](proverbs/) - Proverbs — commentary collection.
-* [Psalms](psalms/) - Psalms — commentary collection.
-* [Revelation](revelation/) - Revelation — commentary collection.
-* [Romans](romans/) - Romans — commentary collection.
-* [Ruth](ruth/) - Ruth — commentary collection.
-* [Song Of Solomon](song-of-solomon/) - Song Of Solomon — commentary collection.
-* [Titus](titus/) - Titus — commentary collection.
-* [Zechariah](zechariah/) - Zechariah — commentary collection.
-* [Zephaniah](zephaniah/) - Zephaniah — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/1-chronicles/index|1 Chronicles]] - 1 Chronicles — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/1-corinthians/index|1 Corinthians]] - 1 Corinthians — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/1-john/index|1 John]] - 1 John — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/1-kings/index|1 Kings]] - 1 Kings — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/1-peter/index|1 Peter]] - 1 Peter — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/1-samuel/index|1 Samuel]] - 1 Samuel — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/1-thessalonians/index|1 Thessalonians]] - 1 Thessalonians — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/1-timothy/index|1 Timothy]] - 1 Timothy — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/2-chronicles/index|2 Chronicles]] - 2 Chronicles — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/2-corinthians/index|2 Corinthians]] - 2 Corinthians — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/2-john/index|2 John]] - 2 John — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/2-kings/index|2 Kings]] - 2 Kings — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/2-peter/index|2 Peter]] - 2 Peter — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/2-samuel/index|2 Samuel]] - 2 Samuel — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/2-thessalonians/index|2 Thessalonians]] - 2 Thessalonians — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/2-timothy/index|2 Timothy]] - 2 Timothy — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/3-john/index|3 John]] - 3 John — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/acts/index|Acts]] - Acts — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/amos/index|Amos]] - Amos — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/colossians/index|Colossians]] - Colossians — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/daniel/index|Daniel]] - Daniel — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/deuteronomy/index|Deuteronomy]] - Deuteronomy — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/ecclesiastes/index|Ecclesiastes]] - Ecclesiastes — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/ephesians/index|Ephesians]] - Ephesians — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/esther/index|Esther]] - Esther — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/exodus/index|Exodus]] - Exodus — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/ezekiel/index|Ezekiel]] - Ezekiel — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/ezra/index|Ezra]] - Ezra — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/galatians/index|Galatians]] - Galatians — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/genesis/index|Genesis]] - Genesis — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/habakkuk/index|Habakkuk]] - Habakkuk — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/haggai/index|Haggai]] - Haggai — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/hebrews/index|Hebrews]] - Hebrews — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/hosea/index|Hosea]] - Hosea — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/isaiah/index|Isaiah]] - Isaiah — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/james/index|James]] - James — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/jeremiah/index|Jeremiah]] - Jeremiah — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/job/index|Job]] - Job — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/joel/index|Joel]] - Joel — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/john/index|John]] - John — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/jonah/index|Jonah]] - Jonah — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/joshua/index|Joshua]] - Joshua — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/jude/index|Jude]] - Jude — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/judges/index|Judges]] - Judges — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/lamentations/index|Lamentations]] - Lamentations — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/leviticus/index|Leviticus]] - Leviticus — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/luke/index|Luke]] - Luke — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/malachi/index|Malachi]] - Malachi — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/mark/index|Mark]] - Mark — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/matthew/index|Matthew]] - Matthew — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/micah/index|Micah]] - Micah — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/nahum/index|Nahum]] - Nahum — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/nehemiah/index|Nehemiah]] - Nehemiah — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/numbers/index|Numbers]] - Numbers — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/obadiah/index|Obadiah]] - Obadiah — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/philemon/index|Philemon]] - Philemon — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/philippians/index|Philippians]] - Philippians — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/proverbs/index|Proverbs]] - Proverbs — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/psalms/index|Psalms]] - Psalms — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/revelation/index|Revelation]] - Revelation — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/romans/index|Romans]] - Romans — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/ruth/index|Ruth]] - Ruth — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/song-of-solomon/index|Song Of Solomon]] - Song Of Solomon — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/titus/index|Titus]] - Titus — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/zechariah/index|Zechariah]] - Zechariah — commentary collection.
+* [[sources/commentaries_english/mhenry-concise/zephaniah/index|Zephaniah]] - Zephaniah — commentary collection.

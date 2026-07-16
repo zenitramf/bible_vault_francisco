@@ -2,29 +2,29 @@
 
 # Contents
 
-* [Preface - Volume Four | Read the Treasury of David, Commentary on the Psalms Online](preface.md) - >
-* [Psalm 79 | The Treasury of David](psalm-79.md) - >
-* [Psalm 80 | The Treasury of David](psalm-80.md) - >
-* [Psalm 81 | The Treasury of David](psalm-81.md) - >
-* [Psalm 82 | The Treasury of David](psalm-82.md) - >
-* [Psalm 83 | The Treasury of David](psalm-83.md) - >
-* [Psalm 84 | The Treasury of David](psalm-84.md) - >
-* [Psalm 85 | The Treasury of David](psalm-85.md) - >
-* [Psalm 86 | The Treasury of David](psalm-86.md) - >
-* [Psalm 87 | The Treasury of David](psalm-87.md) - >
-* [Psalm 88 | The Treasury of David](psalm-88.md) - >
-* [Psalm 89 | The Treasury of David](psalm-89.md) - >
-* [Psalm 90 | The Treasury of David](psalm-90.md) - >
-* [Psalm 91 | The Treasury of David](psalm-91.md) - >
-* [Psalm 92 | The Treasury of David](psalm-92.md) - >
-* [Psalm 93 | The Treasury of David](psalm-93.md) - >
-* [Psalm 94 | The Treasury of David](psalm-94.md) - >
-* [Psalm 95 | The Treasury of David](psalm-95.md) - >
-* [Psalm 96 | The Treasury of David](psalm-96.md) - >
-* [Psalm 97 | The Treasury of David](psalm-97.md) - >
-* [Psalm 98 | The Treasury of David](psalm-98.md) - >
-* [Psalm 99 | The Treasury of David](psalm-99.md) - >
-* [Psalm 100 | The Treasury of David](psalm-100.md) - >
-* [Psalm 101 | The Treasury of David](psalm-101.md) - >
-* [Psalm 102 | The Treasury of David](psalm-102.md) - >
-* [Psalm 103 | The Treasury of David](psalm-103.md) - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/preface|Preface - Volume Four | Read the Treasury of David, Commentary on the Psalms Online]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-79|Psalm 79 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-80|Psalm 80 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-81|Psalm 81 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-82|Psalm 82 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-83|Psalm 83 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-84|Psalm 84 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-85|Psalm 85 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-86|Psalm 86 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-87|Psalm 87 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-88|Psalm 88 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-89|Psalm 89 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-90|Psalm 90 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-91|Psalm 91 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-92|Psalm 92 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-93|Psalm 93 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-94|Psalm 94 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-95|Psalm 95 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-96|Psalm 96 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-97|Psalm 97 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-98|Psalm 98 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-99|Psalm 99 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-100|Psalm 100 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-101|Psalm 101 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-102|Psalm 102 | The Treasury of David]] - >
+* [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-103|Psalm 103 | The Treasury of David]] - >

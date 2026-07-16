@@ -51,7 +51,7 @@ SSH_PRIV = re.compile(r"(?i)BEGIN OPENSSH PRIVATE KEY")
 
 
 def should_scan(path: Path) -> bool:
-    if any(part in SKIP_DIR_PARTS for part in path.parts):
+    if any(part in SKIP_DIR_PARTS or part.startswith("venv-") for part in path.parts):
         return False
     if path.suffix.lower() in SKIP_SUFFIXES:
         return False
