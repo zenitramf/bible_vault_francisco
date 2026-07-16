@@ -5,7 +5,7 @@ description: An exhortation to praise God. (1-9).
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 113: An exhortation to praise God. (1-9).
 
 - God has praise from his own people. They have most reason to praise him; for those who attend him as his servants, know him best, and receive most of his favours, and it is easy, pleasant work to speak well of their Master. [[sources/commentaries_english/mhenry-concise/psalms/psalm-113#Verses 1-9|Matthew Henry Concise on Psalm 113]]
 - This psalm begins and ends with "Hallelujah;" for, as many others, it is designed to promote the great and good work of praising God. I. We are here called upon and urged to praise God, Ps 113:1-3. II. We are here… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-113|Matthew Henry Complete on Psalm 113]]
+- Title & Subject — This Psalm is one of pure praise, and contains but little which requires exposition; a warm heart full of admiring adoration of the Most High will best of all comprehend this sacred hymn. Its subject… [[sources/commentaries_english/chspurgeon-tod/volume-5/psalm-113|Treasury of David, Psalm 113]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 113 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 5|Spurgeon Treasury of David Volume 5]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -49,6 +54,7 @@ Primary scope: Psalm 113 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-113|Matthew Henry Concise, Psalm 113]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-113|Matthew Henry Complete on Psalm 113]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-5/psalm-113|Treasury of David, Psalm 113]]
 
 ## Open questions
 
