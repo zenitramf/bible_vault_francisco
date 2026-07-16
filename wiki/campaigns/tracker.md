@@ -223,7 +223,7 @@ Thicken the existing concise passage atlas with Complete on every matching chapt
 | Volume 4 (Isa–Mal) | reviewed | 251 | Complete vol source-note + passage thickens; 0 uncovered |
 | Volume 5 (Gospels) | reviewed | 90 | Complete vol source-note + passage thickens; 0 uncovered |
 | Volume 6 (Acts–Rev) | reviewed | 172 | Complete vol source-note + passage thickens; 0 uncovered |
-| **4.1 Complete 100%** | **pending** | **~1,189** | Gate: 0 uncovered under `mhenry-complete/` |
+| **4.1 Complete 100%** | **reviewed** | **1,195** | Gate: 0 uncovered under `mhenry-complete/` |
 
 ### 4.2 — Treasury of David (every psalm file)
 
