@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Holiness
 description: Conformity to the holy God who calls and sanctifies his people through truth (1 Pet 1; Jn 17:17; Heb 10:14).
 tags: [holiness, christ, salvation, christian-life]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 5
 ---
@@ -41,8 +41,6 @@ Key loci: 1 Peter 1:13–21; John 17:17; Hebrews 10:14; Romans 6; Romans 8:1–1
 ## Related pages
 
 - [[wiki/concepts/Repentance|Repentance]]
-
-- [[wiki/source-notes/Spurgeon Morning and Evening — January|Spurgeon Morning and Evening — January]]
 
 - [[wiki/source-notes/Matthew Henry Concise on 1 Peter|Matthew Henry Concise on 1 Peter]]
 

@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Christ-Centered Ministry
 description: Ministry put into men by Christ, focused on his worth and gospel, enabled by his sufficiency, and exercised as faithful stewardship (1 Tim 1:12; 2 Cor 3:5; 12:9–10).
 tags: [christ, pastoral-ministry, discipleship]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 5
 ---

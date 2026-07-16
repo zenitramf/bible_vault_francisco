@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Covenant
 description: God-initiated relationship sealed by promise and obligation, with Christ as mediator of the new covenant (Gen 15–17; Jer 31; Heb 8).
 tags: [covenant, christ, salvation, faith]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 7
 ---
@@ -48,8 +48,6 @@ Primary passages recur across the sources above, but this concept page does not 
 
 ## Related pages
 
-- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
-- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Salvation|Salvation]]

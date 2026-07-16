@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Prophecy
 description: God's word spoken through holy messengers, tested against false prophecy, and used for church edification (2 Pet 1; Jer 23; 1 Cor 14).
 tags: [prophecy, holy-spirit, church, justice]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 5
 ---
@@ -39,9 +39,6 @@ Key loci: 2 Peter 1:19–21; Jeremiah 23:9–32; 1 Corinthians 14:1–5.
 ## Related pages
 
 - [[wiki/concepts/Hope|Hope]]
-
-- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
-- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Revelation|Matthew Henry Concise on Revelation]]
 

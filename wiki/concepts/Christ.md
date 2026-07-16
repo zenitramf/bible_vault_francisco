@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Christ
 description: Christ as the eternal Word made flesh, God with us, and the suffering Messiah who bears iniquity (Jn 1; Mt 1; Isa 53).
 tags: [christ, redemption, salvation, faith]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 8
 ---
@@ -41,9 +41,6 @@ Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 
 
 - [[wiki/concepts/Atonement|Atonement]]
 - [[wiki/concepts/Resurrection|Resurrection]]
-
-- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
-- [[wiki/source-notes/Spurgeon Sermons Volume 1|Spurgeon Sermons Volume 1]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Revelation|Matthew Henry Concise on Revelation]]
 

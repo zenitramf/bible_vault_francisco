@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Hope
 description: Confident expectation of glory, resurrection, and God's promise under present suffering—not optimism but faith-forward waiting (Rom 5; Rom 8; 1 Cor 15).
 tags: [faith, salvation, prophecy, christian-life]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 5
 ---

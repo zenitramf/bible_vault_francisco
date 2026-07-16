@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Spiritual Warfare
 description: The Christian life as a real war against the devil, principalities and powers, fought with spiritual weapons and the whole armor of God (Eph 6:10–18; 1 Pe 5:8–9; Jas 4:7; Mt 4:1–11).
 tags: [christ, holy-spirit, holiness, discipleship, christian-life]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 12
 ---

@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Justification
 description: God's free declaration that sinners are righteous by grace through faith in Christ, not by works of the law (Rom 3–5).
 tags: [salvation, faith, christ, redemption]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 7
 ---

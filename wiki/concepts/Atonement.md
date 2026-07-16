@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Atonement
 description: Christ's propitiatory, substitutionary work dealing with guilt—the gospel crux beside redemption as price-paid deliverance (Rom 3; Isa 53; Mt 27).
 tags: [christ, redemption, salvation]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 6
 ---

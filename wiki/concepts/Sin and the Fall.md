@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Sin and the Fall
 description: Humanity's fall through temptation and transgression, bringing misery, exclusion from Eden, and the need of the promised Seed (Gen 3; Rom 3; Rom 5).
 tags: [salvation, christ, creation, holiness]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 5
 ---

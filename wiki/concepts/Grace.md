@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Grace
 description: God's free, undeserved favor in Christ that grounds salvation, justification, and good works without purchasing merit (Rom 3–5; Eph 2).
 tags: [salvation, faith, christ, christian-life]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 5
 ---

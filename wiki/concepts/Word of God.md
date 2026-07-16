@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Word of God
 description: Divine revelation as wisdom and rule for religion—published, plain, and to be studied in context (Pr 8; personal study method).
 tags: [wisdom, discipleship, christ, christian-life]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 5
 ---

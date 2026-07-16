@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Stewardship
 description: Entrusted life, ministry, and goods—first giving oneself to the Lord, then faithful management and generous care for others (2 Cor 8; 1 Tim 1:12).
 tags: [discipleship, church, pastoral-ministry, christian-life]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 4
 ---

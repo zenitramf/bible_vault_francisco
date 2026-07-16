@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Salvation
 description: God's free grace in Christ, received by faith and not by works of the law (Acts 15:11; Rom 3–4; Eph 2).
 tags: [salvation, grace, faith, christ]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 9
 ---
@@ -57,9 +57,6 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[wiki/concepts/Hope|Hope]]
 - [[wiki/concepts/Atonement|Atonement]]
 - [[wiki/concepts/Resurrection|Resurrection]]
-
-- [[wiki/source-notes/Spurgeon Sermons Volume 31|Spurgeon Sermons Volume 31]]
-- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Ephesians|Matthew Henry Concise on Ephesians]]
 

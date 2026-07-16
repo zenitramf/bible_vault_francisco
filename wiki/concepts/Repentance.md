@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Repentance
 description: Turning to God in contrite confession, pleading mercy through Christ's blood, not self-satisfaction for sin (Ps 51; Mt 3).
 tags: [repentance, holiness, salvation, prayer]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 5
 ---
@@ -48,7 +48,6 @@ Sources present repentance as humble return to God with confession of sin and pl
 - [[wiki/passages/Psalm 51|Psalm 51]]
 - [[wiki/passages/Matthew 3|Matthew 3]]
 - [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
-- [[wiki/source-notes/Spurgeon Treasury of David Volume 2|Treasury of David Volume 2]]
 
 ## Sources
 - [[sources/commentaries_english/chspurgeon-tod/volume-2/psalm-51|Treasury of David, Psalm 51]]

@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Faith
 description: Trust in God's promise and in Christ; the means of justification and the principle of the life that pleases God (Gen 15:6; Rom 4; Heb 11).
 tags: [faith, salvation, christ, covenant]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 10
 ---
@@ -56,9 +56,6 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 
 - [[wiki/concepts/Hope|Hope]]
 - [[wiki/concepts/Grace|Grace]]
-
-- [[wiki/source-notes/Spurgeon Faith's Checkbook — January|Spurgeon Faith's Checkbook — January]]
-- [[wiki/source-notes/Spurgeon Sermons Volume 21|Spurgeon Sermons Volume 21]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Galatians|Matthew Henry Concise on Galatians]]
 

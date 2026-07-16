@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Wisdom
 description: God-given skill for living that outranks all earthly wealth; in its highest form, the personal Wisdom who is Christ (Pr 16:16; Pr 3:14; Pr 8:10–11, 19; Jb 28; Ps 119:98–100; Col 2:3).
 tags: [wisdom, christ, christian-life, holiness, salvation, discipleship]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 7
 ---
@@ -67,8 +67,6 @@ Key loci in the present evidence:
 ## Related pages
 
 - [[wiki/concepts/Word of God|Word of God]]
-
-- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]

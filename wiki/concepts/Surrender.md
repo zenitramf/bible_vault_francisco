@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Surrender
 description: The whole-person yielding of the will to God — humiliation, acceptance, obedience, and Spirit-sensitivity — that the Bible presents as the only path to life and salvation (Jas 4:7; Ro 6:13; Mt 16:24–26; Ac 9:6).
 tags: [christian-life, faith, discipleship, salvation, christ, holy-spirit, repentance, prayer]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 15
 ---

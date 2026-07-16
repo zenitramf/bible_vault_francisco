@@ -12,7 +12,7 @@ source_count: 0
 
 Update this page whenever a section is started or finished. Status values: `pending`, `in_progress`, `reviewed`.
 
-**Phase 3 complete (2026-07-16).** **Phase 4 complete (2026-07-16):** full remaining-corpus coverage (4.0–4.7); vault sources 6836/6836 covered. **Phase 5.1–5.2 complete (2026-07-16):** suite smoke; concept graph at 30 `developing`. **Phase 5.3.0 complete (2026-07-16):** promotion plan locked. **Next: 5.3.1+** execute pilot → full `reviewed` waves. Wiki search is catalog-first (`search-catalog` / `wiki_tool.py search`).
+**Phase 3 complete (2026-07-16).** **Phase 4 complete (2026-07-16):** full remaining-corpus coverage (4.0–4.7); vault sources 6836/6836 covered. **Phase 5.1–5.2 complete (2026-07-16):** suite smoke; concept graph at 30 `developing`. **Phase 5 complete (2026-07-16):** 5.1 smoke; 5.2 expand/deepen (30 concepts); 5.3 plan + all concepts promoted to `reviewed` (30/30). Wiki search is catalog-first (`search-catalog` / `wiki_tool.py search`).
 
 ## Phase 0 — Operating system
 
@@ -326,7 +326,7 @@ Phase 5 is **not** more source-file coverage (that was Phase 4). It grows the **
 |---|---|---|
 | **5.1** Initial QA smoke | **reviewed** | Core Query Suite wiki-only Hits after full coverage |
 | **5.2** Expand + deepen to `developing` | **reviewed** | 30 concepts, all `developing`; 0 seed remaining |
-| **5.3** Plan + execute `developing` → `reviewed` | in_progress | 5.3.0 plan locked; execute 5.3.1–5.3.6 promotion waves |
+| **5.3** Plan + execute `developing` → `reviewed` | **reviewed** | Plan locked; 30/30 concepts `reviewed`; suite smoke green |
 | Hygiene (ongoing) | pending | Coverage / orphan lint sweeps as needed during 5.3 |
 
 ### 5.1 — Initial step (Core Query Suite smoke)
@@ -628,76 +628,76 @@ python3 .tools/scripts/audit_public.py
 
 | Section | Status | Notes |
 |---|---|---|
-| Salvation → `reviewed` | pending | Full checklist; suite touch (gospel/faith/works) |
-| Justification → `reviewed` | pending | Keep distinct from Grace/Salvation |
-| Faith → `reviewed` | pending | Gen 15 / Rom 4 / Heb 11 spine |
-| Pilot suite smoke (5 Core Query items) | pending | Must remain Hit |
-| **5.3.1 gate** | pending | 3 reviewed + lint + log |
+| Salvation → `reviewed` | **reviewed** | Second-pass promote 2026-07-16 |
+| Justification → `reviewed` | **reviewed** | Distinct from Grace/Salvation retained |
+| Faith → `reviewed` | **reviewed** | Gen 15 / Rom 4 / Heb 11 spine |
+| Pilot suite smoke (5 Core Query items) | **reviewed** | Catalog Hits on gospel/prayer/Spirit/pastoral/creation samples |
+| **5.3.1 gate** | **reviewed** | Pilot complete |
 
 #### 5.3.2 — Gospel core remainder (P1)
 
 | Section | Status | Notes |
 |---|---|---|
-| Grace | pending | Free favor hub; mesh Salvation/Justification |
-| Atonement | pending | Propitiation/substitution; ≠ Redemption |
-| Redemption | pending | Price-paid belonging |
-| Christ | pending | Person + work mesh |
-| Sin and the Fall | pending | Gen 3 + Rom 5 |
-| Repentance | pending | Ps 51 hub |
-| Resurrection | pending | Thicken if needed before promote; else defer |
-| **5.3.2 gate** | pending | Band done or residuals listed |
+| Grace | **reviewed** | Free favor hub promoted |
+| Atonement | **reviewed** | Distinct from Redemption retained |
+| Redemption | **reviewed** | Price-paid belonging |
+| Christ | **reviewed** | Person + work mesh |
+| Sin and the Fall | **reviewed** | Gen 3 + Rom 5 |
+| Repentance | **reviewed** | Ps 51 hub |
+| Resurrection | **reviewed** | 1 Cor 15 + MAE + Ps 16 |
+| **5.3.2 gate** | **reviewed** | Gospel core complete; 0 residual |
 
 #### 5.3.3 — Life / Spirit (P2)
 
 | Section | Status | Notes |
 |---|---|---|
-| Holy Spirit | pending | Incl. intercession overflow link |
-| Prayer | pending | Pattern + Spirit help |
-| Intercession | pending | Thicken to ≥5 claims if still short |
-| Holiness | pending | Sanctification language stays here |
-| Surrender | pending | Already strong candidate |
-| Discipleship | pending | Cost + path |
-| Hope | pending | Thicken or defer |
-| Suffering | pending | Job + Rom 8 |
-| Spiritual Warfare | pending | Already multi-family |
-| **5.3.3 gate** | pending | Band done or residuals listed |
+| Holy Spirit | **reviewed** | Promoted |
+| Prayer | **reviewed** | Related volume-dump pruned |
+| Intercession | **reviewed** | +Heb 7 claim to clear R1 |
+| Holiness | **reviewed** | Promoted |
+| Surrender | **reviewed** | Strong multi-family hub |
+| Discipleship | **reviewed** | Promoted |
+| Hope | **reviewed** | Promoted |
+| Suffering | **reviewed** | Job + Rom 8 + FCB/pastoral |
+| Spiritual Warfare | **reviewed** | Multi-family hub |
+| **5.3.3 gate** | **reviewed** | Life/Spirit complete |
 
 #### 5.3.4 — Church band (P3)
 
 | Section | Status | Notes |
 |---|---|---|
-| Church | pending | Body + gathering |
-| Pastoral Ministry | pending | Qualifications + feed + Gómez |
-| Christ-Centered Ministry | pending | Focus/force/fortitude |
-| Stewardship | pending | Self-giving + entrustment |
-| Worship | pending | Spirit-truth + Psalter praise |
-| **5.3.4 gate** | pending | Band done or residuals listed |
+| Church | **reviewed** | Promoted; Related pruned |
+| Pastoral Ministry | **reviewed** | Qualifications + feed + Gómez |
+| Christ-Centered Ministry | **reviewed** | Focus/force/fortitude multi-source |
+| Stewardship | **reviewed** | Self-giving + entrustment |
+| Worship | **reviewed** | Spirit-truth + Psalter praise |
+| **5.3.4 gate** | **reviewed** | Church band complete |
 
 #### 5.3.5 — OT / word band (P4)
 
 | Section | Status | Notes |
 |---|---|---|
-| Covenant | pending | Strong candidate |
-| Wisdom | pending | Strong candidate |
-| Prophecy | pending | Thicken if thin |
-| Word of God | pending | Revelation + study method |
-| Creation | pending | Thicken or explicit residual defer |
-| Justice | pending | Thicken or explicit residual defer |
-| **5.3.5 gate** | pending | Band done or residuals listed |
+| Covenant | **reviewed** | Promoted |
+| Wisdom | **reviewed** | Promoted |
+| Prophecy | **reviewed** | Promoted |
+| Word of God | **reviewed** | Revelation + study method |
+| Creation | **reviewed** | +Ge 2 / Ps 104 Concise (cleared R2 files) |
+| Justice | **reviewed** | +Amos 5 / Mic 6 Concise (cleared R1) |
+| **5.3.5 gate** | **reviewed** | OT/word complete; 0 residual defers |
 
 #### 5.3.6 — Closeout: suite regression + residual defer list
 
 | Section | Status | Notes |
 |---|---|---|
-| Core Query Suite re-smoke (≥5 items, wiki-only) | pending | After P0–P2 at minimum; full re-sample preferred |
-| Residual defer list finalized | pending | Any still-`developing` concepts with blockers |
-| Catalog + lint + audit_public | pending | Clean gate |
-| Log `campaign \| Phase 5.3 complete` | pending | — |
-| **Phase 5.3 overall** | pending | Plan locked + waves executed (or residuals explicit) |
+| Core Query Suite re-smoke (≥5 items, wiki-only) | **reviewed** | 8/8 sampled catalog Hits (gospel, prayer, Spirit, pastoral, creation, suffering, atonement) |
+| Residual defer list finalized | **reviewed** | **None** — all 30 concepts `reviewed` |
+| Catalog + lint + audit_public | **reviewed** | Clean gate at closeout |
+| Log `campaign \| Phase 5.3 complete` | **reviewed** | Logged |
+| **Phase 5.3 overall** | **reviewed** | Plan + full execute 2026-07-16; 30/30 reviewed |
 
 ### Phase 5 hygiene (parallel)
 
 | Section | Status | Notes |
 |---|---|---|
-| Coverage / orphan lint sweeps | pending | As needed after concept graph edits |
-| Catalog rebuild after concept promotions | pending | `wiki_tool.py build` after each wave |
+| Coverage / orphan lint sweeps | **reviewed** | Lint clean at 5.3 closeout |
+| Catalog rebuild after concept promotions | **reviewed** | `wiki_tool.py build` at closeout |

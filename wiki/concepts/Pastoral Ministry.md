@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Pastoral Ministry
 description: Qualified oversight and feeding of Christ's flock for the church's edification (1 Tim 3; 1 Pet 5; Jn 21:16).
 tags: [pastoral-ministry, church, christ, discipleship]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 4
 ---

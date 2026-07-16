@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Resurrection
 description: Christ's rising from the dead as gospel foundation and the believer's assured future rising (1 Cor 15; gospel passion narratives).
 tags: [christ, salvation, faith]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 4
 ---

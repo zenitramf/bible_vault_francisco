@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Discipleship
 description: Following Christ through self-denial, cross-bearing, and counted cost (Mt 16:24–26; Lk 14:26–30).
 tags: [discipleship, christ, christian-life, faith]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 11
 ---
@@ -46,8 +46,6 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 
 - [[wiki/concepts/Stewardship|Stewardship]]
 - [[wiki/concepts/Word of God|Word of God]]
-
-- [[wiki/source-notes/Spurgeon Morning and Evening — June|Spurgeon Morning and Evening — June]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]

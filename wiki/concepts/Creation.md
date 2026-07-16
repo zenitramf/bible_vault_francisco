@@ -3,9 +3,9 @@ type: Biblical Concept
 title: Creation
 description: God's free, ordered work by word and Spirit, establishing his ownership and humanity in his image (Gen 1).
 tags: [creation, holy-spirit, christ]
-status: developing
+status: reviewed
 updated: 2026-07-16
-source_count: 2
+source_count: 4
 ---
 
 # Creation
@@ -24,6 +24,9 @@ Matthew Henry's Genesis 1 expositions present creation as the foundation of reli
 - Humanity is created last, male and female, in the image of God—especially in soul, dominion, and original uprightness—and is therefore both honored and accountable. [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-1#The Creation (4004 BC)|Matthew Henry Complete on Genesis 1]] [[sources/commentaries_english/mhenry-concise/genesis/chapter-1#Verses 26–28|Matthew Henry Concise on Genesis 1]]
 - God reviews the finished work as very good; common providence continues the Creator's care. [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-1#The Creation (4004 BC)|Matthew Henry Complete on Genesis 1]] [[sources/commentaries_english/mhenry-concise/genesis/chapter-1#Verse 31|Matthew Henry Concise on Genesis 1]]
 - The unregenerate soul is like the original chaos—disordered, empty, and dark—until almighty grace works a new creation. [[sources/commentaries_english/mhenry-concise/genesis/chapter-1#Verses 1, 2|Matthew Henry Concise on Genesis 1]] [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-1#The Creation (4004 BC)|Matthew Henry Complete on Genesis 1]]
+
+- After six days God ceased from works of creation, not as one weary but as one well pleased; the sabbath begins the kingdom of grace in sanctifying a day. [[sources/commentaries_english/mhenry-concise/genesis/chapter-2#Verses 1–3|Matthew Henry Concise on Genesis 2]]
+- Every object we behold calls us to bless the Lord; his eternal power and Godhead are shown by the things he has made, and he provides for all creatures. [[sources/commentaries_english/mhenry-concise/psalms/psalm-104|Matthew Henry Concise on Psalm 104]]
 
 ## Agreements and tensions
 
@@ -49,8 +52,6 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - [[wiki/concepts/Sin and the Fall|Sin and the Fall]]
 - [[wiki/concepts/Word of God|Word of God]]
 
-- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
-
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -67,6 +68,8 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
 
 ## Sources
+- [[sources/commentaries_english/mhenry-concise/genesis/chapter-2|Matthew Henry Concise, Genesis 2]]
+- [[sources/commentaries_english/mhenry-concise/psalms/psalm-104|Matthew Henry Concise, Psalm 104]]
 
 - [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-1|Matthew Henry Complete, Genesis 1]]
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-1|Matthew Henry Concise, Genesis 1]]

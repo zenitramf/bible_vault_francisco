@@ -1,4 +1,3 @@
-{"count": 1, "key": "sources/....md", "pages": ["wiki/campaigns/tracker.md"]}
 {"count": 1, "key": "sources/commentaries_english/chspurgeon-fcb/.md", "pages": ["wiki/source-notes/Spurgeon Faith's Checkbook Theme Enrichment.md"]}
 {"count": 1, "key": "sources/commentaries_english/chspurgeon-fcb/april/.md", "pages": ["wiki/source-notes/Spurgeon Faith's Checkbook — April.md"]}
 {"count": 2, "key": "sources/commentaries_english/chspurgeon-fcb/april/april-1.md", "pages": ["wiki/source-notes/Spurgeon Faith's Checkbook Theme Enrichment.md", "wiki/source-notes/Spurgeon Faith's Checkbook — April.md"]}
@@ -6024,7 +6023,7 @@
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/amos/chapter-2.md", "pages": ["wiki/passages/Amos 2.md", "wiki/source-notes/Matthew Henry Concise on Amos.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/amos/chapter-3.md", "pages": ["wiki/passages/Amos 3.md", "wiki/source-notes/Matthew Henry Concise on Amos.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/amos/chapter-4.md", "pages": ["wiki/passages/Amos 4.md", "wiki/source-notes/Matthew Henry Concise on Amos.md"]}
-{"count": 2, "key": "sources/commentaries_english/mhenry-concise/amos/chapter-5.md", "pages": ["wiki/passages/Amos 5.md", "wiki/source-notes/Matthew Henry Concise on Amos.md"]}
+{"count": 3, "key": "sources/commentaries_english/mhenry-concise/amos/chapter-5.md", "pages": ["wiki/concepts/Justice.md", "wiki/passages/Amos 5.md", "wiki/source-notes/Matthew Henry Concise on Amos.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/amos/chapter-6.md", "pages": ["wiki/passages/Amos 6.md", "wiki/source-notes/Matthew Henry Concise on Amos.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/amos/chapter-7.md", "pages": ["wiki/passages/Amos 7.md", "wiki/source-notes/Matthew Henry Concise on Amos.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/amos/chapter-8.md", "pages": ["wiki/passages/Amos 8.md", "wiki/source-notes/Matthew Henry Concise on Amos.md"]}
@@ -6233,7 +6232,7 @@
 {"count": 3, "key": "sources/commentaries_english/mhenry-concise/genesis/chapter-17.md", "pages": ["wiki/concepts/Covenant.md", "wiki/passages/Genesis 17.md", "wiki/source-notes/Matthew Henry Concise on Genesis.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/genesis/chapter-18.md", "pages": ["wiki/passages/Genesis 18.md", "wiki/source-notes/Matthew Henry Concise on Genesis.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/genesis/chapter-19.md", "pages": ["wiki/passages/Genesis 19.md", "wiki/source-notes/Matthew Henry Concise on Genesis.md"]}
-{"count": 2, "key": "sources/commentaries_english/mhenry-concise/genesis/chapter-2.md", "pages": ["wiki/passages/Genesis 2.md", "wiki/source-notes/Matthew Henry Concise on Genesis.md"]}
+{"count": 3, "key": "sources/commentaries_english/mhenry-concise/genesis/chapter-2.md", "pages": ["wiki/concepts/Creation.md", "wiki/passages/Genesis 2.md", "wiki/source-notes/Matthew Henry Concise on Genesis.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/genesis/chapter-20.md", "pages": ["wiki/passages/Genesis 20.md", "wiki/source-notes/Matthew Henry Concise on Genesis.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/genesis/chapter-21.md", "pages": ["wiki/passages/Genesis 21.md", "wiki/source-notes/Matthew Henry Concise on Genesis.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/genesis/chapter-22.md", "pages": ["wiki/passages/Genesis 22.md", "wiki/source-notes/Matthew Henry Concise on Genesis.md"]}
@@ -6290,7 +6289,7 @@
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/hebrews/chapter-4.md", "pages": ["wiki/passages/Hebrews 4.md", "wiki/source-notes/Matthew Henry Concise on Hebrews.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/hebrews/chapter-5.md", "pages": ["wiki/passages/Hebrews 5.md", "wiki/source-notes/Matthew Henry Concise on Hebrews.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/hebrews/chapter-6.md", "pages": ["wiki/passages/Hebrews 6.md", "wiki/source-notes/Matthew Henry Concise on Hebrews.md"]}
-{"count": 2, "key": "sources/commentaries_english/mhenry-concise/hebrews/chapter-7.md", "pages": ["wiki/passages/Hebrews 7.md", "wiki/source-notes/Matthew Henry Concise on Hebrews.md"]}
+{"count": 3, "key": "sources/commentaries_english/mhenry-concise/hebrews/chapter-7.md", "pages": ["wiki/concepts/Intercession.md", "wiki/passages/Hebrews 7.md", "wiki/source-notes/Matthew Henry Concise on Hebrews.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/hebrews/chapter-8.md", "pages": ["wiki/passages/Hebrews 8.md", "wiki/source-notes/Matthew Henry Concise on Hebrews.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/hebrews/chapter-9.md", "pages": ["wiki/passages/Hebrews 9.md", "wiki/source-notes/Matthew Henry Concise on Hebrews.md"]}
 {"count": 1, "key": "sources/commentaries_english/mhenry-concise/hosea/.md", "pages": ["wiki/source-notes/Matthew Henry Concise on Hosea.md"]}
@@ -6673,7 +6672,7 @@
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/micah/chapter-3.md", "pages": ["wiki/passages/Micah 3.md", "wiki/source-notes/Matthew Henry Concise on Micah.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/micah/chapter-4.md", "pages": ["wiki/passages/Micah 4.md", "wiki/source-notes/Matthew Henry Concise on Micah.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/micah/chapter-5.md", "pages": ["wiki/passages/Micah 5.md", "wiki/source-notes/Matthew Henry Concise on Micah.md"]}
-{"count": 2, "key": "sources/commentaries_english/mhenry-concise/micah/chapter-6.md", "pages": ["wiki/passages/Micah 6.md", "wiki/source-notes/Matthew Henry Concise on Micah.md"]}
+{"count": 3, "key": "sources/commentaries_english/mhenry-concise/micah/chapter-6.md", "pages": ["wiki/concepts/Justice.md", "wiki/passages/Micah 6.md", "wiki/source-notes/Matthew Henry Concise on Micah.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/micah/chapter-7.md", "pages": ["wiki/passages/Micah 7.md", "wiki/source-notes/Matthew Henry Concise on Micah.md"]}
 {"count": 1, "key": "sources/commentaries_english/mhenry-concise/nahum/.md", "pages": ["wiki/source-notes/Matthew Henry Concise on Nahum.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/nahum/chapter-1.md", "pages": ["wiki/passages/Nahum 1.md", "wiki/source-notes/Matthew Henry Concise on Nahum.md"]}
@@ -6778,7 +6777,7 @@
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/psalms/psalm-101.md", "pages": ["wiki/passages/Psalm 101.md", "wiki/source-notes/Matthew Henry Concise on Psalms.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/psalms/psalm-102.md", "pages": ["wiki/passages/Psalm 102.md", "wiki/source-notes/Matthew Henry Concise on Psalms.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/psalms/psalm-103.md", "pages": ["wiki/passages/Psalm 103.md", "wiki/source-notes/Matthew Henry Concise on Psalms.md"]}
-{"count": 2, "key": "sources/commentaries_english/mhenry-concise/psalms/psalm-104.md", "pages": ["wiki/passages/Psalm 104.md", "wiki/source-notes/Matthew Henry Concise on Psalms.md"]}
+{"count": 3, "key": "sources/commentaries_english/mhenry-concise/psalms/psalm-104.md", "pages": ["wiki/concepts/Creation.md", "wiki/passages/Psalm 104.md", "wiki/source-notes/Matthew Henry Concise on Psalms.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/psalms/psalm-105.md", "pages": ["wiki/passages/Psalm 105.md", "wiki/source-notes/Matthew Henry Concise on Psalms.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/psalms/psalm-106.md", "pages": ["wiki/passages/Psalm 106.md", "wiki/source-notes/Matthew Henry Concise on Psalms.md"]}
 {"count": 2, "key": "sources/commentaries_english/mhenry-concise/psalms/psalm-107.md", "pages": ["wiki/passages/Psalm 107.md", "wiki/source-notes/Matthew Henry Concise on Psalms.md"]}

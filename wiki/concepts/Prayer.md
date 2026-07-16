@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Prayer
 description: Humble approach to the Father, taught by Christ, helped by the Spirit, and perfected in Christ's intercession (Mt 6:5–15; Jn 17; Rom 8:26–27).
 tags: [prayer, christ, holy-spirit, discipleship]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 6
 ---
@@ -44,8 +44,6 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33.
 - [[wiki/concepts/Intercession|Intercession]]
 - [[wiki/concepts/Repentance|Repentance]]
 
-- [[wiki/source-notes/Spurgeon Treasury of David Volume 6|Spurgeon Treasury of David Volume 6]]
-
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -67,10 +65,6 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33.
 - [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
 
 - [[wiki/source-notes/Spurgeon Theme Batch — Faith and Prayer|Spurgeon Theme Batch — Faith and Prayer]]
-
-- [[wiki/source-notes/Spurgeon Treasury of David Volume 1|Treasury of David Volume 1]]
-
-- [[wiki/source-notes/Spurgeon Treasury of David Volume 2|Treasury of David Volume 2]]
 
 - [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Morning and Evening enrichment]]
 

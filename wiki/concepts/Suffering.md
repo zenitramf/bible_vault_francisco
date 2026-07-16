@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Suffering
 description: Affliction under God's hand—permitted trial, present groan, and hope of glory; not proof of hypocrisy (Job 1; Rom 8).
 tags: [faith, christian-life, holiness, prayer]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 5
 ---

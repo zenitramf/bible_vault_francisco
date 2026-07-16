@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Worship
 description: Spirit-and-truth approach to the Father in praise, sanctuary service, and accepted offering (Jn 4:20–24; Ps 134).
 tags: [worship, christ, holy-spirit, prayer]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 7
 ---
@@ -58,8 +58,6 @@ Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3.
 - [[wiki/passages/Psalm 150|Psalm 150]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
-
-- [[wiki/source-notes/Spurgeon Treasury of David Volume 7|Treasury of David Volume 7]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Leviticus|Matthew Henry Concise on Leviticus]]
 

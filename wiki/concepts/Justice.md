@@ -3,9 +3,9 @@ type: Biblical Concept
 title: Justice
 description: God's righteous requirement to do justly, love mercy, and defend the oppressed (Mic 6:6–8; Ps 9).
 tags: [justice, prophecy, holiness, christian-life]
-status: developing
+status: reviewed
 updated: 2026-07-16
-source_count: 3
+source_count: 5
 ---
 
 # Justice
@@ -21,6 +21,9 @@ In the retrieved sources, justice is not a substitute for worship but the moral 
 - Princes and prophets are rebuked for hating judgment, perverting equity, judging for reward, and building with blood. [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-3#The Crimes of the Princes and Prophets (726 BC)|Matthew Henry on Micah 3]]
 - The Lord is a refuge for the oppressed and judges the world in righteousness. [[sources/commentaries_english/chspurgeon-tod/volume-1/psalm-9#Exposition|Spurgeon, Treasury of David on Psalm 9]]
 
+- Israel is called to seek the Lord rather than trust self-invented forms; the awakening word must be heard, for whether people hear or forbear the word of God shall take effect. [[sources/commentaries_english/mhenry-concise/amos/chapter-5|Matthew Henry Concise on Amos 5]]
+- Sin causes controversy between God and man; God has shown what is good, and plain injustice under religious cover is condemned. [[sources/commentaries_english/mhenry-concise/micah/chapter-6|Matthew Henry Concise on Micah 6]]
+
 ## Agreements and tensions
 
 - Henry's Micah expositions concentrate on covenant lawsuit, social oppression, and false religious leadership. [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-3#The Crimes of the Princes and Prophets (726 BC)|Matthew Henry on Micah 3]]
@@ -32,6 +35,9 @@ In the retrieved sources, justice is not a substitute for worship but the moral 
 Key loci: Micah 6:6–8; Micah 3; Psalm 9.
 
 ## Related pages
+
+- [[wiki/passages/Amos 5|Amos 5]]
+- [[wiki/concepts/Stewardship|Stewardship]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -47,6 +53,8 @@ Key loci: Micah 6:6–8; Micah 3; Psalm 9.
 - [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
 
 ## Sources
+- [[sources/commentaries_english/mhenry-concise/amos/chapter-5|Matthew Henry Concise, Amos 5]]
+- [[sources/commentaries_english/mhenry-concise/micah/chapter-6|Matthew Henry Concise, Micah 6]]
 
 - [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-6|Matthew Henry, Micah 6]]
 - [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-3|Matthew Henry, Micah 3]]

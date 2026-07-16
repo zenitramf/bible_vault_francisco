@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Redemption
 description: Price-paid deliverance through Christ, foundational for belonging to God and freedom from sin (1 Cor 6:19–20; Rom 3:24–26).
 tags: [redemption, christ, salvation]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 6
 ---

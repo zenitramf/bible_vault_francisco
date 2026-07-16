@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Church
 description: The church as one body in Christ, gifted for edification, and gathered in his name with his presence (Eph 4; Mt 18).
 tags: [church, christ, holy-spirit, discipleship]
-status: developing
+status: reviewed
 updated: 2026-07-16
 source_count: 6
 ---
@@ -41,9 +41,6 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 ## Related pages
 
 - [[wiki/concepts/Stewardship|Stewardship]]
-
-- [[wiki/source-notes/Spurgeon Sermons Volume 11|Spurgeon Sermons Volume 11]]
-- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Acts|Matthew Henry Concise on Acts]]
 
