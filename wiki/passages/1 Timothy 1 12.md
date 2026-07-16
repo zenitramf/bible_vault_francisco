@@ -1,7 +1,7 @@
 ---
 type: Passage Study
 title: 1 Timothy 1:12
-description: A developing synthesis of Christ's call, enablement, and expectation of faithfulness in ministry.
+description: Christ's call, enablement, and expectation of faithfulness in ministry (1 Tim 1:12).
 tags: [christ, pastoral-ministry, discipleship]
 status: seed
 updated: 2026-07-16

@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Pastoral Ministry
-description: A source-backed synthesis of pastoral ministry as qualified oversight and feeding of Christ's flock for the church's edification.
+description: Qualified oversight and feeding of Christ's flock for the church's edification (1 Tim 3; 1 Pet 5; Jn 21:16).
 tags: [pastoral-ministry, church, christ, discipleship]
 status: seed
 updated: 2026-07-16

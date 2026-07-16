@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Worship
-description: A source-backed synthesis of worship as Spirit-and-truth approach to the Father, expressed in praise, sanctuary service, and accepted offering.
+description: Spirit-and-truth approach to the Father in praise, sanctuary service, and accepted offering (Jn 4:20–24; Ps 134).
 tags: [worship, christ, holy-spirit, prayer]
 status: seed
 updated: 2026-07-16

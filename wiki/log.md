@@ -64,3 +64,10 @@ append_only: true
 - Built catalog (19 wiki notes); manifest covers 6836 sources with 53 wiki-linked.
 - Maintenance gate: doctor, build, lint, source-lint, audit_public, .qmd/bin/lint-wiki all passed.
 
+## [2026-07-16] maintenance | Enrich catalog and reverse indexes
+
+- Enriched wiki/catalog.jsonl with derived bible_references, source_paths, related_paths, and headings.
+- Generated wiki/indexes reverse maps (by-tag, by-passage, by-source, by-type).
+- Improved search-catalog ranking with --tag/--ref/--source/--type filters and match reasons.
+- Rewrote wiki descriptions to drop ranking-killing boilerplate.
+- Added passage seeds for Matthew 6:5–15 and Romans 8:26–27 linked from Prayer.

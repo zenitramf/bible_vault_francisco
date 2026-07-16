@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Christ
-description: A source-backed synthesis of Christ as the eternal Word made flesh, God with us, and the suffering Messiah who bears iniquity.
+description: Christ as the eternal Word made flesh, God with us, and the suffering Messiah who bears iniquity (Jn 1; Mt 1; Isa 53).
 tags: [christ, redemption, salvation, faith]
 status: seed
 updated: 2026-07-16

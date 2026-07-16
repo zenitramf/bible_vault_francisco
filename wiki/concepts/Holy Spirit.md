@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Holy Spirit
-description: A source-backed synthesis of the Holy Spirit as the promised Comforter who indwells, convicts, guides into truth, and empowers the church.
+description: The promised Comforter who indwells, convicts, guides into truth, and empowers the church (Jn 14–16; Acts 2; Rom 8:26).
 tags: [holy-spirit, christ, church, prayer]
 status: seed
 updated: 2026-07-16

@@ -2,19 +2,19 @@
 
 # Contents
 
-* [Christ](Christ.md) - A source-backed synthesis of Christ as the eternal Word made flesh, God with us, and the suffering Messiah who bears iniquity.
-* [Christ-Centered Ministry](Christ-Centered%20Ministry.md) - A source-backed synthesis of ministry focused on Christ, enabled by Christ, and exercised as faithful stewardship.
-* [Church](Church.md) - A source-backed synthesis of the church as one body in Christ, gifted for edification, and gathered in his name with his presence.
-* [Covenant](Covenant.md) - A source-backed synthesis of covenant as God-initiated relationship sealed by promise, obligation, and Christ as mediator of the new covenant.
-* [Creation](Creation.md) - A source-backed synthesis of creation as God's free, ordered work by word and Spirit, establishing his ownership and humanity in his image.
-* [Discipleship](Discipleship.md) - A source-backed synthesis of discipleship as following Christ through self-denial, cross-bearing, and counted cost.
-* [Faith](Faith.md) - A source-backed synthesis of faith as trust in Gods promise and in Christ, the means of justification and the principle of the life that pleases God.
-* [Holiness](Holiness.md) - A source-backed synthesis of holiness as conformity to the holy God who calls and sanctifies his people through truth.
-* [Holy Spirit](Holy%20Spirit.md) - A source-backed synthesis of the Holy Spirit as the promised Comforter who indwells, convicts, guides into truth, and empowers the church.
-* [Justice](Justice.md) - A source-backed synthesis of justice as Gods righteous requirement to do justly, love mercy, and defend the oppressed.
-* [Pastoral Ministry](Pastoral%20Ministry.md) - A source-backed synthesis of pastoral ministry as qualified oversight and feeding of Christ's flock for the church's edification.
-* [Prayer](Prayer.md) - A source-backed synthesis of prayer as humble approach to the Father, taught by Christ, helped by the Spirit, and perfected in Christ's intercession.
-* [Prophecy](Prophecy.md) - A source-backed synthesis of prophecy as Gods word spoken through holy messengers, tested against false prophecy, and used for church edification.
-* [Redemption](Redemption.md) - A source-backed synthesis of redemption as price-paid deliverance through Christ, foundational for belonging to God and freedom from sin.
-* [Salvation](Salvation.md) - A source-backed synthesis of salvation as Gods free grace in Christ, received by faith and not by works of the law.
-* [Worship](Worship.md) - A source-backed synthesis of worship as Spirit-and-truth approach to the Father, expressed in praise, sanctuary service, and accepted offering.
+* [Christ](Christ.md) - Christ as the eternal Word made flesh, God with us, and the suffering Messiah who bears iniquity (Jn 1; Mt 1; Isa 53).
+* [Christ-Centered Ministry](Christ-Centered%20Ministry.md) - Ministry focused on Christ, enabled by Christ, and exercised as faithful stewardship (1 Tim 1:12).
+* [Church](Church.md) - The church as one body in Christ, gifted for edification, and gathered in his name with his presence (Eph 4; Mt 18).
+* [Covenant](Covenant.md) - God-initiated relationship sealed by promise and obligation, with Christ as mediator of the new covenant (Gen 15–17; Jer 31; Heb 8).
+* [Creation](Creation.md) - God's free, ordered work by word and Spirit, establishing his ownership and humanity in his image (Gen 1).
+* [Discipleship](Discipleship.md) - Following Christ through self-denial, cross-bearing, and counted cost (Mt 16:24–26; Lk 14:26–30).
+* [Faith](Faith.md) - Trust in God's promise and in Christ; the means of justification and the principle of the life that pleases God (Gen 15:6; Rom 4; Heb 11).
+* [Holiness](Holiness.md) - Conformity to the holy God who calls and sanctifies his people through truth (1 Pet 1; Jn 17:17; Heb 10:14).
+* [Holy Spirit](Holy%20Spirit.md) - The promised Comforter who indwells, convicts, guides into truth, and empowers the church (Jn 14–16; Acts 2; Rom 8:26).
+* [Justice](Justice.md) - God's righteous requirement to do justly, love mercy, and defend the oppressed (Mic 6:6–8; Ps 9).
+* [Pastoral Ministry](Pastoral%20Ministry.md) - Qualified oversight and feeding of Christ's flock for the church's edification (1 Tim 3; 1 Pet 5; Jn 21:16).
+* [Prayer](Prayer.md) - Humble approach to the Father, taught by Christ, helped by the Spirit, and perfected in Christ's intercession (Mt 6:5–15; Jn 17; Rom 8:26–27).
+* [Prophecy](Prophecy.md) - God's word spoken through holy messengers, tested against false prophecy, and used for church edification (2 Pet 1; Jer 23; 1 Cor 14).
+* [Redemption](Redemption.md) - Price-paid deliverance through Christ, foundational for belonging to God and freedom from sin (1 Cor 6:19–20; Rom 3:24–26).
+* [Salvation](Salvation.md) - God's free grace in Christ, received by faith and not by works of the law (Acts 15:11; Rom 3–4; Eph 2).
+* [Worship](Worship.md) - Spirit-and-truth approach to the Father in praise, sanctuary service, and accepted offering (Jn 4:20–24; Ps 134).

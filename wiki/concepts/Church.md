@@ -1,7 +1,7 @@
 ---
 type: Biblical Concept
 title: Church
-description: A source-backed synthesis of the church as one body in Christ, gifted for edification, and gathered in his name with his presence.
+description: The church as one body in Christ, gifted for edification, and gathered in his name with his presence (Eph 4; Mt 18).
 tags: [church, christ, holy-spirit, discipleship]
 status: seed
 updated: 2026-07-16
