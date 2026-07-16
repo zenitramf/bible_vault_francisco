@@ -269,7 +269,7 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 | June | reviewed | 30 | Month source-note lists all day files; 0 uncovered |
 | July | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
 | August | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
-| September | pending | 30 | |
+| September | reviewed | 30 | Month source-note lists all day files; 0 uncovered |
 | October | pending | 31 | |
 | November | pending | 30 | |
 | December | pending | 31 | |

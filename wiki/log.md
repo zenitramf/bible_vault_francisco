@@ -247,3 +247,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.4 FCB August
 
 - Month source-note for FCB August (31 files). --require-zero OK.
+
+## [2026-07-16] campaign | Phase 4.4 FCB September
+
+- Month source-note for FCB September (30 files). --require-zero OK.
