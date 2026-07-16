@@ -83,6 +83,7 @@
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — February|Spurgeon Faith's Checkbook — February]] - Phase 4 full-calendar month source-note for Faith's Checkbook February: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — Front Matter|Spurgeon Faith's Checkbook — Front Matter]] - Phase 4 coverage of FCB root preface/verses files outside monthly folders.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — January|Spurgeon Faith's Checkbook — January]] - Phase 4 full-calendar month source-note for Faith's Checkbook January: every daily entry file listed.
+* [[wiki/source-notes/Spurgeon Faith's Checkbook — March|Spurgeon Faith's Checkbook — March]] - Phase 4 full-calendar month source-note for Faith's Checkbook March: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Spurgeon Morning and Evening Theme Enrichment]] - Selective month-sample enrichment from Spurgeon daily devotionals for concept mesh (Phase 3.6). Not a calendar mirror.
 * [[wiki/source-notes/Spurgeon Sermons Volume 1|Spurgeon Sermons Volume 1]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 1.
 * [[wiki/source-notes/Spurgeon Sermons Volume 10|Spurgeon Sermons Volume 10]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 10.

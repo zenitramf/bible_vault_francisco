@@ -263,7 +263,7 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 |---|---|---:|---|
 | January | reviewed | 31 | Month source-note + FCB root front matter; 0 uncovered |
 | February | reviewed | 29 | Month source-note lists all day files; 0 uncovered |
-| March | pending | 31 | |
+| March | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
 | April | pending | 30 | |
 | May | pending | 31 | |
 | June | pending | 30 | |
