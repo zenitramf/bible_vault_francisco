@@ -270,7 +270,7 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 | July | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
 | August | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
 | September | reviewed | 30 | Month source-note lists all day files; 0 uncovered |
-| October | pending | 31 | |
+| October | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
 | November | pending | 30 | |
 | December | pending | 31 | |
 | **4.4 FCB 100%** | **pending** | **~366** | Gate: 0 uncovered under `chspurgeon-fcb/` |
