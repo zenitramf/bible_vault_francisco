@@ -211,3 +211,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.3 Sermons Volumes 61–63
 
 - Volume source-notes for sermons volumes 61–63 (124 files). Zero-uncovered OK.
+
+## [2026-07-16] campaign | Phase 4.3 Sermons 100%
+
+- All sermon volume bands reviewed; source-coverage --path chspurgeon-sermons --require-zero OK.

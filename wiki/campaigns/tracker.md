@@ -253,7 +253,7 @@ One reviewed row per volume band (or per volume if splitting commits). Each volu
 | Volumes 41–50 | reviewed | 521 | Volume source-notes list every sermon; 0 uncovered |
 | Volumes 51–60 | reviewed | 523 | Volume source-notes list every sermon; 0 uncovered |
 | Volumes 61–63 | reviewed | 124 | Volume source-notes list every sermon; 0 uncovered |
-| **4.3 Sermons 100%** | **pending** | **~3,536** | Gate: 0 uncovered under `chspurgeon-sermons/` |
+| **4.3 Sermons 100%** | **reviewed** | **3,536** | Gate: 0 uncovered under `chspurgeon-sermons/` |
 
 Optional finer tracking (mark when used): individual volume rows may be expanded under a working note; the bands above are the commit/review units.
 
