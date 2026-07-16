@@ -272,7 +272,7 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 | September | reviewed | 30 | Month source-note lists all day files; 0 uncovered |
 | October | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
 | November | reviewed | 30 | Month source-note lists all day files; 0 uncovered |
-| December | pending | 31 | |
+| December | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
 | **4.4 FCB 100%** | **pending** | **~366** | Gate: 0 uncovered under `chspurgeon-fcb/` |
 
 ### 4.5 — Morning and Evening (full calendar)
