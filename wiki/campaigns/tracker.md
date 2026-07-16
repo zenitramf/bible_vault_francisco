@@ -248,7 +248,7 @@ One reviewed row per volume band (or per volume if splitting commits). Each volu
 |---|---|---:|---|
 | Volumes 1–10 | reviewed | 576 | Volume source-notes list every sermon; 0 uncovered |
 | Volumes 11–20 | reviewed | 602 | Volume source-notes list every sermon; 0 uncovered |
-| Volumes 21–30 | pending | ~616 | Includes prior hub sermons already linked |
+| Volumes 21–30 | reviewed | 616 | Volume source-notes list every sermon; 0 uncovered |
 | Volumes 31–40 | pending | ~566 | |
 | Volumes 41–50 | pending | ~522 | |
 | Volumes 51–60 | pending | ~524 | |
