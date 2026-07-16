@@ -33,6 +33,10 @@ Key loci: 2 Peter 1:19–21; Jeremiah 23:9–32; 1 Corinthians 14:1–5.
 
 ## Related pages
 
+- [[wiki/source-notes/Matthew Henry Concise on Revelation|Matthew Henry Concise on Revelation]]
+
+- [[wiki/passages/Revelation 1|Revelation 1]]
+
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Justice|Justice]]

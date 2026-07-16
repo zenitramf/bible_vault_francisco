@@ -36,7 +36,9 @@ Primary: Matthew 6:5–15.
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/concepts/Worship|Worship]]
+- [[wiki/passages/Matthew 6|Matthew 6]]
 - [[wiki/passages/Romans 8 26-27|Romans 8:26–27]]
+- [[wiki/source-notes/Matthew Henry Concise on Matthew|Matthew Henry Concise on Matthew]]
 
 ## Sources
 

@@ -3,16 +3,16 @@ type: Biblical Concept
 title: Salvation
 description: God's free grace in Christ, received by faith and not by works of the law (Acts 15:11; Rom 3–4; Eph 2).
 tags: [salvation, grace, faith, christ]
-status: seed
+status: developing
 updated: 2026-07-16
-source_count: 5
+source_count: 9
 ---
 
 # Salvation
 
 ## Summary
 
-Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The sources also refuse to detach salvation from the Spirit's work and from a life ordered to the praise of God's glory.
+Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory.
 
 ## Core claims
 
@@ -22,6 +22,11 @@ Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through fai
 - By nature people are dead in trespasses and sins; the saving change is God's work of mercy and grace. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-2#State of the Ephesians by Nature (61 AD)|Matthew Henry on Ephesians 2]] [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-2#The Change Wrought in the Ephesians (61 AD)|Matthew Henry on Ephesians 2]]
 - Salvation is by grace through faith, not of ourselves, not of works, lest any should boast. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-2#The Change Wrought in the Ephesians (61 AD)|Matthew Henry on Ephesians 2]]
 - All have sinned and fall short of the glory of God, and are justified freely by grace through the redemption in Christ Jesus. [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-3#Justification by Faith; Christ a Propitiation (58 AD)|Matthew Henry on Romans 3]]
+- The gospel way of deliverance is faith in the mercy of God through Jesus Christ; righteousness is revealed from faith to faith, not from faith to works. [[sources/commentaries_english/mhenry-concise/romans/chapter-1#Verses 16, 17|Matthew Henry Concise on Romans 1]]
+- None can obtain God’s favor by their own works; wrath is revealed against ungodliness and unrighteousness that suppress the truth. [[sources/commentaries_english/mhenry-concise/romans/chapter-1#Verses 18–25|Matthew Henry Concise on Romans 1]]
+- The gift of God is eternal life through Jesus Christ; sin’s wages is death. [[sources/commentaries_english/mhenry-concise/romans/chapter-6#Verses 21–23|Matthew Henry Concise on Romans 6]]
+- There is no condemnation for those in Christ who walk after the Spirit; nothing shall separate them from God’s love in Christ. [[sources/commentaries_english/mhenry-concise/romans/chapter-8#Verses 1–9|Matthew Henry Concise on Romans 8]] [[sources/commentaries_english/mhenry-concise/romans/chapter-8#Verses 28–39|Matthew Henry Concise on Romans 8]]
+- The same Lord is rich to all who call on him; faith comes by hearing the word of God. [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 12–17|Matthew Henry Concise on Romans 10]]
 - The Spirit is involved in waiting for the hope of righteousness by faith; salvation by faith is not a Spirit-less transaction. [[sources/commentaries_english/chspurgeon-sermons/volume-21/sermon_1228|Spurgeon, Salvation by Faith and the Work of the Spirit]]
 
 ## Agreements and tensions
@@ -29,14 +34,15 @@ Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through fai
 - Spurgeon and Henry strongly agree that salvation is free grace, Christ-centered, and received by faith rather than merited by works.
 - Spurgeon often presses the singularity of the way of salvation in evangelistic and polemic settings (one way, not grace-plus-law). [[sources/commentaries_english/chspurgeon-sermons/volume-13/sermon_765|Spurgeon, Grace the One Way of Salvation]]
 - Henry's Ephesians 2 exposition holds together natural misery, free grace, faith, new creation unto good works, and Jew-Gentile unity. Good works follow as fruit, not as the cause of acceptance. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-2#The Change Wrought in the Ephesians (61 AD)|Matthew Henry on Ephesians 2]]
-- The relation between justification, sanctification, assurance, and final hope is only partly developed in this seed and should not be collapsed into a single moment without further sources.
+- Romans concise adds the full salvation arc (need → justification → holiness → Spirit → mission) in one epistle map; detailed justification claims now live primarily on [[wiki/concepts/Justification|Justification]].
+- The relation between justification, sanctification, assurance, and final hope must still be kept distinct even while inseparable in Christian experience.
 
 ## Biblical passages
 
 Key loci in the present evidence:
 
 - Acts 15:11
-- Romans 3:21–26; Romans 4:16
+- Romans 1:16–17; Romans 3:21–26; Romans 6:23; Romans 8; Romans 10:9–17
 - Ephesians 2:1–10
 - Galatians 5:5
 - Ephesians 1:12–13
@@ -45,13 +51,22 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 
 ## Related pages
 
+- [[wiki/source-notes/Matthew Henry Concise on Ephesians|Matthew Henry Concise on Ephesians]]
+
+- [[wiki/passages/Ephesians 2|Ephesians 2]]
+
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
+- [[wiki/concepts/Justification|Justification]]
 - [[wiki/concepts/Redemption|Redemption]]
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
+- [[wiki/passages/Romans 1|Romans 1]]
+- [[wiki/passages/Romans 3|Romans 3]]
+- [[wiki/passages/Romans 8|Romans 8]]
+- [[wiki/source-notes/Matthew Henry Concise on Romans|Matthew Henry Concise on Romans]]
 
 ## Sources
 
@@ -60,9 +75,13 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-sermons/volume-23/sermon_1347|Spurgeon, Sermon 1347: How Is Salvation Received?]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-2|Matthew Henry, Ephesians 2]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-3|Matthew Henry, Romans 3]]
+- [[sources/commentaries_english/mhenry-concise/romans/chapter-1|Matthew Henry Concise, Romans 1]]
+- [[sources/commentaries_english/mhenry-concise/romans/chapter-6|Matthew Henry Concise, Romans 6]]
+- [[sources/commentaries_english/mhenry-concise/romans/chapter-8|Matthew Henry Concise, Romans 8]]
+- [[sources/commentaries_english/mhenry-concise/romans/chapter-10|Matthew Henry Concise, Romans 10]]
 
 ## Open questions
 
 - How should assurance, perseverance, and final salvation be ordered on a later expansion of this page?
-- What Spanish or personal-note sources in the vault should be brought in for pastoral application?
-- Where should the boundary fall between this page and later pages on justification, regeneration, and adoption?
+- Which Spurgeon sermons on Romans 8 security should next thicken the “no separation” claim?
+- How should Spanish personal notes shape pastoral application of free grace without legalism?

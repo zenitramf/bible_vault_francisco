@@ -1,0 +1,50 @@
+---
+type: Passage Study
+title: Matthew 9
+description: Forgiveness, calling of sinners, new covenant patterns, raising the dead, and the harvest prayer mark a ministry of compassion and authority.
+tags: [christ, faith, salvation, discipleship]
+status: seed
+updated: 2026-07-16
+source_count: 1
+bible_book_key: 40
+bible_book_name: "Matthew"
+---
+
+# Matthew 9
+
+## Summary
+
+Forgiveness, calling of sinners, new covenant patterns, raising the dead, and the harvest prayer mark a ministry of compassion and authority.
+
+## Core claims
+
+- Jesus forgives sins and heals the paralytic, proving authority on earth to forgive. [[sources/commentaries_english/mhenry-concise/matthew/chapter-9#Verses 1–8|Matthew Henry Concise on Matthew 9]]
+- He calls Matthew the publican and eats with sinners; the sick need the physician. [[sources/commentaries_english/mhenry-concise/matthew/chapter-9#Verses 10–13|Matthew Henry Concise on Matthew 9]]
+- New wine needs new bottles; gospel times bring new forms suited to grace. [[sources/commentaries_english/mhenry-concise/matthew/chapter-9#Verses 14–17|Matthew Henry Concise on Matthew 9]]
+- Faith touches the hem of his garment; even death yields when he takes the hand. [[sources/commentaries_english/mhenry-concise/matthew/chapter-9#Verses 18–26|Matthew Henry Concise on Matthew 9]]
+- The harvest is plentiful but laborers few; pray the Lord of the harvest to send workers. [[sources/commentaries_english/mhenry-concise/matthew/chapter-9#Verses 35–38|Matthew Henry Concise on Matthew 9]]
+
+## Agreements and tensions
+
+This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening should add Matthew Henry Complete on the same chapter and Spurgeon where he treats the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+
+## Biblical passages
+
+Primary scope: Matthew 9 (full chapter).
+
+## Related pages
+
+- [[wiki/concepts/Christ|Christ]]
+- [[wiki/concepts/Faith|Faith]]
+- [[wiki/concepts/Salvation|Salvation]]
+- [[wiki/passages/Matthew 8|Matthew 8]]
+- [[wiki/passages/Matthew 10|Matthew 10]]
+- [[wiki/source-notes/Matthew Henry Concise on Matthew|Matthew Henry Concise on Matthew]]
+
+## Sources
+
+- [[sources/commentaries_english/mhenry-concise/matthew/chapter-9|Matthew Henry Concise, Matthew 9]]
+
+## Open questions
+
+- Which Complete-commentary and Spurgeon materials should next thicken the hub claims of this chapter?

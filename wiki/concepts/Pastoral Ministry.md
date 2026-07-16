@@ -5,7 +5,7 @@ description: Qualified oversight and feeding of Christ's flock for the church's 
 tags: [pastoral-ministry, church, christ, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 5
+source_count: 4
 ---
 
 # Pastoral Ministry
@@ -35,12 +35,21 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16.
 
 ## Related pages
 
+- [[wiki/source-notes/Matthew Henry Concise on 1 Peter|Matthew Henry Concise on 1 Peter]]
+
+- [[wiki/source-notes/Matthew Henry Concise on 1 Timothy|Matthew Henry Concise on 1 Timothy]]
+
+- [[wiki/passages/1 Peter 5|1 Peter 5]]
+
+- [[wiki/passages/1 Timothy 3|1 Timothy 3]]
+
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/passages/1 Timothy 1 12|1 Timothy 1:12]]
 - [[wiki/questions/What Sustains Christian Ministry|What Sustains Christian Ministry?]]
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
+- [[wiki/source-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|The Pastor and His Church — Pastor Andrés Gómez]]
 
 ## Sources
 
@@ -48,9 +57,8 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16.
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-5|Matthew Henry, 1 Peter 5]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-56/sermon_3211|Spurgeon, Sermon 3211: Feed My Sheep]]
 - [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|Pastor Andrés Gómez, The Pastor and His Church]]
-- [[wiki/source-notes/Devotional on 1 Timothy 1 12|Devotional on 1 Timothy 1:12]]
 
 ## Open questions
 
 - How should calling, ordination, and congregational recognition be ordered from further evidence?
-- What bilingual pastoral practices in the personal notes deserve their own source notes?
+- How should the church’s duty to honor and pray for pastors (Gómez note) be expanded from Hebrews 13 and 1 Thessalonians 5?

@@ -12,11 +12,13 @@
 * [Holiness](Holiness.md) - Conformity to the holy God who calls and sanctifies his people through truth (1 Pet 1; Jn 17:17; Heb 10:14).
 * [Holy Spirit](Holy%20Spirit.md) - The promised Comforter who indwells, convicts, guides into truth, and empowers the church (Jn 14–16; Acts 2; Rom 8:26).
 * [Justice](Justice.md) - God's righteous requirement to do justly, love mercy, and defend the oppressed (Mic 6:6–8; Ps 9).
+* [Justification](Justification.md) - God's free declaration that sinners are righteous by grace through faith in Christ, not by works of the law (Rom 3–5).
 * [Pastoral Ministry](Pastoral%20Ministry.md) - Qualified oversight and feeding of Christ's flock for the church's edification (1 Tim 3; 1 Pet 5; Jn 21:16).
 * [Prayer](Prayer.md) - Humble approach to the Father, taught by Christ, helped by the Spirit, and perfected in Christ's intercession (Mt 6:5–15; Jn 17; Rom 8:26–27).
 * [Prophecy](Prophecy.md) - God's word spoken through holy messengers, tested against false prophecy, and used for church edification (2 Pet 1; Jer 23; 1 Cor 14).
 * [Redemption](Redemption.md) - Price-paid deliverance through Christ, foundational for belonging to God and freedom from sin (1 Cor 6:19–20; Rom 3:24–26).
 * [Salvation](Salvation.md) - God's free grace in Christ, received by faith and not by works of the law (Acts 15:11; Rom 3–4; Eph 2).
 * [Spiritual Warfare](Spiritual%20Warfare.md) - The Christian life as a real war against the devil, principalities and powers, fought with spiritual weapons and the whole armor of God (Eph 6:10–18; 1 Pe 5:8–9; Jas 4:7; Mt 4:1–11).
+* [Surrender](Surrender.md) - The whole-person yielding of the will to God — humiliation, acceptance, obedience, and Spirit-sensitivity — that the Bible presents as the only path to life and salvation (Jas 4:7; Ro 6:13; Mt 16:24–26; Ac 9:6).
 * [Wisdom](Wisdom.md) - God-given skill for living that outranks all earthly wealth; in its highest form, the personal Wisdom who is Christ (Pr 16:16; Pr 3:14; Pr 8:10–11, 19; Jb 28; Ps 119:98–100; Col 2:3).
 * [Worship](Worship.md) - Spirit-and-truth approach to the Father in praise, sanctuary service, and accepted offering (Jn 4:20–24; Ps 134).

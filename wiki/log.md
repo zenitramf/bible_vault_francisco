@@ -79,3 +79,19 @@ append_only: true
 ## [2026-07-16] ingest | Wisdom concept (Proverbs 16:16)
 
 - Seeded wiki/concepts/Wisdom.md at Francisco's request after a vault question on Proverbs 16:16. Synthesis grounded in Matthew Henry Complete and Concise on Proverbs 3, 8, 16, and Job 28; Spurgeon Treasury of David on Psalm 119:97-104; Spurgeon sermon 1677 on Revelation 3:17-18. Seven sources. bible_reference omitted from frontmatter because the concept is multi-passage. Catalog rebuilt; lint, audit, and lint-wiki all pass.
+
+## [2026-07-16] ingest | Surrender concept
+
+- New wiki/concepts/Surrender.md seed synthesizing 'surrender' as a Biblical Concept (Christian-life, faith, discipleship, salvation, christ, holy-spirit, repentance, prayer). Anchored on James 4:7 via Spurgeon Sermon 1276 (Unconditional Surrender). Draws on 9 Spurgeon sources (sermons 1276, 1520, 1554, 1118, 3411; M&E Feb 24, Apr 2, Apr 6, May 6) and 4 Matthew Henry sources (Jer 21, 27, 38 concise + complete, 1 Kings 20). 13 distinct source files; source_count: 13.
+
+## [2026-07-16] campaign | Phase 0–2 Romans concise + personal notes
+
+- Created campaigns plan/tracker, Core Query Suite, ingested remaining personal notes, built Romans 1–16 passage atlas from mhenry-concise, new Justification concept, promoted hub concepts to developing, book source-note for Romans concise.
+
+## [2026-07-16] campaign | Gómez source-note uniform + Matthew concise atlas
+
+- Added dedicated source-note for Pastor Andrés Gómez and linked Pastoral Ministry/Spiritual Warfare. Built Matthew 1–28 passage atlas from mhenry-concise with book source-note; meshed Christ, Discipleship, Prayer, Church, Redemption; updated tracker. No embedding.
+
+## [2026-07-16] campaign | Phase 2 NT mhenry-concise complete
+
+- Completed remaining Phase 2 rows: all 27 NT books from mhenry-concise as chapter passage atlases (216 new chapters this pass + prior Romans/Matthew). Book source-notes for each; hub concept related links for John/Acts/Ephesians/Hebrews/James/Galatians/1 Timothy/1 Peter/Revelation. Fixed residual Romans anchors. No embedding.

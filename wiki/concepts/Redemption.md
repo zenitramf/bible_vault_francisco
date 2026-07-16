@@ -3,9 +3,9 @@ type: Biblical Concept
 title: Redemption
 description: Price-paid deliverance through Christ, foundational for belonging to God and freedom from sin (1 Cor 6:19–20; Rom 3:24–26).
 tags: [redemption, christ, salvation]
-status: seed
+status: developing
 updated: 2026-07-16
-source_count: 4
+source_count: 6
 ---
 
 # Redemption
@@ -21,7 +21,8 @@ In the Spurgeon sermons retrieved for this concept, redemption is the central go
 - Redemption is plenteous: it delivers from guilt and from the power of sin, and its range is larger than human expectation. [[sources/commentaries_english/chspurgeon-sermons/volume-7/sermon_351|Spurgeon, Plenteous Redemption]]
 - Redemption is the foundation of the believer's standing, illustrated by the silver sockets of the tabernacle formed from ransom money. [[sources/commentaries_english/chspurgeon-sermons/volume-27/sermon_1581|Spurgeon, Silver Sockets]]
 - God's people are a redeemed people; counting the church apart from those who have part in the appointed redemption is a dangerous mistake. [[sources/commentaries_english/chspurgeon-sermons/volume-27/sermon_1581|Spurgeon, Silver Sockets]]
-- Justification is free by grace through the redemption that is in Christ Jesus, whom God set forth as a propitiation through faith in his blood. [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-3#Justification by Faith; Christ a Propitiation (58 AD)|Matthew Henry on Romans 3]]
+- Justification is free by grace through the redemption that is in Christ Jesus, whom God set forth as a propitiation through faith in his blood. [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-3#Justification by Faith; Christ a Propitiation (58 AD)|Matthew Henry on Romans 3]] [[sources/commentaries_english/mhenry-concise/romans/chapter-3#Verses 21–26|Matthew Henry Concise on Romans 3]]
+- Christ’s death for the ungodly effects reconciliation by his blood; grace through him superabounds beyond Adam’s offense. [[sources/commentaries_english/mhenry-concise/romans/chapter-5#Verses 6–11|Matthew Henry Concise on Romans 5]] [[sources/commentaries_english/mhenry-concise/romans/chapter-5#Verses 20, 21|Matthew Henry Concise on Romans 5]]
 
 ## Agreements and tensions
 
@@ -37,7 +38,7 @@ Key loci in the present evidence:
 - 1 Corinthians 6:19–20
 - Psalm 130:7 / Psalm 103 (Spurgeon's "plenteous redemption" text family)
 - Exodus 30:11–16; Exodus 38:25–27
-- Romans 3:24–26
+- Romans 3:24–26; Romans 5:6–21
 
 No single primary verse is set in frontmatter because the concept is multi-passage in the sources used.
 
@@ -45,10 +46,14 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Salvation|Salvation]]
+- [[wiki/concepts/Justification|Justification]]
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
+- [[wiki/passages/Romans 3|Romans 3]]
+- [[wiki/passages/Romans 5|Romans 5]]
+- [[wiki/passages/Matthew 27|Matthew 27]]
 
 ## Sources
 
@@ -56,6 +61,8 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-sermons/volume-7/sermon_351|Spurgeon, Sermon 351: Plenteous Redemption]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-27/sermon_1581|Spurgeon, Sermon 1581: Silver Sockets—Redemption the Foundation!]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-3|Matthew Henry, Romans 3]]
+- [[sources/commentaries_english/mhenry-concise/romans/chapter-3|Matthew Henry Concise, Romans 3]]
+- [[sources/commentaries_english/mhenry-concise/romans/chapter-5|Matthew Henry Concise, Romans 5]]
 
 ## Open questions
 

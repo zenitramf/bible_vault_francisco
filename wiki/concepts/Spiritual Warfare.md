@@ -5,7 +5,7 @@ description: The Christian life as a real war against the devil, principalities 
 tags: [christ, holy-spirit, holiness, discipleship, christian-life]
 status: seed
 updated: 2026-07-16
-source_count: 12
+source_count: 13
 ---
 
 # Spiritual Warfare
@@ -52,6 +52,8 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
+- [[wiki/source-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|The Pastor and His Church — Pastor Andrés Gómez]]
+- [[wiki/passages/Matthew 4|Matthew 4]]
 
 ## Sources
 
@@ -67,6 +69,7 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[sources/commentaries_english/chspurgeon-sermons/volume-55/sermon_3143|Spurgeon, Sermon 3143: Shoes for Pilgrims and Warriors]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-61/sermon_3466|Spurgeon, Sermon 3466: A Warning to Believers]]
 - [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|Pastor Andrés Gómez, The Pastor and His Church]]
+- [[wiki/source-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|The Pastor and His Church — Pastor Andrés Gómez]]
 
 ## Open questions
 
