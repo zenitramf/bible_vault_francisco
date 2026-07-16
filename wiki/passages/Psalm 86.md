@@ -5,7 +5,7 @@ description: The psalmist pleads his earnestness, and the mercy of God, as reaso
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Psalm 86: The psalmist pleads his earnestness, and the 
 - Our poverty and wretchedness, when felt, powerfully plead in our behalf at the throne of grace. The best self-preservation is to commit ourselves to God's keeping. [[sources/commentaries_english/mhenry-concise/psalms/psalm-86#Verses 1–7|Matthew Henry Concise on Psalm 86]]
 - Our God alone possesses almighty power and infinite love. Christ is the way and the truth. [[sources/commentaries_english/mhenry-concise/psalms/psalm-86#Verses 8–17|Matthew Henry Concise on Psalm 86]]
 - This psalm is entitled "a prayer of David;" probably it was not penned upon any particular occasion, but was a prayer he often used himself, and recommended to others for their use, especially in a day of affliction.… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-86|Matthew Henry Complete on Psalm 86]]
+- Title — A Prayer of David. We have here one of the five psalms entitled Tephillahs or prayers. This psalm consists of praise as well as prayer, but it is in all parts so directly addressed to God that it is most fitly… [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-86|Treasury of David, Psalm 86]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 86 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 4|Spurgeon Treasury of David Volume 4]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -50,6 +55,7 @@ Primary scope: Psalm 86 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-86|Matthew Henry Concise, Psalm 86]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-86|Matthew Henry Complete on Psalm 86]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-86|Treasury of David, Psalm 86]]
 
 ## Open questions
 

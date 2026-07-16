@@ -5,7 +5,7 @@ description: The safety of those who have God for their refuge. (1–8). Their f
 tags: [prayer, worship, faith, holiness, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Psalm 91: The safety of those who have God for their re
 - He that by faith chooses God for his protector, shall find all in him that he needs or can desire. And those who have found the comfort of making the Lord their refuge, cannot but desire that others may do so. [[sources/commentaries_english/mhenry-concise/psalms/psalm-91#Verses 1–8|Matthew Henry Concise on Psalm 91]]
 - Whatever happens, nothing shall hurt the believer; though trouble and affliction befal, it shall come, not for his hurt, but for good, though for the present it be not joyous but grievous. Those who rightly know God, will set their love upon him. [[sources/commentaries_english/mhenry-concise/psalms/psalm-91#Verses 9–16|Matthew Henry Concise on Psalm 91]]
 - Some of the ancients were of opinion that Moses was the penman, not only of the foregoing psalm, which is expressly said to be his, but also of the eight that next follow it; but that cannot be, for Ps 95:1-11 is… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-91|Matthew Henry Complete on Psalm 91]]
+- Title — This Psalm is without a title, and we have no means of ascertaining either the name of its writer, or the date of its composition, with certainly. The Jewish doctors consider that when the author's name is not… [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-91|Treasury of David, Psalm 91]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 91 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 4|Spurgeon Treasury of David Volume 4]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -50,6 +55,7 @@ Primary scope: Psalm 91 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-91|Matthew Henry Concise, Psalm 91]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-91|Matthew Henry Complete on Psalm 91]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-91|Treasury of David, Psalm 91]]
 
 ## Open questions
 

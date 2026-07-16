@@ -5,7 +5,7 @@ description: God is praised for what he has done for his people. (1–7). Their 
 tags: [prayer, worship, faith, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Psalm 81: God is praised for what he has done for his p
 - All the worship we can render to the Lord is beneath his excellences, and our obligations to him, especially in our redemption from sin and wrath. What God had done on Israel's behalf, was kept in remembrance by public solemnities. [[sources/commentaries_english/mhenry-concise/psalms/psalm-81#Verses 1–7|Matthew Henry Concise on Psalm 81]]
 - We cannot look for too little from the creature, nor too much from the Creator. We may have enough from God, if we pray for it in faith. [[sources/commentaries_english/mhenry-concise/psalms/psalm-81#Verses 8–16|Matthew Henry Concise on Psalm 81]]
 - This psalm was penned, as is supposed, not upon occasion of any particular providence, but for the solemnity of a particular ordinance, either that of the new-moon in general or that of the feast of trumpets on the new… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-81|Matthew Henry Complete on Psalm 81]]
+- Title — To the Chief Musician upon Gittith. Very little is known of the meaning of this Title — We have given the best explanation known to us in connection with Psalm 8 in Volume 1 of this work. If it be intended to… [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-81|Treasury of David, Psalm 81]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 81 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 4|Spurgeon Treasury of David Volume 4]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -50,6 +55,7 @@ Primary scope: Psalm 81 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-81|Matthew Henry Concise, Psalm 81]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-81|Matthew Henry Complete on Psalm 81]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-4/psalm-81|Treasury of David, Psalm 81]]
 
 ## Open questions
 
