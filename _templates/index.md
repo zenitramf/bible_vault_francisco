@@ -1,5 +1,8 @@
 # Templates
 
+Live database view: [[_templates/index.base|Folder base]]. Static OKF list remains below.
+
+
 # Contents
 
 * [[_templates/concept-note|Concept note]] - Template for `wiki/concepts/` pages.

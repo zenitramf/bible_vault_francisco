@@ -1,0 +1,32 @@
+# Wiki hub base (pairs with index.md; does not replace it).
+filters:
+  and:
+    - 'file.inFolder("wiki")'
+    - or:
+        - 'file.name == "index.md"'
+        - 'file.path == "wiki/log.md"'
+    - 'file.path != "wiki/index.md"'
+
+properties:
+  title:
+    displayName: Title
+  description:
+    displayName: Summary
+  type:
+    displayName: Type
+
+views:
+  - type: table
+    name: "Wiki sections"
+    order:
+      - file.folder
+      - file.name
+      - type
+      - title
+      - description
+
+  - type: list
+    name: "List"
+    order:
+      - file.folder
+      - file.name

@@ -1,0 +1,83 @@
+# Base of bases — every Obsidian .base file in this vault.
+filters:
+  and:
+    - 'file.ext == "base"'
+
+formulas:
+  is_index_base: 'if(file.name == "index.base", "index", "other")'
+  area: 'if(file.folder == "wiki" || file.folder.startsWith("wiki/"), "wiki", if(file.folder == "sources" || file.folder.startsWith("sources/"), "sources", if(file.folder == "schema" || file.folder.startsWith("schema/"), "schema", if(file.folder == "_templates" || file.folder.startsWith("_templates/"), "templates", if(file.folder == "raw" || file.folder.startsWith("raw/"), "raw", "root")))))'
+
+properties:
+  formula.is_index_base:
+    displayName: Role
+  formula.area:
+    displayName: Area
+  file.folder:
+    displayName: Folder
+  file.name:
+    displayName: Name
+
+views:
+  - type: table
+    name: "All bases"
+    order:
+      - file.path
+      - file.folder
+      - file.name
+      - formula.area
+      - formula.is_index_base
+    summaries:
+      file.name: Unique
+
+  - type: table
+    name: "By area"
+    order:
+      - file.path
+      - file.name
+      - formula.is_index_base
+    groupBy:
+      property: formula.area
+      direction: ASC
+
+  - type: table
+    name: "Index counterparts only"
+    filters:
+      and:
+        - 'file.name == "index.base"'
+    order:
+      - file.folder
+      - file.path
+    groupBy:
+      property: formula.area
+      direction: ASC
+
+  - type: table
+    name: "Wiki bases"
+    filters:
+      and:
+        - 'file.folder == "wiki" || file.folder.startsWith("wiki/")'
+    order:
+      - file.path
+      - file.name
+
+  - type: table
+    name: "Sources bases"
+    filters:
+      and:
+        - 'file.folder == "sources" || file.folder.startsWith("sources/")'
+    order:
+      - file.path
+      - file.name
+
+  - type: list
+    name: "List"
+    order:
+      - file.path
+      - formula.area
+
+  - type: cards
+    name: "Cards"
+    order:
+      - file.name
+      - file.folder
+      - formula.area

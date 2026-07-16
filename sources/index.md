@@ -1,5 +1,7 @@
 # Sources
 
+Live database view: [[sources/index.base|Sources base]] (recursive over collections). Collection folders also have paired `index.base` files. Static OKF lists remain below.
+
 # Contents
 
 * [[sources/commentaries_english/index|English commentaries]] - Immutable English commentary, sermon, and devotional collections.

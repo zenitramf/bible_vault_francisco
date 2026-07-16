@@ -1,5 +1,8 @@
 # Schema
 
+Live database view: [[schema/index.base|Folder base]]. Static OKF list remains below.
+
+
 # Contents
 
 * [[schema/frontmatter-schema|Frontmatter schema]] - OKF v0.1 frontmatter rules and Bible Vault producer extensions.

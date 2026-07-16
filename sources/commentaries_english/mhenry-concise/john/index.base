@@ -1,0 +1,68 @@
+# Auto-generated counterpart to index.md in sources/commentaries_english/mhenry-concise/john.
+# Pairs with the static OKF index.md; does not replace it.
+filters:
+  and:
+    - 'file.inFolder("sources/commentaries_english/mhenry-concise/john")'
+    - 'file.ext == "md"'
+    - 'file.name != "index.md"'
+
+properties:
+  title:
+    displayName: Title
+  description:
+    displayName: Summary
+  type:
+    displayName: Type
+  tags:
+    displayName: Tags
+  bible_book_name:
+    displayName: Book
+  bible_reference:
+    displayName: Reference
+  linkTitle:
+    displayName: Link title
+  weight:
+    displayName: Weight
+
+views:
+  - type: table
+    name: "Contents"
+    order:
+      - file.name
+      - title
+      - type
+      - bible_book_name
+      - tags
+      - description
+    summaries:
+      file.name: Unique
+
+  - type: table
+    name: "By book"
+    order:
+      - file.name
+      - title
+      - tags
+      - description
+    groupBy:
+      property: bible_book_name
+      direction: ASC
+
+  - type: table
+    name: "By type"
+    order:
+      - file.name
+      - title
+      - tags
+      - description
+    groupBy:
+      property: type
+      direction: ASC
+
+  - type: cards
+    name: "Cards"
+    order:
+      - file.name
+      - title
+      - tags
+      - description

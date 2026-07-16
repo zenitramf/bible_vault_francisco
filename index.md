@@ -1,5 +1,7 @@
 # Bible Vault
 
+Live database views: [[bases.base|Base of bases]] (every `.base` in the vault) · [[index.base|Root base]] (hub navigation). Static OKF lists remain below; every content directory also has a paired `index.base`.
+
 # Contents
 
 * [[AGENTS|Bible Vault Metadata Conventions]] - Rules for OKF metadata, tags, Bible references, and navigation in this vault.
