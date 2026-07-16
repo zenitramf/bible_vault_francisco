@@ -5,7 +5,7 @@ description: Belshazzar's impious feast; the hand-writing on the wall. (1-9). Da
 tags: [prophecy, faith, prayer, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 27
 bible_book_name: "Daniel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Daniel 5: Belshazzar's impious feast; the hand-writing 
 - Belshazzar bade defiance to the judgments of God. Most historians consider that Cyrus then besieged Babylon. [[sources/commentaries_english/mhenry-concise/daniel/chapter-5#Verses 1-9|Matthew Henry Concise on Daniel 5]]
 - Daniel was forgotten at court; he lived privately, and was then ninety years of age. Many consult servants of God on curious questions, or to explain difficult subjects, but without asking the way of salvation, or the path of duty. [[sources/commentaries_english/mhenry-concise/daniel/chapter-5#Verses 10-17|Matthew Henry Concise on Daniel 5]]
 - Daniel reads Belshazzar's doom. He had not taken warning by the judgments upon Nebuchadnezzar. [[sources/commentaries_english/mhenry-concise/daniel/chapter-5#Verses 18-31|Matthew Henry Concise on Daniel 5]]
+- The destruction of the kingdom of Babylon had been long and often foretold when it was at a distance; in this chapter we have it accomplished, and a prediction of it the very same night that it was accomplished.… [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-5|Matthew Henry Complete on Daniel 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Daniel 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Daniel 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/daniel/chapter-5|Matthew Henry Concise, Daniel 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-5|Matthew Henry Complete on Daniel 5]]
 
 ## Open questions
 

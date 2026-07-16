@@ -5,7 +5,7 @@ description: Nebuchadnezzar's dream. (1-13). It is revealed to Daniel. (14-23). 
 tags: [prophecy, faith, prayer, holiness, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 27
 bible_book_name: "Daniel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Daniel 2: Nebuchadnezzar's dream. (1-13). It is reveale
 - The greatest men are most open to cares and troubles of mind, which disturb their repose in the night, while the sleep of the labouring man is sweet and sound. We know not the uneasiness of many who live in great pomp, and, as others vainly think, in pleasure also. [[sources/commentaries_english/mhenry-concise/daniel/chapter-2#Verses 1-13|Matthew Henry Concise on Daniel 2]]
 - Daniel takes away the king's opinion of his magicians and soothsayers. The insufficiency of creatures should drive us to the all-sufficiency of the Creator. [[sources/commentaries_english/mhenry-concise/daniel/chapter-2#Verses 24-30|Matthew Henry Concise on Daniel 2]]
 - It is our business to direct attention to the Lord, as the Author and Giver of every good gift. Many have thoughts of the Divine power and majesty, who do not think of serving God themselves. [[sources/commentaries_english/mhenry-concise/daniel/chapter-2#Verses 46-49|Matthew Henry Concise on Daniel 2]]
+- It was said (Da 1:17) that Daniel had understanding in dreams; and here we have an early and eminent instance of it, which soon made him famous in the court of Babylon, as Joseph by the same means came to be so in the… [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-2|Matthew Henry Complete on Daniel 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Daniel 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Daniel 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/daniel/chapter-2|Matthew Henry Concise, Daniel 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-2|Matthew Henry Complete on Daniel 2]]
 
 ## Open questions
 

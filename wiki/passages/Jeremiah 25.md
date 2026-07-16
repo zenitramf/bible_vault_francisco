@@ -5,7 +5,7 @@ description: The Jews rebuked for not obeying calls to repentance. (1-7). Their 
 tags: [prophecy, covenant, justice, worship, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Jeremiah 25: The Jews rebuked for not obeying calls to 
 - The call to turn from evil ways to the worship and service of God, and for sinners to trust in Christ, and partake of his salvation, concerns all men. God keeps an account how long we possess the means of grace; and the longer we have them, the heavier will our account be if we have not improved them. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-25#Verses 1-7|Matthew Henry Concise on Jeremiah 25]]
 - The evil and the good events of life are often represented in Scripture as cups. Under this figure is represented the desolation then coming upon that part of the world, of which Nebuchadnezzar, who had just began to reign and act, was to be the instrument; but this destroying sword would come from the hand of God. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-25#Verses 15-29|Matthew Henry Concise on Jeremiah 25]]
 - The Lord has just ground of controversy with every nation and every person; and he will execute judgment on all the wicked. Who can avoid trembling when God speaks in displeasure? [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-25#Verses 30-38|Matthew Henry Concise on Jeremiah 25]]
+- The prophecy of this chapter bears date some time before those prophecies in the chapters next foregoing, for they are not placed in the exact order of time in which they were delivered. This is dated in the first year… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-25|Matthew Henry Complete on Jeremiah 25]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 25 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Jeremiah 25 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-25|Matthew Henry Concise, Jeremiah 25]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-25|Matthew Henry Complete on Jeremiah 25]]
 
 ## Open questions
 

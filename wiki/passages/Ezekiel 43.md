@@ -5,7 +5,7 @@ description: The Vision of the Temple. (1-27).
 tags: [prophecy, holiness, worship, covenant, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 26
 bible_book_name: "Ezekiel"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Ezekiel 43: The Vision of the Temple. (1-27).
 ## Core claims
 
 - After Ezekiel had surveyed the temple of God, he had a vision of the glory of God. When Christ crucified, and the things freely given to us of God, through Him, are shown to us by the Holy Ghost, they make us ashamed for our sins. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-43#Verses 1-27|Matthew Henry Concise on Ezekiel 43]]
+- The prophet, having given us a view of the mystical temple, the gospel-church, as he received it from the Lord, that it might appear not to be erected in vain, comes to describe, in this and the next chapter, the… [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-43|Matthew Henry Complete on Ezekiel 43]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ezekiel 43 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -42,6 +47,7 @@ Primary scope: Ezekiel 43 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-43|Matthew Henry Concise, Ezekiel 43]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-43|Matthew Henry Complete on Ezekiel 43]]
 
 ## Open questions
 

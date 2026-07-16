@@ -5,7 +5,7 @@ description: Ishmael murders Gedaliah. (1-10). Johanan recovers the captives, an
 tags: [prophecy, covenant, justice, worship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Jeremiah 41: Ishmael murders Gedaliah. (1-10). Johanan 
 
 - Those who hate the worshippers of God, often put on the appearance of piety, that they may the easier hurt them. As death often meets men where they least expect it, we should continually search whether we are in such a state and frame of mind, as we would wish to be found in when called to appear before our Judge. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-41#Verses 1-10|Matthew Henry Concise on Jeremiah 41]]
 - The success of villany must be short, and none can prosper who harden their hearts against God. And those justly lose comfort in real fears, who excuse themselves in sin by pretended fears. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-41#Verses 11-18|Matthew Henry Concise on Jeremiah 41]]
+- It is a very tragical story that is related in this chapter, and shows that evil pursues sinners. The black cloud that was gathering in the foregoing chapter here bursts in a dreadful storm. Those few Jews that escaped… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-41|Matthew Henry Complete on Jeremiah 41]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 41 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: Jeremiah 41 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-41|Matthew Henry Concise, Jeremiah 41]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-41|Matthew Henry Complete on Jeremiah 41]]
 
 ## Open questions
 

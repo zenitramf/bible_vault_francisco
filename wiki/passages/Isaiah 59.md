@@ -5,7 +5,7 @@ description: Reproofs of sin and wickedness. (1-8). Confession of sin, and lamen
 tags: [prophecy, christ, salvation, justice, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Isaiah 59: Reproofs of sin and wickedness. (1-8). Confe
 - If our prayers are not answered, and the salvation we wait for is not wrought for us, it is not because God is weary of hearing prayer, but because we are weary of praying. See here sin in true colours, exceedingly sinful; and see sin in its consequences, exceedingly hurtful, separating from God, and so separating… [[sources/commentaries_english/mhenry-concise/isaiah/chapter-59#Verses 1-8|Matthew Henry Concise on Isaiah 59]]
 - If we shut our eyes against the light of Divine truth, it is just with God to hide from our eyes the things that belong to our peace. The sins of those who profess themselves God's people, are worse than the sins of others. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-59#Verses 9-15|Matthew Henry Concise on Isaiah 59]]
 - This passage is connected with the following chapters. It is generally thought to describe the coming of the Messiah, as the Avenger and Deliverer of his church. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-59#Verses 16-21|Matthew Henry Concise on Isaiah 59]]
+- In this chapter we have sin appearing exceedingly sinful, and grace appearing exceedingly gracious; and, as what is here said of the sinner's sin (Isa 59:7,8) is applied to the general corruption of mankind (Ro 3:15),… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-59|Matthew Henry Complete on Isaiah 59]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 59 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -45,6 +50,7 @@ Primary scope: Isaiah 59 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-59|Matthew Henry Concise, Isaiah 59]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-59|Matthew Henry Complete on Isaiah 59]]
 
 ## Open questions
 

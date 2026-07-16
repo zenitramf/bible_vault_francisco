@@ -5,7 +5,7 @@ description: God's care for his people; and the increase of the church. (1-7).
 tags: [prophecy, christ, salvation, justice, church]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Isaiah 18: God's care for his people; and the increase 
 ## Core claims
 
 - This chapter is one of the most obscure in Scripture, though more of it probably was understood by those for whose use it was first intended, than by us now. Swift messengers are sent by water to a nation marked by Providence, and measured out, trodden under foot. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-18#Verses 1-7|Matthew Henry Concise on Isaiah 18]]
+- Whatever country it is that is meant here by "the land shadowing with wings," here is a woe denounced against it, for God has, upon his people's account, a quarrel with it. I. They threaten God's people, Isa 18:1,2.… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-18|Matthew Henry Complete on Isaiah 18]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 18 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -43,6 +48,7 @@ Primary scope: Isaiah 18 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-18|Matthew Henry Concise, Isaiah 18]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-18|Matthew Henry Complete on Isaiah 18]]
 
 ## Open questions
 

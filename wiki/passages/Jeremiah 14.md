@@ -5,7 +5,7 @@ description: A drought upon the land of Judah. (1-7). A confession of sin in the
 tags: [prophecy, covenant, justice, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Jeremiah 14: A drought upon the land of Judah. (1-7). A
 - The people were in tears. But it was rather the cry of their trouble, and of their sin, than of their prayer. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-14#Verses 1-9|Matthew Henry Concise on Jeremiah 14]]
 - The Lord calls the Jews "this people," not "his people." They had forsaken his service, therefore he would punish them according to their sins. He forbade Jeremiah to plead for them. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-14#Verses 10-16|Matthew Henry Concise on Jeremiah 14]]
 - Jeremiah acknowledged his own sins, and those of the people, but pleaded with the Lord to remember his covenant. In their distress none of the idols of the Gentiles could help them, nor could the heavens give rain of themselves. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-14#Verses 17-22|Matthew Henry Concise on Jeremiah 14]]
+- This chapter was penned upon occasion of a great drought, for want of rain. This judgment began in the latter end of Josiah's reign, but, as it should seem, continued in the beginning of Jehoiakim's: for less judgments… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-14|Matthew Henry Complete on Jeremiah 14]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 14 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: Jeremiah 14 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-14|Matthew Henry Concise, Jeremiah 14]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-14|Matthew Henry Complete on Jeremiah 14]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The restoration of the Jews to their own land. (1-8). The wickednes
 tags: [prophecy, covenant, justice, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Jeremiah 23: The restoration of the Jews to their own l
 - Woe be to those who are set to feed God's people, but take no concern to do them good! Here is a word of comfort to the neglected sheep. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-23#Verses 1-8|Matthew Henry Concise on Jeremiah 23]]
 - Men cannot be hidden from God's all-seeing eye. Will they never see what judgments they prepare for themselves? [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-23#Verses 23-32|Matthew Henry Concise on Jeremiah 23]]
 - Those are miserable indeed who are forsaken and forgotten of God; and men's jesting at God's judgments will not baffle them. God had taken Israel to be a people near to him, but they shall now be cast out of his presence. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-23#Verses 33-40|Matthew Henry Concise on Jeremiah 23]]
+- In this chapter the prophet, in God's name, is dealing his reproofs and threatenings, I. Among the careless princes, or pastors of the people (Jer 23:1,2), yet promising to take care of the flock, which they had been… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-23|Matthew Henry Complete on Jeremiah 23]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 23 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: Jeremiah 23 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-23|Matthew Henry Concise, Jeremiah 23]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-23|Matthew Henry Complete on Jeremiah 23]]
 
 ## Open questions
 

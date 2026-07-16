@@ -5,7 +5,7 @@ description: A plague of locusts. (1-7) . All sorts of people are called to lame
 tags: [prophecy, holy-spirit, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 29
 bible_book_name: "Joel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Joel 1: A plague of locusts. (1-7) . All sorts of peopl
 - The most aged could not remember such calamities as were about to take place. Armies of insects were coming upon the land to eat the fruits of it. [[sources/commentaries_english/mhenry-concise/joel/chapter-1#Verses 1-7|Matthew Henry Concise on Joel 1]]
 - All who labour only for the meat that perishes, will, sooner or later, be ashamed of their labour. Those that place their happiness in the delights of sense, when deprived of them, or disturbed in the enjoyment, lose their joy; whereas spiritual joy then flourishes more than ever. [[sources/commentaries_english/mhenry-concise/joel/chapter-1#Verses 8-13|Matthew Henry Concise on Joel 1]]
 - The sorrow of the people is turned into repentance and humiliation before God. With all the marks of sorrow and shame, sin must be confessed and bewailed. [[sources/commentaries_english/mhenry-concise/joel/chapter-1#Verses 14-20|Matthew Henry Concise on Joel 1]]
+- This chapter is the description of a lamentable devastation made of the country of Judah by locusts and caterpillars. Some think that the prophet speaks of it as a thing to come and gives warning of it beforehand, as… [[sources/commentaries_english/mhenry-complete/volume-4/joel/chapter-1|Matthew Henry Complete on Joel 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Joel 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -42,6 +47,7 @@ Primary scope: Joel 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/joel/chapter-1|Matthew Henry Concise, Joel 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/joel/chapter-1|Matthew Henry Complete on Joel 1]]
 
 ## Open questions
 

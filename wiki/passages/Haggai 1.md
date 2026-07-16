@@ -5,7 +5,7 @@ description: Haggai reproves the Jews for neglecting the temple. (1–11). He pr
 tags: [worship, covenant, prophecy, holiness, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 37
 bible_book_name: "Haggai"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Haggai 1: Haggai reproves the Jews for neglecting the t
 
 - Observe the sin of the Jews, after their return from captivity in Babylon. Those employed for God may be driven from their work by a storm, yet they must go back to it. [[sources/commentaries_english/mhenry-concise/haggai/chapter-1#Verses 1–11|Matthew Henry Concise on Haggai 1]]
 - The people returned to God in the way of duty. In attending to God's ministers, we must have respect to him that sent them. [[sources/commentaries_english/mhenry-concise/haggai/chapter-1#Verses 12–15|Matthew Henry Concise on Haggai 1]]
+- In this chapter, after the preamble of the prophecy, we have, I. A reproof of the people of the Jews for their dilatoriness and slothfulness in building the temple, which had provoked God to contend with them by the… [[sources/commentaries_english/mhenry-complete/volume-4/haggai/chapter-1|Matthew Henry Complete on Haggai 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Haggai 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -42,6 +47,7 @@ Primary scope: Haggai 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/haggai/chapter-1|Matthew Henry Concise, Haggai 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/haggai/chapter-1|Matthew Henry Complete on Haggai 1]]
 
 ## Open questions
 

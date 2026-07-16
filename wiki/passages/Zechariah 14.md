@@ -5,7 +5,7 @@ description: The sufferings of Jerusalem. (1–7). Encouraging prospects, and th
 tags: [prophecy, christ, salvation, worship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 38
 bible_book_name: "Zechariah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Zechariah 14: The sufferings of Jerusalem. (1–7). Enc
 - The Lord Jesus often stood upon the Mount of Olives when on earth. He ascended from thence to heaven, and then desolations and distresses came upon the Jewish nation. [[sources/commentaries_english/mhenry-concise/zechariah/chapter-14#Verses 1–7|Matthew Henry Concise on Zechariah 14]]
 - Some consider that the progress of the gospel, beginning from Jerusalem, is referred to by the living waters flowing from that city. Neither shall the gospel and means of grace, nor the graces of the Spirit wrought in the hearts of believers by those means, ever fail, by reason either of the heat of persecution, or… [[sources/commentaries_english/mhenry-concise/zechariah/chapter-14#Verses 8–15|Matthew Henry Concise on Zechariah 14]]
 - As it is impossible for all nations literally to come to Jerusalem once a year, to keep a feast, it is evident that a figurative meaning must here be applied. Gospel worship is represented by the keeping of the feast of tabernacles. [[sources/commentaries_english/mhenry-concise/zechariah/chapter-14#Verses 16–21|Matthew Henry Concise on Zechariah 14]]
+- Divers things were foretold, in the two foregoing chapters, which should come to pass "in that day;" this chapter speaks of a "day of the Lord that cometh," a day of his judgment, and ten times in the foregoing… [[sources/commentaries_english/mhenry-complete/volume-4/zechariah/chapter-14|Matthew Henry Complete on Zechariah 14]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Zechariah 14 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -43,6 +48,7 @@ Primary scope: Zechariah 14 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/zechariah/chapter-14|Matthew Henry Concise, Zechariah 14]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/zechariah/chapter-14|Matthew Henry Complete on Zechariah 14]]
 
 ## Open questions
 

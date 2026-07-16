@@ -5,7 +5,7 @@ description: The disobedient Jews reproved. (1-10). Their utter ruin. (11-17). T
 tags: [prophecy, covenant, justice, faith, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Jeremiah 11: The disobedient Jews reproved. (1-10). The
 - God never promised to bestow blessings on his rational creatures, while they persist in wilful disobedience. Pardon and acceptance are promised freely to all believers; but no man can be saved who does not obey the command of God to repent, to believe in Christ, to separate from sin and the world, to choose… [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-11#Verses 1-10|Matthew Henry Concise on Jeremiah 11]]
 - Evil pursues sinners, and entangles them in snares, out of which they cannot free themselves. Now, in their distress, their many gods and many altars stand them in no stead. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-11#Verses 11-17|Matthew Henry Concise on Jeremiah 11]]
 - The prophet Jeremiah tells much concerning himself, the times he lived in being very troublesome. Those of his own city plotted how they might cause his death. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-11#Verses 18-23|Matthew Henry Concise on Jeremiah 11]]
+- In this chapter, I. God by the prophet puts the people in mind of the covenant he had made with their fathers, and how much he had insisted upon it, as the condition of the covenant, that they should be obedient to… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-11|Matthew Henry Complete on Jeremiah 11]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 11 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Jeremiah 11 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-11|Matthew Henry Concise, Jeremiah 11]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-11|Matthew Henry Complete on Jeremiah 11]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: A type of hair, showing the judgments about to come upon the Jews. 
 tags: [prophecy, holiness, worship, covenant, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 26
 bible_book_name: "Ezekiel"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Ezekiel 5: A type of hair, showing the judgments about 
 
 - The prophet must shave off the hair of his head and beard, which signifies God's utter rejecting and abandoning that people. One part must be burned in the midst of the city, denoting the multitudes that should perish by famine and pestilence. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-5#Verses 1-4|Matthew Henry Concise on Ezekiel 5]]
 - The sentence passed upon Jerusalem is very dreadful, the manner of expression makes it still more so. Who is able to stand in God's sight when he is angry? [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-5#Verses 5-17|Matthew Henry Concise on Ezekiel 5]]
+- In this chapter we have a further, and no less terrible, denunciation of the judgments of God, which were coming with all speed and force upon the Jewish nation, which would utterly ruin it; for when God judges he will… [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-5|Matthew Henry Complete on Ezekiel 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ezekiel 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -43,6 +48,7 @@ Primary scope: Ezekiel 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-5|Matthew Henry Concise, Ezekiel 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-5|Matthew Henry Complete on Ezekiel 5]]
 
 ## Open questions
 

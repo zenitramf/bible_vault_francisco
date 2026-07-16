@@ -5,7 +5,7 @@ description: Destruction to come upon the Jews. (1–3). The Lord's dealing with
 tags: [prophecy, christ, salvation, worship, wisdom]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 38
 bible_book_name: "Zechariah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Zechariah 11: Destruction to come upon the Jews. (1–3
 - In figurative expressions, that destruction of Jerusalem, and of the Jewish church and nation, is foretold, which our Lord Jesus, when the time was at hand, prophesied plainly and expressly. How can the fir trees stand, if the cedars fall? [[sources/commentaries_english/mhenry-concise/zechariah/chapter-11#Verses 1–3|Matthew Henry Concise on Zechariah 11]]
 - Christ came into this world for judgment to the Jewish church and nation, which were wretchedly corrupt and degenerate. Those have their minds wofully blinded, who do ill, and justify themselves in it; but God will not hold those guiltless who hold themselves so. [[sources/commentaries_english/mhenry-concise/zechariah/chapter-11#Verses 4–14|Matthew Henry Concise on Zechariah 11]]
 - God, having showed the misery of this people in their being justly left by the Good Shepherd, shows their further misery in being abused by foolish shepherds. The description suits the character Christ gives of the scribes and Pharisees. [[sources/commentaries_english/mhenry-concise/zechariah/chapter-11#Verses 15–17|Matthew Henry Concise on Zechariah 11]]
+- God's prophet, who, in the chapters before, was an ambassador sent to promise peace, is here a herald sent to declare war. The Jewish nation shall recover its prosperity, and shall flourish for some time and become… [[sources/commentaries_english/mhenry-complete/volume-4/zechariah/chapter-11|Matthew Henry Complete on Zechariah 11]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Zechariah 11 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -44,6 +49,7 @@ Primary scope: Zechariah 11 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/zechariah/chapter-11|Matthew Henry Concise, Zechariah 11]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/zechariah/chapter-11|Matthew Henry Complete on Zechariah 11]]
 
 ## Open questions
 

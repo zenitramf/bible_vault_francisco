@@ -5,7 +5,7 @@ description: The people are corrected, Jerusalem is destroyed. (1-11). The capti
 tags: [prophecy, covenant, justice, christ, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Jeremiah 9: The people are corrected, Jerusalem is dest
 - Jeremiah wept much, yet wished he could weep more, that he might rouse the people to a due sense of the hand of God. But even the desert, without communion with God, through Christ Jesus, and the influences of the Holy Spirit, must be a place for temptation and evil; while, with these blessings, we may live in… [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-9#Verses 1-11|Matthew Henry Concise on Jeremiah 9]]
 - In Zion the voice of joy and praise used to be heard, while the people kept close to God; but sin has altered the sound, it is now the voice of lamentation. Unhumbled hearts lament their calamity, but not their sin, which is the cause of it. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-9#Verses 12-22|Matthew Henry Concise on Jeremiah 9]]
 - In this world of sin and sorrow, ending soon in death and judgement, how foolish for men to glory in their knowledge, health, strength, riches, or in any thing which leaves them under the dominion of sin and the wrath of God! and of which an account must hereafter be rendered; it will but increase their misery. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-9#Verses 23-26|Matthew Henry Concise on Jeremiah 9]]
+- In this chapter the prophet goes on faithfully to reprove sin and to threaten God's judgments for it, and yet bitterly to lament both, as one that neither rejoiced at iniquity nor was glad at calamities. I. He here… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-9|Matthew Henry Complete on Jeremiah 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Jeremiah 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-9|Matthew Henry Concise, Jeremiah 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-9|Matthew Henry Complete on Jeremiah 9]]
 
 ## Open questions
 

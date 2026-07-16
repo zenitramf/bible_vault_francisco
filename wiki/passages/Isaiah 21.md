@@ -5,7 +5,7 @@ description: The taking of Babylon. (1-10). Of the Edomites. (11,12) . Of the Ar
 tags: [prophecy, christ, salvation, justice, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Isaiah 21: The taking of Babylon. (1-10). Of the Edomit
 - Babylon was a flat country, abundantly watered. The destruction of Babylon, so often prophesied of by Isaiah, was typical of the destruction of the great foe of the New Testament church, foretold in the Revelation. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-21#Verses 1-10|Matthew Henry Concise on Isaiah 21]]
 - God's prophets and ministers are as watchmen in the city in a time of peace, to see that all is safe. As watchmen in the camp in time of war, to warn of the motions of the enemy. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-21#Verses 11,12|Matthew Henry Concise on Isaiah 21]]
 - The Arabians lived in tents, and kept cattle. A destroying army shall be brought upon them, and make them an easy prey. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-21#Verses 13-17|Matthew Henry Concise on Isaiah 21]]
+- In this chapter we have a prophecy of sad times coming, and heavy burdens, I. Upon Babylon, here called "the desert of the sea," that it should be destroyed by the Medes and Persians with a terrible destruction, which… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-21|Matthew Henry Complete on Isaiah 21]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 21 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -45,6 +50,7 @@ Primary scope: Isaiah 21 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-21|Matthew Henry Concise, Isaiah 21]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-21|Matthew Henry Complete on Isaiah 21]]
 
 ## Open questions
 

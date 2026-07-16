@@ -5,7 +5,7 @@ description: The sins and desolations of Israel. (1–5). Their evil practices. 
 tags: [justice, prophecy, christ, holiness, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 33
 bible_book_name: "Micah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Micah 2: The sins and desolations of Israel. (1–5). T
 - Woe to the people that devise evil during the night, and rise early to carry it into execution! It is bad to do mischief on a sudden thought, much worse to do it with design and forethought. [[sources/commentaries_english/mhenry-concise/micah/chapter-2#Verses 1–5|Matthew Henry Concise on Micah 2]]
 - Since they say, “Prophesy not,” God will take them at their word, and their sin shall be their punishment. Let the physician no longer attend the patient that will not be healed. [[sources/commentaries_english/mhenry-concise/micah/chapter-2#Verses 6–11|Matthew Henry Concise on Micah 2]]
 - These verses may refer to the captivity of Israel and Judah. But the passage is also a prophecy of the conversion of the Jews to Christ. [[sources/commentaries_english/mhenry-concise/micah/chapter-2#Verses 12, 13|Matthew Henry Concise on Micah 2]]
+- In this chapter we have, I. The sins with which the people of Israel are charged—covetousness and oppression, fraudulent and violent practices (Mic 2:1,2), dealing barbarously, even with women and children, and other… [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-2|Matthew Henry Complete on Micah 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Micah 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Justice|Justice]]
 - [[wiki/concepts/Prophecy|Prophecy]]
@@ -44,6 +49,7 @@ Primary scope: Micah 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/micah/chapter-2|Matthew Henry Concise, Micah 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-2|Matthew Henry Complete on Micah 2]]
 
 ## Open questions
 

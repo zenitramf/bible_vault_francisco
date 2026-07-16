@@ -5,7 +5,7 @@ description: The elders of Israel are reminded of the idolatry in Egypt. (1-9). 
 tags: [prophecy, holiness, worship, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 26
 bible_book_name: "Ezekiel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Ezekiel 20: The elders of Israel are reminded of the id
 - Those hearts are wretchedly hardened which ask God leave to go on in sin, and that even when suffering for it; see 32. God is justly angry with those who are resolved to go on still in their trespasses. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-20#Verses 1-9|Matthew Henry Concise on Ezekiel 20]]
 - The Jews persisted in rebellion after they settled in the land of Canaan. And these elders seem to have thought of uniting with the heathen. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-20#Verses 27-32|Matthew Henry Concise on Ezekiel 20]]
 - Judah and Jerusalem had been full of people, as a forest of trees, but empty of fruit. God's word prophesies against those who bring not forth the fruits of righteousness. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-20#Verses 45-49|Matthew Henry Concise on Ezekiel 20]]
+- In this chapter, I. The prophet is consulted by some of the elders of Israel, Eze 20:1. II. He is instructed by his God what answer to give them. He must, 1. Signify God's displeasure against them, Eze 20:2,3. And, 2.… [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-20|Matthew Henry Complete on Ezekiel 20]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ezekiel 20 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -43,6 +48,7 @@ Primary scope: Ezekiel 20 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-20|Matthew Henry Concise, Ezekiel 20]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-20|Matthew Henry Complete on Ezekiel 20]]
 
 ## Open questions
 

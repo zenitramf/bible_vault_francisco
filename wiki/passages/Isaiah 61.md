@@ -5,7 +5,7 @@ description: The Messiah, his character and office. (1-3). His promises of the f
 tags: [prophecy, christ, salvation, justice, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Isaiah 61: The Messiah, his character and office. (1-3)
 - The prophets had the Holy Spirit of God at times, teaching them what to say, and causing them to say it; but Christ had the Spirit always, without measure, to qualify him, as man, for the work to which he was appointed. The poor are commonly best disposed to receive the gospel, James 2:5; and it is only likely to… [[sources/commentaries_english/mhenry-concise/isaiah/chapter-61#Verses 1-3|Matthew Henry Concise on Isaiah 61]]
 - Promises are here made to the Jews returned out of captivity, which extend to all those who, through grace, are delivered out of spiritual thraldom. An unholy soul is like a city that is broken down, and has no walls, like a house in ruins; but by the power of Christ's gospel and grace, it is fitted to be a… [[sources/commentaries_english/mhenry-concise/isaiah/chapter-61#Verses 4-9|Matthew Henry Concise on Isaiah 61]]
 - Those only shall be clothed with the garments of salvation hereafter, that are covered with the robe of Christ's righteousness now, and by the sanctification of the Spirit have God's image renewed upon them. These blessings shall spring forth for ages to come, as the fruits of the earth. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-61#Verses 10,11|Matthew Henry Concise on Isaiah 61]]
+- In this chapter, I. We are sure to find the grace of Christ, published by himself to a lost world in the everlasting gospel, under the type and figure of Isaiah's province, which was to foretel the deliverance of the… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-61|Matthew Henry Complete on Isaiah 61]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 61 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -45,6 +50,7 @@ Primary scope: Isaiah 61 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-61|Matthew Henry Concise, Isaiah 61]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-61|Matthew Henry Complete on Isaiah 61]]
 
 ## Open questions
 

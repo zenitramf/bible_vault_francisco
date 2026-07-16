@@ -5,7 +5,7 @@ description: The vision which Isaiah beheld in the temple. (1-8). The Lord decla
 tags: [prophecy, christ, salvation, justice, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Isaiah 6: The vision which Isaiah beheld in the temple.
 
 - In this figurative vision, the temple is thrown open to view, even to the most holy place. The prophet, standing outside the temple, sees the Divine Presence seated on the mercy-seat, raised over the ark of the covenant, between the cherubim and seraphim, and the Divine glory filled the whole temple. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-6#Verses 1-8|Matthew Henry Concise on Isaiah 6]]
 - God sends Isaiah to foretell the ruin of his people. Many hear the sound of God's word, but do not feel the power of it. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-6#Verses 9-13|Matthew Henry Concise on Isaiah 6]]
+- Hitherto, it should seem, Isaiah had prophesied as a candidate, having only a virtual and tacit commission; but here we have him (if I may so speak) solemnly ordained and set apart to the prophetic office by a more… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-6|Matthew Henry Complete on Isaiah 6]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 6 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -44,6 +49,7 @@ Primary scope: Isaiah 6 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-6|Matthew Henry Concise, Isaiah 6]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-6|Matthew Henry Complete on Isaiah 6]]
 
 ## Open questions
 

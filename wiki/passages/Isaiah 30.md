@@ -5,7 +5,7 @@ description: The Jews reproved for seeking aid from Egypt. (1-7). Judgements in 
 tags: [prophecy, christ, salvation, justice, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Isaiah 30: The Jews reproved for seeking aid from Egypt
 - It was often the fault and folly of the Jews, that when troubled by their neighbours on one side, they sought for succour from others, instead of looking up to God. Nor can we avoid the dreadful consequences of adding sin to sin, but by making the righteousness of Christ our refuge, and seeking for the sanctification… [[sources/commentaries_english/mhenry-concise/isaiah/chapter-30#Verses 1-7|Matthew Henry Concise on Isaiah 30]]
 - God's people will soon arrive at the Zion above, and then they will weep no more for ever. Even now they would have more comfort, as well as holiness, if they were more constant in prayer. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-30#Verses 19-26|Matthew Henry Concise on Isaiah 30]]
 - God curbs and restrains from doing mischief. With a word he guides his people into the right way, but with a bridle he turns his enemies upon their own ruin. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-30#Verses 27-33|Matthew Henry Concise on Isaiah 30]]
+- The prophecy of this chapter seems to relate (as that in the foregoing chapter) to the approaching danger of Jerusalem and desolations of Judah by Sennacherib's invasion. Here is, I. A just reproof to those who, in… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-30|Matthew Henry Complete on Isaiah 30]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 30 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -45,6 +50,7 @@ Primary scope: Isaiah 30 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-30|Matthew Henry Concise, Isaiah 30]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-30|Matthew Henry Complete on Isaiah 30]]
 
 ## Open questions
 

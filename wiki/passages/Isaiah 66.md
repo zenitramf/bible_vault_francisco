@@ -5,7 +5,7 @@ description: God looks at the heart, and vengeance is threatened for guilt. (1-4
 tags: [prophecy, christ, salvation, justice, church]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Isaiah 66: God looks at the heart, and vengeance is thr
 - The Jews gloried much in their temple. But what satisfaction can the Eternal Mind take in a house made with men's hands? [[sources/commentaries_english/mhenry-concise/isaiah/chapter-66#Verses 1-4|Matthew Henry Concise on Isaiah 66]]
 - The prophet turns to those that trembled at God's word, to comfort and encourage them. The Lord will appear, to the joy of the humble believer, and to the confusion of hypocrites and persecutors. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-66#Verses 5-14|Matthew Henry Concise on Isaiah 66]]
 - A prophetic declaration is given of the Lord's vengeance on all enemies of his church, especially that of all antichristian opposers of the gospel in the latter days. 19,20, set forth the abundance of means for conversion of sinners. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-66#Verses 15-24|Matthew Henry Concise on Isaiah 66]]
+- The scope of this chapter is much the same as that of the foregoing chapter and many expressions of it are the same; it therefore looks the same way, to the different state of the good and bad among the Jews at their… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-66|Matthew Henry Complete on Isaiah 66]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 66 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -44,6 +49,7 @@ Primary scope: Isaiah 66 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-66|Matthew Henry Concise, Isaiah 66]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-66|Matthew Henry Complete on Isaiah 66]]
 
 ## Open questions
 

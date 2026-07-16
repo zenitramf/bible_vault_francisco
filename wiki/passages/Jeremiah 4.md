@@ -5,7 +5,7 @@ description: Exhortations and promises. (1-2). Judah exhorted to repentance. (3-
 tags: [prophecy, covenant, justice, holy-spirit, creation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Jeremiah 4: Exhortations and promises. (1-2). Judah exh
 - The first two verses should be read with the last chapter. Sin must be put away out of the heart, else it is not put away out of God's sight, for the heart is open before him. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-4#Verses 1,2|Matthew Henry Concise on Jeremiah 4]]
 - The fierce conqueror of the neighbouring nations was to make Judah desolate. The prophet was afflicted to see the people lulled into security by false prophets. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-4#Verses 5-18|Matthew Henry Concise on Jeremiah 4]]
 - The prophet had no pleasure in delivering messages of wrath. He is shown in a vision the whole land in confusion. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-4#Verses 19-31|Matthew Henry Concise on Jeremiah 4]]
+- It should seem that the Jer 3:29-37,4:1-2 of this chapter might better have been joined to the close of the foregoing chapter, for they are directed to Israel, the ten tribes, by way of reply to their compliance with… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-4|Matthew Henry Complete on Jeremiah 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Jeremiah 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-4|Matthew Henry Concise, Jeremiah 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-4|Matthew Henry Complete on Jeremiah 4]]
 
 ## Open questions
 

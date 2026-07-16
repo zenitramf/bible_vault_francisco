@@ -5,7 +5,7 @@ description: A parable lamenting the ruin of Jehoahaz and Jehoiakim. (1-9). Anot
 tags: [prophecy, holiness, worship, covenant, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 26
 bible_book_name: "Ezekiel"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Ezekiel 19: A parable lamenting the ruin of Jehoahaz an
 
 - Ezekiel is to compare the kingdom of Judah to a lioness. He must compare the kings of Judah to a lion's whelps; they were cruel and oppressive to their own subjects. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-19#Verses 1-9|Matthew Henry Concise on Ezekiel 19]]
 - Jerusalem was a vine, flourishing and fruitful. This vine is now destroyed, though not plucked up by the roots. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-19#Verses 10-14|Matthew Henry Concise on Ezekiel 19]]
+- The scope of this chapter is much the same with that of the 17th, to foretel and lament the ruin of the house of David, the royal family of Judah, in the calamitous exit of the four sons and grandsons of… [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-19|Matthew Henry Complete on Ezekiel 19]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ezekiel 19 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -43,6 +48,7 @@ Primary scope: Ezekiel 19 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-19|Matthew Henry Concise, Ezekiel 19]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-19|Matthew Henry Complete on Ezekiel 19]]
 
 ## Open questions
 

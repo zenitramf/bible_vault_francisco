@@ -5,7 +5,7 @@ description: The only way of deliverance is to be surrendering to the Babylonian
 tags: [prophecy, covenant, justice, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Jeremiah 21: The only way of deliverance is to be surre
 
 - When the siege had begun, Zedekiah sent to ask of Jeremiah respecting the event. In times of distress and danger, men often seek those to counsel and pray for them, whom, at other times, they despise and oppose; but they only seek deliverance from punishment. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-21#Verses 1-10|Matthew Henry Concise on Jeremiah 21]]
 - The wickedness of the king and his family was the worse because of their relation to David. They were urged to act with justice, at once, lest the Lord's anger should be unquenchable. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-21#Verses 11-14|Matthew Henry Concise on Jeremiah 21]]
+- It is plain that the prophecies of this book are not placed here in the same order in which they were preached; for there are chapters after this which concern Jehoahaz, Jehoiakim, and Jeconiah, who all reigned before… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-21|Matthew Henry Complete on Jeremiah 21]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 21 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: Jeremiah 21 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-21|Matthew Henry Concise, Jeremiah 21]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-21|Matthew Henry Complete on Jeremiah 21]]
 
 ## Open questions
 

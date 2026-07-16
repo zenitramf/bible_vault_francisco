@@ -5,7 +5,7 @@ description: The malice of Daniel's enemies. (1-5). His constancy in prayer. (6-
 tags: [prophecy, faith, prayer, holiness, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 27
 bible_book_name: "Daniel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Daniel 6: The malice of Daniel's enemies. (1-5). His co
 - We notice to the glory of God, that though Daniel was now very old, yet he was able for business, and had continued faithful to his religion. It is for the glory of God, when those who profess religion, conduct themselves so that their most watchful enemies may find no occasion for blaming them, save only in the… [[sources/commentaries_english/mhenry-concise/daniel/chapter-6#Verses 1-5|Matthew Henry Concise on Daniel 6]]
 - It is no new thing for what is done faithfully, in conscience toward God, to be misrepresented as done obstinately, and in contempt of the civil powers. Through want of due thought, we often do that which afterwards, like Darius, we see cause a thousand times to wish undone again. [[sources/commentaries_english/mhenry-concise/daniel/chapter-6#Verses 11-17|Matthew Henry Concise on Daniel 6]]
 - If we live in the fear of God, and walk according to that rule, peace shall be upon us. The kingdom, the power, and the glory, for ever, are the Lord's; but many are employed in making known his wonderful works to others, who themselves remain strangers to his saving grace. [[sources/commentaries_english/mhenry-concise/daniel/chapter-6#Verses 25-28|Matthew Henry Concise on Daniel 6]]
+- Daniel does not give a continued history of the reigns in which he lived, nor of the state-affairs of the kingdoms of Chaldea and Persia, though he was himself a great man in those affairs; for what are those to us?… [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-6|Matthew Henry Complete on Daniel 6]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Daniel 6 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Daniel 6 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/daniel/chapter-6|Matthew Henry Concise, Daniel 6]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-6|Matthew Henry Complete on Daniel 6]]
 
 ## Open questions
 

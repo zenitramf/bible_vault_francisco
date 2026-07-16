@@ -5,7 +5,7 @@ description: Prophecies against Moab for pride and security. (1-13). For carnal 
 tags: [prophecy, covenant, justice, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Jeremiah 48: Prophecies against Moab for pride and secu
 
 - The Chaldeans are to destroy the Moabites. We should be thankful that we are required to seek the salvation of men's lives, and the salvation of their souls, not to shed their blood; but we shall be the more without excuse if we do this pleasant work deceitfully. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-48#Verses 1-13|Matthew Henry Concise on Jeremiah 48]]
 - The destruction of Moab is further prophesied, to awaken them by national repentance and reformation to prevent the trouble, or by a personal repentance and reformation to prepare for it. In reading this long roll of threatenings, and mediating on the terror, it will be of more use to us to keep in view the power of… [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-48#Verses 14-47|Matthew Henry Concise on Jeremiah 48]]
+- Moab is next set to the bar before Jeremiah the prophet, whom God has constituted judge over nations and kingdoms, from his mouth to receive its doom. Isaiah's predictions concerning Moab had had their accomplishment… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-48|Matthew Henry Complete on Jeremiah 48]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 48 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -42,6 +47,7 @@ Primary scope: Jeremiah 48 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-48|Matthew Henry Concise, Jeremiah 48]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-48|Matthew Henry Complete on Jeremiah 48]]
 
 ## Open questions
 

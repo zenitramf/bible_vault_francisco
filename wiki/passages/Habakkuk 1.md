@@ -5,7 +5,7 @@ description: The wickedness of the land. The fearful vengeance to be executed. (
 tags: [faith, prophecy, justice, prayer, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 35
 bible_book_name: "Habakkuk"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Habakkuk 1: The wickedness of the land. The fearful ven
 
 - The servants of the Lord are deeply afflicted by seeing ungodliness and violence prevail; especially among those who profess the truth. No man scrupled doing wrong to his neighbour. [[sources/commentaries_english/mhenry-concise/habakkuk/chapter-1#Verses 1–11|Matthew Henry Concise on Habakkuk 1]]
 - However matters may be, yet God is the Lord our God, our Holy One. We are an offending people, he is an offended God, yet we will not entertain hard thoughts of him, or of his service. [[sources/commentaries_english/mhenry-concise/habakkuk/chapter-1#Verses 12–17|Matthew Henry Concise on Habakkuk 1]]
+- In this chapter, I. The prophet complains to God of the violence done by the abuse of the sword of justice among his own people and the hardships thereby put upon many good people, Hab 1:1-4. II. God by him foretels… [[sources/commentaries_english/mhenry-complete/volume-4/habakkuk/chapter-1|Matthew Henry Complete on Habakkuk 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Habakkuk 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prophecy|Prophecy]]
@@ -42,6 +47,7 @@ Primary scope: Habakkuk 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/habakkuk/chapter-1|Matthew Henry Concise, Habakkuk 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/habakkuk/chapter-1|Matthew Henry Complete on Habakkuk 1]]
 
 ## Open questions
 

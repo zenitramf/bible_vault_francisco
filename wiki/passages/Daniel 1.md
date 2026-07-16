@@ -5,7 +5,7 @@ description: The captivity of Daniel and his companions. (1-7). Their refusal to
 tags: [prophecy, faith, prayer, holiness, wisdom]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 27
 bible_book_name: "Daniel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Daniel 1: The captivity of Daniel and his companions. (
 - Nebuchadnezzar, king of Babylon, in the first year of his reign, took Jerusalem, and carried whom and what he pleased away. From this first captivity, most think the seventy years are to be dated. [[sources/commentaries_english/mhenry-concise/daniel/chapter-1#Verses 1-7|Matthew Henry Concise on Daniel 1]]
 - The interest we think we make for ourselves, we must acknowledge to be God's gift. Daniel was still firm to his religion. [[sources/commentaries_english/mhenry-concise/daniel/chapter-1#Verses 8-16|Matthew Henry Concise on Daniel 1]]
 - Daniel and his fellows kept to their religion; and God rewarded them with eminence in learning. Pious young persons should endeavour to do better than their fellows in useful things; not for the praise of man, but for the honour of the gospel, and that they may be qualified for usefulness. [[sources/commentaries_english/mhenry-concise/daniel/chapter-1#Verses 17-21|Matthew Henry Concise on Daniel 1]]
+- This chapter gives us a more particular account of the beginning of Daniel's life, his original and education, than we have of any other of the prophets. Isaiah, Jeremiah, and Ezekiel, began immediately with divine… [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-1|Matthew Henry Complete on Daniel 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Daniel 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Daniel 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/daniel/chapter-1|Matthew Henry Concise, Daniel 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-1|Matthew Henry Complete on Daniel 1]]
 
 ## Open questions
 

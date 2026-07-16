@@ -5,7 +5,7 @@ description: Jeremiah is cast into a dungeon, from whence he is delivered by an 
 tags: [prophecy, covenant, justice, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Jeremiah 38: Jeremiah is cast into a dungeon, from when
 
 - Jeremiah went on in his plain preaching. The princes went on in their malice. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-38#Verses 1-13|Matthew Henry Concise on Jeremiah 38]]
 - Jeremiah was not forward to repeat the warnings, which seemed only to endanger his own life, and to add to the king's guilt, but asked whether he feared to do the will of God. The less men fear God, the more they fear men; often they dare not act according to their own judgments and consciences. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-38#Verses 14-28|Matthew Henry Concise on Jeremiah 38]]
+- In this chapter, just as in the former, we have Jeremiah greatly debased under the frowns of the princes, and yet greatly honoured by the favour of the king. They used him as a criminal; he used him as a… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-38|Matthew Henry Complete on Jeremiah 38]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 38 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: Jeremiah 38 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-38|Matthew Henry Concise, Jeremiah 38]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-38|Matthew Henry Complete on Jeremiah 38]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Confidence in the temple is vain. (1-16). The provocation by persis
 tags: [prophecy, covenant, justice, worship, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Jeremiah 7: Confidence in the temple is vain. (1-16). T
 - No observances, professions, or supposed revelations, will profit, if men do not amend their ways and their doings. None can claim an interest in free salvation, who allow themselves in the practice of known sin, or live in the neglect of known duty. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-7#Verses 1-16|Matthew Henry Concise on Jeremiah 7]]
 - God shows that obedience was required of them. That which God commanded was, Hearken diligently to the voice of the Lord thy God. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-7#Verses 21-28|Matthew Henry Concise on Jeremiah 7]]
 - In token both of sorrow and of slavery, Jerusalem must be degraded, and separated from God, as she had been separated to him. The heart is the place in which God has chosen to put his name; but if sin has the innermost and uppermost place there, we pollute the temple of the Lord. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-7#Verses 29-34|Matthew Henry Concise on Jeremiah 7]]
+- The prophet having in God's name reproved the people for their sins, and given them warning of the judgments of God that were coming upon them, in this chapter prosecutes the same intention for their humiliation and… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-7|Matthew Henry Complete on Jeremiah 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -45,6 +50,7 @@ Primary scope: Jeremiah 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-7|Matthew Henry Concise, Jeremiah 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-7|Matthew Henry Complete on Jeremiah 7]]
 
 ## Open questions
 

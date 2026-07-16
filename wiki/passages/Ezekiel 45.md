@@ -5,7 +5,7 @@ description: The Vision of the Temple. (1-25).
 tags: [prophecy, holiness, worship, covenant, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 26
 bible_book_name: "Ezekiel"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Ezekiel 45: The Vision of the Temple. (1-25).
 ## Core claims
 
 - In the period here foretold, the worship and the ministers of God will be provided for; the princes will rule with justice, as holding their power under Christ; the people will live in peace, ease, and godliness. These things seem to be represented in language taken from the customs of the times in which the prophet… [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-45#Verses 1-25|Matthew Henry Concise on Ezekiel 45]]
+- In this chapter is further represented to the prophet, in vision, I. The division of the holy land, so much for the temple, and the priests that attended the service of it (Eze 45:1-4), so much for the Levites (Eze… [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-45|Matthew Henry Complete on Ezekiel 45]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ezekiel 45 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -42,6 +47,7 @@ Primary scope: Ezekiel 45 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-45|Matthew Henry Concise, Ezekiel 45]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-45|Matthew Henry Complete on Ezekiel 45]]
 
 ## Open questions
 

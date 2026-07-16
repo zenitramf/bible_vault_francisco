@@ -5,7 +5,7 @@ description: The defeat of the Egyptians. (1-12). Their overthrow after the sieg
 tags: [prophecy, covenant, justice, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Jeremiah 46: The defeat of the Egyptians. (1-12). Their
 
 - The whole word of God is against those who obey not the gospel of Christ; but it is for those, even of the Gentiles, who turn to Him. The prophecy begins with Egypt. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-46#Verses 1-12|Matthew Henry Concise on Jeremiah 46]]
 - Those who encroached on others, shall now be themselves encroached on. Egypt is now like a very fair heifer, not accustomed to the yoke of subjection; but destruction comes out of the north: the Chaldeans shall come. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-46#Verses 13-28|Matthew Henry Concise on Jeremiah 46]]
+- How judgment began at the house of God we have found in the foregoing prophecy and history; but now we shall find that it did not end there. In this and the following chapters we have predictions of the desolations of… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-46|Matthew Henry Complete on Jeremiah 46]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 46 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: Jeremiah 46 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-46|Matthew Henry Concise, Jeremiah 46]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-46|Matthew Henry Complete on Jeremiah 46]]
 
 ## Open questions
 

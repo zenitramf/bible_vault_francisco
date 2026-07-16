@@ -5,7 +5,7 @@ description: Jeremiah complains of the prosperity of the wicked. (1-6). The heav
 tags: [prophecy, covenant, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Jeremiah 12: Jeremiah complains of the prosperity of th
 - When we are most in the dark concerning God's dispensations, we must keep up right thoughts of God, believing that he never did the least wrong to any of his creatures. When we find it hard to understand any of his dealings with us, or others, we must look to general truths as our first principles, and abide by them:… [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-12#Verses 1-6|Matthew Henry Concise on Jeremiah 12]]
 - God's people had been the dearly-beloved of his soul, precious in his sight, but they acted so, that he gave them up to their enemies. Many professing churches become like speckled birds, presenting a mixture of religion and the world, with its vain fashions, pursuits, and pollutions. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-12#Verses 7-13|Matthew Henry Concise on Jeremiah 12]]
 - The Lord would plead the cause of his people against their evil neighbours. Yet he would afterwards show mercy to those nations, when they should learn true religion. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-12#Verses 14-17|Matthew Henry Concise on Jeremiah 12]]
+- In this chapter we have, I. The prophet's humble complaint to God of the success that wicked people had in their wicked practices (Jer 12:1,2) and his appeal to God concerning his own integrity (Jer 12:3), with a… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-12|Matthew Henry Complete on Jeremiah 12]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 12 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: Jeremiah 12 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-12|Matthew Henry Concise, Jeremiah 12]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-12|Matthew Henry Complete on Jeremiah 12]]
 
 ## Open questions
 

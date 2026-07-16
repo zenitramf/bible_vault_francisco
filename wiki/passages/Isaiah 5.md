@@ -5,7 +5,7 @@ description: The state and conduct of the Jewish nation. (1-7). The judgments wh
 tags: [prophecy, christ, salvation, justice, church]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Isaiah 5: The state and conduct of the Jewish nation. (
 - Christ is God's beloved Son, and our beloved Saviour. The care of the Lord over the church of Israel, is described by the management of a vineyard. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-5#Verses 1-7|Matthew Henry Concise on Isaiah 5]]
 - Here is a woe to those who set their hearts on the wealth of the world. Not that it is sinful for those who have a house and a field to purchase another; but the fault is, that they never know when they have enough. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-5#Verses 8-23|Matthew Henry Concise on Isaiah 5]]
 - Let not any expect to live easily who live wickedly. Sin weakens the strength, the root of a people; it defaces the beauty, the blossoms of a people. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-5#Verses 24-30|Matthew Henry Concise on Isaiah 5]]
+- In this chapter the prophet, in God's name, shows the people of God their transgressions, even the house of Jacob their sins, and the judgments which were likely to be brought upon them for their sins, I. By a parable,… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-5|Matthew Henry Complete on Isaiah 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -45,6 +50,7 @@ Primary scope: Isaiah 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-5|Matthew Henry Concise, Isaiah 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-5|Matthew Henry Complete on Isaiah 5]]
 
 ## Open questions
 

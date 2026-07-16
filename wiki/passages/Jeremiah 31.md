@@ -5,7 +5,7 @@ description: The restoration of Israel. (1-9). Promises of guidance and happines
 tags: [prophecy, covenant, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Jeremiah 31: The restoration of Israel. (1-9). Promises
 - God assures his people that he will again take them into covenant relation to himself. When brought very low, and difficulties appear, it is good to remember that it has been so with the church formerly. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-31#Verses 1-9|Matthew Henry Concise on Jeremiah 31]]
 - The way from the bondage of sin to the liberty of God's children, is a high-way. It is plain, it is safe; yet none are likely to walk in it, unless they set their hearts towards it. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-31#Verses 21-26|Matthew Henry Concise on Jeremiah 31]]
 - As surely as the heavenly bodies will continue their settled course, according to the will of their Creator, to the end of time, and as the raging sea obeys him, so surely will the Jews be continued a separate people. Words can scarcely set forth more strongly the restoration of Israel. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-31#Verses 35-40|Matthew Henry Concise on Jeremiah 31]]
+- This chapter goes on with the good words and comfortable words which we had in the chapter before, for the encouragement of the captives, assuring them that God would in due time restore them or their children to their… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-31|Matthew Henry Complete on Jeremiah 31]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 31 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: Jeremiah 31 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-31|Matthew Henry Concise, Jeremiah 31]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-31|Matthew Henry Complete on Jeremiah 31]]
 
 ## Open questions
 

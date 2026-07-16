@@ -5,7 +5,7 @@ description: Exhortations and warnings. (1-8). Comfort for those who fear God. (
 tags: [prophecy, christ, salvation, justice, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Isaiah 8: Exhortations and warnings. (1-8). Comfort for
 - The prophet is to write on a large roll, or on a metal tablet, words which meant, "Make speed to spoil, hasten to the prey:" pointing out that the Assyrian army should come with speed, and make great spoil. Very soon the riches of Damascus and of Samaria, cities then secure and formidable, shall be taken away by the… [[sources/commentaries_english/mhenry-concise/isaiah/chapter-8#Verses 1-8|Matthew Henry Concise on Isaiah 8]]
 - The prophet challenges the enemies of the Jews. Their efforts would be vain, and themselves broken to pieces. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-8#Verses 9-16|Matthew Henry Concise on Isaiah 8]]
 - The prophet foresaw that the Lord would hide his face; but he would look for his return in favour to them again. Though not miraculous signs, the children's names were memorials from God, suited to excite attention. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-8#Verses 17-22|Matthew Henry Concise on Isaiah 8]]
+- This chapter, and the four next that follow it (to chap. xiii.) are all one continued discourse or sermon, the scope of which is to show the great destruction that should now shortly be brought upon the kingdom of… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-8|Matthew Henry Complete on Isaiah 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -45,6 +50,7 @@ Primary scope: Isaiah 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-8|Matthew Henry Concise, Isaiah 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-8|Matthew Henry Complete on Isaiah 8]]
 
 ## Open questions
 

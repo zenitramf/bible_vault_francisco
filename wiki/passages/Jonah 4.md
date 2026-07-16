@@ -5,7 +5,7 @@ description: Jonah repines at God's mercy to Nineveh, and is reproved. (1–4). 
 tags: [prophecy, salvation, worship, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 32
 bible_book_name: "Jonah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Jonah 4: Jonah repines at God's mercy to Nineveh, and i
 
 - What all the saints make matter of joy and praise, Jonah makes the subject of reflection upon God; as if showing mercy were an imperfection of the Divine nature, which is the greatest glory of it. It is to his sparing, pardoning mercy, we all owe it that we are out of hell. [[sources/commentaries_english/mhenry-concise/jonah/chapter-4#Verses 1–4|Matthew Henry Concise on Jonah 4]]
 - Jonah went out of the city, yet remained near at hand, as if he expected and desired its overthrow. Those who have fretful, uneasy spirits, often make troubles for themselves, that they may still have something to complain of. [[sources/commentaries_english/mhenry-concise/jonah/chapter-4#Verses 5–11|Matthew Henry Concise on Jonah 4]]
+- We read, with a great deal of pleasure, in the close of the foregoing chapter, concerning the repentance of Nineveh; but in this chapter we read, with a great deal of uneasiness, concerning the sin of Jonah; and, as… [[sources/commentaries_english/mhenry-complete/volume-4/jonah/chapter-4|Matthew Henry Complete on Jonah 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jonah 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -43,6 +48,7 @@ Primary scope: Jonah 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jonah/chapter-4|Matthew Henry Concise, Jonah 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jonah/chapter-4|Matthew Henry Complete on Jonah 4]]
 
 ## Open questions
 

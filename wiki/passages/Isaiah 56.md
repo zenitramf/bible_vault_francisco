@@ -5,7 +5,7 @@ description: A charge to keep the Divine precepts. (1,2) . Blessings promised. (
 tags: [prophecy, christ, salvation, justice, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Isaiah 56: A charge to keep the Divine precepts. (1,2) 
 - The Lord tells us what are his expectations of duty from us. Be honest and just in all dealings. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-56#Verses 1,2|Matthew Henry Concise on Isaiah 56]]
 - Unbelief often suggests things to discourage believers, against which God has expressly guarded. Spiritual blessings are unspeakably better than having sons and daughters; for children are a care, and may prove a grief and shame, but the blessings we partake of in God's house, are comforts which cannot be made bitter. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-56#Verses 3-8|Matthew Henry Concise on Isaiah 56]]
 - Desolating judgments are called for; and this severe rebuke of the rulers and teachers of the Jewish church, is applicable to other ages and places. It is bad with a people when their shepherds slumber, and are eager after the world. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-56#Verses 9-12|Matthew Henry Concise on Isaiah 56]]
+- After the exceedingly great and precious promises of gospel grace, typified by temporal deliverances, which we had in the foregoing chapter, we have here, I. A solemn charge given to us all to make conscience of our… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-56|Matthew Henry Complete on Isaiah 56]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 56 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -45,6 +50,7 @@ Primary scope: Isaiah 56 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-56|Matthew Henry Concise, Isaiah 56]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-56|Matthew Henry Complete on Isaiah 56]]
 
 ## Open questions
 

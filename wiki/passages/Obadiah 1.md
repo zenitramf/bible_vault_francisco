@@ -5,7 +5,7 @@ description: Destruction to come upon Edom. Their offences against Jacob. (1–1
 tags: [prophecy, justice, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 31
 bible_book_name: "Obadiah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Obadiah 1: Destruction to come upon Edom. Their offence
 
 - This prophecy is against Edom. Its destruction seems to have been typical, as their father Esau's rejection; and to refer to the destruction of the enemies of the gospel church. [[sources/commentaries_english/mhenry-concise/obadiah/chapter-1#Verses 1–16|Matthew Henry Concise on Obadiah 1]]
 - There should be deliverance and holiness at Jerusalem, and the house of Jacob would again occupy their possessions. Much of this prophecy was fulfilled when the Jews returned to their own land. [[sources/commentaries_english/mhenry-concise/obadiah/chapter-1#Verses 17–21|Matthew Henry Concise on Obadiah 1]]
+- This book is wholly concerning Edom, a nation nearly allied and near adjoining to Israel, and yet an enemy to the seed of Jacob, inheriting the enmity of their father Esau to Jacob. Now here we have, after the preface,… [[sources/commentaries_english/mhenry-complete/volume-4/obadiah/chapter-1|Matthew Henry Complete on Obadiah 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ Primary scope: Obadiah 1 (full chapter).
 
 ## Related pages
 
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
+
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Justice|Justice]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -39,6 +44,7 @@ Primary scope: Obadiah 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/obadiah/chapter-1|Matthew Henry Concise, Obadiah 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/obadiah/chapter-1|Matthew Henry Complete on Obadiah 1]]
 
 ## Open questions
 

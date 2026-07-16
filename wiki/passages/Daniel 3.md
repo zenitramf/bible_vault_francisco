@@ -5,7 +5,7 @@ description: Nebuchadnezzar's golden image. (1-7). Shadrach and his companions r
 tags: [prophecy, faith, prayer, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 27
 bible_book_name: "Daniel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Daniel 3: Nebuchadnezzar's golden image. (1-7). Shadrac
 - In the height of the image, about thirty yards, probably is included a pedestal, and most likely it was only covered with plates of gold, not a solid mass of that precious metal. Pride and bigotry cause men to require their subjects to follow their religion, whether right or wrong, and when worldly interest allures,… [[sources/commentaries_english/mhenry-concise/daniel/chapter-3#Verses 1-7|Matthew Henry Concise on Daniel 3]]
 - Let Nebuchadnezzar heat his furnace as hot as he can, a few minutes will finish the torment of those cast into it; but hell-fire tortures, and yet does not kill. Those who worshipped the beast and his image, have no rest, no pause, no moment free from pain, Rev. [[sources/commentaries_english/mhenry-concise/daniel/chapter-3#Verses 19-27|Matthew Henry Concise on Daniel 3]]
 - What God did for these his servants, would help to keep the Jews to their religion while in captivity, and to cure them of idolatry. The miracle brought deep convictions on Nebuchadnezzar. [[sources/commentaries_english/mhenry-concise/daniel/chapter-3#Verses 28-30|Matthew Henry Concise on Daniel 3]]
+- In the close of the foregoing chapter we left Daniel's companions, Shadrach, Meshach, and Abednego, in honour and power, princes of the provinces, and preferred for their relation to the God of Israel and the interest… [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-3|Matthew Henry Complete on Daniel 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Daniel 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Daniel 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/daniel/chapter-3|Matthew Henry Concise, Daniel 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-3|Matthew Henry Complete on Daniel 3]]
 
 ## Open questions
 

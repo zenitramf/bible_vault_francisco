@@ -5,7 +5,7 @@ description: The fall of Egypt. (1-16). It is like that of other nations. (17-32
 tags: [prophecy, holiness, worship, covenant, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 26
 bible_book_name: "Ezekiel"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Ezekiel 32: The fall of Egypt. (1-16). It is like that 
 
 - It becomes us to weep and tremble for those who will not weep and tremble for themselves. Great oppressors are, in God's account, no better than beasts of prey. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-32#Verses 1-16|Matthew Henry Concise on Ezekiel 32]]
 - Divers nations are mentioned as gone down to the grave before Egypt, who are ready to give her a scornful reception; these nations had been lately ruined and wasted. But though Judah and Jerusalem were about this time ruined and laid waste, yet they are not mentioned here. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-32#Verses 17-32|Matthew Henry Concise on Ezekiel 32]]
+- Still we are upon the destruction of Pharaoh and Egypt, which is wonderfully enlarged upon, and with a great deal of emphasis. When we read so very much of Egypt's ruin, no less than six several prophecies at divers… [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-32|Matthew Henry Complete on Ezekiel 32]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ezekiel 32 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -43,6 +48,7 @@ Primary scope: Ezekiel 32 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-32|Matthew Henry Concise, Ezekiel 32]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-32|Matthew Henry Complete on Ezekiel 32]]
 
 ## Open questions
 

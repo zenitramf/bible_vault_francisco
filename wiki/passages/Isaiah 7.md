@@ -5,7 +5,7 @@ description: Ahaz threatened by Israel and Syria; and is assured their attack wo
 tags: [prophecy, christ, salvation, justice, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Isaiah 7: Ahaz threatened by Israel and Syria; and is a
 - Ungodly men are often punished by others as bad as themselves. Being in great distress and confusion, the Jews gave up all for lost. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-7#Verses 1-9|Matthew Henry Concise on Isaiah 7]]
 - Secret disaffection to God is often disguised with the colour of respect to him; and those who are resolved that they will not trust God, yet pretend they will not tempt him. The prophet reproved Ahaz and his court, for the little value they had for Divine revelation. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-7#Verses 10-16|Matthew Henry Concise on Isaiah 7]]
 - Let those who will not believe the promises of God, expect to hear the alarms of his threatenings; for who can resist or escape his judgments? The Lord shall sweep all away; and whomsoever he employs in any service for him, he will pay. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-7#Verses 17-25|Matthew Henry Concise on Isaiah 7]]
+- This chapter is an occasional sermon, in which the prophet sings both of mercy and judgment to those that did not perceive or understand either; he piped unto them, but they danced not, mourned unto them, but they wept… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-7|Matthew Henry Complete on Isaiah 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -45,6 +50,7 @@ Primary scope: Isaiah 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-7|Matthew Henry Concise, Isaiah 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-7|Matthew Henry Complete on Isaiah 7]]
 
 ## Open questions
 

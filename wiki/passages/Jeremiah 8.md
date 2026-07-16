@@ -5,7 +5,7 @@ description: The remains of the dead exposed. (1-3). The stupidity of the people
 tags: [prophecy, covenant, justice, creation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Jeremiah 8: The remains of the dead exposed. (1-3). The
 - Though no real hurt can be done to a dead body, yet disgrace to the remains of wicked persons may alarm those yet alive; and this reminds us that the Divine justice and punishments extend beyond the grave. Whatever befalls us here, let us humble ourselves before God, and seek his mercy. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-8#Verses 1-3|Matthew Henry Concise on Jeremiah 8]]
 - What brought this ruin? 1. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-8#Verses 4-13|Matthew Henry Concise on Jeremiah 8]]
 - At length they begin to see the hand of God lifted up. And when God appears against us, every thing that is against us appears formidable. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-8#Verses 14-22|Matthew Henry Concise on Jeremiah 8]]
+- The prophet proceeds, in this chapter, both to magnify and to justify the destruction that God was bringing upon this people, to show how grievous it would be and yet how righteous. I. He represents the judgments… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-8|Matthew Henry Complete on Jeremiah 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: Jeremiah 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-8|Matthew Henry Concise, Jeremiah 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-8|Matthew Henry Complete on Jeremiah 8]]
 
 ## Open questions
 

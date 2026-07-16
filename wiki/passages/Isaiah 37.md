@@ -5,7 +5,7 @@ description: Hezekiah receives an answer of peace. (1–7). Sennacherib's letter
 tags: [prophecy, christ, salvation, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Isaiah 37: Hezekiah receives an answer of peace. (1–7
 ## Core claims
 
 - This chapter is the same as II Kin. 19. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-37#Verses 1-38|Matthew Henry Concise on Isaiah 37]]
+- In this chapter we have a further repetition of the story which we had before in the book of Kings concerning Sennacherib. In the foregoing chapter we had him conquering and threatening to conquer. In this chapter we… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-37|Matthew Henry Complete on Isaiah 37]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 37 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -43,6 +48,7 @@ Primary scope: Isaiah 37 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-37|Matthew Henry Concise, Isaiah 37]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-37|Matthew Henry Complete on Isaiah 37]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Punishment of the enemies of Judah. (1–8). Repentance and sorrow 
 tags: [prophecy, christ, salvation, worship, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 38
 bible_book_name: "Zechariah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Zechariah 12: Punishment of the enemies of Judah. (1–
 
 - Here is a Divine prediction, which will be a heavy burden to all the enemies of the church. But it is for Israel; for their comfort and benefit. [[sources/commentaries_english/mhenry-concise/zechariah/chapter-12#Verses 1–8|Matthew Henry Concise on Zechariah 12]]
 - The day here spoken of, is the day of Jerusalem's defence and deliverance, that glorious day when God will appear for the salvation of his people. In Christ's first coming he bruised the serpent's head, and broke all the powers of darkness that fought against God's kingdom among men. [[sources/commentaries_english/mhenry-concise/zechariah/chapter-12#Verses 9–14|Matthew Henry Concise on Zechariah 12]]
+- The apostle (Ga 4:25,26) distinguishes between "Jerusalem which now is, and is in bondage with her children"—the remaining carcase of the Jewish church that rejected Christ, and "Jerusalem that is from above, that is… [[sources/commentaries_english/mhenry-complete/volume-4/zechariah/chapter-12|Matthew Henry Complete on Zechariah 12]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Zechariah 12 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -43,6 +48,7 @@ Primary scope: Zechariah 12 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/zechariah/chapter-12|Matthew Henry Concise, Zechariah 12]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/zechariah/chapter-12|Matthew Henry Complete on Zechariah 12]]
 
 ## Open questions
 

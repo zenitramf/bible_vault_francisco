@@ -5,7 +5,7 @@ description: Ezekiel's vision of God, and of the angelic host. (1-14). The condu
 tags: [prophecy, holiness, worship, covenant, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 26
 bible_book_name: "Ezekiel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Ezekiel 1: Ezekiel's vision of God, and of the angelic 
 - It is a mercy to have the word of God brought to us, and a duty to attend to it diligently, when we are in affliction. The voice of God came in the fulness of light and power, by the Holy Spirit. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-1#Verses 1-14|Matthew Henry Concise on Ezekiel 1]]
 - Providence, represented by the wheels, produces changes. Sometimes one spoke of the wheel is uppermost, sometimes another; but the motion of the wheel on its own axletree is regular and steady. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-1#Verses 15-25|Matthew Henry Concise on Ezekiel 1]]
 - The eternal Son, the second Person in the Trinity, who afterwards took the human nature, is here denoted. The first thing observed was a throne. [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-1#Verses 26-28|Matthew Henry Concise on Ezekiel 1]]
+- In this chapter we have, I. The common circumstances of the prophecy now to be delivered, the time when it was delivered (Eze 1:1), the place where (Eze 1:2), and the person by whom, Eze 1:3. II. The uncommon… [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-1|Matthew Henry Complete on Ezekiel 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ezekiel 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -43,6 +48,7 @@ Primary scope: Ezekiel 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ezekiel/chapter-1|Matthew Henry Concise, Ezekiel 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/ezekiel/chapter-1|Matthew Henry Complete on Ezekiel 1]]
 
 ## Open questions
 

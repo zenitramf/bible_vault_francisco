@@ -5,7 +5,7 @@ description: Jonah sent again to Nineveh, preaches there. (1–4). Nineveh is sp
 tags: [prophecy, salvation, christ, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 32
 bible_book_name: "Jonah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Jonah 3: Jonah sent again to Nineveh, preaches there. (
 
 - God employs Jonah again in his service. His making use of us is an evidence of his being at peace with us. [[sources/commentaries_english/mhenry-concise/jonah/chapter-3#Verses 1–4|Matthew Henry Concise on Jonah 3]]
 - There was a wonder of Divine grace in the repentance and reformation of Nineveh. It condemns the men of the gospel generation, Mt 12:41. [[sources/commentaries_english/mhenry-concise/jonah/chapter-3#Verses 5–10|Matthew Henry Concise on Jonah 3]]
+- In this chapter we have, I. Jonah's mission renewed, and the command a second time given him to go preach at Nineveh, Jon 3:1,2. II. Jonah's message to Nineveh faithfully delivered, by which its speedy overthrow was… [[sources/commentaries_english/mhenry-complete/volume-4/jonah/chapter-3|Matthew Henry Complete on Jonah 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jonah 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -44,6 +49,7 @@ Primary scope: Jonah 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jonah/chapter-3|Matthew Henry Concise, Jonah 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jonah/chapter-3|Matthew Henry Complete on Jonah 3]]
 
 ## Open questions
 

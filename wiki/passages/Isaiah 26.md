@@ -5,7 +5,7 @@ description: The Divine mercies encourage to confidence in God. (1-4). His judgm
 tags: [prophecy, christ, salvation, justice, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Isaiah 26: The Divine mercies encourage to confidence i
 - "That day," seems to mean when the New Testament Babylon shall be levelled with the ground. The unchangeable promise and covenant of the Lord are the walls of the church of God. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-26#Verses 1-4|Matthew Henry Concise on Isaiah 26]]
 - Every creature, every business, any way serviceable to our comfort, God makes to be so; he makes that work for us which seemed to make against us. They had been slaves of sin and Satan; but by the Divine grace they were taught to look to be set free from all former masters. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-26#Verses 12-19|Matthew Henry Concise on Isaiah 26]]
 - When dangers threaten, it is good to retire and lie hid; when we commend ourselves to God to hide us, he will hide us either under heaven or in heaven. Thus we shall be safe and happy in the midst of tribulations. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-26#Verses 20,21|Matthew Henry Concise on Isaiah 26]]
+- This chapter is a song of holy joy and praise, in which the great things God had engaged, in the foregoing chapter, to do for his people against his enemies and their enemies are celebrated: it is prepared to be sung… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-26|Matthew Henry Complete on Isaiah 26]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 26 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -45,6 +50,7 @@ Primary scope: Isaiah 26 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-26|Matthew Henry Concise, Isaiah 26]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-26|Matthew Henry Complete on Isaiah 26]]
 
 ## Open questions
 

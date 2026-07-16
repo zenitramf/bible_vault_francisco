@@ -5,7 +5,7 @@ description: Two letters to the captives in Babylon; In the first, they are reco
 tags: [prophecy, covenant, justice, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 24
 bible_book_name: "Jeremiah"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Jeremiah 29: Two letters to the captives in Babylon; In
 - The written word of God is as truly given by inspiration of God as his spoken word. The zealous servant of the Lord will use every means to profit those who are far off, as well as those who are near him. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-29#Verses 1-7|Matthew Henry Concise on Jeremiah 29]]
 - Let men beware how they call those prophets whom they choose after their own fancies, and how they consider their fancies and dreams to be revelations from God. False prophets flatter people in their sins, because they love to be flattered; and they speak smoothly to their prophets, that their prophets may speak… [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-29#Verses 8-19|Matthew Henry Concise on Jeremiah 29]]
 - Jeremiah foretells judgments upon the false prophets, who deceived the Jews in Babylon. Lying was bad; lying to the people of the Lord, to delude them into a false hope, was worse; but pretending to rest their own lies upon the God of truth, was worst of all. [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-29#Verses 20-32|Matthew Henry Concise on Jeremiah 29]]
+- The contest between Jeremiah and the false prophets was carried on before by preaching, here by writing; there we had sermon against sermon, here we have letter against letter, for some of the false prophets are now… [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-29|Matthew Henry Complete on Jeremiah 29]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Jeremiah 29 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: Jeremiah 29 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/jeremiah/chapter-29|Matthew Henry Concise, Jeremiah 29]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-29|Matthew Henry Complete on Jeremiah 29]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Matthew Henry Concise on Hosea 3.
 tags: [covenant, redemption, prophecy, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 28
 bible_book_name: "Hosea"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Hosea 3: Matthew Henry Concise on Hosea 3.
 
 - The dislike of men to true religion is because they love objects and forms, which allow them to indulge, instead of mortifying their lusts. How wonderful that a holy God should have good-will to those whose carnal mind is enmity against Him! [[sources/commentaries_english/mhenry-concise/hosea/chapter-3#Verses 1-3|Matthew Henry Concise on Hosea 3]]
 - Here is the application of the parable to Israel. They must long sit like a widow, stripped of all joys and honours; but shall at length be received again. [[sources/commentaries_english/mhenry-concise/hosea/chapter-3#Verses 4-5|Matthew Henry Concise on Hosea 3]]
+- God is still by the prophet inculcating the same thing upon this careless people, and much in the same manner as before, by a type or sign, that of the dealings of a husband with an adulterous wife. In this chapter we… [[sources/commentaries_english/mhenry-complete/volume-4/hosea/chapter-3|Matthew Henry Complete on Hosea 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Hosea 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -43,6 +48,7 @@ Primary scope: Hosea 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/hosea/chapter-3|Matthew Henry Concise, Hosea 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/hosea/chapter-3|Matthew Henry Complete on Hosea 3]]
 
 ## Open questions
 

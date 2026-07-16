@@ -5,7 +5,7 @@ description: Judgments upon Egypt. (1-17). Its deliverance, and the conversion o
 tags: [prophecy, christ, salvation, justice, wisdom]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Isaiah 19: Judgments upon Egypt. (1-17). Its deliveranc
 
 - God shall come into Egypt with his judgments. He will raise up the causes of their destruction from among themselves. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-19#Verses 1-17|Matthew Henry Concise on Isaiah 19]]
 - The words, "In that day," do not always refer to the passage just before. At a time which was to come, the Egyptians shall speak the holy language, the Scripture language; not only understand it, but use it. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-19#Verses 18-25|Matthew Henry Concise on Isaiah 19]]
+- As Assyria was a breaking rod to Judah, with which it was smitten, so Egypt was a broken reed, with which it was cheated; and therefore God had a quarrel with them both. We have before read the doom of the Assyrians;… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-19|Matthew Henry Complete on Isaiah 19]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 19 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -44,6 +49,7 @@ Primary scope: Isaiah 19 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-19|Matthew Henry Concise, Isaiah 19]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-19|Matthew Henry Complete on Isaiah 19]]
 
 ## Open questions
 

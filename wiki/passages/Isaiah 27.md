@@ -5,7 +5,7 @@ description: God's care over his people. (1-5). A promise of their recall to Div
 tags: [prophecy, christ, salvation, justice, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Isaiah 27: God's care over his people. (1-5). A promise
 
 - The Lord Jesus with his strong sword, the virtue of his death, and the preaching of his gospel, does and will destroy him that had the power of death, that is, the devil, that old serpent. The world is a fruitless, worthless wilderness; but the church is a vineyard, a place that has great care taken of it, and from… [[sources/commentaries_english/mhenry-concise/isaiah/chapter-27#Verses 1-5|Matthew Henry Concise on Isaiah 27]]
 - In the days of the gospel, the latter days, the gospel church shall be more firmly fixed than the Jewish church, and shall spread further. May our souls be continually watered and kept, that we may abound in the fruits of the Spirit, in all goodness, righteousness, and truth. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-27#Verses 6-13|Matthew Henry Concise on Isaiah 27]]
+- In this chapter the prophet goes on to show, I. What great things God would do for his church and people, which should now shortly be accomplished in the deliverance of Jerusalem from Sennacherib and the destruction of… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-27|Matthew Henry Complete on Isaiah 27]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Isaiah 27 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -44,6 +49,7 @@ Primary scope: Isaiah 27 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-27|Matthew Henry Concise, Isaiah 27]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-27|Matthew Henry Complete on Isaiah 27]]
 
 ## Open questions
 

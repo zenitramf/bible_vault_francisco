@@ -5,7 +5,7 @@ description: The cruelty of the princes, and the falsehood of the prophets. (1�
 tags: [justice, prophecy, christ, holiness, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 33
 bible_book_name: "Micah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Micah 3: The cruelty of the princes, and the falsehood 
 
 - Men cannot expect to do ill, and fare well; but to find that done to them which they did to others. How seldom do wholesome truths reach the ears of those in high stations or in authority! [[sources/commentaries_english/mhenry-concise/micah/chapter-3#Verses 1–8|Matthew Henry Concise on Micah 3]]
 - Zion's walls owe no thanks to those that build them up with blood and iniquity. The sin of man works not the righteousness of God. [[sources/commentaries_english/mhenry-concise/micah/chapter-3#Verses 9–12|Matthew Henry Concise on Micah 3]]
+- What the apostle says of another of the prophets is true of this, who was also his contemporary—"Esaias is very bold," Ro 10:20. So, in this chapter, Micah is very bold in reproving and threatening the great men that… [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-3|Matthew Henry Complete on Micah 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Micah 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Justice|Justice]]
 - [[wiki/concepts/Prophecy|Prophecy]]
@@ -43,6 +48,7 @@ Primary scope: Micah 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/micah/chapter-3|Matthew Henry Concise, Micah 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-3|Matthew Henry Complete on Micah 3]]
 
 ## Open questions
 

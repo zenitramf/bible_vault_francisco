@@ -5,7 +5,7 @@ description: The conclusion of the vision of the Scriptures of truth. (1-4). The
 tags: [prophecy, faith, prayer, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 27
 bible_book_name: "Daniel"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Daniel 12: The conclusion of the vision of the Scriptur
 
 - Michael signifies, "Who is like God," and his name, with the title of "the great Prince," points out the Divine Saviour. Christ stood for the children of our people in their stead as a sacrifice, bore the curse for them, to bear it from them. [[sources/commentaries_english/mhenry-concise/daniel/chapter-12#Verses 1-4|Matthew Henry Concise on Daniel 12]]
 - One of the angels asking how long it should be to the end of these wonders, a solemn reply is made, that it would be for a time, times, and a half, the period mentioned 25, and in the Revelation. It signifies 1260 prophetic days or years, beginning from the time when the power of the holy people should be scattered. [[sources/commentaries_english/mhenry-concise/daniel/chapter-12#Verses 5-13|Matthew Henry Concise on Daniel 12]]
+- After the prediction of the troubles of the Jews under Antiochus, prefiguring the troubles of the Christian church under the anti-christian power, we have here, I. Comforts, and very precious ones, prescribed as… [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-12|Matthew Henry Complete on Daniel 12]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Daniel 12 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Faith|Faith]]
@@ -42,6 +47,7 @@ Primary scope: Daniel 12 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/daniel/chapter-12|Matthew Henry Concise, Daniel 12]]
+- [[sources/commentaries_english/mhenry-complete/volume-4/daniel/chapter-12|Matthew Henry Complete on Daniel 12]]
 
 ## Open questions
 
