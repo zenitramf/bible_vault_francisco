@@ -5,7 +5,7 @@ description: The enemies of the truth and the church described, Their destructio
 tags: [prayer, worship, faith, holiness, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Psalm 52: The enemies of the truth and the church descr
 - Those that glory in sin, glory in their shame. The patience and forbearance of God are abused by sinners, to the hardening of their hearts in their wicked ways. [[sources/commentaries_english/mhenry-concise/psalms/psalm-52#Verses 1–5|Matthew Henry Concise on Psalm 52]]
 - Those wretchedly deceive themselves, who think to support themselves in power and wealth without God. The wicked man trusted in the abundance of his riches; he thought his wickedness would help him to keep his wealth. [[sources/commentaries_english/mhenry-concise/psalms/psalm-52#Verses 6–9|Matthew Henry Concise on Psalm 52]]
 - David, no doubt, was in very great grief when he said to Abiathar (1Sa 22:22), "I have occasioned the death of all the persons of thy father's house," who were put to death upon Doeg's malicious information; to give… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-52|Matthew Henry Complete on Psalm 52]]
+- Title — To the Chief Musician. Even short Psalms, if they record but one instance of the goodness of the Lord, and rebuke but briefly the pride of man, are worthy of our best minstrelsy. When we see that each Psalm is… [[sources/commentaries_english/chspurgeon-tod/volume-2/psalm-52|Treasury of David, Psalm 52]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 52 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 2|Spurgeon Treasury of David Volume 2]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -50,6 +55,7 @@ Primary scope: Psalm 52 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-52|Matthew Henry Concise, Psalm 52]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-52|Matthew Henry Complete on Psalm 52]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-2/psalm-52|Treasury of David, Psalm 52]]
 
 ## Open questions
 

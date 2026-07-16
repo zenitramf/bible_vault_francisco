@@ -155,3 +155,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.2 ToD Volume 1
 
 - Full-file coverage for chspurgeon-tod/volume-1 (27 files). Psalm passages thickened. --require-zero OK.
+
+## [2026-07-16] campaign | Phase 4.2 ToD Volume 2
+
+- Full-file coverage for chspurgeon-tod/volume-2 (27 files). Psalm passages thickened. --require-zero OK.

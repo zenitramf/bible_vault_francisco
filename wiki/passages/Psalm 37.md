@@ -5,7 +5,7 @@ description: David persuades to patience and confidence in God, by the state of 
 tags: [prayer, worship, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Psalm 37: David persuades to patience and confidence in
 - The Lord our God requires that we do justly, and render to all their due. It is a great sin for those that are able, to deny the payment of just debts; it is a great misery not to be able to pay them. [[sources/commentaries_english/mhenry-concise/psalms/psalm-37#Verses 21–33|Matthew Henry Concise on Psalm 37]]
 - Duty is ours, and we must mind it; but events are God's, we must refer the disposal of them to him. What a striking picture is in verses 35, 36, of many a prosperous enemy of God! [[sources/commentaries_english/mhenry-concise/psalms/psalm-37#Verses 34–40|Matthew Henry Concise on Psalm 37]]
 - This psalm is a sermon, and an excellent useful sermon it is, calculated not (as most of the psalms) for our devotion, but for our conversation; there is nothing in it of prayer or praise, but it is all instruction; it… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-37|Matthew Henry Complete on Psalm 37]]
+- Title — Of David. There is but this word to denote the authorship; whether it was a song or a meditation we are not told. It was written by David in his old age Ps 37:25, and is the more valuable as the record of so… [[sources/commentaries_english/chspurgeon-tod/volume-2/psalm-37|Treasury of David, Psalm 37]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -34,6 +37,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 37 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 2|Spurgeon Treasury of David Volume 2]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -51,6 +56,7 @@ Primary scope: Psalm 37 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-37|Matthew Henry Concise, Psalm 37]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-37|Matthew Henry Complete on Psalm 37]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-2/psalm-37|Treasury of David, Psalm 37]]
 
 ## Open questions
 

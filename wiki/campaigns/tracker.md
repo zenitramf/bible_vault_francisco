@@ -232,7 +232,7 @@ Every ToD psalm source file linked; every corresponding `wiki/passages/Psalm N` 
 | Section | Status | Approx. files | Notes |
 |---|---|---:|---|
 | Volume 1 (Pss ~1–26) | reviewed | 27 | Full ToD file list + Psalm passage thickens; 0 uncovered |
-| Volume 2 (Pss ~27–52) | pending | 26 | |
+| Volume 2 (Pss ~27–52) | reviewed | 27 | Full ToD file list + Psalm passage thickens; 0 uncovered |
 | Volume 3 (Pss ~53–78) | pending | 26 | |
 | Volume 4 (Pss ~79–103) | pending | 25 | |
 | Volume 5 (Pss ~104–118) | pending | 15 | |
