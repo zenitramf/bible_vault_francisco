@@ -81,6 +81,16 @@
 * [[wiki/source-notes/Pastor Andy Doss y Merced Baptist Church|Pastor Andy Doss y Merced Baptist Church]] - Brief Spanish note on a local sermon series comparing the Holy Spirit to oil (anointing).
 * [[wiki/source-notes/Spurgeon Faith's Checkbook Theme Enrichment|Spurgeon Faith's Checkbook Theme Enrichment]] - Selective month-sample enrichment from Spurgeon daily devotionals for concept mesh (Phase 3.6). Not a calendar mirror.
 * [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Spurgeon Morning and Evening Theme Enrichment]] - Selective month-sample enrichment from Spurgeon daily devotionals for concept mesh (Phase 3.6). Not a calendar mirror.
+* [[wiki/source-notes/Spurgeon Sermons Volume 1|Spurgeon Sermons Volume 1]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 1.
+* [[wiki/source-notes/Spurgeon Sermons Volume 10|Spurgeon Sermons Volume 10]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 10.
+* [[wiki/source-notes/Spurgeon Sermons Volume 2|Spurgeon Sermons Volume 2]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 2.
+* [[wiki/source-notes/Spurgeon Sermons Volume 3|Spurgeon Sermons Volume 3]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 3.
+* [[wiki/source-notes/Spurgeon Sermons Volume 4|Spurgeon Sermons Volume 4]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 4.
+* [[wiki/source-notes/Spurgeon Sermons Volume 5|Spurgeon Sermons Volume 5]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 5.
+* [[wiki/source-notes/Spurgeon Sermons Volume 6|Spurgeon Sermons Volume 6]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 6.
+* [[wiki/source-notes/Spurgeon Sermons Volume 7|Spurgeon Sermons Volume 7]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 7.
+* [[wiki/source-notes/Spurgeon Sermons Volume 8|Spurgeon Sermons Volume 8]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 8.
+* [[wiki/source-notes/Spurgeon Sermons Volume 9|Spurgeon Sermons Volume 9]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 9.
 * [[wiki/source-notes/Spurgeon Theme Batch — Christ and the Cross|Spurgeon Theme Batch — Christ and the Cross]] - Theme batch of Spurgeon sermons on Christ's person, cross, and purchased redemption (Phase 3.3).
 * [[wiki/source-notes/Spurgeon Theme Batch — Church and Pastoral Ministry|Spurgeon Theme Batch — Church and Pastoral Ministry]] - Theme batch of Spurgeon sermons on gathered church, pastoral feeding, and discipleship (Phase 3.3).
 * [[wiki/source-notes/Spurgeon Theme Batch — Faith and Prayer|Spurgeon Theme Batch — Faith and Prayer]] - Theme batch of Spurgeon sermons on trust in Christ and Spirit-helped prayer (Phase 3.3).

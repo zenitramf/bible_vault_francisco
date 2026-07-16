@@ -183,3 +183,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.2 ToD 100%
 
 - All seven ToD volumes reviewed; source-coverage --path chspurgeon-tod --require-zero OK.
+
+## [2026-07-16] campaign | Phase 4.3 Sermons Volumes 1–10
+
+- Volume source-notes for sermons volumes 1–10 (576 files). Path-scoped zero-uncovered OK (trailing-slash filters).
