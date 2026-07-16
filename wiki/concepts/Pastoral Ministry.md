@@ -40,6 +40,7 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16.
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/passages/1 Timothy 1 12|1 Timothy 1:12]]
 - [[wiki/questions/What Sustains Christian Ministry|What Sustains Christian Ministry?]]
+- [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 
 ## Sources
 

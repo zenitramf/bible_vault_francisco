@@ -39,6 +39,7 @@ Key loci: John 14:15–17; John 16:7–14; Acts 2:1–4; Romans 8:26.
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Creation|Creation]]
+- [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 
 ## Sources
 

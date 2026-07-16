@@ -71,3 +71,7 @@ append_only: true
 - Improved search-catalog ranking with --tag/--ref/--source/--type filters and match reasons.
 - Rewrote wiki descriptions to drop ranking-killing boilerplate.
 - Added passage seeds for Matthew 6:5–15 and Romans 8:26–27 linked from Prayer.
+
+## [2026-07-16] maintenance | Add Spiritual Warfare concept page and mesh backlinks
+
+- New wiki/concepts/Spiritual Warfare.md (status: seed, source_count: 12) synthesizing Matthew Henry on Ephesians 6, 1 Peter 5, James 4, and Matthew 4; six Spurgeon sermons (416, 419, 2201, 2707, 3143, 3466) and Faith's Checkbook June 17; plus the Spanish personal note on the pastor's interior war by Pastor Andrés Gómez. Backlinks added to Discipleship, Holy Spirit, Prayer, Faith, Holiness, Christ, Christ-Centered Ministry, and Pastoral Ministry. Catalog 21 -> 22; reverse indexes refreshed; doctor, build, lint, source-scan --accept-covered, source-lint, audit_public, lint-wiki all passed.

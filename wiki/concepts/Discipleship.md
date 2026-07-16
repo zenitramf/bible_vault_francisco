@@ -40,6 +40,7 @@ Key loci: Matthew 16:24–26; Luke 14:26–30.
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
+- [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 
 ## Sources
 

@@ -38,6 +38,7 @@ Key loci: 1 Peter 1:13–21; John 17:17; Hebrews 10:14.
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Discipleship|Discipleship]]
+- [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 
 ## Sources
 
