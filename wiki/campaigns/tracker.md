@@ -280,7 +280,7 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 | Section | Status | Days | Notes |
 |---|---|---:|---|
 | January | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
-| February | pending | 29 | |
+| February | reviewed | 29 | Month source-note lists all day files; 0 uncovered |
 | March | pending | 31 | |
 | April | pending | 30 | |
 | May | pending | 31 | |
