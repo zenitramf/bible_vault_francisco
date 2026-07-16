@@ -5,7 +5,7 @@ description: David rejoices in the deliverances God wrought for him. (1–19). H
 tags: [prayer, worship, faith, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Psalm 18: David rejoices in the deliverances God wrough
 - Those that forsake the ways of the Lord, depart from their God. But though conscious to ourselves of many a false step, let there not be a wicked departure from our God. [[sources/commentaries_english/mhenry-concise/psalms/psalm-18#Verses 20–28|Matthew Henry Concise on Psalm 18]]
 - When we praise for one mercy, we must observe the many more, with which we have been compassed all our days. Many things had contributed to David's advancement, and he owns the hand of God in them all, to teach us to do likewise. [[sources/commentaries_english/mhenry-concise/psalms/psalm-18#Verses 29–50|Matthew Henry Concise on Psalm 18]]
 - This psalm we met with before, in the history of David's life, 2Sa 22:1-51 That was the first edition of it; here we have it revived, altered a little, and fitted for the service of the church. It is David's… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-18|Matthew Henry Complete on Psalm 18]]
+- Title — To the Chief Musician a Psalm of David, the servant of the Lord, who spake unto the Lord the words of this song in the day that the Lord delivered him from the hand of all his enemies, and from the hand of… [[sources/commentaries_english/chspurgeon-tod/volume-1/psalm-18|Treasury of David, Psalm 18]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -34,6 +37,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 18 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 1|Spurgeon Treasury of David Volume 1]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -51,6 +56,7 @@ Primary scope: Psalm 18 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-18|Matthew Henry Concise, Psalm 18]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-18|Matthew Henry Complete on Psalm 18]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-1/psalm-18|Treasury of David, Psalm 18]]
 
 ## Open questions
 

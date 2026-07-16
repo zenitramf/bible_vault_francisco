@@ -5,7 +5,7 @@ description: The way to heaven, if we would be happy, we must be holy. We are en
 tags: [prayer, worship, faith, holiness, church]
 status: seed
 updated: 2026-07-16
-source_count: 2
+source_count: 3
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Psalm 15: The way to heaven, if we would be happy, we m
 
 - Here is a very serious question concerning the character of a citizen of Zion. It is the happiness of glorified saints, that they dwell in the holy hill; they are at home there, they shall be for ever there. [[sources/commentaries_english/mhenry-concise/psalms/psalm-15#Verses 1-5|Matthew Henry Concise on Psalm 15]]
 - The scope of this short but excellent psalm is to show us the way to heaven, and to convince us that, if we would be happy, we must be holy and honest. Christ, who is himself the way, and in whom we must walk as our… [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-15|Matthew Henry Complete on Psalm 15]]
+- Subject — This Psalm of David bears no dedicatory title at all indicative of the occasion upon which it was written, but it is exceedingly probable that, together with the twenty-fourth Psalm, to which it bears a… [[sources/commentaries_english/chspurgeon-tod/volume-1/psalm-15|Treasury of David, Psalm 15]]
 
 ## Agreements and tensions
+
+Treasury of David thickens the Concise Psalm atlas with homiletical exposition and historical citations (Phase 4.2).
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Psalm 15 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 1|Spurgeon Treasury of David Volume 1]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
@@ -49,6 +54,7 @@ Primary scope: Psalm 15 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-15|Matthew Henry Concise, Psalm 15]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-15|Matthew Henry Complete on Psalm 15]]
+- [[sources/commentaries_english/chspurgeon-tod/volume-1/psalm-15|Treasury of David, Psalm 15]]
 
 ## Open questions
 
