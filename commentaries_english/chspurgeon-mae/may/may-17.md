@@ -1,0 +1,27 @@
+---
+title: "May 17 | Read Morning and Evening Online"
+linkTitle: "May 17"
+description: >
+  Readings for May 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 John 2:6, Isaiah 41:9
+weight: 17
+type: Commentary
+tags: [holy-spirit, grace, faith, worship]
+bible_reference: "1jo 2:6"
+bible_book_key: 62
+bible_book_name: "1 John"
+---
+# May 17
+
+## Morning
+
+> “So to walk even as he walked.” &mdash; 1 John 2:6
+
+Why should Christians imitate Christ? They should do it for their own sakes. If they desire to be in a healthy state of soul&mdash;if they would escape the sickness of sin, and enjoy the vigour of growing grace, let Jesus be their model. For their own happiness’ sake, if they would drink wine on the lees, well refined; if they would enjoy holy and happy communion with Jesus; if they would be lifted up above the cares and troubles of this world, let them walk even as he walked. There is nothing which can so assist you to walk towards heaven with good speed, as wearing the image of Jesus on your heart to rule all its motions. It is when, by the power of the Holy Spirit, you are enabled to walk with Jesus in his very footsteps, that you are most happy, and most known to be the sons of God. Peter afar off is both unsafe and uneasy. Next, for religion’s sake, strive to be like Jesus. Ah! poor religion, thou hast been sorely shot at by cruel foes, but thou hast not been wounded one&mdash;half so dangerously by thy foes as by thy friends. Who made those wounds in the fair hand of Godliness? The professor who used the dagger of hypocrisy. The man who with pretences, enters the fold, being nought but a wolf in sheep’s clothing, worries the flock more than the lion outside. There is no weapon half so deadly as a Judas&mdash;kiss. Inconsistent professors injure the gospel more than the sneering critic or the infidel. But, especially for Christ’s own sake, imitate his example. Christian, lovest thou thy Saviour? Is his name precious to thee? Is his cause dear to thee? Wouldst thou see the kingdoms of the world become his? Is it thy desire that he should be glorified? Art thou longing that souls should be won to him? If so, imitate Jesus; be an “epistle of Christ, known and read of all men.”
+
+
+## Evening
+
+> “Thou art my servant; I have chosen thee.” &mdash; Isaiah 41:9
+
+If we have received the grace of God in our hearts, its practical effect has been to make us God’s servants. We may be unfaithful servants, we certainly are unprofitable ones, but yet, blessed be his name, we are his servants, wearing his livery, feeding at his table, and obeying his commands. We were once the servants of sin, but he who made us free has now taken us into his family and taught us obedience to his will. We do not serve our Master perfectly, but we would if we could. As we hear God’s voice saying unto us, “Thou art my servant,” we can answer with David, “I am thy servant; thou hast loosed my bonds.” But the Lord calls us not only his servants, but his chosen ones&mdash;“I have chosen thee.” We have not chosen him first, but he hath chosen us. If we be God’s servants, we were not always so; to sovereign grace the change must be ascribed. The eye of sovereignty singled us out, and the voice of unchanging grace declared, “I have loved thee with an everlasting love.” Long ere time began or space was created God had written upon his heart the names of his elect people, had predestinated them to be conformed unto the image of his Son, and ordained them heirs of all the fulness of his love, his grace, and his glory. What comfort is here! Has the Lord loved us so long, and will he yet cast us away? He knew how stiffnecked we should be; he understood that our hearts were evil, and yet he made the choice. Ah! our Saviour is no fickle lover. He doth not feel enchanted for awhile with some gleams of beauty from his church’s eye, and then afterwards cast her off because of her unfaithfulness. Nay, he married her in old eternity; and it is written of Jehovah, “He hateth putting away.” The eternal choice is a bond upon our gratitude and upon his faithfulness which neither can disown.
+

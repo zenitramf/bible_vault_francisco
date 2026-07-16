@@ -1,0 +1,27 @@
+---
+title: "October 19 | Read Morning and Evening Online"
+linkTitle: "October 19"
+description: >
+  Readings for October 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Corinthians 3:1, Job 35:10
+weight: 19
+type: Commentary
+tags: [salvation, grace, faith, worship]
+bible_reference: "1co 3:1"
+bible_book_key: 46
+bible_book_name: "1 Corinthians"
+---
+# October 19
+
+## Morning
+
+> “Babes in Christ.” &mdash; 1 Corinthians 3:1
+
+Are you mourning, believer, because you are so weak in the divine life: because your faith is so little, your love so feeble? Cheer up, for you have cause for gratitude. Remember that in some things you are equal to the greatest and most full&mdash;grown Christian. You are as much bought with blood as he is. You are as much an adopted child of God as any other believer. An infant is as truly a child of its parents as is the full&mdash;grown man. You are as completely justified, for your justification is not a thing of degrees: your little faith has made you clean every whit. You have as much right to the precious things of the covenant as the most advanced believers, for your right to covenant mercies lies not in your growth, but in the covenant itself; and your faith in Jesus is not the measure, but the token of your inheritance in him. You are as rich as the richest, if not in enjoyment, yet in real possession. The smallest star that gleams is set in heaven; the faintest ray of light has affinity with the great orb of day. In the family register of glory the small and the great are written with the same pen. You are as dear to your Father’s heart as the greatest in the family. Jesus is very tender over you. You are like the smoking flax; a rougher spirit would say, “put out that smoking flax, it fills the room with an offensive odour!” but the smoking flax he will not quench. You are like a bruised reed; and any less tender hand than that of the Chief Musician would tread upon you or throw you away, but he will never break the bruised reed. Instead of being downcast by reason of what you are, you should triumph in Christ. Am I but little in Israel? Yet in Christ I am made to sit in heavenly places. Am I poor in faith? Still in Jesus I am heir of all things. Though “less than nothing I can boast, and vanity confess.” Yet, if the root of the matter be in me I will rejoice in the Lord, and glory in the God of my salvation.
+
+
+## Evening
+
+> “God, my maker, who giveth songs in the night.” &mdash; Job 35:10
+
+Any man can sing in the day. When the cup is full, man draws inspiration from it. When wealth rolls in abundance around him, any man can praise the God who gives a plenteous harvest or sends home a loaded argosy. It is easy enough for an Aeolian harp to whisper music when the winds blow&mdash;the difficulty is for music to swell forth when no wind is stirring. It is easy to sing when we can read the notes by daylight; but he is skilful who sings when there is not a ray of light to read by&mdash;who sings from his heart. No man can make a song in the night of himself; he may attempt it, but he will find that a song in the night must be divinely inspired. Let all things go well, I can weave songs, fashioning them wherever I go out of the flowers that grow upon my path; but put me in a desert, where no green thing grows, and wherewith shall I frame a hymn of praise to God? How shall a mortal man make a crown for the Lord where no jewels are? Let but this voice be clear, and this body full of health, and I can sing God’s praise: silence my tongue, lay me upon the bed of languishing, and how shall I then chant God’s high praises, unless he himself give me the song? No, it is not in man’s power to sing when all is adverse, unless an altar&mdash;coal shall touch his lip. It was a divine song, which Habakkuk sang, when in the night he said, “Although the fig&mdash;tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls: yet I will rejoice in the Lord, I will joy in the God of my salvation.” Then, since our Maker gives songs in the night, let us wait upon him for the music. O thou chief musician, let us not remain songless because affliction is upon us, but tune thou our lips to the melody of thanksgiving.
+

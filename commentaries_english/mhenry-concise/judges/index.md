@@ -1,0 +1,25 @@
+# Judges — Matthew Henry Concise Commentary
+
+# Contents
+
+* [Judges 1 | Read the Matthew Henry Concise Bible Commentary Online](chapter-1.md) - In this chapter: Proceedings of the tribes of Judah and Simeon. (1–8). Hebron and other cities taken. (9–20). The proceedings of other tribes. (21–36).
+* [Judges 10 | Read the Matthew Henry Concise Bible Commentary Online](chapter-10.md) - In this chapter: Tola and Jair judge Israel. (1–5). The Philistines and Ammonites oppress Israel. (6–9). Israel's repentance. (10–18).
+* [Judges 11 | Read the Matthew Henry Concise Bible Commentary Online](chapter-11.md) - In this chapter: Jephtah and the Gileadites. (1–11). He attempts to make peace. (12–28). Jephthah's vow. He vanquishes the Ammonites. (29–40).
+* [Judges 12 | Read the Matthew Henry Concise Bible Commentary Online](chapter-12.md) - In this chapter: Ephraimites quarrel with Jephthah. (1–7). Ibzan, Elon, and Abdon judge Israel. (8–15).
+* [Judges 13 | Read the Matthew Henry Concise Bible Commentary Online](chapter-13.md) - In this chapter: The Philistines, Samson announced. (1–7). The angel appears to Manoah. (8–14). Manoah's sacrifice. (15–23). Birth of Samson. (24, 25).
+* [Judges 14 | Read the Matthew Henry Concise Bible Commentary Online](chapter-14.md) - In this chapter: Samson desires a wife of the Philistines. (1–4). Samson kills a lion. (5–9). Samson's riddle. (10–20).
+* [Judges 15 | Read the Matthew Henry Concise Bible Commentary Online](chapter-15.md) - In this chapter: Samson is denied his wife, He smites the Philistines. (1–8). Samson kills a thousand of the Philistines with a jaw-bone. (9–17). His distress from thirst. (18–20).
+* [Judges 16 | Read the Matthew Henry Concise Bible Commentary Online](chapter-16.md) - In this chapter: Samson's escape from Gaza. (1–3). Samson enticed to declare his strength lay. (4–17). The Philistines take Samson, and put out his eyes. (18–21). Samson's strength is renewed. (22–24). He destroys many of the Philistines. (25–31).
+* [Judges 17 | Read the Matthew Henry Concise Bible Commentary Online](chapter-17.md) - In this chapter: The beginning of idolatry in Israel, Micah and his mother. (1–6). Micah hires a Levite to be his priest. (7–13).
+* [Judges 18 | Read the Matthew Henry Concise Bible Commentary Online](chapter-18.md) - In this chapter: The Danites seek to enlarge their inheritance, and rob Micah. (1-31).
+* [Judges 19 | Read the Matthew Henry Concise Bible Commentary Online](chapter-19.md) - In this chapter: The wickedness of the men of Gibeah. (1-30).
+* [Judges 2 | Read the Matthew Henry Concise Bible Commentary Online](chapter-2.md) - In this chapter: The angel of the Lord rebukes the people. (1–5). The wickedness of the new generation after Joshua. (6–23).
+* [Judges 20 | Read the Matthew Henry Concise Bible Commentary Online](chapter-20.md) - In this chapter: The tribe of Benjamin nearly extirpated. (1-48).
+* [Judges 21 | Read the Matthew Henry Concise Bible Commentary Online](chapter-21.md) - In this chapter: The Israelites lament for the Benjamites. (1-25).
+* [Judges 3 | Read the Matthew Henry Concise Bible Commentary Online](chapter-3.md) - In this chapter: The nations left to prove Israel. (1–7). Othniel delivers Israel. (8–11). Ehud delivers Israel from Eglon. (12–30). Shamgar delivers and judges Israel. (31).
+* [Judges 4 | Read the Matthew Henry Concise Bible Commentary Online](chapter-4.md) - In this chapter: Israel again revolts, and is oppressed by Jabin. (1–3). Deborah concerts their deliverance with Barak. (4–9). Sisera defeated. (10–16). Sisera put to death by Jael. (17–24).
+* [Judges 5 | Read the Matthew Henry Concise Bible Commentary Online](chapter-5.md) - In this chapter: Praise and glory ascribed to God. (1–5). The distress and deliverance of Israel. (6–11). Some commended, others censured. (12–23). Sisera's mother disappointed. (24–31).
+* [Judges 6 | Read the Matthew Henry Concise Bible Commentary Online](chapter-6.md) - In this chapter: Israel oppressed by Midianites. (1–6). Israel rebuked by a prophet. (7–10). Gideon set to deliver Israel. (11–24). Gideon destroys Baal's altar. (25–32). Signs given him. (33–40).
+* [Judges 7 | Read the Matthew Henry Concise Bible Commentary Online](chapter-7.md) - In this chapter: Gideon's army reduced. (1–8). Gideon is encouraged. (9–15). The defeat of the Midianites. (16–22). The Ephraimites take Oreb and Zeeb. (23–25).
+* [Judges 8 | Read the Matthew Henry Concise Bible Commentary Online](chapter-8.md) - In this chapter: Gideon pacifies the Ephraimites. (1–3). Succoth and Penuel refuse to relieve Gideon. (4–12). Succoth and Penuel punished. (13–17). Gideon avenges his brethren. (18–21). Gideon declines the government, but given occasion for idolatry. (22–28). Gideon's death, Israel's ingratitude. (29–35).
+* [Judges 9 | Read the Matthew Henry Concise Bible Commentary Online](chapter-9.md) - In this chapter: Abimelech murders his brethren, and is made king. (1–6). Jotham rebukes the Shechemites. (7–21). The Shechemites conspire against Abimelech. (22–29). Abimelech destroys Shechem. (30–49). Abimelech slain. (50–57).

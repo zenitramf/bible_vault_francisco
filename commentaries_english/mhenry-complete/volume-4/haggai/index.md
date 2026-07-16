@@ -1,0 +1,6 @@
+# Haggai
+
+# Contents
+
+* [Haggai 1 | Read the Complete Matthew Henry Bible Commentary Online](chapter-1.md) - In this chapter, after the preamble of the prophecy, we have, I. A reproof of the people of the Jews for their dilatoriness and slothfulness in building the temple, which had provo...
+* [Haggai 2 | Read the Complete Matthew Henry Bible Commentary Online](chapter-2.md) - In this chapter we have three sermons preached by the prophet Haggai for the encouragement of those that are forward to build the temple. In the first he assures the builders that ...

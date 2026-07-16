@@ -1,0 +1,27 @@
+---
+title: "June 11 | Read Morning and Evening Online"
+linkTitle: "June 11"
+description: >
+  Readings for June 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 John 4:19, Psalm 76:3
+weight: 11
+type: Commentary
+tags: [christ, redemption, faith, hope]
+bible_reference: "1jo 4:19"
+bible_book_key: 62
+bible_book_name: "1 John"
+---
+# June 11
+
+## Morning
+
+> “We love him because he first loved us.” &mdash; 1 John 4:19
+
+There is no light in the planet but that which proceedeth from the sun; and there is no true love to Jesus in the heart but that which cometh from the Lord Jesus himself. From this overflowing fountain of the infinite love of God, all our love to God must spring. This must ever be a great and certain truth, that we love him for no other reason than because he first loved us. Our love to him is the fair offspring of his love to us. Cold admiration, when studying the works of God, anyone may have, but the warmth of love can only be kindled in the heart by God’s Spirit. How great the wonder that such as we should ever have been brought to love Jesus at all! How marvellous that when we had rebelled against him, he should, by a display of such amazing love, seek to draw us back. No! never should we have had a grain of love towards God unless it had been sown in us by the sweet seed of his love to us. Love, then, has for its parent the love of God shed abroad in the heart: but after it is thus divinely born, it must be divinely nourished. Love is an exotic; it is not a plant which will flourish naturally in human soil, it must be watered from above. Love to Jesus is a flower of a delicate nature, and if it received no nourishment but that which could be drawn from the rock of our hearts it would soon wither. As love comes from heaven, so it must feed on heavenly bread. It cannot exist in the wilderness unless it be fed by manna from on high. Love must feed on love. The very soul and life of our love to God is his love to us.
+
+
+## Evening
+
+> “There brake he the arrows of the bow, the shield, and the sword, and the battle.” &mdash; Psalm 76:3
+
+Our Redeemer’s glorious cry of “It is finished,” was the death&mdash;knell of all the adversaries of his people, the breaking of “the arrows of the bow, the shield, and the sword, and the battle.” Behold the hero of Golgotha using his cross as an anvil, and his woes as a hammer, dashing to shivers bundle after bundle of our sins, those poisoned “arrows of the bow;” trampling on every indictment, and destroying every accusation. What glorious blows the mighty Breaker gives with a hammer far more ponderous than the fabled weapon of Thor! How the diabolical darts fly to fragments, and the infernal bucklers are broken like potters’ vessels! Behold, he draws from its sheath of hellish workmanship the dread sword of Satanic power! He snaps it across his knee, as a man breaks the dry wood of a fagot, and casts it into the fire. Beloved, no sin of a believer can now be an arrow mortally to wound him, no condemnation can now be a sword to kill him, for the punishment of our sin was borne by Christ, a full atonement was made for all our iniquities by our blessed Substitute and Surety. Who now accuseth? Who now condemneth? Christ hath died, yea rather, hath risen again. Jesus has emptied the quivers of hell, has quenched every fiery dart, and broken off the head of every arrow of wrath; the ground is strewn with the splinters and relics of the weapons of hell’s warfare, which are only visible to us to remind us of our former danger, and of our great deliverance. Sin hath no more dominion over us. Jesus has made an end of it, and put it away forever. O thou enemy, destructions are come to a perpetual end. Talk ye of all the wondrous works of the Lord, ye who make mention of his name, keep not silence, neither by day, nor when the sun goeth to his rest. Bless the Lord, O my soul.
+

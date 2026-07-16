@@ -1,0 +1,21 @@
+---
+type: Commentary
+title: "Leviticus 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Laws concerning ceremonial uncleanness. (1-23)."
+weight: 15
+bible_reference: "le 15:1-23"
+tags: [holiness, worship, atonement]
+bible_book_key: 3
+bible_book_name: "Leviticus"
+---
+
+# Leviticus 15 
+
+## Chapter Outline
+
+- Laws concerning ceremonial uncleanness. (1-23)
+
+## Verses 1-23
+
+We need not be curious in explaining these laws; but have reason to be thankful that we need fear no defilement, except that of sin, nor need ceremonial and burdensome purifications. These laws remind us that God sees all things, even those which escape the notice of men. The great gospel duties of faith and repentance are here signified, and the great gospel privileges of the application of Christ's blood to our souls for our justification, and his grace for our sanctification.

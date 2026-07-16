@@ -1,0 +1,29 @@
+---
+title: "November 29 | Read Morning and Evening Online"
+linkTitle: "November 29"
+description: >
+  Readings for November 29 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Leviticus 19:16, 17, Exodus 35:8
+weight: 29
+type: Commentary
+tags: [holy-spirit, christ, salvation, faith]
+bible_reference: "le 19:16"
+bible_book_key: 3
+bible_book_name: "Leviticus"
+---
+# November 29
+
+## Morning
+
+> “Thou shalt not go up and down as a talebearer among thy people ... Thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.” &mdash; Leviticus 19:16, 17
+
+Tale&mdash;bearing emits a threefold poison; for it injures the teller, the hearer, and the person concerning whom the tale is told. Whether the report be true or false, we are by this precept of God’s Word forbidden to spread it. The reputations of the Lord’s people should be very precious in our sight, and we should count it shame to help the devil to dishonour the Church and the name of the Lord. Some tongues need a bridle rather than a spur. Many glory in pulling down their brethren, as if thereby they raised themselves. Noah’s wise sons cast a mantle over their father, and he who exposed him earned a fearful curse. We may ourselves one of these dark days need forbearance and silence from our brethren, let us render it cheerfully to those who require it now. Be this our family rule, and our personal bond&mdash; Speak evil of no man .
+
+The Holy Spirit, however, permits us to censure sin, and prescribes the way in which we are to do it. It must be done by rebuking our brother to his face, not by railing behind his back. This course is manly, brotherly, Christlike, and under God’s blessing will be useful. Does the flesh shrink from it? Then we must lay the greater stress upon our conscience, and keep ourselves to the work, lest by suffering sin upon our friend we become ourselves partakers of it. Hundreds have been saved from gross sins by the timely, wise, affectionate warnings of faithful ministers and brethren. Our Lord Jesus has set us a gracious example of how to deal with erring friends in his warning given to Peter, the prayer with which he preceded it, and the gentle way in which he bore with Peter’s boastful denial that he needed such a caution.
+
+
+## Evening
+
+> “Spices for anointing oil.” &mdash; Exodus 35:8
+
+Much use was made of this anointing oil under the law, and that which it represents is of primary importance under the gospel. The Holy Spirit, who anoints us for all holy service, is indispensable to us if we would serve the Lord acceptably. Without his aid our religious services are but a vain oblation, and our inward experience is a dead thing. Whenever our ministry is without unction, what miserable stuff it becomes! nor are the prayers, praises, meditations, and efforts of private Christians one jot superior. A holy anointing is the soul and life of piety, its absence the most grievous of all calamities. To go before the Lord without anointing is as though some common Levite had thrust himself into the priest’s office&mdash;his ministrations would rather have been sins than services. May we never venture upon hallowed exercises without sacred anointings. They drop upon us from our glorious Head; from his anointing we who are as the skirts of his garments partake of a plenteous unction. Choice spices were compounded with rarest art of the apothecary to form the anointing oil, to show forth to us how rich are all the influences of the Holy Spirit. All good things are found in the divine Comforter. Matchless consolation, infallible instruction, immortal quickening, spiritual energy, and divine sanctification all lie compounded with other excellencies in that sacred eye&mdash;salve, the heavenly anointing oil of the Holy Spirit. It imparts a delightful fragrance to the character and person of the man upon whom it is poured. Nothing like it can be found in all the treasuries of the rich, or the secrets of the wise. It is not to be imitated. It comes alone from God, and it is freely given, through Jesus Christ, to every waiting soul. Let us seek it, for we may have it, may have it this very evening. O Lord, anoint thy servants.
+

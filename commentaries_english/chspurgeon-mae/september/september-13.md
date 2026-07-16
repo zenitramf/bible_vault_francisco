@@ -1,0 +1,33 @@
+---
+title: "September 13 | Read Morning and Evening Online"
+linkTitle: "September 13"
+description: >
+  Readings for September 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 84:6, Luke 15:2
+weight: 13
+type: Commentary
+tags: [grace, praise, holiness, church]
+bible_reference: "ps 84:6"
+bible_book_key: 19
+bible_book_name: "Psalms"
+---
+# September 13
+
+## Morning
+
+> “Who passing through the valley of Baca make it a well, the rain also filleth the pools.” &mdash; Psalm 84:6
+
+This teaches us that the comfort obtained by a one may often prove serviceable to another; just as wells would be used by the company who came after. We read some book full of consolation, which is like Jonathan’s rod, dropping with honey. Ah! we think our brother has been here before us, and digged this well for us as well as for himself. Many a “Night of Weeping,” “Midnight Harmonies,” an “Eternal Day,” “A Crook in the Lot,” a “Comfort for Mourners,” has been a well digged by a pilgrim for himself, but has proved quite as useful to others. Specially we notice this in the Psalms, such as that beginning, “Why art thou cast down, O my soul?” Travellers have been delighted to see the footprint of man on a barren shore, and we love to see the waymarks of pilgrims while passing through the vale of tears.
+
+The pilgrims dig the well, but, strange enough, it fills from the top instead of the bottom. We use the means, but the blessing does not spring from the means. We dig a well, but heaven fills it with rain. The horse is prepared against the day of battle, but safety is of the Lord. The means are connected with the end, but they do not of themselves produce it. See here the rain fills the pools, so that the wells become useful as reservoirs for the water; labour is not lost, but yet it does not supersede divine help.
+
+Grace may well be compared to rain for its purity, for its refreshing and vivifying influence, for its coming alone from above, and for the sovereignty with which it is given or withheld. May our readers have showers of blessing, and may the wells they have digged be filled with water! Oh, what are means and ordinances without the smile of heaven! They are as clouds without rain, and pools without water. O God of love, open the windows of heaven and pour us out a blessing!
+
+
+## Evening
+
+> “This man receiveth sinners.” &mdash; Luke 15:2
+
+Observe the condescension of this fact. This Man, who towers above all other men, holy, harmless, undefiled, and separate from sinners&mdash; this Man receiveth sinners. This Man, who is no other than the eternal God, before whom angels veil their faces&mdash; this Man receiveth sinners. It needs an angel’s tongue to describe such a mighty stoop of love. That any of us should be willing to seek after the lost is nothing wonderful&mdash;they are of our own race; but that he, the offended God, against whom the transgression has been committed, should take upon himself the form of a servant, and bear the sin of many, and should then be willing to receive the vilest of the vile, this is marvellous.
+
+“This Man receiveth sinners”; not, however, that they may remain sinners, but he receives them that he may pardon their sins, justify their persons, cleanse their hearts by his purifying word, preserve their souls by the indwelling of the Holy Ghost, and enable them to serve him, to show forth his praise, and to have communion with him. Into his heart’s love he receives sinners, takes them from the dunghill, and wears them as jewels in his crown; plucks them as brands from the burning, and preserves them as costly monuments of his mercy. None are so precious in Jesus’ sight as the sinners for whom he died. When Jesus receives sinners, he has not some out&mdash;of&mdash;doors reception place, no casual ward where he charitably entertains them as men do passing beggars, but he opens the golden gates of his royal heart, and receives the sinner right into himself&mdash;yea, he admits the humble penitent into personal union and makes him a member of his body, of his flesh, and of his bones. There was never such a reception as this! This fact is still most sure this evening, he is still receiving sinners: would to God sinners would receive him.
+

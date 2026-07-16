@@ -1,0 +1,31 @@
+# Leviticus — Matthew Henry Concise Commentary
+
+# Contents
+
+* [Leviticus 1 | Read the Matthew Henry Concise Bible Commentary Online](chapter-1.md) - In this chapter: The offerings. (1, 2). From the herds. (3–9). From the flocks, and of fowls. (10–17).
+* [Leviticus 10 | Read the Matthew Henry Concise Bible Commentary Online](chapter-10.md) - In this chapter: The sin and death of Nadab and Abihu. (1, 2). Aaron and his sons forbidden to mourn for Nadab and Abihu. (3–7). Wine forbidden to the priests when in the service of the tabernacle. (8–11). Of eating the holy things. (12–20).
+* [Leviticus 11 | Read the Matthew Henry Concise Bible Commentary Online](chapter-11.md) - In this chapter: What animals were clean and unclean. (1-47).
+* [Leviticus 12 | Read the Matthew Henry Concise Bible Commentary Online](chapter-12.md) - In this chapter: Ceremonial purification. (1-8).
+* [Leviticus 13 | Read the Matthew Henry Concise Bible Commentary Online](chapter-13.md) - In this chapter: Directions to the priest to judge concerning leprosy. (1–17). Further directions. (18–44). How the leper must be disposed of. (45, 46). The leprosy in garments. (47–59).
+* [Leviticus 14 | Read the Matthew Henry Concise Bible Commentary Online](chapter-14.md) - In this chapter: Of declaring the leper to be clean. (1–9). The sacrifices to be offered by him. (10–32). The leprosy in a house. (33–53). Summary of the law concerning leprosy. (54–57).
+* [Leviticus 15 | Read the Matthew Henry Concise Bible Commentary Online](chapter-15.md) - In this chapter: Laws concerning ceremonial uncleanness. (1-23).
+* [Leviticus 16 | Read the Matthew Henry Concise Bible Commentary Online](chapter-16.md) - In this chapter: The great day of atonement. (1–14). The sacrifices on it, The scape-goat. (15–34).
+* [Leviticus 17 | Read the Matthew Henry Concise Bible Commentary Online](chapter-17.md) - In this chapter: All sacrifices to be offered at the tabernacle. (1–9). Eating of blood, or of animals which died a natural death, forbidden. (10–16).
+* [Leviticus 18 | Read the Matthew Henry Concise Bible Commentary Online](chapter-18.md) - In this chapter: Unlawful marriages and fleshly lusts. (1-30).
+* [Leviticus 19 | Read the Matthew Henry Concise Bible Commentary Online](chapter-19.md) - In this chapter: Laws. (1-37).
+* [Leviticus 2 | Read the Matthew Henry Concise Bible Commentary Online](chapter-2.md) - In this chapter: The meat-offering of flour. (1–11). The offering of first-fruits. (12–16).
+* [Leviticus 20 | Read the Matthew Henry Concise Bible Commentary Online](chapter-20.md) - In this chapter: Law against sacrificing children to Moloch, Of children that curse their parents. (1–9). Laws repeated, Holiness enjoined. (10–27).
+* [Leviticus 21 | Read the Matthew Henry Concise Bible Commentary Online](chapter-21.md) - In this chapter: Laws concerning the priests. (1-24).
+* [Leviticus 22 | Read the Matthew Henry Concise Bible Commentary Online](chapter-22.md) - In this chapter: Laws concerning the priests and sacrifices. (1-33).
+* [Leviticus 23 | Read the Matthew Henry Concise Bible Commentary Online](chapter-23.md) - In this chapter: The feasts of the Lord, The Sabbath. (1–3). The Passover, The offering of first-fruits. (4–14). The feast of Pentecost. (15–22). The feast of Trumpets, The day of atonement. (23–32). The feast of Tabernacles. (33–44).
+* [Leviticus 24 | Read the Matthew Henry Concise Bible Commentary Online](chapter-24.md) - In this chapter: Oil for the lamps, The shew-bread. (1–9). The law of blasphemy, blasphemer is stoned. (10–23).
+* [Leviticus 25 | Read the Matthew Henry Concise Bible Commentary Online](chapter-25.md) - In this chapter: The sabbath of rest for the land in the seventh year. (1–7). The jubilee of the fiftieth year, Oppression forbidden. (8–22). Redemption of the land and houses. (23–34). Compassion towards the poor. (35–38). Laws respecting bondmen, Oppression forbidden. (39–55).
+* [Leviticus 26 | Read the Matthew Henry Concise Bible Commentary Online](chapter-26.md) - In this chapter: Promises upon keeping the precepts. (1–13). Threatenings against disobedience. (14–39). God promises to remember those that repent. (40–46).
+* [Leviticus 27 | Read the Matthew Henry Concise Bible Commentary Online](chapter-27.md) - In this chapter: The law concerning vows, Of persons and animals. (1–13). Vows concerning houses and land. (14–25). Devoted things not to be redeemed. (26–33). Conclusion. (34).
+* [Leviticus 3 | Read the Matthew Henry Concise Bible Commentary Online](chapter-3.md) - In this chapter: The peace-offering of the herd. (1–5). The peace-offering of the flock. (6–17).
+* [Leviticus 4 | Read the Matthew Henry Concise Bible Commentary Online](chapter-4.md) - In this chapter: The sin-offering of ignorance for the priest. (1–12). For the whole congregation. (13–21). For a ruler. (22–26). For any of the people. (27–35).
+* [Leviticus 5 | Read the Matthew Henry Concise Bible Commentary Online](chapter-5.md) - In this chapter: Concerning various trespasses. (1–13). Concerning trespasses against the Lord. (14–19).
+* [Leviticus 6 | Read the Matthew Henry Concise Bible Commentary Online](chapter-6.md) - In this chapter: Concerning trespasses against our neighbour. (1–7). Concerning the burnt-offering. (8–13). Concerning the meat-offering. (14–23). Concerning the sin-offering. (24–30).
+* [Leviticus 7 | Read the Matthew Henry Concise Bible Commentary Online](chapter-7.md) - In this chapter: Concerning the trespass-offering. (1–10). Concerning the peace-offering. (11–27). The wave and heave offerings. (28–34). The conclusion of these institutions. (35–38).
+* [Leviticus 8 | Read the Matthew Henry Concise Bible Commentary Online](chapter-8.md) - In this chapter: The consecration of Aaron and his sons. (1–13). The offerings of consecration. (14–36).
+* [Leviticus 9 | Read the Matthew Henry Concise Bible Commentary Online](chapter-9.md) - In this chapter: The first offerings of Aaron for himself and the people. (1–21). Moses and Aaron bless the people, Fire cometh upon the altar from the Lord. (22–24).

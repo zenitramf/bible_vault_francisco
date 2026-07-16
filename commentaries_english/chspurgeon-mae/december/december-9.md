@@ -1,0 +1,27 @@
+---
+title: "December 9 | Read Morning and Evening Online"
+linkTitle: "December 9"
+description: >
+  Readings for December 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 30:18, Isaiah 32:18
+weight: 9
+type: Commentary
+tags: [christ, salvation, grace, faith]
+bible_reference: "isa 30:18"
+bible_book_key: 23
+bible_book_name: "Isaiah"
+---
+# December 9
+
+## Morning
+
+> “Therefore will the Lord wait that he may be gracious unto you.” &mdash; Isaiah 30:18
+
+God often delays in answering prayer. We have several instances of this in sacred Scripture. Jacob did not get the blessing from the angel until near the dawn of day&mdash;he had to wrestle all night for it. The poor woman of Syrophoenicia was answered not a word for a long while. Paul besought the Lord thrice that “the thorn in the flesh” might be taken from him, and he received no assurance that it should be taken away, but instead thereof a promise that God’s grace should be sufficient for him. If thou hast been knocking at the gate of mercy, and hast received no answer, shall I tell thee why the mighty Maker hath not opened the door and let thee in? Our Father has reasons peculiar to himself for thus keeping us waiting. Sometimes it is to show his power and his sovereignty, that men may know that Jehovah has a right to give or to withhold. More frequently the delay is for our profit. Thou art perhaps kept waiting in order that thy desires may be more fervent. God knows that delay will quicken and increase desire, and that if he keeps thee waiting thou wilt see thy necessity more clearly, and wilt seek more earnestly; and that thou wilt prize the mercy all the more for its long tarrying. There may also be something wrong in thee which has need to be removed, before the joy of the Lord is given. Perhaps thy views of the Gospel plan are confused, or thou mayest be placing some little reliance on thyself, instead of trusting simply and entirely to the Lord Jesus. Or, God makes thee tarry awhile that he may the more fully display the riches of his grace to thee at last. Thy prayers are all filed in heaven, and if not immediately answered they are certainly not forgotten, but in a little while shall be fulfilled to thy delight and satisfaction. Let not despair make thee silent, but continue instant in earnest supplication.
+
+
+## Evening
+
+> “My people shall dwell in quiet resting places.” &mdash; Isaiah 32:18
+
+Peace and rest belong not to the unregenerate; they are the peculiar possession of the Lord’s people, and of them only. The God of Peace gives perfect peace to those whose hearts are stayed upon him. When man was unfallen, his God gave him the flowery bowers of Eden as his quiet resting places; alas! how soon sin blighted the fair abode of innocence. In the day of universal wrath when the flood swept away a guilty race, the chosen family were quietly secured in the resting&mdash;place of the ark, which floated them from the old condemned world into the new earth of the rainbow and the covenant, herein typifying Jesus, the ark of our salvation. Israel rested safely beneath the blood&mdash;besprinkled habitations of Egypt when the destroying angel smote the first&mdash;born; and in the wilderness the shadow of the pillar of cloud, and the flowing rock, gave the weary pilgrims sweet repose. At this hour we rest in the promises of our faithful God, knowing that his words are full of truth and power; we rest in the doctrines of his word, which are consolation itself; we rest in the covenant of his grace, which is a haven of delight. More highly favoured are we than David in Adullam, or Jonah beneath his gourd, for none can invade or destroy our shelter. The person of Jesus is the quiet resting&mdash;place of his people, and when we draw near to him in the breaking of the bread, in the hearing of the word, the searching of the Scriptures, prayer, or praise, we find any form of approach to him to be the return of peace to our spirits.
+

@@ -1,0 +1,162 @@
+---
+title: "Psalm 75 | The Treasury of David"
+linkTitle: 'Psalm 75'
+weight: 75
+description: >
+  Read the Treasury of David online. A verse-by-verse commentary on the Psalms by Charles Spurgeon. The people's song of gratitude and adoration begins the hymn in Ps 75:1.
+type: Commentary
+tags: [worship, prayer, faith, lament]
+bible_book_key: 19
+bible_book_name: "Psalms"
+---
+# Psalm 75
+
+**Title &mdash;** *To the Chief Musician. Here is noble work for him, for the cry of the last Psalm is about to be heard, and the challenge of the foes of Israel taken up by God himself. Here the virgin daughter of Zion despises her foe, and laughs him to scorn. The destruction of Sennacherib's army is a notable illustration of this sacred song. Al-taschith. Here is another of the "destroy not" Psalms, and the title may be intended as a check upon the natural fierceness of the oppressed, or a taunt for the savage foe, who is here bitterly bidden to destroy not, because the nation is well aware that he cannot. Here, in holy faith, the sucking child plays at the hole of the asp, and the weaned child puts his hand on the cockatrice den. A Psalm or Song of Asaph. For reading or singing. A hymn to God and a song for his saints. Happy were the people who having found a Milton in David had an almost equal songster in Asaph: happiest of all, because these poets were not inspired by earth's Castalian fount, but drank of "the fount of every blessing."* 
+
+**Division &mdash;** *The people's song of gratitude and adoration begins the hymn in Ps 75:1. In the next four Ps 75:2-5, the Lord reveals himself as ruling the world in righteousness. Then follows a warning voice from the church to her enemies, Ps 75:6-8, and a closing song anticipatory of the glory due to God and the utter defeat of the foe.* 
+
+## Exposition
+
+### Verse 1
+
+> Unto thee, O God, do we give thanks, *unto thee* do we give thanks: for *that* thy name is near thy wondrous works declare.
+
+*Unto thee, O God, do we give thanks.* Not to ourselves, for we were helpless, but to Elohim who heard our cry, and replied to the taunt of our foes. Never let us neglect thanksgiving, or we may fear that another time our prayers will remain unanswered. As the smiling flowers gratefully reflect in their lovely colours the various constituents of the solar ray, so should gratitude spring up in our hearts after the smiles of God's providence. Unto thee do we give thanks. We should praise God again and again. Stinted gratitude is ingratitude. For infinite goodness there should be measureless thanks. Faith promises redoubled praise for greatly needed and signal deliverances. For that thy name is near thy wondrous works declare. God is at hand to answer and do wonders—adore we then the present Deity. We sing not of a hidden God, who sleeps and leaves the church to her fate, but of one who ever in our darkest days is most near, a very present help in trouble. "Near is his name." Baal is on a journey, but Jehovah dwells in his church. Glory be unto the Lord, whose perpetual deeds of grace and majesty are the sure tokens of his being with us always, even unto the ends of the world.
+
+### Verse 2
+
+> When I shall receive the congregation I will judge uprightly.
+
+*When I shall receive the congregation I will judge uprightly.* This is generally believed to be the voice of God, who will, when he accepts his people, mount his judgment seat and avenge their cause in righteousness. It is rendered by some, "I will take a set time; "and by others, "I will seize the moment."
+
+> "God never is before his time,  
+> He is never too late."  
+
+He determines the period of interposition, and when that arrives swift are his blows and sure are his deliverances. God sends no delegated judge, but sits himself upon the throne. O Lord, let thy set time come for grace. Tarry no longer, but for the truth and the throne of Jesus be thou speedily at work. Let the appointed assize come, O Jesus, and sit thou on thy throne to judge the world in equity.
+
+### Verse 3
+
+> The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah.
+
+*The earth and all the inhabitants thereof are dissolved.* When anarchy is abroad, and tyrants are in power, everything is unloosed, dissolution threatens all things, the solid mountains of government melt as wax; but even then the Lord upholds and sustains the right. I bear up the pillars of it. Hence, there is no real cause for fear. While the pillars stand, and stand they must for God upholds them, the house will brave out the storm. In the day of the Lord's appearing a general melting will take place, but in that day our covenant God will be the sure support of our confidence.
+
+> "How can I sink with such a prop  
+> As my eternal God,  
+> Who bears the earth's huge pillars up,  
+> And spreads the heavens abroad."  
+
+Selah. Here may the music pause while the sublime vision passes before our view; a world dissolved and an immutable God uplifting all his people above the terrible commotion.
+
+### Verse 4
+
+> I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:
+
+*I said unto the fools, Deal not foolishly.* The Lord bids the boasters boast not, and commands the mad oppressors to stay their folly. How calm is he, how quiet are his words, yet how divine the rebuke. If the wicked were not insane, they would even now hear in their consciences the still small voice bidding them cease from evil, and forbear their pride. And to the wicked, Lift not up the horn. He bids the ungodly stay their haughtiness. The horn was the emblem of boastful power; only the foolish, like wild and savage beasts, will lift it high; but they assail heaven itself with it, as if they would gore the Almighty himself. In dignified majesty he rebukes the inane glories of the wicked, who beyond measure exalt themselves in the day of their fancied power.
+
+### Verse 5
+
+> Lift not up your horn on high: speak *not with* a stiff neck.
+
+*Lift not up your horn on high.* For their abounding pride there is a double rebuke. A word from God soon abases the lofty. Would to God that all proud men would obey the word here given them; for, if they do not, he will take effectual means to secure obedience, and then woe will come upon them, such as shall break their horns and roll their glory in the mire for ever. Speak not with a stiff neck. Impudence before God is madness. The outstretched neck of insolent pride is sure to provoke his axe. Those who carry their heads high shall find that they will be lifted yet higher, as Haman was upon the gallows which he had prepared for the righteous man. Silence, thou silly boaster! Silence! or God will answer thee. Who art thou, thou worm, that thou shouldest arrogantly object against thy Maker's laws and cavil at his truth? Be hushed, thou vainglorious prater, or vengeance shall silence thee to thine eternal confusion.
+
+### Verse 6
+
+> For promotion *cometh* neither from the east, nor from the west, nor from the south.
+
+*For promotion cometh neither from the east, nor from the west, nor from the south.* There is a God, and a providence, and things happen not by chance. Though deliverance be hopeless from all points of the compass, yet God can work it for his people; and though judgment come neither from the rising or the setting of the sun, nor from the wilderness of mountains, yet come it will, for the Lord reigneth. Men forget that all things are ordained in heaven; they see but the human force, and the carnal passion, but the unseen Lord is more real far than these. He is at work behind and within the cloud. The foolish dream that he is not, but he is near even now, and on the way to bring in his hand that cup of spiced wine of vengeance, one draught of which shall stagger all his foes.
+
+### Verse 7
+
+> But God *is* the judge: he putteth down one, and setteth up another.
+
+*But God is the judge.* Even now he is actually judging. His seat is not vacant; his authority is not abdicated; the Lord reigneth evermore. He putteth down one, and setteth up another. Empires rise and fall at his bidding. A dungeon here, and there a throne, his will assigns. Assyria yields to Babylon, and Babylon to the Medes. Kings are but puppets in his hand; they serve his purpose when they rise and when they fall. A certain author has issued a work called "Historic Ninepins, "(Timbs), a fit name of scorn for all the great ones of the earth. God only is; all power belongs to him; all else is shadow, coming and going, unsubstantial, misty, dream like.
+
+### Verse 8
+
+> For in the hand of the Lord *there is* a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring *them* out, *and* drink *them*.
+
+*For in the hand of the Lord there is a cup.* The punishment of the wicked is prepared, God himself holds it in readiness; he has collected and concocted woes most dread, and in the chalice of his wrath he holds it. They scoffed his feast of love; they shall be dragged to his table of justice, and made to drink their due deserts. And the wine is red. The retribution is terrible, it is blood for blood, foaming vengeance for foaming malice. The very colour of divine wrath is terrible; what must the taste be? It is full of mixture. Spices of anger, justice, and incensed mercy are there. Their misdeeds, their blasphemies, their persecutions have strengthened the liquor as with potent drugs;
+
+> "Mingled, strong, and mantling high;  
+> Behold the wrath divine."
+
+Ten thousand woes are burning in the depths of that fiery cup, which to the brim is filled with indignation. And he poureth out of the same. The full cup must be quaffed, the wicked cannot refuse the terrible draught, for God himself pours it out for them and into them. Vain are their cries and entreaties. They could once defy him, but that hour is over, and the time to requite them if fully come. But the dregs thereof, all the wicked of the earth shall wring them *out, and drink them.* Even to the bitter end must wrath proceed. They must drink on and on for ever, even to the bottom where lie the lees of deep damnation; these they must suck up, and still must they drain the cup. Oh the anguish and the heart break of the day of wrath! Mark well, it is for all the wicked; all hell for all the ungodly; the dregs for the dregs; bitters for the bitter; wrath for the heirs of wrath. Righteousness is conspicuous, but over all terror spreads a tenfold night, cheerless, without a star. Oh happy they who drink the cup of godly sorrow, and the cup of salvation: these, though now despised, will then be envied by the very men who trod them under foot.
+
+### Verse 9
+
+> But I will declare for ever; I will sing praises to the God of Jacob.
+
+*But I will declare for ever.* Thus will the saints occupy themselves with rehearsing Jehovah's praises, while their foes are drunken with the wine of wrath. They shall chant while the others roar in anguish, and justly so, for the former Psalm informed us that such had been the case on earth, —"thine enemies roar in the sanctuary, "—the place where the chosen praised the Lord. I will sing praises to the God of Jacob. The covenant God, who delivered Jacob from a thousand afflictions, our soul shall magnify. He has kept his covenant which he made with the patriarch, and has redeemed his seed, therefore will we spread abroad his fame world without end.
+
+### Verse 10
+
+> All the horns of the wicked also will I cut off; *but* the horns of the righteous shall be exalted.
+
+*All the horns of the wicked also will I cut off.* Power and liberty being restored to Israel, she begins again to execute justice, by abasing the godless who had gloried in the reign of oppression. Their power and pomp are to be smitten down. Men wore horns in those days as a part of their state, and these, both literally and figuratively, were to be lopped off; fir since God abhors the proud, his church will not tolerate them any longer. But the horns of the righteous shall be exalted. In a rightly ordered society, good men are counted great men, virtue confers true rank, and grace is more esteemed than gold. Being saved from unrighteous domination, the chief among the chosen people here promises to rectify the errors which had crept into the commonwealth, and after the example of the Lord himself, to abase the haughty and elevate the humble. This memorable ode may be sung in times of great depression, when prayer has performed her errand at the mercyseat, and when faith is watching for speedy deliverance. It is a song of the second advent, concerning the nearness of The Judge with the cup of wrath.
+
+## Explanatory Notes & Quaint Sayings
+
+**Title &mdash;** *Al-taschith. Destroy not.* This seems to have been used by David as a maxim during the violent persecutions of Saul, as if to remind himself to forebear revenge, though it was often in his power to inflict it, upon his unnatural enemy. &mdash; *F. G. Hubbard, in "The Psalms Chronologically arranged, with Historical Introductions" New York 1856*
+
+**Whole Psalm &mdash;** As these words are really a prayer, while at the same time the Psalm is thrown into the form, not of petitions, but of a thanksgiving, it ought to be considered as a thank prayer, uttered beforehand, and containing petitions within it. &mdash; *Berleb. Bible* 
+
+**Verse 1 &mdash;** *Thy name is near.* The *name of God* is said to be *near,* because it had come into public notice, and was in every mind and every tongue—opposed to what is *unknown* and *obscure,* which is said to be far remote. Compare De 30:11. &mdash; *Hermann Venema* 
+
+**Verse 1 &mdash;** The psalmist doubles this duty in the practice of the saints; *Unto thee, O God, do we give thanks, we give thanks,* we do it; as if none else did it but they, or as if they had done noting else. &mdash; *Joseph Caryl, in "A Sermon before the House of Commons, "entitled, "The Saints' Thankful Acclamation."* 
+
+**Verse 3 &mdash;** *I bear up the pillars of it.* I prevent it from falling to pieces, as a house, supported by columns too weak to bear its weight, would do. &mdash; *Daniel Cresswell* 
+
+**Verse 3 &mdash;** *I bear up the pillars of it.* Learn to whom the glory of bearing up the world is due. God's providence is the true Atlas which supports the world, and doth shoulder up the world, whilst it treads on sin and sinners. Upon a serious view taken of providence on this wise displayed, we may say as they said of old, "The Lord, he is the God; the Lord he is the God, "1Ki 18:39. &mdash; *Thomas Crane* 
+
+**Verse 3 &mdash;** We can imagine a monarch, and especially an eastern monarch, in the plenitude of his power, and the arrogance of his pride, as he casts his haughty glance over the ensign of his might, saying to himself, "I bear up the pillars of the earth." But one could never imagine such a thought arising in the heart, or proceeding from the lips of David or Hezekiah. I know not who of the sons of Adam, frail and feeble at their best estate, could have ever said, *The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it.* I know of none but him who said, "All power is given unto me in heaven and in earth, "and who, as he said these words, ascended up into heaven to exercise that sovereignty, and repair that mighty ruin which had been wrought on earth when Satan triumphed in Paradise. &mdash; *Barton Bouchier* 
+
+**Verse 4 &mdash;** *Fools.* The ungodly are spiritual fools. If one had a child very beautiful, yet if he were a fool, the parent would have little joy in him. The Scripture hath dressed the sinner in a fool's coat: and let me tell you, better be a fool void of reason, than a fool void of grace: this is the devil's fool. Pr 14:9. Is not he a fool who refuseth a rich portion? God offers Christ and salvation, but the sinner refuseth this portion: "Israel would none of me." Ps 81:11. Is not he a fool who prefers an annuity before an inheritance? Is not he a fool who tends his mortal part, and neglects his angelical part? As if one should paint the wall of his house, and let the timber rot. Is not he a fool who will feed the devil with his soul? As that emperor who fed his lion with a pheasant. Is not he a fool who lays a snare for himself? Pr 1:18. Who consults his own shame? Hab 2:10. Who loves death? Pr 8:36. &mdash; *Thomas Watson* 
+
+**Verse 5 &mdash;** *Horn.* The word *horn* was used in the Hebrew metaphorically to express either *honour,* as Ps 112:9 132:18, etc.; or *strength,* Mic 4:13, "I will make thine horn iron." De 33:17, etc. To humble and cast down was often represented by the figure of breaking or cutting off the horn, as here (Ps 75:10). La 2:3, "Cut off all the horn of Israel." To exalt the horn of any one was to bestow honour and dignity upon him; so also, to make it bud. Ps 132:17 89:18 Eze 29:21. Here, *to lift up the horn* betokens presumption. It was also somewhat later a symbol for kingdom, Zec 1:18, and Daniel. &mdash; *"Four Friends"* 
+
+**Verse 5 &mdash;** *Speak not with a stiff neck.* Mr. Bruce has observed that the Abyssinian kings have a *horn* on their *diadem;* and that the keeping it erect, or in a projecting form, makes them appear as if they had a *stiff neck;* and refers to this passage for the antiquity of the usage, and the *appearance* also. &mdash; *Adam Clarke* 
+
+**Verse 6 &mdash;** *For promotion cometh neither from the east,* etc. The word *promotion* here is used in a very expressive way; it means the *desire of self advancement,* Myrh (*harim*), and would teach us that all our inward schemes, and outward plans, cannot gain for us advancement, unless based upon the fear and love of God; we look forward to improve our circumstances, like to the ascending of a mountain, and nerve ourselves to the effort of ascent, fondly thinking that no eye watches our efforts; but as "shame is the promotion of fools, "so disappointment is often the return of rashness&mdash; From the *east* promotion doth not come; the word *east* here is very expressive, auwmm (*mimmotza*), the rising of the sun, the outgoing of light, the dawning of the day, and the manifesting or revealing of God. We look around; and in the early dawning of youth, with high hopes, mental energies, and perhaps superior talents, anticipate victory over our compeers, and a course of worldly success and prosperity; but alas! how often are all these hopes blighted and a succession of reverses humbles our spirits. Promotion cometh not from the *west.* The original is bremmw (*umimmagnarab*) and it means duskiness, darkness, and the setting sun, —hence the west. When the clouds of years press upon us, and darkened shadows overtake us in various ways, such as loss of dear and early friends, the buoyancy of youth gone by, hopes softened down to personal ease, and the power of the constitution reduced; then God often wills that promotion shall not come. We now approach to the last point from whence promotion cometh not, that is from the *south,* rbrm (*mid bar*) a waste place, the Arabian desert; hence the south. In dry and solitary places like the sandy desert little advancement can be looked for; like the human intellect, unless cultivated and improved by care and education it is barren as the desert to all holy feelings and improvement, the natural passions like *sand* choke up every patch susceptible of cultivation, and close up all the avenues to thought and devotion. A godless man is like the Arabian desert, of no profit to himself or his neighbours; like ever shifting sands being tossed to and fro by his own wayward passions; heated with the suns of turbulence, self will, and recklessness, he is a desert, a waste where God will not vouchsafe the light of his countenance for promotion. Like the disobedient Jews of old, Ps 78:49, we may speak of this man saying, "How oft did he provoke him in the wilderness and grieve him in the desert!" Let us then cultivate the higher part of our being, and then we may produce fruit unto holiness; let us not wreck so noble a ship as the soul by careless steering and neglect, but trim its sails with early good instruction, and then may we arrive at the haven where we would be. Having now illustrated the three points mentioned in our text, let us turn to the *one (the north)* where promotion or advancement may be looked for. Coldness is emblematical of purity, and coldness is an attribute of the north. The pure in heart shall see God. God is the northern light that gleams over the stillness of life's night. "He giveth snow like wool; he scattereth the hoar frost like ashes; he casteth forth his ice like morsels." Be it ours to be humbly dependent upon God; for whatever station he may choose to keep us in, godliness alone will prove our promotion and true riches. If our anxieties are directed toward pleasing him, then shall we prosper, and he will shew us "a pure river of water of life, clear as crystal, proceeding out of the throne of God, and the Lamb." (Re 22:1.) &mdash; *Condensed from a Sermon by Gregory Bateman, preached March 16th, 1862, on his entering upon the Vicarage of Ulrome* 
+
+**Verse 6 &mdash;** *For promotion cometh neither from the east, nor from the west, nor from the south.* Here are three of the four winds specified, and it is said, "promotion" comes from neither of them. But why is it not also said that promotion comes not from the *north?* that's the question. I answer;—it were answer enough to say, that we ought not to put questions curiously about such things; it should satisfy us that the Spirit of God is pleased to say it is so, and no more. Yet some tell us, the reason why it is not said promotion cometh not from the *north,* is because indeed it cometh out of the north, which, say they, is intimated in the Hebrew word for the *north,* which signifies *hidden* or *secret.* Promotion comes not from the east, nor west, nor south, but from the *north.* It comes from the north in a figure or mystery, that is, it comes from some hidden providence, or secret hand, which many take no more notice of than we do of the furthest part of the *north.* God promotes many in this world to power, and sends them great prosperity, we see not how or which way: the causes and contrivances of it are hidden close, and in the breast of God. This also is a truth; in that sense we may say, "Fair weather cometh from the *north."* Promotion is visible, but the manner of it is a secret; we see not the causes for which, nor the ways in which it cometh. It is enough to touch these niceties, and to touch them can do no hurt, while the matter arising from them hath the clear consent of, and is harmonious with other plain places of Scripture. &mdash; *Joseph Caryl* 
+
+**Verse 6 &mdash;** *Promotion;* or, *lifting up.* The word is evidently an emphatic word in the Psalm; it is the same which occurs in verses four and five, and again in verse seven and verse ten. I have, therefore, given the same rendering of it throughout. The rendering of the authorized version *promotion,* besides losing sight of the manifestly designed repetition of the same word, is peculiarly unfortunate in conveying a wrong idea. *Lifting up,* in its Hebrew sense, does not mean *promotion,* as we commonly understand it, but deliverance from trouble, safety, victory. The image, in particular, of lifting up the head or the horn (the last borrowed from wild beasts, such as buffaloes, etc., in whom the horn is the symbol of strength), denotes courage, strength, and victory over enemies. &mdash; *J. J. Stewart Perowne* 
+
+**Verse 6 &mdash;** *Nor from the south.* "From the wilderness, "the great wilderness lying in that direction. Three quarters are mentioned, the north only being omitted. This may be accounted for, supposing the Psalm to refer to Sennacherib, by the fact that the Assyrian army approached from the north; and therefore it would be natural to look in all directions but that for assistance to repel the invader. &mdash; *J. J. Stewart Perowne* 
+
+**Verses 6-7 &mdash;** "I thought to promote thee to great honour, "said the king of Moab to Balaam; and yet that promotion ended in a dishonoured and a bloody death. I have often thought of many of the Lord's servants on earth, so superciliously passed by and passed over in man's catalogue of worthies, with what glad and grateful surprise they will at length receive that promotion denied on earth, when their own Master shall say to them, "Friend, come up higher; "and then, as they sit down with Abraham, and Isaac, and Jacob in the kingdom of heaven, shall they have honour of them that sit at meat with them. &mdash; *Barton Bouchier* 
+
+**Verses 6-10 &mdash;** The rise and fall of nations and empires are in this Psalm ascribed to God. He exalts one and puts down another at his pleasure. In this he generally uses instrumentality, but that instrumentality is always rendered effectual by his own agency. When nations or individuals are prosperous, and glorious, and powerful, they usually ascribe all to themselves or to fortune. But it is God who has raised them to eminence. When they boast he can humble them. In these verses God is considered as the governor of the world, punishing the wicked, and pouring out judgment on his enemies. The calamities of war, pestilence, and famine, are all ministers of providence to execute wrath. &mdash; *Alexander Carson* 
+
+**Verse 7 &mdash;** "Here he exalts neglected worms To sceptres and a crown; Anon the following page he turns, And treads the monarch down." &mdash; *Isaac Watts* 
+
+## Hints to the Village Preacher
+
+**Verse 1 &mdash;** The unceasing thanksgiving of the church, her grand cause for adoration: the nearness of her God, and the evident proof thereof in the displays of his power.
+
+**Verse 1 &mdash;** 1\. Do we give thanks? 2\. We do give thanks. 3\. What thanks do we give.? 4\. When do we give thanks? 5\. Let us give thanks again. Good resolutions commendable, how they should be made, strengthened, and performed.
+
+**Verse 3 &mdash;** The Lord the stay of his people under the worst circumstances.
+
+**Verse 3 &mdash;** Teacheth us that no disorder or confusion should hinder us from doing that which God requireth of us; nay, rather, the more things are out of order the more readily should we labour to redress them. *Thomas Wilcocks.* 
+
+**Verse 4 &mdash;** 1\. Who spoke to them? *I.* 2\. Who were they? *Fools, wicked.* 3\. What did you say? 4\. What was the good of it? Or, Rebuke of sin, a duty.
+
+**Verse 4 &mdash;** The unhallowed trio:—wickedness, folly, pride.
+
+**Verse 5 &mdash;** Arguments against pride in heart, appearance, and speech.
+
+**Verses 6-7 &mdash;** The changes of providence not the tricks of fortune.
+
+**Verse 7 &mdash;** God acts as a judge and not arbitrarily in his providential arrangements.
+
+**Verse 8 &mdash;** *In the hand of the Lord there is a cup,* etc. 1\. As to matter of *preparation,* consider it so, and thus it is *in the hand of the Lord.* 2\. By way of *qualification:* it is he that tempers it; it was *full of mixture.* 3\. By way of *distribution,* as giving to every one his share and portion in it. *Thomas Horton.* 
+
+**Verse 8 &mdash;** The cup of wrath. Where it is, what it is, how full it is, who brings it, who must drink it.
+
+**Verse 8 &mdash;** *Full of mixture.* Wrath of God, remorse, memory of lost joy, fear of future, recriminations, despair, shame, etc., all these are ingredients of the mingled cup.
+
+**Verse 8 &mdash;** (*last clause*). 1\. "The dregs" of the cup: the wrath of wrath, the gall of bitterness. 2\. The dregs of the people: "all wicked."
+
+**Verse 9 &mdash;** Our life work: to declare and to sing.
+
