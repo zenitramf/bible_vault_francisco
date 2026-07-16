@@ -70,10 +70,11 @@ Ingest every remaining corpus into the wiki (passage atlas, selective source-not
 
 | Section | Status | Notes |
 |---|---|---|
-| Genesis (50 chapters) | pending | Creation, covenant, patriarchs backbone |
-| Psalms (150 chapters) | pending | Prayer/worship atlas; pair with 3.4 ToD on hubs |
-| Isaiah (66 chapters) | pending | Prophecy / Christ / judgment-salvation |
-| Proverbs (31 chapters) | pending | Wisdom mesh (seed Wisdom page already exists) |
+| Genesis (50 chapters) | reviewed | Passage atlas Ge 1–50; book source-note; Creation/Covenant/Faith mesh |
+| Psalms (150 chapters) | reviewed | Passage atlas Ps 1–150; book source-note; Prayer/Worship mesh |
+| Isaiah (66 chapters) | reviewed | Passage atlas Isa 1–66; book source-note; Prophecy/Christ/Salvation mesh |
+| Proverbs (31 chapters) | reviewed | Passage atlas Pr 1–31; book source-note; Wisdom mesh |
+| **Phase 3.1 OT priority** | **reviewed** | **297 chapters; 4 book source-notes** |
 
 ### 3.2 — mhenry-concise OT remainder
 
@@ -151,8 +152,8 @@ Track promotion status as source slices land. Status values here may be `seed` /
 | Church | developing | Romans 12–16 concise |
 | Surrender | developing | Romans 6 / 12 body presentation |
 | Discipleship | developing | Hermeneutics note + Rom 12 living sacrifice |
-| Wisdom | seed/developing | Proverbs 16:16 seed; expand in 3.1 Proverbs |
-| Prophecy | developing | Revelation concise; expand in 3.1 Isaiah |
+| Wisdom | developing | Proverbs 1–31 concise atlas + prior Pr 16:16 seed |
+| Prophecy | developing | Revelation + Isaiah 1–66 concise atlas |
 
 ## Phase 4+ (optional QA / polish)
 

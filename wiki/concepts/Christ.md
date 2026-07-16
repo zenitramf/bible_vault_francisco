@@ -62,6 +62,14 @@ Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 
 - [[wiki/passages/Matthew 28|Matthew 28]]
 - [[wiki/source-notes/Matthew Henry Concise on Matthew|Matthew Henry Concise on Matthew]]
 
+- [[wiki/passages/Isaiah 53|Isaiah 53]]
+
+- [[wiki/passages/Genesis 3|Genesis 3]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Isaiah|Matthew Henry Concise on Isaiah]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-1|Matthew Henry, John 1]]

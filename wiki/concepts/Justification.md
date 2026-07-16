@@ -45,6 +45,10 @@ Key loci: Romans 3:19–31; Romans 4; Romans 5:1–11; Romans 6:1–2; Genesis 1
 - [[wiki/passages/Romans 5|Romans 5]]
 - [[wiki/source-notes/Matthew Henry Concise on Romans|Matthew Henry Concise on Romans]]
 
+- [[wiki/passages/Genesis 15|Genesis 15]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-3|Matthew Henry Concise, Romans 3]]

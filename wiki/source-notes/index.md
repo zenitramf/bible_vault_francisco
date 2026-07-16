@@ -20,7 +20,9 @@
 * [Matthew Henry Concise on Colossians](Matthew%20Henry%20Concise%20on%20Colossians.md) - Book-level digest of Matthew Henry Concise Colossians (4 chapters) for the NT passage atlas.
 * [Matthew Henry Concise on Ephesians](Matthew%20Henry%20Concise%20on%20Ephesians.md) - Book-level digest of Matthew Henry Concise Ephesians (6 chapters) for the NT passage atlas.
 * [Matthew Henry Concise on Galatians](Matthew%20Henry%20Concise%20on%20Galatians.md) - Book-level digest of Matthew Henry Concise Galatians (6 chapters) for the NT passage atlas.
+* [Matthew Henry Concise on Genesis](Matthew%20Henry%20Concise%20on%20Genesis.md) - Book-level digest of Matthew Henry Concise Genesis (50 chapters) for the OT passage atlas (Phase 3.1).
 * [Matthew Henry Concise on Hebrews](Matthew%20Henry%20Concise%20on%20Hebrews.md) - Book-level digest of Matthew Henry Concise Hebrews (13 chapters) for the NT passage atlas.
+* [Matthew Henry Concise on Isaiah](Matthew%20Henry%20Concise%20on%20Isaiah.md) - Book-level digest of Matthew Henry Concise Isaiah (66 chapters) for the OT passage atlas (Phase 3.1).
 * [Matthew Henry Concise on James](Matthew%20Henry%20Concise%20on%20James.md) - Book-level digest of Matthew Henry Concise James (5 chapters) for the NT passage atlas.
 * [Matthew Henry Concise on John](Matthew%20Henry%20Concise%20on%20John.md) - Book-level digest of Matthew Henry Concise John (21 chapters) for the NT passage atlas.
 * [Matthew Henry Concise on Jude](Matthew%20Henry%20Concise%20on%20Jude.md) - Book-level digest of Matthew Henry Concise Jude (1 chapters) for the NT passage atlas.
@@ -29,6 +31,8 @@
 * [Matthew Henry Concise on Matthew](Matthew%20Henry%20Concise%20on%20Matthew.md) - Book-level digest of Matthew Henry Concise Matthew 1–28 as the Gospel passage-atlas backbone.
 * [Matthew Henry Concise on Philemon](Matthew%20Henry%20Concise%20on%20Philemon.md) - Book-level digest of Matthew Henry Concise Philemon (1 chapters) for the NT passage atlas.
 * [Matthew Henry Concise on Philippians](Matthew%20Henry%20Concise%20on%20Philippians.md) - Book-level digest of Matthew Henry Concise Philippians (4 chapters) for the NT passage atlas.
+* [Matthew Henry Concise on Proverbs](Matthew%20Henry%20Concise%20on%20Proverbs.md) - Book-level digest of Matthew Henry Concise Proverbs (31 chapters) for the OT passage atlas (Phase 3.1).
+* [Matthew Henry Concise on Psalms](Matthew%20Henry%20Concise%20on%20Psalms.md) - Book-level digest of Matthew Henry Concise Psalms (150 chapters) for the OT passage atlas (Phase 3.1).
 * [Matthew Henry Concise on Revelation](Matthew%20Henry%20Concise%20on%20Revelation.md) - Book-level digest of Matthew Henry Concise Revelation (22 chapters) for the NT passage atlas.
 * [Matthew Henry Concise on Romans](Matthew%20Henry%20Concise%20on%20Romans.md) - Book-level digest of Matthew Henry Concise Romans 1–16 as the first passage-atlas backbone.
 * [Matthew Henry Concise on Titus](Matthew%20Henry%20Concise%20on%20Titus.md) - Book-level digest of Matthew Henry Concise Titus (3 chapters) for the NT passage atlas.

@@ -68,6 +68,12 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[wiki/passages/Romans 8|Romans 8]]
 - [[wiki/source-notes/Matthew Henry Concise on Romans|Matthew Henry Concise on Romans]]
 
+- [[wiki/source-notes/Matthew Henry Concise on Isaiah|Matthew Henry Concise on Isaiah]]
+
+- [[wiki/passages/Isaiah 53|Isaiah 53]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
+
 ## Sources
 
 - [[sources/commentaries_english/chspurgeon-sermons/volume-13/sermon_765|Spurgeon, Sermon 765: Grace—the One Way of Salvation]]

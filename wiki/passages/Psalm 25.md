@@ -1,0 +1,51 @@
+---
+type: Passage Study
+title: Psalm 25
+description: Confidence in prayer. (1–7). Prayer for remission of sins. (8–14). For help in affliction. (15–22).
+tags: [prayer, worship, faith, holiness]
+status: seed
+updated: 2026-07-16
+source_count: 1
+bible_book_key: 19
+bible_book_name: "Psalms"
+---
+
+# Psalm 25
+
+## Summary
+
+Matthew Henry Concise on Psalm 25: Confidence in prayer. (1–7). Prayer for remission of sins. (8–14). For help in affliction. (15–22).
+
+## Core claims
+
+- In worshipping God, we must lift up our souls to him. It is certain that none who, by a believing attendance, wait on God, and, by a believing hope, wait for him, shall be ashamed of it. [[sources/commentaries_english/mhenry-concise/psalms/psalm-25#Verses 1–7|Matthew Henry Concise on Psalm 25]]
+- We are all sinners; and Christ came into the world to save sinners, to teach sinners, to call sinners to repentance. We value a promise by the character of him that makes it; we therefore depend upon God's promises. [[sources/commentaries_english/mhenry-concise/psalms/psalm-25#Verses 8–14|Matthew Henry Concise on Psalm 25]]
+- The psalmist concludes, as he began, with expressing dependence upon God, and desire toward him. It is good thus to hope, and quietly to wait for the salvation of the Lord. [[sources/commentaries_english/mhenry-concise/psalms/psalm-25#Verses 15–22|Matthew Henry Concise on Psalm 25]]
+
+## Agreements and tensions
+
+This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+
+## Biblical passages
+
+Primary scope: Psalm 25 (full chapter).
+
+## Related pages
+
+- [[wiki/concepts/Prayer|Prayer]]
+- [[wiki/concepts/Worship|Worship]]
+- [[wiki/concepts/Faith|Faith]]
+- [[wiki/concepts/Holiness|Holiness]]
+- [[wiki/concepts/Christ|Christ]]
+- [[wiki/concepts/Salvation|Salvation]]
+- [[wiki/passages/Psalm 24|Psalm 24]]
+- [[wiki/passages/Psalm 26|Psalm 26]]
+- [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
+
+## Sources
+
+- [[sources/commentaries_english/mhenry-concise/psalms/psalm-25|Matthew Henry Concise, Psalm 25]]
+
+## Open questions
+
+- Which Complete-commentary or Spurgeon materials should next thicken the hub claims of this chapter?

@@ -55,6 +55,12 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[wiki/passages/Romans 5|Romans 5]]
 - [[wiki/passages/Matthew 27|Matthew 27]]
 
+- [[wiki/passages/Genesis 3|Genesis 3]]
+
+- [[wiki/passages/Isaiah 53|Isaiah 53]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
+
 ## Sources
 
 - [[sources/commentaries_english/chspurgeon-sermons/volume-26/sermon_1554|Spurgeon, Sermon 1554: Redemption By Price]]

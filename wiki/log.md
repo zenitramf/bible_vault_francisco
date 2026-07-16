@@ -95,3 +95,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 2 NT mhenry-concise complete
 
 - Completed remaining Phase 2 rows: all 27 NT books from mhenry-concise as chapter passage atlases (216 new chapters this pass + prior Romans/Matthew). Book source-notes for each; hub concept related links for John/Acts/Ephesians/Hebrews/James/Galatians/1 Timothy/1 Peter/Revelation. Fixed residual Romans anchors. No embedding.
+
+## [2026-07-16] campaign | Phase 3.1 mhenry-concise OT priority
+
+- Genesis 50, Psalms 150, Isaiah 66, Proverbs 31 passage atlases from mhenry-concise (297 chapters); 4 book source-notes; meshed Creation, Covenant, Faith, Wisdom, Prophecy, Prayer, Worship (+ Salvation/Christ/Redemption/Justification links); tracker 3.1 reviewed. No embedding.

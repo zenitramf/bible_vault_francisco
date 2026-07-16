@@ -46,6 +46,12 @@ Matthew Henry's Genesis 1 expositions present creation as the foundation of reli
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Worship|Worship]]
 
+- [[wiki/passages/Genesis 1|Genesis 1]]
+
+- [[wiki/passages/Genesis 2|Genesis 2]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-1|Matthew Henry Complete, Genesis 1]]

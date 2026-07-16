@@ -1,0 +1,49 @@
+---
+type: Passage Study
+title: Psalm 93
+description: The majesty, power, and holiness of Christ's kingdom. (1-5).
+tags: [prayer, worship, faith, holiness, christ]
+status: seed
+updated: 2026-07-16
+source_count: 1
+bible_book_key: 19
+bible_book_name: "Psalms"
+---
+
+# Psalm 93
+
+## Summary
+
+Matthew Henry Concise on Psalm 93: The majesty, power, and holiness of Christ's kingdom. (1-5).
+
+## Core claims
+
+- The Lord might have displayed only his justice, holiness, and awful power, in his dealings with fallen men; but he has been pleased to display the riches of his mercy, and the power of his renewing grace. In this great work, the Father has given all power to his Son, the Lord from heaven, who has made atonement for… [[sources/commentaries_english/mhenry-concise/psalms/psalm-93#Verses 1-5|Matthew Henry Concise on Psalm 93]]
+
+## Agreements and tensions
+
+This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+
+## Biblical passages
+
+Primary scope: Psalm 93 (full chapter).
+
+## Related pages
+
+- [[wiki/concepts/Prayer|Prayer]]
+- [[wiki/concepts/Worship|Worship]]
+- [[wiki/concepts/Faith|Faith]]
+- [[wiki/concepts/Holiness|Holiness]]
+- [[wiki/concepts/Christ|Christ]]
+- [[wiki/concepts/Salvation|Salvation]]
+- [[wiki/passages/Psalm 92|Psalm 92]]
+- [[wiki/passages/Psalm 94|Psalm 94]]
+- [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
+
+## Sources
+
+- [[sources/commentaries_english/mhenry-concise/psalms/psalm-93|Matthew Henry Concise, Psalm 93]]
+
+## Open questions
+
+- Which Complete-commentary or Spurgeon materials should next thicken the hub claims of this chapter?

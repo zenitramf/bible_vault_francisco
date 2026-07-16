@@ -22,6 +22,9 @@ The retrieved sources present prayer as sincere address to God rather than publi
 - Believers often do not know what to pray for as they ought; the Spirit helps their infirmities and intercedes with groanings that cannot be uttered. [[sources/commentaries_english/chspurgeon-sermons/volume-26/sermon_1532|Spurgeon, The Holy Spirit's Intercession]] [[sources/commentaries_english/mhenry-concise/romans/chapter-8#Verses 26, 27|Matthew Henry Concise on Romans 8]]
 - Christians should value fervent mutual prayer; those who beg others’ prayers must also pray, striving in prayer by the love of the Spirit. [[sources/commentaries_english/mhenry-concise/romans/chapter-15#Verses 30–33|Matthew Henry Concise on Romans 15]]
 
+
+- Phase 3.1 Psalms concise atlas (150 psalms) expands prayer beyond NT form-passages: meditation on the word, penitence, and trust under affliction now have chapter spines for later Treasury of David deepening. [[wiki/passages/Psalm 1|Psalm 1]] [[wiki/passages/Psalm 51|Psalm 51]] [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
+
 ## Agreements and tensions
 
 - Henry and Spurgeon agree that Christian prayer depends on divine help rather than human eloquence.
@@ -45,6 +48,14 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33.
 - [[wiki/passages/Romans 8 26-27|Romans 8:26–27]]
 - [[wiki/passages/Romans 15|Romans 15]]
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
+
+- [[wiki/passages/Psalm 1|Psalm 1]]
+
+- [[wiki/passages/Psalm 51|Psalm 51]]
+
+- [[wiki/passages/Psalm 23|Psalm 23]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
 
 ## Sources
 

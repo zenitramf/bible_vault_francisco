@@ -5,7 +5,7 @@ description: Trust in God's promise and in Christ; the means of justification an
 tags: [faith, salvation, christ, covenant]
 status: developing
 updated: 2026-07-16
-source_count: 9
+source_count: 10
 ---
 
 # Faith
@@ -26,6 +26,9 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - Abraham’s justification by faith was recorded to teach later ages the same way of believing in Jesus Christ and his righteousness. [[sources/commentaries_english/mhenry-concise/romans/chapter-4#Verses 23–25|Matthew Henry Concise on Romans 4]]
 - The righteousness of faith is near in the word; Christ is offered in the gospel promise, and faith comes by hearing that word. [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 5–11|Matthew Henry Concise on Romans 10]] [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 12–17|Matthew Henry Concise on Romans 10]]
 - Lesser-known biblical servants display living faith and courage in brief scriptural scenes (hospitality, loyalty, quiet testimony). [[sources/personal-notes/Little Known Bible Heroes|Little Known Bible Heroes]]
+
+
+- Concise Genesis 15: Abram believed God with respect to the promised Seed; Christians’ justifying faith always has respect to the person and work of Christ. [[sources/commentaries_english/mhenry-concise/genesis/chapter-15#Verses 2–6|Matthew Henry Concise on Genesis 15]] [[wiki/passages/Genesis 15|Genesis 15]]
 
 ## Agreements and tensions
 
@@ -74,6 +77,12 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[wiki/passages/Romans 10|Romans 10]]
 - [[wiki/source-notes/Little Known Bible Heroes|Little Known Bible Heroes]]
 
+- [[wiki/passages/Genesis 15|Genesis 15]]
+
+- [[wiki/passages/Genesis 22|Genesis 22]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-15|Matthew Henry, Genesis 15]]
@@ -85,6 +94,7 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-4|Matthew Henry Concise, Romans 4]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-10|Matthew Henry Concise, Romans 10]]
 - [[sources/personal-notes/Little Known Bible Heroes|Little Known Bible Heroes]]
+- [[sources/commentaries_english/mhenry-concise/genesis/chapter-15|Matthew Henry Concise, Genesis 15]]
 
 ## Open questions
 

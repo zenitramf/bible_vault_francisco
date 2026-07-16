@@ -1,0 +1,49 @@
+---
+type: Passage Study
+title: Psalm 133
+description: The excellency of brotherly love. (1-3).
+tags: [prayer, worship, faith, holiness, christ]
+status: seed
+updated: 2026-07-16
+source_count: 1
+bible_book_key: 19
+bible_book_name: "Psalms"
+---
+
+# Psalm 133
+
+## Summary
+
+Matthew Henry Concise on Psalm 133: The excellency of brotherly love. (1-3).
+
+## Core claims
+
+- We cannot say too much, it were well if enough could be said, to persuade people to live together in peace. It is good for us, for our honour and comfort; and brings constant delight to those who live in unity. [[sources/commentaries_english/mhenry-concise/psalms/psalm-133#Verses 1-3|Matthew Henry Concise on Psalm 133]]
+
+## Agreements and tensions
+
+This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+
+## Biblical passages
+
+Primary scope: Psalm 133 (full chapter).
+
+## Related pages
+
+- [[wiki/concepts/Prayer|Prayer]]
+- [[wiki/concepts/Worship|Worship]]
+- [[wiki/concepts/Faith|Faith]]
+- [[wiki/concepts/Holiness|Holiness]]
+- [[wiki/concepts/Christ|Christ]]
+- [[wiki/concepts/Salvation|Salvation]]
+- [[wiki/passages/Psalm 132|Psalm 132]]
+- [[wiki/passages/Psalm 134|Psalm 134]]
+- [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
+
+## Sources
+
+- [[sources/commentaries_english/mhenry-concise/psalms/psalm-133|Matthew Henry Concise, Psalm 133]]
+
+## Open questions
+
+- Which Complete-commentary or Spurgeon materials should next thicken the hub claims of this chapter?

@@ -3,9 +3,9 @@ type: Biblical Concept
 title: Covenant
 description: God-initiated relationship sealed by promise and obligation, with Christ as mediator of the new covenant (Gen 15–17; Jer 31; Heb 8).
 tags: [covenant, christ, salvation, faith]
-status: seed
+status: developing
 updated: 2026-07-16
-source_count: 5
+source_count: 7
 ---
 
 # Covenant
@@ -24,6 +24,10 @@ In the retrieved commentary sources, covenant is a God-initiated bond in which G
 - The Abrahamic promise is stable and not disannulled by the later law; the law serves transgressions and leads toward Christ rather than replacing promise. [[sources/commentaries_english/mhenry-complete/volume-6/galatians/chapter-3#Design of the Law; The True Children of Abraham (56 AD)|Matthew Henry on Galatians 3]]
 - The new covenant promises inward writing of the law, knowledge of God, and forgiveness of sins. [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-31#God's Covenant Renewed (594 BC)|Matthew Henry on Jeremiah 31]]
 - Christ is the mediator of a better covenant established on better promises; the first covenant was not faultless as a final administration. [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-8#The Old and New Covenant (62 AD)|Matthew Henry on Hebrews 8]]
+
+
+- Concise Genesis 15: God assures Abram as shield and counts believing the promise for righteousness; covenant land is sealed with sacrificial sign and vision. [[sources/commentaries_english/mhenry-concise/genesis/chapter-15#Verses 2–6|Matthew Henry Concise on Genesis 15]] [[wiki/passages/Genesis 15|Genesis 15]]
+- Concise Genesis 17: covenant renewal names God all-sufficient and binds Abraham to walk before him; circumcision seals the bond. [[sources/commentaries_english/mhenry-concise/genesis/chapter-17|Matthew Henry Concise on Genesis 17]] [[wiki/passages/Genesis 17|Genesis 17]]
 
 ## Agreements and tensions
 
@@ -50,6 +54,14 @@ Primary passages recur across the sources above, but this concept page does not 
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 
+- [[wiki/passages/Genesis 9|Genesis 9]]
+
+- [[wiki/passages/Genesis 15|Genesis 15]]
+
+- [[wiki/passages/Genesis 17|Genesis 17]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-15|Matthew Henry, Genesis 15]]
@@ -57,6 +69,8 @@ Primary passages recur across the sources above, but this concept page does not 
 - [[sources/commentaries_english/mhenry-complete/volume-4/jeremiah/chapter-31|Matthew Henry, Jeremiah 31]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/galatians/chapter-3|Matthew Henry, Galatians 3]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-8|Matthew Henry, Hebrews 8]]
+- [[sources/commentaries_english/mhenry-concise/genesis/chapter-15|Matthew Henry Concise, Genesis 15]]
+- [[sources/commentaries_english/mhenry-concise/genesis/chapter-17|Matthew Henry Concise, Genesis 17]]
 
 ## Open questions
 

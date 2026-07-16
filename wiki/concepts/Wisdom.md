@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Wisdom
 description: God-given skill for living that outranks all earthly wealth; in its highest form, the personal Wisdom who is Christ (Pr 16:16; Pr 3:14; Pr 8:10–11, 19; Jb 28; Ps 119:98–100; Col 2:3).
 tags: [wisdom, christ, christian-life, holiness, salvation, discipleship]
-status: seed
+status: developing
 updated: 2026-07-16
 source_count: 7
 ---
@@ -30,6 +30,9 @@ In the retrieved sources, wisdom is not a mere cleverness of mind but a God-give
 - "Understanding gotten by the precepts of the word is better than understanding gotten by long experience. It is more exact, more sure, safer and cheaper, shorter." (Condensed from Thomas Manton in the same Treasury entry.) [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/verses-97-104#Exposition Verse 100|Spurgeon, Treasury of David on Psalm 119:100]]
 - The only gold that truly satisfies is the gold of free grace, which Christ counsels Laodicea to "buy of me gold tried in the fire"; gold is the most precious metal, and the Saviour counsels us to buy the best of everything of him, "gold that has just passed through the assay and has the mint mark upon it… gold that will endure all further tests, having survived that of fire." [[sources/commentaries_english/chspurgeon-sermons/volume-28/sermon_1677|Spurgeon, Sermon 1677: A Great Mistake and the Way to Rectify It]]
 - Spurgeon: "It is always wise to get gold when you can buy it for nothing!… There is a ready market for pure gold at this extraordinary minimum! Come, then, and accept the gold of free Grace!" The free-grace terms are, with Christ, "without money and without price." [[sources/commentaries_english/chspurgeon-sermons/volume-28/sermon_1677|Spurgeon, Sermon 1677: A Great Mistake and the Way to Rectify It]]
+
+
+- Phase 3.1 adds a full Proverbs 1–31 concise atlas; hub chapters 1, 3, 8, and 16 now have dedicated passage pages for wiki-first retrieval. [[wiki/passages/Proverbs 1|Proverbs 1]] [[wiki/passages/Proverbs 8|Proverbs 8]] [[wiki/source-notes/Matthew Henry Concise on Proverbs|Matthew Henry Concise on Proverbs]]
 
 ## Agreements and tensions
 
@@ -69,6 +72,16 @@ Key loci in the present evidence:
 - [[wiki/concepts/Redemption|Redemption]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
 - [[wiki/concepts/Creation|Creation]]
+
+- [[wiki/passages/Proverbs 1|Proverbs 1]]
+
+- [[wiki/passages/Proverbs 3|Proverbs 3]]
+
+- [[wiki/passages/Proverbs 8|Proverbs 8]]
+
+- [[wiki/passages/Proverbs 16|Proverbs 16]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Proverbs|Matthew Henry Concise on Proverbs]]
 
 ## Sources
 

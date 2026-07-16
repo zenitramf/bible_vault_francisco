@@ -21,6 +21,9 @@ The sources define true worship less by sacred geography than by the character o
 - Servants of the Lord are called to bless the Lord, lift up hands in the sanctuary, and lead in praise. [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-134#Exposition|Spurgeon, Treasury of David on Psalm 134]]
 - God answers prayer and accepts worship by manifest tokens of presence and glory, as when fire fell and the glory filled the house in Solomon's temple dedication. [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-7#God's Gracious Answer to Solomon (1004 BC)|Matthew Henry on 2 Chronicles 7]]
 
+
+- Concise Psalms atlas supplies praise and sanctuary language across the Psalter for wiki retrieval; later Treasury of David (Phase 3.4) should thicken sanctuary and ministerial worship claims. [[wiki/passages/Psalm 100|Psalm 100]] [[wiki/passages/Psalm 150|Psalm 150]] [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
+
 ## Agreements and tensions
 
 - Henry's John 4 exposition relocates worship from contested holy places to spiritual reality in the gospel era. [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-4#Christ at the Well of Samaria|Matthew Henry on John 4]]
@@ -37,6 +40,14 @@ Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3.
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Christ|Christ]]
+
+- [[wiki/passages/Psalm 95|Psalm 95]]
+
+- [[wiki/passages/Psalm 100|Psalm 100]]
+
+- [[wiki/passages/Psalm 150|Psalm 150]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
 
 ## Sources
 

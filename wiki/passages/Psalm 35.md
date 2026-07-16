@@ -1,0 +1,51 @@
+---
+type: Passage Study
+title: Psalm 35
+description: David prays for safety. (1–10). He complains of his enemies. (11–16). And calls upon God to support him. (17–28).
+tags: [prayer, worship, faith, holiness, christ]
+status: seed
+updated: 2026-07-16
+source_count: 1
+bible_book_key: 19
+bible_book_name: "Psalms"
+---
+
+# Psalm 35
+
+## Summary
+
+Matthew Henry Concise on Psalm 35: David prays for safety. (1–10). He complains of his enemies. (11–16). And calls upon God to support him. (17–28).
+
+## Core claims
+
+- It is no new thing for the most righteous men, and the most righteous cause, to meet with enemies. This is a fruit of the old enmity in the seed of the serpent against the Seed of the woman. [[sources/commentaries_english/mhenry-concise/psalms/psalm-35#Verses 1–10|Matthew Henry Concise on Psalm 35]]
+- Call a man ungrateful, and you can call him no worse: this was the character of David's enemies. Herein he was a type of Christ. [[sources/commentaries_english/mhenry-concise/psalms/psalm-35#Verses 11–16|Matthew Henry Concise on Psalm 35]]
+- Though the people of God are, and study to be, quiet, yet it has been common for their enemies to devise deceitful matters against them. David prays, My soul is in danger, Lord, rescue it; it belongs to thee the Father of spirits, therefore claim thine own; it is thine, save it! [[sources/commentaries_english/mhenry-concise/psalms/psalm-35#Verses 17–28|Matthew Henry Concise on Psalm 35]]
+
+## Agreements and tensions
+
+This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+
+## Biblical passages
+
+Primary scope: Psalm 35 (full chapter).
+
+## Related pages
+
+- [[wiki/concepts/Prayer|Prayer]]
+- [[wiki/concepts/Worship|Worship]]
+- [[wiki/concepts/Faith|Faith]]
+- [[wiki/concepts/Holiness|Holiness]]
+- [[wiki/concepts/Christ|Christ]]
+- [[wiki/concepts/Salvation|Salvation]]
+- [[wiki/passages/Psalm 34|Psalm 34]]
+- [[wiki/passages/Psalm 36|Psalm 36]]
+- [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
+
+## Sources
+
+- [[sources/commentaries_english/mhenry-concise/psalms/psalm-35|Matthew Henry Concise, Psalm 35]]
+
+## Open questions
+
+- Which Complete-commentary or Spurgeon materials should next thicken the hub claims of this chapter?

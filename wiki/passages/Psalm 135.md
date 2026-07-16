@@ -1,0 +1,51 @@
+---
+type: Passage Study
+title: Psalm 135
+description: God to be praised for his mercy. (1–4). For his power and judgments. (5–14). The vanity of idols. (15–21).
+tags: [prayer, worship, faith, holiness, covenant]
+status: seed
+updated: 2026-07-16
+source_count: 1
+bible_book_key: 19
+bible_book_name: "Psalms"
+---
+
+# Psalm 135
+
+## Summary
+
+Matthew Henry Concise on Psalm 135: God to be praised for his mercy. (1–4). For his power and judgments. (5–14). The vanity of idols. (15–21).
+
+## Core claims
+
+- The subject-matter of praise, is the blessings of grace flowing from the everlasting love of God. The name of God as a covenant God and Father in Christ, blessing us with all spiritual blessings in him, is to be loved and praised. [[sources/commentaries_english/mhenry-concise/psalms/psalm-135#Verses 1–4|Matthew Henry Concise on Psalm 135]]
+- God is, and will be always, the same to his church, a gracious, faithful, wonder-working God. And his church is, and will be, the same to him, a thankful, praising people: thus his name endures for ever. [[sources/commentaries_english/mhenry-concise/psalms/psalm-135#Verses 5–14|Matthew Henry Concise on Psalm 135]]
+- These verses arm believers against idolatry and all false worship, by showing what sort of gods the heathen worshipped. And the more deplorable the condition of the Gentile nations that worship idols, the more are we to be thankful that we know better. [[sources/commentaries_english/mhenry-concise/psalms/psalm-135#Verses 15–21|Matthew Henry Concise on Psalm 135]]
+
+## Agreements and tensions
+
+This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+
+## Biblical passages
+
+Primary scope: Psalm 135 (full chapter).
+
+## Related pages
+
+- [[wiki/concepts/Prayer|Prayer]]
+- [[wiki/concepts/Worship|Worship]]
+- [[wiki/concepts/Faith|Faith]]
+- [[wiki/concepts/Holiness|Holiness]]
+- [[wiki/concepts/Covenant|Covenant]]
+- [[wiki/concepts/Christ|Christ]]
+- [[wiki/passages/Psalm 134|Psalm 134]]
+- [[wiki/passages/Psalm 136|Psalm 136]]
+- [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
+
+## Sources
+
+- [[sources/commentaries_english/mhenry-concise/psalms/psalm-135|Matthew Henry Concise, Psalm 135]]
+
+## Open questions
+
+- Which Complete-commentary or Spurgeon materials should next thicken the hub claims of this chapter?
