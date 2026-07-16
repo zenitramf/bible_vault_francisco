@@ -207,3 +207,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.3 Sermons Volumes 51–60
 
 - Volume source-notes for sermons volumes 51–60 (523 files). Zero-uncovered OK.
+
+## [2026-07-16] campaign | Phase 4.3 Sermons Volumes 61–63
+
+- Volume source-notes for sermons volumes 61–63 (124 files). Zero-uncovered OK.

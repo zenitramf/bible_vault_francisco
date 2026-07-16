@@ -138,6 +138,9 @@
 * [[wiki/source-notes/Spurgeon Sermons Volume 59|Spurgeon Sermons Volume 59]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 59.
 * [[wiki/source-notes/Spurgeon Sermons Volume 6|Spurgeon Sermons Volume 6]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 6.
 * [[wiki/source-notes/Spurgeon Sermons Volume 60|Spurgeon Sermons Volume 60]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 60.
+* [[wiki/source-notes/Spurgeon Sermons Volume 61|Spurgeon Sermons Volume 61]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 61.
+* [[wiki/source-notes/Spurgeon Sermons Volume 62|Spurgeon Sermons Volume 62]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 62.
+* [[wiki/source-notes/Spurgeon Sermons Volume 63|Spurgeon Sermons Volume 63]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 63.
 * [[wiki/source-notes/Spurgeon Sermons Volume 7|Spurgeon Sermons Volume 7]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 7.
 * [[wiki/source-notes/Spurgeon Sermons Volume 8|Spurgeon Sermons Volume 8]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 8.
 * [[wiki/source-notes/Spurgeon Sermons Volume 9|Spurgeon Sermons Volume 9]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 9.
