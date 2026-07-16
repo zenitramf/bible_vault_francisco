@@ -45,7 +45,7 @@ def main() -> int:
     all_markdown = [
         path
         for path in ROOT.rglob("*.md")
-        if ".git" not in path.parts and ".qmd" not in path.parts
+        if not any(part in {".git", ".obsidian", "__pycache__", "node_modules"} for part in path.parts)
     ]
 
     for tree in (WIKI, SOURCES):

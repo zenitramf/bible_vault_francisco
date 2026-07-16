@@ -13,6 +13,7 @@ python3 .tools/scripts/wiki_tool.py source-scan --update --accept-covered
 python3 .tools/scripts/wiki_tool.py doctor
 python3 .tools/scripts/wiki_tool.py lint
 python3 .tools/scripts/wiki_tool.py source-lint
+python3 .tools/scripts/lint_wiki.py
 python3 .tools/scripts/audit_public.py
 ```
 
@@ -31,7 +32,7 @@ python3 .tools/scripts/wiki_tool.py source-coverage
 python3 .tools/scripts/wiki_tool.py source-delta
 ```
 
-Sparse coverage of the commentary corpus is expected. Do not mass-ingest sources just to raise coverage percentages.
+Sparse coverage of the commentary corpus is expected outside deliberate full-coverage campaigns. Do not mass-ingest sources just to raise coverage percentages.
 
 ## Optional hooks
 
@@ -39,18 +40,12 @@ Sparse coverage of the commentary corpus is expected. Do not mass-ingest sources
 bash .tools/scripts/install_hooks.sh
 ```
 
-Hooks run build/lint/source-lint only — never embedding.
+Hooks run build/lint/source-lint/lint_wiki only.
 
-## Indexing / embeddings
+## Retrieval
 
-- Lexical refresh after source moves or wiki page adds: `.qmd/bin/update-safe`
-- Wiki embeddings when synthesis changed: `.qmd/bin/embed-wiki-safe`
-- Optional personal-notes vector pilot only: `.qmd/bin/embed-notes-safe`
-- Retrieval smoke: `.qmd/bin/benchmark-lexical` and `.qmd/bin/benchmark-multilingual`
-- Merged wiki search check: `.qmd/bin/search-wiki-safe "prayer" --no-semantic`
-- Never embed full `bible-sources` without explicit approval
-- Never index `raw/`
-- See `.qmd/README.md` for models policy and path normalization
+- Wiki search for agents: `wiki_tool.py search-catalog` (and reverse indexes under `wiki/indexes/`).
+- No embedding, vector database, qmd, Chroma, or Qdrant stack is part of this vault.
 
 ## Templates and schema
 

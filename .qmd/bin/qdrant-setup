@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-# One-shot: create/sync .tools/venv-qdrant with uv from .tools/pyproject.toml.
-set -euo pipefail
-ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
-# shellcheck source=/dev/null
-source "${ROOT}/.tools/scripts/qdrant-env.sh"
-ROOT="$ROOT" qdrant_ensure_env
-printf 'OK: %s\n' "$(qdrant_python)"
-"$(qdrant_python)" -c "from importlib.metadata import version; print('qdrant-client', version('qdrant-client'))"

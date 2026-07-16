@@ -17,9 +17,8 @@ updated: 2026-07-16
 | `wiki/` | LLM-maintained synthesis (OKF concepts) |
 | `schema/` | Producer rules, manifests, command docs |
 | `_templates/` | Note templates for agents and humans |
-| `.tools/scripts/` | Deterministic maintenance tooling |
+| `.tools/scripts/` | Deterministic maintenance tooling (`wiki_tool`, `lint_wiki`, `audit_public`) |
 | `.agents/skills/` | Agent skill playbooks |
-| `.qmd/` | Guarded lexical/semantic retrieval config and scripts |
 
 ## Concept ID (OKF §2)
 

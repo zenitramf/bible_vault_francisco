@@ -20,4 +20,4 @@ fi
 git config core.hooksPath .githooks
 chmod +x .githooks/pre-commit
 echo "Installed git hooksPath=.githooks"
-echo "Pre-commit will run: wiki_tool build, lint, source-lint"
+echo "Pre-commit will run: wiki_tool build, lint, source-lint, lint_wiki"

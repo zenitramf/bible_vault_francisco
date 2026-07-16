@@ -1,8 +1,0 @@
-# Deprecated for install: use uv + .tools/pyproject.toml instead.
-#
-#   uv sync --directory .tools
-#   # env path: .tools/venv-qdrant  (UV_PROJECT_ENVIRONMENT)
-#
-# Kept as a human-readable dependency list / fallback:
-#   uv pip install --python .tools/venv-qdrant/bin/python -r .tools/requirements-qdrant.txt
-qdrant-client>=1.12

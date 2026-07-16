@@ -12,7 +12,7 @@ source_count: 0
 
 Update this page whenever a section is started or finished. Status values: `pending`, `in_progress`, `reviewed`.
 
-**Phase 3 complete (2026-07-16).** **Phase 4 complete (2026-07-16):** full remaining-corpus coverage (4.0–4.7); vault sources 6836/6836 covered. Phase 5 QA polish remains.
+**Phase 3 complete (2026-07-16).** **Phase 4 complete (2026-07-16):** full remaining-corpus coverage (4.0–4.7); vault sources 6836/6836 covered. **Phase 5.1 Core Query Suite smoke complete (2026-07-16);** remaining Phase 5: concept `reviewed` second-pass, lint sweeps. RAG/embedding stack removed; wiki search is catalog-only.
 
 ## Phase 0 — Operating system
 
@@ -322,7 +322,7 @@ Fan durable claims into concepts as each 4.1–4.5 slice lands (do not wait for 
 
 | Section | Status | Notes |
 |---|---|---|
-| Core Query Suite smoke | pending | Wiki-only sample answers |
+| Core Query Suite smoke | reviewed | 2026-07-16: 13/13 sampled Hits (wiki-only); results on [[wiki/questions/Core Query Suite]] |
 | Second-pass concept `reviewed` | pending | Multi-source, multi-claim, explicit QA |
 | Coverage / orphan lint sweeps | pending | Ongoing hygiene |
-| Optional embed refresh | pending | Only with approval; never full `bible-sources` without OK |
+| ~~Optional embed refresh~~ | cancelled | RAG/embedding stack removed (2026-07-16); catalog-only wiki search |

@@ -47,7 +47,7 @@ WIKI_DIR_META = {
     "source-notes": ("Source notes", "Summaries and evaluations of intentionally ingested sources."),
 }
 
-SKIP_DIR_PARTS = {".git", ".qmd", ".obsidian", "__pycache__", "node_modules"}
+SKIP_DIR_PARTS = {".git", ".obsidian", "__pycache__", "node_modules"}
 
 # book_key, name, abbrev — matches AGENTS.md
 BOOK_TABLE: list[tuple[int, str, str]] = [
@@ -891,7 +891,7 @@ def cmd_doctor(_: argparse.Namespace) -> int:
     print(f"  catalog: {'present' if CATALOG.is_file() else 'missing'}")
     print(f"  source-manifest: {'present' if MANIFEST.is_file() else 'missing'}")
     print(f"  reverse indexes: {'present' if INDEXES_DIR.is_dir() else 'missing'}")
-    print(f"  qmd lint: {'present' if (ROOT / '.qmd/bin/lint-wiki').is_file() else 'missing'}")
+    print(f"  lint_wiki: {'present' if (ROOT / '.tools/scripts/lint_wiki.py').is_file() else 'missing'}")
 
     if CATALOG.is_file():
         rows = load_jsonl(CATALOG)

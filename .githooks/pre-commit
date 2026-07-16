@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # Lightweight pre-commit gate: rebuild catalog/indexes and lint.
-# Does not run qmd embedding or model-heavy retrieval.
 set -euo pipefail
 
 ROOT="$(git rev-parse --show-toplevel 2>/dev/null || true)"
@@ -13,6 +12,7 @@ cd "$ROOT"
 python3 .tools/scripts/wiki_tool.py build
 python3 .tools/scripts/wiki_tool.py lint
 python3 .tools/scripts/wiki_tool.py source-lint
+python3 .tools/scripts/lint_wiki.py
 
 # Re-stage generated artifacts if present
 for path in wiki/catalog.jsonl wiki/index.md schema/source-manifest.jsonl; do

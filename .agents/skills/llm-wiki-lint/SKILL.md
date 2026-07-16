@@ -12,8 +12,8 @@ python3 .tools/scripts/wiki_tool.py doctor
 python3 .tools/scripts/wiki_tool.py build
 python3 .tools/scripts/wiki_tool.py lint
 python3 .tools/scripts/wiki_tool.py source-lint
+python3 .tools/scripts/lint_wiki.py
 python3 .tools/scripts/audit_public.py
-.qmd/bin/lint-wiki
 ```
 
 After ingestion that changes coverage:

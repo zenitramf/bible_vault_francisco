@@ -12,7 +12,6 @@ ROOT = Path(__file__).resolve().parents[2]
 
 SKIP_DIR_PARTS = {
     ".git",
-    ".qmd",
     ".obsidian",
     "__pycache__",
     "node_modules",

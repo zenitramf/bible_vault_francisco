@@ -332,3 +332,26 @@ append_only: true
 - Gates: source-scan --accept-covered, path-scoped --require-zero, wiki lint, source-lint, doctor, audit_public, update-safe all pass.
 - phase4_cover.py helper retained under .tools/scripts for future re-runs.
 - Phase 5 QA polish remains optional next.
+
+## [2026-07-16] campaign | Phase 5 Core Query Suite smoke
+
+- Wiki-only smoke on Core Query Suite after Phase 4 closeout.
+- Sampled 13 questions (1,3,6,7,9,10,12,13,15,16,18,19,20): 13 Hit / 0 Thin / 0 Miss.
+- Primary pages: Romans 1/4/6/8/9/11/12, Matthew 6, Justification, Holiness, Discipleship, Prayer, Holy Spirit, What Sustains Christian Ministry, Ayudas, Little Known Bible Heroes path via Discipleship/Faith, Andy Doss note, Gómez pastor note.
+- Retrieval: catalog strongest for refs/titles; search-wiki-safe adequate; vault-local NL can rank concepts above exact source-notes.
+- Updated wiki/questions/Core Query Suite.md results section; tracker Phase 5.1 reviewed.
+- No source rewrites; no concept status promotions this pass.
+
+## [2026-07-16] maintain | Remove RAG stack
+
+- Removed entire .qmd/ tree (local BM25, embeddings, benchmarks, Qdrant wrappers).
+- Removed Qdrant/e5 scripts, .tools/venv-qdrant, pyproject/uv.lock, requirements-qdrant.
+- Preserved LLM-wiki search: wiki_tool search-catalog, catalog.jsonl, reverse indexes, lint_wiki under .tools/scripts.
+- Updated AGENTS.md, agent skills, schema docs, Core Query Suite, and campaign tracker for catalog-only retrieval.
+- No Chroma, qmd, or vector RAG remains.
+
+## [2026-07-16] maintain | AGENTS.md catalog-only context
+
+- Rewrote AGENTS.md as agent operating manual for LLM-wiki retrieval without RAG.
+- Documented catalog-first search (search-catalog, reverse indexes), wiki layout, out-of-scope vector/qmd/Chroma/Qdrant tooling, and post-RAG maintenance gate.
+- Aligns with removal of .qmd and Qdrant stacks; query/ingest/lint skills already catalog-only.

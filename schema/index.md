@@ -9,4 +9,4 @@ Live database view: [[schema/index.base|Folder base]]. Static OKF list remains b
 * [[schema/naming-conventions|Naming conventions]] - Paths, concept IDs, types, tags, and file naming.
 * [[schema/lint-checklist|Lint checklist]] - Structural and content checks before commits.
 * [[schema/workflow-examples|Workflow examples]] - Ingest, query, and maintenance examples.
-* [[schema/command-reference|Command reference]] - wiki_tool, audit_public, and guarded qmd helpers.
+* [[schema/command-reference|Command reference]] - wiki_tool, lint_wiki, and audit_public.
