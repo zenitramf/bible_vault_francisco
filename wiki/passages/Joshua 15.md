@@ -5,7 +5,7 @@ description: The borders of the lot of Judah. (1–12). Caleb's portion, His dau
 tags: [covenant, faith, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 6
 bible_book_name: "Joshua"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Joshua 15: The borders of the lot of Judah. (1–12). C
 - Joshua allotted to Judah, Ephraim, and the half of Manasseh, their inheritances before they left Gilgal. Afterwards removing to Shiloh, another survey was made, and the other tribes had their portion assigned. [[sources/commentaries_english/mhenry-concise/joshua/chapter-15#Verses 1–12|Matthew Henry Concise on Joshua 15]]
 - Achsah obtained some land by Caleb's free grant. He gave her a south land. [[sources/commentaries_english/mhenry-concise/joshua/chapter-15#Verses 13–19|Matthew Henry Concise on Joshua 15]]
 - Here is a list of the cities of Judah. But we do not here find Bethlehem, afterwards the city of David, and ennobled by the birth of our Lord Jesus in it. [[sources/commentaries_english/mhenry-concise/joshua/chapter-15#Verses 20–63|Matthew Henry Concise on Joshua 15]]
+- Though the land was not completely conquered, yet being (as was said in the close of the foregoing chapter) as rest from war for the present, and their armies all drawn out of the field to a general rendezvous at… [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-15|Matthew Henry Complete on Joshua 15]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Joshua 15 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Joshua 15 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/joshua/chapter-15|Matthew Henry Concise, Joshua 15]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-15|Matthew Henry Complete on Joshua 15]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Solomon's buildings. (1–12). Furniture of the temple. (13–47). 
 tags: [worship, covenant, justice, prophecy]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 11
 bible_book_name: "1 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Kings 7: Solomon's buildings. (1–12). Furniture of 
 - All Solomon's buildings, though beautiful, were intended for use. Solomon began with the temple; he built for God first, and then his other buildings. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-7#Verses 1–12|Matthew Henry Concise on 1 Kings 7]]
 - The two brazen pillars in the porch of the temple, some think, were to teach those that came to worship, to depend upon God only, for strength and establishment in all their religious exercises. “Jachin,” God will fix this roving mind. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-7#Verses 13–47|Matthew Henry Concise on 1 Kings 7]]
 - Christ is now the Temple and the Builder; the Altar and the Sacrifice; the Light of our souls, and the Bread of life; able to supply all the wants of all that have applied or shall apply to him. Outward images cannot represent, words cannot express, the heart cannot conceive, his preciousness or his love. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-7#Verses 48–51|Matthew Henry Concise on 1 Kings 7]]
+- As, in the story of David, one chapter of wars and victories follows another, so, in the story of Solomon, one chapter concerning his buildings follows another. In this chapter we have, I. His fitting up several… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-7|Matthew Henry Complete on 1 Kings 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Kings 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: 1 Kings 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-7|Matthew Henry Concise, 1 Kings 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-7|Matthew Henry Complete on 1 Kings 7]]
 
 ## Open questions
 

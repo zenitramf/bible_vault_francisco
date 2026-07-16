@@ -5,7 +5,7 @@ description: Tola and Jair judge Israel. (1–5). The Philistines and Ammonites 
 tags: [faith, justice, holiness, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 7
 bible_book_name: "Judges"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Judges 10: Tola and Jair judge Israel. (1–5). The Phi
 - Quiet and peaceable reigns, though the best to live in, yield least variety of matter to be spoken of. Such were the days of Tola and Jair. [[sources/commentaries_english/mhenry-concise/judges/chapter-10#Verses 1–5|Matthew Henry Concise on Judges 10]]
 - Now the threatening was fulfilled, that the Israelites should have no power to stand before their enemies, Le 26:17, 37. By their evil ways and their evil doings they procured this to themselves. [[sources/commentaries_english/mhenry-concise/judges/chapter-10#Verses 6–9|Matthew Henry Concise on Judges 10]]
 - God is able to multiply men's punishments according to the numbers of their sins and idols. But there is hope when sinners cry to the Lord for help, and lament their ungodliness as well as their more open transgressions. [[sources/commentaries_english/mhenry-concise/judges/chapter-10#Verses 10–18|Matthew Henry Concise on Judges 10]]
+- In this chapter we have, I. The peaceable times Israel enjoyed under the government of two judges, Tola and Jair, Jdg 10:1-5. II. The troublesome times that ensued. 1. Israel's sin that brought them into trouble, Jdg… [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-10|Matthew Henry Complete on Judges 10]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Judges 10 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justice|Justice]]
@@ -43,6 +48,7 @@ Primary scope: Judges 10 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/judges/chapter-10|Matthew Henry Concise, Judges 10]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-10|Matthew Henry Complete on Judges 10]]
 
 ## Open questions
 

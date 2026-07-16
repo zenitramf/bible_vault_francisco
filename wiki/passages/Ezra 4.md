@@ -5,7 +5,7 @@ description: The adversaries of the temple. (1–5). The building of the temple 
 tags: [covenant, worship, holiness, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 15
 bible_book_name: "Ezra"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Ezra 4: The adversaries of the temple. (1–5). The bui
 
 - Every attempt to revive true religion will stir up the opposition of Satan, and of those in whom he works. The adversaries were the Samaritans, who had been planted in the land of Israel, 2Ki 17. [[sources/commentaries_english/mhenry-concise/ezra/chapter-4#Verses 1–5|Matthew Henry Concise on Ezra 4]]
 - It is an old slander, that the prosperity of the church would be hurtful to kings and princes. Nothing can be more false, for true godliness teaches us to honour and obey our sovereign. [[sources/commentaries_english/mhenry-concise/ezra/chapter-4#Verses 6–24|Matthew Henry Concise on Ezra 4]]
+- The good work of rebuilding the temple was no sooner begun than it met with opposition from those that bore ill will to it; the Samaritans were enemies to the Jews and their religion, and they set themselves to… [[sources/commentaries_english/mhenry-complete/volume-2/ezra/chapter-4|Matthew Henry Complete on Ezra 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ezra 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Worship|Worship]]
@@ -42,6 +47,7 @@ Primary scope: Ezra 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ezra/chapter-4|Matthew Henry Concise, Ezra 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/ezra/chapter-4|Matthew Henry Complete on Ezra 4]]
 
 ## Open questions
 

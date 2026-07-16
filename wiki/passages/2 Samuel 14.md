@@ -5,7 +5,7 @@ description: Joab procures Absalom's recall. (1–20). Absalom recalled. (21–2
 tags: [covenant, christ, justice, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 10
 bible_book_name: "2 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Samuel 14: Joab procures Absalom's recall. (1–20). 
 - We may notice here, how this widow pleads God's mercy, and his clemency toward poor guilty sinners. The state of sinners is a state of banishment from God. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-14#Verses 1–20|Matthew Henry Concise on 2 Samuel 14]]
 - Nothing is said of Absalom's wisdom and piety. All here said of him is, that he was very handsome. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-14#Verses 25–27|Matthew Henry Concise on 2 Samuel 14]]
 - By his insolent carriage toward Joab, Absalom brought Joab to plead for him. By his insolent message to the king, he gained his wishes. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-14#Verses 28–33|Matthew Henry Concise on 2 Samuel 14]]
+- How Absalom threw himself out of his royal father's protection and favour we read in the foregoing chapter, which left him an exile, outlawed, and proscribed; in this chapter we have the arts that were used to bring… [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-14|Matthew Henry Complete on 2 Samuel 14]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Samuel 14 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Christ|Christ]]
@@ -43,6 +48,7 @@ Primary scope: 2 Samuel 14 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-14|Matthew Henry Concise, 2 Samuel 14]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-14|Matthew Henry Complete on 2 Samuel 14]]
 
 ## Open questions
 

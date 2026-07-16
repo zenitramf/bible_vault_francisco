@@ -5,7 +5,7 @@ description: Reign of Azariah, or Uzziah, king of Judah. (1–7). The latter kin
 tags: [prophecy, justice, covenant, holiness, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 12
 bible_book_name: "2 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Kings 15: Reign of Azariah, or Uzziah, king of Judah.
 - Uzziah did for the most part that which was right. It was happy for the kingdom that a good reign was a long one. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-15#Verses 1–7|Matthew Henry Concise on 2 Kings 15]]
 - This history shows Israel in confusion. Though Judah was not without troubles, yet that kingdom was happy, compared with the state of Israel. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-15#Verses 8–31|Matthew Henry Concise on 2 Kings 15]]
 - Jotham showed great respect to the temple. If magistrates cannot do all they would, for the suppressing of vice and profaneness, let them do the more to support and advance piety and virtue. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-15#Verses 32–38|Matthew Henry Concise on 2 Kings 15]]
+- In this chapter, I. The history of two of the kings of Judah is briefly recorded:—1. Of Azariah, or Uzziah, 2Ki 15:1-7. 2. Of Jotham his son, 2Ki 15:32-38. II. The history of many of the kings of Israel that reigned at… [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-15|Matthew Henry Complete on 2 Kings 15]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Kings 15 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Justice|Justice]]
@@ -44,6 +49,7 @@ Primary scope: 2 Kings 15 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-kings/chapter-15|Matthew Henry Concise, 2 Kings 15]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-15|Matthew Henry Complete on 2 Kings 15]]
 
 ## Open questions
 

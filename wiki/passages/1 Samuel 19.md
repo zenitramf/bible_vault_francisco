@@ -5,7 +5,7 @@ description: Jonathan reconciles his father to David, Saul again tries to slay h
 tags: [faith, prayer, holiness, justice, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 1 Samuel 19: Jonathan reconciles his father to David, S
 
 - How forcible are right words! Saul was, for a time, convinced of the unreasonableness of his enmity to David; but he continued his malice against David. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-19#Verses 1–10|Matthew Henry Concise on 1 Samuel 19]]
 - Michal's stratagem to gain time till David got to a distance was allowable, but her falsehood had not even the plea of necessity to excuse it, and manifests that she was not influenced by the same spirit of piety which had dictated Jonathan's language to Saul. In flying to Samuel, David made God his refuge. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-19#Verses 11–24|Matthew Henry Concise on 1 Samuel 19]]
+- Immediately after David's marriage, which one would have hoped would secure him Saul's affection, we find his troubles coming upon him faster than ever and Saul's enmity to him the cause of all. His death was vowed,… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-19|Matthew Henry Complete on 1 Samuel 19]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 19 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -43,6 +48,7 @@ Primary scope: 1 Samuel 19 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-19|Matthew Henry Concise, 1 Samuel 19]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-19|Matthew Henry Complete on 1 Samuel 19]]
 
 ## Open questions
 

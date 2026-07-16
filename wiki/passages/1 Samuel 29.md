@@ -5,7 +5,7 @@ description: David objected to by the Philistines. (1–5). He is dismissed by A
 tags: [faith, prayer, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 1 Samuel 29: David objected to by the Philistines. (1�
 
 - David waited with a secret hope that the Lord would help him out of his difficulty. But he seems to have been influenced too much by the fear of man, in consenting to attend Achish. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-29#Verses 1–5|Matthew Henry Concise on 1 Samuel 29]]
 - David scarcely ever had a greater deliverance than when dismissed from such insnaring service. God's people should always behave themselves so, as, if possible, to get the good word of all they have dealings with: and it is due to those who have acted well, to speak well of them. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-29#Verses 6–11|Matthew Henry Concise on 1 Samuel 29]]
+- How Saul, who was forsaken of God, when he was in a strait was more and more perplexed and embarrassed with his own counsels, we read in the foregoing chapter. In this chapter we find how David, who kept close to God,… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-29|Matthew Henry Complete on 1 Samuel 29]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 29 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -42,6 +47,7 @@ Primary scope: 1 Samuel 29 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-29|Matthew Henry Concise, 1 Samuel 29]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-29|Matthew Henry Complete on 1 Samuel 29]]
 
 ## Open questions
 

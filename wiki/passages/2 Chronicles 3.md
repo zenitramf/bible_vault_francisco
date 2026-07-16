@@ -5,7 +5,7 @@ description: The building of the temple. (1-17).
 tags: [worship, prayer, covenant, holiness, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 14
 bible_book_name: "2 Chronicles"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on 2 Chronicles 3: The building of the temple. (1-17).
 ## Core claims
 
 - There is a more particular account of the building of the temple in 1Ki 6. It must be in the place David had prepared, not only which he had purchased, but which he had fixed on by Divine direction. [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-3#Verses 1-17|Matthew Henry Concise on 2 Chronicles 3]]
+- It was a much larger and more particular account of the building of the temple which we had in the book of Kings than is here in this book of Chronicles. In this chapter we have, I. The place and time of building the… [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-3|Matthew Henry Complete on 2 Chronicles 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Chronicles 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -42,6 +47,7 @@ Primary scope: 2 Chronicles 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-3|Matthew Henry Concise, 2 Chronicles 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-3|Matthew Henry Complete on 2 Chronicles 3]]
 
 ## Open questions
 

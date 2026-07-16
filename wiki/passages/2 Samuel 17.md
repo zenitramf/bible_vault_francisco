@@ -5,7 +5,7 @@ description: Ahithophel's counsel overthrown. (1–21). He hangs himself, Absalo
 tags: [covenant, christ, justice, prayer, wisdom]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 10
 bible_book_name: "2 Samuel"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 2 Samuel 17: Ahithophel's counsel overthrown. (1–21).
 
 - Here was a wonderful effect of Divine Providence blinding Absalom's mind and influencing his heart, that he could not rest in Ahithophel's counsel, and that he should desire Hushai's advice. But there is no contending with that God who can arm a man against himself, and destroy him by his own mistakes and passions. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-17#Verses 1–21|Matthew Henry Concise on 2 Samuel 17]]
 - Ahithophel hanged himself for vexation that his counsel was not followed. That will break a proud man's heart which will not break a humble man's sleep. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-17#Verses 22–29|Matthew Henry Concise on 2 Samuel 17]]
+- The contest between David and Absalom is now hasting towards a crisis. It must be determined by the sword, and preparation is made accordingly in this chapter. I. Absalom calls a council of war, in which Ahithophel… [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-17|Matthew Henry Complete on 2 Samuel 17]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Samuel 17 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Christ|Christ]]
@@ -43,6 +48,7 @@ Primary scope: 2 Samuel 17 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-17|Matthew Henry Concise, 2 Samuel 17]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-17|Matthew Henry Complete on 2 Samuel 17]]
 
 ## Open questions
 

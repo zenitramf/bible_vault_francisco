@@ -5,7 +5,7 @@ description: Haman seeks to destroy the Jews. (1–6). He obtains a decree again
 tags: [faith, justice, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 17
 bible_book_name: "Esther"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Esther 3: Haman seeks to destroy the Jews. (1–6). He 
 
 - Mordecai refused to reverence Haman. The religion of a Jew forbade him to give honours to any mortal man which savoured of idolatry, especially to so wicked a man as Haman. [[sources/commentaries_english/mhenry-concise/esther/chapter-3#Verses 1–6|Matthew Henry Concise on Esther 3]]
 - Without some acquaintance with the human heart, and the history of mankind, we should not think that any prince could consent to a dreadful proposal, so hurtful to himself. Let us be thankful for mild and just government. [[sources/commentaries_english/mhenry-concise/esther/chapter-3#Verses 7–15|Matthew Henry Concise on Esther 3]]
+- A very black and mournful scene here opens, and which threatens the ruin of all the people of God. Were there not some such dark nights, the light of the morning would not be so welcome. I. Haman is made the king's… [[sources/commentaries_english/mhenry-complete/volume-2/esther/chapter-3|Matthew Henry Complete on Esther 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Esther 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justice|Justice]]
@@ -42,6 +47,7 @@ Primary scope: Esther 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/esther/chapter-3|Matthew Henry Concise, Esther 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/esther/chapter-3|Matthew Henry Complete on Esther 3]]
 
 ## Open questions
 

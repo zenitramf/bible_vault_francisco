@@ -5,7 +5,7 @@ description: Athaliah usurps the government of Judah, Jehoash made king. (1–12
 tags: [prophecy, justice, covenant, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 12
 bible_book_name: "2 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Kings 11: Athaliah usurps the government of Judah, Je
 - Athaliah destroyed all she knew to be akin to the crown. Jehoash, one of the king's sons, was hid. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-11#Verses 1–12|Matthew Henry Concise on 2 Kings 11]]
 - Athaliah hastened her own destruction. She herself was the greatest traitor, and yet was first and loudest in crying, Treason, treason! [[sources/commentaries_english/mhenry-concise/2-kings/chapter-11#Verses 13–16|Matthew Henry Concise on 2 Kings 11]]
 - King and people would cleave most firmly to each other, when both had joined themselves to the Lord. It is well with a people, when all the changes that pass over them help to revive, strengthen, and advance the interests of religion among them. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-11#Verses 17–21|Matthew Henry Concise on 2 Kings 11]]
+- The revolution in the kingdom of Israel was soon perfected in Jehu's settlement; we must now enquire into the affairs of the kingdom of Judah, which lost its head (such as it was) at the same time, and by the same… [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-11|Matthew Henry Complete on 2 Kings 11]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Kings 11 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Justice|Justice]]
@@ -44,6 +49,7 @@ Primary scope: 2 Kings 11 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-kings/chapter-11|Matthew Henry Concise, 2 Kings 11]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-11|Matthew Henry Complete on 2 Kings 11]]
 
 ## Open questions
 

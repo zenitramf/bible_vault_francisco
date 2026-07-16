@@ -5,7 +5,7 @@ description: Death of Samuel. (1). David's request; Nabal's churlish refusal. (2
 tags: [faith, prayer, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 25: Death of Samuel. (1). David's request; Nab
 - All Israel lamented Samuel, and they had reason. He prayed daily for them. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-25#Verse 1|Matthew Henry Concise on 1 Samuel 25]]
 - By a present Abigail atoned for Nabal's denial of David's request. Her behaviour was very submissive. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-25#Verses 18–31|Matthew Henry Concise on 1 Samuel 25]]
 - Abigail believed that David would be king over Israel, and greatly esteemed his pious and excellent character. She deemed his proposal of marriage honourable, and advantageous to her, notwithstanding his present difficulties. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-25#Verses 39–44|Matthew Henry Concise on 1 Samuel 25]]
+- We have here some intermission of David's troubles by Saul. Providence favoured him with a breathing time, and yet this chapter gives us instances of the troubles of David. If one vexation seems to be over, we must not… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-25|Matthew Henry Complete on 1 Samuel 25]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 25 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -43,6 +48,7 @@ Primary scope: 1 Samuel 25 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-25|Matthew Henry Concise, 1 Samuel 25]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-25|Matthew Henry Complete on 1 Samuel 25]]
 
 ## Open questions
 

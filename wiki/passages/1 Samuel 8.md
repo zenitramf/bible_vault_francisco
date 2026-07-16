@@ -5,7 +5,7 @@ description: The evil government of Samuel's sons. (1–3). The Israelites ask f
 tags: [faith, prayer, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 8: The evil government of Samuel's sons. (1–
 - It does not appear that Samuel's sons were so profane and vicious as Eli's sons; but they were corrupt judges, they turned aside after lucre. Samuel took no bribes, but his sons did, and then they perverted judgment. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-8#Verses 1–3|Matthew Henry Concise on 1 Samuel 8]]
 - Samuel was displeased; he could patiently bear what reflected on himself, and his own family; but it displeased him when they said, Give us a king to judge us, because that reflected upon God. It drove him to his knees. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-8#Verses 4–9|Matthew Henry Concise on 1 Samuel 8]]
 - If they would have a king to rule them, as the eastern kings ruled their subjects, they would find the yoke exceedingly heavy. Those that submit to the government of the world and the flesh, are told plainly, what hard masters they are, and what tyranny the dominion of sin is. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-8#Verses 10–22|Matthew Henry Concise on 1 Samuel 8]]
+- Things went so very well with Israel, in the chapter before, under Samuel's administration, that, methinks, it is a pity to find him so quickly, as we do in this chapter, old, and going off, and things working towards… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-8|Matthew Henry Complete on 1 Samuel 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -43,6 +48,7 @@ Primary scope: 1 Samuel 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-8|Matthew Henry Concise, 1 Samuel 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-8|Matthew Henry Complete on 1 Samuel 8]]
 
 ## Open questions
 

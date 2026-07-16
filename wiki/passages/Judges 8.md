@@ -5,7 +5,7 @@ description: Gideon pacifies the Ephraimites. (1–3). Succoth and Penuel refuse
 tags: [faith, justice, holiness, salvation, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 7
 bible_book_name: "Judges"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Judges 8: Gideon pacifies the Ephraimites. (1–3). Suc
 - Those who will not attempt or venture any thing in the cause of God, will be the most ready to censure and quarrel with such as are of a more zealous and enterprising spirit. And those who are the most backward to difficult services, will be the most angry not to have the credit of them. [[sources/commentaries_english/mhenry-concise/judges/chapter-8#Verses 1–3|Matthew Henry Concise on Judges 8]]
 - The kings of Midian must be reckoned with. As they confessed themselves guilty of murder, Gideon acted as the avenger of blood, being the next of kin to the persons slain. [[sources/commentaries_english/mhenry-concise/judges/chapter-8#Verses 18–21|Matthew Henry Concise on Judges 8]]
 - As soon as Gideon was dead, who kept the people to the worship of the God of Israel, they found themselves under no restraint; then they went after Baalim, and showed no kindness to the family of Gideon. No wonder if those who forget their God, forget their friends. [[sources/commentaries_english/mhenry-concise/judges/chapter-8#Verses 29–35|Matthew Henry Concise on Judges 8]]
+- This chapter gives us a further account of Gideon's victory over the Midianites, with the residue of the story of his life and government. I. Gideon prudently pacifies the offended Ephraimites, Jdg 8:1-3. II. He… [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-8|Matthew Henry Complete on Judges 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Judges 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justice|Justice]]
@@ -44,6 +49,7 @@ Primary scope: Judges 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/judges/chapter-8|Matthew Henry Concise, Judges 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-8|Matthew Henry Complete on Judges 8]]
 
 ## Open questions
 

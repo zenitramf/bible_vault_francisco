@@ -5,7 +5,7 @@ description: Esther chosen queen. (1–20). Mordecai discovers a plot against th
 tags: [faith, justice, salvation, christ, wisdom]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 17
 bible_book_name: "Esther"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Esther 2: Esther chosen queen. (1–20). Mordecai disco
 
 - We see to what absurd practices those came, who were destitute of Divine revelation, and what need there was of the gospel of Christ, to purify men from the lusts of the flesh, and to bring them back to the original institution of marriage. Esther was preferred as queen. [[sources/commentaries_english/mhenry-concise/esther/chapter-2#Verses 1–20|Matthew Henry Concise on Esther 2]]
 - Good subjects must not conceal any bad design they know of against the prince, or the public peace. Mordecai was not rewarded at the time, but a remembrance was written. [[sources/commentaries_english/mhenry-concise/esther/chapter-2#Verses 21–23|Matthew Henry Concise on Esther 2]]
+- Two things are recorded in this chapter, which were working towards the deliverance of the Jews from Haman's conspiracy:—I. The advancement of Esther to be queen instead of Vashti. Many others were candidates for the… [[sources/commentaries_english/mhenry-complete/volume-2/esther/chapter-2|Matthew Henry Complete on Esther 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Esther 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justice|Justice]]
@@ -44,6 +49,7 @@ Primary scope: Esther 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/esther/chapter-2|Matthew Henry Concise, Esther 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/esther/chapter-2|Matthew Henry Complete on Esther 2]]
 
 ## Open questions
 

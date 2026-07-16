@@ -5,7 +5,7 @@ description: Samson's escape from Gaza. (1–3). Samson enticed to declare his s
 tags: [faith, justice, holiness, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 7
 bible_book_name: "Judges"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Judges 16: Samson's escape from Gaza. (1–3). Samson e
 - Hitherto Samson's character has appeared glorious, though uncommon. In this chapter we find him behaving in so wicked a manner, that many question whether or not he were a godly man. [[sources/commentaries_english/mhenry-concise/judges/chapter-16#Verses 1–3|Matthew Henry Concise on Judges 16]]
 - See the fatal effects of false security. Satan ruins men by flattering them into a good opinion of their own safety, and so bringing them to mind nothing, and fear nothing; and then he robs them of their strength and honour, and leads them captive at his will. [[sources/commentaries_english/mhenry-concise/judges/chapter-16#Verses 18–21|Matthew Henry Concise on Judges 16]]
 - Nothing fills up the sins of any person or people faster than mocking and misusing the servants of God, even thought it is by their own folly that they are brought low. God put it into Samson's heart, as a public person, thus to avenge on them God's quarrel, Israel's, and his own. [[sources/commentaries_english/mhenry-concise/judges/chapter-16#Verses 25–31|Matthew Henry Concise on Judges 16]]
+- Samson's name (we have observed before) signifies a little sun (sol parvus); we have seen this sun rising very bright, and his morning ray strong and clear; and, nothing appearing to the contrary, we take it for… [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-16|Matthew Henry Complete on Judges 16]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Judges 16 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justice|Justice]]
@@ -43,6 +48,7 @@ Primary scope: Judges 16 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/judges/chapter-16|Matthew Henry Concise, Judges 16]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-16|Matthew Henry Complete on Judges 16]]
 
 ## Open questions
 

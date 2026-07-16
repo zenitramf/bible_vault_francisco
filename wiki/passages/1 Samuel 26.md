@@ -5,7 +5,7 @@ description: Saul goes after David, who again spares Saul's life. (1–12). Davi
 tags: [faith, prayer, holiness, justice, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 26: Saul goes after David, who again spares Sa
 - How soon do unholy hearts lose the good impressions convictions have made upon them! How helpless were Saul and all his men! [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-26#Verses 1–12|Matthew Henry Concise on 1 Samuel 26]]
 - David reasoned seriously and affectionately with Saul. Those who forbid our attendance on God's ordinances, do what they can to estrange us from God, and to make us heathens. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-26#Verses 13–20|Matthew Henry Concise on 1 Samuel 26]]
 - Saul repeated his good words and good wishes. But he showed no evidence of true repentance towards God. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-26#Verses 21–25|Matthew Henry Concise on 1 Samuel 26]]
+- David's troubles from Saul here begin again; and the clouds return after the rain, when one would have hoped the storm had blown over, and the sky had cleared upon that side; but after Saul had owned his fault in… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-26|Matthew Henry Complete on 1 Samuel 26]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 26 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -44,6 +49,7 @@ Primary scope: 1 Samuel 26 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-26|Matthew Henry Concise, 1 Samuel 26]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-26|Matthew Henry Complete on 1 Samuel 26]]
 
 ## Open questions
 

@@ -218,7 +218,7 @@ Thicken the existing concise passage atlas with Complete on every matching chapt
 | Section | Status | Approx. files | Notes |
 |---|---|---:|---|
 | Volume 1 (Gen–Deut) | reviewed | 188 | Complete vol source-note + 182 passage thickens; 0 uncovered |
-| Volume 2 (Josh–Esth) | pending | ~250 | Historical books |
+| Volume 2 (Josh–Esth) | reviewed | 250 | Complete vol source-note + passage thickens; 0 uncovered |
 | Volume 3 (Job–Song) | pending | ~244 | Poetry/wisdom (incl. Psalms Complete files) |
 | Volume 4 (Isa–Mal) | pending | ~251 | Prophets |
 | Volume 5 (Gospels) | pending | ~90 | Mt–Jn Complete |

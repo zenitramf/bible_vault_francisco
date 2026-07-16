@@ -5,7 +5,7 @@ description: The Philistines consult how to send back the ark. (1–9). They bri
 tags: [faith, prayer, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 6: The Philistines consult how to send back th
 - Seven months the Philistines were punished with the presence of the ark; so long it was a plague to them, because they would not send it home sooner. Sinners lengthen out their own miseries by refusing to part with their sins. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-6#Verses 1–9|Matthew Henry Concise on 1 Samuel 6]]
 - These two kine knew their owner, their great Owner, whom Hophin and Phinehas knew not. God's providence takes notice even of brute creatures, and serves its own purposes by them. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-6#Verses 10–18|Matthew Henry Concise on 1 Samuel 6]]
 - It is a great affront to God, for vain men to pry into, and meddle with the secret things which belong not to them, De 29:29; Col 2:18. Man was ruined by desiring forbidden knowledge. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-6#Verses 19–21|Matthew Henry Concise on 1 Samuel 6]]
+- In this chapter we have the return of the ark to the land of Israel, whither we are now gladly to attend it, and observe, I. How the Philistines dismissed it, by the advice of their priests (2Sa 6:1-11), with rich… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-6|Matthew Henry Complete on 1 Samuel 6]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 6 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -43,6 +48,7 @@ Primary scope: 1 Samuel 6 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-6|Matthew Henry Concise, 1 Samuel 6]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-6|Matthew Henry Complete on 1 Samuel 6]]
 
 ## Open questions
 

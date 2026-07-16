@@ -5,7 +5,7 @@ description: David's care for the ark. (1–3). God's covenant with David. (4–
 tags: [covenant, christ, justice, prayer, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 10
 bible_book_name: "2 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Samuel 7: David's care for the ark. (1–3). God's co
 - David being at rest in his palace, considered how he might best employ his leisure and prosperity in the service of God. He formed a design to build a temple for the ark. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-7#Verses 1–3|Matthew Henry Concise on 2 Samuel 7]]
 - Blessings are promised to the family and posterity of David. These promises relate to Solomon, David's immediate successor, and the royal line of Judah. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-7#Verses 4–17|Matthew Henry Concise on 2 Samuel 7]]
 - David's prayer is full of the breathings of devout affection toward God. He had low thoughts of his own merits. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-7#Verses 18–29|Matthew Henry Concise on 2 Samuel 7]]
+- Still the ark is David's care as well as his joy. In this chapter we have, I. His consultation with Nathan about building a house for it; he signifies his purpose to do it (2Sa 7:1,2) and Nathan approves his purpose,… [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-7|Matthew Henry Complete on 2 Samuel 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Samuel 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Christ|Christ]]
@@ -44,6 +49,7 @@ Primary scope: 2 Samuel 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-7|Matthew Henry Concise, 2 Samuel 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-7|Matthew Henry Complete on 2 Samuel 7]]
 
 ## Open questions
 

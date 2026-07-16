@@ -5,7 +5,7 @@ description: Samuel testifies his integrity. (1–5). Samuel reproves the people
 tags: [faith, prayer, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 12: Samuel testifies his integrity. (1–5). S
 - Samuel not only cleared his own character, but set an example before Saul, while he showed the people their ingratitude to God and to himself. There is a just debt which all men to their own good name, especially men in public stations, which is, to guard it against unjust blame and suspicions, that they may finish… [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-12#Verses 1–5|Matthew Henry Concise on 1 Samuel 12]]
 - The work of ministers is to reason with people; not only to exhort and direct, but to persuade, to convince men's judgments, and so to gain their wills and affections. Samuel reasons of the righteous acts of the Lord. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-12#Verses 6–15|Matthew Henry Concise on 1 Samuel 12]]
 - At Samuel's word, God sent thunder and rain, at a season of the year when, in that country, the like was not seen. This was to convince them they had done wickedly in asking a king; not only by its coming at an unusual time, in wheat harvest, and on a clear day, but by the prophet's giving notice of it before. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-12#Verses 16–25|Matthew Henry Concise on 1 Samuel 12]]
+- We left the general assembly of the states together, in the close of the foregoing chapter; in this chapter we have Samuel's speech to them, when he resigned the government into the hands of Saul, in which, I. He… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-12|Matthew Henry Complete on 1 Samuel 12]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 12 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -43,6 +48,7 @@ Primary scope: 1 Samuel 12 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-12|Matthew Henry Concise, 1 Samuel 12]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-12|Matthew Henry Complete on 1 Samuel 12]]
 
 ## Open questions
 

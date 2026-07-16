@@ -5,7 +5,7 @@ description: Jeroboam's sin reproved. (1–10). The prophet deceived. (11–22).
 tags: [worship, covenant, justice, prophecy, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 11
 bible_book_name: "1 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Kings 13: Jeroboam's sin reproved. (1–10). The prop
 - In threatening the altar, the prophet threatens the founder and worshippers. Idolatrous worship will not continue, but the word of the Lord will endure for ever. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-13#Verses 1–10|Matthew Henry Concise on 1 Kings 13]]
 - The old prophet's conduct proves that he was not really a godly man. When the change took place under Jeroboam, he preferred his ease and interest to his religion. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-13#Verses 11–22|Matthew Henry Concise on 1 Kings 13]]
 - God is displeased at the sins of his own people; and no man shall be protected in disobedience, by his office, his nearness to God, or any services he has done for him. God warns all whom he employs, strictly to observe their orders. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-13#Verses 23–34|Matthew Henry Concise on 1 Kings 13]]
+- In the close of the foregoing chapter we left Jeroboam attending his altar at Beth-el, and there we find him in the beginning of this, when he received a testimony from God against his idolatry and apostasy. This was… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-13|Matthew Henry Complete on 1 Kings 13]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Kings 13 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: 1 Kings 13 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-13|Matthew Henry Concise, 1 Kings 13]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-13|Matthew Henry Complete on 1 Kings 13]]
 
 ## Open questions
 

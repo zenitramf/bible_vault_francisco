@@ -5,7 +5,7 @@ description: The offices of the Levites. (1-32).
 tags: [worship, covenant, christ, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 13
 bible_book_name: "1 Chronicles"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on 1 Chronicles 26: The offices of the Levites. (1-32).
 ## Core claims
 
 - The porters and treasurers of the temple, had occasion for strength and valour to oppose those who wrongly attempted to enter the sanctuary, and to guard the sacred treasures. Much was expended daily upon the altar; flour, wine, oil, salt, fuel, beside the lamps; quantities of these were kept beforehand, besides the… [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-26#Verses 1-32|Matthew Henry Concise on 1 Chronicles 26]]
+- We have here an account of the business of the Levites. That tribe had made but a very small figure all the time of the judges, till Eli and Samuel appeared. But when David revived religion the Levites were, of all… [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-26|Matthew Henry Complete on 1 Chronicles 26]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Chronicles 26 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -41,6 +46,7 @@ Primary scope: 1 Chronicles 26 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-26|Matthew Henry Concise, 1 Chronicles 26]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-26|Matthew Henry Complete on 1 Chronicles 26]]
 
 ## Open questions
 

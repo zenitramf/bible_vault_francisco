@@ -5,7 +5,7 @@ description: Elkanah and his family. (1–8). Hannah's prayer. (9–18). Samuel,
 tags: [faith, prayer, holiness, justice, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 1: Elkanah and his family. (1–8). Hannah's p
 - Elkanah kept up his attendance at God's altar, notwithstanding the unhappy differences in his family. If the devotions of a family prevail not to put an end to its divisions, yet let not the divisions put a stop to the devotions. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-1#Verses 1–8|Matthew Henry Concise on 1 Samuel 1]]
 - Hannah mingled tears with her prayers; she considered the mercy of our God, who knows the troubled soul. God gives us leave, in prayer, not only to ask good things in general, but to mention that special good thing we most need and desire. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-1#Verses 9–18|Matthew Henry Concise on 1 Samuel 1]]
 - Elkanah and his family had a journey before them, and a family of children to take with them, yet they would not move till they had worshipped God together. Prayer and provender do not hinder a journey. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-1#Verses 19–28|Matthew Henry Concise on 1 Samuel 1]]
+- The history of Samuel here begins as early as that of Samson did, even before he was born, as afterwards the history of John the Baptist and our blessed Saviour. Some of the scripture-worthies drop out of the clouds,… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-1|Matthew Henry Complete on 1 Samuel 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -43,6 +48,7 @@ Primary scope: 1 Samuel 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-1|Matthew Henry Concise, 1 Samuel 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-1|Matthew Henry Complete on 1 Samuel 1]]
 
 ## Open questions
 

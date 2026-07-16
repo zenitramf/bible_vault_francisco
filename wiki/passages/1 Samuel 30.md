@@ -5,7 +5,7 @@ description: Ziklag spoiled by the Amalekites. (1–6). David overtakes the Amal
 tags: [faith, prayer, holiness, justice, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 30: Ziklag spoiled by the Amalekites. (1–6).
 - When we go abroad in the way of our duty, we may comfortably hope that God will take care of our families in our absence, but not otherwise. If, when we come off a journey, we find our abode in peace, and not laid waste, as David here found his, let the Lord be praised for it. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-30#Verses 1–6|Matthew Henry Concise on 1 Samuel 30]]
 - Sinners are nearest to ruin, when they cry, Peace and safety, and put the evil day far from them. Nor does any thing give our spiritual enemies more advantage than sensuality and indulgence. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-30#Verses 16–20|Matthew Henry Concise on 1 Samuel 30]]
 - What God gives us, he designs we should do good with. In distributing the spoil, David was just and kind. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-30#Verses 21–31|Matthew Henry Concise on 1 Samuel 30]]
+- When David was dismissed from the army of the Philistines he did not go over to the camp of Israel, but, being expelled by Saul, observed an exact neutrality, and silently retired to his own city Ziklag, leaving the… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-30|Matthew Henry Complete on 1 Samuel 30]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 30 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -44,6 +49,7 @@ Primary scope: 1 Samuel 30 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-30|Matthew Henry Concise, 1 Samuel 30]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-30|Matthew Henry Complete on 1 Samuel 30]]
 
 ## Open questions
 

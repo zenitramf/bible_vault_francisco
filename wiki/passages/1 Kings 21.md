@@ -5,7 +5,7 @@ description: Ahab covets Naboth's vineyard. (1–4). Naboth murdered by Jezebel.
 tags: [worship, covenant, justice, prophecy]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 11
 bible_book_name: "1 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Kings 21: Ahab covets Naboth's vineyard. (1–4). Nab
 - Naboth, perhaps, had been pleased that he had a vineyard situated so near the palace, but the situation proved fatal to him; many a man's possessions have been his snare, and his neighbourhood to greatness, of bad consequence. Discontent is a sin that is its own punishment, and makes men torment themselves. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-21#Verses 1–4|Matthew Henry Concise on 1 Kings 21]]
 - When, instead of a help meet, a man has an agent for Satan, in the form of an artful, unprincipled, yet beloved wife, fatal effects may be expected. Never were more wicked orders given by any prince, than those Jezebel sent to the rulers of Jezreel. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-21#Verses 5–16|Matthew Henry Concise on 1 Kings 21]]
 - Blessed Paul complains that he was sold under sin, Ro 7:14, as a poor captive against his will; but Ahab was willing, he sold himself to sin; of choice, and as his own act and deed, he loved the dominion of sin. Jezebel his wife stirred him up to do wickedly. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-21#Verses 17–29|Matthew Henry Concise on 1 Kings 21]]
+- Ahab is still the unhappy subject of the sacred history; from the great affairs of his camp and kingdom this chapter leads us into his garden, and gives us an account of some ill things (and ill indeed they proved to… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-21|Matthew Henry Complete on 1 Kings 21]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Kings 21 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: 1 Kings 21 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-21|Matthew Henry Concise, 1 Kings 21]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-21|Matthew Henry Complete on 1 Kings 21]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Saul sent to destroy Amalek. (1–9). Saul excuses and commends him
 tags: [faith, prayer, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 15: Saul sent to destroy Amalek. (1–9). Saul
 - The sentence of condemnation against the Amalekites had gone forth long before, Ex 17:14; De 25:19, but they had been spared till they filled up the measure of their sins. We are sure that the righteous Lord does no injustice to any. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-15#Verses 1–9|Matthew Henry Concise on 1 Samuel 15]]
 - There were several signs of hypocrisy in Saul's repentance. 1. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-15#Verses 24–31|Matthew Henry Concise on 1 Samuel 15]]
 - Many think the bitterness of death is past when it is not gone by; they put that evil day far from them, which is very near. Samuel calls Agag to account for his own sins. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-15#Verses 32–35|Matthew Henry Concise on 1 Samuel 15]]
+- In this chapter we have the final rejection of Saul from being king, for his disobedience to God's command in not utterly destroying the Amalekites. By his wars and victories he hoped to magnify and perpetuate his own… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-15|Matthew Henry Complete on 1 Samuel 15]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 15 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -43,6 +48,7 @@ Primary scope: 1 Samuel 15 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-15|Matthew Henry Concise, 1 Samuel 15]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-15|Matthew Henry Complete on 1 Samuel 15]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Ziba's falsehood. (1–4). David cursed by Shimei. (5–14). Ahitho
 tags: [covenant, christ, justice, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 10
 bible_book_name: "2 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Samuel 16: Ziba's falsehood. (1–4). David cursed by
 - Ziba belied Mephibosheth. Great men ought always to be jealous of flatterers, and to be careful that they hear both sides. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-16#Verses 1–4|Matthew Henry Concise on 2 Samuel 16]]
 - David bore Shimei's curses much better than Ziba's flatteries; by these he was brought to pass a wrong judgment on another, by those to pass a right judgment on himself: the world's smiles are more dangerous than its frowns. Once and again David spared Saul's life, while Saul sought his. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-16#Verses 5–14|Matthew Henry Concise on 2 Samuel 16]]
 - The wisest counsellors of that age were Ahithophel and Hushai: Absalom thinks himself sure of success, when he has both; on them he relies, and consults not the ark, though he had that with him. But miserable counsellors were they both. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-16#Verses 15–23|Matthew Henry Concise on 2 Samuel 16]]
+- In the close of the foregoing chapter we left David flying from Jerusalem, and Absalom entering into it; in this chapter, I. We are to follow David in his melancholy flight; and there we find him, 1. Cheated by Ziba,… [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-16|Matthew Henry Complete on 2 Samuel 16]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Samuel 16 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Christ|Christ]]
@@ -43,6 +48,7 @@ Primary scope: 2 Samuel 16 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-16|Matthew Henry Concise, 2 Samuel 16]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-16|Matthew Henry Complete on 2 Samuel 16]]
 
 ## Open questions
 

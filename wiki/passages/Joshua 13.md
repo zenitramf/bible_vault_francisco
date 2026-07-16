@@ -5,7 +5,7 @@ description: Bounds of the land not yet conquered. (1–6). Inheritance of Reube
 tags: [covenant, faith, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 6
 bible_book_name: "Joshua"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Joshua 13: Bounds of the land not yet conquered. (1–6
 
 - At this chapter begins the account of the dividing of the land of Canaan among the tribes of Israel by lot; a narrative showing the performance of the promise made to the fathers, that this land should be given to the seed of Jacob. We are not to pass over these chapters of hard names as useless. [[sources/commentaries_english/mhenry-concise/joshua/chapter-13#Verses 1–6|Matthew Henry Concise on Joshua 13]]
 - The land must be divided among the tribes. It is the will of God that every man should know his own, and not take that which is another's. [[sources/commentaries_english/mhenry-concise/joshua/chapter-13#Verses 7–33|Matthew Henry Concise on Joshua 13]]
+- At this chapter begins the account of the dividing of the land of Canaan among the tribes of Israel by lot, a narrative not so entertaining and instructive as that of the conquest of it, and yet it is thought fit to be… [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-13|Matthew Henry Complete on Joshua 13]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Joshua 13 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -42,6 +47,7 @@ Primary scope: Joshua 13 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/joshua/chapter-13|Matthew Henry Concise, Joshua 13]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-13|Matthew Henry Complete on Joshua 13]]
 
 ## Open questions
 

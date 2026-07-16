@@ -5,7 +5,7 @@ description: Esther's application received. (1–8). Haman prepares to hang Mord
 tags: [faith, justice, salvation, prayer, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 17
 bible_book_name: "Esther"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Esther 5: Esther's application received. (1–8). Haman
 
 - Esther having had power with God, and prevailing, like Jacob, had power with men too. He that will lose his life for God, shall save it, or find it in a better life. [[sources/commentaries_english/mhenry-concise/esther/chapter-5#Verses 1–8|Matthew Henry Concise on Esther 5]]
 - This account of Haman is a comment upon Pr 21:24. Self-admirers and self-flatterers are really self-deceivers. [[sources/commentaries_english/mhenry-concise/esther/chapter-5#Verses 9–14|Matthew Henry Concise on Esther 5]]
+- The last news we had of Haman left him in his cups, Es 3:15. Our last news of queen Esther left her in tears, fasting and praying. Now this chapter brings in, I. Esther in her joys, smiled upon by the king and honoured… [[sources/commentaries_english/mhenry-complete/volume-2/esther/chapter-5|Matthew Henry Complete on Esther 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Esther 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justice|Justice]]
@@ -43,6 +48,7 @@ Primary scope: Esther 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/esther/chapter-5|Matthew Henry Concise, Esther 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/esther/chapter-5|Matthew Henry Complete on Esther 5]]
 
 ## Open questions
 

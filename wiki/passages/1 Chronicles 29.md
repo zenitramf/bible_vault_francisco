@@ -5,7 +5,7 @@ description: David induces the princes and people to offer willingly. (1–9). H
 tags: [worship, covenant, christ, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 13
 bible_book_name: "1 Chronicles"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Chronicles 29: David induces the princes and people t
 - What is done in works of piety and charity, should be done willingly, not by constraint; for God loves a cheerful giver. David set a good example. [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-29#Verses 1–9|Matthew Henry Concise on 1 Chronicles 29]]
 - This great assembly joined with David in adoring God. Whoever is the mouth of the congregation, those only have the benefit who join him, not by bowing down the head, so much as by lifting up the soul. [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-29#Verses 20–25|Matthew Henry Concise on 1 Chronicles 29]]
 - When we read the second book of Samuel, we could scarcely have expected to behold David appear so illustrious in his closing scene. But his repentance had been as remarkable as his sin; and his conduct during his afflictions, and towards the end of his life, appears to have had a good effect on his subjects. [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-29#Verses 26–30|Matthew Henry Concise on 1 Chronicles 29]]
+- David has said what he had to say to Solomon. But he had something more to say to the congregation before he parted with them. I. He pressed them to contribute, according to their ability, towards the building and… [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-29|Matthew Henry Complete on 1 Chronicles 29]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Chronicles 29 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -42,6 +47,7 @@ Primary scope: 1 Chronicles 29 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-29|Matthew Henry Concise, 1 Chronicles 29]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-29|Matthew Henry Complete on 1 Chronicles 29]]
 
 ## Open questions
 

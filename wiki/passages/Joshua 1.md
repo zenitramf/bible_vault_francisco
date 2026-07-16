@@ -5,7 +5,7 @@ description: The Lord appoints Joshua to succeed Moses. (1–4). God promises to
 tags: [covenant, faith, holiness, justice, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 6
 bible_book_name: "Joshua"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Joshua 1: The Lord appoints Joshua to succeed Moses. (1
 - Joshua had attended upon Moses. He who was called to honour, had been long used to business. [[sources/commentaries_english/mhenry-concise/joshua/chapter-1#Verses 1–4|Matthew Henry Concise on Joshua 1]]
 - Joshua says to the people, Ye shall pass over Jordan, and shall possess the land; because God had said so to him. We honour the truth of God, when we stagger not at the promise of God. [[sources/commentaries_english/mhenry-concise/joshua/chapter-1#Verses 10–15|Matthew Henry Concise on Joshua 1]]
 - The people of Israel engage to obey Joshua; All that thou commandest us to do we will readily do, without murmuring or disputing, and whithersoever thou sendest us we will go. The best we can ask of God for our magistrates, is, that they may have the presence of God; that will make them blessings to us, so that in… [[sources/commentaries_english/mhenry-concise/joshua/chapter-1#Verses 16–18|Matthew Henry Concise on Joshua 1]]
+- The book begins with the history, not of Joshua's life (many remarkable passages of that we had before in the books of Moses) but of his reign and government. In this chapter, I. God appoints him to the government in… [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-1|Matthew Henry Complete on Joshua 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Joshua 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Joshua 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/joshua/chapter-1|Matthew Henry Concise, Joshua 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-1|Matthew Henry Complete on Joshua 1]]
 
 ## Open questions
 

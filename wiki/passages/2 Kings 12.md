@@ -5,7 +5,7 @@ description: Jehoash orders the repair of the temple. (1–16). He is slain by h
 tags: [prophecy, justice, covenant, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 12
 bible_book_name: "2 Kings"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 2 Kings 12: Jehoash orders the repair of the temple. (1
 
 - It is a great mercy to young people, especially to all young men of rank, like Jehoash, to have those about them who will instruct them to do what is right in the sight of the Lord; and they do wisely and well for themselves, when willing to be counselled and ruled. The temple was out of repair; Jehoash orders the… [[sources/commentaries_english/mhenry-concise/2-kings/chapter-12#Verses 1–16|Matthew Henry Concise on 2 Kings 12]]
 - Let us review the character of Jehoash, and consider what we may learn from it. When we see what a sad conclusion there was to so promising a beginning, it ought to make us seek into our spiritual declinings. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-12#Verses 17–21|Matthew Henry Concise on 2 Kings 12]]
+- This chapter gives us the history of the reign of Joash, which does not answer to that glorious beginning of it which we had an account of in the foregoing chapter; he was not so illustrious at forty years old as he… [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-12|Matthew Henry Complete on 2 Kings 12]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Kings 12 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Justice|Justice]]
@@ -43,6 +48,7 @@ Primary scope: 2 Kings 12 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-kings/chapter-12|Matthew Henry Concise, 2 Kings 12]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-12|Matthew Henry Complete on 2 Kings 12]]
 
 ## Open questions
 

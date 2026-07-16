@@ -5,7 +5,7 @@ description: Israel again revolts, and is oppressed by Jabin. (1–3). Deborah c
 tags: [faith, justice, holiness, salvation, prophecy]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 7
 bible_book_name: "Judges"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Judges 4: Israel again revolts, and is oppressed by Jab
 - The land had rest for eighty years, which should have confirmed them in their religion; but it made them secure, and indulge their lusts. Thus the prosperity of fools destroys them. [[sources/commentaries_english/mhenry-concise/judges/chapter-4#Verses 1–3|Matthew Henry Concise on Judges 4]]
 - Siser's confidence was chiefly in his chariots. But if we have ground to hope that God goes before us, we may go on with courage and cheerfulness. [[sources/commentaries_english/mhenry-concise/judges/chapter-4#Verses 10–16|Matthew Henry Concise on Judges 4]]
 - Sisera's chariots had been his pride and his confidence. Thus are those disappointed who rest on the creature; like a broken reed, it not only breaks under them, but pierces them with many sorrows. [[sources/commentaries_english/mhenry-concise/judges/chapter-4#Verses 17–24|Matthew Henry Concise on Judges 4]]
+- The method of the history of Deborah and Barak (the heroes in this chapter) is the same with that before. Here is, I. Israel revolted from God, Jdg 4:1. II. Israel oppressed by Jabin, Jdg 4:2,3. III. Israel judged by… [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-4|Matthew Henry Complete on Judges 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Judges 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justice|Justice]]
@@ -44,6 +49,7 @@ Primary scope: Judges 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/judges/chapter-4|Matthew Henry Concise, Judges 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-4|Matthew Henry Complete on Judges 4]]
 
 ## Open questions
 

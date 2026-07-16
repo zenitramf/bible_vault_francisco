@@ -127,3 +127,7 @@ append_only: true
 - Generated wiki/source-notes/Matthew Henry Complete Volume 1.md citing all 188 content files.
 - Thickened 182 matching passage pages with Complete digest claims and Sources links.
 - source-coverage --path mhenry-complete/volume-1 --require-zero OK.
+
+## [2026-07-16] campaign | Phase 4.1 Complete Volume 2
+
+- Full-file coverage for mhenry-complete/volume-2 (250 files). Passage atlas thickened where mapped. source-coverage --require-zero OK.

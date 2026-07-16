@@ -5,7 +5,7 @@ description: The reign of Ahaziah, Athaliah destroys the royal family. (1-12).
 tags: [worship, prayer, covenant, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 14
 bible_book_name: "2 Chronicles"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on 2 Chronicles 22: The reign of Ahaziah, Athaliah destroy
 ## Core claims
 
 - The counsel of the ungodly ruins many young persons when they are setting out in the world. Ahaziah gave himself up to be led by evil men. [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-22#Verses 1-12|Matthew Henry Concise on 2 Chronicles 22]]
+- We read, in the foregoing chapter, of the carrying away of Jehoram's sons and his wives; but here we find one of his sons and one of his wives left, his son Ahaziah and his wife Athaliah, both reserved to be the shame… [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-22|Matthew Henry Complete on 2 Chronicles 22]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Chronicles 22 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -42,6 +47,7 @@ Primary scope: 2 Chronicles 22 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-22|Matthew Henry Concise, 2 Chronicles 22]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-22|Matthew Henry Complete on 2 Chronicles 22]]
 
 ## Open questions
 

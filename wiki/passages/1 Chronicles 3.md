@@ -5,7 +5,7 @@ description: Genealogies. (1-24).
 tags: [worship, covenant, christ, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 13
 bible_book_name: "1 Chronicles"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on 1 Chronicles 3: Genealogies. (1-24).
 ## Core claims
 
 - Of all the families of Israel, none were so illustrious as the family of David: here we have a full account of it. From this family, as concerning the flesh, Christ came. [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-3#Verses 1-24|Matthew Henry Concise on 1 Chronicles 3]]
+- Of all the families of Israel none was so illustrious as the family of David. That is the family which was mentioned in the foregoing chapter, 1Ch 2:15. Here we have a full account of it. I. David's sons, 1Ch 3:1-9.… [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-3|Matthew Henry Complete on 1 Chronicles 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Chronicles 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -41,6 +46,7 @@ Primary scope: 1 Chronicles 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-3|Matthew Henry Concise, 1 Chronicles 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-3|Matthew Henry Complete on 1 Chronicles 3]]
 
 ## Open questions
 

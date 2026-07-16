@@ -5,7 +5,7 @@ description: The Jews lament their danger. (1–4). Esther undertakes to plead f
 tags: [faith, justice, salvation, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 17
 bible_book_name: "Esther"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Esther 4: The Jews lament their danger. (1–4). Esther
 
 - Mordecai avowed his relation to the Jews. Public calamities, that oppress the church of God, should affect our hearts more than any private affliction, and it is peculiarly distressing to occasion sufferings to others. [[sources/commentaries_english/mhenry-concise/esther/chapter-4#Verses 1–4|Matthew Henry Concise on Esther 4]]
 - We are prone to shrink from services that are attended with peril or loss. But when the cause of Christ and his people demand it, we must take up our cross, and follow him. [[sources/commentaries_english/mhenry-concise/esther/chapter-4#Verses 5–17|Matthew Henry Concise on Esther 4]]
+- We left God's Isaac bound upon the altar and ready to be sacrificed, and the enemies triumphing in the prospect of it; but things here begin to work towards a deliverance, and they begin at the right end. I. The Jews'… [[sources/commentaries_english/mhenry-complete/volume-2/esther/chapter-4|Matthew Henry Complete on Esther 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Esther 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justice|Justice]]
@@ -43,6 +48,7 @@ Primary scope: Esther 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/esther/chapter-4|Matthew Henry Concise, Esther 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/esther/chapter-4|Matthew Henry Complete on Esther 4]]
 
 ## Open questions
 

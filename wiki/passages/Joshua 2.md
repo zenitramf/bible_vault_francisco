@@ -5,7 +5,7 @@ description: Rahab receives and hides two Israelites. (1–7). Rahab and the spi
 tags: [covenant, faith, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 6
 bible_book_name: "Joshua"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Joshua 2: Rahab receives and hides two Israelites. (1�
 - Faith in God's promises ought not to do away, but to encourage our diligence in the use of proper means. The providence of God directed the spies to the house of Rahab. [[sources/commentaries_english/mhenry-concise/joshua/chapter-2#Verses 1–7|Matthew Henry Concise on Joshua 2]]
 - Rahab had heard of the miracles the Lord wrought for Israel. She believed that his promises would certainly be fulfilled, and his threatenings take effect; and that there was no way of escape but by submitting to him, and joining with his people. [[sources/commentaries_english/mhenry-concise/joshua/chapter-2#Verses 8–21|Matthew Henry Concise on Joshua 2]]
 - The report the spies brought was encouraging. All the people of the country faint because of Israel; they have neither wisdom to yield, nor courage to fight. [[sources/commentaries_english/mhenry-concise/joshua/chapter-2#Verses 22–24|Matthew Henry Concise on Joshua 2]]
+- In this chapter we have an account of the scouts that were employed to bring an account to Joshua of the posture of the city of Jericho. Observe here, I. How Joshua sent them, Jos 2:1. II. How Rahab received them, and… [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-2|Matthew Henry Complete on Joshua 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Joshua 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Joshua 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/joshua/chapter-2|Matthew Henry Concise, Joshua 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-2|Matthew Henry Complete on Joshua 2]]
 
 ## Open questions
 

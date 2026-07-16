@@ -5,7 +5,7 @@ description: Goliath's challenge. (1–11). David comes to the camp. (12–30). 
 tags: [faith, prayer, holiness, justice, wisdom]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 17: Goliath's challenge. (1–11). David comes
 - Men so entirely depend upon God in all things, that when he withdraws his help, the most valiant and resolute cannot find their hearts or hands, as daily experience shows. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-17#Verses 1–11|Matthew Henry Concise on 1 Samuel 17]]
 - A shepherd lad, come the same morning from keeping sheep, had more courage than all the mighty men of Israel. Thus God often sends good words to his Israel, and does great things for them, by the weak and foolish things of the world. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-17#Verses 31–39|Matthew Henry Concise on 1 Samuel 17]]
 - See how frail and uncertain life is, even when a man thinks himself best fortified; how quickly, how easily, and by how small a matter, the passage may be opened for life to go out, and death to enter! Let not the strong man glory in his strength, nor the armed man in his armour. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-17#Verses 48–58|Matthew Henry Concise on 1 Samuel 17]]
+- David is the man whom God now delights to honour, for he is a man after his own heart. We read in the foregoing chapter how, after he was anointed, Providence made him famous in the court; we read in this chapter how… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-17|Matthew Henry Complete on 1 Samuel 17]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 17 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -44,6 +49,7 @@ Primary scope: 1 Samuel 17 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-17|Matthew Henry Concise, 1 Samuel 17]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-17|Matthew Henry Complete on 1 Samuel 17]]
 
 ## Open questions
 

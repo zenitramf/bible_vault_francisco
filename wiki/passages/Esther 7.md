@@ -5,7 +5,7 @@ description: Esther accuses Haman. (1–6). Haman hanged on his own gallows. (7�
 tags: [faith, justice, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 17
 bible_book_name: "Esther"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Esther 7: Esther accuses Haman. (1–6). Haman hanged o
 
 - If the love of life causes earnest pleadings with those that can only kill the body, how fervent should our prayers be to Him, who is able to destroy both body and soul in hell! How should we pray for the salvation of our relatives, friends, and all around us! [[sources/commentaries_english/mhenry-concise/esther/chapter-7#Verses 1–6|Matthew Henry Concise on Esther 7]]
 - The king was angry: those that do things with self-will, reflect upon them afterward with self-reproach. When angry, we should pause before we come to any resolution, and thus rule our own spirits, and show that we are governed by reason. [[sources/commentaries_english/mhenry-concise/esther/chapter-7#Verses 7–10|Matthew Henry Concise on Esther 7]]
+- We are now to attend the second banquet to which the king and Haman were invited: and there, I. Esther presents her petition to the king for her life and the life of her people, Es 7:1-4. II. She plainly tells the king… [[sources/commentaries_english/mhenry-complete/volume-2/esther/chapter-7|Matthew Henry Complete on Esther 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Esther 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justice|Justice]]
@@ -42,6 +47,7 @@ Primary scope: Esther 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/esther/chapter-7|Matthew Henry Concise, Esther 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/esther/chapter-7|Matthew Henry Complete on Esther 7]]
 
 ## Open questions
 

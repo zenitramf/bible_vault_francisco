@@ -5,7 +5,7 @@ description: Elisha sends to anoint Jehu. (1–10). Jehu and the captains. (11�
 tags: [prophecy, justice, covenant, holiness, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 12
 bible_book_name: "2 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Kings 9: Elisha sends to anoint Jehu. (1–10). Jehu 
 - In these and the like events, we must acknowledge the secret working of God, disposing men to fulfil his purposes respecting them. Jehu was anointed king over Israel, by the Lord's special choice. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-9#Verses 1–10|Matthew Henry Concise on 2 Kings 9]]
 - Jehu was a man of eager spirit. The wisdom of God is seen in the choice of those employed in his work. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-9#Verses 16–29|Matthew Henry Concise on 2 Kings 9]]
 - Instead of hiding herself, as one afraid of Divine vengeance, Jezebel mocked at fear. See how a heart, hardened against God, will brave it out to the last. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-9#Verses 30–37|Matthew Henry Concise on 2 Kings 9]]
+- Hazael and Jehu were the men that were designed to be the instruments of God's justice in punishing and destroying the house of Ahab. Elijah was told to appoint them to this service; but, upon Ahab's humiliation, a… [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-9|Matthew Henry Complete on 2 Kings 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Kings 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Justice|Justice]]
@@ -44,6 +49,7 @@ Primary scope: 2 Kings 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-kings/chapter-9|Matthew Henry Concise, 2 Kings 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-9|Matthew Henry Complete on 2 Kings 9]]
 
 ## Open questions
 

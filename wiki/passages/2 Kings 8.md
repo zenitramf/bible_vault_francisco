@@ -5,7 +5,7 @@ description: A famine in Israel, The Shunammite obtains her land. (1–6). Elish
 tags: [prophecy, justice, covenant, holiness, wisdom]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 12
 bible_book_name: "2 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Kings 8: A famine in Israel, The Shunammite obtains h
 - The kindness of the good Shunammite to Elisha, was rewarded by the care taken of her in famine. It is well to foresee an evil, and wisdom, when we foresee it, to hide ourselves if we lawfully may do so. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-8#Verses 1–6|Matthew Henry Concise on 2 Kings 8]]
 - A general idea is given of Jehoram's badness. His father, no doubt, had him taught the true knowledge of the Lord, but did ill to marry him to the daughter of Ahab; no good could come of union with an idolatrous family. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-8#Verses 16–24|Matthew Henry Concise on 2 Kings 8]]
 - Names do not make natures, but it was bad for Jehoshaphat's family to borrow names from Ahab's. Ahaziah's relation to Ahab's family was the occasion of his wickedness and of his fall. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-8#Verses 25–29|Matthew Henry Concise on 2 Kings 8]]
+- The passages of story recorded in this chapter oblige us to look back. I. We read before of a Shunammite woman that was a kind benefactor to Elisha; now here we are told how she fared the better for it, afterwards, in… [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-8|Matthew Henry Complete on 2 Kings 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Kings 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Justice|Justice]]
@@ -44,6 +49,7 @@ Primary scope: 2 Kings 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-kings/chapter-8|Matthew Henry Concise, 2 Kings 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-8|Matthew Henry Complete on 2 Kings 8]]
 
 ## Open questions
 

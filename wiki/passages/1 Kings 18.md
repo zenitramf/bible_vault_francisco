@@ -5,7 +5,7 @@ description: Elijah sends Ahab notice of his coming. (1–16). Elijah meets Ahab
 tags: [worship, covenant, justice, prophecy, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 11
 bible_book_name: "1 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Kings 18: Elijah sends Ahab notice of his coming. (1�
 - The severest judgments, of themselves, will not humble or change the hearts of sinners; nothing, except the blood of Jesus Christ, can atone for the guilt of sin; nothing, except the sanctifying Spirit of God, can purge away its pollution. The priests and the Levites were gone to Judah and Jerusalem, 2Ch 11:13, 14,… [[sources/commentaries_english/mhenry-concise/1-kings/chapter-18#Verses 1–16|Matthew Henry Concise on 1 Kings 18]]
 - Many of the people wavered in their judgment, and varied in their practice. Elijah called upon them to determine whether Jehovah or Baal was the self-existent, supreme God, the Creator, Governor, and Judge of the world, and to follow him alone. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-18#Verses 21–40|Matthew Henry Concise on 1 Kings 18]]
 - Israel, being so far reformed as to acknowledge the Lord to be God, and to consent to the execution of Baal's prophets, was so far accepted, that God poured out blessing upon the land. Elijah long continued praying. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-18#Verses 41–46|Matthew Henry Concise on 1 Kings 18]]
+- We left the prophet Elijah wrapt up in obscurity. It does not appear that either the increase of the provision or the raising of the child had caused him to be taken notice of at Zarephath, for then Ahab would have… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-18|Matthew Henry Complete on 1 Kings 18]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Kings 18 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: 1 Kings 18 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-18|Matthew Henry Concise, 1 Kings 18]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-18|Matthew Henry Complete on 1 Kings 18]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The numbers that returned. (1–35). The numbers of the priests and
 tags: [covenant, worship, holiness, prayer, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 15
 bible_book_name: "Ezra"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Ezra 2: The numbers that returned. (1–35). The number
 - An account was kept of the families that came up out of captivity. See how sin lowers a nation, which righteousness would exalt! [[sources/commentaries_english/mhenry-concise/ezra/chapter-2#Verses 1–35|Matthew Henry Concise on Ezra 2]]
 - Those who undervalue their relation to the Lord in times of reproach, persecution, or distress, will have no benefit from it when it becomes honourable or profitable. Those who have no evidence that they are, by the new birth, spiritual priests unto God, through Jesus Christ, have no right to the comforts and… [[sources/commentaries_english/mhenry-concise/ezra/chapter-2#Verses 36–63|Matthew Henry Concise on Ezra 2]]
 - Let none complain of the needful expenses of their religion. Seek first the kingdom of God, his favour and his glory, then will all other things be added unto them. [[sources/commentaries_english/mhenry-concise/ezra/chapter-2#Verses 64–70|Matthew Henry Concise on Ezra 2]]
+- That many returned out of Babylon upon Cyrus's proclamation we were told in the foregoing chapter; we have here a catalogue of the several families that returned, Ezr 2:1. I. The leaders, Ezr 2:2. II. The people, Ezr… [[sources/commentaries_english/mhenry-complete/volume-2/ezra/chapter-2|Matthew Henry Complete on Ezra 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Ezra 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +49,7 @@ Primary scope: Ezra 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/ezra/chapter-2|Matthew Henry Concise, Ezra 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/ezra/chapter-2|Matthew Henry Complete on Ezra 2]]
 
 ## Open questions
 

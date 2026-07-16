@@ -5,7 +5,7 @@ description: The word of the Lord first revealed to Samuel. (1–10). God tells 
 tags: [faith, prayer, holiness, justice, prophecy]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 3: The word of the Lord first revealed to Samu
 - The call which Divine grace designs shall be made effectual; will be repeated till it is so, till we come to the call. Eli, perceiving that it was the voice of God that Samuel heard, instructed him what to say. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-3#Verses 1–10|Matthew Henry Concise on 1 Samuel 3]]
 - What a great deal of guilt and corruption is there in us, concerning which we may say, It is the iniquity which our own heart knoweth; we are conscious to ourselves of it! Those who do not restrain the sins of others, when it is in their power to do it, make themselves partakers of the guilt, and will be charged as… [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-3#Verses 11–18|Matthew Henry Concise on 1 Samuel 3]]
 - All increase in wisdom and grace, is owing to the presence of God with us. God will graciously repeat his visits to those who receive them aright. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-3#Verses 19–21|Matthew Henry Concise on 1 Samuel 3]]
+- In the foregoing chapter we had Samuel a young priest, though by birth a Levite only, for he ministered before the Lord in a linen ephod; in this chapter we have him a young prophet, which was more, God in an… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-3|Matthew Henry Complete on 1 Samuel 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -44,6 +49,7 @@ Primary scope: 1 Samuel 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-3|Matthew Henry Concise, 1 Samuel 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-3|Matthew Henry Complete on 1 Samuel 3]]
 
 ## Open questions
 

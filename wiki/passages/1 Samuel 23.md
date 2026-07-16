@@ -5,7 +5,7 @@ description: David rescues Keilah. (1–6). God warns him to escape from Keilah.
 tags: [faith, prayer, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 23: David rescues Keilah. (1–6). God warns h
 - When princes persecute God's people, let them expect vexation on all sides. The way for any country to be quiet, is to let God's church be quiet in it: if Saul fight against David, the Philistines fight against his country. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-23#Verses 1–6|Matthew Henry Concise on 1 Samuel 23]]
 - David made no attempt against Saul; he kept God's way, waited God's time, and was content to secure himself in woods and wildernesses. Let it make us think the worse of this world, which often gives such bad treatment to its best men: let it make us long for that kingdom where goodness shall for ever be in glory, and… [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-23#Verses 14–18|Matthew Henry Concise on 1 Samuel 23]]
 - In the midst of his wickedness, Saul affected to speak the language of piety. Such expressions, without suitable effects, can only amuse or deceive those who hear, and those who use them. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-23#Verses 19–29|Matthew Henry Concise on 1 Samuel 23]]
+- Saul, having made himself drunk with the blood of the priests of the Lord, is here, in this chapter, seeking David's life, who appears here doing good, and suffering ill, at the same time. Here is, I. The good service… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-23|Matthew Henry Complete on 1 Samuel 23]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 23 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -43,6 +48,7 @@ Primary scope: 1 Samuel 23 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-23|Matthew Henry Concise, 1 Samuel 23]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-23|Matthew Henry Complete on 1 Samuel 23]]
 
 ## Open questions
 

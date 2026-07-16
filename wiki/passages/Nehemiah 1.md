@@ -5,7 +5,7 @@ description: Nehemiah's distress for the misery of Jerusalem, His prayer. (1-11)
 tags: [prayer, covenant, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 16
 bible_book_name: "Nehemiah"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on Nehemiah 1: Nehemiah's distress for the misery of Jerus
 ## Core claims
 
 - Nehemiah was the Persian king's cup-bearer. When God has work to do, he will never want instruments to do it with. [[sources/commentaries_english/mhenry-concise/nehemiah/chapter-1#Verses 1-11|Matthew Henry Concise on Nehemiah 1]]
+- Here we first meet with Nehemiah at the Persian court, where we find him, I. Inquisitive concerning the state of the Jews and Jerusalem, Ne 1:1,2. II. Informed of their deplorable condition, Ne 1:3. III. Fasting and… [[sources/commentaries_english/mhenry-complete/volume-2/nehemiah/chapter-1|Matthew Henry Complete on Nehemiah 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Nehemiah 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -40,6 +45,7 @@ Primary scope: Nehemiah 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/nehemiah/chapter-1|Matthew Henry Concise, Nehemiah 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/nehemiah/chapter-1|Matthew Henry Complete on Nehemiah 1]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: David's power increases His family. (1–6). Abner revolts to David
 tags: [covenant, christ, justice, prayer, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 10
 bible_book_name: "2 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Samuel 3: David's power increases His family. (1–6)
 - The length of this war tried the faith and patience of David, and made his settlement at last the more welcome. The contest between grace and corruption in the hearts of believers, may fitly be compared to this warfare. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-3#Verses 1–6|Matthew Henry Concise on 2 Samuel 3]]
 - Many, like Abner, are not above committing base crimes, who are too proud to bear reproof, or even the suspicion of being guilty. While men go on in sin, and apparently without concern, they are often conscious that they are fighting against God. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-3#Verses 7–21|Matthew Henry Concise on 2 Samuel 3]]
 - Judgments are prepared for such scorners as Abner; but Joab, in what he did, acted wickedly. David laid Abner's murder deeply to heart, and in many ways expressed his detestation of it. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-3#Verses 22–39|Matthew Henry Concise on 2 Samuel 3]]
+- The battle between Joab and Abner did not end the controversy between the two houses of Saul and David, but it is in this chapter working towards a period. Here is, I. The gradual advance of David's interest, 2Sa 3:1.… [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-3|Matthew Henry Complete on 2 Samuel 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Samuel 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Christ|Christ]]
@@ -44,6 +49,7 @@ Primary scope: 2 Samuel 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-3|Matthew Henry Concise, 2 Samuel 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-3|Matthew Henry Complete on 2 Samuel 3]]
 
 ## Open questions
 

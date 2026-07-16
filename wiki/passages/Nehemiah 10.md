@@ -5,7 +5,7 @@ description: The covenant, Those who signed it. (1–31). Their engagement to sa
 tags: [prayer, covenant, holiness, justice, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 16
 bible_book_name: "Nehemiah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Nehemiah 10: The covenant, Those who signed it. (1–31
 
 - Conversion is separating from the course and custom of this world, devoting ourselves to the conduct directed by the word of God. When we bind ourselves to do the commandments of God, it is to do all his commandments, and to look to him as the Lord, and our Lord. [[sources/commentaries_english/mhenry-concise/nehemiah/chapter-10#Verses 1–31|Matthew Henry Concise on Nehemiah 10]]
 - Having covenanted against the sins of which they had been guilty, they obliged themselves to observe the duties they had neglected. We must not only cease to do evil, but learn to do well. [[sources/commentaries_english/mhenry-concise/nehemiah/chapter-10#Verses 32–39|Matthew Henry Concise on Nehemiah 10]]
+- We have in this chapter a particular account of the covenant which in the close of the foregoing chapter was resolved upon; they struck while the iron was hot, and immediately put that good resolve in execution, when… [[sources/commentaries_english/mhenry-complete/volume-2/nehemiah/chapter-10|Matthew Henry Complete on Nehemiah 10]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Nehemiah 10 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: Nehemiah 10 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/nehemiah/chapter-10|Matthew Henry Concise, Nehemiah 10]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/nehemiah/chapter-10|Matthew Henry Complete on Nehemiah 10]]
 
 ## Open questions
 

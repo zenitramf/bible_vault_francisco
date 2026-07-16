@@ -5,7 +5,7 @@ description: Benhadad besieges Samaria. (1–11). Benhadad's defeat. (12–21). 
 tags: [worship, covenant, justice, prophecy, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 11
 bible_book_name: "1 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Kings 20: Benhadad besieges Samaria. (1–11). Benhad
 - Benhadad sent Ahab a very insolent demand. Ahab sent a very disgraceful submission; sin brings men into such straits, by putting them out of the Divine protection. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-20#Verses 1–11|Matthew Henry Concise on 1 Kings 20]]
 - Those about Benhadad advised him to change his ground. They take it for granted that it was not Israel, but Israel's gods, that beat them; but they speak very ignorantly of Jehovah. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-20#Verses 22–30|Matthew Henry Concise on 1 Kings 20]]
 - This encouragement sinners have to repent and humble themselves before God; Have we not heard, that the God of Israel is a merciful God? Have we not found him so? [[sources/commentaries_english/mhenry-concise/1-kings/chapter-20#Verses 31–43|Matthew Henry Concise on 1 Kings 20]]
+- This chapter is the history of a war between Ben-hadad king of Syria and Ahab king of Israel, in which Ahab was, once and again, victorious. We read nothing of Elijah or Elishain all this story; Jezebel's rage, it is… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-20|Matthew Henry Complete on 1 Kings 20]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Kings 20 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: 1 Kings 20 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-20|Matthew Henry Concise, 1 Kings 20]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-20|Matthew Henry Complete on 1 Kings 20]]
 
 ## Open questions
 

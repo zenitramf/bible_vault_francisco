@@ -5,7 +5,7 @@ description: Saul's defeat and death. (1–7). Saul's body rescued by the men of
 tags: [faith, prayer, holiness, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 1 Samuel 31: Saul's defeat and death. (1–7). Saul's b
 
 - We cannot judge of the spiritual or eternal state of any by the manner of their death; for in that, there is one event to the righteous and to the wicked. Saul, when sorely wounded, and unable to resist or to flee, expressed no concern about his never-dying soul; but only desired that the Philistines might not insult… [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-31#Verses 1–7|Matthew Henry Concise on 1 Samuel 31]]
 - The Scripture makes no mention what became of the souls of Saul and his sons, after they were dead; but of their bodies only: secret things belong not to us. It is of little consequence by what means we die, or what is done with our dead bodies. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-31#Verses 8–13|Matthew Henry Concise on 1 Samuel 31]]
+- In the foregoing chapter we had David conquering, yea, more than a conqueror. In this chapter we have Saul conquered and worse than a captive. Providence ordered it that both these things should be doing just at the… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-31|Matthew Henry Complete on 1 Samuel 31]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 31 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -41,6 +46,7 @@ Primary scope: 1 Samuel 31 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-31|Matthew Henry Concise, 1 Samuel 31]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-31|Matthew Henry Complete on 1 Samuel 31]]
 
 ## Open questions
 

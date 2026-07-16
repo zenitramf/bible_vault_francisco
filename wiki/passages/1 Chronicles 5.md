@@ -5,7 +5,7 @@ description: Genealogies. (1-26).
 tags: [worship, covenant, christ, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 13
 bible_book_name: "1 Chronicles"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on 1 Chronicles 5: Genealogies. (1-26).
 ## Core claims
 
 - This chapter gives some account of the two tribes and a half seated on the east side of Jordan. They were made captives by the king of Assyria, because they had forsaken the Lord. [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-5#Verses 1-26|Matthew Henry Concise on 1 Chronicles 5]]
+- This chapter gives us some account of the two tribes and a half that were seated on the other side Jordan. I. Of Reuben, 1Ch 5:1-10. II. Of Gad, 1Ch 5:11-17. III. Of the half-tribe of Manasseh, 1Ch 5:23,24. IV.… [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-5|Matthew Henry Complete on 1 Chronicles 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Chronicles 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -41,6 +46,7 @@ Primary scope: 1 Chronicles 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-5|Matthew Henry Concise, 1 Chronicles 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-5|Matthew Henry Complete on 1 Chronicles 5]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: The kings combine against Israel. (1, 2). The Gibeonites apply for 
 tags: [covenant, faith, holiness, justice, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 6
 bible_book_name: "Joshua"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Joshua 9: The kings combine against Israel. (1, 2). The
 - Hitherto the Canaanites had defended themselves, but here they consult to attack Israel. Their minds were blinded, and their hearts hardened to their destruction. [[sources/commentaries_english/mhenry-concise/joshua/chapter-9#Verses 1, 2|Matthew Henry Concise on Joshua 9]]
 - The Israelites, having examined the provisions of the Gibeonites, hastily concluded that they confirmed their account. We make more haste than good speed, when we stay not to take God with us, and do not consult him by the word and prayer. [[sources/commentaries_english/mhenry-concise/joshua/chapter-9#Verses 14–21|Matthew Henry Concise on Joshua 9]]
 - The Gibeonites do not justify their lie, but plead that they did it to save their lives. And the fear was not merely of the power of man; one might flee from that to the Divine protection; but of the power of God himself, which they saw engaged against them. [[sources/commentaries_english/mhenry-concise/joshua/chapter-9#Verses 22–27|Matthew Henry Concise on Joshua 9]]
+- Here is in this chapter, I. The impolite confederacy of the kings of Canaan against Israel, Jos 9:1,2. II. The polite confederacy of the inhabitants of Gibeon with Israel, 1. How it was subtly proposed and petitioned… [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-9|Matthew Henry Complete on Joshua 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Joshua 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Joshua 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/joshua/chapter-9|Matthew Henry Concise, Joshua 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-9|Matthew Henry Complete on Joshua 9]]
 
 ## Open questions
 

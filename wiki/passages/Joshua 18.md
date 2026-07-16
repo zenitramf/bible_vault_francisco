@@ -5,7 +5,7 @@ description: The tabernacle set up at Shiloh. (1). The remainder of the land des
 tags: [covenant, faith, holiness, justice, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 6
 bible_book_name: "Joshua"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Joshua 18: The tabernacle set up at Shiloh. (1). The re
 - Shiloh was in the lot of Ephraim, the tribe to which Joshua belonged, and it was proper that the tabernacle should be near the residence of the chief governor. The name of this city is the same as that by which Jacob prophesied of the Messiah, Ge 49:10. [[sources/commentaries_english/mhenry-concise/joshua/chapter-18#Verse 1|Matthew Henry Concise on Joshua 18]]
 - After a year or more, Joshua blamed their slackness, and told them how to proceed. God, by his grace, has given us a title to a good land, the heavenly Canaan, but we are slack to take possession of it; we enter not into that rest, as we might by faith, and hope, and holy joy. [[sources/commentaries_english/mhenry-concise/joshua/chapter-18#Verses 2–10|Matthew Henry Concise on Joshua 18]]
 - The boundaries of each portion were distinctly drawn, and the inheritance of each tribe settled. All contests and selfish claims were prevented by the wise appointment of God, who allotted the hill and the valley, the corn and pasture, the brooks and rivers, the towns and cities. [[sources/commentaries_english/mhenry-concise/joshua/chapter-18#Verses 11–28|Matthew Henry Concise on Joshua 18]]
+- In this chapter we have, I. The setting up of the tabernacle at Shiloh, Jos 18:1. II. The stirring up of the seven tribes that were yet unsettled to look after their lot, and the putting of them in a method for it, by… [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-18|Matthew Henry Complete on Joshua 18]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Joshua 18 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Joshua 18 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/joshua/chapter-18|Matthew Henry Concise, Joshua 18]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-18|Matthew Henry Complete on Joshua 18]]
 
 ## Open questions
 

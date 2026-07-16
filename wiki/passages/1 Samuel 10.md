@@ -5,7 +5,7 @@ description: Samuel anoints Saul. (1–8). Saul prophesies. (9–16). Saul chose
 tags: [faith, prayer, holiness, justice, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 10: Samuel anoints Saul. (1–8). Saul prophes
 - The sacred anointing, then used, pointed at the great Messiah, or Anointed One, the King of the church, and High Priest of our profession, who was anointed with the oil of the Spirit, not by measure, but without measure, and above all the priests and princes of the Jewish church. For Saul's further satisfaction,… [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-10#Verses 1–8|Matthew Henry Concise on 1 Samuel 10]]
 - The signs Samuel had given Saul, came to pass punctually; he found that God had given him another heart, another disposition of mind. Yet let not an outward show of devotion, and a sudden change for the present, be too much relied on; Saul among the prophets was Saul still. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-10#Verses 9–16|Matthew Henry Concise on 1 Samuel 10]]
 - Samuel tells the people, Ye have this day rejected your God. So little fond was Saul now of that power, which soon after, when he possessed it, he could not think of parting with, that he hid himself. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-10#Verses 17–27|Matthew Henry Concise on 1 Samuel 10]]
+- We left Samuel and Saul walking together, probably some private way over the fields down from Ramah, perhaps in the paths of the vineyards, and Saul expecting to hear from Samuel the word of God. Now here we have, I.… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-10|Matthew Henry Complete on 1 Samuel 10]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 10 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -44,6 +49,7 @@ Primary scope: 1 Samuel 10 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-10|Matthew Henry Concise, 1 Samuel 10]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-10|Matthew Henry Complete on 1 Samuel 10]]
 
 ## Open questions
 

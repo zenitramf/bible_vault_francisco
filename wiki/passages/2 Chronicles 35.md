@@ -5,7 +5,7 @@ description: The passover kept by Josiah. (1–19). Josiah slain in battle. (20�
 tags: [worship, prayer, covenant, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 14
 bible_book_name: "2 Chronicles"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 2 Chronicles 35: The passover kept by Josiah. (1–19).
 
 - The destruction Josiah made of idolatry, was more largely related in the book of Kings. His solemnizing the passover is related here. [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-35#Verses 1–19|Matthew Henry Concise on 2 Chronicles 35]]
 - The Scripture does not condemn Josiah's conduct in opposing Pharaoh. Yet Josiah seems to deserve blame for not inquiring of the Lord after he was warned; his death might be a rebuke for his rashness, but it was a judgment on a hypocritical and wicked people. [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-35#Verses 20–27|Matthew Henry Concise on 2 Chronicles 35]]
+- We are here to attend Josiah, I. To the temple, where we see his religious care for the due observance of the ordinance of the passover, according to the law, 2Ch 35:1-19. II. To the field of battle, where we see his… [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-35|Matthew Henry Complete on 2 Chronicles 35]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Chronicles 35 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -42,6 +47,7 @@ Primary scope: 2 Chronicles 35 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-35|Matthew Henry Concise, 2 Chronicles 35]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-35|Matthew Henry Complete on 2 Chronicles 35]]
 
 ## Open questions
 

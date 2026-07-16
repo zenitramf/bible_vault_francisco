@@ -5,7 +5,7 @@ description: Nathan's parable—David confesses his sin. (1–14). The birth of 
 tags: [covenant, christ, justice, prayer, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 10
 bible_book_name: "2 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Samuel 12: Nathan's parable—David confesses his sin
 - God will not suffer his people to lie still in sin. By this parable Nathan drew from David a sentence against himself. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-12#Verses 1–14|Matthew Henry Concise on 2 Samuel 12]]
 - David now penned the 51st Psalm, in which, though he had been assured that his sin was pardoned, he prays earnestly for pardon, and greatly laments his sin. He was willing to bear the shame of it, to have it ever before him, to be continually upbraided with it. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-12#Verses 15–25|Matthew Henry Concise on 2 Samuel 12]]
 - To be thus severe in putting the children of Ammon to slavery was a sign that David's heart was not yet made soft by repentance, at the time when this took place. We shall be most compassionate, kind, and forgiving to others, when we most feel our need of the Lord's forgiving love, and taste the sweetness of it in… [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-12#Verses 26–31|Matthew Henry Concise on 2 Samuel 12]]
+- The foregoing chapter gave us the account of David's sin; this gives us the account of his repentance. Though he fell, he was not utterly cast down, but, by the grace of God, recovered himself, and found mercy with… [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-12|Matthew Henry Complete on 2 Samuel 12]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Samuel 12 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Christ|Christ]]
@@ -44,6 +49,7 @@ Primary scope: 2 Samuel 12 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-12|Matthew Henry Concise, 2 Samuel 12]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-12|Matthew Henry Complete on 2 Samuel 12]]
 
 ## Open questions
 

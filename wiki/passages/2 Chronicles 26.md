@@ -5,7 +5,7 @@ description: Uzziah's good reign in Judah. (1–15). Uzziah's attempt to burn in
 tags: [worship, prayer, covenant, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 14
 bible_book_name: "2 Chronicles"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 2 Chronicles 26: Uzziah's good reign in Judah. (1–15)
 
 - As long as Uzziah sought the Lord, and minded religion, God made him to prosper. Those only prosper whom God makes to prosper; for prosperity is his gift. [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-26#Verses 1–15|Matthew Henry Concise on 2 Chronicles 26]]
 - The transgression of the kings before Uzziah was, forsaking the temple of the Lord, and burning incense upon idolatrous altars. But his transgression was, going into the holy place, and attempting to burn incense upon the altar of God. [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-26#Verses 16–23|Matthew Henry Concise on 2 Chronicles 26]]
+- This chapter gives us an account of the reign of Uzziah (Azariah he was called in the Kings) more fully than we had it before, though it was long, and in some respects illustrious, yet it was very briefly related, 2Ki… [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-26|Matthew Henry Complete on 2 Chronicles 26]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Chronicles 26 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -42,6 +47,7 @@ Primary scope: 2 Chronicles 26 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-26|Matthew Henry Concise, 2 Chronicles 26]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-26|Matthew Henry Complete on 2 Chronicles 26]]
 
 ## Open questions
 

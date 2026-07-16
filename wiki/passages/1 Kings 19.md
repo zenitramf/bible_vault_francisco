@@ -5,7 +5,7 @@ description: Elijah flees to the wilderness. (1–8). God manifests himself to E
 tags: [worship, covenant, justice, prophecy, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 11
 bible_book_name: "1 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Kings 19: Elijah flees to the wilderness. (1–8). Go
 - Jezebel sent Elijah a threatening message. Carnal hearts are hardened and enraged against God, by that which should convince and conquer them. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-19#Verses 1–8|Matthew Henry Concise on 1 Kings 19]]
 - God repeated the question, What doest thou here? Then he complained of his discouragement; and whither should God's prophets go with their complaints of that kind, but to their Master? [[sources/commentaries_english/mhenry-concise/1-kings/chapter-19#Verses 14–18|Matthew Henry Concise on 1 Kings 19]]
 - Elijah found Elisha by Divine direction, not in the schools of the prophets, but in the field; not reading, or praying, or sacrificing, but ploughing. Idleness is no man's honour, nor is husbandry any man's disgrace. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-19#Verses 19–21|Matthew Henry Concise on 1 Kings 19]]
+- We left Elijah at the entrance of Jezreel, still appearing publicly, and all the people's eyes upon him. In this chapter we have him again absconding, and driven into obscurity, at a time when he could ill be spared;… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-19|Matthew Henry Complete on 1 Kings 19]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Kings 19 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: 1 Kings 19 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-19|Matthew Henry Concise, 1 Kings 19]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-19|Matthew Henry Complete on 1 Kings 19]]
 
 ## Open questions
 

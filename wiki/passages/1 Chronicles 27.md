@@ -5,7 +5,7 @@ description: David's military force. (1–15). Princes and officers. (16–34).
 tags: [worship, covenant, christ, prayer, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 13
 bible_book_name: "1 Chronicles"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 1 Chronicles 27: David's military force. (1–15). Prin
 
 - In the kingdoms of this world readiness for war forms a security for peace; in like manner, nothing so much encourages Satan's assaults as to be unwatchful. So long as we stand armed with the whole armour of God, in the exercise of faith, and preparation of heart for the conflict, we shall certainly be safe, and… [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-27#Verses 1–15|Matthew Henry Concise on 1 Chronicles 27]]
 - The officers of the court, or the rulers of the king's substance, had the oversight and charge of the king's tillage, his vineyards, his herds, his flocks, which formed the wealth of eastern kings. Much of the wisdom of princes is seen in the choice of their ministry, and common persons show it in the choice of their… [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-27#Verses 16–34|Matthew Henry Concise on 1 Chronicles 27]]
+- In this chapter we have the civil list, including the military, I. The twelve captains for every separate month of the year, 1Ch 27:1-15. II. The princes of the several tribes, 1Ch 27:16-24. III. The officers of the… [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-27|Matthew Henry Complete on 1 Chronicles 27]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Chronicles 27 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: 1 Chronicles 27 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-27|Matthew Henry Concise, 1 Chronicles 27]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-27|Matthew Henry Complete on 1 Chronicles 27]]
 
 ## Open questions
 

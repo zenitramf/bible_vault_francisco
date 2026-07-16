@@ -5,7 +5,7 @@ description: God's answer to Solomon's prayer. (1-22).
 tags: [worship, prayer, covenant, holiness, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 14
 bible_book_name: "2 Chronicles"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on 2 Chronicles 7: God's answer to Solomon's prayer. (1-22
 ## Core claims
 
 - God gave a gracious answer to Solomon's prayer. The mercies of God to sinners are made known in a manner well suited to impress all who receive them, with his majesty and holiness. [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-7#Verses 1-22|Matthew Henry Concise on 2 Chronicles 7]]
+- In this chapter we have God's answer to Solomon's prayer. I. His public answer by fire from heaven, which consumed the sacrifices (2Ch 7:1), with which the priests and people were much affected, 2Ch 7:2,3. By that… [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-7|Matthew Henry Complete on 2 Chronicles 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Chronicles 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -42,6 +47,7 @@ Primary scope: 2 Chronicles 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-7|Matthew Henry Concise, 2 Chronicles 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-7|Matthew Henry Complete on 2 Chronicles 7]]
 
 ## Open questions
 

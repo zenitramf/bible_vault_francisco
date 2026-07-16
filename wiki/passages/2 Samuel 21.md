@@ -5,7 +5,7 @@ description: The Gibeonites avenged. (1–9). Rizpah's care for the bodies of Sa
 tags: [covenant, christ, justice, prayer, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 10
 bible_book_name: "2 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 2 Samuel 21: The Gibeonites avenged. (1–9). Rizpah's 
 - Every affliction arises from sin, and should lead us to repent and humble ourselves before God; but some troubles especially show that they are sent to bring sin to remembrance. God's judgments often look a great way back, which requires us to do so, when we are under his rebukes. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-21#Verses 1–9|Matthew Henry Concise on 2 Samuel 21]]
 - That a guilty land should enjoy many years of plenty, calls for gratitude; and we need not wonder misused abundance should be punished with scarcity; yet how few are disposed to ask of the Lord concerning the sinful cause, while numbers search for the second causes by which he is pleased to work! But the Lord will… [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-21#Verses 10–14|Matthew Henry Concise on 2 Samuel 21]]
 - These events seem to have taken place towards the end of David's reign. David fainted, but he did not flee, and God sent help in the time of need. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-21#Verses 15–22|Matthew Henry Concise on 2 Samuel 21]]
+- The date of the events of this chapter is uncertain. I incline to think that they happened as they are here placed, after Absalom's and Sheba's rebellion, and towards the latter end of David's reign. That the battles… [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-21|Matthew Henry Complete on 2 Samuel 21]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Samuel 21 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Christ|Christ]]
@@ -44,6 +49,7 @@ Primary scope: 2 Samuel 21 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-21|Matthew Henry Concise, 2 Samuel 21]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-21|Matthew Henry Complete on 2 Samuel 21]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: David spares Saul's life. (1–7). David shows his innocence. (8–
 tags: [faith, prayer, holiness, justice, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 24: David spares Saul's life. (1–7). David s
 - God delivered Saul into David's hand. It was an opportunity given to David to exercise faith and patience. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-24#Verses 1–7|Matthew Henry Concise on 1 Samuel 24]]
 - David was falsely charged with seeking Saul's hurt; he shows Saul that God's providence had given him opportunity to do it. And it was upon a good principle that he refused to do it. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-24#Verses 8–15|Matthew Henry Concise on 1 Samuel 24]]
 - Saul speaks as quite overcome with David's kindness. Many mourn for their sins, who do not truly repent of them; weep bitterly for them, yet continue in love and in league with them. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-24#Verses 16–22|Matthew Henry Concise on 1 Samuel 24]]
+- We have hitherto had Saul seeking an opportunity to destroy David, and, to his shame, he could never find it. In this chapter David had a fair opportunity to destroy Saul, and, to his honour, he did not make use of it;… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-24|Matthew Henry Complete on 1 Samuel 24]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 24 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -44,6 +49,7 @@ Primary scope: 1 Samuel 24 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-24|Matthew Henry Concise, 1 Samuel 24]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-24|Matthew Henry Complete on 1 Samuel 24]]
 
 ## Open questions
 

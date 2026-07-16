@@ -5,7 +5,7 @@ description: Manasseh's and repentance. (1–20). Amon's wicked reign in Judah. 
 tags: [worship, prayer, covenant, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 14
 bible_book_name: "2 Chronicles"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 2 Chronicles 33: Manasseh's and repentance. (1–20). A
 
 - We have seen Manasseh's wickedness; here we have his repentance, and a memorable instance it is of the riches of God's pardoning mercy, and the power of his renewing grace. Deprived of his liberty, separated from his evil counsellors and companions, without any prospect but of ending his days in a wretched prison,… [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-33#Verses 1–20|Matthew Henry Concise on 2 Chronicles 33]]
 - Amon's father did ill, but he did worse. Whatever warnings or convictions he had, he never humbled himself. [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-33#Verses 21–25|Matthew Henry Concise on 2 Chronicles 33]]
+- In this chapter we have the history of the reign, I. Of Manasseh, who reigned long. 1. His wretched apostasy from God, and revolt to idolatry and all wickedness, 2Ch 33:1-10. 2. His happy return to God in his… [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-33|Matthew Henry Complete on 2 Chronicles 33]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Chronicles 33 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -42,6 +47,7 @@ Primary scope: 2 Chronicles 33 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-33|Matthew Henry Concise, 2 Chronicles 33]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-33|Matthew Henry Complete on 2 Chronicles 33]]
 
 ## Open questions
 

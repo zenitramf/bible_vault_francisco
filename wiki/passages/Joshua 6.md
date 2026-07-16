@@ -5,7 +5,7 @@ description: The siege of Jericho. (1–5). The city is compassed. (6–16). Jer
 tags: [covenant, faith, holiness, justice, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 6
 bible_book_name: "Joshua"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Joshua 6: The siege of Jericho. (1–5). The city is co
 - Jericho resolves Israel shall not be its master. It shut itself up, being strongly fortified both by art and nature. [[sources/commentaries_english/mhenry-concise/joshua/chapter-6#Verses 1–5|Matthew Henry Concise on Joshua 6]]
 - Wherever the ark went, the people attended it. God's ministers, by the trumpet of the everlasting gospel, which proclaims liberty and victory, must encourage the followers of Christ in their spiritual warfare. [[sources/commentaries_english/mhenry-concise/joshua/chapter-6#Verses 6–16|Matthew Henry Concise on Joshua 6]]
 - Jericho was to be a solemn and awful sacrifice to the justice of God, upon those who had filled up the measure of their sins. So He appoints, from whom, as creatures, they received their lives, and to whom, as sinners, they had forfeited them. [[sources/commentaries_english/mhenry-concise/joshua/chapter-6#Verses 17–27|Matthew Henry Concise on Joshua 6]]
+- Joshua opened the campaign with the siege of Jericho, a city which could not trust so much to the courage of its people as to act offensively, and to send out its forces to oppose Israel's landing and encamping, but… [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-6|Matthew Henry Complete on Joshua 6]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Joshua 6 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Joshua 6 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/joshua/chapter-6|Matthew Henry Concise, Joshua 6]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/joshua/chapter-6|Matthew Henry Complete on Joshua 6]]
 
 ## Open questions
 

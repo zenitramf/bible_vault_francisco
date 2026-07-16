@@ -5,7 +5,7 @@ description: David declares Solomon his successor. (1–23). The office of the L
 tags: [worship, covenant, christ, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 13
 bible_book_name: "1 Chronicles"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 1 Chronicles 23: David declares Solomon his successor. 
 
 - David, having given charge concerning the building of the temple, settles the method of the temple service, and orders the officers of it. When those of the same family were employed together, it would engage them to love and assist one another. [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-23#Verses 1–23|Matthew Henry Concise on 1 Chronicles 23]]
 - Now the people of Israel were so many, there should be more employed in the temple service, that every Israelite who brought an offering might find a Levite ready to help him. When more work is to be done, it is pity but there should be more workmen. [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-23#Verses 24–32|Matthew Henry Concise on 1 Chronicles 23]]
+- David, having given charge concerning the building of the temple, in this and the following chapters settles the method of the temple-service and puts into order the offices and officers of it. In the late irregular… [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-23|Matthew Henry Complete on 1 Chronicles 23]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Chronicles 23 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -42,6 +47,7 @@ Primary scope: 1 Chronicles 23 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-23|Matthew Henry Concise, 1 Chronicles 23]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-23|Matthew Henry Complete on 1 Chronicles 23]]
 
 ## Open questions
 

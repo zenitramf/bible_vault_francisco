@@ -5,7 +5,7 @@ description: Achish puts confidence in David, Saul's fear. (1–6). Saul consult
 tags: [faith, prayer, holiness, justice, covenant]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 9
 bible_book_name: "1 Samuel"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Samuel 28: Achish puts confidence in David, Saul's fe
 - David could not refuse Achish without danger. If he promised assistance, and then stood neuter, or went over to the Israelites, he would behave with ingratitude and treachery. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-28#Verses 1–6|Matthew Henry Concise on 1 Samuel 28]]
 - When we go from the plain path of duty, every thing draws us further aside, and increases our perplexity and temptation. Saul desires the woman to bring one from the dead, with whom he wished to speak; this was expressly forbidden, De 18:11. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-28#Verses 7–19|Matthew Henry Concise on 1 Samuel 28]]
 - Those that expect any good counsel or comfort, otherwise than from God, and in the way of his institutions, will be as wretchedly disappointed as Saul. Though terrified even to despair, he was not humbled. [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-28#Verses 20–25|Matthew Henry Concise on 1 Samuel 28]]
+- Preparations are herein making for that war which will put an end to the life and reign of Saul, and so make way for David to the throne. In this war, I. The Philistines are the aggressors and Achish their king makes… [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-28|Matthew Henry Complete on 1 Samuel 28]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Samuel 28 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -44,6 +49,7 @@ Primary scope: 1 Samuel 28 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-samuel/chapter-28|Matthew Henry Concise, 1 Samuel 28]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-samuel/chapter-28|Matthew Henry Complete on 1 Samuel 28]]
 
 ## Open questions
 

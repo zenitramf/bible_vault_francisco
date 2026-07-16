@@ -5,7 +5,7 @@ description: Praise and glory ascribed to God. (1–5). The distress and deliver
 tags: [faith, justice, holiness, salvation, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 7
 bible_book_name: "Judges"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Judges 5: Praise and glory ascribed to God. (1–5). Th
 - No time should be lost in returning thanks to the Lord for his mercies; for our praises are most acceptable, pleasant, and profitable, when they flow from a full heart. By this, love and gratitude would be more excited and more deeply fixed in the hearts of believers; the events would be more known and longer… [[sources/commentaries_english/mhenry-concise/judges/chapter-5#Verses 1–5|Matthew Henry Concise on Judges 5]]
 - Deborah called on her own soul to be in earnest. He that will set the hearts of other men on fire with the love of Christ, must himself burn with love. [[sources/commentaries_english/mhenry-concise/judges/chapter-5#Verses 12–23|Matthew Henry Concise on Judges 5]]
 - Jael had a special blessing. Those whose lot is cast in the tent, in a low and narrow sphere, if they serve God according to the powers he has given them, shall not lose their reward. [[sources/commentaries_english/mhenry-concise/judges/chapter-5#Verses 24–31|Matthew Henry Concise on Judges 5]]
+- This chapter contains the triumphal song which was composed and sung upon occasion of that glorious victory which Israel obtained over the forces of Jabin king of Canaan and the happy consequences of that victory.… [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-5|Matthew Henry Complete on Judges 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Judges 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justice|Justice]]
@@ -44,6 +49,7 @@ Primary scope: Judges 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/judges/chapter-5|Matthew Henry Concise, Judges 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-5|Matthew Henry Complete on Judges 5]]
 
 ## Open questions
 

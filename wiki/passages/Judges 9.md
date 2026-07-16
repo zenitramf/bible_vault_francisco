@@ -5,7 +5,7 @@ description: Abimelech murders his brethren, and is made king. (1–6). Jotham r
 tags: [faith, justice, holiness, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 7
 bible_book_name: "Judges"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Judges 9: Abimelech murders his brethren, and is made k
 - The men of Shechem chose Abimelech king. God was not consulted whether they should have any king, much less who it should be. [[sources/commentaries_english/mhenry-concise/judges/chapter-9#Verses 1–6|Matthew Henry Concise on Judges 9]]
 - Abimelech is seated in the throne his father refused. But how long does this glory last? [[sources/commentaries_english/mhenry-concise/judges/chapter-9#Verses 22–29|Matthew Henry Concise on Judges 9]]
 - The Shechemites were ruined by Abimelech; now he is reckoned with, who was their leader in villany. Evil pursues sinners, and sometimes overtakes them, when not only at ease, but triumphant. [[sources/commentaries_english/mhenry-concise/judges/chapter-9#Verses 50–57|Matthew Henry Concise on Judges 9]]
+- The apostasy of Israel after the death of Gideon is punished, not as the former apostasies by a foreign invasion, or the oppressions of any neighbouring power, but by intestine broils among themselves, which in this… [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-9|Matthew Henry Complete on Judges 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Judges 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justice|Justice]]
@@ -43,6 +48,7 @@ Primary scope: Judges 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/judges/chapter-9|Matthew Henry Concise, Judges 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/judges/chapter-9|Matthew Henry Complete on Judges 9]]
 
 ## Open questions
 

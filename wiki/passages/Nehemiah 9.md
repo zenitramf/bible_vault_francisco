@@ -5,7 +5,7 @@ description: A solemn fast. (1–3). Prayer and confession of sin. (4–38).
 tags: [prayer, covenant, holiness, justice, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 16
 bible_book_name: "Nehemiah"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on Nehemiah 9: A solemn fast. (1–3). Prayer and confessi
 
 - The word will direct and quicken prayer, for by it the Spirit helps our infirmities in prayer. The careful study of God's word will more and more discover to us our own sinfulness, and the plenteousness of his salvation; thus it calls us to mourn for sin, and to rejoice in him. [[sources/commentaries_english/mhenry-concise/nehemiah/chapter-9#Verses 1–3|Matthew Henry Concise on Nehemiah 9]]
 - The summary of their prayers we have here upon record. Much more, no doubt, was said. [[sources/commentaries_english/mhenry-concise/nehemiah/chapter-9#Verses 4–38|Matthew Henry Concise on Nehemiah 9]]
+- The tenth day of the seventh month between the feast of trumpets (Ne 8:2) and the feast of tabernacles (Ne 9:14) was appointed to be the day of atonement; we have no reason to think but that it was religiously… [[sources/commentaries_english/mhenry-complete/volume-2/nehemiah/chapter-9|Matthew Henry Complete on Nehemiah 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Nehemiah 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: Nehemiah 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/nehemiah/chapter-9|Matthew Henry Concise, Nehemiah 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/nehemiah/chapter-9|Matthew Henry Complete on Nehemiah 9]]
 
 ## Open questions
 

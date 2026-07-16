@@ -5,7 +5,7 @@ description: Rehoboam forbidden to war against Israel. (1–12). The priests and
 tags: [worship, prayer, covenant, holiness, faith]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 14
 bible_book_name: "2 Chronicles"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 2 Chronicles 11: Rehoboam forbidden to war against Isra
 
 - A few good words might have prevented the rebellion of Rehoboam's subjects; but all the force of his kingdom cannot bring them back. And it is in vain to contend with the purpose of God, when it is made known to us. [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-11#Verses 1–12|Matthew Henry Concise on 2 Chronicles 11]]
 - When the priests and Levites came to Jerusalem, the devout, pious Israelites followed them. Such as set their hearts to seek the Lord God of Israel, left the inheritance of their fathers, and went to Jerusalem, that they might have free access to the altar of God, and be out of the temptation to worship the calves. [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-11#Verses 13–23|Matthew Henry Concise on 2 Chronicles 11]]
+- We are here going on with the history of Rehoboam. I. His attempt to recover the ten tribes he has lost, and the letting fall of that attempt in obedience to the divine command, 2Ch 11:1-4. II. His successful… [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-11|Matthew Henry Complete on 2 Chronicles 11]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Chronicles 11 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -43,6 +48,7 @@ Primary scope: 2 Chronicles 11 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-11|Matthew Henry Concise, 2 Chronicles 11]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-11|Matthew Henry Complete on 2 Chronicles 11]]
 
 ## Open questions
 

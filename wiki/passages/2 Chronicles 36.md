@@ -5,7 +5,7 @@ description: The destruction of Jerusalem. (1–21). The proclamation of Cyrus. 
 tags: [worship, prayer, covenant, holiness]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 14
 bible_book_name: "2 Chronicles"
 ---
@@ -20,8 +20,11 @@ Matthew Henry Concise on 2 Chronicles 36: The destruction of Jerusalem. (1–21)
 
 - The ruin of Judah and Jerusalem came on by degrees. The methods God takes to call back sinners by his word, by ministers, by conscience, by providences, are all instances of his compassion toward them, and his unwillingness that any should perish. [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-36#Verses 1–21|Matthew Henry Concise on 2 Chronicles 36]]
 - God had promised the restoring of the captives, and the rebuilding of Jerusalem, at the end of seventy years; and that time to favour Zion, that set time, came at last. Though God's church be cast down, it is not cast off; though his people be corrected, they are not abandoned; though thrown into the furnace, they… [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-36#Verses 22, 23|Matthew Henry Concise on 2 Chronicles 36]]
+- We have here, I. A short but sad account of the utter ruin of Judah and Jerusalem within a few years after Josiah's death. 1. The history of it in the unhappy reigns of Jehoahaz for three months (2Ch 36:1-4), Jehoiakim… [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-36|Matthew Henry Complete on 2 Chronicles 36]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -30,6 +33,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Chronicles 36 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -41,6 +46,7 @@ Primary scope: 2 Chronicles 36 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-chronicles/chapter-36|Matthew Henry Concise, 2 Chronicles 36]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-36|Matthew Henry Complete on 2 Chronicles 36]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Solomon's marriage. (1–4). His vision, His prayer for wisdom. (5�
 tags: [worship, covenant, justice, prophecy, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 11
 bible_book_name: "1 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Kings 3: Solomon's marriage. (1–4). His vision, His
 - He that loved the Lord, should, for his sake, have fixed his love upon one of the Lord's people. Solomon was a wise man, a rich man, a great man; yet the brightest praise of him, is that which is the character of all the saints, even the poorest, “He loved the Lord.” Where God sows plentifully, he expects to reap… [[sources/commentaries_english/mhenry-concise/1-kings/chapter-3#Verses 1–4|Matthew Henry Concise on 1 Kings 3]]
 - Solomon's dream was not a common one. While his bodily powers were locked up in sleep, the powers of his soul were strengthened; he was enabled to receive the Divine vision, and to make a suitable choice. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-3#Verses 5–15|Matthew Henry Concise on 1 Kings 3]]
 - An instance of Solomon's wisdom is given. Notice the difficulty of the case. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-3#Verses 16–28|Matthew Henry Concise on 1 Kings 3]]
+- Solomon's reign looked bloody in the foregoing chapter, but the necessary acts of justice must not be called cruelty; in this chapter it appears with another face. We must not think the worse of God's mercy to his… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-3|Matthew Henry Complete on 1 Kings 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Kings 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +49,7 @@ Primary scope: 1 Kings 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-3|Matthew Henry Concise, 1 Kings 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-3|Matthew Henry Complete on 1 Kings 3]]
 
 ## Open questions
 

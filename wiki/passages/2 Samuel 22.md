@@ -5,7 +5,7 @@ description: David's psalm of thanksgiving. (1-51).
 tags: [covenant, christ, justice, prayer, worship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 10
 bible_book_name: "2 Samuel"
 ---
@@ -19,8 +19,11 @@ Matthew Henry Concise on 2 Samuel 22: David's psalm of thanksgiving. (1-51).
 ## Core claims
 
 - This chapter is a psalm of praise; we find it afterwards nearly as Ps 18. They that trust God in the way of duty, shall find him a present help in their greatest dangers: David did so. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-22#Verses 1-51|Matthew Henry Concise on 2 Samuel 22]]
+- This chapter is a psalm, a psalm of praise; we find it afterwards inserted among David's psalms (Ps 18:1-50) with some little variation. We have it here as it was first composed for his own closed and his own harp; but… [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-22|Matthew Henry Complete on 2 Samuel 22]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -29,6 +32,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 2 Samuel 22 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Christ|Christ]]
@@ -42,6 +47,7 @@ Primary scope: 2 Samuel 22 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-22|Matthew Henry Concise, 2 Samuel 22]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-22|Matthew Henry Complete on 2 Samuel 22]]
 
 ## Open questions
 

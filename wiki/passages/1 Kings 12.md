@@ -5,7 +5,7 @@ description: Rehoboam's accession, The people's petition, His rough answer. (1�
 tags: [worship, covenant, justice, prophecy]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 11
 bible_book_name: "1 Kings"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on 1 Kings 12: Rehoboam's accession, The people's petition
 - The tribes complained not to Rehoboam of his father's idolatry, and revolt from God. That which was the greatest grievance, was none to them; so careless were they in matters of religion, if they might live at ease, and pay no taxes. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-12#Verses 1–15|Matthew Henry Concise on 1 Kings 12]]
 - The people speak unbecomingly of David. How soon are good men, and their good services to the public, forgotten! [[sources/commentaries_english/mhenry-concise/1-kings/chapter-12#Verses 16–24|Matthew Henry Concise on 1 Kings 12]]
 - Jeroboam distrusted the providence of God; he would contrive ways and means, and sinful ones too, for his own safety. A practical disbelief of God's all-sufficiency is at the bottom of all our departures from him. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-12#Verses 25–33|Matthew Henry Concise on 1 Kings 12]]
+- The glory of the kingdom of Israel was in its height and perfection in Solomon; it was long in coming to it, but it soon declined, and began to sink and wither in the very next reign, as we find in this chapter, where… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-12|Matthew Henry Complete on 1 Kings 12]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: 1 Kings 12 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +48,7 @@ Primary scope: 1 Kings 12 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-12|Matthew Henry Concise, 1 Kings 12]]
+- [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-12|Matthew Henry Complete on 1 Kings 12]]
 
 ## Open questions
 
