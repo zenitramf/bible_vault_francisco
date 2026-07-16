@@ -1,5 +1,7 @@
 # Questions
 
+Live database view: [[wiki/questions/index.base|Folder base]]. Static OKF list remains below.
+
 # Contents
 
 * [[wiki/questions/Core Query Suite|Core Query Suite]] - Benchmark questions used to test whether the wiki can answer without broad source RAG.

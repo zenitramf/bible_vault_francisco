@@ -19,7 +19,7 @@ python3 .tools/scripts/wiki_tool.py <command> [options]
 | Command | Purpose |
 |---|---|
 | `doctor` | Non-mutating health check (folders, Python, catalog, reverse indexes, manifest, note counts) |
-| `build` | Write `wiki/catalog.jsonl`, `wiki/indexes/*.jsonl`, and regenerate wiki `index.md` files |
+| `build` | Write `wiki/catalog.jsonl`, `wiki/indexes/*.jsonl`, regenerate wiki `index.md` files, and regenerate side-by-side `index.base` files plus root `bases.base` |
 | `lint` | Validate wiki frontmatter, tags shape, source_count, claims, wikilinks |
 | `source-scan` | List or update `schema/source-manifest.jsonl` from `sources/` |
 | `source-scan --update` | Rewrite manifest inventory from disk |
@@ -83,7 +83,7 @@ python3 .tools/scripts/wiki_tool.py source-coverage --path mhenry-complete/volum
 python3 .tools/scripts/lint_wiki.py
 ```
 
-Complementary structural lint: index.md presence/shape under wiki and sources trees, required frontmatter fields, `bible_reference` shape, uncited core claims, and broken/ambiguous wikilinks.
+Complementary structural lint: index.md presence/shape under wiki and sources trees, required frontmatter fields, `bible_reference` shape, uncited core claims, and broken/ambiguous wikilinks. Pairing of `index.base` with each non-root `index.md` (and root `bases.base` only) is enforced by `wiki_tool.py lint`.
 
 ## `audit_public.py`
 

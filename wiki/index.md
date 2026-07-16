@@ -1,5 +1,7 @@
 # Bible Wiki
 
+Live database view: [[wiki/index.base|Wiki hub base]]. Static OKF list remains below.
+
 # Contents
 
 * [[wiki/concepts/index|Concepts]] - Source-backed syntheses of biblical doctrines, themes, and practices.

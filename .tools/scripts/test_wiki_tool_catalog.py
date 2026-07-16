@@ -109,5 +109,71 @@ class CatalogExtractionTests(unittest.TestCase):
         self.assertTrue(any(p and "Prayer" in p for p in paths), paths[:5])
 
 
+class IndexBaseGenerationTests(unittest.TestCase):
+    def test_select_base_profile(self) -> None:
+        self.assertEqual(wt.select_base_profile("wiki"), "wiki_hub")
+        self.assertEqual(wt.select_base_profile("wiki/concepts"), "wiki_concepts")
+        self.assertEqual(wt.select_base_profile("wiki/passages"), "wiki_passages")
+        self.assertEqual(wt.select_base_profile("wiki/source-notes"), "wiki_source_notes")
+        self.assertEqual(wt.select_base_profile("wiki/people"), "wiki_generic")
+        self.assertEqual(wt.select_base_profile("wiki/indexes"), "wiki_generic")
+        self.assertEqual(wt.select_base_profile("sources"), "sources_generic")
+        self.assertEqual(
+            wt.select_base_profile("sources/commentaries_english/chspurgeon-sermons/volume-1"),
+            "sources_generic",
+        )
+        self.assertEqual(wt.select_base_profile("raw"), "simple")
+        self.assertEqual(wt.select_base_profile("schema"), "simple")
+        self.assertEqual(wt.select_base_profile("_templates"), "simple")
+        with self.assertRaises(ValueError):
+            wt.select_base_profile("")
+
+    def test_render_index_base_folder_token(self) -> None:
+        body = wt.render_index_base("wiki/concepts")
+        self.assertIn('file.inFolder("wiki/concepts")', body)
+        self.assertNotIn("__FOLDER__", body)
+        self.assertNotIn("---\n", body)
+        self.assertIn('type == "Biblical Concept"', body)
+
+        sources = wt.render_index_base("sources/articles")
+        self.assertIn('file.inFolder("sources/articles")', sources)
+        self.assertIn("bible_book_name", sources)
+
+    def test_render_bases_base(self) -> None:
+        body = wt.render_bases_base()
+        self.assertIn('file.ext == "base"', body)
+        self.assertIn("is_index_base", body)
+        self.assertIn("Index counterparts only", body)
+
+    def test_rebuild_index_bases_temp_tree(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            # Point module roots at temp vault
+            old_root = wt.ROOT
+            wt.ROOT = root
+            try:
+                (root / "wiki" / "concepts").mkdir(parents=True)
+                (root / "wiki" / "concepts" / "index.md").write_text(
+                    "# Concepts\n\n# Contents\n\n", encoding="utf-8"
+                )
+                (root / "sources" / "books").mkdir(parents=True)
+                (root / "sources" / "books" / "index.md").write_text(
+                    "# Books\n\n# Contents\n\n", encoding="utf-8"
+                )
+                (root / "index.md").write_text("# Root\n\n# Contents\n\n", encoding="utf-8")
+
+                stats = wt.rebuild_index_bases()
+                self.assertEqual(stats["index_bases"], 2)
+                self.assertTrue((root / "bases.base").is_file())
+                self.assertFalse((root / "index.base").is_file())
+                concepts_base = (root / "wiki" / "concepts" / "index.base").read_text(encoding="utf-8")
+                self.assertIn('file.inFolder("wiki/concepts")', concepts_base)
+                books_base = (root / "sources" / "books" / "index.base").read_text(encoding="utf-8")
+                self.assertIn('file.inFolder("sources/books")', books_base)
+                self.assertIn('file.ext == "base"', (root / "bases.base").read_text(encoding="utf-8"))
+            finally:
+                wt.ROOT = old_root
+
+
 if __name__ == "__main__":
     unittest.main()

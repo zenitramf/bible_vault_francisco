@@ -1,6 +1,6 @@
 # Bible Vault
 
-Live database views: [[bases.base|Base of bases]] (every `.base` in the vault) · [[index.base|Root base]] (hub navigation). Static OKF lists remain below; every content directory also has a paired `index.base`.
+Live database view: [[bases.base|Base of bases]] (every `.base` in the vault). The vault root has no `index.base`—only this base of bases. Every other content directory pairs `index.md` with `index.base`. Static OKF lists remain below.
 
 # Contents
 

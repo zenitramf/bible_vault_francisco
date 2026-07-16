@@ -17,7 +17,7 @@ python3 .tools/scripts/lint_wiki.py
 python3 .tools/scripts/audit_public.py
 ```
 
-`build` regenerates `wiki/catalog.jsonl`, `wiki/indexes/*.jsonl` (by-tag, by-passage, by-source, by-type), and folder `index.md` files. Run it after any material wiki edit.
+`build` regenerates `wiki/catalog.jsonl`, `wiki/indexes/*.jsonl` (by-tag, by-passage, by-source, by-type), wiki folder `index.md` files, every side-by-side `index.base` (paired with each non-root `index.md`), and root `bases.base` (base of bases). Run it after any material wiki edit or when new content directories gain an `index.md`.
 
 Optional catalog unit checks:
 

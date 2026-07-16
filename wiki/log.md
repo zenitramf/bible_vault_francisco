@@ -365,3 +365,10 @@ append_only: true
 - Candidate expand backlog seeded on tracker (Grace, Atonement, Hope, Adoption, Repentance, Assurance, Providence, Intercession, Love, Kingdom, Word/Scripture, Sin/Fall, Resurrection, Suffering, Election, Stewardship, Unity, …).
 - Existing seeds to deepen: Creation, Worship, Pastoral Ministry, Spiritual Warfare, Christ-Centered Ministry.
 - Updated wiki/campaigns/tracker.md and wiki/campaigns/source-review-plan.md.
+
+## [2026-07-16] maintenance | Side-by-side index.base in build/lint
+
+- build regenerates every non-root index.base + root bases.base
+- lint/doctor enforce pairing; root must not have index.base
+- wiki folder index.md files link Live database view
+- docs/skills updated (AGENTS, command-reference, lint-checklist, naming, maintain skill)

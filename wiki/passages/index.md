@@ -1,5 +1,7 @@
 # Passages
 
+Live database view: [[wiki/passages/index.base|Folder base]]. Static OKF list remains below.
+
 # Contents
 
 * [[wiki/passages/1 Chronicles 1|1 Chronicles 1]] - Genealogies, Adam to Abraham. (1–27). The descendants of Abraham. (28–54).

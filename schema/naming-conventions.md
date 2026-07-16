@@ -35,6 +35,7 @@ Examples:
 - Avoid leading/trailing spaces and characters that break shell or markdown: `* ? : " < > |`.
 - Reserved: never name a concept document `index.md` or `log.md`.
 - Do not introduce `_index.md` or `README.md` as navigation substitutes.
+- Every content directory with `index.md` has a paired `index.base` (Obsidian Base). Exception: vault root uses only `bases.base` (base of bases)—never a root `index.base`.
 
 ## Wiki type values (producer set)
 

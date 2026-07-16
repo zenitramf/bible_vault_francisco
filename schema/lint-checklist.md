@@ -31,6 +31,8 @@ python3 .tools/scripts/wiki_tool.py source-lint
 - [ ] Non-reserved `.md` under `wiki/` has YAML frontmatter
 - [ ] Every wiki concept frontmatter has non-empty `type`
 - [ ] `index.md` files have **no** frontmatter and include a `# Contents` section
+- [ ] Every non-root `index.md` has a sibling `index.base` with matching `file.inFolder("…")`
+- [ ] Vault root has `bases.base` only (no root `index.base`)
 - [ ] `log.md` remains append-only operational history
 
 ## Wiki producer checks
@@ -58,6 +60,7 @@ python3 .tools/scripts/wiki_tool.py source-lint
 - [ ] `wiki/indexes/index.md` present and frontmatter-free
 - [ ] `doctor` reports catalog row counts and reverse-index sizes; no stale-catalog warning
 - [ ] Wiki folder `index.md` files regenerated or consistent with disk
+- [ ] Side-by-side `index.base` files and root `bases.base` regenerated via `build`
 - [ ] `schema/source-manifest.jsonl` updated after intentional coverage changes
 
 ## Public audit

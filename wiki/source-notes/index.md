@@ -1,5 +1,7 @@
 # Source notes
 
+Live database view: [[wiki/source-notes/index.base|Folder base]]. Static OKF list remains below.
+
 # Contents
 
 * [[wiki/source-notes/Ayudas en el estudio biblico|Ayudas en el estudio bíblico]] - Spanish personal study guide listing contextual questions for reading a biblical passage.
