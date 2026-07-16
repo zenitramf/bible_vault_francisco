@@ -1,0 +1,31 @@
+{
+  "description": "Resource-safe Bible Vault BM25 source retrieval baseline",
+  "version": 1,
+  "collection": "bible-sources",
+  "queries": [
+    {
+      "id": "joel-locust-judgment",
+      "query": "Joel locust plague divine judgment repentance",
+      "expected_files": [
+        "commentaries-english/mhenry-complete/volume-4/joel/chapter-1.md"
+      ],
+      "expected_in_top_k": 5
+    },
+    {
+      "id": "timothy-apostolic-call",
+      "query": "apostle call thankfulness 1Ti 1 12 16",
+      "expected_files": [
+        "commentaries-english/mhenry-complete/volume-6/1-timothy/chapter-1.md"
+      ],
+      "expected_in_top_k": 5
+    },
+    {
+      "id": "psalm-23-shepherd",
+      "query": "The Lord is my shepherd Psalm 23 pastoral care provision",
+      "expected_files": [
+        "commentaries-english/chspurgeon-tod/volume-1/psalm-23.md"
+      ],
+      "expected_in_top_k": 5
+    }
+  ]
+}

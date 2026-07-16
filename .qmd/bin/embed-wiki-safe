@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd /home/hermes/bible_vault_francisco
+
+minimum_available_kib=1572864
+available_kib=$(awk '/^MemAvailable:/ { print $2 }' /proc/meminfo)
+
+if (( available_kib < minimum_available_kib )); then
+  printf 'Refusing to embed: MemAvailable is %s KiB; at least %s KiB is required.\n' \
+    "$available_kib" "$minimum_available_kib" >&2
+  exit 1
+fi
+
+if pgrep -f '[q]md embed' >/dev/null; then
+  printf 'Refusing to embed: another qmd embedding process is already running.\n' >&2
+  exit 1
+fi
+
+exec systemd-run --user --scope --quiet \
+  -p MemoryHigh=1100M \
+  -p MemoryMax=1400M \
+  -p CPUQuota=50% \
+  -p IOWeight=10 \
+  env QMD_FORCE_CPU=1 QMD_EMBED_PARALLELISM=1 \
+  timeout 45m qmd embed \
+    -c bible-wiki \
+    --max-docs-per-batch 5 \
+    --max-batch-mb 8

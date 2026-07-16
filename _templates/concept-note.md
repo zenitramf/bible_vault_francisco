@@ -1,0 +1,31 @@
+---
+type: Biblical Concept
+title: ""
+description: ""
+tags: []
+status: seed
+updated: YYYY-MM-DD
+source_count: 0
+---
+
+# Title
+
+## Summary
+
+## Core claims
+
+- Claim text with evidence. [[sources/path/to/file|Source label]]
+
+## Agreements and tensions
+
+## Biblical passages
+
+## Related pages
+
+- [[wiki/concepts/Related|Related]]
+
+## Sources
+
+- [[sources/path/to/file|Source label]]
+
+## Open questions

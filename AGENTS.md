@@ -7,7 +7,9 @@ tags: [scripture, bible-study]
 
 # Bible Vault Metadata Conventions
 
-This vault is an OKF knowledge bundle. Every concept document has YAML frontmatter with a non-empty `type`, `title`, `description`, and `tags` list. Reserved `index.md` files do not have frontmatter.
+This vault is an OKF knowledge bundle (Open Knowledge Format v0.1). Every concept document has YAML frontmatter with a non-empty `type`, `title`, `description`, and `tags` list. Reserved `index.md` files do not have frontmatter.
+
+OKF requires only a non-empty `type` on concept documents. This producer additionally requires `title`, `description`, and thematic `tags` for wiki quality. Producers MAY add extension fields; consumers MUST tolerate unknown types and unknown keys. See `schema/frontmatter-schema.md`.
 
 ## Tags
 
@@ -98,4 +100,192 @@ bible_book_name: "<name>"
 
 ## Indexes
 
-Every content directory has a frontmatter-free `index.md` with a title and `# Contents` list. Do not create `_index.md` or `README.md` navigation documents.
+Every content directory has a frontmatter-free `index.md` with a title and `# Contents` list. Do not create `_index.md` or `README.md` navigation documents. This matches OKF reserved `index.md` progressive-disclosure listings.
+
+Regenerate wiki indexes with `python3 .tools/scripts/wiki_tool.py build` after adding or renaming wiki pages. Source-tree indexes remain hand-maintained when sources move (never rewrite source document bodies).
+
+## Knowledge layers and ownership
+
+This vault has four distinct content/retrieval layers:
+
+- `raw/` is an unindexed staging ground for unprocessed files. Agents may inspect staged files during an ingest but must not rewrite their contents. After classification, move each processed file unchanged into the appropriate `sources/` directory and update both navigation indexes.
+- `sources/` contains immutable evidence. Agents may read source documents but must not rewrite, normalize, retag, or otherwise edit them during wiki work. Navigation-only `index.md` files are the exception and may be maintained.
+- `wiki/` contains LLM-maintained synthesis. Agents create and revise these pages as new evidence and durable investigations are integrated.
+- `.qmd/` contains committed qmd configuration, benchmarks, and guarded operational scripts. Generated SQLite files are local artifacts and must not be committed.
+
+Supporting producer layers (not evidence, not synthesis):
+
+- `schema/` — OKF-aligned frontmatter rules, lint checklist, workflows, command reference, and `source-manifest.jsonl`.
+- `_templates/` — note templates matching this vault's frontmatter and body sections.
+- `.tools/scripts/` — deterministic `wiki_tool.py` and `audit_public.py` maintenance tooling.
+- `.agents/skills/` — ingest, query, lint, and maintain skill playbooks for agents.
+
+The vault root contains navigation and agent instructions, not content documents. Personal notes belong in `sources/personal-notes/`.
+
+**Agent rules (summary):**
+
+- Treat `raw/` and `sources/` as source material, not as compiled notes.
+- Write reusable knowledge only under `wiki/`.
+- Keep every compiled note linked to one or more sources (or a wiki source-note that does).
+- Search `wiki/catalog.jsonl` (via `wiki_tool.py search-catalog`) before opening broad source context.
+- Run `build`, `lint`, source checks, and `audit_public` before meaningful commits.
+- Do not invent citations or create unsupported claims.
+
+## Wiki page conventions
+
+Wiki pages follow the vault-wide metadata rules and may add operational properties. A typical concept page begins with:
+
+```yaml
+---
+type: Biblical Concept
+title: Prayer in Christian Life
+description: A source-backed synthesis of prayer's purpose, practice, and theology.
+tags: [prayer, christian-life]
+status: developing
+updated: 2026-07-16
+source_count: 4
+---
+```
+
+Use `status: seed`, `status: developing`, or `status: reviewed`. Update `updated` and `source_count` whenever the synthesis changes materially.
+
+Concept, person, passage, source-note, and question pages should use the relevant portions of this structure:
+
+```markdown
+# Page Title
+
+## Summary
+
+## Core claims
+
+## Agreements and tensions
+
+## Biblical passages
+
+## Related pages
+
+## Sources
+
+## Open questions
+```
+
+Templates for these pages live in `_templates/`.
+
+Every material interpretive claim must be traceable to at least one source link. Use full-path Obsidian wikilinks for internal evidence because source filenames such as `chapter-1.md` are not unique:
+
+```markdown
+[[sources/commentaries_english/mhenry-complete/volume-4/joel/chapter-1#Threatenings of Judgment (720 BC)|Matthew Henry on Joel 1]]
+```
+
+Record meaningful disagreements in `## Agreements and tensions`; do not flatten distinct interpretations into a false consensus. Clearly distinguish source claims, synthesis, and unresolved questions.
+
+## Catalog and source manifest
+
+- `wiki/catalog.jsonl` — one JSON object per compiled wiki note (path, title, type, tags, sources metadata, updated). Rebuild with `wiki_tool.py build`.
+- `schema/source-manifest.jsonl` — inventory of `sources/**/*.md` with optional `covered_by` wiki paths. Coverage is derived from wiki links and `source_path`; **never** by rewriting source files. Most of the commentary corpus is intentionally uncovered until ingested into synthesis.
+
+## Ingest workflow
+
+When the user asks to ingest a source:
+
+1. Locate the unprocessed file in `raw/`, classify it, and move it unchanged into the appropriate `sources/` directory. If it is already under `sources/`, leave it in place.
+2. Do not modify the source document; update the affected `raw/index.md` and source `index.md` navigation files.
+3. Run `.qmd/bin/update-safe` to refresh lexical search after the file is under `sources/`.
+4. Search the wiki first for affected concepts, people, passages, and prior questions (`search-catalog`, then qmd wiki search).
+5. Read the source and discuss its important takeaways with the user when appropriate.
+6. Create or update a page in `wiki/source-notes/`.
+7. Update every materially affected wiki page, including explicit source links and tensions.
+8. Update the `index.md` of each changed content directory (or run `wiki_tool.py build` for wiki indexes).
+9. Append an entry to `wiki/log.md` using `## [YYYY-MM-DD] ingest | Title` (or `wiki_tool.py log`).
+10. Run `.qmd/bin/update-safe`, then `.qmd/bin/embed-wiki-safe` when semantic retrieval needs refreshing.
+11. Review the Git diff and run the vault lint checks before reporting completion.
+
+After synthesis changes, also run:
+
+```bash
+python3 .tools/scripts/wiki_tool.py build
+python3 .tools/scripts/wiki_tool.py lint
+python3 .tools/scripts/wiki_tool.py source-scan --update --accept-covered
+python3 .tools/scripts/wiki_tool.py source-lint
+python3 .tools/scripts/audit_public.py
+```
+
+## Query workflow
+
+Search maintained synthesis before raw evidence. Prefer the catalog for a fast map of compiled notes, then qmd:
+
+```bash
+python3 .tools/scripts/wiki_tool.py search-catalog --query "query terms"
+qmd search "query terms" -c bible-wiki --json -n 10
+.qmd/bin/semantic-wiki-safe "natural-language question" --json -n 10
+```
+
+Consult sources when the wiki is incomplete, a claim requires verification, or interpretations disagree:
+
+```bash
+qmd search "precise source terms" -c bible-sources --json -n 15
+qmd search "personal note terms" -c bible-sources --json -n 10
+```
+
+Use `qmd get` or `qmd multi-get` to retrieve the selected documents. Cite the local wiki and source pages used in the answer. File an answer in `wiki/questions/` only when the user requests it or explicitly approves preserving it as a durable investigation.
+
+On this server, do not use the full `qmd query` pipeline by default. Do not start a persistent qmd MCP or HTTP daemon. Query expansion and reranking load additional local models that are inappropriate for the machine's available memory. Combine lexical and wiki vector results in the agent instead.
+
+## qmd resource safety
+
+This server has limited CPU and memory. All routine index changes use the guarded scripts:
+
+- `.qmd/bin/update-safe` refreshes the SQLite/BM25 index inside a 768 MiB memory and 50% CPU limit.
+- `.qmd/bin/embed-wiki-safe` embeds only `bible-wiki`, requires at least 1.5 GiB available memory, prevents concurrent embedding, uses one CPU context, and runs inside a 1.4 GiB memory and 50% CPU limit.
+- `.qmd/bin/semantic-wiki-safe` runs an explicit vector-only, no-rerank query against `bible-wiki` under the same model, memory, CPU, and concurrency protections. Do not substitute bare `qmd vsearch`; qmd 2.5.3 attempted to initialize the large query-expansion model during validation.
+
+Do not embed `bible-sources` without explicit user approval and a separate bounded pilot. Files in `raw/` are never indexed or embedded. Do not remove the cgroup, batch-size, CPU, concurrency, or timeout protections. A killed or failed embedding job is preferable to placing other server services under memory pressure.
+
+Run `.qmd/bin/benchmark-lexical` for the resource-safe retrieval baseline. Do not use `qmd bench` on this server: it exercises vector, hybrid, and full-model backends, including models intentionally excluded from routine operation.
+
+## Lint workflow
+
+Periodic lint passes check:
+
+- required frontmatter and valid thematic tags;
+- valid Bible reference fields;
+- a frontmatter-free `index.md` in every content directory;
+- missing, broken, or ambiguous internal links;
+- orphan wiki pages and missing reciprocal navigation;
+- material claims without source links;
+- inaccurate `source_count` values;
+- unrecorded contradictions or stale synthesis;
+- important recurring subjects that deserve a concept page.
+
+Record lint work in `wiki/log.md` using `## [YYYY-MM-DD] lint | Scope`. The log is append-only except to correct an error in the entry currently being written.
+
+**Maintenance gate (before meaningful commits):**
+
+```bash
+python3 .tools/scripts/wiki_tool.py doctor
+python3 .tools/scripts/wiki_tool.py build
+python3 .tools/scripts/wiki_tool.py lint
+python3 .tools/scripts/wiki_tool.py source-lint
+python3 .tools/scripts/audit_public.py
+.qmd/bin/lint-wiki
+```
+
+Run `.qmd/bin/lint-wiki` after changing generated wiki pages or navigation. See `schema/lint-checklist.md` and `.agents/skills/llm-wiki-lint/SKILL.md`.
+
+## Agent skills
+
+| Skill | Path |
+|---|---|
+| Ingest | `.agents/skills/llm-wiki-ingest/SKILL.md` |
+| Query | `.agents/skills/llm-wiki-query/SKILL.md` |
+| Lint | `.agents/skills/llm-wiki-lint/SKILL.md` |
+| Maintain | `.agents/skills/llm-wiki-maintain/SKILL.md` |
+
+## Tooling reference
+
+See `schema/command-reference.md` for the full command list. Primary entry point:
+
+```bash
+python3 .tools/scripts/wiki_tool.py doctor|build|lint|source-scan|source-lint|source-delta|source-coverage|search-catalog|log
+python3 .tools/scripts/audit_public.py
+```

@@ -1,0 +1,36 @@
+global_context: |
+  A bilingual English and Spanish Bible-study knowledge base. Prefer the maintained wiki for synthesized answers. Consult source documents for verification, direct evidence, disagreements, and deeper context. Treat sources as immutable.
+collections:
+  bible-wiki:
+    path: /home/hermes/bible_vault_francisco/wiki
+    pattern: "**/*.md"
+    ignore:
+      - "**/index.md"
+      - log.md
+    includeByDefault: true
+    context:
+      /: LLM-maintained, source-backed synthesis for the Bible vault.
+      /concepts: Biblical doctrines, themes, and practices.
+      /people: Biblical people and relevant historical figures.
+      /passages: Syntheses organized around biblical passages.
+      /questions: Durable investigations, comparisons, and answered questions.
+      /source-notes: Summaries and evaluations of intentionally ingested sources.
+  bible-sources:
+    path: /home/hermes/bible_vault_francisco/sources
+    pattern: "**/*.md"
+    ignore:
+      - "**/index.md"
+    includeByDefault: false
+    context:
+      /: Immutable primary and secondary Bible-study source documents.
+      /commentaries-english/mhenry-complete: Complete Matthew Henry Bible commentary.
+      /commentaries-english/mhenry-concise: Concise Matthew Henry Bible commentary.
+      /commentaries-english/chspurgeon-sermons: Charles Spurgeon sermons.
+      /commentaries-english/chspurgeon-tod: Charles Spurgeon's Treasury of David.
+      /commentaries-english/chspurgeon-fcb: Charles Spurgeon's Faith's Checkbook devotionals.
+      /commentaries-english/chspurgeon-mae: Charles Spurgeon's Morning and Evening devotionals.
+      /personal-notes: Personal English and Spanish Bible-study, devotional, and ministry notes.
+models:
+  embed: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+  generate: hf:tobil/qmd-query-expansion-1.7B-gguf/qmd-query-expansion-1.7B-q4_k_m.gguf
+  rerank: hf:ggml-org/Qwen3-Reranker-0.6B-Q8_0-GGUF/qwen3-reranker-0.6b-q8_0.gguf

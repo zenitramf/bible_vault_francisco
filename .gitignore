@@ -1,2 +1,32 @@
-# Local search/index tooling, generated data, and environment configuration.
-.index/
+# qmd configuration is versioned; its generated local database is not.
+.qmd/index.sqlite
+.qmd/index.sqlite-*
+.qmd/*.sqlite-shm
+.qmd/*.sqlite-wal
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+
+# Obsidian local state (preserve vault basics; do not commit plugin/cache churn)
+.obsidian/workspace*.json
+.obsidian/plugins/
+.obsidian/cache/
+.obsidian/logs/
+.obsidian/graph.json
+.obsidian/community-plugins.json
+.obsidian/appearance.json
+.obsidian/app.json
+.obsidian/core-plugins.json
+.obsidian/hotkeys.json
+
+# Local drafts and private scratch
+Drafts/
+drafts/
+*.local.md
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/

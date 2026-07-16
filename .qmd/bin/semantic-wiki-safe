@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if (( $# == 0 )); then
+  printf 'Usage: %s <query> [qmd query options]\n' "$0" >&2
+  exit 2
+fi
+
+query=$1
+shift
+
+cd /home/hermes/bible_vault_francisco
+
+minimum_available_kib=1048576
+available_kib=$(awk '/^MemAvailable:/ { print $2 }' /proc/meminfo)
+
+if (( available_kib < minimum_available_kib )); then
+  printf 'Refusing semantic search: MemAvailable is %s KiB; at least %s KiB is required.\n' \
+    "$available_kib" "$minimum_available_kib" >&2
+  exit 1
+fi
+
+exec systemd-run --user --scope --quiet \
+  -p MemoryHigh=900M \
+  -p MemoryMax=1200M \
+  -p CPUQuota=50% \
+  -p IOWeight=10 \
+  env QMD_FORCE_CPU=1 QMD_EMBED_PARALLELISM=1 \
+  timeout 5m qmd query "vec: $query" \
+    --no-rerank \
+    -c bible-wiki \
+    "$@"

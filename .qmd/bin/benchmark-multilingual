@@ -1,0 +1,123 @@
+#!/usr/bin/env python3
+"""Run EN/ES lexical + guarded semantic-wiki checks for the Bible Vault."""
+
+from __future__ import annotations
+
+import json
+import subprocess
+import sys
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parents[2]
+FIXTURE = ROOT / ".qmd" / "multilingual-benchmark.json"
+
+
+def run_lexical(query: str, collection: str, top_k: int) -> list[dict]:
+    command = [
+        "qmd",
+        "search",
+        query,
+        "-c",
+        collection,
+        "--format",
+        "json",
+        "-n",
+        str(top_k),
+    ]
+    result = subprocess.run(
+        command,
+        cwd=ROOT,
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    return json.loads(result.stdout)
+
+
+def run_semantic(query: str, top_k: int) -> list[dict]:
+    command = [
+        str(ROOT / ".qmd" / "bin" / "semantic-wiki-safe"),
+        query,
+        "--format",
+        "json",
+        "-n",
+        str(top_k),
+    ]
+    result = subprocess.run(
+        command,
+        cwd=ROOT,
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    # semantic-wiki-safe may emit non-JSON noise; find JSON array
+    stdout = result.stdout.strip()
+    try:
+        return json.loads(stdout)
+    except json.JSONDecodeError:
+        start = stdout.find("[")
+        end = stdout.rfind("]")
+        if start >= 0 and end > start:
+            return json.loads(stdout[start : end + 1])
+        raise RuntimeError(f"Could not parse semantic output:\n{stdout[:500]}")
+
+
+def hit_blob(hits: list[dict]) -> str:
+    parts: list[str] = []
+    for hit in hits:
+        parts.append(str(hit.get("file", "")))
+        parts.append(str(hit.get("title", "")))
+        parts.append(str(hit.get("snippet", "")))
+    return "\n".join(parts)
+
+
+def matches_expected(blob: str, expected_substrings: list[str]) -> bool:
+    lower = blob.lower()
+    return any(sub.lower() in lower for sub in expected_substrings)
+
+
+def main() -> int:
+    fixture = json.loads(FIXTURE.read_text(encoding="utf-8"))
+    failures = 0
+    total = 0
+
+    for case in fixture["cases"]:
+        total += 1
+        top_k = int(case.get("expected_in_top_k", 5))
+        mode = case["mode"]
+        try:
+            if mode == "lexical":
+                hits = run_lexical(case["query"], case["collection"], top_k)
+            elif mode == "semantic-wiki":
+                hits = run_semantic(case["query"], top_k)
+            else:
+                print(f"FAIL {case['id']}: unknown mode {mode}")
+                failures += 1
+                continue
+        except subprocess.CalledProcessError as exc:
+            print(f"FAIL {case['id']}: command failed")
+            print(exc.stderr or exc.stdout or str(exc))
+            failures += 1
+            continue
+        except Exception as exc:  # noqa: BLE001
+            print(f"FAIL {case['id']}: {exc}")
+            failures += 1
+            continue
+
+        blob = hit_blob(hits)
+        passed = matches_expected(blob, case["expected_substrings"])
+        lang = case.get("lang", "?")
+        print(f"{'PASS' if passed else 'FAIL'} [{lang}/{mode}] {case['id']}")
+        if not passed:
+            failures += 1
+            files = [str(h.get("file", "")) for h in hits]
+            print(f"  expected one of substrings: {case['expected_substrings']}")
+            print(f"  returned files: {files}")
+
+    print(f"{total - failures}/{total} multilingual retrieval checks passed")
+    return 1 if failures else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

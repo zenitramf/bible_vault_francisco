@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd /home/hermes/bible_vault_francisco
+
+exec systemd-run --user --scope --quiet \
+  -p MemoryHigh=512M \
+  -p MemoryMax=768M \
+  -p CPUQuota=50% \
+  -p IOWeight=10 \
+  qmd update
