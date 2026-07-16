@@ -44,6 +44,9 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 
 ## Related pages
 
+- [[wiki/concepts/Stewardship|Stewardship]]
+- [[wiki/concepts/Word of God|Word of God]]
+
 - [[wiki/source-notes/Spurgeon Morning and Evening — June|Spurgeon Morning and Evening — June]]
 
 - [[wiki/concepts/Christ|Christ]]

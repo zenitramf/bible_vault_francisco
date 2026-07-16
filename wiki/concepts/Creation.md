@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Creation
 description: God's free, ordered work by word and Spirit, establishing his ownership and humanity in his image (Gen 1).
 tags: [creation, holy-spirit, christ]
-status: seed
+status: developing
 updated: 2026-07-16
 source_count: 2
 ---
@@ -27,11 +27,13 @@ Matthew Henry's Genesis 1 expositions present creation as the foundation of reli
 
 ## Agreements and tensions
 
+- Phase 5.2.2: Complete and Concise Henry already supply two families and multi-claim depth; Spurgeon-specific creation sermons remain a later thickening opportunity rather than a blocker for developing status.
+
 Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
 
 - Complete and Concise Henry agree closely on Creator sovereignty, word-creation, the Spirit's moving, the image of God, and new-creation analogy.
 - Henry repeatedly spiritualizes creation for pastoral application (chaos as unregenerate soul, light as first saving work). That application is explicit in the sources and should not be mistaken for a denial of historical creation.
-- This seed page is almost entirely Henry. Dedicated Spurgeon creation sermons were not among the strongest first-pass hits and remain a gap.
+- This page is almost entirely Henry. Dedicated Spurgeon creation sermons were not among the strongest first-pass hits and remain a gap.
 - Henry's chronology marker in the complete commentary headings is retained only as a source feature; the wiki synthesis does not depend on a particular dating scheme.
 
 ## Biblical passages
@@ -40,6 +42,12 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - bible_reference is omitted because the concept covers the whole chapter rather than a single verified verse range.
 
 ## Related pages
+
+- [[wiki/concepts/Sin and the Fall|Sin and the Fall]]
+- [[wiki/concepts/Word of God|Word of God]]
+
+- [[wiki/concepts/Sin and the Fall|Sin and the Fall]]
+- [[wiki/concepts/Word of God|Word of God]]
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 

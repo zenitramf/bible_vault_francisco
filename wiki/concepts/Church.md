@@ -40,6 +40,8 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 
 ## Related pages
 
+- [[wiki/concepts/Stewardship|Stewardship]]
+
 - [[wiki/source-notes/Spurgeon Sermons Volume 11|Spurgeon Sermons Volume 11]]
 - [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 

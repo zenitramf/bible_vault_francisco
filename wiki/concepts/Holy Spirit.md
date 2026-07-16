@@ -39,6 +39,8 @@ Key loci: John 14:15–17; John 16:7–14; Acts 2:1–4; Romans 8:1–27.
 
 ## Related pages
 
+- [[wiki/concepts/Intercession|Intercession]]
+
 - [[wiki/source-notes/Matthew Henry Concise on Acts|Matthew Henry Concise on Acts]]
 
 - [[wiki/source-notes/Matthew Henry Concise on John|Matthew Henry Concise on John]]

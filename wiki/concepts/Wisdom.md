@@ -66,6 +66,8 @@ Key loci in the present evidence:
 
 ## Related pages
 
+- [[wiki/concepts/Word of God|Word of God]]
+
 - [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Christ|Christ]]

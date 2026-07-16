@@ -44,6 +44,9 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 
 ## Related pages
 
+- [[wiki/concepts/Atonement|Atonement]]
+- [[wiki/concepts/Grace|Grace]]
+
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Justification|Justification]]

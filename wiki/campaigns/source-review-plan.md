@@ -102,11 +102,25 @@ Answer a sample of [[wiki/questions/Core Query Suite|Core Query Suite]] items fr
 
 **Anti-pattern:** Creating synonym stubs (e.g. Sanctification next to Holiness) without a source-driven distinction.
 
-### 5.3 — Plan `developing` → `reviewed`
+### 5.3 — Plan and execute `developing` → `reviewed`
 
-Write the promotion rubric, priority order, per-page checklist, and defer rules. Execution of promotions follows that plan (complete within 5.3 or as a subsequent phase if the plan says so). `reviewed` is never granted by coverage count alone.
+**Locked on tracker (5.3.0, 2026-07-16).** `reviewed` is never granted by coverage count alone.
 
-Draft bar: multi-claim, multi-source, substantive tensions, curated Related pages, accurate `source_count`, residual open questions only, no invented citations.
+| Subphase | Deliverable |
+|---|---|
+| **5.3.0** | Rubric R1–R10, priority bands P0–P4, checklist, defer rules, in-5.3 schedule |
+| **5.3.1** | Pilot: Salvation, Justification, Faith + suite smoke |
+| **5.3.2** | Gospel core remainder (Grace…Resurrection) |
+| **5.3.3** | Life/Spirit band |
+| **5.3.4** | Church band |
+| **5.3.5** | OT/word band |
+| **5.3.6** | Suite regression + residual defers + lint closeout |
+
+**Hard bar (summary):** ≥5 source-linked claims; ≥2 source families and ≥3 files; honest tensions; curated Related (no volume dumps); accurate `source_count`; residual open questions only; no invented citations. Soft: summary quality, Henry+Spurgeon balance on gospel hubs, Core Query Suite touchpoint.
+
+**Execution:** inside Phase 5.3 (not Phase 6). Expected early defers until thickened: Creation, Justice; possibly Hope, Intercession, Resurrection if R1–R2 still fail after second pass.
+
+See [[wiki/campaigns/tracker|campaign tracker]] §5.3 for full tables.
 
 ## Section units (Phase 4 coverage)
 

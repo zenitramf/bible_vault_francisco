@@ -30,6 +30,8 @@ No explicit verse is cited in the note. Related biblical oil/anointing imagery m
 
 ## Related pages
 
+- [[wiki/concepts/Intercession|Intercession]]
+
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]

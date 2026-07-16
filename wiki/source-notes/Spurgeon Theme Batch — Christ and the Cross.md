@@ -30,6 +30,9 @@ Hub passages vary by sermon (see individual sermon `bible_reference` fields wher
 
 ## Related pages
 
+- [[wiki/concepts/Atonement|Atonement]]
+- [[wiki/concepts/Grace|Grace]]
+
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Redemption|Redemption]]
 - [[wiki/concepts/Salvation|Salvation]]

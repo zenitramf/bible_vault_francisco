@@ -38,6 +38,8 @@ Key loci: 2 Peter 1:19–21; Jeremiah 23:9–32; 1 Corinthians 14:1–5.
 
 ## Related pages
 
+- [[wiki/concepts/Hope|Hope]]
+
 - [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 - [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 

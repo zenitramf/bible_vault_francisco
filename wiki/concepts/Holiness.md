@@ -40,6 +40,8 @@ Key loci: 1 Peter 1:13–21; John 17:17; Hebrews 10:14; Romans 6; Romans 8:1–1
 
 ## Related pages
 
+- [[wiki/concepts/Repentance|Repentance]]
+
 - [[wiki/source-notes/Spurgeon Morning and Evening — January|Spurgeon Morning and Evening — January]]
 
 - [[wiki/source-notes/Matthew Henry Concise on 1 Peter|Matthew Henry Concise on 1 Peter]]

@@ -41,6 +41,9 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33.
 
 ## Related pages
 
+- [[wiki/concepts/Intercession|Intercession]]
+- [[wiki/concepts/Repentance|Repentance]]
+
 - [[wiki/source-notes/Spurgeon Treasury of David Volume 6|Spurgeon Treasury of David Volume 6]]
 
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]

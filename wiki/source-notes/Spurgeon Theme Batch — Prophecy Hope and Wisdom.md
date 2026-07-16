@@ -29,6 +29,9 @@ Hub passages vary by sermon (see individual sermon `bible_reference` fields wher
 
 ## Related pages
 
+- [[wiki/concepts/Hope|Hope]]
+- [[wiki/concepts/Grace|Grace]]
+
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Christ|Christ]]

@@ -30,6 +30,8 @@ Hub passages vary by sermon (see individual sermon `bible_reference` fields wher
 
 ## Related pages
 
+- [[wiki/concepts/Intercession|Intercession]]
+
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]

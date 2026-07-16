@@ -372,3 +372,19 @@ append_only: true
 - lint/doctor enforce pairing; root must not have index.base
 - wiki folder index.md files link Live database view
 - docs/skills updated (AGENTS, command-reference, lint-checklist, naming, maintain skill)
+
+## [2026-07-16] campaign | Phase 5.2.0 baseline inventory
+
+- Concept inventory: 20 Biblical Concept pages (15 developing, 5 seed, 0 reviewed). Harvested 13 high-signal source-notes (5 Spurgeon theme batches, 2 FCB/MAE enrichments, Complete hub deepening, 5 personal notes); skipped volume/month inventory digests for theme harvest. Gap decisions for 5.2.1: 10 create (Grace, Atonement, Hope, Intercession, Repentance, Word of God/Scripture, Sin and the Fall, Resurrection, Suffering/Affliction, Stewardship); 6 defer (Adoption, Assurance, Providence, Love, Kingdom, Election); 2 merge (Unity→Church, Sanctification→Holiness). Seed thinness: Spiritual Warfare near bar (13 sources); Christ-Centered Ministry thinnest (1). Tracker 5.2.0 marked reviewed; 5.2 overall in_progress.
+
+## [2026-07-16] campaign | Phase 5.2.1 expand seed concepts
+
+- Created 10 seed concept pages: Grace, Atonement, Hope, Intercession, Repentance, Word of God, Sin and the Fall, Resurrection, Suffering, Stewardship. Each has multi-claim source-linked core claims, agreements/tensions, related mesh. Linked from parent theme batches, FCB/MAE enrichments, Complete hub, personal notes, and hub concepts (Salvation, Redemption, Prayer, etc.). Concept count 20→30 (15 developing, 15 seed). Deferred/merge decisions from 5.2.0 unchanged. Next: 5.2.2 deepen seeds to developing.
+
+## [2026-07-16] campaign | Phase 5.2.2 deepen seeds to developing
+
+- Promoted all 15 former seed concepts to developing. Wave A: Creation, Worship (+Ps 100/150, ToD 150, MAE). Wave B: Pastoral Ministry (+Gómez duty), Spiritual Warfare (status), Christ-Centered Ministry full rewrite (Henry 1 Tim 1, 2 Cor 3/12, personal 1:12, Spurgeon Feed My Sheep). Wave C: Grace, Atonement, Hope, Intercession, Repentance, Word of God, Sin and the Fall, Resurrection, Suffering, Stewardship thickened with additional source families/claims. Result: 30 Biblical Concept pages, all developing, 0 seed. Phase 5.2 overall reviewed. Next: 5.3 plan developing→reviewed.
+
+## [2026-07-16] campaign | Phase 5.3.0 promotion plan locked
+
+- Wrote full developing→reviewed promotion plan on tracker 5.3: hard/soft rubric R1–R10; source-family table; priority bands P0 pilot (Salvation, Justification, Faith) → P1 gospel → P2 life/Spirit → P3 church → P4 OT/word; 8-step second-pass checklist; anti-patterns and defer rules; expected thin risks (Creation, Justice; possibly Hope/Intercession/Resurrection). Execution schedule: inside 5.3 as subphases 5.3.1–5.3.6 (no Phase 6 split). Synced source-review-plan.md. Next: 5.3.1 pilot promotions.

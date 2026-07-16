@@ -39,6 +39,9 @@ Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 
 
 ## Related pages
 
+- [[wiki/concepts/Atonement|Atonement]]
+- [[wiki/concepts/Resurrection|Resurrection]]
+
 - [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 - [[wiki/source-notes/Spurgeon Sermons Volume 1|Spurgeon Sermons Volume 1]]
 

@@ -32,6 +32,9 @@ Varies by daily entry (see individual files).
 
 ## Related pages
 
+- [[wiki/concepts/Sin and the Fall|Sin and the Fall]]
+- [[wiki/concepts/Stewardship|Stewardship]]
+
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Christ|Christ]]

@@ -54,6 +54,9 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 
 ## Related pages
 
+- [[wiki/concepts/Hope|Hope]]
+- [[wiki/concepts/Grace|Grace]]
+
 - [[wiki/source-notes/Spurgeon Faith's Checkbook — January|Spurgeon Faith's Checkbook — January]]
 - [[wiki/source-notes/Spurgeon Sermons Volume 21|Spurgeon Sermons Volume 21]]
 

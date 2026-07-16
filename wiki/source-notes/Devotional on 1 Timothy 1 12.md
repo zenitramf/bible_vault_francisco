@@ -38,6 +38,8 @@ This seed summary represents one devotional source. It should not yet be treated
 
 ## Related pages
 
+- [[wiki/concepts/Stewardship|Stewardship]]
+
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/questions/What Sustains Christian Ministry|What Sustains Christian Ministry?]]
 

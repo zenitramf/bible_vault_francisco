@@ -3,9 +3,9 @@ type: Biblical Concept
 title: Spiritual Warfare
 description: The Christian life as a real war against the devil, principalities and powers, fought with spiritual weapons and the whole armor of God (Eph 6:10–18; 1 Pe 5:8–9; Jas 4:7; Mt 4:1–11).
 tags: [christ, holy-spirit, holiness, discipleship, christian-life]
-status: seed
+status: developing
 updated: 2026-07-16
-source_count: 13
+source_count: 12
 ---
 
 # Spiritual Warfare
@@ -31,18 +31,26 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 
 ## Agreements and tensions
 
+- Phase 5.2.2: multi-source multi-claim bar already met (Henry, Spurgeon sermons, FCB, personal pastoral note); status raised to developing without inventing demonology beyond the corpus.
+
 - Henry and Spurgeon agree on the reality of the enemy, the spiritual (not carnal) character of the weapons, the necessity of standing firm in the Lord's strength, and the certainty of victory for the believer who resists steadfastly.
 - Henry's exposition of the armor is systematic, walking piece by piece through truth, righteousness, peace, faith, salvation, the Word, and prayer; Spurgeon's sermons apply the same elements exhortatively and at length (Sermon 416 on the Shield, Sermon 2201 on the Sword, Sermon 3143 on the Shoes, Sermon 3466 on Standing).
 - Henry emphasizes the devil as the grand accuser and persecutor; Spurgeon emphasizes his subtlety and ceaseless assault. Both belong to a full doctrine of the warfare.
 - Henry treats Christ's temptation (Mt 4) as the pattern for resistance ("It is written"); Spurgeon treats the believer's own conflict as the standing pattern, with Christ's victory supplying the ground of confidence.
 - The Spanish pastoral note by Pastor Andrés Gómez names the pastor's interior war and his wife's role in sustaining him — a pastoral angle the English commentaries do not develop. The note is a single seed and should not yet be treated as a comprehensive treatment of ministry warfare.
-- This seed does not develop a full demonology, the question of territorial spirits, deliverance ministry, or binding and loosing in the strict sense. The corpus here is silent on those questions, and that silence should be acknowledged rather than papered over with speculation.
+- This page does not yet develop a full demonology, the question of territorial spirits, deliverance ministry, or binding and loosing in the strict sense. The corpus here is silent on those questions, and that silence should be acknowledged rather than papered over with speculation.
 
 ## Biblical passages
 
 Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Romans 13:12; 2 Corinthians 6:7; 2 Corinthians 10:4; Genesis 3:1–15.
 
 ## Related pages
+
+- [[wiki/concepts/Surrender|Surrender]]
+- [[wiki/passages/Ephesians 6|Ephesians 6]]
+
+- [[wiki/concepts/Sin and the Fall|Sin and the Fall]]
+- [[wiki/concepts/Suffering|Suffering]]
 
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
@@ -69,7 +77,6 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[sources/commentaries_english/chspurgeon-sermons/volume-55/sermon_3143|Spurgeon, Sermon 3143: Shoes for Pilgrims and Warriors]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-61/sermon_3466|Spurgeon, Sermon 3466: A Warning to Believers]]
 - [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|Pastor Andrés Gómez, The Pastor and His Church]]
-- [[wiki/source-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|The Pastor and His Church — Pastor Andrés Gómez]]
 
 ## Open questions
 

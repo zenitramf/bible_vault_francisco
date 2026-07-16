@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Pastoral Ministry
 description: Qualified oversight and feeding of Christ's flock for the church's edification (1 Tim 3; 1 Pet 5; Jn 21:16).
 tags: [pastoral-ministry, church, christ, discipleship]
-status: seed
+status: developing
 updated: 2026-07-16
 source_count: 4
 ---
@@ -23,7 +23,12 @@ Pastoral ministry in the sources is an office of feeding, overseeing, and exempl
 - Personal pastoral teaching presents sheep as dependent and easily lost, and pastors as responsible to feed, warn, and guide for the church's perfection under Ephesians 4:11–16. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#La condición de las ovejas|Pastor Andrés Gómez notes]] [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#Las responsabilidades de un pastor|Pastor Andrés Gómez notes]]
 - Pastoral ministry is already connected in the wiki to Christ-enabled stewardship. [[wiki/concepts/Christ-Centered Ministry#Core claims|Christ-Centered Ministry]]
 
+- The church is designed for mutual harmony: no healthy church without biblical leadership, and no successful ministry without a committed congregation; the pastorate is a gift for the church’s perfection and edification (Eph 4:11–16), not a common job. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#Resumen principal|Pastor Andrés Gómez notes]]
+- The church must honor, remember, pray for, and work united with its pastors. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#El deber de la iglesia|Pastor Andrés Gómez notes]]
+
 ## Agreements and tensions
+
+- Phase 5.2.2: Gómez’s church-duty section complements English commentary on feeding and qualifications; expand later from Hebrews 13 and 1 Thessalonians 5 without inventing local polity.
 
 - Henry, Spurgeon, and the Gómez notes agree that pastoring is flock-care under Christ rather than self-advancement.
 - Henry stresses formal qualifications and motives; Spurgeon stresses love-driven feeding; the Spanish personal note stresses sheeply dependence and concrete pastoral responsibilities. These emphases complement rather than cancel one another.
@@ -34,6 +39,11 @@ Pastoral ministry in the sources is an office of feeding, overseeing, and exempl
 Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16.
 
 ## Related pages
+
+- [[wiki/concepts/Stewardship|Stewardship]]
+- [[wiki/passages/Ephesians 4|Ephesians 4]]
+
+- [[wiki/concepts/Stewardship|Stewardship]]
 
 - [[wiki/source-notes/Matthew Henry Concise on 1 Peter|Matthew Henry Concise on 1 Peter]]
 

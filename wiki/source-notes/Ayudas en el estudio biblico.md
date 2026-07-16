@@ -31,6 +31,8 @@ No single primary passage; method applies to any text under study.
 
 ## Related pages
 
+- [[wiki/concepts/Word of God|Word of God]]
+
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/questions/Core Query Suite|Core Query Suite]]

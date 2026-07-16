@@ -31,6 +31,8 @@ Hub passages vary by sermon (see individual sermon `bible_reference` fields wher
 
 ## Related pages
 
+- [[wiki/concepts/Stewardship|Stewardship]]
+
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
 - [[wiki/concepts/Discipleship|Discipleship]]

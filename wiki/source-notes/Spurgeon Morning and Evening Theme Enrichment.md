@@ -32,6 +32,9 @@ Varies by daily entry (see individual files).
 
 ## Related pages
 
+- [[wiki/concepts/Resurrection|Resurrection]]
+- [[wiki/concepts/Atonement|Atonement]]
+
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Christ|Christ]]

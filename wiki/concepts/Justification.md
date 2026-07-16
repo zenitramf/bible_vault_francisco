@@ -37,6 +37,9 @@ Key loci: Romans 3:19–31; Romans 4; Romans 5:1–11; Romans 6:1–2; Genesis 1
 
 ## Related pages
 
+- [[wiki/concepts/Grace|Grace]]
+- [[wiki/concepts/Atonement|Atonement]]
+
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Redemption|Redemption]]
