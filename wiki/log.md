@@ -109,3 +109,7 @@ append_only: true
 - Converted vault-internal Markdown links in navigation and wiki pages to Obsidian wikilinks.
 - Updated `wiki_tool.py` to generate and lint Obsidian-style internal links.
 - Validation passed: `doctor`, `lint`, `source-lint`, `audit_public`, `.qmd/bin/lint-wiki`.
+
+## [2026-07-16] campaign | Phase 4 plan — full remaining-corpus coverage
+
+- Tracker and source-review-plan now define Phase 4 for 100% wiki coverage of chspurgeon-sermons, mhenry-complete, chspurgeon-tod, chspurgeon-fcb, chspurgeon-mae (~5.5k uncovered files). Subphases 4.0–4.7 with zero-uncovered gates; former QA polish moved to Phase 5. No content ingest yet.

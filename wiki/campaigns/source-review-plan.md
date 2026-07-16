@@ -1,7 +1,7 @@
 ---
 type: Campaign Plan
 title: Source-review plan
-description: Section-by-section campaign to flesh out the wiki as the primary retrieval surface.
+description: Section-by-section campaign to flesh out the wiki as the primary retrieval surface, including full remaining-corpus coverage in Phase 4.
 tags: [christian-life]
 status: developing
 updated: 2026-07-16
@@ -54,28 +54,42 @@ Make the compiled wiki dense enough that ordinary biblical and pastoral question
 - Material claims cite full-path source wikilinks.
 - No invented citations.
 - Status: `seed` → `developing` when multi-source and multi-claim; `reviewed` only after a second pass or explicit QA.
-- Prefer synthesis density over coverage percentage.
-- Do not create empty stubs or one wiki page per Spurgeon sermon.
+- Prefer synthesis density over empty stubs; **Phase 4 additionally requires full file coverage** of remaining corpora (see tracker).
+- Do not create empty stubs. For Spurgeon sermons, prefer **volume source-notes that cite every sermon file** over one wiki page per sermon.
 
 ## Phase order
 
 1. **Phase 0** — Operating system (this plan, tracker, core query suite). **Done.**
 2. **Phase 1** — Personal notes (vault voice). **Done.**
 3. **Phase 2** — mhenry-concise NT backbone. **Done.**
-4. **Phase 3** — Remaining source ingest. **Done** (see tracker):
-   - **3.1** mhenry-concise OT priority (Genesis, Psalms, Isaiah, Proverbs)
-   - **3.2** mhenry-concise OT remainder (all other OT books)
-   - **3.3** Spurgeon sermons as theme/hub batches (not sequential)
-   - **3.4** Treasury of David (Psalm / volume + hub thickening)
-   - **3.5** mhenry-complete hub deepening (on demand hubs)
-   - **3.6** FCB / MAE thematic enrichment (not calendar mirror)
-   - **3.7** articles / books / transcripts empty waiting state
-   - **3.8** Concept mesh checkpoint (continuous; hubs at `developing`)
-5. **Phase 4+** — QA polish: query-suite smokes, second-pass concept `reviewed`, lint sweeps. **Queued.**
+4. **Phase 3** — Selective remaining ingest (concise OT full; others partial). **Done.**
+5. **Phase 4** — **Full remaining-corpus coverage** into the wiki layer (see tracker):
+   - **4.0** Coverage baseline and commit-per-subphase discipline
+   - **4.1** mhenry-complete 100% (by Complete volume; thicken passage atlas)
+   - **4.2** chspurgeon-tod 100% (every psalm file / volume)
+   - **4.3** chspurgeon-sermons 100% (volume source-notes listing every sermon)
+   - **4.4** chspurgeon-fcb 100% (month source-notes listing every day)
+   - **4.5** chspurgeon-mae 100% (month source-notes listing every day)
+   - **4.6** Concept mesh during slices
+   - **4.7** Coverage closeout (0 uncovered in the five corpora)
+6. **Phase 5** — QA polish: query-suite smokes, second-pass concept `reviewed`, lint sweeps. **Queued after Phase 4.**
+
+## Section units (Phase 4 coverage)
+
+| Corpus | Section unit | Coverage product |
+|---|---|---|
+| mhenry-complete | Complete volume (1–6) / book | Passage thicken + links to every Complete chapter file |
+| chspurgeon-tod | ToD volume / psalm | Every psalm file linked; Psalm passage pages thickened |
+| chspurgeon-sermons | Sermon volume (1–63), reviewed in bands | Volume source-note Sources list = all sermon files |
+| chspurgeon-fcb | Calendar month | Month source-note Sources list = all day files |
+| chspurgeon-mae | Calendar month | Month source-note Sources list = all day files |
+
+A tracker row is `reviewed` only when uncovered count for that path scope is **zero**.
 
 ## Anti-goals
 
-- Mass-ingest to inflate coverage %.
+- Inflating coverage with empty stubs or broken links.
+- One wiki page per Spurgeon sermon (use volume digests with full file lists instead).
 - Rewriting `sources/` or `raw/`.
 - Embedding full `bible-sources` without approval.
 - Flattening Henry and Spurgeon into false consensus.

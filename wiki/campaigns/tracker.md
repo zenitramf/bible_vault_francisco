@@ -1,7 +1,7 @@
 ---
 type: Campaign Tracker
 title: Source-review campaign tracker
-description: Section status for the wiki flesh-out campaign.
+description: Section status for full source→wiki ingest; Phase 4 tracks 100% coverage of remaining corpora.
 tags: [christian-life]
 status: developing
 updated: 2026-07-16
@@ -163,10 +163,151 @@ Track promotion status as source slices land. Status values here may be `seed` /
 
 | **Phase 3 overall** | **reviewed** | **All 3.1–3.8 subphases completed 2026-07-16** |
 
-## Phase 4+ (optional QA / polish)
+## Phase 4 — Full remaining-corpus coverage
+
+**Goal:** every content file under the five remaining corpora has at least one wiki `covered_by` link (passage page, source-note, and/or concept claim). Phase 3 left these intentionally thin; Phase 4 finishes **full source → wiki** ingest for tracker-visible completion.
+
+**Baseline (content `.md`, excl. index/LICENSE; ~2026-07-16):**
+
+| Corpus | Files | Covered | Uncovered | Target |
+|---|---:|---:|---:|---|
+| `chspurgeon-sermons` | 3,536 | ~27 | ~3,509 | 100% covered |
+| `mhenry-complete` | 1,189 | ~42 | ~1,147 | 100% covered |
+| `chspurgeon-fcb` | 366 | ~6 | ~360 | 100% covered |
+| `chspurgeon-mae` | 366 | ~7 | ~359 | 100% covered |
+| `chspurgeon-tod` | 171 | ~19 | ~152 | 100% covered |
+| **Phase 4 total** | **~5,628** | **~101** | **~5,527** | **0 uncovered** |
+
+**Completion rule:** a section is `reviewed` only when `wiki_tool.py source-scan` / coverage shows **zero uncovered content files** in that section’s path scope. Commit once per completed sub-row or volume-band.
+
+**Ingest shapes (full coverage without empty stubs):**
+
+| Corpus | Wiki product per unit | Unit |
+|---|---|---|
+| mhenry-complete | Thicken matching `wiki/passages/*` with Complete claims + links; book/volume source-note lists every chapter file | Complete volume / book |
+| chspurgeon-tod | Thicken every `wiki/passages/Psalm N` with ToD; volume source-note lists every psalm file | ToD volume / psalm |
+| chspurgeon-sermons | **Volume source-note** citing every sermon file in the volume (digest claims + full Sources list); mesh themes into concepts — **not** one wiki page per sermon | Sermon volume (1–63) |
+| chspurgeon-fcb | **Month source-note** citing every daily entry that month | Calendar month |
+| chspurgeon-mae | **Month source-note** citing every morning/evening entry that month | Calendar month |
+
+### 4.0 — Phase 4 operating gate
 
 | Section | Status | Notes |
 |---|---|---|
-| Core Query Suite smoke after each 3.x slice | pending | Wiki-only sample answers |
+| Coverage baseline recorded | pending | Re-run `source-scan`; record uncovered counts in log |
+| Coverage helper command documented | pending | e.g. filter manifest by corpus path for zero-uncovered checks |
+| Commit-per-subphase discipline | pending | One git commit when each tracker row below flips to `reviewed` |
+
+### 4.1 — Matthew Henry Complete (full chapter coverage)
+
+Thicken the existing concise passage atlas with Complete on every matching chapter; ensure every `sources/.../mhenry-complete/**/*.md` content file is linked from wiki.
+
+| Section | Status | Approx. files | Notes |
+|---|---|---:|---|
+| Volume 1 (Gen–Deut) | pending | ~188 | Pentateuch Complete → passage thicken + book notes |
+| Volume 2 (Josh–Esth) | pending | ~250 | Historical books |
+| Volume 3 (Job–Song) | pending | ~244 | Poetry/wisdom (incl. Psalms Complete files) |
+| Volume 4 (Isa–Mal) | pending | ~251 | Prophets |
+| Volume 5 (Gospels) | pending | ~90 | Mt–Jn Complete |
+| Volume 6 (Acts–Rev) | pending | ~172 | Acts–Revelation Complete |
+| **4.1 Complete 100%** | **pending** | **~1,189** | Gate: 0 uncovered under `mhenry-complete/` |
+
+### 4.2 — Treasury of David (every psalm file)
+
+Every ToD psalm source file linked; every corresponding `wiki/passages/Psalm N` carries at least one ToD claim/link where a ToD file exists.
+
+| Section | Status | Approx. files | Notes |
+|---|---|---:|---|
+| Volume 1 (Pss ~1–26) | pending | 26 | Finish non-hub psalms after Phase 3 hubs |
+| Volume 2 (Pss ~27–52) | pending | 26 | |
+| Volume 3 (Pss ~53–78) | pending | 26 | |
+| Volume 4 (Pss ~79–103) | pending | 25 | |
+| Volume 5 (Pss ~104–118) | pending | 15 | |
+| Volume 6 (Pss ~119–124) | pending | 5 + Ps 119 tree | Include all `psalm-119/**` content files |
+| Volume 7 (Pss ~125–150) | pending | 26 | |
+| **4.2 ToD 100%** | **pending** | **~171** | Gate: 0 uncovered under `chspurgeon-tod/` |
+
+### 4.3 — Spurgeon sermons (all volumes, full file coverage)
+
+One reviewed row per volume band (or per volume if splitting commits). Each volume’s source-note **must list every sermon file** so coverage hits 100%.
+
+| Section | Status | Approx. sermons | Notes |
+|---|---|---:|---|
+| Volumes 1–10 | pending | ~576 | Early New Park Street / Tabernacle |
+| Volumes 11–20 | pending | ~602 | |
+| Volumes 21–30 | pending | ~616 | Includes prior hub sermons already linked |
+| Volumes 31–40 | pending | ~566 | |
+| Volumes 41–50 | pending | ~522 | |
+| Volumes 51–60 | pending | ~524 | |
+| Volumes 61–63 | pending | ~124 | Final volumes (vol 63 smaller) |
+| **4.3 Sermons 100%** | **pending** | **~3,536** | Gate: 0 uncovered under `chspurgeon-sermons/` |
+
+Optional finer tracking (mark when used): individual volume rows may be expanded under a working note; the bands above are the commit/review units.
+
+### 4.4 — Faith's Checkbook (full calendar)
+
+| Section | Status | Days | Notes |
+|---|---|---:|---|
+| January | pending | 31 | Month source-note lists all `january-*.md` |
+| February | pending | 29 | |
+| March | pending | 31 | |
+| April | pending | 30 | |
+| May | pending | 31 | |
+| June | pending | 30 | |
+| July | pending | 31 | |
+| August | pending | 31 | |
+| September | pending | 30 | |
+| October | pending | 31 | |
+| November | pending | 30 | |
+| December | pending | 31 | |
+| **4.4 FCB 100%** | **pending** | **~366** | Gate: 0 uncovered under `chspurgeon-fcb/` |
+
+### 4.5 — Morning and Evening (full calendar)
+
+| Section | Status | Days | Notes |
+|---|---|---:|---|
+| January | pending | 31 | Month source-note lists all day files |
+| February | pending | 29 | |
+| March | pending | 31 | |
+| April | pending | 30 | |
+| May | pending | 31 | |
+| June | pending | 30 | |
+| July | pending | 31 | |
+| August | pending | 31 | |
+| September | pending | 30 | |
+| October | pending | 31 | |
+| November | pending | 30 | |
+| December | pending | 31 | |
+| **4.5 MAE 100%** | **pending** | **~366** | Gate: 0 uncovered under `chspurgeon-mae/` |
+
+### 4.6 — Concept mesh during full ingest
+
+Fan durable claims into concepts as each 4.1–4.5 slice lands (do not wait for 100% to mesh).
+
+| Section | Status | Notes |
+|---|---|---|
+| Mesh after each Complete volume | pending | Prefer tensions with Concise on same passage |
+| Mesh after each ToD volume | pending | Prayer / Worship / Christ in the Psalms |
+| Mesh after each sermon volume band | pending | Theme tags → concept pages; record Henry vs Spurgeon tensions |
+| Mesh after each FCB/MAE month | pending | Light applicative claims only; doctrine stays on fuller sources |
+| Hub concepts stay multi-source | pending | No false consensus |
+
+### 4.7 — Phase 4 coverage closeout
+
+| Section | Status | Notes |
+|---|---|---|
+| `source-scan --update --accept-covered` | pending | Manifest matches disk |
+| Uncovered count = 0 for five corpora | pending | Sermons, Complete, FCB, MAE, ToD |
+| `wiki_tool.py lint` + `source-lint` | pending | Clean gate |
+| Catalog rebuild + `update-safe` | pending | Wiki BM25 current |
+| Log entry `campaign \| Phase 4 complete` | pending | |
+| **Phase 4 overall** | **pending** | **Full remaining-corpus ingest into wiki layer** |
+
+## Phase 5 — QA polish (after Phase 4 coverage)
+
+| Section | Status | Notes |
+|---|---|---|
+| Core Query Suite smoke | pending | Wiki-only sample answers |
 | Second-pass concept `reviewed` | pending | Multi-source, multi-claim, explicit QA |
-| Coverage / orphan lint sweeps | pending | `wiki_tool` + `audit_public` |
+| Coverage / orphan lint sweeps | pending | Ongoing hygiene |
+| Optional embed refresh | pending | Only with approval; never full `bible-sources` without OK |
