@@ -219,3 +219,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.4 FCB January + front matter
 
 - Month source-note for FCB January (31 day files) plus root preface/verses. Zero-uncovered for month path and root files.
+
+## [2026-07-16] campaign | Phase 4.4 FCB February
+
+- Month source-note for FCB February (29 files). --require-zero OK.
