@@ -83,13 +83,27 @@ Uses `intfloat/multilingual-e5-small` via **quantized ONNX** (Xenova export) + o
 .qmd/bin/e5-encode info --download
 ```
 
-Cache: `~/.cache/bible_vault_e5` (or `$BIBLE_VAULT_E5_CACHE`). Ready for `sources_e5` upsert (phase 4).
+Cache: `~/.cache/bible_vault_e5` (or `$BIBLE_VAULT_E5_CACHE`).
+
+## Sources dense pilot (phase 4)
+
+Default corpus: **mhenry-concise** (~4.8k chunks after heading-aware split).
+
+```bash
+.qmd/bin/qdrant-sources-upsert --corpus mhenry-concise
+.qmd/bin/qdrant-sources-upsert --dry-run
+.qmd/bin/qdrant-sources-upsert --limit-files 20   # smoke
+.qmd/bin/qdrant-sources-search "how to pray without hypocrisy" --corpus mhenry-concise
+.qmd/bin/qdrant-sources-search "creation of light" --book-key 1 --limit 5
+```
+
+Pilot metrics (this host): ~12.5 min wall · ~735 s embed · ~8 s upsert · ~846 MiB max RSS · `sources_e5` **4871** points green.
 
 ## Agent retrieval order (target)
 
 1. `wiki_tool.py search-catalog`
 2. Qdrant `wiki_bm25` (sparse) — **implemented**
-3. Qdrant `sources_e5` (dense, E5 query prefix) — encoder ready; upsert next
+3. Qdrant `sources_e5` (dense, E5 query prefix) — **pilot (mhenry-concise) implemented**
 4. Open `vault_rel_path` on disk for citations
 
 Local `qmd` BM25 may remain as a transitional lexical channel for sources.

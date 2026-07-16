@@ -73,6 +73,8 @@ python3 .tools/scripts/qdrant_bootstrap.py   # empty collections + indexes
 .qmd/bin/qdrant-wiki-upsert                  # sparse BM25 → wiki_bm25
 .qmd/bin/qdrant-wiki-search "prayer"         # search wiki
 .qmd/bin/e5-encode self-test                 # local multilingual-e5-small (ONNX)
+.qmd/bin/qdrant-sources-upsert               # dense E5 → sources_e5 (mhenry-concise pilot)
+.qmd/bin/qdrant-sources-search "how to pray" # dense source search
 ```
 
 Requires `QCLOUD_BIBLE_CLUSTER_API_KEY`. Embeddings stay local; Qdrant stores vectors + vault-linked payload only.
