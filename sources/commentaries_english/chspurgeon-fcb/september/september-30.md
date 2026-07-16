@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # Sept. 30 - Needs To Open Our Mouths
 
-*"Open thy mouth wide, and I will fill it"* &mdash; Ps. 81:10
+*"Open thy mouth wide, and I will fill it"* — Ps. 81:10
 
 What an encouragement to pray! Our human notions would lead us to ask small things because our deservings are so small; but the Lord would have us request great blessings. Prayer should be as simple a matter as the opening of the mouth; it should be a natural, unconstrained utterance. When a man is earnest he opens his mouth wide, and our text urges us to be fervent in our supplications.
 

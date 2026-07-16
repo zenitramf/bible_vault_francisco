@@ -10,7 +10,7 @@ tags: [christ, faith, holiness]
 ---
 # March 28 - Lead The Way
 
-*"The Lord shall make thee the head, and not the tail"* &mdash; Deut. 28:13
+*"The Lord shall make thee the head, and not the tail"* — Deut. 28:13
 
 If we obey the Lord, He will compel our adversaries to see that His blessing rests upon us. Though this be a promise of the law, yet it stands good to the people of God; for Jesus has removed the curse, but He has established the blessing.
 

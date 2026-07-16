@@ -10,7 +10,7 @@ tags: [faith, providence]
 ---
 # Sept. 18 - Complete Safety
 
-*"And of Benjamin he said, The beloved of the Lord shall dwell in safety by him; and the Lord shall cover him all the day long, and he shall dwell between his shoulders"* &mdash; Deut. 33:12
+*"And of Benjamin he said, The beloved of the Lord shall dwell in safety by him; and the Lord shall cover him all the day long, and he shall dwell between his shoulders"* — Deut. 33:12
 
 Yes, there is no safety like that which comes of dwelling near to God. For His best beloved the Lord can find no surer or safer place. O Lord, let me always abide under thy shadow, close to thy wounded side. Nearer and nearer would I come to thee, my Lord; and when once specially near thee, I would abide there for ever.
 

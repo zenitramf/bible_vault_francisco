@@ -51,6 +51,6 @@
 * [Sermon 2806 | \"Jesus Our Lord\"](sermon_2806.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2807 | Spared!](sermon_2807.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2808 | The Disowned](sermon_2808.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2809 | Faith&mdash;life](sermon_2809.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2809 | Faith—life](sermon_2809.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2810 | \"Nevertheless at Your Word\"](sermon_2810.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2811 | Moving](sermon_2811.md) - A sermon by Charles H. Spurgeon.

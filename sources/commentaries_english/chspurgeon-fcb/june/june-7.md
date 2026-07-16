@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # June 7 - The Safest Place
 
-*"And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."* &mdash; John 10:28
+*"And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."* — John 10:28
 
 We believe in the eternal security of the saints. First, because they are Christ's, and He will never lose the sheep which He has bought with His blood, and received of His Father.
 

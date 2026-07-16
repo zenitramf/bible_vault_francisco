@@ -11,7 +11,7 @@ tags: [grace, faith, christian-life]
 ---
 # June 5 - Is There A Difference?
 
-*"But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the Lord doth put a difference between the Egyptians and Israel."* &mdash; Exod. 11:7
+*"But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the Lord doth put a difference between the Egyptians and Israel."* — Exod. 11:7
 
 What! Has God power over the tongues of dogs? Can he keep curs from barking? Yes, it is even so. He can even prevent an Egyptian dog from worrying one of the lambs of Israel's flock. Doth God silence dogs, and doggish ones among men, and the great dog at hell's gate? Then let us move on our way without fear.
 

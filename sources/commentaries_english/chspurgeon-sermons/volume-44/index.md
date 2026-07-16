@@ -12,7 +12,7 @@
 * [Sermon 2557 | A Vexed Soul Comforted](sermon_2557.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2558 | Songs in the Night](sermon_2558.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2559 | Co-workers With God](sermon_2559.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2560 | Universal Fatherhood&mdash;a Lie!](sermon_2560.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2560 | Universal Fatherhood—a Lie!](sermon_2560.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2561 | \"Noli Me Tangere\" (\"Touch Me Not\")](sermon_2561.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2562 | Cries From the Cross](sermon_2562.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2563 | Grace for the Guilty](sermon_2563.md) - A sermon by Charles H. Spurgeon.
@@ -35,7 +35,7 @@
 * [Sermon 2580 | Partnership With Christ](sermon_2580.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2581 | Perfection in Christ](sermon_2581.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2582 | Alto and Bass](sermon_2582.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2583 | Rain and Grace&mdash;a Parallel](sermon_2583.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2583 | Rain and Grace—a Parallel](sermon_2583.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2584 | Place for the Word](sermon_2584.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2585 | Spiritual Glean1ng](sermon_2585.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2586 | A Far-reaching Promise](sermon_2586.md) - A sermon by Charles H. Spurgeon.
@@ -50,7 +50,7 @@
 * [Sermon 2595 | What the Lord's Supper Sees and Says](sermon_2595.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2596 | Where Is the God of Elijah?](sermon_2596.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2597 | A Prayer for Everybody](sermon_2597.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2598 | Spiritual Revival&mdash;the Need of the Church](sermon_2598.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2598 | Spiritual Revival—the Need of the Church](sermon_2598.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2599 | A Visit From the Lord](sermon_2599.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2600 | A Strange Yet Gracious Choice](sermon_2600.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2601 | Small Things Not to Be Despised](sermon_2601.md) - A sermon by Charles H. Spurgeon.

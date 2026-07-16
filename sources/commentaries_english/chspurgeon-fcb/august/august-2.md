@@ -11,7 +11,7 @@ tags: [faith]
 ---
 # August 2 - Speak What He Teaches
 
-*"Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say"* &mdash; Exod. 4:12
+*"Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say"* — Exod. 4:12
 
 Many a true servant of the Lord is slow of speech, and when called upon to plead for his Lord, he is in great confusion lest he should spoil a good cause by his bad advocacy. In such a case it is well to remember that the Lord made the tongue which is so slow, and we must take care that we do not blame our Maker. It may be that a slow tongue is not so great an evil as a fast one, and fewness of words may be more of a blessing than floods of verbiage. It is also quite certain that real saving power does not lie in human rhetoric, with its tropes, and pretty phrases, and grand displays. Lack of fluency is not so great a lack as it looks.
 

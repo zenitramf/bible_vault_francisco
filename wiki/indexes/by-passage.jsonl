@@ -1,4 +1,5 @@
 {"book_key": 46, "count": 1, "key": "1co 14:1-5", "kind": "ref", "pages": ["wiki/concepts/Prophecy.md"]}
+{"book_key": 46, "count": 1, "key": "1co 1:30", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
 {"book_key": 46, "count": 1, "key": "1co 6:19-20", "kind": "ref", "pages": ["wiki/concepts/Redemption.md"]}
 {"book_key": 60, "count": 1, "key": "1pe 1:13-21", "kind": "ref", "pages": ["wiki/concepts/Holiness.md"]}
 {"book_key": 60, "count": 1, "key": "1pe 5:1-4", "kind": "ref", "pages": ["wiki/concepts/Pastoral Ministry.md"]}
@@ -18,8 +19,10 @@
 {"book_key": 44, "count": 1, "key": "ac 2:1-4", "kind": "ref", "pages": ["wiki/concepts/Holy Spirit.md"]}
 {"book_key": 1, "count": 4, "key": "book:1", "kind": "book", "pages": ["wiki/concepts/Covenant.md", "wiki/concepts/Creation.md", "wiki/concepts/Faith.md", "wiki/concepts/Spiritual Warfare.md"]}
 {"book_key": 14, "count": 1, "key": "book:14", "kind": "book", "pages": ["wiki/concepts/Worship.md"]}
-{"book_key": 19, "count": 3, "key": "book:19", "kind": "book", "pages": ["wiki/concepts/Justice.md", "wiki/concepts/Redemption.md", "wiki/concepts/Worship.md"]}
+{"book_key": 18, "count": 1, "key": "book:18", "kind": "book", "pages": ["wiki/concepts/Wisdom.md"]}
+{"book_key": 19, "count": 4, "key": "book:19", "kind": "book", "pages": ["wiki/concepts/Justice.md", "wiki/concepts/Redemption.md", "wiki/concepts/Wisdom.md", "wiki/concepts/Worship.md"]}
 {"book_key": 2, "count": 1, "key": "book:2", "kind": "book", "pages": ["wiki/concepts/Redemption.md"]}
+{"book_key": 20, "count": 1, "key": "book:20", "kind": "book", "pages": ["wiki/concepts/Wisdom.md"]}
 {"book_key": 23, "count": 1, "key": "book:23", "kind": "book", "pages": ["wiki/concepts/Christ.md"]}
 {"book_key": 24, "count": 2, "key": "book:24", "kind": "book", "pages": ["wiki/concepts/Covenant.md", "wiki/concepts/Prophecy.md"]}
 {"book_key": 33, "count": 1, "key": "book:33", "kind": "book", "pages": ["wiki/concepts/Justice.md"]}
@@ -28,17 +31,19 @@
 {"book_key": 43, "count": 6, "key": "book:43", "kind": "book", "pages": ["wiki/concepts/Christ.md", "wiki/concepts/Holiness.md", "wiki/concepts/Holy Spirit.md", "wiki/concepts/Pastoral Ministry.md", "wiki/concepts/Prayer.md", "wiki/concepts/Worship.md"]}
 {"book_key": 44, "count": 2, "key": "book:44", "kind": "book", "pages": ["wiki/concepts/Holy Spirit.md", "wiki/concepts/Salvation.md"]}
 {"book_key": 45, "count": 7, "key": "book:45", "kind": "book", "pages": ["wiki/concepts/Faith.md", "wiki/concepts/Holy Spirit.md", "wiki/concepts/Prayer.md", "wiki/concepts/Redemption.md", "wiki/concepts/Salvation.md", "wiki/concepts/Spiritual Warfare.md", "wiki/passages/Romans 8 26-27.md"]}
-{"book_key": 46, "count": 2, "key": "book:46", "kind": "book", "pages": ["wiki/concepts/Prophecy.md", "wiki/concepts/Redemption.md"]}
+{"book_key": 46, "count": 3, "key": "book:46", "kind": "book", "pages": ["wiki/concepts/Prophecy.md", "wiki/concepts/Redemption.md", "wiki/concepts/Wisdom.md"]}
 {"book_key": 47, "count": 4, "key": "book:47", "kind": "book", "pages": ["wiki/concepts/Christ-Centered Ministry.md", "wiki/concepts/Spiritual Warfare.md", "wiki/questions/What Sustains Christian Ministry.md", "wiki/source-notes/Devotional on 1 Timothy 1 12.md"]}
 {"book_key": 48, "count": 3, "key": "book:48", "kind": "book", "pages": ["wiki/concepts/Covenant.md", "wiki/concepts/Faith.md", "wiki/concepts/Salvation.md"]}
 {"book_key": 49, "count": 5, "key": "book:49", "kind": "book", "pages": ["wiki/concepts/Church.md", "wiki/concepts/Faith.md", "wiki/concepts/Pastoral Ministry.md", "wiki/concepts/Salvation.md", "wiki/concepts/Spiritual Warfare.md"]}
 {"book_key": 50, "count": 1, "key": "book:50", "kind": "book", "pages": ["wiki/source-notes/Devotional on 1 Timothy 1 12.md"]}
+{"book_key": 51, "count": 1, "key": "book:51", "kind": "book", "pages": ["wiki/concepts/Wisdom.md"]}
 {"book_key": 54, "count": 6, "key": "book:54", "kind": "book", "pages": ["wiki/concepts/Christ-Centered Ministry.md", "wiki/concepts/Church.md", "wiki/concepts/Pastoral Ministry.md", "wiki/passages/1 Timothy 1 12.md", "wiki/questions/What Sustains Christian Ministry.md", "wiki/source-notes/Devotional on 1 Timothy 1 12.md"]}
 {"book_key": 58, "count": 3, "key": "book:58", "kind": "book", "pages": ["wiki/concepts/Covenant.md", "wiki/concepts/Faith.md", "wiki/concepts/Holiness.md"]}
-{"book_key": 59, "count": 1, "key": "book:59", "kind": "book", "pages": ["wiki/concepts/Spiritual Warfare.md"]}
+{"book_key": 59, "count": 2, "key": "book:59", "kind": "book", "pages": ["wiki/concepts/Spiritual Warfare.md", "wiki/concepts/Wisdom.md"]}
 {"book_key": 60, "count": 3, "key": "book:60", "kind": "book", "pages": ["wiki/concepts/Holiness.md", "wiki/concepts/Pastoral Ministry.md", "wiki/concepts/Spiritual Warfare.md"]}
 {"book_key": 61, "count": 1, "key": "book:61", "kind": "book", "pages": ["wiki/concepts/Prophecy.md"]}
 {"book_key": 66, "count": 1, "key": "book:66", "kind": "book", "pages": ["wiki/source-notes/Devotional on 1 Timothy 1 12.md"]}
+{"book_key": 51, "count": 1, "key": "col 2:3", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
 {"book_key": 49, "count": 2, "key": "eph 1:12-13", "kind": "ref", "pages": ["wiki/concepts/Faith.md", "wiki/concepts/Salvation.md"]}
 {"book_key": 49, "count": 1, "key": "eph 2:1-10", "kind": "ref", "pages": ["wiki/concepts/Salvation.md"]}
 {"book_key": 49, "count": 1, "key": "eph 4:1-16", "kind": "ref", "pages": ["wiki/concepts/Church.md"]}
@@ -57,9 +62,12 @@
 {"book_key": 58, "count": 1, "key": "heb 11:1-6", "kind": "ref", "pages": ["wiki/concepts/Faith.md"]}
 {"book_key": 58, "count": 1, "key": "heb 8", "kind": "ref", "pages": ["wiki/concepts/Covenant.md"]}
 {"book_key": 23, "count": 1, "key": "isa 53", "kind": "ref", "pages": ["wiki/concepts/Christ.md"]}
+{"book_key": 59, "count": 1, "key": "jas 1:5", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
+{"book_key": 59, "count": 1, "key": "jas 3:17", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
 {"book_key": 59, "count": 1, "key": "jas 4:7", "kind": "ref", "pages": ["wiki/concepts/Spiritual Warfare.md"]}
 {"book_key": 24, "count": 1, "key": "jer 23:9-32", "kind": "ref", "pages": ["wiki/concepts/Prophecy.md"]}
 {"book_key": 24, "count": 1, "key": "jer 31:31-34", "kind": "ref", "pages": ["wiki/concepts/Covenant.md"]}
+{"book_key": 18, "count": 1, "key": "job 28:12-19", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
 {"book_key": 43, "count": 1, "key": "joh 14:15-17", "kind": "ref", "pages": ["wiki/concepts/Holy Spirit.md"]}
 {"book_key": 43, "count": 1, "key": "joh 16:7-14", "kind": "ref", "pages": ["wiki/concepts/Holy Spirit.md"]}
 {"book_key": 43, "count": 1, "key": "joh 17", "kind": "ref", "pages": ["wiki/concepts/Prayer.md"]}
@@ -76,9 +84,17 @@
 {"book_key": 40, "count": 1, "key": "mt 4:1-11", "kind": "ref", "pages": ["wiki/concepts/Spiritual Warfare.md"]}
 {"book_key": 40, "count": 2, "key": "mt 6:5-15", "kind": "ref", "pages": ["wiki/concepts/Prayer.md", "wiki/passages/Matthew 6 5-15.md"]}
 {"book_key": 50, "count": 1, "key": "php 2:11", "kind": "ref", "pages": ["wiki/source-notes/Devotional on 1 Timothy 1 12.md"]}
+{"book_key": 20, "count": 1, "key": "pr 16:16", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
+{"book_key": 20, "count": 1, "key": "pr 3:14-15", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
+{"book_key": 20, "count": 1, "key": "pr 8:10-11", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
+{"book_key": 20, "count": 1, "key": "pr 8:22-31", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
+{"book_key": 20, "count": 1, "key": "pr 9:10", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
 {"book_key": 19, "count": 1, "key": "ps 103", "kind": "ref", "pages": ["wiki/concepts/Redemption.md"]}
+{"book_key": 19, "count": 1, "key": "ps 119:127", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
+{"book_key": 19, "count": 1, "key": "ps 119:98-100", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
 {"book_key": 19, "count": 1, "key": "ps 130:7", "kind": "ref", "pages": ["wiki/concepts/Redemption.md"]}
 {"book_key": 19, "count": 1, "key": "ps 134", "kind": "ref", "pages": ["wiki/concepts/Worship.md"]}
+{"book_key": 19, "count": 1, "key": "ps 19:7", "kind": "ref", "pages": ["wiki/concepts/Wisdom.md"]}
 {"book_key": 19, "count": 1, "key": "ps 9", "kind": "ref", "pages": ["wiki/concepts/Justice.md"]}
 {"book_key": 66, "count": 1, "key": "re 5:12", "kind": "ref", "pages": ["wiki/source-notes/Devotional on 1 Timothy 1 12.md"]}
 {"book_key": 45, "count": 1, "key": "ro 13:12", "kind": "ref", "pages": ["wiki/concepts/Spiritual Warfare.md"]}

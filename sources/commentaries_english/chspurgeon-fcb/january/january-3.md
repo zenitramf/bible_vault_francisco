@@ -10,7 +10,7 @@ tags: [faith, hope, covenant]
 ---
 # January 3 - Rest On A Promise
 
-*"The land whereon thou liest, to thee will I give it."* &mdash; Gen. 28:13
+*"The land whereon thou liest, to thee will I give it."* — Gen. 28:13
 
 No promise is of private interpretation: it belongs not to one saint, but to all believers. If, my brother, thou canst in faith lie down upon a promise, and take thy rest thereon, it is thine. Where Jacob "lighted," and tarried, and rested, there he took possession. Stretching his weary length upon the ground, with the stones of that place for his pillows, he little fancied that he was thus entering into ownership of the land; and yet so it was. He saw in his dream that wondrous ladder which for all true believers unites earth and heaven; and surely where the foot of the ladder stood he must have a right to the soil, for otherwise he could not reach the divine stairway. All the promises of God are Yea and Amen in Christ Jesus; and as He is ours, every promise is ours if we will but lie down upon it in restful faith.
 

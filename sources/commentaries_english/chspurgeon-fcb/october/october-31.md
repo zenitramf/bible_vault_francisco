@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # October 31 - Immortal Till Work Done
 
-*"I shall not die, but live, and declare the works of the Lord"* &mdash; Ps. 118:17
+*"I shall not die, but live, and declare the works of the Lord"* — Ps. 118:17
 
 A fair assurance this! It was no doubt based upon a promise, inwardly whispered in the Psalmist's heart, which he seized upon and enjoyed. Is my case like that of David? Am I depressed because the enemy affronts me? Are there multitudes against me, and few on my side? Does unbelief bid me lie down and die in despair -- a defeated, dishonored man? Do my enemies begin to dig my grave?
 

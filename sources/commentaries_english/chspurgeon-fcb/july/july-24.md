@@ -11,7 +11,7 @@ tags: [christ, faith, worship, praise]
 ---
 # July 24 - Perfect Purity
 
-*"He that overcometh, the same shall be clothed in white raiment."* &mdash; Rev. 3:5
+*"He that overcometh, the same shall be clothed in white raiment."* — Rev. 3:5
 
 Warrior of the cross, fight on! Never rest till thy victory is complete, for thine eternal reward will prove worthy of a life of warfare.
 

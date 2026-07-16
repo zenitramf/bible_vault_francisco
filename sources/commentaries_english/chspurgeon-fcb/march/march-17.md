@@ -10,7 +10,7 @@ tags: [faith, praise, holiness]
 ---
 # March 17 - Fear To Fear
 
-*"Be not afraid of their faces: for I am with thee to deliver thee, saith the Lord"* &mdash; Jer. 1:8
+*"Be not afraid of their faces: for I am with thee to deliver thee, saith the Lord"* — Jer. 1:8
 
 Whenever fear comes in and makes us falter, we are in danger of falling into sin. Conceit is to be dreaded, but so is cowardice. "Dare to be a Daniel." Our great Captain should be served by brave soldiers.
 

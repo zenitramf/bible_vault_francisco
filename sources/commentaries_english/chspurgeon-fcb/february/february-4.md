@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # February 4 - He Will Return
 
-*"I will not leave you comfortless: I will come to you"* &mdash; John 14:18
+*"I will not leave you comfortless: I will come to you"* — John 14:18
 
 He left us, and yet we are not left orphans. He is our comfort, and He is gone; but we are not comfortless. Our comfort is that He will come to us, and this is consolation enough to sustain us through His prolonged absence. Jesus is already on His way: He says, "I come quickly": He rides post-haste toward us. He says, "I will come": and none can prevent His coming, or put it back for a quarter of an hour. He specially says, "I will come to you"; and so He will. His coming is specially to and for His own people. This is meant to be their present comfort while they mourn that the Bridegroom doth not yet appear.
 

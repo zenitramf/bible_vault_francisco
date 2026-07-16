@@ -10,7 +10,7 @@ tags: [holy-spirit, faith, prayer, holiness]
 ---
 # February 11 - Are The Children In?
 
-*"I will pour my spirit upon thy seed, and my blessing upon thine offspring"* &mdash; Isa. 44:3
+*"I will pour my spirit upon thy seed, and my blessing upon thine offspring"* — Isa. 44:3
 
 Our dear children have not the Spirit of God by nature, as we plainly see. We see much in them which makes us fear as to their future, and this drives us to agonizing prayer. When a son becomes specially perverse, we cry with Abraham, "Oh, that Ishmael might live before thee!" We would sooner see our daughters Hannahs than empresses. This verse should greatly encourage us. It follows upon the words, "Fear not, O Jacob, my servant," and it may well banish our fears.
 

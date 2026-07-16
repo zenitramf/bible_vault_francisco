@@ -10,7 +10,7 @@ tags: [christ, faith, repentance, hope]
 ---
 # October 14 - Never Ashamed
 
-*"Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven"* &mdash; Matt. 10:32
+*"Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven"* — Matt. 10:32
 
 Gracious promise! It is a great Joy to me to confess my Lord. Whatever my faults may be, I am not ashamed of Jesus, nor do I fear to declare the doctrines of His cross. O Lord, I have not hid thy righteousness within my heart.
 

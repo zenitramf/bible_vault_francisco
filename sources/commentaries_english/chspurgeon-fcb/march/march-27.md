@@ -13,7 +13,7 @@ bible_book_name: "James"
 ---
 # March 27 - Drawing Near To God
 
-*"Draw nigh to God, and he will draw nigh to you"* &mdash; James 4:8
+*"Draw nigh to God, and he will draw nigh to you"* — James 4:8
 
 The nearer we come to God, the more graciously will He reveal Himself to us. When the prodigal comes to his father, his father runs to meet him. When the wandering dove returns to the ark, Noah puts out his hand to pull her in unto him. When the tender wife seeks her husband's society, he comes to her on wings of love. Come then, dear friend, let us draw nigh to God who so graciously awaits us, yea, comes to meet us.
 

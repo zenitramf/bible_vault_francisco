@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # November 6 - Delight And Desires
 
-*"Delight thyself also in the Lord; and he shall give thee the desires of thine heart"* &mdash; Ps. 37:4
+*"Delight thyself also in the Lord; and he shall give thee the desires of thine heart"* — Ps. 37:4
 
 Delight in God has a transforming power, and lifts a man above the gross desires of our fallen nature. Delight in Jehovah is not only sweet in itself, but it sweetens the whole soul, till the longings of the heart become such that the Lord can safely promise to fulfill them. Is not that a grand delight which moulds our desires till they are like the desires of God?
 

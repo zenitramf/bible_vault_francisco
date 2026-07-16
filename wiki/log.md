@@ -75,3 +75,7 @@ append_only: true
 ## [2026-07-16] maintenance | Add Spiritual Warfare concept page and mesh backlinks
 
 - New wiki/concepts/Spiritual Warfare.md (status: seed, source_count: 12) synthesizing Matthew Henry on Ephesians 6, 1 Peter 5, James 4, and Matthew 4; six Spurgeon sermons (416, 419, 2201, 2707, 3143, 3466) and Faith's Checkbook June 17; plus the Spanish personal note on the pastor's interior war by Pastor Andrés Gómez. Backlinks added to Discipleship, Holy Spirit, Prayer, Faith, Holiness, Christ, Christ-Centered Ministry, and Pastoral Ministry. Catalog 21 -> 22; reverse indexes refreshed; doctor, build, lint, source-scan --accept-covered, source-lint, audit_public, lint-wiki all passed.
+
+## [2026-07-16] ingest | Wisdom concept (Proverbs 16:16)
+
+- Seeded wiki/concepts/Wisdom.md at Francisco's request after a vault question on Proverbs 16:16. Synthesis grounded in Matthew Henry Complete and Concise on Proverbs 3, 8, 16, and Job 28; Spurgeon Treasury of David on Psalm 119:97-104; Spurgeon sermon 1677 on Revelation 3:17-18. Seven sources. bible_reference omitted from frontmatter because the concept is multi-passage. Catalog rebuilt; lint, audit, and lint-wiki all pass.

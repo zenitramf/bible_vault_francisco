@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # Sept. 1 - Abiding In Obedience, In Love
 
-*"If ye keep my commandments, ye shall abide in my love"* &mdash; John 15:10
+*"If ye keep my commandments, ye shall abide in my love"* — John 15:10
 
 These things cannot be parted -- abiding in obedience, and abiding in the love of Jesus. A life under the rule of Christ can alone prove that we are the objects of our Lord's delight. We must keep our Lord's command if we would bask in His love. If we live in sin we cannot live in the love of Christ. Without the holiness which pleases God, we cannot please Jesus. He who cares nothing for holiness knows nothing of the love of Jesus.
 

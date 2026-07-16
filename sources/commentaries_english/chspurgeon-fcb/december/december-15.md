@@ -12,7 +12,7 @@ tags: [christ, grace, faith, prayer]
 ---
 # December 15 - World Concord
 
-*"And they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more* &mdash; Isa. 2:4
+*"And they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more* — Isa. 2:4
 
 Oh, that these happy times were come! At present the nations are heavily armed, and are inventing weapons more and more terrible, as if the chief end of man could only be answered by destroying myriads of his fellows. Yet peace will prevail one day; yes, and so prevail that the instruments of destruction shall be beaten into other shapes and used for better purposes.
 

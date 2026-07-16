@@ -11,7 +11,7 @@ tags: [grace, faith, worship, praise]
 ---
 # Sept. 3 - Out Of Spiritual Death
 
-*"And ye shall know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves"* &mdash; Ezek. 37:13
+*"And ye shall know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves"* — Ezek. 37:13
 
 Indeed it must be so: those who receive life from the dead are sure to recognize the hand of the Lord in such a resurrection. This is the greatest and most remarkable of all changes that a man can undergo -- to be brought out of the grave of spiritual death, and made to rejoice in the light and liberty of spiritual life. None could work this but the living God, the Lord and giver of life.
 

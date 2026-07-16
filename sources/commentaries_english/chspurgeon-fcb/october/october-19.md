@@ -12,7 +12,7 @@ tags: [salvation, faith, suffering, hope]
 ---
 # October 19 - Regulated Chastisement
 
-*"I will correct thee in measure"* &mdash; Jer. 30:11
+*"I will correct thee in measure"* — Jer. 30:11
 
 To be left uncorrected would be a fatal sign: it would prove that the Lord had said, "He is given unto idols, let him alone." God grant that such may never be our portion! Uninterrupted prosperity is a thing to cause fear and trembling. As many as God tenderly loves He rebukes and chastens: those for whom He has no esteem He allows to fatten themselves without fear, like bullocks for the slaughter. It is in love that our heavenly Father uses the rod upon His children.
 

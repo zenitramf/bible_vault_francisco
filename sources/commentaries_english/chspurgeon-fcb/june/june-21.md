@@ -14,7 +14,7 @@ bible_book_name: "Judges"
 ---
 # June 21 - A Woman's War
 
-*"The Lord shall sell Sisera into the hand of a woman"* &mdash; Judges 4:9
+*"The Lord shall sell Sisera into the hand of a woman"* — Judges 4:9
 
 Rather an unusual text, but there may be souls in the world that may have faith enough to grasp it. Barak, the man, though called to the war, had little stomach for the fight unless Deborah would go with him, and so the Lord determined to make it a woman's war. By this means He rebuked the slackness of the man, and gained for Himself the more renown, and cast the more shame upon the enemies of His people.
 

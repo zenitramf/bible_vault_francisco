@@ -11,7 +11,7 @@ tags: [faith, worship, suffering]
 ---
 # August 27 - Choice Men
 
-*"I have chosen thee in the furnace of affliction"* &mdash; Isa. 48:10
+*"I have chosen thee in the furnace of affliction"* — Isa. 48:10
 
 This has long been the motto fixed before our eye upon the wall of our bedroom, and in many ways it has also been written on our heart. It is no mean thing to be chosen of God. God's choice makes chosen men choice men. Better to be the elect of God than the elect of a whole nation. So eminent is this privilege, that whatever drawback may be joined to it we very joyfully accept it, even as the Jew ate the bitter herbs for the sake of the Paschal Lamb. We choose the furnace, since God chooses us in it.
 

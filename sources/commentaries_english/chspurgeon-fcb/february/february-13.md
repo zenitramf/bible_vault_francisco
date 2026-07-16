@@ -10,7 +10,7 @@ tags: [faith, worship, holiness, creation]
 ---
 # February 13 - Blessed In The Field
 
-*"Blessed shalt thou be in the field"* &mdash; Deut. 28:3
+*"Blessed shalt thou be in the field"* — Deut. 28:3
 
 So was Isaac blessed when he walked therein at eventide to meditate. How often has the Lord met us when we have been alone! The hedges and the trees can bear witness to our joy. We look for such blessedness again.
 

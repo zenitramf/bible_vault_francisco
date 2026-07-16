@@ -12,10 +12,10 @@
 * [Sermon 356 | Words Of Expostulation](sermon_356.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 357 | The Christ of Patmos](sermon_357.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 358 | The Earnest of Heaven](sermon_358.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 359 | The Tabernacle &mdash; Outside The Camp](sermon_359.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 359 | The Tabernacle — Outside The Camp](sermon_359.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 360 | Adoption](sermon_360.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 361 | None But Jesus](sermon_361.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 362 | None But Jesus&mdash;Second Part](sermon_362.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 362 | None But Jesus—Second Part](sermon_362.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 363 | The Glorious Right Hand Of The Lord](sermon_363.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 364 | The Shulamite's Choice Prayer](sermon_364.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 365 | Humility](sermon_365.md) - A sermon by Charles H. Spurgeon.
@@ -38,8 +38,8 @@
 * [Sermon 382 | The Last Census](sermon_382.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 385-388 | Exposition of the Doctrines of Grace](sermon_385-388.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 391 | The First Resurrection](sermon_391.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 392 | Trust In God&mdash;True Wisdom](sermon_392.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 393 | The Church&mdash;Conservative And Aggressive](sermon_393.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 392 | Trust In God—True Wisdom](sermon_392.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 393 | The Church—Conservative And Aggressive](sermon_393.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 394 | Even So, Father!](sermon_394.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 395 | Jehovah Tsidkenu: The Lord Our Righteousness](sermon_395.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 396 | Climbing the Mountain](sermon_396.md) - A sermon by Charles H. Spurgeon.
@@ -60,7 +60,7 @@
 * [Sermon 411 | Infant Salvation](sermon_411.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 412 | God's First Words To The First Sinner](sermon_412.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 413 | To Die Or Not To Die!](sermon_413.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 415 | The Fullness Of Christ&mdash;Received!](sermon_415.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 415 | The Fullness Of Christ—Received!](sermon_415.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 416 | The Shield Of Faith](sermon_416.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 417 | Scourge For Slumbering Souls](sermon_417.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 418 | Bread For The Hungry](sermon_418.md) - A sermon by Charles H. Spurgeon.

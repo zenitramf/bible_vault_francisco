@@ -10,7 +10,7 @@ tags: [christ, grace, faith, worship]
 ---
 # Sept. 21 - Let Trials Bless
 
-*"Knowing that tribulation worketh patience"* &mdash; Rom. 5:3
+*"Knowing that tribulation worketh patience"* — Rom. 5:3
 
 This is a promise in essence if not in form. We have need of patience, and here we see the way of getting it. It is only by enduring that we learn to endure, even as by swimming men learn to swim. You could not learn that art on dry land, nor learn patience without trouble. Is it not worth while to suffer tribulation for the sake of gaining that beautiful equanimity of mind which quietly acquiesces in all the will of God?
 

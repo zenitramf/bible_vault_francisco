@@ -11,7 +11,7 @@ tags: [christ, faith, holiness, church]
 ---
 # April 24 - Condition Of Blessing
 
-*"Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it,"* &mdash; Mal. 3:10
+*"Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it,"* — Mal. 3:10
 
 Many read and plead this promise without noticing the condition upon which the blessing is promised. We cannot expect Heaven to be opened or blessing poured out unless we pay our dues unto the Lord our God and to His cause. There would be no lack of funds for holy purposes if all professing Christians paid their fair share.
 

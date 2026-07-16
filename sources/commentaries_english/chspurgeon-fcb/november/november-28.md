@@ -10,7 +10,7 @@ tags: [grace, faith, prayer, praise]
 ---
 # November 28 - Doing What God Can Bless
 
-*"The Lord shall command the blessing upon thee in thy storehouses, and in all that thou settest thine hand unto"* &mdash; Deut. 28:8
+*"The Lord shall command the blessing upon thee in thy storehouses, and in all that thou settest thine hand unto"* — Deut. 28:8
 
 If we obey the Lord our God He will bless that which He gives us. Riches are no curse when blessed of the Lord. When men have more than they require for their immediate need, and begin to lay up in store-houses, the dry rot of covetousness or the blight of hard-heartedness is apt to follow the accumulation; but with God's blessing it is not so. Prudence arranges the saving, liberality directs the spending, gratitude maintains consecration, and praise sweetens enjoyment. It is a great mercy to have God's blessing in one's iron safe, and on one's banking account.
 

@@ -10,7 +10,7 @@ tags: [faith, holiness, repentance]
 ---
 # April 4 - God's Hornets
 
-*"And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee"* &mdash; Exod. 23:28
+*"And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee"* — Exod. 23:28
 
 What the hornets were we need not consider. They were God's own army, which He sent before His people to sting their enemies, and render Israel's conquest easy. Our God by His own chosen means will fight for His people, and gall their foes, before they come into the actual battle. Often He confounds the adversaries of truth by methods in which reformers themselves have no hand. The air is full of mysterious influences which harass Israel's foes. We read in the Apocalypse that "the earth helped the woman.
 

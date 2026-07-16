@@ -12,7 +12,7 @@ tags: [faith, prayer, repentance]
 ---
 # March 9 - Prayer For Peace
 
-*"And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the Lord for it: for in the peace thereof shall ye have peace"* &mdash; Jer. 29:7
+*"And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the Lord for it: for in the peace thereof shall ye have peace"* — Jer. 29:7
 
 The principle involved in this text would suggest to all of us who are the Lord's strangers and foreigners that we should be desirous to promote the peace and prosperity of the people among whom we dwell. Specially should our nation and our city be blest by our constant intercession. An earnest prayer for your country and other countries is well becoming in the mouth of every believer.
 

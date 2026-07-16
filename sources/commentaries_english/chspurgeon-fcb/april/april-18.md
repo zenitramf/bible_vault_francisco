@@ -11,7 +11,7 @@ tags: [holy-spirit, faith, holiness, hope]
 ---
 # April 18 - He Never Fails
 
-*"I will be with thee: I will not fail thee, nor forsake thee"* &mdash; Josh. 1:5
+*"I will be with thee: I will not fail thee, nor forsake thee"* — Josh. 1:5
 
 This word to Joshua is often quoted; it is the basis of that New Testament word, "He hath said, I will never leave thee, nor forsake thee."
 

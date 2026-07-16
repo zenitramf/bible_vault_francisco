@@ -10,7 +10,7 @@ tags: [salvation, faith, justice]
 ---
 # October 29 - Maintain The Difference
 
-*"And I will put a division between my people and thy people: tomorrow shall this sign be"* &mdash; Exod. 8:23
+*"And I will put a division between my people and thy people: tomorrow shall this sign be"* — Exod. 8:23
 
 Pharoah has a people, and the Lord has a people. These may dwell together, and seem to fare alike, but there is a division between them, and the Lord will make it apparent. Not for ever shall one event happen alike to all, but there shall be great difference between the men of the world and the people of Jehovah's choice.
 

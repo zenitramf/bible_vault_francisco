@@ -10,7 +10,7 @@ tags: [faith, repentance, justice]
 ---
 # February 17 - God Can Make You Strong
 
-*"Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded"* &mdash; II Chron. 15:7
+*"Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded"* — II Chron. 15:7
 
 God had done great things for King Asa and Judah, but yet they were a feeble folk. Their feet were very tottering in the ways of the Lord, and their hearts very hesitating, so that they had to be warned that the Lord would be with them while they were with Him, but that if they forsook Him He would leave them. They were also reminded of the sister kingdom, how ill it fared in its rebellion, and how the Lord was gracious to it when repentance was shown. The Lord's design was to confirm them in His way, and make them strong in righteousness. So ought it to be with us. God deserves to be served with all the energy of which we are capable.
 

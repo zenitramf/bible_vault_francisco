@@ -11,7 +11,7 @@ tags: [grace, faith, suffering]
 ---
 # November 25 - Mountains Turned To Plains
 
-*"Who art thou, O great mountain? before Zerubbabel thou shalt become a plain: and he shall bring forth the headstone thereof with shoutings, crying, Grace, grace unto it"* &mdash; Zech. 4:7
+*"Who art thou, O great mountain? before Zerubbabel thou shalt become a plain: and he shall bring forth the headstone thereof with shoutings, crying, Grace, grace unto it"* — Zech. 4:7
 
 At this hour a mountain of difficulty, distress, or necessity, may be in our way, and natural reason sees no path over it, or through it, or round it. Let faith come in, and straightway the mountain disappears and becomes a plain. But faith must first hear the word of the Lord -- "Not by might, nor by power, but by my Spirit, saith the Lord of hosts." This grand truth is a prime necessity for meeting the insurmountable trials of life.
 

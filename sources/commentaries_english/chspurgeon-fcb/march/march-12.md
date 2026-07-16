@@ -11,7 +11,7 @@ tags: [faith, worship, praise, providence]
 ---
 # March 12 - Going Out With Joy
 
-*"And of Zebulun he said, Rejoice, Zebulun, in thy going out"* &mdash; Deut. 33:18
+*"And of Zebulun he said, Rejoice, Zebulun, in thy going out"* — Deut. 33:18
 
 The blessings of the tribes are ours; for we are the true Israel who worship God in the spirit, and have no confidence in the flesh. Zebulun is to rejoice because Jehovah will bless his "going out"; we also see a promise for ourselves lying latent in this benediction. When we go out we will look out for occasions of joy.
 

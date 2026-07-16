@@ -11,7 +11,7 @@ tags: [faith, justice]
 ---
 # June 9 - A Trustworthy Name
 
-*"I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the Lord"* &mdash; Zeph. 3:12
+*"I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the Lord"* — Zeph. 3:12
 
 When true religion is ready to die out among the wealthy it finds a home among the poor of this world, rich in faith. The Lord has even now his faithful remnant. Am I one of them?
 

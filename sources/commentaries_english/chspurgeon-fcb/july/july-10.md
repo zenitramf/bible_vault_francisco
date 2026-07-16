@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # July 10 - Love The Church
 
-*"Thou shalt arise, and have mercy upon Zion: for the time to favor her, yea, the set time, is come. For thy servants take pleasure in her stones, and favor the dust thereof."* &mdash; Ps. 102:13
+*"Thou shalt arise, and have mercy upon Zion: for the time to favor her, yea, the set time, is come. For thy servants take pleasure in her stones, and favor the dust thereof."* — Ps. 102:13
 
 Yes, our prayers for the church will be heard. The set time is come. We love the prayer meeting, and the Sunday school, and all the services of the Lord's house. We are bound in heart to all the people of God, and can truly say, "There's not a lamb in all thy flock I would disdain to feed; There's not a foe before whose face I'd fear thy cause to plead."
 

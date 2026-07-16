@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # August 19 - Reward For The Righteous
 
-*"So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth"* &mdash; Ps 58:11
+*"So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth"* — Ps 58:11
 
 God's judgments in this life are not always clearly to be seen, for in many cases one event happeneth alike to all. This is the state of probation, not of punishment or reward. Yet at times God works terrible things in righteousness, and even the careless are compelled to own His hand.
 

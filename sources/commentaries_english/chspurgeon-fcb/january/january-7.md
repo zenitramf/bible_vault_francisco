@@ -14,7 +14,7 @@ bible_book_name: "John"
 ---
 # January 7 - Always Growing
 
-*"Thou shalt see greater things than these."* &mdash; John 1:50
+*"Thou shalt see greater things than these."* — John 1:50
 
 This is spoken to a childlike believer, who was ready to accept Jesus as the Son of God, the King of Israel, upon one convincing piece of argument. Those who are willing to see shall see: it is because we shut our eyes that we become so sadly blind.
 

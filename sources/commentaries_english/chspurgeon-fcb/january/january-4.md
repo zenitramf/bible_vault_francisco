@@ -10,7 +10,7 @@ tags: [holy-spirit, faith, holiness, hope]
 ---
 # January 4 - In Calm Repose
 
-*"I will make them to lie down safely."* &mdash; Hos. 2:18
+*"I will make them to lie down safely."* — Hos. 2:18
 
 Yes, the Saints are to have peace. The passage from which this gracious word is taken speaks of peace "with the beasts of the field, and with the fowls of heaven, and with the creeping things of the ground." This is peace with earthly enemies, with mysterious evils, and with little annoyances! Any of these might keep us from lying down, but none of them shall do so. The Lord will quite destroy those things which threaten His people: "I will break the bow and the sword, and the battle out of the earth." Peace will be profound indeed when all the instruments of disquiet are broken to pieces.
 

@@ -11,7 +11,7 @@ tags: [redemption, grace, faith, holiness]
 ---
 # February 2 - Grow Up
 
-*"And ye shall go forth, and grow up as calves of the stall"* &mdash; Mal. 4:2
+*"And ye shall go forth, and grow up as calves of the stall"* — Mal. 4:2
 
 Yes, when the sun shines, the sick quit their chambers, and walk abroad to breathe the fresh air. When the sun brings spring and summer, the cattle quit their stalls, and seek pasture on the higher Alps. Even thus, when we have conscious fellowship with our Lord, we leave the stall of despondency, and walk abroad in the fields of holy confidence. We ascend to the mountains of joy, and feed on sweet pasturage which grows nearer Heaven than the provender of carnal men.
 

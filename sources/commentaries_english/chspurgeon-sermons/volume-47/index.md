@@ -38,7 +38,7 @@
 * [Sermon 2741 | Salvation by Grace](sermon_2741.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2742 | Question and Exclamation](sermon_2742.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2743 | Mistaken Notions About Repentance](sermon_2743.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2744 | Lost Through One&mdash;Saved Through One](sermon_2744.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2744 | Lost Through One—Saved Through One](sermon_2744.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2745 | Intercession and Supplication](sermon_2745.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2746 | The Nature and Design of Divine Chastening](sermon_2746.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2747 | Saying Versus Doing](sermon_2747.md) - A sermon by Charles H. Spurgeon.

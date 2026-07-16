@@ -5,14 +5,14 @@
 * [Sermon 607 | True Unity Promoted](sermon_607.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 608 | A Discourse For a Revival Season](sermon_608.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 609 | Knowledge Commended](sermon_609.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 610 | The Great Need&mdash;Or, The Great Salvation](sermon_610.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 610 | The Great Need—Or, The Great Salvation](sermon_610.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 611 | Zechariah's Vision Of Joshua The High Priest](sermon_611.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 612 | Jesus Washing His Disciples' Feet](sermon_612.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 613 | The Strong One Driven Out By a Stronger One](sermon_613.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 614 | For Christ's Sake](sermon_614.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 615 | Human Depravity And Divine Mercy](sermon_615.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 616 | The Special Call And The Unfailing Result](sermon_616.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 617 | Christ Our Life&mdash;Soon To Appear](sermon_617.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 617 | Christ Our Life—Soon To Appear](sermon_617.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 618 | The Great Physician And His Patients](sermon_618.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 619 | The Golden Key Of Prayer](sermon_619.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 620 | A Warning Against Hardness Of Heart](sermon_620.md) - A sermon by Charles H. Spurgeon.
@@ -48,13 +48,13 @@
 * [Sermon 651 | A Sermon From a Rush](sermon_651.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 652 | Jesus The Shepherd](sermon_652.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 653 | A Blow For Puseyism](sermon_653.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 654 | Memory&mdash;The Handmaid Of Hope](sermon_654.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 654 | Memory—The Handmaid Of Hope](sermon_654.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 655 | The Great Itinerant](sermon_655.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 656 | Prevenient Grace](sermon_656.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 657 | Satanic Hindrances](sermon_657.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 658 | From The Dunghill To The Throne](sermon_658.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 659 | Simeon](sermon_659.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 660 | Light&mdash;Natural And Spiritual](sermon_660.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 660 | Light—Natural And Spiritual](sermon_660.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 661 | The Great Arbitration Case](sermon_661.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 662 | Consolation In The Furnace](sermon_662.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 663 | Walking In The Light And Washed In The Blood](sermon_663.md) - A sermon by Charles H. Spurgeon.

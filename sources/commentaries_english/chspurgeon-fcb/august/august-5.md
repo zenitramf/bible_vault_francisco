@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # August 5 - Law In The Heart
 
-*"The law of his God is in his heart; none of his steps shall slide"* &mdash; Ps. 37:31
+*"The law of his God is in his heart; none of his steps shall slide"* — Ps. 37:31
 
 Put the law into the heart, and the whole man is right. This is where the law should be; for then it lies, like the tables of stone in the ark, in the place appointed for it. In the head it puzzles, on the back it burdens, in the heart it upholds.
 

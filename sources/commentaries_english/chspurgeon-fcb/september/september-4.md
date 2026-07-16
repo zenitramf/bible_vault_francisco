@@ -14,7 +14,7 @@ bible_book_name: "Hosea"
 ---
 # Sept. 4 - Victory Without Battle
 
-*"But I will have mercy upon the house of Judah, and will save them by the Lord their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen"* &mdash; Hosea 1:7
+*"But I will have mercy upon the house of Judah, and will save them by the Lord their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen"* — Hosea 1:7
 
 Precious word! Jehovah Himself will deliver His people in the greatness of His mercy, but He will not do it by the ordinary means. Men are slow to render to God the glory due unto His name. If they go to battle with sword and bow, and win the victory, they ought to praise their God; yet they do not, but begin to magnify their own right arm, and glory in their horses and horsemen. For this reason our Jehovah often determines to save His people without second means, that all the honor may be to Himself alone.
 

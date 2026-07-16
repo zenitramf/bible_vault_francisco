@@ -10,7 +10,7 @@ tags: [christ, grace, faith]
 ---
 # May 26 - Commonest Things Blessed
 
-*"Ye shall serve the Lord your God, and he shall bless thy bread, and thy water"* &mdash; Exod. 23:25
+*"Ye shall serve the Lord your God, and he shall bless thy bread, and thy water"* — Exod. 23:25
 
 What a promise is this! To serve God is in itself a high delight. But what an added privilege to have the blessing of the Lord resting upon us in all things! Our commonest things become blessed when we ourselves are consecrated to the Lord. Our Lord Jesus took bread and blessed it; behold, we also eat of blessed bread. Jesus blessed water and made it wine: the water which we drink is far better to us than any of the wine with which men make merry; every drop has a benediction in it. The divine blessing is on the man of God in everything, and it shall abide with him at every time.
 

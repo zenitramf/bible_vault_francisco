@@ -13,7 +13,7 @@ bible_book_name: "Job"
 ---
 # August 20 - Deliverance Not Limited
 
-*"He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee"* &mdash; Job 5:19
+*"He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee"* — Job 5:19
 
 Eliphaz in this spoke the truth of God. We may have as many troubles as the workdays of the week, but the God who worked on those six days will work for us till our deliverance is complete. We shall rest with Him, and in Him on our Sabbath. The rapid succession of trials is one of the sorest tests of faith. Before we have recovered from one blow, it is followed by another and another till we are staggered. Still, the equally quick succession of deliverances is exceedingly cheering. New songs are rung out upon the anvil by the hammer of affliction, till we see in the spiritual world the anti-type of "the Harmonious Blacksmith." Our confidence is, that when the Lord makes our trials six, six they will be, and no more.
 

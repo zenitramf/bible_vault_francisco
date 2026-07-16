@@ -11,7 +11,7 @@ tags: [grace, faith, pastoral-ministry, hope]
 ---
 # March 20 - Divine Provision
 
-*"Wherefore, if God so clothe the grass of the field, which today is, and tomorrow is cast into the oven, shall he not much more clothe you, O ye of little faith."* &mdash; Matt. 6:30
+*"Wherefore, if God so clothe the grass of the field, which today is, and tomorrow is cast into the oven, shall he not much more clothe you, O ye of little faith."* — Matt. 6:30
 
 Clothes are expensive, and poor believers may be led into anxiety as to where their next suit will come from. The soles are thin; how shall we get new shoes? See how our thoughtful Lord has provided against this care. Our heavenly Father clothes the grass of the field with a splendor such as Solomon could not equal: will He not clothe His own children? We are sure He will. There may be many a patch and a darn, but raiment we shall have.
 

@@ -21,7 +21,7 @@
 * [Sermon 18 | The Tomb of Jesus](sermon-18.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 19 | David's Dying Song](sermon-19.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 20 | The Carnal Mind Enmity Against God](sermon-20.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 21 | Christ's People&mdash;Imitators of Him](sermon-21.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 21 | Christ's People—Imitators of Him](sermon-21.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 22 | A Caution to the Presumptuous](sermon-22.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 23 | Thoughts on the Last Battle](sermon-23.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 24 | Forgiveness](sermon-24.md) - A sermon by Charles H. Spurgeon.
@@ -48,7 +48,7 @@
 * [Sermon 47 | Christ's Prayer for His People](sermon-47.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 48 | Chastisement](sermon-48.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 49 | The God of Peace](sermon-49.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 50 | The Holy Ghost&mdash;The Great Teacher](sermon-50.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 50 | The Holy Ghost—The Great Teacher](sermon-50.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 51 | Comfort for the Desponding](sermon-51.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 52 | Free Will&mdash;a Slave](sermon-52.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 52 | Free Will—a Slave](sermon-52.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 53 | Healing for the Wounded](sermon-53.md) - A sermon by Charles H. Spurgeon.

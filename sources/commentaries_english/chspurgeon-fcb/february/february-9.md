@@ -11,7 +11,7 @@ tags: [grace, faith, prayer, suffering]
 ---
 # February 9 - The Dross Purged
 
-*"And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The Lord is my God"* &mdash; Zech. 13:9
+*"And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The Lord is my God"* — Zech. 13:9
 
 Grace transmutes us into precious metal, and then the fire and the furnace follow as a necessary consequence. Do we start at this? Would we sooner be accounted worthless, that we might enjoy repose, like the stones of the field? This would be to choose the viler part: like Esau, to take the pottage, and give up the covenant portion. No, Lord; we will gladly be cast into the furnace rather than be cast out from thy presence!
 

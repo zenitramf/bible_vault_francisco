@@ -8,7 +8,7 @@
 * [Sermon 3286 | The Fear of Death](sermon_3286.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3287 | The Only Door](sermon_3287.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3288 | Why the Gospel Is Hidden](sermon_3288.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3289 | The Sealed Hand&mdash;a Winter Sermon](sermon_3289.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 3289 | The Sealed Hand—a Winter Sermon](sermon_3289.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3290 | God's Hand at Evening](sermon_3290.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3291 | The Sea! the Sea! the Wide and Open Sea!](sermon_3291.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3292 | The Almighty Warrior](sermon_3292.md) - A sermon by Charles H. Spurgeon.

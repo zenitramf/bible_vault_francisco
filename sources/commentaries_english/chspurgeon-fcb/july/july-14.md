@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # July 14 - Burdens Cast On Him
 
-*"Cast thy burden upon the Lord, and he shall sustain thee; he shall never suffer the righteous to be moved."* &mdash; Ps. 55:22
+*"Cast thy burden upon the Lord, and he shall sustain thee; he shall never suffer the righteous to be moved."* — Ps. 55:22
 
 It is a heavy burden, roll it on Omnipotence. It is thy burden now, and it crushes thee; but when the Lord takes it, He will make nothing of it. If thou art called still to bear it, "he will sustain thee." It will be on Him, and not on thee. Thou wilt be so upheld under it that the burden will be a blessing. Bring the Lord into the matter and thou wilt stand upright under that which in itself would bow thee down.
 

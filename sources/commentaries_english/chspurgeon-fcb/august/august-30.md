@@ -10,7 +10,7 @@ tags: [christ, salvation, faith, suffering]
 ---
 # August 30 - Solace, Security, Satisfaction
 
-*"Although my house be not so with God; yet he hath made with me an everlasting covenant, ordered in all things, and sure: for this is all my salvation, and all my desire, although he make it not to grow"* &mdash; II Sam. 23:5
+*"Although my house be not so with God; yet he hath made with me an everlasting covenant, ordered in all things, and sure: for this is all my salvation, and all my desire, although he make it not to grow"* — II Sam. 23:5
 
 This is not so much one promise as an aggregate of promises -- a box of pearls. The covenant is the ark which contains all things.
 

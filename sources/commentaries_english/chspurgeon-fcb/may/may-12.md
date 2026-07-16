@@ -11,7 +11,7 @@ tags: [holy-spirit, christ, faith, worship]
 ---
 # May 12 - Servants Honored
 
-*"Whoso keepeth the fig tree shall eat the fruit thereof; so he that waiteth on his master shall be honored"* &mdash; Prov. 27:18
+*"Whoso keepeth the fig tree shall eat the fruit thereof; so he that waiteth on his master shall be honored"* — Prov. 27:18
 
 He who tends the fig tree has figs for his pains, and he who waits on a good master has honor as his reward. Truly the Lord Jesus is the very best of masters, and it is an honor to be allowed to do the least act for His sake. To serve some lords is to watch over a crab tree and eat the crabs as one's wages; but to serve my Lord Jesus is to keep a fig tree of the sweetest figs. His service is in itself delight, continuance in it is promotion, success in it is blessedness below, and the reward for it is glory above.
 

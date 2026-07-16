@@ -13,7 +13,7 @@ bible_book_name: "Hosea"
 ---
 # July 26 - A Change Of Name
 
-*"And it shall be at that day, saith the Lord, that thou shalt call me Ishi; and shalt call me no more Baali; for I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name."* &mdash; Hosea 2:16
+*"And it shall be at that day, saith the Lord, that thou shalt call me Ishi; and shalt call me no more Baali; for I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name."* — Hosea 2:16
 
 That day has come. We view our God no more as Baal, our tyrant lord and mighty master, for we are not under law, but under grace. We now think of Jehovah, our God, as our Ishi, our beloved husband, our lord in love, our next-of-kin in bonds of sacred relationship. We do not reverence Him less, but we love Him more. We do not serve Him less obediently, but we serve Him for a higher and more endearing reason. We no longer tremble under His lash, but rejoice in His love. The slave is changed into a child, and the task into a pleasure.
 

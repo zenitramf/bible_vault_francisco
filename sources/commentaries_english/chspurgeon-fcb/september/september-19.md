@@ -11,7 +11,7 @@ tags: [christ, salvation, redemption, faith]
 ---
 # Sept. 19 - The Reason For Singing
 
-*"The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing"* &mdash; Zeph. 3:17
+*"The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing"* — Zeph. 3:17
 
 What a word is this! Jehovah God in the center of His people in all the majesty of His power! This presence alone suffices to inspire us with peace and hope. Treasures of boundless might are stored in our Jehovah, and He dwells in His church, therefore may His people shout for joy.
 

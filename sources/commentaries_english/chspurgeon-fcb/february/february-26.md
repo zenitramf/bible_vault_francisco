@@ -10,7 +10,7 @@ tags: [grace, faith, suffering]
 ---
 # February 26 - Truth Established
 
-*"The lip of truth shall be established for ever; but a lying tongue is but for a moment"* &mdash; Prov. 12:19
+*"The lip of truth shall be established for ever; but a lying tongue is but for a moment"* — Prov. 12:19
 
 Truth wears well. Time tests it, but it right well endures the trial. If, then, I have spoken the truth, and have for the present to suffer for it, I must be content to wait. If also I believe the truth of God, and endeavor to declare it, I may meet with much opposition, but I need not fear, for ultimately the truth must prevail.
 

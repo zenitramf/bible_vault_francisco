@@ -10,7 +10,7 @@ tags: [grace, faith, holiness, repentance]
 ---
 # April 7 - Without Fear Of Man
 
-*"And all people of the earth shall see that thou art called by the name of the Lord; and they shall be afraid of thee"* &mdash; Deut. 28:10
+*"And all people of the earth shall see that thou art called by the name of the Lord; and they shall be afraid of thee"* — Deut. 28:10
 
 Then we can have no reason to be afraid of them. This would show a mean spirit, and be a token of unbelief rather than of faith. God can make us so like Himself, that men shall be forced to see that we rightly bear His name, and truly belong to the Holy Jehovah. Oh, that we may obtain this grace, which the Lord waits to bestow!
 

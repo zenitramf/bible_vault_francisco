@@ -14,7 +14,7 @@ bible_book_name: "John"
 ---
 # Sept. 29 - To Glorify Christ Jesus
 
-*"He shall glorify me: for he shall receive of mine, and shall shew it unto you."* &mdash; John 16:14
+*"He shall glorify me: for he shall receive of mine, and shall shew it unto you."* — John 16:14
 
 The Holy Ghost Himself cannot better glorify the Lord Jesus than by showing to us Christ's own things. Jesus is His own best commendation. There is no adorning Him except with His own gold.
 

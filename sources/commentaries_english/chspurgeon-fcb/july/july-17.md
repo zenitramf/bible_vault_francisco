@@ -11,7 +11,7 @@ tags: [faith, church, justice]
 ---
 # July 17 - Valiant For Truth
 
-*"The people that do know their God shall be strong, and do exploits."* &mdash; Dan. 11:32
+*"The people that do know their God shall be strong, and do exploits."* — Dan. 11:32
 
 "The Lord is a man of war, Jehovah is his name." Those who enlist under His banner shall have a Commander who will train them for the conflict, and give them both vigor and valor. The times of which Daniel wrote were of the very worst kind, and then it was promised that the people of God would come out in their best colors: they would be strong and stout to confront the powerful adversary.
 

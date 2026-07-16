@@ -11,7 +11,7 @@ tags: [grace, faith, praise]
 ---
 # May 21 - Rain Without Clouds? Never!
 
-*"If the clouds be full of rain, they empty themselves upon the earth"* &mdash; Eccl. 11:3
+*"If the clouds be full of rain, they empty themselves upon the earth"* — Eccl. 11:3
 
 Why, then, do we dread the clouds which now darken our sky? True, for a while they hide the sun, but the sun is not quenched; he will shine out again before long. Meanwhile those black clouds are filled with rain; and the blacker they are, the more likely they are to yield plentiful showers. How can we have rain without clouds?
 

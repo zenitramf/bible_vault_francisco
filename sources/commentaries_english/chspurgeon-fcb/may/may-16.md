@@ -11,7 +11,7 @@ tags: [grace, faith, providence, justice]
 ---
 # May 16 - We Receive As We Give
 
-*"Blessed are the merciful: for they shall obtain mercy"* &mdash; Matt. 5:7
+*"Blessed are the merciful: for they shall obtain mercy"* — Matt. 5:7
 
 It is not meet that the man who will not forgive should be forgiven, nor shall he who will not give to the poor have his own wants relieved. God will measure to us with our own bushels, and those who have been hard masters and hard creditors, will find that the Lord will deal hardly with them. "He shall have judgment without mercy, that hath shewed no mercy."
 

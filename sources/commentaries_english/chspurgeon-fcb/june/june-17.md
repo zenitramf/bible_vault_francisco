@@ -10,7 +10,7 @@ tags: [holy-spirit, salvation, grace, faith]
 ---
 # June 17 - Our Field Of Battle
 
-*"For the Lord your God is he that goeth with you, to fight for you against your enemies, to save you"* &mdash; Deut. 20:4
+*"For the Lord your God is he that goeth with you, to fight for you against your enemies, to save you"* — Deut. 20:4
 
 We have no enemies but the enemies of God. Our fights are not against men, but against spiritual wickednesses. We war with the devil, and the blasphemy, and error, and despair, which he brings into the field of battle. We fight with all the armies of sin-impurity, drunkenness, oppression, infidelity, and ungodliness. With these we contend earnestly, but not with sword or spear; the weapons of our warfare are not carnal.
 

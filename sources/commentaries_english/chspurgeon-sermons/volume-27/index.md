@@ -8,8 +8,8 @@
 * [Sermon 1578 | Taught That We May Teach](sermon_1578.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1579 | Roads Cleared](sermon_1579.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1580 | An Indictment with Four Counts](sermon_1580.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1581 | Silver Sockets&mdash;Redemption the Foundation!](sermon_1581.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1582 | The Fruit of the Spirit&mdash;Joy](sermon_1582.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1581 | Silver Sockets—Redemption the Foundation!](sermon_1581.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1582 | The Fruit of the Spirit—Joy](sermon_1582.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1583 | Choice Food for Pilgrims to Canaan](sermon_1583.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1584 | The Heroic In Christianity](sermon_1584.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1585 | Truthfulness](sermon_1585.md) - A sermon by Charles H. Spurgeon.
@@ -33,10 +33,10 @@
 * [Sermon 1603 | What the Farm Laborers Can Do and What They Cannot Do](sermon_1603.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1604 | Heart Disease Curable](sermon_1604.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1605 | Jesus Knew What He Would Do](sermon_1605.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1606 | Ziklag&mdash;or David Encouraging Himself In God](sermon_1606.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1606 | Ziklag—or David Encouraging Himself In God](sermon_1606.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1607 | The Swiftly Running Word](sermon_1607.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1608 | The Double \"Come\"](sermon_1608.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1609 | Faith&mdash;What Is It? How Can It Be Obtained?](sermon_1609.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1609 | Faith—What Is It? How Can It Be Obtained?](sermon_1609.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1610 | A Miniature Portrait Of Joseph](sermon_1610.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1611 | The Word of the Cross](sermon_1611.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1612 | The Minstrel](sermon_1612.md) - A sermon by Charles H. Spurgeon.
@@ -52,16 +52,16 @@
 * [Sermon 1622 | Mongrel Religion](sermon_1622.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1623 | Wholehearted Religion](sermon_1623.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1624 | Welcome! Welcome!](sermon_1624.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1625 | Without Christ&mdash;Nothing](sermon_1625.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1625 | Without Christ—Nothing](sermon_1625.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1626 | The Principal Wheat](sermon_1626.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1627 | Baptism&mdash;a Burial](sermon_1627.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1627 | Baptism—a Burial](sermon_1627.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1628 | Till We Meet Again](sermon_1628.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1629 | Two Good Things](sermon_1629.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1630 | Four Choice Sentences](sermon_1630.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1631 | The Main Matter](sermon_1631.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1632 | The Nazarene and the Sect of the Nazarenes](sermon_1632.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1633 | Sarah and Her Daughters](sermon_1633.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1634A | The Bride and Her Ornaments&mdash;the Sin of Forgetting God](sermon_1634A.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1634A | The Bride and Her Ornaments—the Sin of Forgetting God](sermon_1634A.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1634B | Loved and Loving](sermon_1634B.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1635 | Only Trust Him! Only Trust Him!](sermon_1635.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1636 | Chastened Happiness](sermon_1636.md) - A sermon by Charles H. Spurgeon.

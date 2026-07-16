@@ -10,7 +10,7 @@ tags: [grace, faith, worship, church]
 ---
 # April 23 - No Fear Of Death
 
-*"He that hath an ear, let him hear what the Spirit saith unto the churches; he that overcometh shall not be hurt of the second death"* &mdash; Rev. 2:11
+*"He that hath an ear, let him hear what the Spirit saith unto the churches; he that overcometh shall not be hurt of the second death"* — Rev. 2:11
 
 The first death we must endure unless the Lord should suddenly come to His temple. For this let us abide in readiness, awaiting it without fear, since Jesus has transformed death from a dreary cavern into a passage leading to glory.
 

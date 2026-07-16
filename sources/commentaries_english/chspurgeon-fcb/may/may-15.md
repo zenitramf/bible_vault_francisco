@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # May 15 - God's High Places
 
-*"I will set him on high because he hath known my name* &mdash; Ps. 91:14
+*"I will set him on high because he hath known my name* — Ps. 91:14
 
 Does the Lord say this to me? Yes, if I have known His name. Blessed be the Lord, I am no stranger to Him. I have tried Him, and proved Him, and known Him, and, therefore, do I trust Him. I know His name as a sin-hating God, for by His Spirit's convincing power I have been taught that He will never wink at evil. But I also know Him as the sin-pardoning God in Christ Jesus, for He has forgiven me all trespasses. His name is faithfulness, and I know it, for He has never forsaken me though my troubles have multiplied upon me.
 

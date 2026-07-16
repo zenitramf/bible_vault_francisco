@@ -21,7 +21,7 @@
 * [Sermon 1226 | The Secret Of Health](sermon_1226.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1227 | Spiritual Appetite](sermon_1227.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1228 | Salvation by Faith and the Work of the Spirit](sermon_1228.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1229 | Decision&mdash;Illustrated by the Case of Joshua](sermon_1229.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1229 | Decision—Illustrated by the Case of Joshua](sermon_1229.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1230 | A Holy and Homely Resolve](sermon_1230.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1231 | The Sure Triumph Of The Crucified One](sermon_1231.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1232 | Solomon's Plea](sermon_1232.md) - A sermon by Charles H. Spurgeon.
@@ -45,7 +45,7 @@
 * [Sermon 1250 | The Priest Dispensed With](sermon_1250.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1251 | The Sacred Love-Token](sermon_1251.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1252 | The First Day Of Creation](sermon_1252.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1253 | The Lion-slayer&mdash;the Giant-killer](sermon_1253.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1253 | The Lion-slayer—the Giant-killer](sermon_1253.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1254 | Jesus In Our Midst](sermon_1254.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1255 | How To Converse With God](sermon_1255.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1256 | The Old Man's Sermon](sermon_1256.md) - A sermon by Charles H. Spurgeon.

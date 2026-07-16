@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # July 9 - Faithful And Useful
 
-*"Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me* &mdash; Ps. 101:6
+*"Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me* — Ps. 101:6
 
 If David spoke thus, we may be sure that the Son of David will be of the same mind. Jesus looks out for faithful men, and He fixes His eyes upon them, to observe them, to bring them forward, to encourage them, and to reward them. Let no true-hearted man think that he is overlooked; the King Himself has His eye upon him.
 

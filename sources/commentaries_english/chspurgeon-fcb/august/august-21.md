@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # August 21 - Night Of Weeping; Joyous Day
 
-*"For his anger endureth but a moment; in his favor is life: weeping may endure for a night, but joy cometh in the morning"* &mdash; Ps. 30:5
+*"For his anger endureth but a moment; in his favor is life: weeping may endure for a night, but joy cometh in the morning"* — Ps. 30:5
 
 A moment under our Father's anger seems very long, and yet it is but a moment after all. If we grieve His Spirit we cannot look for His smile; but He is a God ready to pardon, and He soon puts aside all remembrance of our faults. When we faint and are ready to die because of His frown, His favor puts new life into us.
 

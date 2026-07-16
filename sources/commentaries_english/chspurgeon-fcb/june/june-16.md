@@ -10,7 +10,7 @@ tags: [grace, faith]
 ---
 # June 16 - Possess Not Only Profess
 
-*"For whosoever hath, to him shall be given, and he shall have more abundance"* &mdash; Matt. 13:12
+*"For whosoever hath, to him shall be given, and he shall have more abundance"* — Matt. 13:12
 
 When the Lord has given to a man much grace He will give him more. A little faith is a nest egg; more faith will come to it. But then it must not be seeming faith, but real and true. What a necessity is laid upon us to make sure work in religion, and not to profess much, and possess nothing! For one of these days the very profession will be taken from us, if that be all we have. The threatening is as true as the promise.
 

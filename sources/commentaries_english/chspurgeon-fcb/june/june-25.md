@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # June 25 - A Staircase To Heaven
 
-*"And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man"* &mdash; John 1:51
+*"And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man"* — John 1:51
 
 Yes, to our faith this sight is plain even at this day. We do see Heaven opened. Jesus Himself has opened that kingdom to all believers. We gaze into the place of mystery and glory, for He has revealed it to us. We shall enter it soon, for He is the way.
 

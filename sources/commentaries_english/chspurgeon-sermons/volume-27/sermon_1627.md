@@ -1,13 +1,13 @@
 ---
 type: Commentary
-title: "Sermon 1627 | Baptism&mdash;a Burial"
+title: "Sermon 1627 | Baptism—a Burial"
 description: "A sermon by Charles H. Spurgeon."
 tags: [holy-spirit, christ, faith, worship]
 bible_reference: "ro 6:3-4"
 bible_book_key: 45
 bible_book_name: "Romans"
 ---
-# Sermon 1627 | Baptism&mdash;a Burial
+# Sermon 1627 | Baptism—a Burial
 
 Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.''Romans 6:3-4.
 

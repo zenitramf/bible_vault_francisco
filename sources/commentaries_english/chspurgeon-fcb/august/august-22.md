@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # August 22 - Wrath To God's Glory
 
-*"Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain"* &mdash; Ps. 76:10
+*"Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain"* — Ps. 76:10
 
 Wicked men will be wrathful. Their anger we must endure as the badge of our calling, the token of our separation from them: if we were of the world, the world would love its own. Our comfort is that the wrath of man shall be made to redound to the glory of God. When in their wrath the wicked crucified the Son of God they were unwittingly fulfilling the divine purpose, and in a thousand cases the willfulness of the ungodly is doing the same. They think themselves free, but like convicts in chains they are unconsciously working out the decrees of the Almighty.
 

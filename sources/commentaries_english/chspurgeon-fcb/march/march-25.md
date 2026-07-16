@@ -12,7 +12,7 @@ tags: [faith]
 ---
 # March 25 - Refreshing Sleep
 
-*"When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet"* &mdash; Prov. 3:24
+*"When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet"* — Prov. 3:24
 
 Is the reader likely to be confined for a while to the bed by sickness? Let him go upstairs without distress with this promise upon his heart -- "When thou liest down, thou shalt not be afraid."
 

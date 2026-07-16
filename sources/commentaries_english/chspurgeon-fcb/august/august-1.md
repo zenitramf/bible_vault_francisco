@@ -11,7 +11,7 @@ tags: [holy-spirit, christ, grace, faith]
 ---
 # August 1 - Covenant Reaches Children
 
-*"And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee"* &mdash; Gen. 17:7
+*"And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee"* — Gen. 17:7
 
 O Lord, thou hast made a covenant with me, thy servant, in Christ Jesus my Lord; and now, I beseech thee, let my children be included in its gracious provisions. Permit me to believe this promise as made to me as well as to Abraham. I know, that my children are born in sin, and shapen in iniquity, even as those of other men; therefore, I ask nothing on the ground of their birth, for well I know that "that which is born of the flesh is flesh," and nothing more. Lord, make them to be born under thy covenant of grace by thy Holy Spirit!
 

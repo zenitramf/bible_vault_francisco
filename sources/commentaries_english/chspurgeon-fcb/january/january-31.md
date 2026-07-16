@@ -14,7 +14,7 @@ bible_book_name: "Micah"
 ---
 # January 31 - God Always Hears
 
-*"My God will hear me."* &mdash; Micah 7:7
+*"My God will hear me."* — Micah 7:7
 
 Friends may be unfaithful, but the Lord will not turn away from the gracious soul; on the contrary, He will hear all its desires. The prophet says, "Keep the doors of thy mouth from her that lieth in thy bosom. A man's enemies are the men of his own house." This is a wretched state of affairs; but even in such a case the Best Friend remains true, and we may tell Him all our grief.
 

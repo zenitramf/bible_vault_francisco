@@ -11,7 +11,7 @@ tags: [faith, worship]
 ---
 # June 4 - Exceedingly Precious
 
-*"They shall be mine, saith the Lord of hosts, in that day when I make up my jewels."* &mdash; Mal. 3:17
+*"They shall be mine, saith the Lord of hosts, in that day when I make up my jewels."* — Mal. 3:17
 
 A day is coming in which the crown jewels of our great King shall be counted, that it may be seen whether they answer to the inventory which His Father gave Him. My soul, wilt thou be among the precious things of Jesus? Thou art precious to Him if He is precious to thee, and thou shalt be His "in that day," if He is thine in this day.
 

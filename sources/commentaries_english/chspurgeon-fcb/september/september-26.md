@@ -11,7 +11,7 @@ tags: [redemption, faith, church, covenant]
 ---
 # Sept. 26 - Among The Redeemed
 
-*"Lo, the people shall dwell alone, and shall not be reckoned among the nations"* &mdash; Num. 23:9
+*"Lo, the people shall dwell alone, and shall not be reckoned among the nations"* — Num. 23:9
 
 Who would wish to dwell among the nations, and to be numbered with them? Why, even the professing church is such that to follow the Lord fully within its bounds is very difficult. There is such a mingling and mixing that one often sighs for "a lodge in some vast wilderness."
 

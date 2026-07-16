@@ -10,7 +10,7 @@ tags: [holy-spirit, faith, prayer, praise]
 ---
 # May 17 - No Need To Stint
 
-*"The upright shall have good things in possession"* &mdash; Prov. 28:10
+*"The upright shall have good things in possession"* — Prov. 28:10
 
 The Book of Proverbs is also a Book of Promises. Promises ought to be proverbs among the people of God. This is a very remarkable one. We are accustomed to think of our good things as in reversion, but here we are told that we shall have them in possession.
 

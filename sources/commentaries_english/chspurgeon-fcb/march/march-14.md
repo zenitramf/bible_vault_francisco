@@ -10,7 +10,7 @@ tags: [holy-spirit, faith, holiness, suffering]
 ---
 # March 14 - Tender Comfort
 
-*"As one whom his mother comforteth, so will I comfort you"* &mdash; Isa. 66:13
+*"As one whom his mother comforteth, so will I comfort you"* — Isa. 66:13
 
 A mother's comfort! Ah, this is tenderness itself. How she enters into her child's grief! How she presses him to her bosom, and tries to take all his sorrow into her own heart! He can tell her all, and she will sympathize as nobody else can. Of all comforters the child loves best his mother, and even full-grown men have found it so.
 

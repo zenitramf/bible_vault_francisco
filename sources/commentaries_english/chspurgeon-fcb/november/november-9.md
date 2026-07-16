@@ -11,7 +11,7 @@ tags: [christ, salvation, grace, faith]
 ---
 # November 9 - Necessary Knowledge
 
-*"Thus shall they know that I the Lord their God am with them, and that they, even the house of Israel, are my people, saith the Lord God"* &mdash; Ezek. 34:30
+*"Thus shall they know that I the Lord their God am with them, and that they, even the house of Israel, are my people, saith the Lord God"* — Ezek. 34:30
 
 To be the Lord's own people is a choice blessing, but to know that we are such is a comfortable blessing. It is one thing to hope that God is with us, and another thing to know that He is so. Faith saves us, but assurance satisfies us. We take God to be our God when we believe in Him; but we get the joy of Him when we know that He is ours, and that we are His. No believer should be content with hoping and trusting, he should ask the Lord to lead him on to full assurance, so that matters of hope may become matters of certainty.
 

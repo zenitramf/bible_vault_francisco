@@ -10,7 +10,7 @@ tags: [christ, grace, faith, worship]
 ---
 # November 15 - Limitless Riches
 
-*"My God shall supply all your need according to his riches in glory by Christ Jesus"* &mdash; Phil. 4:19
+*"My God shall supply all your need according to his riches in glory by Christ Jesus"* — Phil. 4:19
 
 Paul's God is our God, and will supply all our need. Paul felt sure of this in reference to the Philippians, and we feel sure of it as to ourselves. God will do it, for it is like Him: He loves us, He delights to bless us, and it will glorify Him to do so. His pity, His power, His love, His faithfulness, all work together that we be not famished.
 

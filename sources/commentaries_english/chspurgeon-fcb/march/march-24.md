@@ -10,7 +10,7 @@ tags: [christ, grace, faith, prayer]
 ---
 # March 24 - Established And Kept
 
-*"But the Lord is faithful, who shall stablish you, and keep you from evil"* &mdash; II Thess. 3:3
+*"But the Lord is faithful, who shall stablish you, and keep you from evil"* — II Thess. 3:3
 
 Men are often as devoid of reason as of faith. There are with us still "unreasonable and wicked men." There is no use in arguing with them or trying to be at peace with them: they are false at heart, and deceitful in speech. Well, what of this? Shall we worry ourselves with them? No; let us turn to the Lord, for He is faithful. No promise from His Word will ever be broken. He is neither unreasonable in His demands upon us, nor unfaithful to our claims upon Him. We have a faithful God. Be this our joy.
 

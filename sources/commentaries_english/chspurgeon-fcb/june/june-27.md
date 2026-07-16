@@ -15,7 +15,7 @@ bible_book_name: "Psalms"
 ---
 # June 27 - Thank Him; Dwell Acceptably
 
-*"Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence"* &mdash; Ps. 140:13
+*"Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence"* — Ps. 140:13
 
 Oh, that my heart may be upright, that I may always be able to bless the name of the Lord! He is so good to those that be good, that I would fain be among them, and feel myself full of thankfulness every day. Perhaps, for a moment, the righteous are staggered when their integrity results in severe trial; but assuredly the day shall come when they shall bless their God that they did not yield to evil suggestions and adopt a shifty policy. In the long run true men will thank the God of the right for leading them by a right way. Oh, that I may be among them!
 

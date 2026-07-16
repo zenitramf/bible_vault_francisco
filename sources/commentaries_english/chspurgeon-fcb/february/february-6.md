@@ -11,7 +11,7 @@ tags: [faith, discipleship, hope]
 ---
 # February 6 - Blessing In The City
 
-*"If thou shalt hearken unto the voice of the Lord thy God, blessed shalt thou be in the city"* &mdash; Deut. 28:2
+*"If thou shalt hearken unto the voice of the Lord thy God, blessed shalt thou be in the city"* — Deut. 28:2
 
 The city is full of care, and he who has to go there from day to day finds it to be a place of great wear and tear. It is full of noise, and stir, and bustle, and sore travail: many are its temptations, losses, and worries. But to go there with the divine blessing takes off the edge of its difficulty; to remain there with that blessing is to find pleasure in its duties, and strength equal to its demands.
 

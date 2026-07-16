@@ -11,7 +11,7 @@ tags: [grace, faith]
 ---
 # May 7 - Let No Evil Remain
 
-*"And there shall cleave nought of the cursed thing to thine hand: that the Lord may turn from the fierceness of his anger, and show thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers"* &mdash; Deut. 13:17
+*"And there shall cleave nought of the cursed thing to thine hand: that the Lord may turn from the fierceness of his anger, and show thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers"* — Deut. 13:17
 
 Israel must conquer idolatrous cities, and destroy all the spoil, regarding all that had been polluted by idolatry as an accursed thing to be burned with fire. Now, sin of all sorts must be treated by Christians in the same manner. We must not allow a single evil habit to remain. It is now war to the knife with sins of all sorts and sizes, whether of the body, the mind, or the spirit. We do not look upon this giving up of evil as deserving mercy, but we regard it as a fruit of the grace of God, which we would on no account miss.
 

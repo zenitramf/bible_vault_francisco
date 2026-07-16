@@ -13,7 +13,7 @@ bible_book_name: "Micah"
 ---
 # May 4 - Victory In Reverses
 
-*"Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the Lord shall be a light unto me"* &mdash; Micah 7:8
+*"Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the Lord shall be a light unto me"* — Micah 7:8
 
 This may express the feeling of a man or woman down-trodden and oppressed. Our enemy may put out our light for a season. There is sure hope for us in the Lord; and if we are trusting in Him, and holding fast our integrity, our season of down-casting and darkness will soon be over. The insults of the foe are only for a moment. The Lord will soon turn their laughter into lamentation, and our sighing into singing.
 

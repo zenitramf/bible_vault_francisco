@@ -10,7 +10,7 @@ tags: [christ, salvation, grace, faith]
 ---
 # January 12 - "love Unto The End"
 
-*"For the Lord will not cast off for ever."* &mdash; Lam. 3:31
+*"For the Lord will not cast off for ever."* — Lam. 3:31
 
 He may cast away for a season, but not for ever. A woman may leave off her ornaments for a few days, but she will not forget them, nor throw them upon the dunghill. It is not like the Lord to cast off those whom He loves: for, "having loved his own which were in the world, he loved them unto the end." Some talk of our being in grace and out of it, as if we were like rabbits that run in and out of their burrows: but, indeed, it is not so. The Lord's love is a far more serious and abiding matter than this.
 

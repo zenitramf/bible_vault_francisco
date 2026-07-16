@@ -13,7 +13,7 @@ bible_book_name: "Job"
 ---
 # February 7 - Return From Backsliding
 
-*"If thou return to the Almighty, thou shalt be built up"* &mdash; Job 22:23
+*"If thou return to the Almighty, thou shalt be built up"* — Job 22:23
 
 Eliphaz, in this utterance, spoke a great truth, which is the summary of many an inspired Scripture. Reader, has sin pulled you down? Have you become like a ruin? Has the hand of the Lord gone out against you, so that in estate you are impoverished, and in Spirit you are broken down? Was it your own folly which brought upon you all this dilapidation? Then the first thing to be done is to return to the Lord. With deep repentance and sincere faith find your way back from your backsliding. It is your duty, for you have turned away from Him whom you professed to serve. It is your wisdom, for you cannot strive against Him and prosper. It is your immediate necessity, for what He has done is nothing compared to what He may do in the way of chastisement, since He is Almighty to punish.
 

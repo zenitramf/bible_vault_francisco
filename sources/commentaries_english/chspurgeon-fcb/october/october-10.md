@@ -10,7 +10,7 @@ tags: [grace, faith, church, hope]
 ---
 # October 10 - Open Door Of Communion
 
-*"I have set before thee an open door, and no man can shut it"* &mdash; Rev. 3:8
+*"I have set before thee an open door, and no man can shut it"* — Rev. 3:8
 
 Saints who remain faithful to the truth of God have an open door before them. My soul, thou hast resolved to live and die by that which the Lord has revealed in His Word, and therefore before thee stands this open door.
 

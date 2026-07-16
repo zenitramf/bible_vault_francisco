@@ -10,7 +10,7 @@ tags: [faith, covenant]
 ---
 # June 30 - Back Then Forward
 
-*"Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant"* &mdash; Ezek. 16:60
+*"Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant"* — Ezek. 16:60
 
 Notwithstanding our sins, the Lord is still faithful in His love to us. He looks back. See how He remembers those early days of ours when He took us into covenant with Himself, and we gave ourselves over to Him. Happy days those! The Lord does not twit us with them, and charge us with being insincere. No, He looks rather to His covenant with us than to our covenant with Him. There was no hypocrisy in that sacred compact, on His part, at any rate. How gracious is the Lord thus to look back in love!
 

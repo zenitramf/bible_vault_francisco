@@ -14,7 +14,7 @@ bible_book_name: "John"
 ---
 # March 10 - Walk In Light
 
-*"I am come a light into the world, that whosoever believeth on me should not abide in darkness"* &mdash; John 12:46
+*"I am come a light into the world, that whosoever believeth on me should not abide in darkness"* — John 12:46
 
 This world is dark as midnight; Jesus has come that by faith we may have light, and may no longer sit in the gloom which covers all the rest of mankind.
 

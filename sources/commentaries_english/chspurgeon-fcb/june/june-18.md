@@ -11,7 +11,7 @@ tags: [grace, faith, prayer, worship]
 ---
 # June 18 - God Himself Shall Work
 
-*"Now will I rise, saith the Lord; now will I be exalted; now will I lift up myself"* &mdash; Isa. 33:10
+*"Now will I rise, saith the Lord; now will I be exalted; now will I lift up myself"* — Isa. 33:10
 
 When the spoilers had made the land as waste as if devoured by locusts, and the warriors who had defended the country sat down and wept like women, then the Lord came to the rescue. When travelers ceased from the roads to Zion, and Bashan and Carmel were as vineyards from which the fruit has failed, then the Lord arose. God is exalted in the midst of an afflicted people, for they seek His face and trust Him. He is still more exalted when in answer to their cries He lifts up Himself to deliver them and overthrow their enemies.
 

@@ -8,7 +8,7 @@
 * [Sermon 3181 | A Sermon for a Winter's Evening](sermon_3181.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3182 | Boldness at the Throne](sermon_3182.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3183 | Cheer for Despondency](sermon_3183.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3184 | Maroth&mdash;or, the Disappointed](sermon_3184.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 3184 | Maroth—or, the Disappointed](sermon_3184.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3185 | \"A Song of My Beloved\"](sermon_3185.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3186 | Peter's Shortest Prayer](sermon_3186.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3187 | The Great Pot and the Twenty Loaves](sermon_3187.md) - A sermon by Charles H. Spurgeon.

@@ -8,7 +8,7 @@
 * [Sermon 2397 | \"Out of Darkness Into Light\"](sermon_2397.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2398 | Mediation of Moses](sermon_2398.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2399 | \"Your First Love\"](sermon_2399.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2400 | Number 2400&mdash;or, \"Escape for Your Life!\"](sermon_2400.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2400 | Number 2400—or, \"Escape for Your Life!\"](sermon_2400.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2401 | The Child of Light and the Works of Darkness](sermon_2401.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2402 | Under Arrest](sermon_2402.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2403 | The Sweet and the Sweetener](sermon_2403.md) - A sermon by Charles H. Spurgeon.

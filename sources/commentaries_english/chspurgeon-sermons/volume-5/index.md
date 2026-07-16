@@ -35,7 +35,7 @@
 * [Sermon 255 | Justice Satisfied](sermon-255.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 256 | The Believer's Challenge](sermon-256.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 257 | The Scales of Judgment](sermon-257.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 258 | His Name&mdash;the Mighty God](sermon-258.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 258 | His Name—the Mighty God](sermon-258.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 259 | A Home Mission Sermon](sermon-259.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 260 | An Earnest Invitation](sermon-260.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 261 | The Call of Abraham](sermon-261.md) - A sermon by Charles H. Spurgeon.

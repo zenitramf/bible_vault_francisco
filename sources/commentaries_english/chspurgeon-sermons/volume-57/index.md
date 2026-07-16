@@ -50,7 +50,7 @@
 * [Sermon 3276 | Christ's Glory Turned to Shame](sermon_3276.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3277 | Good Cheer From Christ's Call and From Himself](sermon_3277.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3278 | The Wordless Book](sermon_3278.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3279 | \"Ever This Our War Cry&mdash;victory, Victory!\"](sermon_3279.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 3279 | \"Ever This Our War Cry—victory, Victory!\"](sermon_3279.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3280 | Christ's Prayer and Plea](sermon_3280.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3281 | The Broad Wall](sermon_3281.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3282 | Preparing for the Week of Prayer](sermon_3282.md) - A sermon by Charles H. Spurgeon.

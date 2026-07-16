@@ -15,7 +15,7 @@ bible_book_name: "Psalms"
 ---
 # February 14 - Mercy To The Undeserving
 
-*"He that trusteth in the Lord, mercy shall compass him about"* &mdash; Ps. 32:10
+*"He that trusteth in the Lord, mercy shall compass him about"* — Ps. 32:10
 
 O fair reward of trust! My Lord, grant it me to the full! The truster above all men feels himself to be a sinner; and lo, mercy is prepared for him: he knows himself to have no deservings, but mercy comes in, and keeps house for him on a liberal scale. O Lord, give me this mercy, even as I trust in thee!
 

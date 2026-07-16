@@ -13,7 +13,7 @@ bible_book_name: "Joshua"
 ---
 # May 24 - One A Majority!
 
-*"One man of you shall chase a thousand: for the Lord your God, he it is that fighteth for you, as he hath promised you"* &mdash; Joshua 23:10
+*"One man of you shall chase a thousand: for the Lord your God, he it is that fighteth for you, as he hath promised you"* — Joshua 23:10
 
 Why count heads? One man with God is a majority though there be a thousand on the other side. Sometimes our helpers may be too many for God to work with them, as was the case with Gideon, who could do nothing till he had increased his forces by thinning out their numbers. But the Lord's hosts are never too few. When God would found a nation, He called Abram alone and blessed him. When He would vanquish proud Pharaoh, He used no armies, but Only Moses and Aaron. The "one man ministry," as certain wise men call it, has been far more used of the Lord than trained bands with their officers. Did all the Israelites together slay so many as Samson alone? Saul and his hosts slew their thousands, but David his ten thousands.
 

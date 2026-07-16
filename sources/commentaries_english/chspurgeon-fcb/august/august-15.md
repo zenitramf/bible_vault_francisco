@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # August 15 - A Name Guarantee
 
-*"And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son"* &mdash; John 14:13
+*"And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son"* — John 14:13
 
 It is not every believer who has yet learned to pray in Christ's name. To ask not only for His sake, but in His name, as authorized by Him, is a high order of prayer. We would not dare to ask for some things in that blessed name, for it would be a wretched profanation of it; but when the petition is so clearly right that we dare set the name of Jesus to it, then it must be granted.
 

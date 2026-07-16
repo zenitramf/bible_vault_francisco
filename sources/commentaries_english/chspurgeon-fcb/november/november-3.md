@@ -10,7 +10,7 @@ tags: [grace, faith]
 ---
 # November 3 - In God's Time
 
-*"For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry"* &mdash; Hab. 2:3
+*"For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry"* — Hab. 2:3
 
 Mercy may seem slow, but it is sure. The Lord in unfailing wisdom has appointed a time for the outgoings of His gracious power, and God's time is the best time. We are in a hurry; the vision of the blessing excites our desire, and hastens our longings; but the Lord will keep His appointments. He never is before His time; He never is behind.
 

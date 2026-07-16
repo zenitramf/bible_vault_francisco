@@ -10,7 +10,7 @@ tags: [faith, hope]
 ---
 # June 12 - Dwelling Safely Apart
 
-*"Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of corn and wine; also his heavens shall drop down dew"* &mdash; Deut. 33:28
+*"Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of corn and wine; also his heavens shall drop down dew"* — Deut. 33:28
 
 The more we dwell alone, the more safe shall we be. God would have His people separate from sinners. His call to them is, "Come ye out from among them." A Christian world is such a monstrosity as the Scriptures never contemplate. A worldly Christian is spiritually diseased. Those who compromise with Christ's enemies may be reckoned with them.
 

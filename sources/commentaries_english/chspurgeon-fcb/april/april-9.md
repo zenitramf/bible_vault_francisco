@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # April 9 - The Bible's Supreme Place
 
-*"Great peace have they which love thy law: and nothing shall offend them"* &mdash; Ps. 119:165
+*"Great peace have they which love thy law: and nothing shall offend them"* — Ps. 119:165
 
 Yes, a true love for the great Book will bring us great peace from the great God, and be a great protection to us. Let us live constantly in the society of the law of the Lord, and it will breed in our hearts a restfulness such as nothing else can. The Holy Spirit acts as a Comforter through the Word, and sheds abroad those benign influences which calm the tempests of the soul.
 

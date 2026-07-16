@@ -14,7 +14,7 @@ bible_book_name: "Mark"
 ---
 # December 9 - The "all" Of Belief
 
-*"Jesus said unto him, If thou canst believe, all things are possible to him that believeth"* &mdash; Mark 9:23
+*"Jesus said unto him, If thou canst believe, all things are possible to him that believeth"* — Mark 9:23
 
 Our unbelief is the greatest hindrance in our way; in fact, there is no other real difficulty as to our spiritual progress and prosperity. The Lord can do everything; but when He makes a rule that according to our faith so shall it be unto us, our unbelief ties the hands of His Omnipotence.
 

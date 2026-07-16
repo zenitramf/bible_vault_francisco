@@ -10,7 +10,7 @@ tags: [christ, faith, church]
 ---
 # August 23 - Love And Seek True Wisdom
 
-*"I love them that love me; and those that seek me early shalt find me"* &mdash; Prov. 8:17
+*"I love them that love me; and those that seek me early shalt find me"* — Prov. 8:17
 
 Wisdom loves her lovers, and seeks her seekers. He is already wise who seeks to be wise, and he has almost found wisdom who diligently seeks her. What is true of wisdom in general is specially true of wisdom embodied in our Lord Jesus. Him we are to love and to seek, and in return we shall enjoy His love, and find Himself.
 

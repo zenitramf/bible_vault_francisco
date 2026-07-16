@@ -10,7 +10,7 @@
 * [Sermon 1454A | The Empty Seat](sermon_1454A.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1454B | The Poor Man's Prayer](sermon_1454B.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1455 | Every Man's Necessity](sermon_1455.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1456 | Peace&mdash;a Fact and a Feeling](sermon_1456.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1456 | Peace—a Fact and a Feeling](sermon_1456.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1457A | Seekers Directed and Encouraged](sermon_1457A.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1457B | The Numbered People](sermon_1457B.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1458 | A Sermon Upon One Nothing by Another Nothing](sermon_1458.md) - A sermon by Charles H. Spurgeon.
@@ -57,7 +57,7 @@
 * [Sermon 1494 | The One Foundation](sermon_1494.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1495 | The King-Priest](sermon_1495.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1496 | Among Lions](sermon_1496.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1497 | Self-righteousness&mdash;a Smoldering Heap of Rubbish](sermon_1497.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1497 | Self-righteousness—a Smoldering Heap of Rubbish](sermon_1497.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1498 | Mistrust of God Deplored and Denounced](sermon_1498.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1499 | The Lessons of the Foot-washing](sermon_1499.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1500 | Number 1500, Or Lifting Up the Bronze Serpent](sermon_1500.md) - A sermon by Charles H. Spurgeon.

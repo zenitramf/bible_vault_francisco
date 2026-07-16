@@ -5,7 +5,7 @@
 * [Sermon 1331 | The Two \"Comes\"](sermon_1331.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1332 | Our Urgent Need of the Holy Spirit](sermon_1332.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1333 | \"Rest in the Lord\"](sermon_1333.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1334 | Coming&mdash;Always Coming](sermon_1334.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1334 | Coming—Always Coming](sermon_1334.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1335 | A Cheery Word in Troublous Times](sermon_1335.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1336 | A Family Sermon](sermon_1336.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1337 | Love's Medicines and Miracles](sermon_1337.md) - A sermon by Charles H. Spurgeon.
@@ -30,7 +30,7 @@
 * [Sermon 1356 | The Heavenly Wind](sermon_1356.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1357 | A Business-Like Account](sermon_1357.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1358 | All the People at Work for Jesus](sermon_1358.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1359 | Happiness&mdash;the Privilege and Duty of Christians](sermon_1359.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1359 | Happiness—the Privilege and Duty of Christians](sermon_1359.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1360 | The Good Samaritan](sermon_1360.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1361 | The Final Perseverance of the Saints](sermon_1361.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1362 | Mourning For Christ](sermon_1362.md) - A sermon by Charles H. Spurgeon.

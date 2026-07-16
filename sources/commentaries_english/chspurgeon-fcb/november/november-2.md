@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # November 2 - Heavenly Wealth
 
-*"No good thing will he withhold from them that walk uprightly"* &mdash; Ps. 84:11
+*"No good thing will he withhold from them that walk uprightly"* — Ps. 84:11
 
 Many pleasing things the Lord may withhold, but "no good thing." He is the best judge of what is good for us. Some things are assuredly good, and these we may have for the asking through Jesus Christ our Lord.
 

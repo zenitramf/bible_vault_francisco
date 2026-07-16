@@ -10,7 +10,7 @@ tags: [grace, faith, holiness, church]
 ---
 # January 20 - The Overcomer
 
-*"To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God."* &mdash; Rev. 2:7
+*"To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God."* — Rev. 2:7
 
 No man may turn his back in the day of battle, or refuse to go to the holy war. We must fight if we would reign, and we must carry on the warfare till we overcome every enemy, or else this promise is not for us, since it is only for "him that overcometh." We are to overcome the false prophets who have come into the world, and all the evils which accompany their teaching. We are to overcome our own faintness of heart, and tendency to decline from our first love. Read the whole of the Spirit's word to the church at Ephesus.
 

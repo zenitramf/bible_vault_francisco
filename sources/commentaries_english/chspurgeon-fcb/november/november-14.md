@@ -15,7 +15,7 @@ bible_book_name: "John"
 ---
 # November 14 - The Name To Use
 
-*"If ye shall ask anything in my name, I will do it"* &mdash; John 14:14
+*"If ye shall ask anything in my name, I will do it"* — John 14:14
 
 What a wide promise! Anything! Whether large or small, all my needs are covered by that word "anything." Come, my soul, be free at the mercy seat, and hear thy Lord saying to thee, "Open thy mouth wide, and I will fill it."
 

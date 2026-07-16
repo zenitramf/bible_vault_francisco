@@ -11,7 +11,7 @@ tags: [grace, faith, suffering]
 ---
 # Sept. 5 - With Me Wherever I Am
 
-*"The Lord will be with you"* &mdash; II Chron. 20:17
+*"The Lord will be with you"* — II Chron. 20:17
 
 This was a great mercy for Jehoshaphat, for a great multitude had come out against him; and it will be a great mercy for me, for I have great need, and I have no might or wisdom. If the Lord be with me, it matters little who may desert me. If the Lord be with me, I shall conquer in the battle of life, and the greater my trials the more glorious will be my victory. How can I be sure that the Lord is with me?
 

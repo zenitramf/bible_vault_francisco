@@ -10,7 +10,7 @@ tags: [grace, faith, holiness, covenant]
 ---
 # October 12 - Mark Of Covenant Grace
 
-*"And the Lord thy God will circumcise thine heart, and the heart of thy seed, to love the Lord thy God with all thine heart, and with all thy soul, that thou mayest live"* &mdash; Deut. 30:6
+*"And the Lord thy God will circumcise thine heart, and the heart of thy seed, to love the Lord thy God with all thine heart, and with all thy soul, that thou mayest live"* — Deut. 30:6
 
 Here we read of the true circumcision.
 

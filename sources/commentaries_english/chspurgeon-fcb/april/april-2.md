@@ -11,7 +11,7 @@ tags: [faith, holiness, church, pastoral-ministry]
 ---
 # April 2 - True Heart-energy
 
-*"Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all"* &mdash; I Tim. 4:15
+*"Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all"* — I Tim. 4:15
 
 This is, practically, a promise that, by diligent meditation and the giving up of our whole mind to our work for the Lord, we shall make a progress which all can see. Not by hasty reading, but by deep meditation, we profit by the Word of God. Not by doing a great deal of work in a slovenly manner, but by giving our best thought to what we attempt, we shall get real profit. "In all labor there is profit," but not in fuss and hurry without true heart-energy.
 

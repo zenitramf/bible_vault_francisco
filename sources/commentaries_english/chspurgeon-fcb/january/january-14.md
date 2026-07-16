@@ -10,7 +10,7 @@ tags: [salvation, faith, holiness, hope]
 ---
 # January 14 - Rest Is A Gift
 
-*"Come unto me, all ye that labor and are heavy laden, and I will give you rest."* &mdash; Matt. 11:28
+*"Come unto me, all ye that labor and are heavy laden, and I will give you rest."* — Matt. 11:28
 
 We who are saved find rest in Jesus. Those who are not saved will receive rest if they come to Him, for here He promises to "give" it. Nothing can be freer than a gift; let us gladly accept what He gladly gives. You are not to buy it, nor to borrow it; but to receive it as a gift. You labor under the lash of ambition, covetousness, lust, or anxiety: He will set you free from this iron bondage, and give you rest. You are "laden" -- yes, "heavy laden" with sin, fear, care, remorse, fear of death; but if you come to Him, He will unload you. He carried the crushing mass of our sin, that we might no longer carry it. He made Himself the great Burden-bearer, that every heavy laden one might cease from bowing down under the enormous pressure.
 

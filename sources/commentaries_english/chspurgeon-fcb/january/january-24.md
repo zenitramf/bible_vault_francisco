@@ -10,7 +10,7 @@ tags: [faith, holiness, discipleship]
 ---
 # January 24 - Care Of Our Feet
 
-*"He will keep the feet of his saints."* &mdash; I Sam. 2:9
+*"He will keep the feet of his saints."* — I Sam. 2:9
 
 The way is slippery, and our feet are feeble, but the Lord will keep our feet. If we give ourselves up by obedient faith to be His holy ones, He will Himself be our guardian. Not only will He charge His angels to keep us, but He Himself will preserve our goings.
 

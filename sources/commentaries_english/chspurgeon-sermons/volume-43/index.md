@@ -4,7 +4,7 @@
 
 * [Sermon 2498 | A Portrait No Artist Can Paint](sermon_2498.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2499 | Christopathy](sermon_2499.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2500 | Number 2500&mdash;or, \"entrance and Exclusion\"](sermon_2500.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2500 | Number 2500—or, \"entrance and Exclusion\"](sermon_2500.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2501 | All and All in All](sermon_2501.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2502 | Grace and Glory](sermon_2502.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2503 | The Question Between the Plagues](sermon_2503.md) - A sermon by Charles H. Spurgeon.

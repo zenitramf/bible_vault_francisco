@@ -18,4 +18,5 @@
 * [Redemption](Redemption.md) - Price-paid deliverance through Christ, foundational for belonging to God and freedom from sin (1 Cor 6:19–20; Rom 3:24–26).
 * [Salvation](Salvation.md) - God's free grace in Christ, received by faith and not by works of the law (Acts 15:11; Rom 3–4; Eph 2).
 * [Spiritual Warfare](Spiritual%20Warfare.md) - The Christian life as a real war against the devil, principalities and powers, fought with spiritual weapons and the whole armor of God (Eph 6:10–18; 1 Pe 5:8–9; Jas 4:7; Mt 4:1–11).
+* [Wisdom](Wisdom.md) - God-given skill for living that outranks all earthly wealth; in its highest form, the personal Wisdom who is Christ (Pr 16:16; Pr 3:14; Pr 8:10–11, 19; Jb 28; Ps 119:98–100; Col 2:3).
 * [Worship](Worship.md) - Spirit-and-truth approach to the Father in praise, sanctuary service, and accepted offering (Jn 4:20–24; Ps 134).

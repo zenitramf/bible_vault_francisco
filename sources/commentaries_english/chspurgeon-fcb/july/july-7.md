@@ -11,7 +11,7 @@ tags: [grace, faith, worship, praise]
 ---
 # July 7 - A Mountain Choir
 
-*"Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the Lord hath comforted his people, and will have mercy upon his afflicted."* &mdash; Isa. 49:13
+*"Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the Lord hath comforted his people, and will have mercy upon his afflicted."* — Isa. 49:13
 
 So sweet are the comforts of the Lord, that not only the saints themselves may sing of them, but even the Heavens and the earth may take up the song. It takes something to make a mountain sing; and yet the prophet summons quite a choir of them. Lebanon, and Sirion, and the high hills of Bashan and Moab, He would set them all singing because of Jehovah's grace to His own Zion. May we not also make mountains of difficulty, and trial, and mystery, and labor become occasions for praise unto our God? "Break forth into singing, O mountains!"
 

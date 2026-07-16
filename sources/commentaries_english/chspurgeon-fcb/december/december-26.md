@@ -11,7 +11,7 @@ tags: [faith, covenant]
 ---
 # December 26 - God Only, You Can Trust
 
-*"Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended"* &mdash; Matt. 26:33
+*"Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended"* — Matt. 26:33
 
 "Why," cries one, "this is no promise of God." Just so, but it was a promise of man, and therefore it came to nothing. Peter thought that he was saying what he should assuredly carry out; but a promise which has no better foundation than a human resolve will fall to the ground. No sooner did temptations arise than Peter denied his Master, and used oaths to confirm his denial.
 

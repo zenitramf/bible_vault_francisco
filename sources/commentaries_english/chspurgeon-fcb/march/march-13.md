@@ -13,7 +13,7 @@ tags: [faith, worship, pastoral-ministry, hope]
 ---
 # March 13 - Despise Not Thy Youth
 
-*"Then said I, Ah, Lord God! behold, I cannot speak; for I am a child. But the Lord said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak"* &mdash; Jer. 1:6
+*"Then said I, Ah, Lord God! behold, I cannot speak; for I am a child. But the Lord said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak"* — Jer. 1:6
 
 Jeremiah was young and felt a natural shrinking when sent upon a great errand by the Lord; but He who sent him would not have him say, "I am a child." What he was in himself must not be mentioned, but lost in the consideration that he was chosen to speak for God. He had not to think out and invent a message, nor to choose an audience: he was to speak what God commanded, and speak where God sent him, and this he would be enabled to do in strength not his own.
 

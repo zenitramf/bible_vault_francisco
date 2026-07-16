@@ -10,7 +10,7 @@ tags: [christ, grace, faith]
 ---
 # August 6 - Go; Take Your Property
 
-*"Behold, the Lord thy God hath set the land before thee: go up and possess it, as the Lord God of thy fathers hath said unto thee; fear not, neither be discouraged"* &mdash; Deut. 1:21
+*"Behold, the Lord thy God hath set the land before thee: go up and possess it, as the Lord God of thy fathers hath said unto thee; fear not, neither be discouraged"* — Deut. 1:21
 
 There is a heritage of grace which we ought to be bold enough to win for our own possession. All that one believer has gained is free to another. We may be strong in faith, fervent in love, and abundant in labor; there is nothing to prevent it; let us go up and take possession. The sweetest experience and the brightest grace are as much for us as for any of our brethren, Jehovah has set it before us; no one can deny our right; let us go up and possess it in His name.
 

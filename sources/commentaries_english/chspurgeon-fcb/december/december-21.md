@@ -13,7 +13,7 @@ bible_book_name: "Micah"
 ---
 # December 21 - From Anger To Love
 
-*"He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea"* &mdash; Micah 7:19
+*"He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea"* — Micah 7:19
 
 God never turns from His love, but He soon turns from His wrath. His love to His chosen is according to His nature, His anger is only according to His office: He loves because He is love, He frowns because it is necessary for our good. He will come back to the place in which His heart rests, namely, His love to His own, and then He will take pity upon our griefs and end them.
 

@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # Sept. 27 - The Divine Light In Darkness
 
-*"For thou wilt light my candle"* &mdash; Ps. 18:28
+*"For thou wilt light my candle"* — Ps. 18:28
 
 It may be that my soul sits in darkness; and if this be of a spiritual kind, no human power can bring me light. Blessed be God! He can enlighten my darkness, and at once light my candle. Even though I may be surrounded by a "darkness which might be felt," yet He can break the gloom, and immediately make it bright around me.
 

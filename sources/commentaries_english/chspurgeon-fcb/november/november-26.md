@@ -14,7 +14,7 @@ bible_book_name: "John"
 ---
 # November 26 - Heavenly Alchemy
 
-*"Your sorrow shall be turned into joy"* &mdash; John 16:20
+*"Your sorrow shall be turned into joy"* — John 16:20
 
 Their particular sorrow was the death and absence of their Lord, and it was turned into joy when He rose from the dead and showed Himself in their midst. All the sorrows of saints shall be thus transmuted; even the worst of them, which look as if they must for ever remain fountains of bitterness.
 

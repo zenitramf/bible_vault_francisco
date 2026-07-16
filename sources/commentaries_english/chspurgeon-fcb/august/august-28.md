@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # August 28 - Out Of Any Circumstance
 
-*"As for me, I will call upon God; and the Lord shall save me"* &mdash; Ps. 55:16
+*"As for me, I will call upon God; and the Lord shall save me"* — Ps. 55:16
 
 Yes, I must and will pray. What else can I do? What better can I do? Betrayed, forsaken, grieved, baffled, O my Lord, I will call upon thee. My Ziklag is in ashes, and men speak of stoning me; but I encourage my heart in the Lord, who will bear me through this trial as He has borne me through so many others. Jehovah shall save me; I am sure He will, and I declare my faith.
 

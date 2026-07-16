@@ -6,9 +6,9 @@
 * [Sermon 849 | Unsound Spiritual Trading](sermon_849.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 850 | Soul-winning](sermon_850.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 851 | Nearness To God](sermon_851.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 852 | Constancy And Inconstancy&mdash;a Contrast](sermon_852.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 852 | Constancy And Inconstancy—a Contrast](sermon_852.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 853 | A Sermon for the Most Miserable of Men](sermon_853.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 854 | Fire&mdash;the Need of the Times](sermon_854.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 854 | Fire—the Need of the Times](sermon_854.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 855 | Everyday Usefulness](sermon_855.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 856 | The Importunate Widow](sermon_856.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 857 | Timely Reflections](sermon_857.md) - A sermon by Charles H. Spurgeon.
@@ -22,7 +22,7 @@
 * [Sermon 865 | Deep Calls Unto Deep](sermon_865.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 866 | Rest](sermon_866.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 867 | Tearful Sowing and Joyful Reaping](sermon_867.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 868 | Mature Faith&mdash;Illustrated By Abraham's Offering Up Isaac](sermon_868.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 868 | Mature Faith—Illustrated By Abraham's Offering Up Isaac](sermon_868.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 869 | The Gospel of Abraham's Sacrifice of Isaac](sermon_869.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 870 | Things Present](sermon_870.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 871 | To Those Who Are \"Almost Persuaded\"](sermon_871.md) - A sermon by Charles H. Spurgeon.
@@ -58,7 +58,7 @@
 * [Sermon 901 | The Upper Hand](sermon_901.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 902 | Safe Shelter](sermon_902.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 903 | The Way Everlasting](sermon_903.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 904 | The Eye&mdash;a Similitude](sermon_904.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 904 | The Eye—a Similitude](sermon_904.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 905 | Footsteps Of Mercy](sermon_905.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 906 | The Soul's Crisis](sermon_906.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 907 | Christ&mdash;the Fall and Rise of Many](sermon_907.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 907 | Christ—the Fall and Rise of Many](sermon_907.md) - A sermon by Charles H. Spurgeon.

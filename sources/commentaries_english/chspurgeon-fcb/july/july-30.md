@@ -14,7 +14,7 @@ bible_book_name: "John"
 ---
 # July 30 - Promise Of Future Meeting
 
-*"I will see you again, and your heart shall rejoice."* &mdash; John 16:22
+*"I will see you again, and your heart shall rejoice."* — John 16:22
 
 Surely He will come a second time, and then, when He sees us, and we see Him, there will be rejoicings indeed. Oh for that joyous return!
 

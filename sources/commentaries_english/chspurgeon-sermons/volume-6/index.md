@@ -25,7 +25,7 @@
 * [Sermon 307 | Importance of Small Things in Religion](sermon-307.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 308 | The Parable Of The Sower](sermon-308.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 309 | Full Redemption](sermon-309.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 310 | Christ&mdash;Our Substitute](sermon-310.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 310 | Christ—Our Substitute](sermon-310.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 311 | The Beginning, Increase, and End of the Divine Life](sermon-311.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 312 | Personal Service](sermon-312.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 313 | Terrible Convictions and Gentle Drawings](sermon-313.md) - A sermon by Charles H. Spurgeon.
@@ -42,12 +42,12 @@
 * [Sermon 324 | Effects Of Sound Doctrine](sermon-324.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 325 | Constraining Love](sermon-325.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 326 | Everywhere And Yet Forgotten](sermon-326.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 326 | Vessels Of Mercy&mdash;a Sermon Of Self-Examination](sermon-327.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 328 | True Prayer&mdash;True Power!](sermon-328.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 326 | Vessels Of Mercy—a Sermon Of Self-Examination](sermon-327.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 328 | True Prayer—True Power!](sermon-328.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 329 | Christ's First and Last Subject](sermon-329.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 330 | Reigning Grace](sermon-330.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 333 | Three Homilies From One Text](sermon-333.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 334 | Man's Weakness&mdash;God's Anointing](sermon-334.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 334 | Man's Weakness—God's Anointing](sermon-334.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 335 | A Single Eye And Simple Faith](sermon-335.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 336 | Struggles of Conscience](sermon-336.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 337 | Sin Slain](sermon-337.md) - A sermon by Charles H. Spurgeon.

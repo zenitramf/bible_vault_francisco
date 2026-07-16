@@ -14,7 +14,7 @@ bible_book_name: "Hosea"
 ---
 # Sept. 7 - The Reach Of Almighty Grace
 
-*"It shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God"* &mdash; Hosea 1:10
+*"It shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God"* — Hosea 1:10
 
 Sovereign grace can make strangers into sons, and the Lord here declares His purpose to deal thus with rebels, and make them know what He has done. Beloved reader, the Lord has done this in my case; has He done the like for you? Then let us join hands and hearts in praising His adorable name.
 

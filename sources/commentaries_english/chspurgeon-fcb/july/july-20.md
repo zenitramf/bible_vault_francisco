@@ -10,7 +10,7 @@ tags: [salvation, faith, worship, discipleship]
 ---
 # July 20 - Looking For Him
 
-*"Unto them that look for him shall he appear the second time without sin unto salvation."* &mdash; Heb. 9:28
+*"Unto them that look for him shall he appear the second time without sin unto salvation."* — Heb. 9:28
 
 This is our hope. He to whom we have already looked as coming once to bear the sins of many will have another manifestation to the sons of men; this is a happy prospect in itself. But that second appearing has certain peculiar marks which glorify it exceedingly.
 

@@ -13,7 +13,7 @@ bible_book_name: "James"
 ---
 # Sept. 14 - Mark Of Divine Approval
 
-*"Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him"* &mdash; James 1:12
+*"Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him"* — James 1:12
 
 Yes, he is blessed while he is enduring the trial. No eye can see this till it has been anointed with heavenly eye-salve. But he must endure it, and neither rebel against God, nor turn aside from his integrity. He is blessed who has gone through the fire, and has not been consumed as a counterfeit.
 

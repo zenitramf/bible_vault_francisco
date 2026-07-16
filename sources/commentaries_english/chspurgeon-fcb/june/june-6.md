@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # June 6 - He Always Listens
 
-*"The Lord hath heard my supplication; the Lord will receive my prayer."* &mdash; Ps. 6:9
+*"The Lord hath heard my supplication; the Lord will receive my prayer."* — Ps. 6:9
 
 The experience here recorded is mine. I can set to my seal that God is true. In very wonderful ways He has answered the prayers of His servant many and many a time. Yes, and He is hearing my present supplication, and He is not turning away His ear from me. Blessed be His holy name!
 

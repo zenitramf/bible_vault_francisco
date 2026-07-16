@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # February 27 - Unstaggering Trustfulness
 
-*"He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord"* &mdash; Ps. 112:7
+*"He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord"* — Ps. 112:7
 
 Suspense is dreadful. When we have no news from home, we are apt to grow anxious, and we cannot be persuaded that "no news is good news." Faith is the cure for this condition of sadness: the Lord by His Spirit settles the mind in holy serenity, and all fear is gone as to the future as well as the present.
 

@@ -13,7 +13,7 @@ bible_book_name: "Acts"
 ---
 # July 27 - More Than Mere Words
 
-*"I will give you the sure mercies of David."* &mdash; Acts 13:34
+*"I will give you the sure mercies of David."* — Acts 13:34
 
 Nothing of man is sure; but everything of God is so. Especially are covenant mercies sure mercies, even as David said "an everlasting covenant, ordered in all things and sure."
 

@@ -34,7 +34,7 @@
 * [Sermon 1727 | The Voice from the Cloud and the Voice of the Beloved](sermon_1727.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1728 | The Works of the Devil Destroyed](sermon_1728.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1729 | Beginning at Jerusalem](sermon_1729.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1730 | A Cure For Unsavory Meats&mdash;or, Salt for the White of an Egg](sermon_1730.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1730 | A Cure For Unsavory Meats—or, Salt for the White of an Egg](sermon_1730.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1731 | Accepted of the Great Father](sermon_1731.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1732 | In Him: Like Him](sermon_1732.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1733 | On Humbling Ourselves before God](sermon_1733.md) - A sermon by Charles H. Spurgeon.
@@ -52,12 +52,12 @@
 * [Sermon 1745 | Abijah, or Some Good Thing Towards the Lord](sermon_1745.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1746 | The Devil's Last Throw](sermon_1746.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1747 | Marvelous! Marvelous!](sermon_1747.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1748 | Jehovah Has Spoken&mdash;will You Not Hear?](sermon_1748.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1748 | Jehovah Has Spoken—will You Not Hear?](sermon_1748.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1749 | A Luther Sermon at the Tabernacle](sermon_1749.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1750 | The Luther Sermon at Exeter Hall](sermon_1750.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1751 | Fathers In Christ](sermon_1751.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1752 | Mourners, Inquirers, Covenanters](sermon_1752.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1753 | Blessed Promises For Dying Outcasts](sermon_1753.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1754 | The Blind Man's Eyes Opened&mdash;or, Practical Christianity](sermon_1754.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1754 | The Blind Man's Eyes Opened—or, Practical Christianity](sermon_1754.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1755 | The Top of the Ladder](sermon_1755.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1756 | Renewing Strength](sermon_1756.md) - A sermon by Charles H. Spurgeon.

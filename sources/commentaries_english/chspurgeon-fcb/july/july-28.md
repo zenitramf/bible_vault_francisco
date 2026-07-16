@@ -10,7 +10,7 @@ tags: [faith, justice]
 ---
 # July 28 - Bow Down; Be Lifted Up
 
-*"Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time."* &mdash; I Peter 5:6
+*"Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time."* — I Peter 5:6
 
 This is tantamount to a promise: if we will bow down, the Lord will lift us up. Humility leads to honor: submission is the way to exaltation. That same hand of God which presses us down is waiting to raise us up when we are prepared to bear the blessing. We stoop to conquer. Many cringe before men, and yet miss the patronage they crave; but he that humbles himself under the hand of God shall not fail to be enriched, uplifted, sustained, and comforted by the ever-gracious One. It is a habit of Jehovah to cast down the proud, and lift up the lowly.
 

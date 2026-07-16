@@ -10,7 +10,7 @@ tags: [holy-spirit, faith, holiness, hope]
 ---
 # May 3 - Listen For The Signal
 
-*"And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the Lord go out before thee, to smite the host of the Philistines"* &mdash; II Sam. 5:24
+*"And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the Lord go out before thee, to smite the host of the Philistines"* — II Sam. 5:24
 
 There are signs of the Lord's moving which should move us. The Spirit of God blows where He listeth, and we hear the sound thereof. Then is the time for us to be more than ever astir. We must seize the golden opportunity, and make the most we can of it. It is ours to fight the Philistines at all times; but when the Lord Himself goes out before us, then we should be specially valiant in the war.
 

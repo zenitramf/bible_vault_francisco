@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # March 7 - From Fetters Free
 
-*"The Lord looseth the prisoners"* &mdash; Ps. 146:7
+*"The Lord looseth the prisoners"* — Ps. 146:7
 
 He has done it. Remember Joseph, Israel in Egypt, Manasseh, Jeremiah, Peter, and many others. He can do it still. He breaks the bars of brass with a word, and snaps the fetters of iron with a look. He is doing it. In a thousand places troubled ones are coming forth to light and enlargement. Jesus still proclaims the opening of the prison to them that are bound. At this moment doors are flying back and fetters are dropping to the ground.
 

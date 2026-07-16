@@ -10,7 +10,7 @@ tags: [christ, grace, faith, prayer]
 ---
 # October 13 - If, And A Triple Promise
 
-*"If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land"* &mdash; II Chron. 7:14
+*"If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land"* — II Chron. 7:14
 
 Called by the name of the Lord, we are nevertheless erring men and women. What a mercy it is that our God is ready to forgive! Whenever we sin let us hasten to the mercy-seat of our God, seeking pardon.
 

@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # March 19 - Becoming Fit For Glory
 
-*"The Lord will give grace and glory"* &mdash; Ps. 84:11
+*"The Lord will give grace and glory"* — Ps. 84:11
 
 Grace is what we need just now, and it is to be had freely. What can be freer than a gift? Today we shall receive sustaining, strengthening, sanctifying, satisfying grace. He has given daily grace until now, and as for the future, that grace is still sufficient. If we have but little grace the fault must lie in ourselves; for the Lord is not straitened, neither is He slow to bestow it in abundance. We may ask for as much as we will and never fear a refusal. He giveth liberally and upbraideth not.
 

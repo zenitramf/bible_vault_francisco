@@ -10,7 +10,7 @@ tags: [faith, worship, hope, justice]
 ---
 # May 6 - Cure For Envy
 
-*"Let not thine heart envy sinners: but be thou in the fear of the Lord all the day long. For surely there is an end; and thine expectation shall not be cut off"* &mdash; Prov. 23:17
+*"Let not thine heart envy sinners: but be thou in the fear of the Lord all the day long. For surely there is an end; and thine expectation shall not be cut off"* — Prov. 23:17
 
 When we see the wicked prosper we are apt to envy them. When we hear the noise of their mirth, and our own spirit is heavy, we half think that they have the best of it. This is foolish and sinful. If we knew them better, and specially if we remembered their end, we should pity them.
 

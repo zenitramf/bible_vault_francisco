@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # October 15 - Sustained By Feeding
 
-*"As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me"* &mdash; John 6:57
+*"As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me"* — John 6:57
 
 We live by virtue of our union with the Son of God. As God-man Mediator, the Lord Jesus lives by the self-existent Father who has sent Him, and in the same manner we live by the Saviour who has quickened us. He who is the source of our life is also the sustenance of it. Living is sustained by feeding. We must support the spiritual life by spiritual food, and that spiritual food is the Lord Jesus. Not His life, or death, or offices, or work, or word alone, but Himself, as including all these. On Jesus, Himself, we feed.
 

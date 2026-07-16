@@ -14,7 +14,7 @@ bible_book_name: "Luke"
 ---
 # November 7 - True Humility Rewarded
 
-*"He that humbleth himself shall be exalted"* &mdash; Luke 18:14
+*"He that humbleth himself shall be exalted"* — Luke 18:14
 
 It ought not to be difficult for us to humble ourselves, for what have we to be proud of? We ought to take the lowest place without being told to do so. If we are sensible and honest we shall be little in our own eyes. Especially before the Lord in prayer we shall shrink to nothing. There we cannot speak of merit, for we have none: our one and only appeal must be to mercy: "God be merciful to me a sinner."
 

@@ -10,7 +10,7 @@ tags: [christ, faith, justice]
 ---
 # April 20 - By Faith Not Feeling
 
-*"The just shall live by faith"* &mdash; Rom. 1:17
+*"The just shall live by faith"* — Rom. 1:17
 
 I shall not die. I can, I do believe in the Lord my God, and this faith will keep me alive. I would be numbered among those who in their lives are just; but even if I were perfect I would not try to live by my righteousness; I would cling to the work of the Lord Jesus, and still live by faith in Him and by nothing else. If I were able to give my body to be burned for my Lord Jesus, yet I would not trust in my own courage and constancy, but still would live by faith.
 

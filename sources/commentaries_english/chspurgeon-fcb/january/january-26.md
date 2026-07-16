@@ -11,7 +11,7 @@ tags: [faith, christian-life]
 ---
 # January 26 - God Routs Fear
 
-*"Surely there is no enchantment against Jacob, neither is there any divination against Israel."* &mdash; Num. 23:23
+*"Surely there is no enchantment against Jacob, neither is there any divination against Israel."* — Num. 23:23
 
 How this should cut up root and branch all silly, superstitious fears! Even if there were any truth in witchcraft and omens, they could not affect the people of the Lord. Those whom God blesses, devils cannot curse.
 

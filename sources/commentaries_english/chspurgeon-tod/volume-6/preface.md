@@ -35,5 +35,5 @@ Finally, when I reach the last Psalm, it is my firm conviction that I shall find
 
 Reader, I am thine to serve for Christ’s sake,
 
-&ndash; *C. H. Spurgeon*
+– *C. H. Spurgeon*
 

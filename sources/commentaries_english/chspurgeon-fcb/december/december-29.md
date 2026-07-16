@@ -11,7 +11,7 @@ tags: [grace, faith]
 ---
 # December 29 - He Will Carry Us Home
 
-*"And even to your old age I am he; and even to hoar hairs will I carry you: I have made, and I will bear; even I will carry, and will deliver you"* &mdash; Isa. 46:4
+*"And even to your old age I am he; and even to hoar hairs will I carry you: I have made, and I will bear; even I will carry, and will deliver you"* — Isa. 46:4
 
 The year is very old, and here is a promise for our aged friends; yes, and for us all, as age creeps over us. Let us live long enough, and we shall all have hoar hairs; therefore we may as well enjoy this promise by the foresight of faith.
 

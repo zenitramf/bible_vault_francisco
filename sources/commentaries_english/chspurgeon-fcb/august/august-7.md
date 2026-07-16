@@ -11,7 +11,7 @@ tags: [faith, holiness, discipleship]
 ---
 # August 7 - Rules For Prosperity
 
-*"Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it to the right hand or to the left, that thou mayest prosper whithersoever thou goest"* &mdash; Josh. 1:7
+*"Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it to the right hand or to the left, that thou mayest prosper whithersoever thou goest"* — Josh. 1:7
 
 Yes, the Lord will be with us in our holy war, but He demands of us that we strictly follow His rules. Our victories will very much depend upon our obeying Him with all our heart, throwing strength and courage into the actions of our faith. If we are halfhearted we cannot expect more than half a blessing.
 

@@ -10,7 +10,7 @@ tags: [faith, worship, holiness, hope]
 ---
 # June 11 - No Cause To Blush
 
-*"Fear not; for thou shalt not be ashamed"* &mdash; Isa. 54:4
+*"Fear not; for thou shalt not be ashamed"* — Isa. 54:4
 
 We shall not be ashamed of our faith. Carping critics may assail the Scriptures upon which we ground our belief, but every year the Lord will make it more and more clear that in His Book there is no error, no excess, and no omission. It is no discredit to be a simple believer; the faith which looks alone to Jesus is a crown of honor on any man's head, and better than a star on his breast.
 
