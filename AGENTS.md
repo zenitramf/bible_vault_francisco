@@ -213,12 +213,18 @@ python3 .tools/scripts/audit_public.py
 
 ## Query workflow
 
-Search maintained synthesis before raw evidence. Prefer the enriched catalog for a fast map of compiled notes (title, tags, Bible refs, source paths), then qmd:
+Search maintained synthesis before raw evidence. Prefer the enriched catalog, then the merged wiki helper, then sources:
 
 ```bash
 python3 .tools/scripts/wiki_tool.py search-catalog --query "query terms"
 python3 .tools/scripts/wiki_tool.py search-catalog --ref "mt 6"
 python3 .tools/scripts/wiki_tool.py search-catalog --tag prayer
+.qmd/bin/search-wiki-safe "natural-language or keyword question" --json
+```
+
+Channel-level wiki search (debug / fallback):
+
+```bash
 qmd search "query terms" -c bible-wiki --json -n 10
 .qmd/bin/semantic-wiki-safe "natural-language question" --json -n 10
 ```
@@ -230,21 +236,31 @@ qmd search "precise source terms" -c bible-sources --json -n 15
 qmd search "personal note terms" -c bible-sources --json -n 10
 ```
 
-Use `qmd get` or `qmd multi-get` to retrieve the selected documents. Cite the local wiki and source pages used in the answer. File an answer in `wiki/questions/` only when the user requests it or explicitly approves preserving it as a durable investigation.
+Optional personal-notes **vector pilot** (only after `.qmd/bin/embed-notes-safe`; never a substitute for full commentary embedding):
 
-On this server, do not use the full `qmd query` pipeline by default. Do not start a persistent qmd MCP or HTTP daemon. Query expansion and reranking load additional local models that are inappropriate for the machine's available memory. Combine lexical and wiki vector results in the agent instead.
+```bash
+.qmd/bin/semantic-notes-safe "pregunta personal" --format json -n 5
+```
+
+Use `qmd get` or `qmd multi-get` to retrieve the selected documents. Cite the local wiki and source pages used in the answer. Map qmd URI path segments back to disk paths for wikilinks when needed. File an answer in `wiki/questions/` only when the user requests it or explicitly approves preserving it as a durable investigation.
+
+On this server, do not use the full `qmd query` pipeline by default. Do not start a persistent qmd MCP or HTTP daemon. Query expansion and reranking load additional local models that are inappropriate for the machine's available memory. Prefer `.qmd/bin/search-wiki-safe` to merge catalog + lexical + wiki vectors.
 
 ## qmd resource safety
 
-This server has limited CPU and memory. All routine index changes use the guarded scripts:
+This server has limited CPU and memory. All routine index changes use the guarded scripts. Operational detail: `.qmd/README.md`.
 
 - `.qmd/bin/update-safe` refreshes the SQLite/BM25 index inside a 768 MiB memory and 50% CPU limit.
 - `.qmd/bin/embed-wiki-safe` embeds only `bible-wiki`, requires at least 1.5 GiB available memory, prevents concurrent embedding, uses one CPU context, and runs inside a 1.4 GiB memory and 50% CPU limit.
-- `.qmd/bin/semantic-wiki-safe` runs an explicit vector-only, no-rerank query against `bible-wiki` under the same model, memory, CPU, and concurrency protections. Do not substitute bare `qmd vsearch`; qmd 2.5.3 attempted to initialize the large query-expansion model during validation.
+- `.qmd/bin/embed-notes-safe` embeds only the tiny `bible-personal-notes` pilot collection under tighter limits.
+- `.qmd/bin/semantic-wiki-safe` runs an explicit vector-only, no-rerank query against `bible-wiki`. Do not substitute bare `qmd vsearch`; qmd 2.5.3 attempted to initialize the large query-expansion model during validation.
+- `.qmd/bin/search-wiki-safe` merges catalog + BM25 wiki + vector wiki without loading expansion/rerank models.
 
-Do not embed `bible-sources` without explicit user approval and a separate bounded pilot. Files in `raw/` are never indexed or embedded. Do not remove the cgroup, batch-size, CPU, concurrency, or timeout protections. A killed or failed embedding job is preferable to placing other server services under memory pressure.
+Do not embed full `bible-sources` without explicit user approval. The personal-notes pilot is the only pre-approved vector slice outside `bible-wiki`. Files in `raw/` are never indexed or embedded. Do not remove the cgroup, batch-size, CPU, concurrency, or timeout protections. A killed or failed embedding job is preferable to placing other server services under memory pressure.
 
-Run `.qmd/bin/benchmark-lexical` for the resource-safe retrieval baseline. Do not use `qmd bench` on this server: it exercises vector, hybrid, and full-model backends, including models intentionally excluded from routine operation.
+Missing generate/rerank models in `qmd doctor` are expected: they are intentionally not used in routine ops.
+
+Run `.qmd/bin/benchmark-lexical` and `.qmd/bin/benchmark-multilingual` for resource-safe retrieval baselines. Do not use `qmd bench` on this server: it exercises vector, hybrid, and full-model backends, including models intentionally excluded from routine operation.
 
 ## Lint workflow
 

@@ -39,6 +39,7 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27.
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/passages/Matthew 6 5-15|Matthew 6:5–15]]
 - [[wiki/passages/Romans 8 26-27|Romans 8:26–27]]
+- [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 
 ## Sources
 

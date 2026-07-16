@@ -36,9 +36,12 @@ Christ-centered ministry takes Christ's worth and gospel as its purpose, depends
 
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
 - [[wiki/concepts/Christ|Christ]]
+- [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Discipleship|Discipleship]]
+- [[wiki/passages/1 Timothy 1 12|1 Timothy 1:12]]
 - [[wiki/questions/What Sustains Christian Ministry|What Sustains Christian Ministry?]]
+- [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 
 ## Sources
 

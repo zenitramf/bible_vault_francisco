@@ -1,10 +1,12 @@
 {
   "description": "EN/ES lexical and wiki semantic retrieval checks for the bilingual Bible Vault",
-  "version": 1,
+  "version": 2,
   "notes": [
     "BM25 is sensitive to multi-term AND density on short Spanish notes; keep lexical queries compact.",
     "Semantic tests use .qmd/bin/semantic-wiki-safe (vec-only, no rerank) against bible-wiki embeddings only.",
-    "bible-sources are intentionally not embedded on this server."
+    "bible-sources are intentionally not embedded on this server.",
+    "bible-personal-notes may be embedded as a bounded pilot; not required for this fixture.",
+    "Passage pages (Matthew 6, Romans 8) require update-safe after those wiki files exist."
   ],
   "cases": [
     {
@@ -104,6 +106,33 @@
       "lang": "en"
     },
     {
+      "id": "en-lex-matthew-6-passage",
+      "mode": "lexical",
+      "collection": "bible-wiki",
+      "query": "Matthew 6 secret prayer hypocrisy",
+      "expected_substrings": [
+        "passages/Matthew 6",
+        "Matthew-6",
+        "concepts/Prayer"
+      ],
+      "expected_in_top_k": 8,
+      "lang": "en"
+    },
+    {
+      "id": "en-lex-romans-8-passage",
+      "mode": "lexical",
+      "collection": "bible-wiki",
+      "query": "Romans 8 Spirit helps infirmities groanings prayer",
+      "expected_substrings": [
+        "passages/Romans 8",
+        "Romans-8",
+        "concepts/Prayer",
+        "Holy Spirit"
+      ],
+      "expected_in_top_k": 8,
+      "lang": "en"
+    },
+    {
       "id": "en-sem-what-sustains-ministry",
       "mode": "semantic-wiki",
       "query": "What sustains Christian ministry and enables the pastor?",
@@ -166,6 +195,18 @@
       ],
       "expected_in_top_k": 8,
       "lang": "es"
+    },
+    {
+      "id": "en-sem-lords-prayer-pattern",
+      "mode": "semantic-wiki",
+      "query": "How did Jesus teach disciples to pray privately without hypocrisy?",
+      "expected_substrings": [
+        "Prayer",
+        "Matthew 6",
+        "Matthew-6"
+      ],
+      "expected_in_top_k": 8,
+      "lang": "en"
     }
   ]
 }

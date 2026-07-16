@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+# Bounded personal-notes embedding pilot only.
+# Never use this pattern to embed full bible-sources without explicit approval.
+set -euo pipefail
+
+cd /home/hermes/bible_vault_francisco
+
+minimum_available_kib=1048576  # 1 GiB — notes corpus is tiny
+available_kib=$(awk '/^MemAvailable:/ { print $2 }' /proc/meminfo)
+
+if (( available_kib < minimum_available_kib )); then
+  printf 'Refusing to embed personal-notes: MemAvailable is %s KiB; at least %s KiB is required.\n' \
+    "$available_kib" "$minimum_available_kib" >&2
+  exit 1
+fi
+
+if pgrep -f '[q]md embed' >/dev/null; then
+  printf 'Refusing to embed: another qmd embedding process is already running.\n' >&2
+  exit 1
+fi
+
+# Ensure collection exists in the live index (index.yml is source of truth after update).
+if ! qmd collection list 2>/dev/null | grep -q 'bible-personal-notes'; then
+  printf 'Collection bible-personal-notes not listed. Run .qmd/bin/update-safe first.\n' >&2
+  exit 1
+fi
+
+exec systemd-run --user --scope --quiet \
+  -p MemoryHigh=700M \
+  -p MemoryMax=900M \
+  -p CPUQuota=50% \
+  -p IOWeight=10 \
+  env QMD_FORCE_CPU=1 QMD_EMBED_PARALLELISM=1 \
+  timeout 15m qmd embed \
+    -c bible-personal-notes \
+    --max-docs-per-batch 5 \
+    --max-batch-mb 4

@@ -43,10 +43,14 @@ Hooks run build/lint/source-lint only — never embedding.
 
 ## Indexing / embeddings
 
-- Lexical refresh after source moves: `.qmd/bin/update-safe`
-- Wiki embeddings only when needed: `.qmd/bin/embed-wiki-safe`
-- Never embed `bible-sources` without explicit approval
+- Lexical refresh after source moves or wiki page adds: `.qmd/bin/update-safe`
+- Wiki embeddings when synthesis changed: `.qmd/bin/embed-wiki-safe`
+- Optional personal-notes vector pilot only: `.qmd/bin/embed-notes-safe`
+- Retrieval smoke: `.qmd/bin/benchmark-lexical` and `.qmd/bin/benchmark-multilingual`
+- Merged wiki search check: `.qmd/bin/search-wiki-safe "prayer" --no-semantic`
+- Never embed full `bible-sources` without explicit approval
 - Never index `raw/`
+- See `.qmd/README.md` for models policy and path normalization
 
 ## Templates and schema
 

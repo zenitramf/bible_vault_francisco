@@ -52,6 +52,7 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
+- [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 
 ## Sources
 

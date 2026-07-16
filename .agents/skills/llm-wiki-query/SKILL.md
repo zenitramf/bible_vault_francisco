@@ -23,7 +23,14 @@ python3 .tools/scripts/wiki_tool.py search-catalog --source "sermon_1532"
 
 Catalog rows and reverse indexes (`wiki/indexes/`) include derived `bible_references`, `source_paths`, and `related_paths`. Use match reasons in the CLI output to choose pages.
 
-2. Lexical and (if needed) semantic wiki search when catalog hits are thin or you need body-level phrases:
+2. Prefer the merged wiki search helper (catalog + BM25 + vectors):
+
+```bash
+.qmd/bin/search-wiki-safe "natural-language or keyword question" --json
+.qmd/bin/search-wiki-safe "matthew 6 prayer" --limit 8
+```
+
+Or run channels separately when debugging:
 
 ```bash
 qmd search "query terms" -c bible-wiki --json -n 10
@@ -41,12 +48,19 @@ qmd search "query terms" -c bible-wiki --json -n 10
 qmd search "precise source terms" -c bible-sources --json -n 15
 ```
 
-5. Cite wiki pages and source paths used in the answer.
+Optional personal-notes vector pilot (only if embedded via `embed-notes-safe`):
+
+```bash
+.qmd/bin/semantic-notes-safe "pregunta sobre el pastor y las ovejas" --format json -n 5
+```
+
+5. Cite wiki pages and source paths used in the answer. Map qmd URIs back to disk paths for wikilinks (`commentaries-english` → `commentaries_english`).
 6. File a durable answer under `wiki/questions/` only if the user requests or approves it.
 
 ## Server constraints
 
-- Do not run full `qmd query` by default.
+- Do not run full `qmd query` by default (no expansion/rerank models).
 - Do not start a persistent qmd MCP/HTTP daemon.
-- Do not use bare `qmd vsearch` (use `semantic-wiki-safe`).
-- Combine catalog + lexical + optional vector results in the agent.
+- Do not use bare `qmd vsearch` (use `semantic-wiki-safe` / `search-wiki-safe`).
+- Do not embed full `bible-sources` without explicit approval.
+- Prefer `search-wiki-safe` over hand-merging channels.

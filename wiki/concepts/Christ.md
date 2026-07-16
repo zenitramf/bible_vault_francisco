@@ -40,6 +40,7 @@ Key loci: John 1:1–14; Matthew 1:18–23; Isaiah 53.
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
+- [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 
 ## Sources
 
