@@ -263,3 +263,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.4 FCB December
 
 - Month source-note for FCB December (31 files). --require-zero OK.
+
+## [2026-07-16] campaign | Phase 4.4 FCB 100%
+
+- All FCB months + root reviewed; source-coverage --path chspurgeon-fcb --require-zero OK.
