@@ -84,6 +84,7 @@
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — February|Spurgeon Faith's Checkbook — February]] - Phase 4 full-calendar month source-note for Faith's Checkbook February: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — Front Matter|Spurgeon Faith's Checkbook — Front Matter]] - Phase 4 coverage of FCB root preface/verses files outside monthly folders.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — January|Spurgeon Faith's Checkbook — January]] - Phase 4 full-calendar month source-note for Faith's Checkbook January: every daily entry file listed.
+* [[wiki/source-notes/Spurgeon Faith's Checkbook — July|Spurgeon Faith's Checkbook — July]] - Phase 4 full-calendar month source-note for Faith's Checkbook July: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — June|Spurgeon Faith's Checkbook — June]] - Phase 4 full-calendar month source-note for Faith's Checkbook June: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — March|Spurgeon Faith's Checkbook — March]] - Phase 4 full-calendar month source-note for Faith's Checkbook March: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — May|Spurgeon Faith's Checkbook — May]] - Phase 4 full-calendar month source-note for Faith's Checkbook May: every daily entry file listed.
