@@ -25,6 +25,8 @@ The retrieved sources present prayer as sincere address to God rather than publi
 
 - Phase 3.1 Psalms concise atlas (150 psalms) expands prayer beyond NT form-passages: meditation on the word, penitence, and trust under affliction now have chapter spines for later Treasury of David deepening. [[wiki/passages/Psalm 1|Psalm 1]] [[wiki/passages/Psalm 51|Psalm 51]] [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
 
+- Treasury of David thickens Psalter prayer language on hub psalms after the concise atlas. [[wiki/source-notes/Spurgeon Treasury of David Volume 1|ToD Vol 1]] [[wiki/passages/Psalm 51|Psalm 51]]
+
 ## Agreements and tensions
 
 - Henry and Spurgeon agree that Christian prayer depends on divine help rather than human eloquence.
@@ -56,6 +58,14 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33.
 - [[wiki/passages/Psalm 23|Psalm 23]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
+
+- [[wiki/source-notes/Spurgeon Theme Batch — Faith and Prayer|Spurgeon Theme Batch — Faith and Prayer]]
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 1|Treasury of David Volume 1]]
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 2|Treasury of David Volume 2]]
+
+- [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Morning and Evening enrichment]]
 
 ## Sources
 

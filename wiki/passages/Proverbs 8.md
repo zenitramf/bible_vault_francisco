@@ -5,7 +5,7 @@ description: Christ, as Wisdom, calls to the sons of men. (1–11). The nature a
 tags: [wisdom, holiness, discipleship, justice, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 20
 bible_book_name: "Proverbs"
 ---
@@ -22,15 +22,19 @@ Matthew Henry Concise on Proverbs 8: Christ, as Wisdom, calls to the sons of men
 - The Son of God declares himself to have been engaged in the creation of the world. How able, how fit is the Son of God to be the Saviour of the world, who was the Creator of it! [[sources/commentaries_english/mhenry-concise/proverbs/chapter-8#Verses 22–31|Matthew Henry Concise on Proverbs 8]]
 - Surely we should hearken to Christ's voice with the readiness of children. Let us all be wise, and not refuse such mercy. [[sources/commentaries_english/mhenry-concise/proverbs/chapter-8#Verses 32–36|Matthew Henry Concise on Proverbs 8]]
 
+- The word of God is two-fold, and, in both senses, is wisdom; for a word without wisdom is of little value, and wisdom without a word is of little use. Divine revelation is the word and wisdom of God, and that pure religion and undefiled which is built upon it; and of that… [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-8|Matthew Henry Complete on Proverbs 8]]
+
 ## Agreements and tensions
 
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+This chapter synthesis began from Matthew Henry Concise and is deepened with Matthew Henry Complete on the same chapter (Phase 3.5). Complete adds fuller pastoral and doctrinal detail.
 
 ## Biblical passages
 
 Primary scope: Proverbs 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
 
 - [[wiki/concepts/Wisdom|Wisdom]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -44,6 +48,7 @@ Primary scope: Proverbs 8 (full chapter).
 
 ## Sources
 
+- [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-8|Matthew Henry Complete on Proverbs 8]]
 - [[sources/commentaries_english/mhenry-concise/proverbs/chapter-8|Matthew Henry Concise, Proverbs 8]]
 
 ## Open questions

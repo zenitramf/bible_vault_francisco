@@ -53,6 +53,14 @@ Key loci: 2 Peter 1:19–21; Jeremiah 23:9–32; 1 Corinthians 14:1–5.
 
 - [[wiki/source-notes/Matthew Henry Concise on Isaiah|Matthew Henry Concise on Isaiah]]
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Prophecy Hope and Wisdom|Spurgeon Theme Batch — Prophecy Hope and Wisdom]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Jeremiah|Matthew Henry Concise on Jeremiah]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Daniel|Matthew Henry Concise on Daniel]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Zechariah|Matthew Henry Concise on Zechariah]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-6/2-peter/chapter-1|Matthew Henry, 2 Peter 1]]

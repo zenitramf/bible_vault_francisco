@@ -5,7 +5,7 @@ description: Complaints of discouragement. (1–10). With prayer for deliverance
 tags: [prayer, worship, faith, holiness, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -22,15 +22,19 @@ Matthew Henry Concise on Psalm 22: Complaints of discouragement. (1–10). With 
 - In these verses we have Christ suffering, and Christ praying; by which we are directed to look for crosses, and to look up to God under them. The very manner of Christ's death is described, though not in use among the Jews. [[sources/commentaries_english/mhenry-concise/psalms/psalm-22#Verses 11–21|Matthew Henry Concise on Psalm 22]]
 - The Saviour now speaks as risen from the dead. The first words of the complaint were used by Christ himself upon the cross; the first words of the triumph are expressly applied to him, Heb 2:12. [[sources/commentaries_english/mhenry-concise/psalms/psalm-22#Verses 22–31|Matthew Henry Concise on Psalm 22]]
 
+- Title — "To the chief Musician upon Aijeleth Shahar. A Psalm of David." This ode of singular excellence was committed to the most excellent of the temple songsters; the chief among ten thousand is worthy to be extolled by the chief Musician; no meaner singer must have charge of… [[sources/commentaries_english/chspurgeon-tod/volume-1/psalm-22|Spurgeon, Treasury of David on Psalm 22]]
+
 ## Agreements and tensions
 
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+This chapter synthesis began from Matthew Henry Concise and is thickened with Spurgeon's Treasury of David on the same psalm (Phase 3.4). Concise notes remain pastoral summaries; ToD adds homiletical depth and historical citations.
 
 ## Biblical passages
 
 Primary scope: Psalm 22 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 1|Treasury of David Volume 1]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -44,6 +48,7 @@ Primary scope: Psalm 22 (full chapter).
 
 ## Sources
 
+- [[sources/commentaries_english/chspurgeon-tod/volume-1/psalm-22|Spurgeon, Treasury of David on Psalm 22]]
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-22|Matthew Henry Concise, Psalm 22]]
 
 ## Open questions

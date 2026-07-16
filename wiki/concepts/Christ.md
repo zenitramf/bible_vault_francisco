@@ -70,6 +70,12 @@ Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 
 
 - [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Christ and the Cross|Spurgeon Theme Batch — Christ and the Cross]]
+
+- [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
+
+- [[wiki/passages/Micah 5|Micah 5]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-1|Matthew Henry, John 1]]

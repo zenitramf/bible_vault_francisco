@@ -49,6 +49,10 @@ Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3.
 
 - [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
 
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 7|Treasury of David Volume 7]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Leviticus|Matthew Henry Concise on Leviticus]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-4|Matthew Henry, John 4]]

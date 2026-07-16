@@ -58,6 +58,8 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 - [[wiki/passages/Romans 16|Romans 16]]
 - [[wiki/source-notes/Little Known Bible Heroes|Little Known Bible Heroes]]
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Church and Pastoral Ministry|Spurgeon Theme Batch — Church and Pastoral Ministry]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-4|Matthew Henry, Ephesians 4]]

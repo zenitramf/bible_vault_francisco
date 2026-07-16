@@ -52,6 +52,8 @@ Matthew Henry's Genesis 1 expositions present creation as the foundation of reli
 
 - [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
 
+- [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-1|Matthew Henry Complete, Genesis 1]]

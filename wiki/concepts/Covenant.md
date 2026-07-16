@@ -62,6 +62,14 @@ Primary passages recur across the sources above, but this concept page does not 
 
 - [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
 
+- [[wiki/source-notes/Matthew Henry Concise on Deuteronomy|Matthew Henry Concise on Deuteronomy]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Jeremiah|Matthew Henry Concise on Jeremiah]]
+
+- [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
+
+- [[wiki/passages/Deuteronomy 6|Deuteronomy 6]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-15|Matthew Henry, Genesis 15]]

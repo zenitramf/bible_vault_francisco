@@ -83,6 +83,14 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 
 - [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Faith and Prayer|Spurgeon Theme Batch — Faith and Prayer]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Habakkuk|Matthew Henry Concise on Habakkuk]]
+
+- [[wiki/passages/Habakkuk 2|Habakkuk 2]]
+
+- [[wiki/source-notes/Spurgeon Faith's Checkbook Theme Enrichment|Faith's Checkbook enrichment]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-15|Matthew Henry, Genesis 15]]

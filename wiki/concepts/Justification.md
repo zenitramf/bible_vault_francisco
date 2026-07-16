@@ -3,9 +3,9 @@ type: Biblical Concept
 title: Justification
 description: God's free declaration that sinners are righteous by grace through faith in Christ, not by works of the law (Rom 3–5).
 tags: [salvation, faith, christ, redemption]
-status: seed
+status: developing
 updated: 2026-07-16
-source_count: 6
+source_count: 7
 ---
 
 # Justification
@@ -22,6 +22,8 @@ In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete o
 - Abraham was justified by faith, not by works in which he could boast; his case teaches later ages the same way of believing. [[sources/commentaries_english/mhenry-concise/romans/chapter-4#Verses 1–12|Matthew Henry Concise on Romans 4]] [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-4#The Case of Abraham (58 AD)|Matthew Henry Complete on Romans 4]]
 - Being justified by faith, the believer has peace with God and access into grace. [[sources/commentaries_english/mhenry-concise/romans/chapter-5#Verses 1–5|Matthew Henry Concise on Romans 5]]
 - Justification is inseparable from a call to holiness; free grace does not license remaining in sin. [[sources/commentaries_english/mhenry-concise/romans/chapter-6#Verses 1, 2|Matthew Henry Concise on Romans 6]]
+
+- Spurgeon batch: salvation is received by trust in Christ; faith is the appointed means that glorifies free grace rather than works. [[wiki/source-notes/Spurgeon Theme Batch — Salvation and Justification|Spurgeon Salvation/Justification batch]] [[sources/commentaries_english/chspurgeon-sermons/volume-23/sermon_1347|Spurgeon, How Is Salvation Received?]]
 
 ## Agreements and tensions
 
@@ -49,6 +51,8 @@ Key loci: Romans 3:19–31; Romans 4; Romans 5:1–11; Romans 6:1–2; Genesis 1
 
 - [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Salvation and Justification|Spurgeon Theme Batch — Salvation and Justification]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-3|Matthew Henry Concise, Romans 3]]
@@ -57,6 +61,7 @@ Key loci: Romans 3:19–31; Romans 4; Romans 5:1–11; Romans 6:1–2; Genesis 1
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-6|Matthew Henry Concise, Romans 6]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-3|Matthew Henry Complete, Romans 3]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-4|Matthew Henry Complete, Romans 4]]
+- [[sources/commentaries_english/chspurgeon-sermons/volume-23/sermon_1347|Spurgeon, Sermon 1347]]
 
 ## Open questions
 

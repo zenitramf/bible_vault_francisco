@@ -5,7 +5,7 @@ description: The serpent deceives Eve. (1–5). Adam and Eve transgress the Divi
 tags: [creation, covenant, faith, redemption]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -22,15 +22,19 @@ Matthew Henry Concise on Genesis 3: The serpent deceives Eve. (1–5). Adam and 
 - God passes sentence; and he begins where the sin began, with the serpent. The devil's instruments must share in the devil's punishments. [[sources/commentaries_english/mhenry-concise/genesis/chapter-3#Verses 14, 15|Matthew Henry Concise on Genesis 3]]
 - God bid man go out; told him he should no longer occupy and enjoy that garden: but man liked the place, and was unwilling to leave it, therefore God made him go out. This signified the shutting out of him, and all his guilty race, from that communion with God, which was the bliss and glory of paradise. [[sources/commentaries_english/mhenry-concise/genesis/chapter-3#Verses 22–24|Matthew Henry Concise on Genesis 3]]
 
+- The story of this chapter is perhaps as sad a story (all things considered) as any we have in all the Bible. In the foregoing chapters we have had the pleasant view of the holiness and happiness of our first parents, the grace and favour of God, and the peace and beauty of the… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-3|Matthew Henry Complete on Genesis 3]]
+
 ## Agreements and tensions
 
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+This chapter synthesis began from Matthew Henry Concise and is deepened with Matthew Henry Complete on the same chapter (Phase 3.5). Complete adds fuller pastoral and doctrinal detail.
 
 ## Biblical passages
 
 Primary scope: Genesis 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -44,6 +48,7 @@ Primary scope: Genesis 3 (full chapter).
 
 ## Sources
 
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-3|Matthew Henry Complete on Genesis 3]]
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-3|Matthew Henry Concise, Genesis 3]]
 
 ## Open questions

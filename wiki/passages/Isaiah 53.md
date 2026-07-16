@@ -5,7 +5,7 @@ description: The person. (1-3). sufferings. (4-9). humiliation, and exaltation o
 tags: [prophecy, christ, salvation, justice]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 23
 bible_book_name: "Isaiah"
 ---
@@ -22,15 +22,19 @@ Matthew Henry Concise on Isaiah 53: The person. (1-3). sufferings. (4-9). humili
 - In these verses is an account of the sufferings of Christ; also of the design of his sufferings. It was for our sins, and in our stead, that our Lord Jesus suffered. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-53#Verses 4-9|Matthew Henry Concise on Isaiah 53]]
 - Come, and see how Christ loved us! We could not put him in our stead, but he put himself. [[sources/commentaries_english/mhenry-concise/isaiah/chapter-53#Verses 10-12|Matthew Henry Concise on Isaiah 53]]
 
+- The two great things which the Spirit of Christ in the Old-Testament prophets testified beforehand were the sufferings of Christ and the glory that should follow, 1Pe 1:11. And that which Christ himself, when he expounded Moses and all the prophets, showed to be the drift and… [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-53|Matthew Henry Complete on Isaiah 53]]
+
 ## Agreements and tensions
 
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+This chapter synthesis began from Matthew Henry Concise and is deepened with Matthew Henry Complete on the same chapter (Phase 3.5). Complete adds fuller pastoral and doctrinal detail.
 
 ## Biblical passages
 
 Primary scope: Isaiah 53 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Christ|Christ]]
@@ -44,6 +48,7 @@ Primary scope: Isaiah 53 (full chapter).
 
 ## Sources
 
+- [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-53|Matthew Henry Complete on Isaiah 53]]
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-53|Matthew Henry Concise, Isaiah 53]]
 
 ## Open questions

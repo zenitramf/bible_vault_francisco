@@ -60,6 +60,10 @@ Key loci: John 14:15–17; John 16:7–14; Acts 2:1–4; Romans 8:1–27.
 - [[wiki/passages/Romans 8 26-27|Romans 8:26–27]]
 - [[wiki/source-notes/Pastor Andy Doss y Merced Baptist Church|Pastor Andy Doss note]]
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Faith and Prayer|Spurgeon Theme Batch — Faith and Prayer]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Joel|Matthew Henry Concise on Joel]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-14|Matthew Henry, John 14]]

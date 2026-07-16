@@ -59,19 +59,19 @@ Make the compiled wiki dense enough that ordinary biblical and pastoral question
 
 ## Phase order
 
-1. **Phase 0** — Operating system (this plan, tracker, core query suite).
-2. **Phase 1** — Personal notes (vault voice).
-3. **Phase 2** — mhenry-concise NT backbone (complete).
-4. **Phase 3** — Remaining source ingest (all other material), in tracker sub-phases:
+1. **Phase 0** — Operating system (this plan, tracker, core query suite). **Done.**
+2. **Phase 1** — Personal notes (vault voice). **Done.**
+3. **Phase 2** — mhenry-concise NT backbone. **Done.**
+4. **Phase 3** — Remaining source ingest. **Done** (see tracker):
    - **3.1** mhenry-concise OT priority (Genesis, Psalms, Isaiah, Proverbs)
    - **3.2** mhenry-concise OT remainder (all other OT books)
    - **3.3** Spurgeon sermons as theme/hub batches (not sequential)
-   - **3.4** Treasury of David (Psalm / volume)
-   - **3.5** mhenry-complete hub deepening (on demand)
-   - **3.6** FCB / MAE month batches (last among devotionals)
-   - **3.7** articles / books / transcripts when present; new `raw/` drops
-   - **3.8** Concept mesh checkpoint (continuous during 3.1–3.7)
-5. **Phase 4+** — QA polish: query-suite smokes, second-pass concept `reviewed`, lint sweeps.
+   - **3.4** Treasury of David (Psalm / volume + hub thickening)
+   - **3.5** mhenry-complete hub deepening (on demand hubs)
+   - **3.6** FCB / MAE thematic enrichment (not calendar mirror)
+   - **3.7** articles / books / transcripts empty waiting state
+   - **3.8** Concept mesh checkpoint (continuous; hubs at `developing`)
+5. **Phase 4+** — QA polish: query-suite smokes, second-pass concept `reviewed`, lint sweeps. **Queued.**
 
 ## Anti-goals
 

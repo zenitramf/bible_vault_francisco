@@ -66,6 +66,8 @@ In the retrieved sources, surrender is the act by which a creature stops resisti
 - [[wiki/passages/Romans 12|Romans 12]]
 - A `Repentance` concept page is not yet in the wiki; it would be a natural next seed (see `## Open questions`).
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Faith and Prayer|Spurgeon Theme Batch — Faith and Prayer]]
+
 ## Sources
 
 - [[sources/commentaries_english/chspurgeon-sermons/volume-22/sermon_1276|Spurgeon, Sermon 1276: Unconditional Surrender]]

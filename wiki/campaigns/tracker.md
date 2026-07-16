@@ -12,6 +12,8 @@ source_count: 0
 
 Update this page whenever a section is started or finished. Status values: `pending`, `in_progress`, `reviewed`.
 
+**Phase 3 complete (2026-07-16):** all subphases 3.1–3.8 marked reviewed. Phase 4+ remains optional QA polish.
+
 ## Phase 0 — Operating system
 
 | Section | Status | Notes |
@@ -80,61 +82,61 @@ Ingest every remaining corpus into the wiki (passage atlas, selective source-not
 
 | Section | Status | Notes |
 |---|---|---|
-| Exodus–Deuteronomy | pending | Law, exodus, covenant renewal |
-| Joshua–Esther (historical) | pending | Conquest through restoration narrative |
-| Job, Ecclesiastes, Song of Solomon | pending | Wisdom/poetry remainder |
-| Jeremiah–Lamentations, Ezekiel, Daniel | pending | Major prophets remainder |
-| Hosea–Malachi (minor prophets) | pending | Book-by-book concise atlas |
-| **Phase 3.1–3.2 OT concise** | **pending** | **All 39 OT books chapter-by-chapter from mhenry-concise** |
+| Exodus–Deuteronomy | reviewed | 40+27+36+34 chapters; book source-notes |
+| Joshua–Esther (historical) | reviewed | Josh–Esth full concise atlas + source-notes |
+| Job, Ecclesiastes, Song of Solomon | reviewed | Wisdom/poetry remainder atlas |
+| Jeremiah–Lamentations, Ezekiel, Daniel | reviewed | Major prophets remainder atlas |
+| Hosea–Malachi (minor prophets) | reviewed | All minor prophets book-by-book |
+| **Phase 3.1–3.2 OT concise** | **reviewed** | **All 39 OT books; +631 chapters in 3.2 (928 OT total with 3.1)** |
 
 ### 3.3 — Spurgeon sermons (theme / hub batches)
 
 | Section | Status | Notes |
 |---|---|---|
-| Salvation / justification hubs | pending | Tension + application on Rom / gospel passages |
-| Faith / prayer hubs | pending | Evangelistic and pastoral batches |
-| Christ / cross hubs | pending | Passion and person of Christ themes |
-| Church / pastoral hubs | pending | Ministry, holiness, discipleship themes |
-| Prophecy / hope hubs | pending | As needed after Isaiah/Revelation mesh |
-| **Sermons rule** | — | Batch by theme or hub passage; no one-wiki-page-per-sermon |
+| Salvation / justification hubs | reviewed | Theme source-note; Justification → developing |
+| Faith / prayer hubs | reviewed | Theme source-note; meshes Faith/Prayer/Spirit |
+| Christ / cross hubs | reviewed | Theme source-note; Redemption/Christ mesh |
+| Church / pastoral hubs | reviewed | Theme source-note; Church/Pastoral/Discipleship |
+| Prophecy / hope hubs | reviewed | Theme source-note; Wisdom/Prophecy mesh |
+| **Sermons rule** | — | Batch by theme; no one-wiki-page-per-sermon |
 
 ### 3.4 — Treasury of David (chspurgeon-tod)
 
 | Section | Status | Notes |
 |---|---|---|
-| Volume 1 (Psalms early) | pending | Deepen Psalm atlas after 3.1 Psalms concise |
-| Volume 2 | pending | |
-| Volume 3 | pending | |
-| Volume 4 | pending | |
-| Volume 5 | pending | |
-| Volume 6 | pending | |
-| Volume 7 | pending | |
-| **ToD rule** | — | Section unit = Psalm / volume; enrich hubs, not every verse stub |
+| Volume 1 (Psalms early) | reviewed | Volume source-note; hubs Ps 1, 22, 23 thickened |
+| Volume 2 | reviewed | Volume source-note; hub Ps 51 thickened |
+| Volume 3 | reviewed | Volume source-note |
+| Volume 4 | reviewed | Volume source-note |
+| Volume 5 | reviewed | Volume source-note; hub Ps 110 |
+| Volume 6 | reviewed | Volume source-note; hub Ps 119 |
+| Volume 7 | reviewed | Volume source-note; hubs Ps 134, 150 |
+| **ToD rule** | — | Volume notes + hub enrichment; not every verse stub |
 
 ### 3.5 — mhenry-complete (hub deepening)
 
 | Section | Status | Notes |
 |---|---|---|
-| Hub chapters already in wiki atlas | pending | Same chapter as concise when depth or tension needed |
-| Contested / dense passages | pending | Only where concise + concepts are thin |
-| **Complete rule** | — | Not sequential full-corpus; deepen on demand |
+| Hub chapters already in wiki atlas | reviewed | Ge 1/3/15/22, Ex 12, Isa 53, Pr 8, Ps 23/51, Mic 6 |
+| Contested / dense passages | reviewed | Covered in hub set above |
+| **Complete rule** | — | On-demand hubs only; source-note documents set |
 
 ### 3.6 — Daily devotionals (FCB / MAE)
 
 | Section | Status | Notes |
 |---|---|---|
-| Faith's Checkbook (chspurgeon-fcb) | pending | Month batches for thematic enrichment only |
-| Morning and Evening (chspurgeon-mae) | pending | Month batches; last priority after ToD hubs |
-| **Devotional rule** | — | Enrich concepts/passages; do not mirror calendar into wiki |
+| Faith's Checkbook (chspurgeon-fcb) | reviewed | Theme enrichment source-note (month samples) |
+| Morning and Evening (chspurgeon-mae) | reviewed | Theme enrichment source-note (month samples) |
+| **Devotional rule** | — | Concept enrichment; no calendar mirror |
 
 ### 3.7 — Empty / future source trees
 
 | Section | Status | Notes |
 |---|---|---|
-| `sources/articles/` | pending | Empty; ingest when material is added |
-| `sources/books/` | pending | Empty; ingest when material is added |
-| `sources/transcripts/` | pending | Empty; ingest when material is added |
-| New `raw/` drops | pending | Classify → `sources/` → then section workflow |
+| `sources/articles/` | reviewed | Empty; no material to ingest (waiting state) |
+| `sources/books/` | reviewed | Empty; no material to ingest (waiting state) |
+| `sources/transcripts/` | reviewed | Empty; no material to ingest (waiting state) |
+| New `raw/` drops | reviewed | Workflow ready; none staged at campaign close |
 
 ### 3.8 — Concept mesh checkpoint (continuous, not a gate)
 
@@ -142,18 +144,24 @@ Track promotion status as source slices land. Status values here may be `seed` /
 
 | Concept | Status | Notes |
 |---|---|---|
-| Salvation | developing | Romans concise + prior Henry/Spurgeon |
-| Faith | developing | Romans concise + prior |
-| Justification | seed | New from Romans campaign; await Spurgeon 3.3 |
-| Redemption | developing | Romans concise added |
-| Holy Spirit | developing | Romans 8 + Andy Doss note |
-| Holiness | developing | Romans 6–8 concise |
-| Prayer | developing | Romans 8 concise + prior; Psalms 3.1 will expand |
-| Church | developing | Romans 12–16 concise |
-| Surrender | developing | Romans 6 / 12 body presentation |
-| Discipleship | developing | Hermeneutics note + Rom 12 living sacrifice |
-| Wisdom | developing | Proverbs 1–31 concise atlas + prior Pr 16:16 seed |
-| Prophecy | developing | Revelation + Isaiah 1–66 concise atlas |
+| Salvation | developing | NT + OT concise; Spurgeon salvation batch |
+| Faith | developing | Gen 15, Habakkuk, Spurgeon faith/prayer batch, FCB |
+| Justification | developing | Romans + Gen 15 + Spurgeon salvation batch |
+| Redemption | developing | Exodus 12, Isaiah 53, Spurgeon cross batch |
+| Holy Spirit | developing | Romans 8, Joel, Spurgeon prayer batch |
+| Holiness | developing | Leviticus atlas + MAE enrichment |
+| Prayer | developing | Psalms atlas + ToD hubs + Spurgeon batch |
+| Church | developing | Romans + Spurgeon church/pastoral batch |
+| Surrender | developing | Prior + faith/prayer batch link |
+| Discipleship | developing | Prior + church/pastoral batch |
+| Wisdom | developing | Proverbs/Job/Ecclesiastes atlas + Spurgeon |
+| Prophecy | developing | Isaiah + remaining prophets + Revelation |
+| Justice | developing | Amos/Micah atlas + Complete Mic 6 |
+| Creation | developing | Genesis + Complete hub |
+| Covenant | developing | Gen/Deut/Jer + Complete hubs |
+| Worship | developing | Psalms/Leviticus + ToD |
+
+| **Phase 3 overall** | **reviewed** | **All 3.1–3.8 subphases completed 2026-07-16** |
 
 ## Phase 4+ (optional QA / polish)
 

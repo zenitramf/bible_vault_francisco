@@ -5,7 +5,7 @@ description: A psalm of praise. (1-5).
 tags: [prayer, worship, faith, holiness, redemption]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 19
 bible_book_name: "Psalms"
 ---
@@ -20,15 +20,19 @@ Matthew Henry Concise on Psalm 150: A psalm of praise. (1-5).
 
 - We are here stirred up to praise God. Praise God for his sanctuary, and the privileges we enjoy by having it among us; praise him because of his power and glory in the firmament. [[sources/commentaries_english/mhenry-concise/psalms/psalm-150#Verses 1-5|Matthew Henry Concise on Psalm 150]]
 
+- We have now reached the last summit of the mountain chain of Psalms. It rises high into the clear azure, and its brow is bathed in the sunlight of the eternal world of worship, it is a rapture. [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-150|Spurgeon, Treasury of David on Psalm 150]]
+
 ## Agreements and tensions
 
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+This chapter synthesis began from Matthew Henry Concise and is thickened with Spurgeon's Treasury of David on the same psalm (Phase 3.4). Concise notes remain pastoral summaries; ToD adds homiletical depth and historical citations.
 
 ## Biblical passages
 
 Primary scope: Psalm 150 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 7|Treasury of David Volume 7]]
 
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Worship|Worship]]
@@ -41,6 +45,7 @@ Primary scope: Psalm 150 (full chapter).
 
 ## Sources
 
+- [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-150|Spurgeon, Treasury of David on Psalm 150]]
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-150|Matthew Henry Concise, Psalm 150]]
 
 ## Open questions

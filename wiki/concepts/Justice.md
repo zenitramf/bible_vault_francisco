@@ -3,7 +3,7 @@ type: Biblical Concept
 title: Justice
 description: God's righteous requirement to do justly, love mercy, and defend the oppressed (Mic 6:6–8; Ps 9).
 tags: [justice, prophecy, holiness, christian-life]
-status: seed
+status: developing
 updated: 2026-07-16
 source_count: 3
 ---
@@ -37,6 +37,14 @@ Key loci: Micah 6:6–8; Micah 3; Psalm 9.
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Church|Church]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Amos|Matthew Henry Concise on Amos]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Micah|Matthew Henry Concise on Micah]]
+
+- [[wiki/passages/Micah 6|Micah 6]]
+
+- [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
 
 ## Sources
 

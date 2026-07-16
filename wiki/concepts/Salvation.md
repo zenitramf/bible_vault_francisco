@@ -74,6 +74,12 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 
 - [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Salvation and Justification|Spurgeon Theme Batch — Salvation and Justification]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Exodus|Matthew Henry Concise on Exodus]]
+
+- [[wiki/passages/Exodus 12|Exodus 12]]
+
 ## Sources
 
 - [[sources/commentaries_english/chspurgeon-sermons/volume-13/sermon_765|Spurgeon, Sermon 765: Grace—the One Way of Salvation]]

@@ -83,6 +83,14 @@ Key loci in the present evidence:
 
 - [[wiki/source-notes/Matthew Henry Concise on Proverbs|Matthew Henry Concise on Proverbs]]
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Prophecy Hope and Wisdom|Spurgeon Theme Batch — Prophecy Hope and Wisdom]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Job|Matthew Henry Concise on Job]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Ecclesiastes|Matthew Henry Concise on Ecclesiastes]]
+
+- [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-16|Matthew Henry Complete, Proverbs 16]]

@@ -61,6 +61,14 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 
 - [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Christ and the Cross|Spurgeon Theme Batch — Christ and the Cross]]
+
+- [[wiki/passages/Exodus 12|Exodus 12]]
+
+- [[wiki/source-notes/Matthew Henry Concise on Exodus|Matthew Henry Concise on Exodus]]
+
+- [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
+
 ## Sources
 
 - [[sources/commentaries_english/chspurgeon-sermons/volume-26/sermon_1554|Spurgeon, Sermon 1554: Redemption By Price]]

@@ -99,3 +99,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 3.1 mhenry-concise OT priority
 
 - Genesis 50, Psalms 150, Isaiah 66, Proverbs 31 passage atlases from mhenry-concise (297 chapters); 4 book source-notes; meshed Creation, Covenant, Faith, Wisdom, Prophecy, Prayer, Worship (+ Salvation/Christ/Redemption/Justification links); tracker 3.1 reviewed. No embedding.
+
+## [2026-07-16] campaign | Phase 3 complete (3.1–3.8)
+
+- Phase 3.2: 631 OT remainder chapters + 35 book source-notes. 3.3: 5 Spurgeon theme batches. 3.4: 7 ToD volume notes + hub Psalms thickened. 3.5: Complete hub deepening (10 hubs). 3.6: FCB/MAE theme enrichment notes. 3.7: empty trees waiting. 3.8: concept mesh (Justification/Justice developing). Full OT concise atlas (39 books). No embedding.

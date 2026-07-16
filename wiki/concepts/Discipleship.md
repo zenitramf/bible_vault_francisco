@@ -58,6 +58,8 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[wiki/passages/Matthew 28|Matthew 28]]
 - [[wiki/source-notes/Matthew Henry Concise on Matthew|Matthew Henry Concise on Matthew]]
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Church and Pastoral Ministry|Spurgeon Theme Batch — Church and Pastoral Ministry]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-16|Matthew Henry Complete, Matthew 16]]

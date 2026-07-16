@@ -53,6 +53,12 @@ Key loci: 1 Peter 1:13–21; John 17:17; Hebrews 10:14; Romans 6; Romans 8:1–1
 - [[wiki/passages/Romans 6|Romans 6]]
 - [[wiki/passages/Romans 8|Romans 8]]
 
+- [[wiki/source-notes/Matthew Henry Concise on Leviticus|Matthew Henry Concise on Leviticus]]
+
+- [[wiki/passages/Leviticus 19|Leviticus 19]]
+
+- [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Morning and Evening enrichment]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-1|Matthew Henry, 1 Peter 1]]

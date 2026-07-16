@@ -51,6 +51,8 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16.
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 - [[wiki/source-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|The Pastor and His Church — Pastor Andrés Gómez]]
 
+- [[wiki/source-notes/Spurgeon Theme Batch — Church and Pastoral Ministry|Spurgeon Theme Batch — Church and Pastoral Ministry]]
+
 ## Sources
 
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-timothy/chapter-3|Matthew Henry, 1 Timothy 3]]

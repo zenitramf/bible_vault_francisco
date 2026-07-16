@@ -5,7 +5,7 @@ description: God creates heaven and earth. (1, 2). The creation of light. (3–5
 tags: [creation, covenant, faith, redemption, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 1
 bible_book_name: "Genesis"
 ---
@@ -22,15 +22,19 @@ Matthew Henry Concise on Genesis 1: God creates heaven and earth. (1, 2). The cr
 - God commanded the fish and fowl to be produced. This command he himself executed. [[sources/commentaries_english/mhenry-concise/genesis/chapter-1#Verses 20–25|Matthew Henry Concise on Genesis 1]]
 - When we come to think about our works, we find, to our shame, that much has been very bad; but when God saw his work, all was very good. Good, for it was all just as the Creator would have it to be. [[sources/commentaries_english/mhenry-concise/genesis/chapter-1#Verse 31|Matthew Henry Concise on Genesis 1]]
 
+- The foundation of all religion being laid in our relation to God as our Creator, it was fit that the book of divine revelations which was intended to be the guide, support, and rule, of religion in the world, should begin, as it does, with a plain and full account of the… [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-1|Matthew Henry Complete on Genesis 1]]
+
 ## Agreements and tensions
 
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+This chapter synthesis began from Matthew Henry Concise and is deepened with Matthew Henry Complete on the same chapter (Phase 3.5). Complete adds fuller pastoral and doctrinal detail.
 
 ## Biblical passages
 
 Primary scope: Genesis 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
 
 - [[wiki/concepts/Creation|Creation]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -43,6 +47,7 @@ Primary scope: Genesis 1 (full chapter).
 
 ## Sources
 
+- [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-1|Matthew Henry Complete on Genesis 1]]
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-1|Matthew Henry Concise, Genesis 1]]
 
 ## Open questions
