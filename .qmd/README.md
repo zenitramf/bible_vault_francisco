@@ -58,6 +58,29 @@ Do **not**:
 | `.qmd/bin/benchmark-multilingual` | EN/ES lex + wiki semantic fixture |
 | `.qmd/bin/lint-wiki` | Structural wiki lint (complement to `wiki_tool lint`) |
 
+## Hosted vectors (Qdrant Cloud)
+
+Local QMD vectors are constrained on this host. Hosted collections live on Qdrant Cloud; see **[qdrant-cloud.md](qdrant-cloud.md)**.
+
+| Collection | Kind | Purpose |
+|---|---|---|
+| `wiki_bm25` | Sparse BM25 (IDF) | Wiki free-text |
+| `sources_e5` | Dense 384-d (`multilingual-e5-small`) | Source semantic search |
+
+```bash
+# venv once: python3 -m venv .tools/venv-qdrant && .tools/venv-qdrant/bin/pip install -r .tools/requirements-qdrant.txt
+python3 .tools/scripts/qdrant_bootstrap.py   # empty collections + indexes
+.qmd/bin/qdrant-wiki-upsert                  # sparse BM25 → wiki_bm25
+.qmd/bin/qdrant-wiki-search "prayer"         # search wiki
+.qmd/bin/e5-encode self-test                 # local multilingual-e5-small (ONNX)
+.qmd/bin/qdrant-sources-upsert               # dense E5 → sources_e5 (mhenry-concise pilot)
+.qmd/bin/qdrant-sources-search "how to pray" # dense source search
+.qmd/bin/qdrant-search "prayer" --channel both --json   # agent multi-channel
+```
+
+Requires `QCLOUD_BIBLE_CLUSTER_API_KEY`. **Embeddings run on Qdrant Cloud Inference**
+(`intfloat/multilingual-e5-small`, `Qdrant/bm25`); hermes only chunks + upserts/queries.
+
 ## Recommended agent retrieval order
 
 1. `wiki_tool.py search-catalog` — tags, refs, structured map  

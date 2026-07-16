@@ -4,6 +4,10 @@
 .qmd/*.sqlite-shm
 .qmd/*.sqlite-wal
 
+# Local Python env for Qdrant / E5 tooling (not committed).
+.tools/venv-qdrant/
+.tools/venv-qdrant/**
+
 # OS / editor noise
 .DS_Store
 Thumbs.db

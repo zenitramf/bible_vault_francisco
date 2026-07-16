@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Sparse BM25 search over wiki_bm25 (always filters vault_id).
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
+VENV="${ROOT}/.tools/venv-qdrant"
+if [[ ! -x "${VENV}/bin/python" ]]; then
+  printf 'Missing %s — create with:\n  python3 -m venv %s && %s/bin/pip install -r %s/.tools/requirements-qdrant.txt\n' \
+    "${VENV}/bin/python" "${VENV}" "${VENV}" "${ROOT}" >&2
+  exit 1
+fi
+if (( $# == 0 )); then
+  printf 'Usage: %s <query> [--limit N] [--json] [--page-type concept]\n' "$0" >&2
+  exit 2
+fi
+exec "${VENV}/bin/python" "${ROOT}/.tools/scripts/qdrant_wiki_search.py" "$@"

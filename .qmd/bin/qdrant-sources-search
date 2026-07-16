@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# Dense E5 search over sources_e5 — query embed on Qdrant Cloud Inference.
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
+VENV="${ROOT}/.tools/venv-qdrant"
+if [[ ! -x "${VENV}/bin/python" ]]; then
+  printf 'Missing %s — create with:\n  python3 -m venv %s && %s/bin/pip install -r %s/.tools/requirements-qdrant.txt\n' \
+    "${VENV}/bin/python" "${VENV}" "${VENV}" "${ROOT}" >&2
+  exit 1
+fi
+if (( $# == 0 )); then
+  printf 'Usage: %s <query> [--limit N] [--corpus mhenry-concise] [--json]\n' "$0" >&2
+  exit 2
+fi
+if [[ -z "${QCLOUD_BIBLE_CLUSTER_API_KEY:-${QDRANT_API_KEY:-}}" ]]; then
+  printf 'Missing QCLOUD_BIBLE_CLUSTER_API_KEY (or QDRANT_API_KEY).\n' >&2
+  exit 2
+fi
+exec "${VENV}/bin/python" "${ROOT}/.tools/scripts/qdrant_sources_search.py" "$@"

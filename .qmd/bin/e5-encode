@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Local Multilingual E5 Small encoder (ONNX). See e5_embed.py.
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
+VENV="${ROOT}/.tools/venv-qdrant"
+if [[ ! -x "${VENV}/bin/python" ]]; then
+  printf 'Missing %s — create with:\n  python3 -m venv %s && %s/bin/pip install -r %s/.tools/requirements-qdrant.txt\n' \
+    "${VENV}/bin/python" "${VENV}" "${VENV}" "${ROOT}" >&2
+  exit 1
+fi
+if (( $# == 0 )); then
+  printf 'Usage: %s passage|query|self-test|info ...\n' "$0" >&2
+  exit 2
+fi
+exec "${VENV}/bin/python" "${ROOT}/.tools/scripts/e5_embed.py" "$@"
