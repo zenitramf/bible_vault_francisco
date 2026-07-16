@@ -1,0 +1,84 @@
+# Dynamic index of wiki biblical concepts (pairs with index.md; does not replace it).
+filters:
+  and:
+    - 'file.inFolder("wiki/concepts")'
+    - 'file.ext == "md"'
+    - 'file.name != "index.md"'
+    - 'type == "Biblical Concept"'
+
+formulas:
+  maturity: 'if(status == "reviewed", "✅ Reviewed", if(status == "developing", "🔨 Developing", "🌱 Seed"))'
+
+properties:
+  title:
+    displayName: Title
+  description:
+    displayName: Summary
+  tags:
+    displayName: Tags
+  status:
+    displayName: Status
+  source_count:
+    displayName: Sources
+  updated:
+    displayName: Updated
+  formula.maturity:
+    displayName: Maturity
+
+views:
+  - type: table
+    name: "All concepts"
+    order:
+      - file.name
+      - formula.maturity
+      - tags
+      - source_count
+      - updated
+      - description
+    summaries:
+      source_count: Sum
+      file.name: Unique
+
+  - type: table
+    name: "By status"
+    order:
+      - file.name
+      - tags
+      - source_count
+      - description
+    groupBy:
+      property: status
+      direction: ASC
+
+  - type: table
+    name: "Developing"
+    filters:
+      and:
+        - 'status == "developing"'
+    order:
+      - file.name
+      - tags
+      - source_count
+      - updated
+      - description
+
+  - type: table
+    name: "Lightly sourced"
+    filters:
+      and:
+        - 'source_count < 2'
+    order:
+      - file.name
+      - status
+      - source_count
+      - tags
+      - description
+
+  - type: cards
+    name: "Browse cards"
+    order:
+      - file.name
+      - formula.maturity
+      - tags
+      - source_count
+      - description

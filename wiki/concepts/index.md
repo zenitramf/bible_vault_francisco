@@ -1,5 +1,7 @@
 # Concepts
 
+Live database view: [[wiki/concepts/index.base|Concepts base]] (or embed `![[wiki/concepts/index.base]]`). The list below remains the OKF/static contents.
+
 # Contents
 
 * [[wiki/concepts/Christ|Christ]] - Christ as the eternal Word made flesh, God with us, and the suffering Messiah who bears iniquity (Jn 1; Mt 1; Isa 53).

@@ -1,0 +1,90 @@
+# Dynamic index of wiki passage studies (pairs with index.md; does not replace it).
+filters:
+  and:
+    - 'file.inFolder("wiki/passages")'
+    - 'file.ext == "md"'
+    - 'file.name != "index.md"'
+    - 'type == "Passage Study"'
+
+formulas:
+  sources_label: 'if(source_count, source_count.toString() + " src", "")'
+
+properties:
+  title:
+    displayName: Title
+  description:
+    displayName: Summary
+  bible_book_name:
+    displayName: Book
+  bible_reference:
+    displayName: Reference
+  tags:
+    displayName: Tags
+  status:
+    displayName: Status
+  source_count:
+    displayName: Sources
+  updated:
+    displayName: Updated
+  formula.sources_label:
+    displayName: Sources
+
+views:
+  - type: table
+    name: "All passages"
+    order:
+      - file.name
+      - bible_book_name
+      - tags
+      - status
+      - source_count
+      - description
+    summaries:
+      source_count: Sum
+      file.name: Unique
+
+  - type: table
+    name: "By book"
+    order:
+      - file.name
+      - bible_reference
+      - tags
+      - status
+      - source_count
+    groupBy:
+      property: bible_book_name
+      direction: ASC
+
+  - type: table
+    name: "Developing"
+    filters:
+      and:
+        - 'status == "developing"'
+    order:
+      - file.name
+      - bible_book_name
+      - tags
+      - source_count
+      - updated
+      - description
+
+  - type: table
+    name: "Prayer passages"
+    filters:
+      and:
+        - 'file.hasTag("prayer")'
+    order:
+      - file.name
+      - bible_book_name
+      - tags
+      - status
+      - description
+
+  - type: cards
+    name: "Browse cards"
+    order:
+      - file.name
+      - bible_book_name
+      - tags
+      - status
+      - description
