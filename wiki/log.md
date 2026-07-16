@@ -323,3 +323,12 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.6 concept mesh during full ingest
 
 - Related-page mesh from hub concepts to Complete/ToD/sermon/FCB/MAE Phase 4 source-notes. No doctrinal false consensus; inventory links only.
+
+## [2026-07-16] campaign | Phase 4 complete
+
+- Phase 4.0–4.7 complete: full wiki coverage of chspurgeon-sermons (3536), mhenry-complete (1195), chspurgeon-tod (178), chspurgeon-fcb (368), chspurgeon-mae (366).
+- Vault-wide source coverage 6836/6836 (0 uncovered).
+- Ingest shape: Complete/ToD volume notes + passage thickens; sermon volume notes (no per-sermon wiki pages); FCB/MAE month notes; concept Related-page mesh.
+- Gates: source-scan --accept-covered, path-scoped --require-zero, wiki lint, source-lint, doctor, audit_public, update-safe all pass.
+- phase4_cover.py helper retained under .tools/scripts for future re-runs.
+- Phase 5 QA polish remains optional next.

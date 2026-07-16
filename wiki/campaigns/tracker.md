@@ -12,7 +12,7 @@ source_count: 0
 
 Update this page whenever a section is started or finished. Status values: `pending`, `in_progress`, `reviewed`.
 
-**Phase 3 complete (2026-07-16):** all subphases 3.1–3.8 marked reviewed. **Phase 4.0 operating gate reviewed** (baseline + coverage helper); 4.1–4.7 full-corpus coverage remains.
+**Phase 3 complete (2026-07-16).** **Phase 4 complete (2026-07-16):** full remaining-corpus coverage (4.0–4.7); vault sources 6836/6836 covered. Phase 5 QA polish remains.
 
 ## Phase 0 — Operating system
 
@@ -182,6 +182,8 @@ Whole vault at baseline: 6,836 source docs, 1,294 covered (includes already-comp
 
 **Completion rule:** a section is `reviewed` only when `wiki_tool.py source-coverage --path <scope> --require-zero` exits 0 (after `source-scan --update --accept-covered`). Commit once per completed sub-row or volume-band.
 
+**Closeout (2026-07-16):** Phase 4 five corpora + full vault at **0 uncovered** (6836/6836).
+
 **Coverage helper (Phase 4 gate):**
 
 ```bash
@@ -309,12 +311,12 @@ Fan durable claims into concepts as each 4.1–4.5 slice lands (do not wait for 
 
 | Section | Status | Notes |
 |---|---|---|
-| `source-scan --update --accept-covered` | pending | Manifest matches disk |
-| Uncovered count = 0 for five corpora | pending | Sermons, Complete, FCB, MAE, ToD |
-| `wiki_tool.py lint` + `source-lint` | pending | Clean gate |
-| Catalog rebuild + `update-safe` | pending | Wiki BM25 current |
-| Log entry `campaign \| Phase 4 complete` | pending | |
-| **Phase 4 overall** | **pending** | **Full remaining-corpus ingest into wiki layer** |
+| `source-scan --update --accept-covered` | reviewed | Manifest matches disk; 6836/6836 covered |
+| Uncovered count = 0 for five corpora | reviewed | All five corpora + full vault 0 uncovered |
+| `wiki_tool.py lint` + `source-lint` | reviewed | Clean gate (doctor, audit_public also pass) |
+| Catalog rebuild + `update-safe` | reviewed | Catalog 1395 rows; update-safe refreshed bible-wiki |
+| Log entry `campaign \| Phase 4 complete` | reviewed | Logged |
+| **Phase 4 overall** | **reviewed** | **Full remaining-corpus ingest into wiki layer (2026-07-16)** |
 
 ## Phase 5 — QA polish (after Phase 4 coverage)
 
