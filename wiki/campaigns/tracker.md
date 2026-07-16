@@ -12,7 +12,7 @@ source_count: 0
 
 Update this page whenever a section is started or finished. Status values: `pending`, `in_progress`, `reviewed`.
 
-**Phase 3 complete (2026-07-16).** **Phase 4 complete (2026-07-16):** full remaining-corpus coverage (4.0–4.7); vault sources 6836/6836 covered. **Phase 5.1 Core Query Suite smoke complete (2026-07-16);** remaining Phase 5: concept `reviewed` second-pass, lint sweeps. RAG/embedding stack removed; wiki search is catalog-only.
+**Phase 3 complete (2026-07-16).** **Phase 4 complete (2026-07-16):** full remaining-corpus coverage (4.0–4.7); vault sources 6836/6836 covered. **Phase 5.1 complete (2026-07-16):** Core Query Suite smoke. **Phase 5.2–5.3** grow and mature the concept graph (expand from source-notes; seed→developing; plan developing→reviewed). Wiki search is catalog-first (`search-catalog` / `wiki_tool.py search`).
 
 ## Phase 0 — Operating system
 
@@ -318,11 +318,144 @@ Fan durable claims into concepts as each 4.1–4.5 slice lands (do not wait for 
 | Log entry `campaign \| Phase 4 complete` | reviewed     | Logged                                                        |
 | **Phase 4 overall**                      | **reviewed** | **Full remaining-corpus ingest into wiki layer (2026-07-16)** |
 
-## Phase 5 — QA polish (after Phase 4 coverage)
+## Phase 5 — Concept graph expansion and maturation
 
-| Section                        | Status    | Notes                                                                                      |
-| ------------------------------ | --------- | ------------------------------------------------------------------------------------------ |
-| Core Query Suite smoke         | reviewed  | 2026-07-16: 13/13 sampled Hits (wiki-only); results on [[wiki/questions/Core Query Suite]] |
-| Second-pass concept `reviewed` | pending   | Multi-source, multi-claim, explicit QA                                                     |
-| Coverage / orphan lint sweeps  | pending   | Ongoing hygiene                                                                            |
-| ~~Optional embed refresh~~     | cancelled | RAG/embedding stack removed (2026-07-16); catalog-only wiki search                         |
+Phase 5 is **not** more source-file coverage (that was Phase 4). It grows the **concept layer** using existing `wiki/source-notes/` (and linked passages) as the evidence surface. Lifecycle: `seed` → `developing` → `reviewed` (see [[wiki/campaigns/source-review-plan|plan]] quality bar).
+
+| Subphase | Status | Goal |
+|---|---|---|
+| **5.1** Initial QA smoke | **reviewed** | Core Query Suite wiki-only Hits after full coverage |
+| **5.2** Expand + deepen to `developing` | pending | New concepts from source-notes; all campaign concepts at least multi-source multi-claim `developing` |
+| **5.3** Plan `developing` → `reviewed` | pending | Written promotion plan + gates; execution follows the plan (or a later phase if scoped out) |
+| Hygiene (ongoing) | pending | Coverage / orphan lint sweeps as needed during 5.2–5.3 |
+
+### 5.1 — Initial step (Core Query Suite smoke)
+
+| Section | Status | Notes |
+|---|---|---|
+| Core Query Suite smoke | **reviewed** | 2026-07-16: 13/13 sampled Hits (wiki-only); [[wiki/questions/Core Query Suite]] |
+| **Phase 5.1 overall** | **reviewed** | Smoke establishes retrieval baseline before concept expansion |
+
+### 5.2 — Expand concepts from source-notes; deepen `seed` → `developing`
+
+**Goal:** Mine high-signal source-notes for themes that deserve standalone concept pages; create them as `seed` with real claims; then deepen **every** concept still at `seed` (and thin hubs) until it meets the vault bar for **`developing`**: multi-source **and** multi-claim, each material claim source-linked.
+
+**In scope evidence (wiki only first):** theme batches, personal notes, Complete hub deepening, ToD volume notes, FCB/MAE theme enrichments, book-level concise source-notes. Open `sources/` only to verify a claim already asserted on a source-note or to fix a broken link—not for new mass ingest.
+
+**Out of scope:** rewriting sources; one-page-per-sermon/day; promoting to `reviewed` (that is 5.3’s plan / follow-on).
+
+#### 5.2.0 — Baseline inventory
+
+| Section | Status | Notes |
+|---|---|---|
+| Concept inventory (status counts) | pending | 20 concepts today: 15 `developing`, 5 `seed` |
+| Source-note theme harvest list | pending | Start from theme batches + personal + hub notes (~180 source-notes total; prioritize non-volume inventory notes) |
+| Gap list: theme present in notes, no concept page | pending | Candidate backlog below |
+
+**Existing concepts (2026-07-16):**
+
+| Status | Concepts |
+|---|---|
+| `developing` | Christ, Church, Covenant, Discipleship, Faith, Holiness, Holy Spirit, Justice, Justification, Prayer, Prophecy, Redemption, Salvation, Surrender, Wisdom |
+| `seed` | Christ-Centered Ministry, Creation, Pastoral Ministry, Spiritual Warfare, Worship |
+
+#### 5.2.1 — Expand: new concept seeds gleaned from source-notes
+
+Create only when a theme (1) recurs in source-notes or hub passages, (2) is not already covered by an existing concept without forced stretch, and (3) can carry ≥2 source-backed claims without invention.
+
+| Candidate concept | Why (source-note / theme signal) | Status |
+|---|---|---|
+| Grace | Salvation/justification batches; free-grace language throughout Spurgeon | pending |
+| Atonement (or Cross / propitiation) | Christ-and-cross batch; Isa 53 Complete hub; redemption sermons | pending |
+| Hope | Prophecy/hope/wisdom batch; Rom 5/8 atlas | pending |
+| Adoption | Rom 8 Spirit of adoption; Holy Spirit concept overflow | pending |
+| Repentance | Ps 51 Complete/ToD hubs; MAE penitential samples | pending |
+| Assurance | Rom 8 security; Spurgeon trust/salvation sermons | pending |
+| Providence | FCB/MAE daily trust; OT narrative concise books | pending |
+| Intercession | Rom 8:26–27; Spurgeon Spirit intercession; Prayer overflow | pending |
+| Love (Christian love) | Rom 12–13; Church batch; 1 Cor 13 atlas | pending |
+| Kingdom of God | Gospels concise atlas; Matt hub chapters | pending |
+| Word of God / Scripture | ToD; Ayudas study method; Proverbs 8 Complete hub | pending |
+| Sin (and Fall) | Gen 3 Complete hub; Rom 1–3 atlas | pending |
+| Resurrection | 1 Cor 15 atlas; Easter MAE samples; gospel ends | pending |
+| Suffering / Affliction | Rom 8; Job atlas; ToD complaint psalms | pending |
+| Election (pastoral) | Rom 9–11 atlas; only if tensions can be stated without systematics dump | pending |
+| Stewardship | Church/pastoral batch (2 Cor 8 self-giving); FCB poor/consider | pending |
+| Unity of the Church | Eph/Rom 12–14; Church batch | pending |
+| *(add rows as harvest finds more)* | From month/volume notes during 5.2.0 | pending |
+
+**Rule:** Prefer one durable concept over many thin synonyms (e.g. Holiness vs Sanctification—merge unless sources force a split). People pages for named heroes stay under `wiki/people/`, not concepts.
+
+| Expand work unit | Status | Notes |
+|---|---|---|
+| Harvest pass on 5 theme batches + 2 enrichments + personal notes + Complete hub | pending | Produce final create/skip decisions |
+| Create approved seed concepts (template + claims + mesh) | pending | `_templates/concept-note.md` |
+| Link new seeds from parent source-notes Related pages | pending | Reciprocal navigation |
+| **5.2.1 expand gate** | pending | `build` + `lint`; log entry |
+
+#### 5.2.2 — Deepen: existing `seed` → `developing`
+
+For each seed concept, pull claims from **already-linked** source-notes and passage pages until multi-source multi-claim.
+
+| Concept | Status | Deepen notes |
+|---|---|---|
+| Creation | seed | Complete hub Ge 1/3; concise Genesis atlas |
+| Worship | seed | Psalms atlas; ToD hubs; Leviticus; MAE |
+| Pastoral Ministry | seed | Gómez note; Church/pastoral Spurgeon batch; 1 Tim atlas |
+| Spiritual Warfare | seed | Gómez interior war; Eph 6 atlas; personal pastoral mesh |
+| Christ-Centered Ministry | seed | 1 Tim 1:12 devotional; What Sustains question; Pastoral mesh |
+| *(any new 5.2.1 seeds that stay seed after create)* | seed | Same deepen bar before 5.2 closes |
+
+**Per-concept deepen checklist (5.2.2):**
+
+| Step | Action |
+|---|---|
+| 1 | Catalog search for concept title/tags; open linked source-notes only |
+| 2 | Add/merge Core claims (≥3 material, each full-path source or source-note→source) |
+| 3 | Ensure ≥2 source families **or** ≥3 distinct source files (honest count) |
+| 4 | Write Agreements and tensions (no false consensus) |
+| 5 | Mesh Related pages; fix `source_count`; set `status: developing` |
+| 6 | Log + tracker row |
+
+| Deepen work unit | Status | Notes |
+|---|---|---|
+| Wave A: Creation, Worship | pending | OT / worship hubs |
+| Wave B: Pastoral Ministry, Spiritual Warfare, Christ-Centered Ministry | pending | Vault-local + pastoral |
+| Wave C: New 5.2.1 seeds → developing (batch) | pending | After expand create |
+| **5.2.2 deepen gate** | pending | All former seeds either `developing` or explicit defer |
+| **Phase 5.2 overall** | pending | Expand complete + seeds matured to developing |
+
+### 5.3 — Plan: `developing` → `reviewed` (next lifecycle stage)
+
+**Goal of 5.3:** Produce an explicit **promotion plan** (and tracker rows) for converting `developing` concepts to `reviewed`. This phase is the **plan + acceptance criteria**; large-scale execution may run as completion of 5.3 or as Phase 6 if the plan scopes a separate execute window.
+
+`reviewed` means a second-pass QA succeeded—not another coverage ingest.
+
+| Section | Status | Notes |
+|---|---|---|
+| Promotion rubric (multi-claim, multi-source, tensions, prune Related, accurate `source_count`) | pending | Lock criteria in plan/tracker |
+| Priority order of developing concepts | pending | Gospel core → life/Spirit → church → OT themes |
+| Per-concept second-pass checklist | pending | Evidence audit, corpus balance, tensions, suite touchpoint |
+| Explicit non-goals / defer rules | pending | No vanity promotions; blockers stay `developing` |
+| Execution schedule (in-5.3 vs Phase 6) | pending | Decide when plan is approved |
+| Suite regression after first promotions | pending | Re-smoke 5 Core Query items |
+| **Phase 5.3 overall** | pending | Plan written; tracker ready for execute |
+
+**Draft promotion bar (to refine in 5.3):**
+
+| Check | Required for `reviewed` |
+|---|---|
+| Multi-claim (≥5 material source-linked bullets for hub concepts) | Yes |
+| Multi-source (≥2 families or ≥3 files across ≥2 corpora) | Yes |
+| Agreements and tensions substantive (not inventory boilerplate) | Yes |
+| Related pages curated (not Phase 4 volume dump) | Yes |
+| `source_count` matches evidence list | Yes |
+| Open questions residual only | Yes |
+| No invented citations | Yes |
+
+### Phase 5 hygiene (parallel)
+
+| Section | Status | Notes |
+|---|---|---|
+| Coverage / orphan lint sweeps | pending | As needed after concept graph edits |
+| Catalog rebuild after concept creates | pending | `wiki_tool.py build`

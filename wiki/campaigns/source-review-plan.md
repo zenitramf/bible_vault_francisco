@@ -1,7 +1,7 @@
 ---
 type: Campaign Plan
 title: Source-review plan
-description: Section-by-section campaign to flesh out the wiki as the primary retrieval surface, including full remaining-corpus coverage in Phase 4.
+description: Section-by-section campaign to flesh out the wiki as the primary retrieval surface; Phase 4 covers remaining corpora; Phase 5 expands and matures the concept graph.
 tags: [christian-life]
 status: developing
 updated: 2026-07-16
@@ -53,9 +53,13 @@ Make the compiled wiki dense enough that ordinary biblical and pastoral question
 
 - Material claims cite full-path source wikilinks.
 - No invented citations.
-- Status: `seed` → `developing` when multi-source and multi-claim; `reviewed` only after a second pass or explicit QA.
+- Status lifecycle:
+  - **`seed`** — first synthesis; may be thin or single-angle.
+  - **`developing`** — multi-source **and** multi-claim; tensions begun; usable for wiki-first answers.
+  - **`reviewed`** — second-pass explicit QA (promotion rubric); not automatic after coverage.
 - Prefer synthesis density over empty stubs; **Phase 4 additionally requires full file coverage** of remaining corpora (see tracker).
 - Do not create empty stubs. For Spurgeon sermons, prefer **volume source-notes that cite every sermon file** over one wiki page per sermon.
+- **Phase 5** grows concepts from **existing source-notes** first; do not re-ingest corpora to “find” themes.
 
 ## Phase order
 
@@ -72,7 +76,37 @@ Make the compiled wiki dense enough that ordinary biblical and pastoral question
    - **4.5** chspurgeon-mae 100% (month source-notes listing every day)
    - **4.6** Concept mesh during slices
    - **4.7** Coverage closeout (0 uncovered in the five corpora)
-6. **Phase 5** — QA polish: query-suite smokes, second-pass concept `reviewed`, lint sweeps. **Queued after Phase 4.**
+   - **Done (2026-07-16).**
+6. **Phase 5** — Concept graph expansion and maturation (see tracker):
+   - **5.1** Initial step: Core Query Suite smoke (wiki-only). **Done.**
+   - **5.2** Expand concepts from source-notes; deepen all `seed` → `developing`.
+   - **5.3** Plan (and schedule) conversion of `developing` → `reviewed`.
+   - Hygiene lint sweeps as needed.
+
+## Phase 5 detail
+
+### 5.1 — Initial smoke
+
+Answer a sample of [[wiki/questions/Core Query Suite|Core Query Suite]] items from catalog + wiki only. Score Hit / Thin / Miss. Establishes a baseline before concept graph surgery.
+
+### 5.2 — Expand and deepen to `developing`
+
+| Workstream | Deliverable |
+|---|---|
+| Harvest | Themes in source-notes that lack a concept page |
+| Expand | New concept pages as `seed` with ≥2 source-backed claims, meshed to parent notes |
+| Deepen | Every `seed` (old + new) reaches multi-source multi-claim `developing`, or is explicitly deferred |
+| Gate | `wiki_tool.py build` + `lint`; log; tracker rows |
+
+**Primary harvest surfaces:** Spurgeon theme batches, FCB/MAE theme enrichments, Matthew Henry Complete hub deepening, personal notes, ToD/volume notes only where they assert thematic claims (not mere file lists).
+
+**Anti-pattern:** Creating synonym stubs (e.g. Sanctification next to Holiness) without a source-driven distinction.
+
+### 5.3 — Plan `developing` → `reviewed`
+
+Write the promotion rubric, priority order, per-page checklist, and defer rules. Execution of promotions follows that plan (complete within 5.3 or as a subsequent phase if the plan says so). `reviewed` is never granted by coverage count alone.
+
+Draft bar: multi-claim, multi-source, substantive tensions, curated Related pages, accurate `source_count`, residual open questions only, no invented citations.
 
 ## Section units (Phase 4 coverage)
 

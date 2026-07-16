@@ -355,3 +355,13 @@ append_only: true
 - Rewrote AGENTS.md as agent operating manual for LLM-wiki retrieval without RAG.
 - Documented catalog-first search (search-catalog, reverse indexes), wiki layout, out-of-scope vector/qmd/Chroma/Qdrant tooling, and post-RAG maintenance gate.
 - Aligns with removal of .qmd and Qdrant stacks; query/ingest/lint skills already catalog-only.
+
+## [2026-07-16] campaign | Phase 5 restructure (5.1–5.3 concept graph)
+
+- Restructured Phase 5 into three concept-graph subphases (not coverage re-ingest).
+- 5.1 Initial Core Query Suite smoke — already reviewed (13/13 Hits).
+- 5.2 Expand concepts from source-notes + deepen seed→developing (pending).
+- 5.3 Plan developing→reviewed promotion (pending); execution follows that plan.
+- Candidate expand backlog seeded on tracker (Grace, Atonement, Hope, Adoption, Repentance, Assurance, Providence, Intercession, Love, Kingdom, Word/Scripture, Sin/Fall, Resurrection, Suffering, Election, Stewardship, Unity, …).
+- Existing seeds to deepen: Creation, Worship, Pastoral Ministry, Spiritual Warfare, Christ-Centered Ministry.
+- Updated wiki/campaigns/tracker.md and wiki/campaigns/source-review-plan.md.
