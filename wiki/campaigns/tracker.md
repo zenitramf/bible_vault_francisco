@@ -309,20 +309,20 @@ Fan durable claims into concepts as each 4.1–4.5 slice lands (do not wait for 
 
 ### 4.7 — Phase 4 coverage closeout
 
-| Section | Status | Notes |
-|---|---|---|
-| `source-scan --update --accept-covered` | reviewed | Manifest matches disk; 6836/6836 covered |
-| Uncovered count = 0 for five corpora | reviewed | All five corpora + full vault 0 uncovered |
-| `wiki_tool.py lint` + `source-lint` | reviewed | Clean gate (doctor, audit_public also pass) |
-| Catalog rebuild + `update-safe` | reviewed | Catalog 1395 rows; update-safe refreshed bible-wiki |
-| Log entry `campaign \| Phase 4 complete` | reviewed | Logged |
-| **Phase 4 overall** | **reviewed** | **Full remaining-corpus ingest into wiki layer (2026-07-16)** |
+| Section                                  | Status       | Notes                                                         |
+| ---------------------------------------- | ------------ | ------------------------------------------------------------- |
+| `source-scan --update --accept-covered`  | reviewed     | Manifest matches disk; 6836/6836 covered                      |
+| Uncovered count = 0 for five corpora     | reviewed     | All five corpora + full vault 0 uncovered                     |
+| `wiki_tool.py lint` + `source-lint`      | reviewed     | Clean gate (doctor, audit_public also pass)                   |
+| Catalog rebuild + `update-safe`          | reviewed     | Catalog 1395 rows; update-safe refreshed bible-wiki           |
+| Log entry `campaign \| Phase 4 complete` | reviewed     | Logged                                                        |
+| **Phase 4 overall**                      | **reviewed** | **Full remaining-corpus ingest into wiki layer (2026-07-16)** |
 
 ## Phase 5 — QA polish (after Phase 4 coverage)
 
-| Section | Status | Notes |
-|---|---|---|
-| Core Query Suite smoke | reviewed | 2026-07-16: 13/13 sampled Hits (wiki-only); results on [[wiki/questions/Core Query Suite]] |
-| Second-pass concept `reviewed` | pending | Multi-source, multi-claim, explicit QA |
-| Coverage / orphan lint sweeps | pending | Ongoing hygiene |
-| ~~Optional embed refresh~~ | cancelled | RAG/embedding stack removed (2026-07-16); catalog-only wiki search |
+| Section                        | Status    | Notes                                                                                      |
+| ------------------------------ | --------- | ------------------------------------------------------------------------------------------ |
+| Core Query Suite smoke         | reviewed  | 2026-07-16: 13/13 sampled Hits (wiki-only); results on [[wiki/questions/Core Query Suite]] |
+| Second-pass concept `reviewed` | pending   | Multi-source, multi-claim, explicit QA                                                     |
+| Coverage / orphan lint sweeps  | pending   | Ongoing hygiene                                                                            |
+| ~~Optional embed refresh~~     | cancelled | RAG/embedding stack removed (2026-07-16); catalog-only wiki search                         |
