@@ -13,7 +13,7 @@ bible_book_name: "Hosea"
 ---
 # May 14 - Surgery For Healing
 
-*"Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up* &mdash; Hosea 6:1
+*"Come, and let us return unto the Lord: for he hath torn, and he will heal us; he hath smitten, and he will bind us up* — Hosea 6:1
 
 It is the Lord's way to tear before He heals. This is the honest love of His heart, and the sure surgery of His hand. He also bruises before He binds up, or else it would be uncertain work. The law comes before the gospel; the sense of need before the supply of it. Is the reader now under the convincing, crushing hand of the Spirit? Has he received the spirit of bondage again to fear? This is a salutary preliminary to real gospel healing and binding up.
 

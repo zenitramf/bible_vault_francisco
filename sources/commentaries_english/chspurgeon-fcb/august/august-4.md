@@ -10,7 +10,7 @@ tags: [faith, prayer]
 ---
 # August 4 - He Blesses And Keeps
 
-*"The Lord bless thee, and keep thee"* &mdash; Num. 6:24
+*"The Lord bless thee, and keep thee"* — Num. 6:24
 
 This first clause of the high-priest's benediction is substantially a promise. That blessing which our great High Priest pronounces upon us is sure to come, for He speaks the mind of God.
 

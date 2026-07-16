@@ -14,7 +14,7 @@ bible_book_name: "Joshua"
 ---
 # December 16 - Divine Expulsion
 
-*"Thou shalt drive out the Canaanites, though they have iron chariots, and though they be strong"* &mdash; Joshua 17:18
+*"Thou shalt drive out the Canaanites, though they have iron chariots, and though they be strong"* — Joshua 17:18
 
 It is a great encouragement to valor to be assured of victory, for then a man goes forth to war in confidence, and ventures where else he had been afraid to go. Our warfare is with evil within us and around us, and we ought to be persuaded that we are able to get the victory, and that we shall do so in the name of the Lord Jesus. We are not riding for a fall, but to win; and win we shall. The grace of God in its Omnipotence is put forth for the overthrow of evil in every form: hence the certainty of triumph.
 

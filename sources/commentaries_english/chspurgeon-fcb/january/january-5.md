@@ -11,7 +11,7 @@ tags: [faith, suffering]
 ---
 # January 5 - A Wonderful Guarantee
 
-*"I will strengthen thee."* &mdash; Isa. 41:10
+*"I will strengthen thee."* — Isa. 41:10
 
 When called to serve or to suffer, we take stock of our strength, and we find it to be less than we thought, and less than we need. But let not our heart sink within us while we have such a word as this to fall back upon, for it guarantees us all that we can possibly need. God has strength omnipotent; that strength He can communicate to us; and His promise is that He will do so. He will be the food of our souls, and the health of our hearts; and thus He will give us strength. There is no telling how much power God can put into a man. When divine strength comes, human weakness is no more a hindrance.
 

@@ -14,7 +14,7 @@ bible_book_name: "Judges"
 ---
 # June 28 - One Look From The Lord
 
-*"And the Lord looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee?"* &mdash; Judges 6:14
+*"And the Lord looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee?"* — Judges 6:14
 
 What a look was that which the Lord gave to Gideon! He looked him out of his discouragements into a holy bravery. If our look to the Lord saves us, what will not His look at us do? Lord, look on me this day, and nerve me for its duties and conflicts.
 

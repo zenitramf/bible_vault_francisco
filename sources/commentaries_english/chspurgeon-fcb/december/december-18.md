@@ -10,7 +10,7 @@ tags: [faith]
 ---
 # December 18 - Defended And Covered
 
-*"As birds flying, so will the Lord of hosts defend Jerusalem"* &mdash; Isa. 31:5
+*"As birds flying, so will the Lord of hosts defend Jerusalem"* — Isa. 31:5
 
 With hurrying wing the mother bird hastens up to the protection of her young. She wastes no time upon the road when coming to supply them with food, or guard them from danger. Thus as on eagle's wings will the Lord come for the defense of His chosen; yea, He will ride upon the wings of the wind.
 

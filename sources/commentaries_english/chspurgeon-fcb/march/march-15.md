@@ -10,7 +10,7 @@ tags: [christ, grace, faith, worship]
 ---
 # March 15 - God Is A Sanctuary
 
-*"Therefore say, Thus saith the Lord God; Although I have cast them far off among the heathen, and although I have scattered them among the countries, yet will I be to them as a little sanctuary in the countries where they shall come"* &mdash; Ezek. 11:16
+*"Therefore say, Thus saith the Lord God; Although I have cast them far off among the heathen, and although I have scattered them among the countries, yet will I be to them as a little sanctuary in the countries where they shall come"* — Ezek. 11:16
 
 Banished from the public means of grace, we are not removed from the grace of the means. The Lord who places His people where they feel as exiles will Himself be with them, and be to them all that they could have had at home, in the place of their solemn assemblies. Take this to yourselves, O ye who are called to wander!
 

@@ -10,7 +10,7 @@ tags: [faith, holiness, church, christian-life]
 ---
 # October 11 - Free To Travel
 
-*"And I will strengthen them in the Lord: and they shall walk up and down in his name, saith the Lord"* &mdash; Zech. 10:12
+*"And I will strengthen them in the Lord: and they shall walk up and down in his name, saith the Lord"* — Zech. 10:12
 
 A solace for sick saints. They have grown faint, and they fear that they shall never rise from the bed of doubt and fear; but the great Physician can both remove the disease, and take away the weakness which has come of it. He will strengthen the feeble. This He will do in the best possible way, for it shall be "in Jehovah." Our strength is far better in God than in self. In the Lord it causes fellowship, in ourselves it would create pride. In ourselves it would be sadly limited, but in God it knows no bound.
 

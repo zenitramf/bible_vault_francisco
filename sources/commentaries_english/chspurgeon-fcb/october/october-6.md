@@ -14,7 +14,7 @@ bible_book_name: "John"
 ---
 # October 6 - The Leadership Of Our Guide
 
-*"Howbeit when he, the Spirit of truth, is come, he will guide you into all truth"* &mdash; John 16:13
+*"Howbeit when he, the Spirit of truth, is come, he will guide you into all truth"* — John 16:13
 
 Truth is like a vast cavern into which we desire to enter, but we are not able to traverse it alone. At the entrance it is clear and bright; but if we would go further and explore its innermost recesses, we must have a guide, or we shall lose ourselves. The Holy Spirit, who knows all truth perfectly, is the appointed guide of all true believers, and He conducts them as they are able to bear it, from one inner chamber to another, so that they behold the deep things of God, and His secret is made plain to them.
 

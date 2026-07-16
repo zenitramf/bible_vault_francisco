@@ -29,7 +29,7 @@
 * [Sermon 189 | The Cry Of The Heathen](sermon-189.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 190 | The Desolations of the Lord, the Consolation of His Saints](sermon-190.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 191 | Christ Glorified as the Builder of His Church](sermon-191.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 192 | The Sunday-School Teacher&mdash;a Steward](sermon-192.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 192 | The Sunday-School Teacher—a Steward](sermon-192.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 193 | The World Turned Upside Down](sermon-193.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 194 | Human Responsibility](sermon-194.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 195 | Looking Unto Jesus](sermon-195.md) - A sermon by Charles H. Spurgeon.
@@ -51,8 +51,8 @@
 * [Sermon 211 | The Voice of the Blood of Christ](sermon-211.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 212 | The New Heart](sermon-212.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 213 | The Fatherhood of God](sermon-213.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 214 | His Name&mdash;Wonderful!](sermon-214.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 215 | His Name&mdash;The Counsellor](sermon-215.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 214 | His Name—Wonderful!](sermon-214.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 215 | His Name—The Counsellor](sermon-215.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 216 | Confession and Absolution](sermon-216.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 217 | Declension from First Love](sermon-217.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 218 | Self-Examination](sermon-218.md) - A sermon by Charles H. Spurgeon.

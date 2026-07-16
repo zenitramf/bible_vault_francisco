@@ -10,7 +10,7 @@ tags: [christ, salvation, grace, faith]
 ---
 # November 1 - Perfection And Preservation
 
-*"Faithful is he that calleth you, who also will do it"* &mdash; I Thess. 5:24
+*"Faithful is he that calleth you, who also will do it"* — I Thess. 5:24
 
 What will He do? He will sanctify us wholly. See the previous verse. He will carry on the work of purification till we are perfect in every part. He will preserve our "whole spirit, and soul, and body, blameless unto the coming of our Lord Jesus Christ." He will not allow us to fall from grace, nor come under the dominion of sin. What great favors are these! Well may we adore the giver of such unspeakable gifts.
 

@@ -10,7 +10,7 @@ tags: [faith, justice, prophecy]
 ---
 # August 17 - Who Has The Majority?
 
-*"And he answered, Fear not: for they that be with us are more than they that be with them"* &mdash; II Kings 6:16
+*"And he answered, Fear not: for they that be with us are more than they that be with them"* — II Kings 6:16
 
 Horses and chariots, and a great host, shut up the prophet in Dothan. His young servant was alarmed. How could they escape from such a body of armed men? But the prophet had eyes which his servant had not, and he could see a greater host with far superior weapons guarding him from all harm. Horses of fire are mightier than horses of flesh, and chariots of fire are far preferable to chariots of iron.
 

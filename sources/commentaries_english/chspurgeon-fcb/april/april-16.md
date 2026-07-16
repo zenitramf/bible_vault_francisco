@@ -11,7 +11,7 @@ tags: [faith, holiness, justice]
 ---
 # April 16 - All Turned To Holiness
 
-*"In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD"* &mdash; Zech. 14:20
+*"In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD"* — Zech. 14:20
 
 Happy day when all things shall be consecrated, and the horses' bells shall ring out holiness to the Lord! That day has come to me. Do I not make all things holy to God? These garments, when I put them on or take them off, shall they not remind me of the righteousness of Christ Jesus, my Lord? Shall not my work be done as unto the Lord? Oh, that today my clothes may be vestments, my meals sacraments, my house a temple, my table an altar, my speech incense, and myself a priest! Lord, fulfill thy promise, and let nothing be to me common or unclean.
 

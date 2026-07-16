@@ -10,7 +10,7 @@ tags: [salvation, faith, hope, justice]
 ---
 # October 25 - God First, Then Extras
 
-*"But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you"* &mdash; Matt. 6:33
+*"But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you"* — Matt. 6:33
 
 See how the Bible opens: "In the beginning God." Let your life open in the same way. Seek with your whole soul, first and foremost, the kingdom of God, as the place of your citizenship, and His righteousness as the character of your life. As for the rest, it will come from the Lord Himself without your being anxious concerning it. All that is needful for this life and godliness "shall be added unto you."
 

@@ -18,7 +18,7 @@
 * [Sermon 681 | Eyes Opened](sermon_681.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 682 | Future Punishment a Fearful Thing](sermon_682.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 683 | Divine Gentleness Acknowledged](sermon_683.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 684 | Hope, Yet No Hope&mdash;No Hope, Yet Hope](sermon_684.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 684 | Hope, Yet No Hope—No Hope, Yet Hope](sermon_684.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 685 | Heedlessness In Religion](sermon_685.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 686 | Obedience Better Than Sacrifice](sermon_686.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 687 | Messengers Wanted](sermon_687.md) - A sermon by Charles H. Spurgeon.
@@ -29,16 +29,16 @@
 * [Sermon 692 | Joy And Peace In Believing](sermon_692.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 693 | The Garden Of The Soul](sermon_693.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 694 | Sin Laid on Jesus](sermon_694.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 695 | The Axe at the Root&mdash;a Testimony Against Puseyite Idolatry](sermon_695.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 695 | The Axe at the Root—a Testimony Against Puseyite Idolatry](sermon_695.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 696 | Turning Back in the Day of Battle](sermon_696.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 697 | God's Cure For Man's Weakness](sermon_697.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 698 | Seeing Is Not Believing, But Believing Is Seeing](sermon_698.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 699 | Sin Condemned And Executed By Christ Jesus](sermon_699.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 700 | Order and Argument in Prayer](sermon_700.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 701 | Seeing And Not Seeing&mdash;Or, Men As Trees Walking](sermon_701.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 701 | Seeing And Not Seeing—Or, Men As Trees Walking](sermon_701.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 702 | Peter's Three Calls](sermon_702.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 703 | Salvation Altogether By Grace](sermon_703.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 704 | Hezekiah And The Ambassadors&mdash;Or, Vainglory Rebuked](sermon_704.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 704 | Hezekiah And The Ambassadors—Or, Vainglory Rebuked](sermon_704.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 705 | The Voice Of Cholera](sermon_705.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 706 | Fields White For Harvest](sermon_706.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 707 | Heavenly Geometry](sermon_707.md) - A sermon by Charles H. Spurgeon.
@@ -47,7 +47,7 @@
 * [Sermon 710 | The Great White Throne](sermon_710.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 711 | A Feast For Faith](sermon_711.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 712 | War With Amalek](sermon_712.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 713 | Soul Murder&mdash;Who Is Guilty?](sermon_713.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 713 | Soul Murder—Who Is Guilty?](sermon_713.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 714 | A Savior Such As You Need](sermon_714.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 715 | Children's Bread Given To Dogs](sermon_715.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 716 | The Church Awakened](sermon_716.md) - A sermon by Charles H. Spurgeon.
@@ -58,7 +58,7 @@
 * [Sermon 721 | The Last Enemy Destroyed](sermon_721.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 722 | The Captive Savior Freeing His People](sermon_722.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 723 | The Root That Bears Wormwood](sermon_723.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 724 | His Name&mdash;The Everlasting Father](sermon_724.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 724 | His Name—The Everlasting Father](sermon_724.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 725 | A Message From God To His Church And People](sermon_725.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 726 | Life Eternal](sermon_726.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 727 | God Incarnate, The End Of Fear](sermon_727.md) - A sermon by Charles H. Spurgeon.

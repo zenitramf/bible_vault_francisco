@@ -10,7 +10,7 @@ tags: [christ, salvation, redemption, faith]
 ---
 # May 5 - Why Remain Captive?
 
-*"The Lord thy God will turn thy captivity"* &mdash; Deut. 30:3
+*"The Lord thy God will turn thy captivity"* — Deut. 30:3
 
 God's own people may sell themselves into captivity by sin. A very bitter fruit is this, of an exceeding bitter root. What a bondage it is when the child of God is sold under sin, held in chains by Satan, deprived of his liberty, robbed of his power in prayer, and his delight in the Lord! Let us watch that we come not into such bondage; but if this has already happened to us, let us by no means despair.
 

@@ -11,7 +11,7 @@ tags: [faith, prayer, worship, holiness]
 ---
 # August 18 - Seekers, Finders
 
-*"If thou seek him, he will be found of thee"* &mdash; I Chron. 28:9
+*"If thou seek him, he will be found of thee"* — I Chron. 28:9
 
 We need our God; He is to be had for the seeking; and He will not deny Himself to any one of us if we personally seek His face. It is not, if thou deserve Him, or purchase His favor, but merely if thou "seek" Him. Those who already know the Lord must go on seeking His face by prayer, by diligent service, and by holy gratitude: to such He will not refuse His favor and fellowship. Those who, as yet, have not known Him to their souls' rest should at once commence seeking, and never cease till they find Him as their Saviour, their Friend, their Father, and their God.
 

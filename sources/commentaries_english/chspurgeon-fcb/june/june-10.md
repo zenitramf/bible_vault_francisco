@@ -11,7 +11,7 @@ tags: [faith, pastoral-ministry, prophecy]
 ---
 # June 10 - A Shepherd Secures Them
 
-*"They shall feed and lie down, and none shall make them afraid"* &mdash; Zeph. 3:13
+*"They shall feed and lie down, and none shall make them afraid"* — Zeph. 3:13
 
 Yesterday we thought of the afflicted and poor people whom the Lord left to be a living seed in a dead world. The prophet says of such that they shall not work iniquity nor speak lies. So that while they had neither rank nor riches to guard them, they were also quite unable to use those weapons in which the wicked place so much reliance: they could neither defend themselves by sin nor by subtlety.
 

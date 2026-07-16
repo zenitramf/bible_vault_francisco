@@ -4,11 +4,11 @@
 
 * [Sermon 107 | Faith](sermon-107.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 108 | The Question of Fear and the Answer of Faith](sermon-108.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 109 | Going Home&mdash;a Christmas Sermon](sermon-109.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 109 | Going Home—a Christmas Sermon](sermon-109.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 110 | Heavenly Worship](sermon-110.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 111 | A Mighty Saviour](sermon-111.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 112 | The War of Truth](sermon-112.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 113 | Confession of Sin&mdash;a Sermon With Seven Texts](sermon-113.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 113 | Confession of Sin—a Sermon With Seven Texts](sermon-113.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 114 | Preaching for the Poor](sermon-114.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 115 | Why Are Men Saved?](sermon-115.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 116 | Secret Sins](sermon-116.md) - A sermon by Charles H. Spurgeon.
@@ -27,13 +27,13 @@
 * [Sermon 129 | David's Dying Prayer](sermon-129.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 130 | Regeneration](sermon-130.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 131 | Salvation of the Lord](sermon-131.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 132 | Christ&mdash;The Power and Wisdom of God](sermon-132.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 132 | Christ—The Power and Wisdom of God](sermon-132.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 133 | Heavenly Rest](sermon-133.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 134 | Elijah's Appeal to the Undecided](sermon-134.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 135 | Presumptuous Sins](sermon-135.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 136 | Israel in Egypt](sermon-136.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 137 | Mercy, Omnipotence, and Justice](sermon-137.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 138 | Prayer&mdash;the Forerunner of Mercy](sermon-138.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 138 | Prayer—the Forerunner of Mercy](sermon-138.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 139 | Christ Lifted Up](sermon-139.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 140 | A Simple Sermon for Seeking Souls](sermon-140.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 141 & 142 | Substitution](sermon-141-142.md) - A sermon by Charles H. Spurgeon.

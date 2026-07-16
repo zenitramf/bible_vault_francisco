@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # May 9 - Trust Means Joy
 
-*"For our heart shall rejoice in him, because we have trusted in his holy name"* &mdash; Ps. 33:21
+*"For our heart shall rejoice in him, because we have trusted in his holy name"* — Ps. 33:21
 
 The root of faith produces the flower of heart-joy. We may not at the first rejoice, but it comes in due time. We trust the Lord when we are sad, and in due season He so answers our confidence that our faith turns to fruition and we rejoice in the Lord. Doubt breeds distress, but trust means joy in the long run.
 

@@ -11,7 +11,7 @@ tags: [faith, suffering]
 ---
 # November 29 - Know How To Wait
 
-*"He that believeth shall not make haste"* &mdash; Isa. 28:16
+*"He that believeth shall not make haste"* — Isa. 28:16
 
 He shall make haste to keep the Lord's commandments; but he shall not make haste in any impatient or improper sense.
 

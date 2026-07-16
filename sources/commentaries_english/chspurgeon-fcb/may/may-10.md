@@ -10,7 +10,7 @@ tags: [faith, hope]
 ---
 # May 10 - Fear Only God
 
-*"So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me"* &mdash; Heb. 13:6
+*"So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me"* — Heb. 13:6
 
 Because God will never leave nor forsake us, we may well be content with such things as we have. Since the Lord is ours, we cannot be left without a friend, a treasure, and a dwelling-place. This assurance may make us feel quite independent of men. Under such high patronage we do not feel tempted to cringe before our fellowmen, and ask of them permission to call our lives our own; but what we say we boldly say, and defy contradiction.
 

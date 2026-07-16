@@ -10,7 +10,7 @@ tags: [faith]
 ---
 # May 20 - We Dare Not Doubt
 
-*"I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron"* &mdash; Isa. 45:2
+*"I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron"* — Isa. 45:2
 
 This was for Cyrus; but it is evermore the heritage of all the Lord's own spiritual servants. Only let us go forward by faith, and our way will be cleared for us. Crooks and turns of human craft and Satanic subtlety shall be straightened for us; we shall not need to track their devious windings. The gates of brass shall be broken, and the iron bars which fastened them shall be cut asunder. We shall not need the battering ram nor the crowbar: the Lord Himself will do the impossible for us, and the unexpected shall be a fact.
 

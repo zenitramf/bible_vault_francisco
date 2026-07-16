@@ -11,7 +11,7 @@ tags: [faith]
 ---
 # August 24 - God Above Human Philosophy
 
-*"For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent"* &mdash; I Cor. 1:19
+*"For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent"* — I Cor. 1:19
 
 This verse is a threatening so far as the worldly-wise are concerned, but to the simple believer it is a promise. The professedly learned are for ever trying to bring to nothing the faith of the humble believer, but they fail in their attempts. Their arguments break down, their theories fall under their own weight, their deep-laid plots discover themselves before their purpose is accomplished. The old gospel is not extinct yet, nor will it be while the Lord liveth. If it could have been exterminated it would have perished from off the earth long ago.
 

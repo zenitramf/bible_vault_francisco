@@ -14,7 +14,7 @@ bible_book_name: "Hosea"
 ---
 # July 18 - Wilderness Communion
 
-*"I will allure her, and bring her into the wilderness, and speak comfortably unto her."* &mdash; Hosea 2:14
+*"I will allure her, and bring her into the wilderness, and speak comfortably unto her."* — Hosea 2:14
 
 The goodness of God sees us allured by sin, and it resolves to try upon us the more powerful allurements of love. Do we not remember when the Lover of our souls first cast a spell upon us and charmed us away from the fascinations of the world? He will do this again and again whenever He sees us likely to be ensnared by evil.
 

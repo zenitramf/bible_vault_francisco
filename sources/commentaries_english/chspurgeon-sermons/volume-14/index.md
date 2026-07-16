@@ -51,14 +51,14 @@
 * [Sermon 834 | The Universal Remedy](sermon_834.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 835 | A Cheerful Giver is Beloved of God](sermon_835.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 836 | Sown Light](sermon_836.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 837 | \"All These Things\"&mdash;a Sermon with Three Texts](sermon_837.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 837 | \"All These Things\"—a Sermon with Three Texts](sermon_837.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 838 | Sins of Omission](sermon_838.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 839 | The Head of the Church](sermon_839.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 840 | Do Not Sin Against the Child](sermon_840.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 841 | Crowding to Touch the Savior](sermon_841.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 842 | The Angelic Life](sermon_842.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 843 | Effectual Calling&mdash;Illustrated by the Call of Abram](sermon_843.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 844 | Justification by Faith&mdash;Illustrated by Abram's Righteousness](sermon_844.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 845 | Consecration to God&mdash;Illustrated by Abraham's Circumcision](sermon_845.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 843 | Effectual Calling—Illustrated by the Call of Abram](sermon_843.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 844 | Justification by Faith—Illustrated by Abram's Righteousness](sermon_844.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 845 | Consecration to God—Illustrated by Abraham's Circumcision](sermon_845.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 846 | Good Cheer for Christians](sermon_846.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 847 | Joyful Transformations](sermon_847.md) - A sermon by Charles H. Spurgeon.

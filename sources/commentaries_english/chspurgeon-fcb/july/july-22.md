@@ -14,7 +14,7 @@ bible_book_name: "Hosea"
 ---
 # July 22 - An Eternal Pledge
 
-*"And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in judgment, and in loving kindness, and in mercies. I will even betroth thee unto me in faithfulness; and thou shalt know the Lord."* &mdash; Hosea 2:19
+*"And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in judgment, and in loving kindness, and in mercies. I will even betroth thee unto me in faithfulness; and thou shalt know the Lord."* — Hosea 2:19
 
 Betrothment unto the Lord! What an honor and a joy! My soul, is Jesus indeed thine by His own condescending betrothal? Then, mark, it is for ever. He will never break His engagement, much less sue out a divorce against a soul joined to Himself in marriage bonds.
 

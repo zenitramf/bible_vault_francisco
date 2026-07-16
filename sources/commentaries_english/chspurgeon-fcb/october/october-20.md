@@ -10,7 +10,7 @@ tags: [salvation, faith, prayer, holiness]
 ---
 # October 20 - From Every Sin
 
-*"He shall save his people from their sins"* &mdash; Matt. 1:21
+*"He shall save his people from their sins"* — Matt. 1:21
 
 Lord, save me from my sins. By thy name of Jesus I am encouraged thus to pray. Save me from my past sins, that the habit of them may not hold me captive. Save me from my constitutional sins, that I may not be the slave of my own weaknesses. Save me from the sins which are continually under my eye that I may not lose my horror of them. Save me from secret sins; sins unperceived by me from my want of light. Save me from sudden and surprising sins: let me not be carried off my feet by a rush of temptation. Save me, Lord, from every sin. Let not any iniquity have dominion over me."
 

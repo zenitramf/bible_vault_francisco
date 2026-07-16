@@ -14,7 +14,7 @@ bible_book_name: "John"
 ---
 # January 13 - Never Cast Out
 
-*"Him that cometh to me I will in no wise cast out."* &mdash; John 6:37
+*"Him that cometh to me I will in no wise cast out."* — John 6:37
 
 Is there any instance of our Lord's casting out a coming one? If there be so, we would like to know of it; but there has been none, and there never will be. Among the lost souls in hell there is not one that can say, "I went to Jesus, and He refused me." It is not possible that you or I should be the first to whom Jesus shall break His word. Let us not entertain so dark a suspicion.
 

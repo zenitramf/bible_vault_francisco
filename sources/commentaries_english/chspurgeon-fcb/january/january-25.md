@@ -14,7 +14,7 @@ bible_book_name: "Job"
 ---
 # January 25 - He Acts On Honest Confession
 
-*"He looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not; he will deliver his soul from going into the pit, and his life shall see the light."* &mdash; Job 33:27
+*"He looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not; he will deliver his soul from going into the pit, and his life shall see the light."* — Job 33:27
 
 This is a word of truth, gathered from the experience of a man of God, and it is tantamount to a promise. What the Lord has done, and is doing, He will continue to do while the world standeth. The Lord will receive into His bosom all who come to Him with a sincere confession of their sin; in fact, He is always on the look-out to discover any that are in trouble because of their faults.
 

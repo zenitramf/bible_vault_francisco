@@ -10,7 +10,7 @@ tags: [holy-spirit, grace, faith, prayer]
 ---
 # December 23 - Precious Things
 
-*"And of Joseph he said, Blessed of the Lord be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath"* &mdash; Deut. 33:13
+*"And of Joseph he said, Blessed of the Lord be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath"* — Deut. 33:13
 
 We may be rich in such things as Joseph obtained, and we may have them in a higher sense. Oh, for "the precious things of heaven!" Power with God, and the manifestation of power from God, are most precious. We would enjoy the peace of God, the joy of the Lord, the glory of our God. The benediction of the three divine Persons in love, and grace, and fellowship we prize beyond the most fine gold. The things of earth are as nothing in preciousness compared with the things of Heaven.
 

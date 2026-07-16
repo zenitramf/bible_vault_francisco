@@ -10,7 +10,7 @@ tags: [redemption, grace, faith, praise]
 ---
 # October 28 - Sins Of Ignorance
 
-*"And it shall be forgiven them; for it is ignorance"* &mdash; Num. 15:25
+*"And it shall be forgiven them; for it is ignorance"* — Num. 15:25
 
 Because of our ignorance we are not fully aware of our sins of ignorance. Yet we may be sure they are many, in the form both of commission and omission. We may be doing in all sincerity, as a service to God, that which He has never commanded, and can never accept.
 

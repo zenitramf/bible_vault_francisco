@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # October 16 - One With Christ Jesus
 
-*"Because I live, ye shall live also"* &mdash; John 14:19
+*"Because I live, ye shall live also"* — John 14:19
 
 Jesus has made the life of believers in Him as certain as His own. As sure as the Head lives the members live also. If Jesus has not risen from the dead, then are we dead in our sins; but since He has risen, all believers are risen in Him. His death has put away our transgressions, and loosed the bonds which held us under the death sentence. His resurrection proves our justification: we are absolved, and mercy saith, "The Lord hath put away thy sin, thou shalt not die."
 

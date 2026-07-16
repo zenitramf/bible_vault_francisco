@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # November 20 - Hunger Satisfied
 
-*"For he satisfieth the longing soul, and filleth the hungry soul with goodness"* &mdash; Ps. 107:9
+*"For he satisfieth the longing soul, and filleth the hungry soul with goodness"* — Ps. 107:9
 
 It is well to have longings, and the more intense they are the better. The Lord will satisfy soul-longings, however great and all-absorbing they may be. Let us greatly long, for God will greatly give. We are never in a right state of mind when we are contented with ourselves, and are free from longings. Desires for more grace, and groanings which cannot be uttered, are growing pains, and we should wish to feel them more and more. Blessed Spirit, make us sigh and cry after better things, and for more of the best things!
 

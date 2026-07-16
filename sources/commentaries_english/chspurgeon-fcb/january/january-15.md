@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # January 15 - Made Rich By Faith
 
-*"For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever."* &mdash; Ps. 9:18
+*"For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever."* — Ps. 9:18
 
 Poverty is a hard heritage; but those who trust in the Lord are made rich by faith. They know that they are not forgotten of God; and though it may seem that they are overlooked in His providential distribution of good things, they look for a time when all this shall be righted. Lazarus will not always lie among the dogs at the rich man's gate, but he will have his recompense in Abraham's bosom.
 

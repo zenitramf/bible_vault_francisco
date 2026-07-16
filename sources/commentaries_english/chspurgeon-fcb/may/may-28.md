@@ -10,7 +10,7 @@ tags: [faith, prayer, hope, prophecy]
 ---
 # May 28 - Remind God Of His Promise
 
-*"And thou saidst, I will surely do thee good"* &mdash; Gen. 32:12
+*"And thou saidst, I will surely do thee good"* — Gen. 32:12
 
 This is the sure way of prevailing with the Lord in prayer. We may humbly remind Him of what He has said. Our faithful God will never run back from His word, nor will He leave it unfulfilled; yet He loves to be enquired of by His people, and put in mind of His promise. This is refreshing to their memories, reviving to their faith, and renewing to their hope. God's Word is given, not for His sake, but for ours. His purposes are settled, and He needs nothing to bind Him to His design of doing His people good; but He gives the promise for our strengthening and comfort. Hence He wishes us to plead it, and say to Him, "Thou saidst."
 

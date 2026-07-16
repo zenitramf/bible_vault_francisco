@@ -11,7 +11,7 @@ tags: [grace, faith]
 ---
 # March 6 - Guardian Of The Fatherless
 
-*"In thee the fatherless findeth mercy"* &mdash; Hos. 14:3
+*"In thee the fatherless findeth mercy"* — Hos. 14:3
 
 This is an excellent reason for casting away all other confidences and relying upon the Lord alone. When a child is left without its natural protector, our God steps in and becomes his guardian: so also when a man has lost every object of dependence, he may cast himself upon the living God and find in Him all that he needs. Orphans are cast upon the fatherhood of God, and He provides for them. The writer of these pages knows what it is to hang on the bare arm of God, and he bears his willing witness that no trust is so well warranted by facts, or so sure to be rewarded by results, as trust in the invisible but ever living God.
 

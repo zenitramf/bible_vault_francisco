@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # May 31 - "be Of Good Cheer"
 
-*"In the world ye shall have tribulation: but be of good cheer; I have overcome the world"* &mdash; John 16:33
+*"In the world ye shall have tribulation: but be of good cheer; I have overcome the world"* — John 16:33
 
 My Lord's words are true as to the tribulation. I have my share of it beyond all doubt. The flail is not hung up out of the way, nor can I hope that it will be laid aside so long as I lie upon the threshingfloor. How can I look to be at home in the enemy's country, joyful while in exile, or comfortable in a wilderness? This is not my rest. This is the place of the furnace, and the forge, and the hammer. My experience tallies with my Lord's words.
 

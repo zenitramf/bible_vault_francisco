@@ -14,7 +14,7 @@ bible_book_name: "John"
 ---
 # December 30 - Loved To Perfection
 
-*"Having loved his own which were in the world, he loved them unto the end"* &mdash; John 13:1
+*"Having loved his own which were in the world, he loved them unto the end"* — John 13:1
 
 This fact is essentially a promise; for what our Lord was He is, and what He was to those with whom He lived on earth, He will be to all His beloved so long as the moon endureth.
 

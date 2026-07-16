@@ -10,7 +10,7 @@ tags: [christ, grace, faith, worship]
 ---
 # November 11 - The Lord's Free Men
 
-*"For sin shall not have dominion over you: for ye are not under the law, but under grace"* &mdash; Rom. 6:14
+*"For sin shall not have dominion over you: for ye are not under the law, but under grace"* — Rom. 6:14
 
 Sin will reign if it can: it cannot be satisfied with any place below the throne of the heart. We sometimes fear that it will conquer us, and then we cry unto the Lord, "Let not any iniquity have dominion over me." This is His comforting answer, "Sin shall not have dominion over you. It may assail you, and even wound you; but it shall never establish sovereignty over you."
 

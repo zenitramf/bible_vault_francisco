@@ -53,12 +53,12 @@
 * [Sermon 1198 | The Master](sermon_1198.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1199 | The Agony in Gethsemane](sermon_1199.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1200 | The Power of the Risen Savior](sermon_1200.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1201 | Providence&mdash;as Seen in the Book of Esther](sermon_1201.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1201 | Providence—as Seen in the Book of Esther](sermon_1201.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1202 | Holy Water](sermon_1202.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1203 | The Consecration of Priests](sermon_1203.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1204 | The Reception of Sinners](sermon_1204.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1205 | All For Jesus!](sermon_1205.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1206 | Heart-Knowledge of God](sermon_1206.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1207 | A Solemn Impeachment of Unbelievers](sermon_1207.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1208 | Infallibility&mdash;Where To Find It and How To Use It](sermon_1208.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1208 | Infallibility—Where To Find It and How To Use It](sermon_1208.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1209 | A Grateful Summary of Twenty Volumes](sermon_1209.md) - A sermon by Charles H. Spurgeon.

@@ -11,7 +11,7 @@ tags: [christ, faith]
 ---
 # November 30 - God Is In The Front Line
 
-*"The Lord, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed"* &mdash; Deut. 31:8
+*"The Lord, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed"* — Deut. 31:8
 
 In the presence of a great work or a great warfare, here is a text which should help us to buckle on our harness. If Jehovah Himself goes before us, it must be safe to follow. Who can obstruct our progress if the Lord Himself is in the van? Come, brother soldiers, let us make a prompt advance! Why do we hesitate to pass on to victory?
 

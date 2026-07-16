@@ -11,7 +11,7 @@ tags: [salvation, faith, prayer, holiness]
 ---
 # April 25 - What To Leave Children
 
-*"The just man walketh in his integrity: his children are blessed after him"* &mdash; Prov. 20:7
+*"The just man walketh in his integrity: his children are blessed after him"* — Prov. 20:7
 
 Anxiety about our family is natural, but we shall be wise if we turn it into care about our own character. If we walk before the Lord in integrity, we shall do more to bless our descendants than if we bequeathed them large estates. A father's holy life is a rich legacy for his sons.
 

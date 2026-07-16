@@ -25,5 +25,5 @@ In these busy days, it would be greatly to the spiritual profit of Christian men
 
 Reader, I beseech David’s God to bless thee; and I pray thee, when it is well with thee, breathe a like prayer for Thine heartily,
 
-&ndash; *C. H. Spurgeon*
+– *C. H. Spurgeon*
 

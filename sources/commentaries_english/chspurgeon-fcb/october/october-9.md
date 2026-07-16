@@ -11,7 +11,7 @@ tags: [faith, prayer, worship, praise]
 ---
 # October 9 - What Sanctifies Our Offerings?
 
-*"And the priest shall put some of the blood upon the horns of the altar of sweet incense before the Lord"* &mdash; Lev. 4:7
+*"And the priest shall put some of the blood upon the horns of the altar of sweet incense before the Lord"* — Lev. 4:7
 
 The altar of incense is the place where saints present their prayers and praises; and it is delightful to think of it as sprinkled with the blood of the great sacrifice. This it is which makes all our worship acceptable with Jehovah: He sees the blood of His own Son, and therefore accepts our homage.
 

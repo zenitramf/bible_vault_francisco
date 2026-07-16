@@ -10,7 +10,7 @@ tags: [christ, faith, christian-life]
 ---
 # Sept. 10 - Coming In; Going Out
 
-*"Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out"* &mdash; Deut. 28:6
+*"Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out"* — Deut. 28:6
 
 The blessings of the law are not cancelled. Jesus confirmed the promise when He bore the penalty. If I keep the commands of my Lord, I may appropriate this promise without question.
 

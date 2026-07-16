@@ -11,7 +11,7 @@ tags: [grace, faith, prophecy]
 ---
 # June 3 - Sure-footedness
 
-*"The Lord God is my strength, and he will make my feet like hind's feet, and he will make me to walk upon mine high places."* &mdash; Hab. 3:19
+*"The Lord God is my strength, and he will make my feet like hind's feet, and he will make me to walk upon mine high places."* — Hab. 3:19
 
 This confidence of the man of God is tantamount to a promise; for that which faith is persuaded of is the purpose of God. The prophet had to traverse the deep places of poverty and famine, but he went down hill without slipping, for the Lord gave him standing. By-and-by he was called to the high places of the hills of conflict; and he was no more afraid to go up than to go down.
 

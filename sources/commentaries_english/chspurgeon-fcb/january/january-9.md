@@ -10,7 +10,7 @@ tags: [faith, church]
 ---
 # January 9 - Gaining By Giving
 
-*"The liberal soul shall be made fat."* &mdash; Prov. 11:25
+*"The liberal soul shall be made fat."* — Prov. 11:25
 
 If I desire to flourish in soul, I must not hoard up my stores, but must distribute to the poor. To be close and niggardly is the world's way to prosperity, but it is not God's way, for He saith, "There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, and it tendeth to poverty." Faith's way of gaining is giving. I must try this again and again; and I may expect that as much of prosperity as will be good for me will come to me as a gracious reward for a liberal course of action.
 

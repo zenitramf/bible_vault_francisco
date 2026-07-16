@@ -14,7 +14,7 @@ bible_book_name: "Mark"
 ---
 # May 29 - Fishers Follow Him
 
-*"And Jesus said unto them, Come ye after me, and I will make you to become fishers of men"* &mdash; Mark 1:17
+*"And Jesus said unto them, Come ye after me, and I will make you to become fishers of men"* — Mark 1:17
 
 Only by coming after Jesus can we obtain our heart's desire, and be really useful to our fellow men. Oh, how we long to be successful fishers for Jesus! We would sacrifice our lives to win souls. But we are tempted to try methods which Jesus would never have tried. Shall we yield to this suggestion of the enemy? If so, we may splash the water, but we shall never take the fish. We must follow after Jesus if we would succeed. Sensational methods, entertainments, and so forth -- are these coming after Jesus? Can we imagine the Lord Jesus drawing a congregation by such means as are now commonly used? What is the result of such expedients? The result is nothing which Jesus will count up at the last great day.
 

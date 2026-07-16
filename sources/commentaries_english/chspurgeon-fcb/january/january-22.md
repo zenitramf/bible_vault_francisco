@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # January 22 - Christian Liberality
 
-*"Blessed is he that considereth the poor: the Lord will deliver him in time of trouble."* &mdash; Ps. 41:1
+*"Blessed is he that considereth the poor: the Lord will deliver him in time of trouble."* — Ps. 41:1
 
 To think about the poor and let them lie on our hearts is a Christian man's duty; for Jesus put them with us and near us when He said, "The poor ye have always with you."
 

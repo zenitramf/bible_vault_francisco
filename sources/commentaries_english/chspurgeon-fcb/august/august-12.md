@@ -10,7 +10,7 @@ tags: [faith, creation]
 ---
 # August 12 - Light In Darkness
 
-*"For thou art my lamp, O Lord: and the Lord will lighten my darkness"* &mdash; II Sam. 22:29
+*"For thou art my lamp, O Lord: and the Lord will lighten my darkness"* — II Sam. 22:29
 
 Am I in the light? Then thou, O Lord, art my lamp. Take thee away, and my joy would be gone; but as long as thou art with me, I can do without the torches of time and the candles of created comfort. What a light the presence of God casts on all things! We heard of a lighthouse which could be seen for twenty miles, but our Jehovah is not only a God at hand, but far off is He seen, even in the enemy's country. O Lord, I am as happy as an angel when thy love fills my heart. Thou art all my desire.
 

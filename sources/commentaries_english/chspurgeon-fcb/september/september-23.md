@@ -13,7 +13,7 @@ bible_book_name: "Amos"
 ---
 # Sept. 23 - Deliverance From Dust And Chaff
 
-*"For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth!"* &mdash; Amos 9:9
+*"For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth!"* — Amos 9:9
 
 The sifting process is going on still. Wherever we go, we are still being winnowed and sifted. In all countries God's people are being tried "like as corn is sifted in a sieve." Sometimes the devil holds the sieve, and tosses us up and down at a great rate, with the earnest desire to get rid of us for ever. Unbelief is not slow to agitate our heart and mind with its restless fears. The world lends a willing hand at the same process, and shakes us to the right and to the left with great vigor. Worst of all, the church, so largely apostate as it is, comes in to give a more furious force to the sifting process.
 

@@ -17,7 +17,7 @@
 * [Sermon 2134 | The Rough Hewer](sermon_2134.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2135 | The Warnings and the Rewards of the Word of God](sermon_2135.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2136 | Possessing Possessions](sermon_2136.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2138 | The Shank-bone Sermon&mdash;Or, True Believers and Their Helpers](sermon_2138.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2138 | The Shank-bone Sermon—Or, True Believers and Their Helpers](sermon_2138.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2139 | The Prince of Life](sermon_2139.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2140 | A Homily for Humble Folks](sermon_2140.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2141 | The Question of Questions](sermon_2141.md) - A sermon by Charles H. Spurgeon.
@@ -42,7 +42,7 @@
 * [Sermon 2160 | Not Sufficient and Yet Sufficient](sermon_2160.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2161 | Self Low, But Christ High](sermon_2161.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2162 | And Why Not Me?](sermon_2162.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2163 | Immanuel&mdash;The Light of Life](sermon_2163.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2163 | Immanuel—The Light of Life](sermon_2163.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2164 | Faith's Firm Resolve](sermon_2164.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2165 | The Serpent's Sentence](sermon_2165.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2166 | Experience and Assurance](sermon_2166.md) - A sermon by Charles H. Spurgeon.
@@ -57,7 +57,7 @@
 * [Sermon 2175 | \"So It Is\"](sermon_2175.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2176 | The Lord No More Angry with His People](sermon_2176.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2177 | Camp Law and Camp Life](sermon_2177.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2178 | Zedekiah&mdash;or, the Man Who Cannot Say, \"No\"](sermon_2178.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2178 | Zedekiah—or, the Man Who Cannot Say, \"No\"](sermon_2178.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2179 | God Fighting Sin](sermon_2179.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2180 | A Mediator](sermon_2180.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2181 | God Forgiving Sin](sermon_2181.md) - A sermon by Charles H. Spurgeon.

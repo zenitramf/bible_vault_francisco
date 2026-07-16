@@ -53,4 +53,4 @@
 * [Sermon 2285 | Paul, the Ready](sermon_2285.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2286 | An Ancient Question Modernized](sermon_2286.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2287 | \"If There Is No Resurrection\"](sermon_2287.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2288 | The Empty Place&mdash;a Christmas Day Sermon](sermon_2288.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2288 | The Empty Place—a Christmas Day Sermon](sermon_2288.md) - A sermon by Charles H. Spurgeon.

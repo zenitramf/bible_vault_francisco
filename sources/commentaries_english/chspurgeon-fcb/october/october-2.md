@@ -10,7 +10,7 @@ tags: [faith, worship, providence, hope]
 ---
 # October 2 - Comfort En Route Home
 
-*"And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob"* &mdash; Gen. 50:24
+*"And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob"* — Gen. 50:24
 
 Joseph had been an incarnate providence to his brethren. All our Josephs die, and a thousand comforts die with them. Egypt was never the same to Israel after Joseph was dead, nor can the world again be to some of us what it was when our beloved ones were alive.
 

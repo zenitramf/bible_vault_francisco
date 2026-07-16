@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # October 3 - Reflectors Of The Lord's Beauty
 
-*"As for me, I will behold thy face in righteousness; I shall be satisfied, when I awake, with thy likeness"* &mdash; Ps. 17:15
+*"As for me, I will behold thy face in righteousness; I shall be satisfied, when I awake, with thy likeness"* — Ps. 17:15
 
 The portion of other men fills their bodies, and enriches their children, but the portion of the believer is of another sort. Men of the world have their treasure in this world, but men of the world to come look higher and further.
 

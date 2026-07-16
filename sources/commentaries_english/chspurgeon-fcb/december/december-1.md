@@ -10,7 +10,7 @@ tags: [grace, faith, justice]
 ---
 # December 1 - True Walking Posture
 
-*"He that walketh uprightly walketh surely"* &mdash; Prov. 10:9
+*"He that walketh uprightly walketh surely"* — Prov. 10:9
 
 His walk may be slow, but it is sure. He that hasteth to be rich shall not be innocent nor sure; but steady perseverance in integrity, if it do not bring riches, will certainly bring peace. In doing that which is just and right we are like one walking upon a rock, for we have confidence that every step we take is upon solid and safe ground. On the other hand, the utmost success through questionable transactions must always be hollow and treacherous, and the man who has gained it must always be afraid that a day of reckoning will come, and then his gains will condemn him.
 

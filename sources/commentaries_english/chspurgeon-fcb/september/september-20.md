@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # Sept. 20 - Perfect Willingness
 
-*"Thy people shall be willing in the day of thy power"* &mdash; Ps. 110:3
+*"Thy people shall be willing in the day of thy power"* — Ps. 110:3
 
 Blessed be the God of grace that it is so! He has a people whom He has chosen from of old to be His peculiar portion. These by nature have wills as stubborn as the rest of the froward sons of Adam; but when the day of His power comes, and grace displays its omnipotence, they become willing to repent, and to believe in Jesus. None are saved unwillingly, but the will is made sweetly to yield itself. What a wondrous power is this, which never violates the will, and yet rules it! God does not break the lock, but He opens it by a master-key which He alone can handle.
 

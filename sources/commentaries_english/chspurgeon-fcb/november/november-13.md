@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # November 13 - The Unfailing Watch
 
-*"Behold, he that keepeth Israel shall neither slumber nor sleep"* &mdash; Ps. 121:4
+*"Behold, he that keepeth Israel shall neither slumber nor sleep"* — Ps. 121:4
 
 Jehovah is "the Keeper of Israel." No form of unconsciousness ever steals over Him, neither the deeper slumber nor the slighter sleep. He never fails to watch the house and the heart of His people. This is a sufficient reason for our resting in perfect peace. Alexander said that he slept because his friend Parmenio watched; much more may we sleep because our God is our guard.
 

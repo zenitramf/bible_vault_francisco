@@ -11,7 +11,7 @@ tags: [christ, faith, providence, hope]
 ---
 # July 29 - He Routs Our Enemy
 
-*"He hath cast out thine enemy."* &mdash; Zeph. 3:15
+*"He hath cast out thine enemy."* — Zeph. 3:15
 
 What a casting out was that! Satan has lost his throne in our nature even as he lost his seat in Heaven. Our Lord Jesus has destroyed the enemy's reigning power over us. He may worry us, but he cannot claim us as his own. His bonds are no longer upon our spirits: the Son has made us free, and we are free indeed.
 

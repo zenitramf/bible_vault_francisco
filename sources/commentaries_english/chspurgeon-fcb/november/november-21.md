@@ -10,7 +10,7 @@ tags: [christ, salvation, faith, hope]
 ---
 # November 21 - The Outward, Upward Look
 
-*"Look unto me, and be ye saved, all the ends of the earth; for I am God, and there is none else"* &mdash; Isa. 45:22
+*"Look unto me, and be ye saved, all the ends of the earth; for I am God, and there is none else"* — Isa. 45:22
 
 This is a promise of promises. It lies at the foundation of our spiritual life. Salvation comes through a look at Him who is "a just God and a Saviour." How simple is the direction! "Look unto me. How reasonable is the requirement! Surely the creature should look to the Creator. We have looked elsewhere long enough, it is time that we look alone to Him who invites our expectation, and promises to give us His salvation.
 

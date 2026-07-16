@@ -11,7 +11,7 @@ tags: [christ, salvation, faith, worship]
 ---
 # March 23 - A Sure Guide
 
-*"I will bring the blind by a way that they knew not"* &mdash; Isa. 42:16
+*"I will bring the blind by a way that they knew not"* — Isa. 42:16
 
 Think of the infinitely glorious Jehovah acting as a Guide to the blind! What boundless condescension does this imply! A blind man cannot find a way which he does not know. Even when he knows the road, it is hard for him to traverse it; but a road which he has not known is quite out of the question for his unguided feet. Now, we are by nature blind as to the way of salvation, and yet the Lord leads us into it, and brings us to Himself, and then opens our eyes. As to the future, we are all of us blind, and cannot see an hour before us; but the Lord Jesus will lead us even to our journey's end. Blessed be His name!
 

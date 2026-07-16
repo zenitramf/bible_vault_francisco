@@ -11,7 +11,7 @@ tags: [christ, faith, discipleship, suffering]
 ---
 # August 8 - Confidence Not Misplaced
 
-*"The Lord God will help me"* &mdash; Isa. 50:7
+*"The Lord God will help me"* — Isa. 50:7
 
 These are in prophecy the words of Messiah in the day of His obedience unto death, when He gave His back to the smiters, and His cheeks to them that plucked off the hair. He was confident in divine support, and trusted in Jehovah.
 

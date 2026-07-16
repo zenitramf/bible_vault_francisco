@@ -10,7 +10,7 @@ tags: [grace, faith, discipleship]
 ---
 # Sept. 16 - Reward Is Certain
 
-*"And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward"* &mdash; Matt. 10:42
+*"And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward"* — Matt. 10:42
 
 Well, I can do as much as that. I can do a kind act toward the Lord's servant. The Lord knows I love them all, and would count it an honor to wash their feet. For the sake of their Master I love the disciples.
 

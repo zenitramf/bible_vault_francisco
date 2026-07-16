@@ -10,7 +10,7 @@ tags: [grace, faith, justice]
 ---
 # March 16 - To Others An "ensample"
 
-*"Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you"* &mdash; Phil. 4:9
+*"Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you"* — Phil. 4:9
 
 It is well when a man can with advantage be so minutely copied as Paul might have been. Oh, for grace to imitate him this day and every day!
 

@@ -29,7 +29,7 @@
 * [Sermon 3359 | Penitence, Pardon and Peace](sermon_3359.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3360 | Pleading With the Indifferent](sermon_3360.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3361 | God's Valiant Right Hand](sermon_3361.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3362 | Fearing and Trusting&mdash;trusting and Not Fearing](sermon_3362.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 3362 | Fearing and Trusting—trusting and Not Fearing](sermon_3362.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3363 | Witnessing at the Cross](sermon_3363.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3364 | Surveying the Field](sermon_3364.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3365 | Pictures of Happiness](sermon_3365.md) - A sermon by Charles H. Spurgeon.

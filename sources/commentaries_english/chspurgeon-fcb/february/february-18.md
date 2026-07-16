@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # February 18 - God Will Answer
 
-*"He will fulfill the desire of them that fear him: he also will hear their cry, and will save them"* &mdash; Ps. 145:19
+*"He will fulfill the desire of them that fear him: he also will hear their cry, and will save them"* — Ps. 145:19
 
 His own Spirit has wrought this desire in us, and therefore He will answer it. It is His own life within which prompts the cry, and therefore He will hear it. Those who fear Him are men under the holiest influence, and, therefore, their desire is to glorify God, and enjoy Him for ever. Like Daniel, they are men of desires, and the Lord will cause them to realize their aspirations.
 

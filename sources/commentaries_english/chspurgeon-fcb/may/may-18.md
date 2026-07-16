@@ -13,7 +13,7 @@ bible_book_name: "Joel"
 ---
 # May 18 - Losses Overcome
 
-*"And I will restore to you the years that the locust hath eaten"* &mdash; Joel 2:25
+*"And I will restore to you the years that the locust hath eaten"* — Joel 2:25
 
 Yes, those wasted years over which we sigh shall be restored to us. God can give us such plentiful grace that we shall crowd into the remainder of our days as much of service as will be some recompense for those years of unregeneracy over which we mourn in humble penitence.
 

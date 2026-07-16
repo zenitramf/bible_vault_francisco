@@ -10,7 +10,7 @@ tags: [grace, faith, prayer, worship]
 ---
 # August 10 - He Lowers To Raise
 
-*"The Lord maketh poor, and maketh rich: he bringeth low, and lifteth up"* &mdash; I Sam 2:7
+*"The Lord maketh poor, and maketh rich: he bringeth low, and lifteth up"* — I Sam 2:7
 
 All my changes come from Him who never changes. If I had grown rich, I should have seen His hand in it, and I should have praised Him; let me equally see His hand if I am made poor, and let me as heartily praise Him. When we go down in the world, it is of the Lord, and so we may take it patiently: when we rise in the world, it is of the Lord, and we may accept it thankfully. In any case, the Lord hath done it, and it is well.
 

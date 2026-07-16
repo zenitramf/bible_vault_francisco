@@ -11,7 +11,7 @@ tags: [faith, suffering]
 ---
 # April 26 - Gracious Dealing
 
-*"And the Lord thy God shall bless thee in all that thou doest"* &mdash; Deut. 15:18
+*"And the Lord thy God shall bless thee in all that thou doest"* — Deut. 15:18
 
 An Israelitish master was to give his bondservant liberty in due time, and when he left his service he was to start him in life with a liberal portion. This was to be done heartily and cheerfully, and then the Lord promised to bless the generous act. The spirit of this precept, and, indeed, the whole law of Christ, binds us to treat work-people well. We ought to remember how the Lord has dealt with us, and that this renders it absolutely needful that we should deal graciously with others. It becomes those to be generous who are the children of a gracious God. How can we expect our great Master to bless us in our business if we oppress those who serve us?
 

@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # December 22 - Immediately Present
 
-*"God is our refuge and strength, a very present help in trouble"* &mdash; Ps. 46:1
+*"God is our refuge and strength, a very present help in trouble"* — Ps. 46:1
 
 A help that is not present when we need it is of small value. The anchor which is left at home is of no use to the seaman in the hour of storm; the money which he used to have is of no worth to the debtor when a writ is out against him. Very few earthly helps could be called "very present": they are usually far in the seeking, far in the using, and farther still when once used. But as for the Lord our God, He is present when we seek Him, present when we need Him, and present when we have already enjoyed His aid.
 

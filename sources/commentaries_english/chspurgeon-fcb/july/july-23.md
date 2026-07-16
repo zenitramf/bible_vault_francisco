@@ -10,7 +10,7 @@ tags: [grace, faith, praise, holiness]
 ---
 # July 23 - Absolutely No Remembrance
 
-*"And their sins and iniquities will I remember no more."* &mdash; Heb. 10:17
+*"And their sins and iniquities will I remember no more."* — Heb. 10:17
 
 According to this gracious covenant the Lord treats His people as if they had never sinned. Practically, He forgets all their trespasses. Sins of all kinds He treats as if they had never been; as if they were quite erased from His memory. O miracle of grace! God here doth that which in certain aspects is impossible to Him. His mercy worketh miracles which far transcend all other miracles.
 

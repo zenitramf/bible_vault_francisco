@@ -11,7 +11,7 @@ tags: [faith, worship, holiness, discipleship]
 ---
 # March 4 - Honor God
 
-*"Them that honor me I will honor"* &mdash; I Sam. 2:30
+*"Them that honor me I will honor"* — I Sam. 2:30
 
 Do I make the honor of God the great object of my life and the rule of my conduct? If so, He will honor me. I may for a while receive no honor from man, but God will Himself put honor upon me in the most effectual manner. In the end it will be found the surest way to honor to be willing to be put to shame for conscience' sake.
 

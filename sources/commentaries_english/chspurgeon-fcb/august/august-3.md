@@ -10,7 +10,7 @@ tags: [redemption, faith, worship, holiness]
 ---
 # August 3 - The Right To Holy Things
 
-*"But if the priest buy any soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat"* &mdash; Lev. 22:11
+*"But if the priest buy any soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat"* — Lev. 22:11
 
 Strangers, sojourners, and servants upon hire were not to eat of holy things. It is so in spiritual matters still. But two classes were free at the sacred table, those who were bought with the priest's money, and those who were born into the priest's house. Bought and born, these were the two indisputable proofs of a right to holy things.
 

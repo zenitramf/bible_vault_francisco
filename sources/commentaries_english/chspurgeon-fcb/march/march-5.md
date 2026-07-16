@@ -11,7 +11,7 @@ tags: [grace, faith, holiness, hope]
 ---
 # March 5 - Home Blessings
 
-*"He blesseth the habitation of the just"* &mdash; Prov. 3:33
+*"He blesseth the habitation of the just"* — Prov. 3:33
 
 He fears the Lord, and therefore he comes under the divine protection even as to the roof which covers himself and his family. His home is an abode of love, a school of holy training, and a place of heavenly light. In it there is a family altar where the name of the Lord is daily had in reverence. Therefore the Lord blesses his habitation. It may be a humble cottage or a lordly mansion; but the Lord's blessing comes because of the character of the inhabitant, and not because of the size of the dwelling.
 

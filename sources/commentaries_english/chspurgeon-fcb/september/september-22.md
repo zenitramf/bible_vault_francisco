@@ -11,7 +11,7 @@ tags: [faith, holiness, suffering]
 ---
 # Sept. 22 - Broad Rivers Without Galleys
 
-*"But there the glorious Lord will be unto us a place of broad rivers and streams; wherein shall go no galley with oars, neither shall gallant ship pass thereby"* &mdash; Isa. 33:21
+*"But there the glorious Lord will be unto us a place of broad rivers and streams; wherein shall go no galley with oars, neither shall gallant ship pass thereby"* — Isa. 33:21
 
 The Lord will be to us the greatest good without any of the drawbacks which seem necessarily to attend the best earthly things. If a city is favored with broad rivers, it is liable to be attacked by galleys with oars, and other ships of war. But when the Lord represents the abundance of His bounty under this figure, He takes care expressly to shut out the fear which the metaphor might suggest. Blessed be His perfect love!
 

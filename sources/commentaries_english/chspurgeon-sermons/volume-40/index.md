@@ -3,12 +3,12 @@
 # Contents
 
 * [Sermon 2342 | A New Year's Retrospect And Prospect](sermon_2342.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2343 | Faint&mdash;but Not Faint-Hearted](sermon_2343.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2343 | Faint—but Not Faint-Hearted](sermon_2343.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2344 | Christ's Dying Word for His Church](sermon_2344.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2345 | Moses' Dying Charge to Israel](sermon_2345.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2346 | Earth's Vanities and Heaven's Verities](sermon_2346.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2347 | The Lord's Famous Titles](sermon_2347.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2348 | The Lord Leading&mdash;David Following](sermon_2348.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2348 | The Lord Leading—David Following](sermon_2348.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2349 | All Comers To Christ Welcomed](sermon_2349.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2350 | \"Take, Eat\"](sermon_2350.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2351 | Prayer, The Cure for Care](sermon_2351.md) - A sermon by Charles H. Spurgeon.
@@ -30,12 +30,12 @@
 * [Sermon 2367 | God's Hidden Ones](sermon_2367.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2368 | The Living Care of the Dying Christ](sermon_2368.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2369 | Blood Even on the Golden Altar](sermon_2369.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2370 | \"Christ First, Me Last&mdash;Nothing Between But Love\"](sermon_2370.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2370 | \"Christ First, Me Last—Nothing Between But Love\"](sermon_2370.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2371 | Freedom At Once and Forever](sermon_2371.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2372 | A Page From a Royal Diary](sermon_2372.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2373 | The Weary Dove's Return](sermon_2373.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2374 | Blessed Discipline](sermon_2374.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2375 | Found By Jesus&mdash;And Finding Jesus](sermon_2375.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2375 | Found By Jesus—And Finding Jesus](sermon_2375.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2376 | \"I Will,\" Yet, \"Not As I Will\"](sermon_2376.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2377 | Love Stronger Than Death](sermon_2377.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2378 | Pardon for the Greatest Guilt](sermon_2378.md) - A sermon by Charles H. Spurgeon.

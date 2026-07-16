@@ -10,7 +10,7 @@ tags: [grace, faith, holiness, hope]
 ---
 # April 15 - Desires Of Rlghteous Granted
 
-*"The desire of the righteous shall be granted"* &mdash; Prov. 10:24
+*"The desire of the righteous shall be granted"* — Prov. 10:24
 
 Because it is a righteous desire it is safe for God to grant it. It would be neither good for the man himself, nor for society at large, that such a promise should be made to the unrighteous. Let us keep the Lord's commands, and He will rightfully have respect to our desires.
 

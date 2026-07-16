@@ -11,7 +11,7 @@ tags: [salvation, grace, faith, prayer]
 ---
 # April 19 - An Expert Searcher
 
-*"For thus saith the Lord God; Behold, I, even I, will both search my sheep, and seek them out"* &mdash; Exod. 34:11
+*"For thus saith the Lord God; Behold, I, even I, will both search my sheep, and seek them out"* — Exod. 34:11
 
 This He does at the first when His elect are like wandering sheep that know not the Shepherd or the fold. How wonderfully doth the Lord find out His chosen! Jesus is great as a seeking Shepherd as well as a saving Shepherd. Though many of those His Father gave Him have gone as near to hell-gate as they well can, yet the Lord by searching and seeking discovers them, and draws nigh to them in grace. He has sought out us: let us have good hope for those who are laid upon our hearts in prayer, for He will find them out also.
 

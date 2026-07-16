@@ -12,7 +12,7 @@ tags: [faith, suffering, prophecy]
 ---
 # July 5 - Complete Deliverance
 
-*"But I will deliver thee in that day, saith the Lord; and thou shalt not be given into the hand of the men of whom thou art afraid."* &mdash; Jer. 39:17
+*"But I will deliver thee in that day, saith the Lord; and thou shalt not be given into the hand of the men of whom thou art afraid."* — Jer. 39:17
 
 When the Lord's faithful ones are suffering for Him, they shall have sweet messages of love from Himself, and sometimes they shall have glad tidings for those who sympathize with them and help them. Ebed-melech was only a despised Ethiopian, but he was kind to Jeremiah, and so the Lord sent him this special promise by the mouth of his prophet. Let us be ever mindful of God's persecuted servants, and He will reward us.
 

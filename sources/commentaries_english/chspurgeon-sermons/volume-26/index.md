@@ -28,14 +28,14 @@
 * [Sermon 1534 | Salvation By Works, a Criminal Doctrine](sermon_1534.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1535 | Christ's Universal Kingdom and How It Comes](sermon_1535.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1536 | Sentence Of Death, The Death Of Self-trust](sermon_1536.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1537 | Samuel&mdash;an Example of Intercession](sermon_1537.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1537 | Samuel—an Example of Intercession](sermon_1537.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1538 | Divine Surprises](sermon_1538.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1539 | \"The Disciple Whom Jesus Loved\"](sermon_1539.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1540 | The Mediator&mdash;Judge And Savior](sermon_1540.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1540 | The Mediator—Judge And Savior](sermon_1540.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1541 | Unprofitable Servants](sermon_1541.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1542 | Free Grace a Motive for Free Giving](sermon_1542.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1543 | The Sheep Before The Shearers](sermon_1543.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1544 | Mahanaim&mdash;or, Hosts Of Angels](sermon_1544.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1544 | Mahanaim—or, Hosts Of Angels](sermon_1544.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1545 | God Glorified By Children's Mouths](sermon_1545.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1546 | Men Bewitched](sermon_1546.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1547 | Samuel and the Young Man Saul](sermon_1547.md) - A sermon by Charles H. Spurgeon.
@@ -51,10 +51,10 @@
 * [Sermon 1558 | Rare Fruit](sermon_1558.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1559 | Tokens For Good](sermon_1559.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1560 | The Plain Man's Pathway To Peace](sermon_1560.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1561 | Asleep and Yet Awake&mdash;a Riddle](sermon_1561.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1561 | Asleep and Yet Awake—a Riddle](sermon_1561.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1562 | Harvest Past, Summer Ended and Men Unsaved](sermon_1562.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1563 | The Duty of the Present Hour](sermon_1563.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1564 | Desires Towards God&mdash;a Sermon For The Weak](sermon_1564.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1564 | Desires Towards God—a Sermon For The Weak](sermon_1564.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1565 | Maschil Of Ethan, a Majestic Song](sermon_1565.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1566 | Cheer for the Worker and Hope for London](sermon_1566.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1567 | The Blood of the Covenant](sermon_1567.md) - A sermon by Charles H. Spurgeon.

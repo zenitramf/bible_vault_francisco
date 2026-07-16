@@ -10,7 +10,7 @@ tags: [christ, salvation, grace, faith]
 ---
 # April 29 - Forget And Forgive
 
-*"Say not thou, I will recompense evil; but wait on the Lord, and he shall save thee"* &mdash; Prov. 20:22
+*"Say not thou, I will recompense evil; but wait on the Lord, and he shall save thee"* — Prov. 20:22
 
 Be not in haste. Let anger cool down. Say nothing and do nothing to avenge yourself. You will be sure to act unwisely if you take up the cudgels and fight your own battles; and, certainly, you will not show the spirit of the Lord Jesus. It is nobler to forgive, and let the offense pass. To let an injury rankle in your bosom, and to meditate revenge, is to keep old wounds open, and to make new ones. Better forget and forgive.
 

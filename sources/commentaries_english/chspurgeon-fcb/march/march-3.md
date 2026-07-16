@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # March 3 - Not Left To Perish
 
-*"For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption"* &mdash; Ps. 16:10
+*"For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption"* — Ps. 16:10
 
 This word has its proper fulfillment in the Lord Jesus; but it applies also, with a variation, to all who are in Him. Our soul shall not be left in the separate state, and our body, though it see corruption, shall rise again. The general meaning, rather than the specific application, is that to which we would call our readers' thoughts at this particular time.
 

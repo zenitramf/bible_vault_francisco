@@ -11,7 +11,7 @@ tags: [salvation, faith]
 ---
 # February 20 - Continual Guidance
 
-*"The Lord shall guide thee continually"* &mdash; Isa. 58:11
+*"The Lord shall guide thee continually"* — Isa. 58:11
 
 What aileth thee? Hast thou lost thy way? Art thou entangled in a dark wood, and canst thou not find thy paths? Stand still, and see the salvation of God. He knows the way, and He will direct thee in it if thou cry unto Him.
 

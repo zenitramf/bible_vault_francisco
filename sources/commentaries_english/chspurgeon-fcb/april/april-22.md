@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # April 22 - Power To Raise
 
-*"The Lord openeth the eyes of the blind: the Lord raiseth them that are bowed down"* &mdash; Ps. 146:8
+*"The Lord openeth the eyes of the blind: the Lord raiseth them that are bowed down"* — Ps. 146:8
 
 Am I bowed down? Then let me urge this word of grace before the Lord. It is His way, His custom, His promise, His delight, to raise up them that are bowed down. Is it a sense of sin, and a consequent depression of spirit, which now distresses me? Then the work of Jesus is, in this case, made and provided to raise me up into rest. O Lord, raise me, for thy mercy's sake!
 

@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # August 9 - Pruning For Fruit-bearing
 
-*"Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit"* &mdash; John 15:2
+*"Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit"* — John 15:2
 
 This is a precious promise to one who lives for fruitfulness. At first it seems to wear a sharp aspect. Must the fruitful bough be pruned? Must the knife cut even the best and most useful? No doubt it is so, for very much of our Lord's purging work is done by means of afflictions of one kind or another. It is not the evil but the good who have the promise of tribulation in this life. But, then, the end makes more than full amends for the painful nature of the means. If we may bring forth more fruit for our Lord, we will not mind the pruning and the loss of leafage.
 

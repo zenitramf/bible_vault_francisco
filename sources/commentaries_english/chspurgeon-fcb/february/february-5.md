@@ -11,7 +11,7 @@ tags: [salvation, redemption, faith, discipleship]
 ---
 # February 5 - Justice Satisfied
 
-*"When I see the blood, I will pass over you"* &mdash; Exod. 12:13
+*"When I see the blood, I will pass over you"* — Exod. 12:13
 
 My own sight of the precious blood is for my comfort; but it is the Lord's sight of it which secures my safety. Even when I am unable to behold it, the Lord looks at it, and passes over me because of it. If I am not so much at ease as I ought to be, because my faith is dim, yet I am equally safe, because the Lord's eye is not dim, and He sees the blood of the great Sacrifice with steady gaze. What a joy is this!
 

@@ -10,7 +10,7 @@ tags: [faith, worship, hope, covenant]
 ---
 # May 25 - God's Treasury
 
-*"The Lord shall open unto thee his good treasure"* &mdash; Deut. 28:12
+*"The Lord shall open unto thee his good treasure"* — Deut. 28:12
 
 This refers first to the rain. The Lord will give this in its season. Rain is the emblem of all those celestial refreshings which the Lord is ready to bestow upon His people. Oh for a copious shower to refresh the Lord's heritage!
 

@@ -10,7 +10,7 @@ tags: [salvation, faith, suffering, prophecy]
 ---
 # October 8 - Never Alone
 
-*"Thou shalt no more be termed Forsaken"* &mdash; Isa. 62:4
+*"Thou shalt no more be termed Forsaken"* — Isa. 62:4
 
 "Forsaken" is a dreary word. It sounds like a knell. It is the record of sharpest sorrows, and the prophecy of direst ills. An abyss of misery yawns in that word "Forsaken." Forsaken by one who pledged his honor! Forsaken by a friend so long tried and trusted! Forsaken by a dear relative! Forsaken by father and mother! Forsaken by all! This is woe indeed, and yet it may be patiently borne if the Lord will take us up.
 

@@ -12,7 +12,7 @@ tags: [faith, hope]
 ---
 # June 1 - God's Promise Keeps
 
-*"Cast thy bread upon the waters: for thou shalt find it after many days."* &mdash; Eccl. 11:1
+*"Cast thy bread upon the waters: for thou shalt find it after many days."* — Eccl. 11:1
 
 We must not expect to see an immediate reward for all the good we do; nor must we always confine our efforts to places and persons which seem likely to yield us a recompense for our labors. The Egyptian casts his seed upon the waters of the Nile, where it might seem a sheer waste of corn. But in due time the flood subsides, the rice or other grain sinks into the fertile mud, and rapidly a harvest is produced. Let us today do good to the unthankful and the evil. Let us teach the careless and the obstinate. Unlikely waters may cover hopeful soil. Nowhere shall our labor be in vain in the Lord.
 

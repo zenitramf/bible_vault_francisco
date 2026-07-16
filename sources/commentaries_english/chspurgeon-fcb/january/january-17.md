@@ -10,7 +10,7 @@ tags: [faith, worship]
 ---
 # January 17 - A Man Without Fear
 
-*"And he said, Certainly I will be with thee."* &mdash; Exod. 3:12
+*"And he said, Certainly I will be with thee."* — Exod. 3:12
 
 Of course, if the Lord sent Moses on an errand, He would not let him go alone. The tremendous risk which it would involve, and the great power it would require, would render it ridiculous for God to send a poor lone Hebrew to confront the mightiest king in all the world, and then leave him to himself. It could not be imagined that a wise God would match poor Moses with Pharaoh and the enormous forces of Egypt. Hence He says, "Certainly I will be with thee," as if it were out of the question that He would send him alone.
 

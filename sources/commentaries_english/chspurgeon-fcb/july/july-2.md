@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # July 2 - Refreshing Sleep
 
-*"So he giveth his beloved sleep"* &mdash; Ps. 127:2
+*"So he giveth his beloved sleep"* — Ps. 127:2
 
 Ours is not a life of anxious care, but of happy faith. Our heavenly Father will supply the wants of His own children, and He knoweth what we have need of before we ask Him. We may therefore go to our beds at the proper hour, and not wear ourselves out by sitting up late to plot, and plan, and contrive. If we have learned to rely upon our God we shall not lie awake with fear gnawing at our hearts; but we shall leave our care with the Lord, our meditation of Him shall be sweet, and He will give us refreshing sleep.
 

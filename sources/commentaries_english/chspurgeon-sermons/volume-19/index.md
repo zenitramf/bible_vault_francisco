@@ -58,7 +58,7 @@
 * [Sermon 1142 | Free Pardon](sermon_1142.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1143 | Death for Sin and Death to Sin](sermon_1143.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1144 | A Mighty Plea](sermon_1144.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1145 | The Great Jail&mdash;and How To Get Out Of It](sermon_1145.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1145 | The Great Jail—and How To Get Out Of It](sermon_1145.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1146 | Consolation For The Despairing](sermon_1146.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1147 | The Gentleness Of Jesus](sermon_1147.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1148 | The Parent's and Pastor's Joy](sermon_1148.md) - A sermon by Charles H. Spurgeon.

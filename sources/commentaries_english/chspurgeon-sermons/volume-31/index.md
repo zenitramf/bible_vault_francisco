@@ -9,38 +9,38 @@
 * [Sermon 1820 | Fallen Angels a Lesson To Fallen Men](sermon_1820.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1821 | Cords and Cart-Ropes](sermon_1821.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1822 | Certain Curious Calculations About Loaves and Fishes](sermon_1822.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1823 | Peter's Blunder&mdash;a Lesson for Ourselves](sermon_1823.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1823 | Peter's Blunder—a Lesson for Ourselves](sermon_1823.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1824 | The History of Sundry Fools](sermon_1824.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1825 | An Inscription for the Mausoleum of the Saints](sermon_1825.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1826 | The Horns of the Altar](sermon_1826.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1827 | Exceeding Gladness](sermon_1827.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1828 | How \"The Unspeakable\" is Spoken of](sermon_1828.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1829 | The Singular Origin of a Christian](sermon_1829.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1830 | All Or None&mdash;or, Compromises Refused&mdash; a Sermon With Five Texts](sermon_1830.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1830 | All Or None—or, Compromises Refused— a Sermon With Five Texts](sermon_1830.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1831 | Smoking Flax](sermon_1831.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1832 | Elijah's Plea](sermon_1832.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1833 | A Proclamation from the King of Kings](sermon_1833.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1834 | To Lovers of Jesus&mdash;an Example](sermon_1834.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1834 | To Lovers of Jesus—an Example](sermon_1834.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1835 | The Man Christ Jesus](sermon_1835.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1836 | First Healing and then Service](sermon_1836.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1837 | A Great Gospel for Great Sinners](sermon_1837.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1838 | The Good Ananias&mdash;a Lesson for Believers](sermon_1838.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1838 | The Good Ananias—a Lesson for Believers](sermon_1838.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1839 | Delight in the Almighty](sermon_1839.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1840 | The Bond of the Covenant](sermon_1840.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1841 | Divine Forgiveness Admired and Imitated](sermon_1841.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1842 | The Private Tutor](sermon_1842.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1843 | A Question for a Questioner](sermon_1843.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1844 | Israel And Britain. A Note of Warning](sermon_1844.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1845 | The Pity of the Lord&mdash;the Comfort of the Afflicted](sermon_1845.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1845 | The Pity of the Lord—the Comfort of the Afflicted](sermon_1845.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1846 | The Purging of the Conscience](sermon_1846.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1847 | Before Sermon, At Sermon and After Sermon](sermon_1847.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1848 | The Looking Glass](sermon_1848.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1849 | Coming Judgment of the Secrets of Men](sermon_1849.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1850 | Immeasurable Love](sermon_1850.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1851 | Ruth's Reward&mdash;or, Cheer for Converts](sermon_1851.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1851 | Ruth's Reward—or, Cheer for Converts](sermon_1851.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1852 | The Modern Dead Sea and the Living Waters](sermon_1852.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1853 | Up from the Country and Pressed Into Service](sermon_1853.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1854 | The Foundation and Its Seal&mdash;a Sermon for the Times](sermon_1854.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1854 | The Foundation and Its Seal—a Sermon for the Times](sermon_1854.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1855 | What is the Verdict?](sermon_1855.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1856 | The History of Little-Faith](sermon_1856.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1857 | The Necessity of Growing Faith](sermon_1857.md) - A sermon by Charles H. Spurgeon.
@@ -54,10 +54,10 @@
 * [Sermon 1865 | The Nobleman's Faith](sermon_1865.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1866 | The Sunday School and the Scriptures](sermon_1866.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1867 | Untitled Sermon](sermon_1867.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1868 | Death and Life&mdash;the Wage and the Gift](sermon_1868.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1868 | Death and Life—the Wage and the Gift](sermon_1868.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1869 | Hagar at the Fountain](sermon_1869.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1870 | But a Step](sermon_1870.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1871 | Love's Transformations&mdash;a Communion Meditation](sermon_1871.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1871 | Love's Transformations—a Communion Meditation](sermon_1871.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1872 | My Comfort In Affliction](sermon_1872.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1873 | The Dream of the Barley Cake](sermon_1873.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1874 | A Discourse Upon True Blessedness Here and Hereafter](sermon_1874.md) - A sermon by Charles H. Spurgeon.

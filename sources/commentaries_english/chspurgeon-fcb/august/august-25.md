@@ -10,7 +10,7 @@ tags: [holy-spirit, grace, faith, holiness]
 ---
 # August 25 - Food And Rest
 
-*"I will feed my flock, and I will cause them to lie down, saith the Lord God"* &mdash; Ezek. 34:15
+*"I will feed my flock, and I will cause them to lie down, saith the Lord God"* — Ezek. 34:15
 
 Under the divine shepherdry saints are fed to the full. Theirs is not a windy, unsatisfying mess of mere human "thought"; but the Lord feeds them upon the solid, substantial truth of divine revelation. There is real nutriment for the soul in Scripture brought home to the heart by the Holy Spirit. Jesus, Himself, is the true life-sustaining Food of believers. Here our Great Shepherd promises that such sacred nourishment shall be given us by His own self. If, on the Lord's Day, our earthly shepherd is empty-handed, the Lord is not.
 

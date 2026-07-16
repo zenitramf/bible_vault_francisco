@@ -12,7 +12,7 @@ tags: [redemption, grace, faith, worship]
 ---
 # November 22 - No Condemnation
 
-*"In those days, and in that time, saith the Lord, the iniquity of Israel shall be sought for, and there shall be none; and the sins of Judah, and they shall not be found: for I will pardon them whom I reserve"* &mdash; Jer. 50:20
+*"In those days, and in that time, saith the Lord, the iniquity of Israel shall be sought for, and there shall be none; and the sins of Judah, and they shall not be found: for I will pardon them whom I reserve"* — Jer. 50:20
 
 A glorious word indeed! What a perfect pardon is here promised to the sinful nations of Israel and Judah! Sin is to be so removed that it shall not be found, so blotted out that there shall be none. Glory be unto the God of pardons!
 

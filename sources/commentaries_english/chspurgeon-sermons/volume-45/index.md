@@ -33,7 +33,7 @@
 * [Sermon 2631 | Israel's Cry and God's Answer](sermon_2631.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2632 | \"What Shall the Harvest Be?\"](sermon_2632.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2633 | The Two Pivots](sermon_2633.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2634 | \"Jesus Only\" &mdash;a Communion Meditation](sermon_2634.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2634 | \"Jesus Only\" —a Communion Meditation](sermon_2634.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2635 | Depths and Heights](sermon_2635.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2636 | The Perpetuity of the Gospel](sermon_2636.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2637 | The Place of Prayer and Pardon](sermon_2637.md) - A sermon by Charles H. Spurgeon.

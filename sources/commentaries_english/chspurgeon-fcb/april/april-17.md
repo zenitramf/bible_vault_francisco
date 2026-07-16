@@ -10,7 +10,7 @@ tags: [faith, prayer, praise, holiness]
 ---
 # April 17 - Enemies At Peace
 
-*"When a man's ways please the Lord, he maketh even his enemies to be at peace with him"* &mdash; Prov. 16:7
+*"When a man's ways please the Lord, he maketh even his enemies to be at peace with him"* — Prov. 16:7
 
 I must see that my ways please the Lord. Even then I shall have enemies; and, perhaps, all the more certainly because I endeavor to do that which is right. But what a promise this is! The Lord will make the wrath of man to praise Him, and abate it so that it shall not distress me.
 

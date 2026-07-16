@@ -11,7 +11,7 @@ tags: [salvation, faith, worship, hope]
 ---
 # February 22 - Past Deliverance Begets Faith
 
-*"David said moreover, The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine"* &mdash; I Sam. 17:37
+*"David said moreover, The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine"* — I Sam. 17:37
 
 This is not a promise if we consider only the words, but it is truly so as to its sense; for David spoke a word which the Lord endorsed by making it true. He argued from past deliverances that he should receive help in a new danger. In Jesus all the promises are Yea and Amen to the glory of God by us, and so the Lord's former dealings with His believing people will be repeated.
 

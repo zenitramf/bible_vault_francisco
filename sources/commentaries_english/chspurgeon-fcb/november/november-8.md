@@ -10,7 +10,7 @@ tags: [grace, faith, hope]
 ---
 # November 8 - The Magnitude Of Grace
 
-*"My grace is sufficient for thee; for my strength is made perfect in weakness"* &mdash; II Cor. 12:9
+*"My grace is sufficient for thee; for my strength is made perfect in weakness"* — II Cor. 12:9
 
 Our weakness should be prized as making room for divine strength. We might never have known the power of grace if we had not felt the weakness of nature. Blessed be the Lord for the thorn in the flesh, and the messenger of Satan, when they drive us to the strength of God.
 

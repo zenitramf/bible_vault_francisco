@@ -10,7 +10,7 @@ tags: [salvation, faith, praise, repentance]
 ---
 # May 1 - Full Of Song
 
-*"The mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands"* &mdash; Isa. 55:12
+*"The mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands"* — Isa. 55:12
 
 When sin is pardoned, our greatest sorrow is ended, and our truest pleasure begins. Such is the joy which the Lord bestows upon His reconciled ones, that it overflows and fills all nature with delight. The material world has latent music in it, and a renewed heart knows how to bring it out and make it vocal. Creation is the organ, and a gracious man finds out its keys, lays his hand thereon, and wakes the whole system of the universe to the harmony of praise. Mountains and hills, and other great objects, are, as it were, the bass of the chorus; while the trees of the wood, and all things that have life, take up the air of the melodious song.
 

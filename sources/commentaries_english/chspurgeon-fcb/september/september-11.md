@@ -10,7 +10,7 @@ tags: [christ, salvation, grace, faith]
 ---
 # Sept. 11 - Sufferers Make Strong Believers
 
-*"It is good for a man that he bear the yoke in his youth"* &mdash; Lam. 3:27
+*"It is good for a man that he bear the yoke in his youth"* — Lam. 3:27
 
 This is as good as a promise. It has been good, it is good, and it will be good for me to bear the yoke.
 

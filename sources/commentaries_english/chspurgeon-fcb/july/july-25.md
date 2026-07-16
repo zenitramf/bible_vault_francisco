@@ -11,7 +11,7 @@ tags: [faith, holiness, suffering, hope]
 ---
 # July 25 - Nothing To Alarm Us
 
-*"But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days."* &mdash; Dan. 12:13
+*"But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days."* — Dan. 12:13
 
 We cannot understand all the prophecies, but yet we regard them with pleasure, and not with dismay. There can be nothing in the Father's decree which should justly alarm His child. Though the abomination of desolation be set up, yet the true believer shall not be defiled; rather shall he be purified, and made white, and tried. Though the earth be burned up, no smell of fire shall come upon the chosen. Amid the crash of matter, and the wreck of worlds, the Lord Jehovah will preserve His own.
 

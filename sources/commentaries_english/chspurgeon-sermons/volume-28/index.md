@@ -45,11 +45,11 @@
 * [Sermon 1677 | A Great Mistake and the Way to Rectify It](sermon_1677.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1678 | The Samaritan Woman and Her Mission](sermon_1678.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1679 | One War Over and Another Begun](sermon_1679.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1680 | Bochim&mdash;Or, the Weepers](sermon_1680.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1681 | Shutting, Sealing and Covering&mdash;or, Messiah's Glorious Work](sermon_1681.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1680 | Bochim—Or, the Weepers](sermon_1680.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1681 | Shutting, Sealing and Covering—or, Messiah's Glorious Work](sermon_1681.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1682 | Ask and Have](sermon_1682.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1683 | The Great Cross-bearer and His Followers](sermon_1683.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1684 | \"Feed My Lambs\"&mdash;a Sunday School Sermon](sermon_1684.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1684 | \"Feed My Lambs\"—a Sunday School Sermon](sermon_1684.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1685 | God's Non-Remembrance of Sin](sermon_1685.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1686 | With the Disciples on the Lake of Galilee](sermon_1686.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1687 | The Law Written in the Heart](sermon_1687.md) - A sermon by Charles H. Spurgeon.

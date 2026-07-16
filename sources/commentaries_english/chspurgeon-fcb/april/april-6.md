@@ -10,7 +10,7 @@ tags: [holy-spirit, faith, worship, holiness]
 ---
 # April 6 - One King, One Lord
 
-*"And the Lord shall be king over all the earth: in that day shall there be one Lord, and his name one"* &mdash; Zech. 14:9
+*"And the Lord shall be king over all the earth: in that day shall there be one Lord, and his name one"* — Zech. 14:9
 
 Blessed prospect! This is no dream of an enthusiast, but the declaration of the infallible Word. Jehovah shall be known among all people, and His gracious sway shall be acknowledged by every tribe of man. Today, it is far from being so. Where do any bow before the Great King? How much there is of rebellion! What lords many, and gods many, there are on the earth! Even among professed Christians what diversities of ideas there are about Him and His gospel! One day there shall be one King, one Jehovah, and one name for the living God. O Lord, hasten it! We daily cry, Thy kingdom come.
 

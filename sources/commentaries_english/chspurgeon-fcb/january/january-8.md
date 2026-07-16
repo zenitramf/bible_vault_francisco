@@ -10,7 +10,7 @@ tags: [faith, worship, holiness, discipleship]
 ---
 # January 8 - Purity Of Heart And Life
 
-*"Blessed are the pure in heart: for they shall see God."* &mdash; Matt. 5:8
+*"Blessed are the pure in heart: for they shall see God."* — Matt. 5:8
 
 Purity, even purity of heart, is the main thing to be aimed at. We need to be made clean within through the Spirit and the Word, and then we shall be clean without by consecration and obedience. There is a close connection between the affections and the understanding: if we love evil, we cannot understand that which is good. If the heart is foul, the eye will be dim. How can those men see a holy God who love unholy things?
 

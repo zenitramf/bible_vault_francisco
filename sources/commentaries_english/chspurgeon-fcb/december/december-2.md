@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # December 2 - Our Holiest Example
 
-*"I have set the Lord always before me: because he is at my right hand, I shall not be moved"* &mdash; Ps. 16:8
+*"I have set the Lord always before me: because he is at my right hand, I shall not be moved"* — Ps. 16:8
 
 This is the way to live. With God always before us, we shall have the noblest companionship, the holiest example, the sweetest consolation, and the mightiest influence. This must be a resolute act of the mind. "I have set," and it must be maintained as a set and settled thing. Always to have an eye to the Lord's eye, and an ear for the Lord's voice -- this is the right state for the godly man. His God is near him, filling the horizon of his vision, leading the way of his life, and furnishing the theme of his meditation. What vanities we should avoid, what sins we should overcome, what virtues we should exhibit, what joys we should experience if we did indeed set the Lord always before us! Why not?
 

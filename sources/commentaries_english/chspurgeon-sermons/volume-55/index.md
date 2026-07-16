@@ -18,7 +18,7 @@
 * [Sermon 3138 | Mocking the King](sermon_3138.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3139 | A Promise for the Blind](sermon_3139.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3140 | The Glory of Our Strength](sermon_3140.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3141 | Women's Rights&mdash;a Parable](sermon_3141.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 3141 | Women's Rights—a Parable](sermon_3141.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3142 | Established Work](sermon_3142.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3143 | Shoes for Pilgrims and Warriors](sermon_3143.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3144 | \"The True Sayings of God\"](sermon_3144.md) - A sermon by Charles H. Spurgeon.
@@ -28,7 +28,7 @@
 * [Sermon 3148 | Christ's Ambassadors](sermon_3148.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3149 | The Commissariat of the Universe](sermon_3149.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3150 | \"Never, No Never, No Never\"](sermon_3150.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3151 | The Lord's Supper&mdash;simple But Sublime!](sermon_3151.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 3151 | The Lord's Supper—simple But Sublime!](sermon_3151.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3152 | The Lower Courts](sermon_3152.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3153 | Paul Cheered in Prison by His Lord](sermon_3153.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3154 | Concerning The Forbearance Of God](sermon_3154.md) - A sermon by Charles H. Spurgeon.

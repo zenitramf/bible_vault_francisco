@@ -10,7 +10,7 @@ tags: [christ, salvation, faith]
 ---
 # January 18 - Christ And His Children
 
-*"When thou shalt make his soul an offering for sin, he shall see his seed."* &mdash; Isa. 53:10
+*"When thou shalt make his soul an offering for sin, he shall see his seed."* — Isa. 53:10
 
 Our Lord Jesus has not died in vain. His death was sacrificial: He died as our substitute, because death was the penalty of our sins; and because His substitution was accepted of God, He has saved those for whom He made His soul a sacrifice. By death He became like the corn of wheat which bringeth forth much fruit. There must be a succession of children unto Jesus; He is "the Father of the everlasting age." He shall say, "Behold, I and the children whom thou hast given me."
 

@@ -10,7 +10,7 @@ tags: [grace, faith, praise, providence]
 ---
 # December 13 - Evening Brightens Into Day
 
-*"It shall come to pass, that at evening time it shall be light"* &mdash; Zech. 14:7
+*"It shall come to pass, that at evening time it shall be light"* — Zech. 14:7
 
 It is a surprise that it should be so; for all things threaten that at evening time it shall be dark. God is wont to work in a way so much above our fears and beyond our hopes, that we are greatly amazed, and are led to praise His sovereign grace. No, it shall not be with us as our hearts are prophesying: the dark will not deepen into midnight, but it will on a sudden brighten into day. Never let us despair. In the worst times let us trust in the Lord who turneth the darkness of the shadow of death into the morning. When the tale of bricks is doubled Moses appears, and when tribulation abounds it is nearest its end.
 

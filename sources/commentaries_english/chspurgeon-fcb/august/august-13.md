@@ -11,7 +11,7 @@ tags: [holy-spirit, faith, prayer, holiness]
 ---
 # August 13 - Before And During The Call
 
-*"It shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear"* &mdash; Isa. 65:24
+*"It shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear"* — Isa. 65:24
 
 Quick work this! The Lord hears us before we call; and often answers us in the same speedy manner. Foreseeing our needs, and our prayers, He so arranges providence that before the need actually arises He has supplied it, before the trial assails us He has armed us against it. This is the promptitude of omniscience, and we have often seen it exercised. Before we dreamed of the affliction which was coming, the strong consolation which was to sustain us under it had arrived. What a prayer-answering God we have!
 

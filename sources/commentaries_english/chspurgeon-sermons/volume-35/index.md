@@ -6,9 +6,9 @@
 * [Sermon 2063 | The Filling of Empty Vessels](sermon_2063.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2064 | Essential Points In Prayer](sermon_2064.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2065 | Our Great Shepherd Finding the Sheep](sermon_2065.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2066 | Our Place&mdash;at Jesus' Feet](sermon_2066.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2066 | Our Place—at Jesus' Feet](sermon_2066.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2067 | The Spirit and the Wind](sermon_2067.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2068 | Nathanael&mdash;the Man Needed for the Day](sermon_2068.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2068 | Nathanael—the Man Needed for the Day](sermon_2068.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2069 | My Own Personal Holdfast](sermon_2069.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2070 | Christ's Connection With Sinners the Source of His Glory](sermon_2070.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2071 | Trembling at the Word of the Lord](sermon_2071.md) - A sermon by Charles H. Spurgeon.
@@ -52,12 +52,12 @@
 * [Sermon 2109 | The Eye and the Light](sermon_2109.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2110 | The Mustard Seed: A Sermon for the Sabbath-School Teacher](sermon_2110.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2111 | Filling With the Spirit and Drunkenness With Wine](sermon_2111.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2112 | Peace&mdash;How Gained, How Broken](sermon_2112.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2112 | Peace—How Gained, How Broken](sermon_2112.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2113 | By The Fountain](sermon_2113.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2114 | The Burden of the Word of the Lord](sermon_2114.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2115 | The Drought of Nature, the Rain of Grace and the Lesson Therefrom](sermon_2115.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2116 | The Unchanging God Cheering Jacob in His Change of Dwelling Place](sermon_2116.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2117 | The Father's Love to His Dying Son](sermon_2117.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2118 | The Planter of the Ear Must Hear](sermon_2118.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2119 | Magdalene at the Sepulcher&mdash;an Instructive Scene](sermon_2119.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2120 | The Security Of Believers&mdash;Or, Sheep Who Shall Never Perish](sermon_2120.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2119 | Magdalene at the Sepulcher—an Instructive Scene](sermon_2119.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2120 | The Security Of Believers—Or, Sheep Who Shall Never Perish](sermon_2120.md) - A sermon by Charles H. Spurgeon.

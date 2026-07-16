@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # October 4 - The Mighty Magnet
 
-*"And I, if I be lifted up from the earth, will draw all men unto me"* &mdash; John 12:32
+*"And I, if I be lifted up from the earth, will draw all men unto me"* — John 12:32
 
 Come, ye workers, be encouraged. You fear that you cannot draw a congregation. Try the preaching of a crucified, risen, and ascended Saviour; for this is the greatest "draw" that was ever yet manifested among men. What drew you to Christ but Christ? What draws you to Him now but His own blessed self? If you have been drawn to religion by anything else, you will soon be drawn away from it; but Jesus has held you, and will hold you even to the end. Why, then, doubt His power to draw others? Go with the name of Jesus to those who have hitherto been stubborn, and see if it does not draw them.
 

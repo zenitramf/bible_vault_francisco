@@ -14,7 +14,7 @@ bible_book_name: "Micah"
 ---
 # October 5 - At God's Bidding
 
-*"And the remnant of Jacob shall be in the midst of many people as a dew from the Lord, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men."* &mdash; Micah 5:7
+*"And the remnant of Jacob shall be in the midst of many people as a dew from the Lord, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men."* — Micah 5:7
 
 If this be true of the literal Israel, much more is it true of the spiritual Israel, the believing people of God. When saints are what they should be, they are an incalculable blessing to those among whom they are scattered.
 

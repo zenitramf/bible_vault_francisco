@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # December 4 - Covered And Protected
 
-*"He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler"* &mdash; Ps. 91:4
+*"He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler"* — Ps. 91:4
 
 A condescending simile indeed! Just as a hen protects her brood and allows them to nestle under her wings, so will the Lord defend His people, and permit them to hide away in Him. Have we not seen the little chicks peeping out from under the mother's feathers? Have we not heard their little cry of contented joy? In this way let us shelter ourselves in our God, and feel overflowing peace in knowing that He is guarding us.
 

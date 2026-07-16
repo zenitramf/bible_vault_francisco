@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # July 6 - His Love; His Gift; His Son
 
-*"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."* &mdash; John 3:16
+*"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."* — John 3:16
 
 Of all the stars in the sky the polestar is the most useful to the mariner. This text is a polestar, for it has guided more souls to salvation than any other Scripture. It is among promises what the Great Bear is among constellations.
 

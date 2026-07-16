@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # October 23 - Harvest Of Light, Gladness
 
-*"Light is sown for the righteous, and gladness for the upright in heart"* &mdash; Ps. 97:11
+*"Light is sown for the righteous, and gladness for the upright in heart"* — Ps. 97:11
 
 Righteousness is often costly to the man who keeps to it at all hazards, but in the end it will bear its own expenses, and return an infinite profit. A holy life is like sowing seed: much is going out, and apparently it is buried in the soil, never to be gathered up again. We are mistaken when we look for an immediate harvest; but the error is very natural, for it seems impossible to bury light. Yet light is "sown," says the text. It lies latent: none can see it, it is sown. We are quite sure that it must one day manifest itself.
 

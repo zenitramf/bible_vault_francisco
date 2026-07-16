@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # February 15 - Ever Mindful
 
-*"The Lord hath been mindful of us: he will bless us"* &mdash; Ps. 115:12
+*"The Lord hath been mindful of us: he will bless us"* — Ps. 115:12
 
 I can set my seal to that first sentence. Cannot you? Yes, Jehovah has thought of us, provided for us, comforted us, delivered us, and guided us. In all the movements of His providence He has been mindful of us, never overlooking our mean affairs. His mind has been full of us -- that is the other form of the word "mindful." This has been the case all along, and without a single break. At special times, however, we have more distinctly seen this mindfulness, and we would recall them at this hour with overflowing gratitude. Yes, yes, "the Lord hath been mindful of us."
 

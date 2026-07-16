@@ -14,9 +14,9 @@ bible_book_name: "Micah"
 
 ## Morning
 
-> “He shall stand and feed in the strength of the Lord.” &mdash; Micah 5:4
+> “He shall stand and feed in the strength of the Lord.” — Micah 5:4
 
-Christ’s reign in his Church is that of a shepherd&mdash;king. He has supremacy, but it is the superiority of a wise and tender shepherd over his needy and loving flock; he commands and receives obedience, but it is the willing obedience of the well&mdash;cared&mdash;for sheep, rendered joyfully to their beloved Shepherd, whose voice they know so well. He rules by the force of love and the energy of goodness.
+Christ’s reign in his Church is that of a shepherd—king. He has supremacy, but it is the superiority of a wise and tender shepherd over his needy and loving flock; he commands and receives obedience, but it is the willing obedience of the well—cared—for sheep, rendered joyfully to their beloved Shepherd, whose voice they know so well. He rules by the force of love and the energy of goodness.
 
 His reign is practical in its character. It is said, “He shall stand and feed .” The great Head of the Church is actively engaged in providing for his people. He does not sit down upon the throne in empty state, or hold a sceptre without wielding it in government. No, he stands and feeds. The expression “feed,” in the original, is like an analogous one in the Greek, which means to shepherdize, to do everything expected of a shepherd: to guide, to watch, to preserve, to restore, to tend, as well as to feed.
 
@@ -27,7 +27,7 @@ His reign is effectually powerful in its action; “He shall feed in the strengt
 
 ## Evening
 
-> “Pull me out of the net that they have laid privily for me: for thou art my strength.” &mdash; Psalm 31:4
+> “Pull me out of the net that they have laid privily for me: for thou art my strength.” — Psalm 31:4
 
 Our spiritual foes are of the serpent’s brood, and seek to ensnare us by subtlety. The prayer before us supposes the possibility of the believer being caught like a bird. So deftly does the fowler do his work, that simple ones are soon surrounded by the net. The text asks that even out of Satan’s meshes the captive one may be delivered; this is a proper petition, and one which can be granted: from between the jaws of the lion, and out of the belly of hell, can eternal love rescue the saint. It may need a sharp pull to save a soul from the net of temptations, and a mighty pull to extricate a man from the snares of malicious cunning, but the Lord is equal to every emergency, and the most skilfully placed nets of the hunter shall never be able to hold his chosen ones. Woe unto those who are so clever at net laying; they who tempt others shall be destroyed themselves.
 

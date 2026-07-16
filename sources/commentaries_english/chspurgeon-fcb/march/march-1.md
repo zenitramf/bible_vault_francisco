@@ -11,7 +11,7 @@ tags: [faith, prayer, worship, holiness]
 ---
 # March 1 - Joy For The Cast-out
 
-*"Hear the word of the Lord, ye that tremble at his word; Your brethren that hated you, that cast you out for my name's sake, said, Let the Lord be glorified: but he shall appear to your joy, and they shall be ashamed"* &mdash; Isa. 66:5
+*"Hear the word of the Lord, ye that tremble at his word; Your brethren that hated you, that cast you out for my name's sake, said, Let the Lord be glorified: but he shall appear to your joy, and they shall be ashamed"* — Isa. 66:5
 
 Possibly this text may not apply to one in a thousand of the readers of this little book of promises; but the Lord cheers that one in such words as these. Let us pray for all such as are cast out wrongfully from the society which they love. May the Lord appear to their joy!
 

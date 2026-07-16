@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # April 14 - My Choice Is His Choice
 
-*"He shall choose our inheritance for us"* &mdash; Ps. 47:4
+*"He shall choose our inheritance for us"* — Ps. 47:4
 
 Our enemies would allot us a very dreary portion, but we are not left in their hands. The Lord will cause us to stand in our lot, and our place is appointed by His infinite wisdom. A wiser mind than our own arranges our destiny. The ordaining of all things is with God, and we are glad to have it so; we choose that God should choose for us. If we might have our own way we would wish to let all things go in God's way.
 

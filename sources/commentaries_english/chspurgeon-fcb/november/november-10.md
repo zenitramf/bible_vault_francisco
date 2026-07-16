@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # November 10 - Walk Without Stumbling
 
-*"He will not suffer thy foot to be moved"* &mdash; Ps. 121:3
+*"He will not suffer thy foot to be moved"* — Ps. 121:3
 
 If the Lord will not suffer it, neither men nor devils can do it. How greatly would they rejoice if they could give us a disgraceful fall, drive us from our position, and bury us out of memory! They could do this to their heart's content were it not for one hindrance, and only one: the Lord will not suffer it; and if He does not suffer it, we shall not suffer it.
 

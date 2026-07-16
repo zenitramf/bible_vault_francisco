@@ -11,7 +11,7 @@ tags: [faith, prayer, pastoral-ministry, prophecy]
 ---
 # May 19 - We May Speak For God
 
-*"Therefore thus saith the Lord, If thou return, then will I bring thee again, and thou shalt stand before me: and if thou take forth the precious from the vile, thou shalt be as my mouth"* &mdash; Jer. 15:19
+*"Therefore thus saith the Lord, If thou return, then will I bring thee again, and thou shalt stand before me: and if thou take forth the precious from the vile, thou shalt be as my mouth"* — Jer. 15:19
 
 Poor Jeremiah! Yet why do we say so? The weeping prophet was one of the choicest servants of God, and honored by Him above many. He was hated for speaking the truth. The word which was so sweet to him was bitter to his hearers, yet he was accepted of his Lord. He was commanded to abide in his faithfulness, and then the Lord would continue to speak through him. He was to deal boldly and truthfully with men, and perform the Lord's winnowing work upon the professors of his day, and then the Lord gave him this word, "Thou shalt be as my mouth."
 

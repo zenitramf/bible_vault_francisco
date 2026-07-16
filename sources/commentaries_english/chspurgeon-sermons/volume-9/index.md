@@ -2,7 +2,7 @@
 
 # Contents
 
-* [Sermon 487 | A Tempted Savior&mdash;Our Best Succor](sermon_487.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 487 | A Tempted Savior—Our Best Succor](sermon_487.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 488 | The Voice From Heaven](sermon_488.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 489 | Broad Rivers And Streams](sermon_489.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 490 | Gracious Renewal](sermon_490.md) - A sermon by Charles H. Spurgeon.
@@ -42,21 +42,21 @@
 * [Sermon 525 | Am I Sought Out?](sermon_525.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 526 | No Illusion](sermon_526.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 527 | The Red Heifer](sermon_527.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 528 | Chastisement&mdash;Now And Afterward](sermon_528.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 528 | Chastisement—Now And Afterward](sermon_528.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 529 | The Cedars Of Lebanon](sermon_529.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 530 | The Chief Of Sinners](sermon_530.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 531 | The Warrant of Faith](sermon_531.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 532 | Thanksgiving And Prayer](sermon_532.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 533 | The Queen Of The South, Or The Earnest Enquirer](sermon_533.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 534 | The Mighty Power Which Creates And Sustains Faith](sermon_534.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 535 | Ben-Hadad's Escape&mdash;An Encouragement For Sinners](sermon_535.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 535 | Ben-Hadad's Escape—An Encouragement For Sinners](sermon_535.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 536 | Jehovah-Shammah](sermon_536.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 537 | Encourage Your Minister!](sermon_537.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 538 | Caleb&mdash;The Man For The Times](sermon_538.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 538 | Caleb—The Man For The Times](sermon_538.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 539 | Heavenly Lovesickness!](sermon_539.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 540 | The Lambs And Their Shepherd](sermon_540.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 541 | Direction In Dilemma](sermon_541.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 542 | Paul&mdash;His Cloak And His Books](sermon_542.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 542 | Paul—His Cloak And His Books](sermon_542.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 543 | Once a Curse But Now a Blessing](sermon_543.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 544 | Lessons From Lydia's Conversion](sermon_544.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 545 | The Holy Child, Jesus](sermon_545.md) - A sermon by Charles H. Spurgeon.

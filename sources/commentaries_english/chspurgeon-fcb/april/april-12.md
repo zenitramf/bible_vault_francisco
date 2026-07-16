@@ -10,7 +10,7 @@ tags: [redemption, grace, faith, praise]
 ---
 # April 12 - He Remembers No More
 
-*"For I will forgive their iniquity, and I will remember their sin no more"* &mdash; Jer. 31:34
+*"For I will forgive their iniquity, and I will remember their sin no more"* — Jer. 31:34
 
 When we know the Lord, we receive the forgiveness of sins. We know Him as the God of Grace, passing by our transgressions. What a joyful discovery is this!
 

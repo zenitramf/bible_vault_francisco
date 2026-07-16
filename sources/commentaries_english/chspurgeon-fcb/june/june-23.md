@@ -10,7 +10,7 @@ tags: [faith, praise, pastoral-ministry]
 ---
 # June 23 - The Enemy Firsthand
 
-*"Therefore thus saith the Lord concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it"* &mdash; II Kings 19:32
+*"Therefore thus saith the Lord concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it"* — II Kings 19:32
 
 Neither did Sennacherib molest the city. He had boasted loudly, but he could not carry out his threats. The Lord is able to stop the enemies of His people in the very act. When the lion has the lamb between his jaws, the great Shepherd of the sheep can rob him of his prey. Our extremity only provides an opportunity for a grander display of divine power and wisdom.
 

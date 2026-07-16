@@ -11,7 +11,7 @@ tags: [faith, suffering, covenant]
 ---
 # January 11 - Faith Sees The Bow
 
-*"And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud."* &mdash; Gen. 9:14
+*"And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud."* — Gen. 9:14
 
 Just now clouds are plentiful enough, but we are not afraid that the world will be destroyed by a deluge. We see the rainbow often enough to prevent our having any such fears. The covenant which the Lord made with Noah stands fast, and we have no doubts about it. Why, then, should we think that the clouds of trouble, which now darken our sky, will end in our destruction? Let us dismiss such groundless and dishonoring fears.
 

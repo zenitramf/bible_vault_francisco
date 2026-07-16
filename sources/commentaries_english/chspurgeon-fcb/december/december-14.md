@@ -10,7 +10,7 @@ tags: [christ, grace, faith, worship]
 ---
 # December 14 - Nothing Old
 
-*"And he that sat upon the throne said, Behold, I make all things new"* &mdash; Rev. 21:5
+*"And he that sat upon the throne said, Behold, I make all things new"* — Rev. 21:5
 
 Glory be to His name! All things need making new, for they are sadly battered and worn by sin. It is time that the old vesture was rolled up and laid aside, and that creation put on her Sunday suit. But no one else can make all things new except the Lord who made them at the first; for it needs as much power to make out of evil as to make out of nothing. Our Lord Jesus has undertaken the task, and He is fully competent for the performance of it. Already He has commenced His labor, and for centuries He has persevered in making new the hearts of men, and the order of society. By-and-by He will make new the whole constitution of human government, and human nature shall be changed by His grace; and there shall come a day when the body shall be made new, and raised like unto His glorious body.
 

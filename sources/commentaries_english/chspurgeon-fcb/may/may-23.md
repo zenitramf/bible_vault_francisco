@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # May 23 - Full Reliance On God
 
-*"For he shall deliver the needy when he crieth; the poor also, and him that hath no helper"* &mdash; Ps. 72:12
+*"For he shall deliver the needy when he crieth; the poor also, and him that hath no helper"* — Ps. 72:12
 
 The needy cries; what else can he do? His cry is heard of God; what else need he do? Let the needy reader take to crying at once, for this will be his wisdom. Do not cry in the ears of friends, for even if they can help you it is only because the Lord enables them. The nearest way is to go straight to God, and let your cry come up before Him. Straightforward makes the best runner: run to the Lord, and not to secondary causes.
 

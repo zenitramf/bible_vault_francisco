@@ -11,7 +11,7 @@
 * [Sermon 2008 | The Lord And The Leper](sermon_2008.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2009 | Job Among the Ashes](sermon_2009.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2010 | The Word a Sword](sermon_2010.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2011 | Abram's Call&mdash;or, Half-Way&mdash;and All the Way](sermon_2011.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2011 | Abram's Call—or, Half-Way—and All the Way](sermon_2011.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2012 | Grace Abounding Over Abounding Sin](sermon_2012.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2013 | The Infallibility of Scripture](sermon_2013.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2014 | As We Have Heard, So Have We Seen](sermon_2014.md) - A sermon by Charles H. Spurgeon.
@@ -20,7 +20,7 @@
 * [Sermon 2017 | David's Spoil](sermon_2017.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2018 | Cured At Last!](sermon_2018.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2020 | Is Anything Too Hard for the Lord?](sermon_2020.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2021 | Nathanael&mdash;Or, the Ready Believer and His Reward](sermon_2021.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2021 | Nathanael—Or, the Ready Believer and His Reward](sermon_2021.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2022 | The Wedding Was Furnished with Guests](sermon_2022.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2023 | The Blessing of Full Assurance](sermon_2023.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2024 | What Is the Wedding Garment?](sermon_2024.md) - A sermon by Charles H. Spurgeon.
@@ -50,10 +50,10 @@
 * [Sermon 2048 | A Life-Long Occupation](sermon_2048.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2049 | Driving Out the Canaanites and Their Iron Chariots](sermon_2049.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2050 | A Paradox](sermon_2050.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2051 | Setting Jesus at Nothing&mdash;Treating Him with Contempt](sermon_2051.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2051 | Setting Jesus at Nothing—Treating Him with Contempt](sermon_2051.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2052 | On His Breast](sermon_2052.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2053 | Concerning Prayer](sermon_2053.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2054 | Judgments and No Repentance&mdash;Repentance and No Salvation](sermon_2054.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2054 | Judgments and No Repentance—Repentance and No Salvation](sermon_2054.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2055 | The Trial of Your Faith](sermon_2055.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2056 | Idols Found Wanting, But Jehovah Found Faithful](sermon_2056.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2057 | The Lord's Own Salvation](sermon_2057.md) - A sermon by Charles H. Spurgeon.

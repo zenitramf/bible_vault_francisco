@@ -13,7 +13,7 @@ bible_book_name: "Mark"
 ---
 # October 7 - Always First In Fellowship
 
-*"He goeth before you into Galilee; there shall ye see him, as he said unto you."* &mdash; Mark 16:7
+*"He goeth before you into Galilee; there shall ye see him, as he said unto you."* — Mark 16:7
 
 Where He appointed to meet His disciples, there He would be in due time. Jesus keeps His tryst. If He promises to meet us at the mercy-seat, or in public worship, or in the ordinances, we may depend upon it that He will be there. We may wickedly stay away from the appointed meeting-place, but He never does. He says, "Where two or three are met together in my name, there am I"; he says not "There will I be," but, "I am there already."
 

@@ -14,7 +14,7 @@ bible_book_name: "Luke"
 
 ## Morning
 
-> “Friend, go up higher.” &mdash; Luke 14:10
+> “Friend, go up higher.” — Luke 14:10
 
 When first the life of grace begins in the soul, we do indeed draw near to God, but it is with great fear and trembling. The soul conscious of guilt, and humbled thereby, is overawed with the solemnity of its position; it is cast to the earth by a sense of the grandeur of Jehovah, in whose presence it stands. With unfeigned bashfulness it takes the lowest room.
 
@@ -23,7 +23,7 @@ But, in after life, as the Christian grows in grace, although he will never forg
 
 ## Evening
 
-> “The night also is thine.” &mdash; Psalm 74:16
+> “The night also is thine.” — Psalm 74:16
 
 Yes, Lord, thou dost not abdicate thy throne when the sun goeth down, nor dost thou leave the world all through these long wintry nights to be the prey of evil; thine eyes watch us as the stars, and thine arms surround us as the zodiac belts the sky. The dews of kindly sleep and all the influences of the moon are in thy hand, and the alarms and solemnities of night are equally with thee. This is very sweet to me when watching through the midnight hours, or tossing to and fro in anguish. There are precious fruits put forth by the moon as well as by the sun: may my Lord make me to be a favoured partaker in them.
 

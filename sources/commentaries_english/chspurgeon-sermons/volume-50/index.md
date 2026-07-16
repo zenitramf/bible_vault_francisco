@@ -2,7 +2,7 @@
 
 # Contents
 
-* [Sermon 2864 | God Has Spoken!&mdash; Rejoice!](sermon_2864.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2864 | God Has Spoken!— Rejoice!](sermon_2864.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2865 | Fencing the Table](sermon_2865.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2866 | Good News](sermon_2866.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2867 | The Life-look](sermon_2867.md) - A sermon by Charles H. Spurgeon.

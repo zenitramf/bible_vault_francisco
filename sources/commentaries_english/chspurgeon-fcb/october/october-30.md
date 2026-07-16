@@ -11,7 +11,7 @@ tags: [holy-spirit, faith, holiness, covenant]
 ---
 # October 30 - Thorough Cleansing
 
-*"Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you"* &mdash; Ezek. 36:25
+*"Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you"* — Ezek. 36:25
 
 What an exceeding joy is this! He who has purified us with the blood of Jesus will also cleanse us by the water of the Holy Spirit. God hath said it, and so it must be, "Ye shall be clean." Lord, we feel and mourn our uncleanness, and it is cheering to be assured by thine own mouth that we shall be clean. Oh, that thou wouldst make a speedy work of it!
 

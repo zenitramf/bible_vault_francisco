@@ -10,7 +10,7 @@ tags: [grace, faith, prayer, hope]
 ---
 # June 29 - Invitation To Pray
 
-*"Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not"* &mdash; Jer. 33:3
+*"Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not"* — Jer. 33:3
 
 God encourages us to pray. They tell us that prayer is a pious exercise which has no influence except upon the mind engaged in it. We know better. Our experience gives the lie a thousand times over to this infidel assertion. Here Jehovah, the living God, distinctly promises to answer the prayer of His servant. Let us call upon Him again, and admit no doubt upon the question of His hearing us and answering us. He that made the ear, shall He not hear? He that gave parents a love to their children, will He not listen to the cries of His own sons and daughters?
 

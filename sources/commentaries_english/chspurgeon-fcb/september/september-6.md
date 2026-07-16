@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # Sept. 6 - A Strong Heart
 
-*"Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord"* &mdash; Ps. 27:14
+*"Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord"* — Ps. 27:14
 
 Wait! Wait! Let your waiting be on the Lord! He is worth waiting for. He never disappoints the waiting soul.
 

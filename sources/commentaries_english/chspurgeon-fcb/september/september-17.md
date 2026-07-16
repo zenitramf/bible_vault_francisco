@@ -15,7 +15,7 @@ bible_book_name: "Psalms"
 ---
 # Sept. 17 - Like Palm And Cedar
 
-*"The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon"* &mdash; Ps. 92:12
+*"The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon"* — Ps. 92:12
 
 These trees are not trained and pruned by man: palms and cedars are "trees of the Lord," and it is by His care that they flourish; even so it is with the saints of the Lord, they are His own care. These trees are evergreen and are beautiful objects at all seasons of the year. Believers are not sometimes holy and sometimes ungodly: they stand in the beauty of the Lord under all weathers. Everywhere these trees are noteworthy: no one can gaze upon a landscape in which there are either palms or cedars without his attention being fixed upon these royal growths. The followers of Jesus are the observed of all observers: like a city set on a hill they cannot be hid.
 

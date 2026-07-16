@@ -11,7 +11,7 @@ tags: [faith, holiness, discipleship]
 ---
 # April 1 - The King's Highway
 
-*"The wayfaring men, though fools, shall not err therein"* &mdash; Isa. 35:8
+*"The wayfaring men, though fools, shall not err therein"* — Isa. 35:8
 
 The way of holiness is so straight and plain that the simplest minds cannot go astray if they constantly follow it. The worldly wise have many twists and turns, and yet they make terrible blunders, and generally miss their end. Worldly policy is a poor short-sighted thing, and when men choose it as their road, it leads them over dark mountains. Gracious minds know no better than to do as the Lord bids them; but this keeps them in the king's highway, and under royal protection.
 

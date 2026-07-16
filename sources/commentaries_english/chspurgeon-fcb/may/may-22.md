@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # May 22 - Song Of Confidence
 
-*"Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me"* &mdash; Ps. 138:7
+*"Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me"* — Ps. 138:7
 
 Wretched walking in the midst of trouble. Nay, blessed walking, since there is a special promise for it. Give me a promise, and what is the trouble? What doth my Lord teach me here to say? Why this "Thou wilt revive me." I shall have more life, more energy, more faith. Is it not often so, that trouble revives us, like a breath of cold air when one is ready to faint?
 

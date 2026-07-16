@@ -10,7 +10,7 @@ tags: [grace, faith, hope]
 ---
 # November 5 - What Is Painful Will End
 
-*"I will not contend for ever, neither will I be always wrath: for the spirit should fail before me, and the souls which I have made"* &mdash; Isa. 57:16
+*"I will not contend for ever, neither will I be always wrath: for the spirit should fail before me, and the souls which I have made"* — Isa. 57:16
 
 Our heavenly Father seeks our instruction, not our destruction. His contention with us has a kind intention toward us. He will not be always in arms against us. We think the Lord is long in His chastisements, but that is because we are short in our patience. His compassion endureth for ever, but not His contention. The night may drag its weary length along, but it must in the end give place to cheerful day. As contention is only for a season, so the wrath which leads to it is only for a small moment. The Lord loves His chosen too well to be always angry with them.
 

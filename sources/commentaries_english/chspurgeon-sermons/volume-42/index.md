@@ -3,7 +3,7 @@
 # Contents
 
 * [Sermon 2446 | Carte Blanche](sermon_2446.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2447 | \"God, and Not Man\"&mdash;What Does It Mean?](sermon_2447.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2447 | \"God, and Not Man\"—What Does It Mean?](sermon_2447.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2448 | \"Herein Is Love\"](sermon_2448.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2449 | The Rule and Reward of Serving Christ](sermon_2449.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2450 | The Joy of Redemption](sermon_2450.md) - A sermon by Charles H. Spurgeon.
@@ -27,11 +27,11 @@
 * [Sermon 2468 | Solitude, Silence, Submission](sermon_2468.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2469 | The Incomparable Bridegroom and His Bride](sermon_2469.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2470 | Jacob and Doubting Souls a Parallel](sermon_2470.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2471 | The Best of All&mdash;god Is With Us](sermon_2471.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2471 | The Best of All—god Is With Us](sermon_2471.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2472 | The Best of the Best](sermon_2472.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2473 | An Awful Contrast](sermon_2473.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2474 | The Great Change](sermon_2474.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2475 | \"My Garden\"&mdash;\"His Garden\"](sermon_2475.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2475 | \"My Garden\"—\"His Garden\"](sermon_2475.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2476 | \"This Thing Is From Me\"](sermon_2476.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2477 | Darkness Before the Dawn](sermon_2477.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2478 | Christ's Perfection and Precedence](sermon_2478.md) - A sermon by Charles H. Spurgeon.

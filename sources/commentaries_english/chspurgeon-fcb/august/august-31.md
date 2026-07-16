@@ -12,7 +12,7 @@ tags: [faith, worship, praise, holiness]
 ---
 # August 31 - Divine, Ever-living, Unchanging
 
-*"But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you"* &mdash; I Peter 1:25
+*"But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you"* — I Peter 1:25
 
 All human teaching and, indeed, all human beings, shall pass away as the grass of the meadow; but we are here assured that the Word of the Lord is of a very different character, for it shall endure for ever.
 

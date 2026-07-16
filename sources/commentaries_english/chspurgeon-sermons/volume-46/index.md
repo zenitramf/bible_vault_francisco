@@ -14,10 +14,10 @@
 * [Sermon 2665 | A Day to Be Remembered](sermon_2665.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2666 | The Sorrowful Man's Question](sermon_2666.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2667 | A Pressed Man Yielding to Christ](sermon_2667.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2668 | Communion With Christ&mdash;a Baptizing Sermon](sermon_2668.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2668 | Communion With Christ—a Baptizing Sermon](sermon_2668.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2669 | Comfort From Christ's Omniscience](sermon_2669.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2670 | Pride Catechized](sermon_2670.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2671 | A Sincere Summary&mdash;and a Searching Scrutiny](sermon_2671.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2671 | A Sincere Summary—and a Searching Scrutiny](sermon_2671.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2672 | Neither Forsaken Nor Forgotten](sermon_2672.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2673 | Christ Crucified](sermon_2673.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2674 | Learning in Private What to Teach in Public](sermon_2674.md) - A sermon by Charles H. Spurgeon.

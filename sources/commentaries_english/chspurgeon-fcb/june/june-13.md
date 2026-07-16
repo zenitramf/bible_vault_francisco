@@ -11,7 +11,7 @@ tags: [faith, praise, prophecy]
 ---
 # June 13 - Divine Cultivation
 
-*"I the Lord do keep it; I will water it every moment: lest any hurt it, I will keep it night and day"* &mdash; Isa. 27:3
+*"I the Lord do keep it; I will water it every moment: lest any hurt it, I will keep it night and day"* — Isa. 27:3
 
 When the Lord Himself speaks in His own proper person rather than through a prophet, the word has a peculiar weight to believing minds. It is Jehovah Himself who is the keeper of His own vineyard; He does not trust it to any other, but He makes it His own personal care. Are they not well kept whom God Himself keeps?
 

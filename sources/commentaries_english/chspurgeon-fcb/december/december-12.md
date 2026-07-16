@@ -10,7 +10,7 @@ tags: [christ, grace, faith, holiness]
 ---
 # December 12 - A Quiet Heart
 
-*"In quietness and in confidence shall be your strength"* &mdash; Isa. 30:15
+*"In quietness and in confidence shall be your strength"* — Isa. 30:15
 
 It is always weakness to be fretting and worrying, questioning and mistrusting. What can we do if we wear ourselves to skin and bone? Can we gain anything by fearing and fuming? Do we not unfit ourselves for action, and unhinge our minds for wise decision? We are sinking by our struggles when we might float by faith.
 

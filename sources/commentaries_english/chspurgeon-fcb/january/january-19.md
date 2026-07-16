@@ -10,7 +10,7 @@ tags: [christ, salvation, faith, worship]
 ---
 # January 19 - Mouth Confession; Heart Belief
 
-*"If thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."* &mdash; Rom. 10:9
+*"If thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."* — Rom. 10:9
 
 There must be confession with the mouth. Have I made it? Have I openly avowed my faith in Jesus as the Saviour whom God has raised from the dead, and have I done it in God's way? Let me honestly answer this question.
 

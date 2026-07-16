@@ -6,7 +6,7 @@
 * [Sermon 3074 | Danger. Safety. Gratitude.](sermon_3074.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3075 | Looking for One Thing and Finding Another](sermon_3075.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3076 | The Cause and Effect of Heart Trouble](sermon_3076.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3077 | Death&mdash;a Sleep](sermon_3077.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 3077 | Death—a Sleep](sermon_3077.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3078 | God-Guided Men](sermon_3078.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3079 | A Searching Question](sermon_3079.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3080 | Two Ancient Proverbs](sermon_3080.md) - A sermon by Charles H. Spurgeon.

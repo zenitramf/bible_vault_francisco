@@ -13,7 +13,7 @@ bible_book_name: "Acts"
 ---
 # March 29 - Dauntless Faith
 
-*"I am with thee, and no man shall set on thee to hurt thee"* &mdash; Acts 18:10
+*"I am with thee, and no man shall set on thee to hurt thee"* — Acts 18:10
 
 So long as the Lord had work for Paul to do in Corinth, the fury of the mob was restrained. The Jews opposed themselves and blasphemed; but they could neither stop the preaching of the gospel, nor the conversion of the hearers. God has power over the most violent minds. He makes the wrath of man to praise Him when it breaks forth, but He still more displays His goodness when He restrains it; and He can restrain it. "By the greatness of thine arm they shall be as still as a stone, till thy people pass over, O Lord."
 

@@ -54,4 +54,4 @@
 * [Sermon 3436 | Christ Glorified](sermon_3436.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3437 | Friendship's Guide](sermon_3437.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3438 | The Compassion of Jesus](sermon_3438.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3439 | Man Transient&mdash;god's Word Eternal](sermon_3439.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 3439 | Man Transient—god's Word Eternal](sermon_3439.md) - A sermon by Charles H. Spurgeon.

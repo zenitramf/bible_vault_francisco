@@ -14,7 +14,7 @@ bible_book_name: "Acts"
 ---
 # December 25 - He Came; He Is Coming
 
-*"This same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven"* &mdash; Acts 1:11
+*"This same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven"* — Acts 1:11
 
 Many are celebrating our Lord's first coming this day; let us turn our thoughts to the promise of His second coming. This is as sure as the first advent, and derives a great measure of its certainty from it. He who came as a lowly man to serve will assuredly come to take the reward of His service. He who came to suffer will not be slow in coming to reign.
 

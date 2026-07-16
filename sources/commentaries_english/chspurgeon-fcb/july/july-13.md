@@ -10,7 +10,7 @@ tags: [faith, hope, creation]
 ---
 # July 13 - Implicit Trust
 
-*"For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for a prey unto thee: because thou hast put thy trust in me, saith the Lord."* &mdash; Jer. 39:18
+*"For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for a prey unto thee: because thou hast put thy trust in me, saith the Lord."* — Jer. 39:18
 
 Behold the protecting power of trust in God. The great men of Jerusalem fell by the sword, but poor Ebed-melech was secure, for his confidence was in Jehovah. Where else should a man trust but in his Maker? We are foolish when we prefer the creature to the Creator. Oh, that we could in all things live by faith, then should we be delivered in all time of danger! No one ever did trust in the Lord in vain, and no one ever shall.
 

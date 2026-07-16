@@ -10,7 +10,7 @@ tags: [grace, faith, worship, praise]
 ---
 # February 19 - Better Farther On
 
-*"Though I have afflicted thee, I will afflict thee no more"* &mdash; Nah. 1:12
+*"Though I have afflicted thee, I will afflict thee no more"* — Nah. 1:12
 
 There is a limit to affliction. God sends it and God removes it. Do you sigh, and say "When will the end be?" Remember that our griefs will surely and finally end when this poor earthly life is over. Let us quietly wait, and patiently endure the will of the Lord till He cometh.
 

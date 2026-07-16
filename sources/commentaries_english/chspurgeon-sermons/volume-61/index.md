@@ -46,12 +46,12 @@
 * [Sermon 3481 | Visits From the Lord](sermon_3481.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3482 | Struggling Against Sin](sermon_3482.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3483 | The Family Likeness](sermon_3483.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3484 | Daniel&mdash;a Pattern for Pleaders](sermon_3484.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 3484 | Daniel—a Pattern for Pleaders](sermon_3484.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3485 | The Dejected Lover](sermon_3485.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3486 | God's Desire for Us, and His Work in Us](sermon_3486.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3487 | The Honored Guest](sermon_3487.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3488 | Justification, Propitiation, Declaration](sermon_3488.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3489 | Encouragement for the Depressed](sermon_3489.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 3490 | Sincere Seekers&mdash;assured Finders](sermon_3490.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 3490 | Sincere Seekers—assured Finders](sermon_3490.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3491 | The Savior's Charity](sermon_3491.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 3492 | God's Word Not to Be Refused](sermon_3492.md) - A sermon by Charles H. Spurgeon.

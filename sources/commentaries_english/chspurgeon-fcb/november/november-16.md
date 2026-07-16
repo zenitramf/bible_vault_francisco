@@ -10,7 +10,7 @@ tags: [faith, suffering, justice, creation]
 ---
 # November 16 - Weapons Doomed To Fail
 
-*"No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn"* &mdash; Isa. 54:17
+*"No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn"* — Isa. 54:17
 
 There is great clatter in the forges and smithies of the enemy. They are making weapons wherewith to smite the saints. They could not even do as much as this if the Lord of saints did not allow them; for He has created the smith that bloweth the coals in the fire. But see how busily they labor! How many swords and spears they fashion! It matters nothing, for on the blade of every weapon you may read this inscription: It shall not prosper.
 

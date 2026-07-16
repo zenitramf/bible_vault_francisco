@@ -10,7 +10,7 @@ tags: [grace, faith, worship, church]
 ---
 # April 28 - It Becomes Mutual
 
-*"I will dwell in them, and walk in them; and I will be their God, and they shall be my people"* &mdash; II Cor. 6:16
+*"I will dwell in them, and walk in them; and I will be their God, and they shall be my people"* — II Cor. 6:16
 
 Here is a mutual interest. Each belongs to each. God is the portion of His people, and the chosen people are the portion of their God. The saints find in God their chief possession, and He reckons them to be His peculiar treasure. What a mine of comfort lies in this fact for each believer!
 

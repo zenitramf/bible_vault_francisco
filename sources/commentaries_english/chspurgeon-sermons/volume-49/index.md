@@ -31,7 +31,7 @@
 * [Sermon 2838 | God's Glory in Hiding Sin](sermon_2838.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2839 | \"Prisoners of Hope\"](sermon_2839.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2840 | Laying the Hand on the Sacrifice](sermon_2840.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 2841 | Prayer&mdash;Its Discouragements and Encouragements](sermon_2841.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 2841 | Prayer—Its Discouragements and Encouragements](sermon_2841.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2842 | The Sower](sermon_2842.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2843 | The Seed by the Wayside](sermon_2843.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 2844 | The Seed Upon a Rock](sermon_2844.md) - A sermon by Charles H. Spurgeon.

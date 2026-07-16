@@ -10,7 +10,7 @@ tags: [grace, faith, prayer, discipleship]
 ---
 # November 19 - From Obedience To Blessing
 
-*"From this day will I bless you"* &mdash; Haggai 2:19
+*"From this day will I bless you"* — Haggai 2:19
 
 Future things are hidden from us. Yet here is a glass in which we may see the unborn years. The Lord says, "From this day will I bless you."
 

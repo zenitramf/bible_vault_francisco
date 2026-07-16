@@ -18,7 +18,7 @@ bible_book_name: "Joel"
 ---
 # January 16 - Even The Faintest Call
 
-*"And it shall come to pass, that whosoever shall call on the name of the Lord shall be delivered."* &mdash; Joel 2:32
+*"And it shall come to pass, that whosoever shall call on the name of the Lord shall be delivered."* — Joel 2:32
 
 Why do I not call on His name? Why do I run to this neighbor and that, when God is so near and will hear my faintest call? Why do I sit down, and devise schemes, and invent plans? Why not at once roll myself and my burden upon the Lord? Straightforward is the best runner -- why do I not run at once to the living God? In vain shall I look for deliverance anywhere else; but with God I shall find it; for here I have His royal SHALL to make it sure.
 

@@ -10,7 +10,7 @@ tags: [christ, grace, faith, worship]
 ---
 # June 14 - He Constantly Abides
 
-*"For the Lord will not forsake his people for his great name's sake; because it hath pleased the Lord to make you his people."* &mdash; I Sam. 12:22
+*"For the Lord will not forsake his people for his great name's sake; because it hath pleased the Lord to make you his people."* — I Sam. 12:22
 
 God's choice of His people is the reason for His abiding by them, and not forsaking them. He chose them for His love, and He loves them for His choice. His own good pleasure is the source of their election, and His election is the reason for the continuance of His pleasure in them. It would dishonor His great name for Him to forsake them, since it would either show that He made an error in His choice, or that He was fickle in His love. God's love has this glory, that it never changes, and this glory He will never tarnish.
 

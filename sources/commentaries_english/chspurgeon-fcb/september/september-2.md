@@ -14,7 +14,7 @@ bible_book_name: "Hosea"
 ---
 # Sept. 2 - Follow To Know
 
-*"Then shall we know, if we follow on to know the Lord"* &mdash; Hosea 6:3
+*"Then shall we know, if we follow on to know the Lord"* — Hosea 6:3
 
 Not all at once, but by degrees shall we attain to holy knowledge, and our business is to persevere and learn by little and little. We need not despair, though our progress may be slow, for we shall yet know. The Lord, who has become our Teacher, will not give us up, however slow of understanding we may be; for it is not for His honor that any degree of human folly should baffle His skill. The Lord delights to make the simple wise.
 

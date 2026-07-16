@@ -10,7 +10,7 @@ tags: [christ, faith, praise, holiness]
 ---
 # June 22 - He With Us; We With Him
 
-*"The fear of the Lord prolongeth days: but the years of the wicked shall be shortened"* &mdash; Prov. 10:27
+*"The fear of the Lord prolongeth days: but the years of the wicked shall be shortened"* — Prov. 10:27
 
 There is no doubt about it. The fear of the Lord leads to virtuous habits, and these prevent that waste of life which comes of sin and vice. The holy rest which springs out of faith in the Lord Jesus also greatly helps a man when he is ill. Every physician rejoices to have a patient whose mind is fully at ease. Worry kills, but confidence in God is like healing medicine.
 

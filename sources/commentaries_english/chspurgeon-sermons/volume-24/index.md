@@ -4,9 +4,9 @@
 
 * [Sermon 1391 | A Golden Prayer](sermon_1391.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1392 | A Catechism for the Proud](sermon_1392.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1393 | Speak For Yourself&mdash;a Challenge!](sermon_1393.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1393 | Speak For Yourself—a Challenge!](sermon_1393.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1394 | The Day of Salvation](sermon_1394.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1395 | Family Reformation&mdash;or, Jacob's Second Visit to Bethel](sermon_1395.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1395 | Family Reformation—or, Jacob's Second Visit to Bethel](sermon_1395.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1396 | Reasons for Turning to the Lord](sermon_1396.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1397 | The Peace of God](sermon_1397.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1398 | Offended Because of Christ?](sermon_1398.md) - A sermon by Charles H. Spurgeon.
@@ -46,7 +46,7 @@
 * [Sermon 1432 | Divine Interpositions](sermon_1432.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1433 | An Anxious Enquiry for a Beloved Son](sermon_1433.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1434 | Jesus!](sermon_1434.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1435 | Adoption&mdash;The Spirit and the Cry](sermon_1435.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1435 | Adoption—The Spirit and the Cry](sermon_1435.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1436 | What The Church Should Be](sermon_1436.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1437 | Others To Be Gathered In](sermon_1437.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1438 | The Hope Laid Up In Heaven](sermon_1438.md) - A sermon by Charles H. Spurgeon.

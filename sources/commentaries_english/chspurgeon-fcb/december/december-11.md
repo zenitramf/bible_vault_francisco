@@ -14,7 +14,7 @@ bible_book_name: "Psalms"
 ---
 # December 11 - Trust And Do; Do And Trust
 
-*"Trust in the Lord, and do good; so shalt thou dwell in the land, and verily thou shalt be fed"* &mdash; Ps. 37:3
+*"Trust in the Lord, and do good; so shalt thou dwell in the land, and verily thou shalt be fed"* — Ps. 37:3
 
 Trust and do are words which go well together, in the order in which the Holy Spirit has placed them. We should have faith, and that faith should work. Trust in God sets us upon holy doing: we trust God for good, and then we do good. We do not sit still because we trust, but we arouse ourselves, and expect the Lord to work through us and by us. It is not ours to worry and do evil, but to trust and do good. We neither trust without doing, nor do without trusting.
 

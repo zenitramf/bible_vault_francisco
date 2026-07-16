@@ -12,7 +12,7 @@ tags: [grace, faith, worship, hope]
 ---
 # May 13 - Day Is At Hand
 
-*"And I will give him the morning star"* &mdash; Rev. 2:28
+*"And I will give him the morning star"* — Rev. 2:28
 
 Until the day break, and the shadows flee away, what a blessing it is to see in Jesus "the morning star"! I remember when we read in the newspapers the idle tale that the star of Bethlehem had again appeared. On inquiry we found that it was only "the morning star"; but no great mistake had been made after all.
 

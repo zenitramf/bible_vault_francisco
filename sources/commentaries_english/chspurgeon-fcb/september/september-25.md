@@ -13,7 +13,7 @@ bible_book_name: "Judges"
 ---
 # Sept. 25 - The Sacrifice Has Been Accepted
 
-*"If the Lord were pleased to kill us, he would not have received a burnt offering and a meat offering at our hands, neither would he have showed us all these things"* &mdash; Judges 13:23
+*"If the Lord were pleased to kill us, he would not have received a burnt offering and a meat offering at our hands, neither would he have showed us all these things"* — Judges 13:23
 
 This is a sort of promise deduced by logic. It is an inference fairly drawn from ascertained facts. It was not likely that the Lord had revealed to Manoah and his wife that a son would be born to them, and yet had it in His heart to destroy them. The wife reasoned well, and we shall do well if we follow her line of argument.
 

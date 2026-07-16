@@ -10,7 +10,7 @@ tags: [faith, worship, holiness, church]
 ---
 # December 17 - Nearest And Dearest Fellowship
 
-*"So shall we ever be with the Lord"* &mdash; I Thess. 4:17
+*"So shall we ever be with the Lord"* — I Thess. 4:17
 
 While we are here the Lord is with us, and when we are called away we are with Him. There is no dividing the saint from His Saviour. They are one, and they always must be one: Jesus cannot be without His own people, for He would be a Head without a body. Whether caught up into the air, or resting in Paradise, or sojourning here, we are with Jesus; and who shall separate us from Him?
 

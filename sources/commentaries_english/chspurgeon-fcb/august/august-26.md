@@ -10,7 +10,7 @@ tags: [faith, suffering, justice]
 ---
 # August 26 - He Of Tender Conscience
 
-*"I will judge between cattle and cattle"* &mdash; Ezek. 34:22
+*"I will judge between cattle and cattle"* — Ezek. 34:22
 
 Some are fat and flourishing, and therefore they are unkind to the feeble. This is a grievous sin, and causes much sorrow. Those thrustings with side and with shoulder, those pushings of the diseased with the horn, are a sad means of offense in the assemblies of professing believers. The Lord takes note of these proud and unkind deeds, and He is greatly angered by them, for He loves the weak.
 

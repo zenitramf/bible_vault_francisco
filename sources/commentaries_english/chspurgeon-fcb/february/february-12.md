@@ -10,7 +10,7 @@ tags: [grace, faith, prayer, church]
 ---
 # February 12 - God Delights To Give
 
-*"And the Lord said unto Abraham, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward: for all the land which thou seest, to thee will I give it, and to thy seed for ever"* &mdash; Gen. 13:14
+*"And the Lord said unto Abraham, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward: for all the land which thou seest, to thee will I give it, and to thy seed for ever"* — Gen. 13:14
 
 A special blessing for a memorable occasion. Abram had settled a family dispute. He had said, "Let there be no strife, I pray thee, between thee and me, for we be brethren"; and hence he received the blessing which belongs to peacemakers. The Lord and giver of peace delights to manifest His grace to those who seek peace and pursue it. If we desire closer communion with God, we must keep closer to the ways of peace.
 

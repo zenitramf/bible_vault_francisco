@@ -13,7 +13,7 @@ bible_book_name: "John"
 ---
 # December 8 - Following Leads To Honor
 
-*"If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honor"* &mdash; John 12:26
+*"If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honor"* — John 12:26
 
 The highest service is imitation. If I would be Christ's servant I must be His follower. To do as Jesus did is the surest way of bringing honor to His name. Let me mind this every day.
 

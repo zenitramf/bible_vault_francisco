@@ -11,7 +11,7 @@ tags: [salvation, grace, faith, holiness]
 ---
 # October 24 - Godly Stability
 
-*"And I will make thee unto this people a fenced brazen wall: and they shall fight against thee, but they shall not prevail against thee; for I am with thee to save thee and to deliver thee, saith the Lord'* &mdash; Jer. 15:20
+*"And I will make thee unto this people a fenced brazen wall: and they shall fight against thee, but they shall not prevail against thee; for I am with thee to save thee and to deliver thee, saith the Lord'* — Jer. 15:20
 
 Stability in the fear and faith of God will make a man like a wall of brass, which no one can batter down or break. Only the Lord can make such; but we need such men in the church, and in the world, but specially in the pulpit.
 

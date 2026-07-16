@@ -10,7 +10,7 @@ tags: [faith, worship, hope]
 ---
 # Sept. 8 - Broken And Smoking
 
-*"A bruised reed shall he not break, and the smoking flax shall he not quench"* &mdash; Isa. 42:3
+*"A bruised reed shall he not break, and the smoking flax shall he not quench"* — Isa. 42:3
 
 Then I may reckon upon tender treatment from my Lord. Indeed, I feel myself to be at best as weak, as pliant, as worthless as a reed. Someone said, "I don't care a rush for you," and the speech, though unkind, was not untrue. Alas! I am worse than a reed when it grows by the river, for that at least can hold up its head. I am bruised, sorely, sadly bruised. There is no music in me now; there is a rift which lets out all the melody. Ah, me! Yet Jesus will not break me; and if he will not, then I mind little what others try to do. O sweet and compassionate Lord, I nestle down beneath thy protection, and forget my bruises!
 

@@ -11,7 +11,7 @@
 * [Sermon 974 | Compassion for Souls](sermon_974.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 975 | The Parable of the Wedding Feast](sermon_975.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 976 | The Wedding Garment](sermon_976.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 977 | The Master's Profession&mdash;The Disciple's Pursuit](sermon_977.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 977 | The Master's Profession—The Disciple's Pursuit](sermon_977.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 978 | All Fulness in Christ](sermon_978.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 979 | Faith and Regeneration](sermon_979.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 980 | Hidden Manna](sermon_980.md) - A sermon by Charles H. Spurgeon.

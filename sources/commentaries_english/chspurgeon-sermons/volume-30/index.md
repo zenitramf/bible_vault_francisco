@@ -22,7 +22,7 @@
 * [Sermon 1774 | God's Work Upon Minister and Convert](sermon_1774.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1775 | \"My Lord and My God!\"](sermon_1775.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1776 | Unbinding Lazarus](sermon_1776.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1777 | Esther's Exaltation&mdash;or, Who Knows?](sermon_1777.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1777 | Esther's Exaltation—or, Who Knows?](sermon_1777.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1778 | 6:10](sermon_1778.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1779 | Grappling Irons](sermon_1779.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1780 | The Sprinkling of the Blood of the Sacrifice](sermon_1780.md) - A sermon by Charles H. Spurgeon.
@@ -55,9 +55,9 @@
 * [Sermon 1807 | A Call to the Lord's Own Flock](sermon_1807.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1808 | The Threshing Floor of Ornan](sermon_1808.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1809 | May I?](sermon_1809.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1810 | The Lion and the Bear&mdash;Trophies Hung Up](sermon_1810.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1810 | The Lion and the Bear—Trophies Hung Up](sermon_1810.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1811 | The Road to Honor](sermon_1811.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1812 | A Wonder Explained By Greater Wonders](sermon_1812.md) - A sermon by Charles H. Spurgeon.
-* [Sermon 1813 | Jonah's Resolve&mdash;or, \"Look Again!\"](sermon_1813.md) - A sermon by Charles H. Spurgeon.
+* [Sermon 1813 | Jonah's Resolve—or, \"Look Again!\"](sermon_1813.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1814 | Commendation for the Steadfast](sermon_1814.md) - A sermon by Charles H. Spurgeon.
 * [Sermon 1815 | The Great Birthday and Our Coming of Age](sermon_1815.md) - A sermon by Charles H. Spurgeon.

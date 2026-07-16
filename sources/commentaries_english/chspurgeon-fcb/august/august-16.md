@@ -10,7 +10,7 @@ tags: [grace, faith, repentance]
 ---
 # August 16 - Uncover And Confess Sin
 
-*"He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy"* &mdash; Prov. 28:13
+*"He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy"* — Prov. 28:13
 
 Here is the way of mercy for a guilty and repenting sinner. He must cease from the habit of covering sin. This is attempted by falsehood, which denies sin; by hypocrisy, which conceals it; by boasting, which justifies it; and by loud profession, which tries to make amends for it.
 

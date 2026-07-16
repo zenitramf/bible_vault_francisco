@@ -10,7 +10,7 @@ tags: [faith, worship, praise, suffering]
 ---
 # July 12 - Whom, When, How To Deliver
 
-*"The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished."* &mdash; II Peter 2:9
+*"The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished."* — II Peter 2:9
 
 The godly are tempted and tried. That is not true faith which is never put to the test. But the godly are delivered out of their trials, and that not by chance, nor by secondary agencies, but by the Lord himself. He personally undertakes the office of delivering those who trust Him. God loves the godly or godlike, and He makes a point of knowing where they are, and how they fare.
 

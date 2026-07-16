@@ -13,7 +13,7 @@ bible_book_name: "Psalms"
 ---
 # October 18 - Tears, Then Joyful Harvest
 
-*"They that sow in tears shall reap in joy"* &mdash; Ps. 126:5
+*"They that sow in tears shall reap in joy"* — Ps. 126:5
 
 Weeping times are suitable for sowing: we do not want the ground to be too dry. Seed steeped in the tears of earnest anxiety will come up all the sooner. The salt of prayerful tears will give the good seed a flavor which will preserve it from the worm: truth spoken in awful earnestness has a double life about it. Instead of stopping our sowing because of our weeping, let us redouble our efforts because the season is so propitious.
 

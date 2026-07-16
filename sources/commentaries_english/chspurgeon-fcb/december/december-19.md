@@ -15,7 +15,7 @@ bible_book_name: "Psalms"
 ---
 # December 19 - Afflictions, But No Broken Bones
 
-*"He keepeth all his bones; not one of them is broken"* &mdash; Ps. 34:20
+*"He keepeth all his bones; not one of them is broken"* — Ps. 34:20
 
 This promise by the context is referred to the much afflicted righteous man: "Many are the afflictions of the righteous, but the Lord delivereth him out of them all." He may suffer skin-wounds and flesh-wounds, but no great harm shall be done, "not a bone of him shall be broken."
 

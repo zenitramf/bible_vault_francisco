@@ -10,7 +10,7 @@ tags: [faith]
 ---
 # March 2 - Giving Without A Whisper
 
-*"But when thou doest alms, let not thy left hand know what thy right hand doeth: that thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly"* &mdash; Matt. 6:3
+*"But when thou doest alms, let not thy left hand know what thy right hand doeth: that thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly"* — Matt. 6:3
 
 No promise is made to those who give to the poor to be seen of men. They have their reward at once, and cannot expect to be paid twice.
 

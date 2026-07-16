@@ -10,7 +10,7 @@ tags: [faith, suffering, hope, lament]
 ---
 # January 28 - Tears Shall Cease
 
-*"And God shall wipe away all tears from their eyes."* &mdash; Rev. 21:4
+*"And God shall wipe away all tears from their eyes."* — Rev. 21:4
 
 Yes, we shall come to this if we are believers. Sorrow shall cease, and tears shall be wiped away. This is the world of weeping, but it passes away. There shall be a new Heaven, and a new earth, so says the first verse of this chapter; and therefore there will be nothing to weep over concerning the fall and its consequent miseries. Read the second verse, and note how it speaks of the bride and her marriage. The Lamb's wedding is a time for boundless pleasure, and tears would be out of place. The third verse says that God Himself will dwell among men; and surely at His right hand there are pleasures for evermore, and tears can no longer flow.
 

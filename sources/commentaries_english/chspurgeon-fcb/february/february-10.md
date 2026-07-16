@@ -13,7 +13,7 @@ bible_book_name: "Acts"
 ---
 # February 10 - A Constant Witness
 
-*"For thou shalt be his witness unto all men of what thou hast seen and heard"* &mdash; Acts 22:15
+*"For thou shalt be his witness unto all men of what thou hast seen and heard"* — Acts 22:15
 
 Paul was chosen to see and hear the Lord speaking to him out of Heaven. This divine election was a high privilege for himself; but it was not intended to end with him, it was meant to have an influence upon others; yea, upon all men. It is to Paul that Europe owes the gospel at this hour.
 

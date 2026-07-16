@@ -10,7 +10,7 @@ tags: [faith]
 ---
 # April 5 - Not Forgotten
 
-*"Thou art my servant: O Israel, thou shalt not be for gotten of me"* &mdash; Isa. 44:21
+*"Thou art my servant: O Israel, thou shalt not be for gotten of me"* — Isa. 44:21
 
 Our Jehovah cannot so forget His servants as to cease to love them. He chose them not for a time, but for ever. He knew what they would be when He called them into the divine family. He blots out their sins like a cloud; and we may be sure that He will not turn them out of doors for iniquities which He has blotted out. It would be blasphemy to imagine such a thing.
 

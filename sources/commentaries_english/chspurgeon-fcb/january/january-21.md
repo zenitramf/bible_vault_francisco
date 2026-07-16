@@ -10,7 +10,7 @@ tags: [holy-spirit, salvation, faith, holiness]
 ---
 # January 21 - God's Enemies Shall Bow
 
-*"The Egyptians shall know that I am the Lord."* &mdash; Exod. 7:5
+*"The Egyptians shall know that I am the Lord."* — Exod. 7:5
 
 The ungodly world is hard to teach. Egypt does not know Jehovah, and therefore dares to set up its idols, and even ventures to ask -- "Who is the Lord?" Yet the Lord means to break proud hearts, whether they will or not. When His judgments thunder over their heads, darken their skies, destroy their harvests, and slay their sons, they begin to discern somewhat of Jehovah's power. There will yet be such things done in the earth as shall bring skeptics to their knees. Let us not be dismayed because of their blasphemies, for the Lord can take care of His own name, and He will do so in a very effectual manner.
 
