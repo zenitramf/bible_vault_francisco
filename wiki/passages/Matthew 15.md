@@ -5,7 +5,7 @@ description: Heart defilement vs tradition, Gentile faith, and another feeding o
 tags: [discipleship, holiness, faith, christ]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 40
 bible_book_name: "Matthew"
 ---
@@ -21,8 +21,11 @@ Heart defilement vs tradition, Gentile faith, and another feeding of multitudes 
 - Tradition that voids God’s commandment is condemned; defilement comes from the heart, not unwashed hands. [[sources/commentaries_english/mhenry-concise/matthew/chapter-15#Verses 1–9|Matthew Henry Concise on Matthew 15]]
 - A Canaanite woman prevails by humble, persevering faith; crumbs from the Master’s table save. [[sources/commentaries_english/mhenry-concise/matthew/chapter-15#Verses 21–28|Matthew Henry Concise on Matthew 15]]
 - Christ again feeds multitudes; his compassion and power meet bodily need. [[sources/commentaries_english/mhenry-concise/matthew/chapter-15#Verses 29–39|Matthew Henry Concise on Matthew 15]]
+- In this chapter, we have our Lord Jesus, as the great Prophet teaching, as the great Physician healing, and as the great Shepherd of the sheep feeding; as the Father of spirits instructing them; as the Conqueror of… [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-15|Matthew Henry Complete on Matthew 15]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening should add Matthew Henry Complete on the same chapter and Spurgeon where he treats the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening
 Primary scope: Matthew 15 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/concepts/Holiness|Holiness]]
@@ -42,6 +47,7 @@ Primary scope: Matthew 15 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-15|Matthew Henry Concise, Matthew 15]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-15|Matthew Henry Complete on Matthew 15]]
 
 ## Open questions
 

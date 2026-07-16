@@ -5,7 +5,7 @@ description: Christ despised in his own country. (1–6). The apostles sent fort
 tags: [christ, discipleship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 41
 bible_book_name: "Mark"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Mark 6: Christ despised in his own country. (1–6). Th
 - Herod feared John while he lived, and feared him still more when he was dead. Herod did many of those things which John in his preaching taught him; but it is not enough to do many things, we must have respect to all the commandments. [[sources/commentaries_english/mhenry-concise/mark/chapter-6#Verses 14–29|Matthew Henry Concise on Mark 6]]
 - Let not ministers do any thing or teach any thing, but what they are willing should be told to their Lord. Christ notices the frights of some, and the toils of others of his disciples, and provides rest for those that are tired, and refuge for those that are terrified. [[sources/commentaries_english/mhenry-concise/mark/chapter-6#Verses 30–44|Matthew Henry Concise on Mark 6]]
 - The church is often like a ship at sea, tossed with tempests, and not comforted: we may have Christ for us, yet wind and tide against us; but it is a comfort to Christ's disciples in a storm, that their Master is in the heavenly mount, interceding for them. And no difficulties can hinder Christ's appearance for his … [[sources/commentaries_english/mhenry-concise/mark/chapter-6#Verses 45–56|Matthew Henry Concise on Mark 6]]
+- A great variety of observable passages we have, in this chapter, concerning our Lord Jesus, the substance of all which we had before in Matthew, but divers circumstances we have, which we did not there meet with. Here… [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-6|Matthew Henry Complete on Mark 6]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Mark 6 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -43,6 +48,7 @@ Primary scope: Mark 6 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/mark/chapter-6|Matthew Henry Concise, Mark 6]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-6|Matthew Henry Complete on Mark 6]]
 
 ## Open questions
 

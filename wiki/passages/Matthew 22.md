@@ -5,7 +5,7 @@ description: Marriage feast, civil and divine dues, resurrection hope, the doubl
 tags: [christ, faith, discipleship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 40
 bible_book_name: "Matthew"
 ---
@@ -22,8 +22,11 @@ Marriage feast, civil and divine dues, resurrection hope, the double love comman
 - Render to Caesar what is Caesar’s and to God what is God’s. [[sources/commentaries_english/mhenry-concise/matthew/chapter-22#Verses 15–22|Matthew Henry Concise on Matthew 22]]
 - God is God of the living; resurrection truth confounds the Sadducees. [[sources/commentaries_english/mhenry-concise/matthew/chapter-22#Verses 23–33|Matthew Henry Concise on Matthew 22]]
 - Love God and love neighbor summarize the law; Messiah is David’s Lord as well as son. [[sources/commentaries_english/mhenry-concise/matthew/chapter-22#Verses 34–40|Matthew Henry Concise on Matthew 22]]
+- This chapter is a continuation of Christ's discourses in the temple, two or three days before he died. His discourses then are largely recorded, as being of special weight and consequence. In this chapter, we have, I.… [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-22|Matthew Henry Complete on Matthew 22]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening should add Matthew Henry Complete on the same chapter and Spurgeon where he treats the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening
 Primary scope: Matthew 22 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Matthew 22 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-22|Matthew Henry Concise, Matthew 22]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-22|Matthew Henry Complete on Matthew 22]]
 
 ## Open questions
 

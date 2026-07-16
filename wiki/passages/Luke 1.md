@@ -5,7 +5,7 @@ description: The Preface. (1–4). Zacharias and Elisabeth. (5–25). Christ's b
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Luke 1: The Preface. (1–4). Zacharias and Elisabeth. 
 - We have here an account of the mother of our Lord; though we are not to pray to her, yet we ought to praise God for her. Christ must be born miraculously. [[sources/commentaries_english/mhenry-concise/luke/chapter-1#Verses 26–38|Matthew Henry Concise on Luke 1]]
 - It is very good for those who have the work of grace begun in their souls, to communicate one to another. On Mary's arrival, Elisabeth was conscious of the approach of her who was to be the mother of the great Redeemer. [[sources/commentaries_english/mhenry-concise/luke/chapter-1#Verses 39–56|Matthew Henry Concise on Luke 1]]
 - Zacharias uttered a prophecy concerning the kingdom and salvation of the Messiah. The gospel brings light with it; in it the day dawns. [[sources/commentaries_english/mhenry-concise/luke/chapter-1#Verses 67–80|Matthew Henry Concise on Luke 1]]
+- The narrative which this evangelist gives us (or rather God by him) of the life of Christ begins earlier than either Matthew or Mark. We have reason to thank God for them all, as we have for all the gifts and graces of… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-1|Matthew Henry Complete on Luke 1]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 1 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -44,6 +49,7 @@ Primary scope: Luke 1 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-1|Matthew Henry Concise, Luke 1]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-1|Matthew Henry Complete on Luke 1]]
 
 ## Open questions
 

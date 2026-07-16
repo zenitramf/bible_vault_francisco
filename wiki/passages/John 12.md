@@ -5,7 +5,7 @@ description: Christ anointed by Mary. (1–11). He enters Jerusalem. (12–19). 
 tags: [christ, faith, salvation, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 43
 bible_book_name: "John"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on John 12: Christ anointed by Mary. (1–11). He enters J
 - In attendance upon holy ordinances, particularly the gospel passover, the great desire of our souls should be to see Jesus; to see him as ours, to keep up communion with him, and derive grace from him. The calling of the Gentiles magnified the Redeemer. [[sources/commentaries_english/mhenry-concise/john/chapter-12#Verses 20–26|Matthew Henry Concise on John 12]]
 - The sin of our souls was the troubled of Christ's soul, when he undertook to redeem and save us, and to make his soul an offering for our sin. Christ was willing to suffer, yet prayed to be saved from suffering. [[sources/commentaries_english/mhenry-concise/john/chapter-12#Verses 27–33|Matthew Henry Concise on John 12]]
 - Our Lord publicly proclaimed, that every one who believed on him, as his true disciple, did not believe on him only, but on the Father who sent him. Beholding in Jesus the glory of the Father, we learn to obey, love, and trust in him. [[sources/commentaries_english/mhenry-concise/john/chapter-12#Verses 44–50|Matthew Henry Concise on John 12]]
+- It was a melancholy account which we had in the close of the foregoing chapter of the dishonour done to our Lord Jesus, when the scribes and Pharisees proclaimed him a traitor to their church, and put upon him all the… [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-12|Matthew Henry Complete on John 12]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: John 12 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -45,6 +50,7 @@ Primary scope: John 12 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/john/chapter-12|Matthew Henry Concise, John 12]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-12|Matthew Henry Complete on John 12]]
 
 ## Open questions
 

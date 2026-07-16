@@ -5,7 +5,7 @@ description: The miracle at Cana. (1–11). Christ casts the buyers and sellers 
 tags: [christ, faith, salvation, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 43
 bible_book_name: "John"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on John 2: The miracle at Cana. (1–11). Christ casts the
 - It is very desirable when there is a marriage, to have Christ own and bless it. Those that would have Christ with them at their marriage, must invite him by prayer, and he will come. [[sources/commentaries_english/mhenry-concise/john/chapter-2#Verses 1–11|Matthew Henry Concise on John 2]]
 - The first public work in which we find Christ engaged, was driving from the temple the traders whom the covetous priests and rulers encouraged to make a market-place of its courts. Those now make God's house a house of merchandise, whose minds are filled with cares about worldly business when attending religious exe… [[sources/commentaries_english/mhenry-concise/john/chapter-2#Verses 12–22|Matthew Henry Concise on John 2]]
 - Our Lord knew all men, their nature, dispositions, affections, designs, so as we do not know any man, not even ourselves. He knows his crafty enemies, and all their secret projects; his false friends, and their true characters. [[sources/commentaries_english/mhenry-concise/john/chapter-2#Verses 23–25|Matthew Henry Concise on John 2]]
+- In the close of the foregoing chapter we had an account of the first disciples whom Jesus called, Andrew and Peter, Philip and Nathanael. These were the first-fruits to God and to the Lamb, Re 14:4. Now, in this… [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-2|Matthew Henry Complete on John 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: John 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: John 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/john/chapter-2|Matthew Henry Concise, John 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-2|Matthew Henry Complete on John 2]]
 
 ## Open questions
 

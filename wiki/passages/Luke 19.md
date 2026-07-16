@@ -5,7 +5,7 @@ description: The conversion of Zaccheus. (1–10). The parable of the nobleman a
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Luke 19: The conversion of Zaccheus. (1–10). The para
 - This parable is like that of the talents, Mt 25. Those that are called to Christ, he furnishes with gifts needful for their business; and from those to whom he gives power, he expects service. [[sources/commentaries_english/mhenry-concise/luke/chapter-19#Verses 11–27|Matthew Henry Concise on Luke 19]]
 - Christ has dominion over all creatures, and may use them as he pleases. He has all men's hearts both under his eye and in his hand. [[sources/commentaries_english/mhenry-concise/luke/chapter-19#Verses 28–40|Matthew Henry Concise on Luke 19]]
 - Who can behold the holy Jesus, looking forward to the miseries that awaited his murderers, weeping over the city where his precious blood was about to be shed, without seeing that the likeness of God in the believer, consists much in good-will and compassion? Surely those cannot be right who take up any doctrines of… [[sources/commentaries_english/mhenry-concise/luke/chapter-19#Verses 41–48|Matthew Henry Concise on Luke 19]]
+- In this chapter we have, I. The conversion of Zaccheus the publican at Jericho, Lu 19:1-10. II. The parable of the pounds which the king entrusted with his servants, and of his rebellious citizens, Lu 19:11-27. III.… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-19|Matthew Henry Complete on Luke 19]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 19 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -44,6 +49,7 @@ Primary scope: Luke 19 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-19|Matthew Henry Concise, Luke 19]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-19|Matthew Henry Complete on Luke 19]]
 
 ## Open questions
 

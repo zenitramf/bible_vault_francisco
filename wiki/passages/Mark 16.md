@@ -5,7 +5,7 @@ description: Christ's resurrection made known the women. (1–8). Christ appears
 tags: [christ, discipleship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 41
 bible_book_name: "Mark"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Mark 16: Christ's resurrection made known the women. (1
 - Better news cannot be brought to disciples in tears, than to tell them of Christ's resurrection. And we should study to comfort disciples that are mourners, by telling them whatever we have seen of Christ. [[sources/commentaries_english/mhenry-concise/mark/chapter-16#Verses 9–13|Matthew Henry Concise on Mark 16]]
 - The evidences of the truth of the gospel are so full, that those who receive it not, may justly be upbraided with their unbelief. Our blessed Lord renewed his choice of the eleven as his apostles, and commissioned them to go into all the world, to preach his gospel to every creature. [[sources/commentaries_english/mhenry-concise/mark/chapter-16#Verses 14–18|Matthew Henry Concise on Mark 16]]
 - After the Lord had spoken he went up into heaven. Sitting is a posture of rest, he had finished his work; and a posture of rule, he took possession of his kingdom. [[sources/commentaries_english/mhenry-concise/mark/chapter-16#Verses 19, 20|Matthew Henry Concise on Mark 16]]
+- In this chapter, we have a short account of the resurrection and ascension of the Lord Jesus: and the joys and triumphs which it furnished all believers with, will be very acceptable to those who sympathised and… [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-16|Matthew Henry Complete on Mark 16]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ Primary scope: Mark 16 (full chapter).
 
 ## Related pages
 
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
+
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/passages/Mark 15|Mark 15]]
@@ -41,6 +46,7 @@ Primary scope: Mark 16 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/mark/chapter-16|Matthew Henry Concise, Mark 16]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-16|Matthew Henry Complete on Mark 16]]
 
 ## Open questions
 

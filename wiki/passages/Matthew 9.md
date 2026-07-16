@@ -5,7 +5,7 @@ description: Forgiveness, calling of sinners, new covenant patterns, raising the
 tags: [christ, faith, salvation, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 40
 bible_book_name: "Matthew"
 ---
@@ -23,8 +23,11 @@ Forgiveness, calling of sinners, new covenant patterns, raising the dead, and th
 - New wine needs new bottles; gospel times bring new forms suited to grace. [[sources/commentaries_english/mhenry-concise/matthew/chapter-9#Verses 14–17|Matthew Henry Concise on Matthew 9]]
 - Faith touches the hem of his garment; even death yields when he takes the hand. [[sources/commentaries_english/mhenry-concise/matthew/chapter-9#Verses 18–26|Matthew Henry Concise on Matthew 9]]
 - The harvest is plentiful but laborers few; pray the Lord of the harvest to send workers. [[sources/commentaries_english/mhenry-concise/matthew/chapter-9#Verses 35–38|Matthew Henry Concise on Matthew 9]]
+- We have in this chapter remarkable instances of the power and pity of the Lord Jesus, sufficient to convince us that he is both able to save to the uttermost all that come to God by him, and as willing as he is able.… [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-9|Matthew Henry Complete on Matthew 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening should add Matthew Henry Complete on the same chapter and Spurgeon where he treats the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening
 Primary scope: Matthew 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: Matthew 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-9|Matthew Henry Concise, Matthew 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-9|Matthew Henry Complete on Matthew 9]]
 
 ## Open questions
 

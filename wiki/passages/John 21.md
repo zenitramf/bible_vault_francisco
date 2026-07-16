@@ -5,7 +5,7 @@ description: Christ appears to his disciples. (1–14). His discourse with Peter
 tags: [christ, faith, salvation, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 43
 bible_book_name: "John"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on John 21: Christ appears to his disciples. (1–14). His
 - Christ makes himself known to his people, usually in his ordinances; but sometimes by his Spirit he visits them when employed in their business. It is good for the disciples of Christ to be together in common conversation, and common business. [[sources/commentaries_english/mhenry-concise/john/chapter-21#Verses 1–14|Matthew Henry Concise on John 21]]
 - Our Lord addressed Peter by his original name, as if he had forfeited that of Peter through his denying him. He now answered, Thou knowest that I love thee; but without professing to love Jesus more than others. [[sources/commentaries_english/mhenry-concise/john/chapter-21#Verses 15–19|Matthew Henry Concise on John 21]]
 - Sufferings, pains, and death, will appear formidable even to the experienced Christian; but in the hope to glorify God, to leave a sinful world, and to be present with his Lord, he becomes ready to obey the Redeemer's call, and to follow Him through death to glory. It is the will of Christ that his disciples should … [[sources/commentaries_english/mhenry-concise/john/chapter-21#Verses 20–24|Matthew Henry Concise on John 21]]
+- The evangelist seemed to have concluded his history with the foregoing chapter; but (as St. Paul sometimes in his epistles), new matter occurring, he begins again. He had said that there were many other signs which… [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-21|Matthew Henry Complete on John 21]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: John 21 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -42,6 +47,7 @@ Primary scope: John 21 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/john/chapter-21|Matthew Henry Concise, John 21]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-21|Matthew Henry Complete on John 21]]
 
 ## Open questions
 

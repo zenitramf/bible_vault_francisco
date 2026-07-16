@@ -5,7 +5,7 @@ description: The resurrection of Christ. (1–12). He appears to two disciples o
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Luke 24: The resurrection of Christ. (1–12). He appea
 - If we would have Christ dwell with us, we must be earnest with him. Those that have experienced the pleasure and profit of communion with him, cannot but desire more of his company. [[sources/commentaries_english/mhenry-concise/luke/chapter-24#Verses 28–35|Matthew Henry Concise on Luke 24]]
 - Jesus appeared in a miraculous manner, assuring the disciples of his peace, though they had so lately forsaken him, and promising spiritual peace with every blessing. Many troublesome thoughts which disquiet our minds, rise from mistakes concerning Christ. [[sources/commentaries_english/mhenry-concise/luke/chapter-24#Verses 36–49|Matthew Henry Concise on Luke 24]]
 - Christ ascended from Bethany, near the Mount of Olives. There was the garden in which his sufferings began; there he was in his agony. [[sources/commentaries_english/mhenry-concise/luke/chapter-24#Verses 50–53|Matthew Henry Concise on Luke 24]]
+- Our Lord Jesus went gloriously down to death, in spite of the malice of his enemies, who did all they could to make his death ignominious; but he rose again more gloriously, of which we have an account in this chapter;… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-24|Matthew Henry Complete on Luke 24]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 24 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -44,6 +49,7 @@ Primary scope: Luke 24 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-24|Matthew Henry Concise, Luke 24]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-24|Matthew Henry Complete on Luke 24]]
 
 ## Open questions
 

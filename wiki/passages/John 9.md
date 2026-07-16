@@ -5,7 +5,7 @@ description: Christ give sight to one born blind. (1–7). The account given by 
 tags: [christ, faith, salvation, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 43
 bible_book_name: "John"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on John 9: Christ give sight to one born blind. (1–7). T
 - Christ not only worked miracles on the sabbath, but in such a manner as would give offence to the Jews, for he would not seem to yield to the scribes and Pharisees. Their zeal for mere rites consumed the substantial matters of religion; therefore Christ would not give place to them. [[sources/commentaries_english/mhenry-concise/john/chapter-9#Verses 13–17|Matthew Henry Concise on John 9]]
 - The Pharisees vainly hoped to disprove this notable miracle. They expected a Messiah, but could not bear to think that this Jesus should be he, because his precepts were all contrary to their traditions, and because they expected a Messiah in outward pomp and splendour. [[sources/commentaries_english/mhenry-concise/john/chapter-9#Verses 18–23|Matthew Henry Concise on John 9]]
 - Christ came into the world to give sight to those who were spiritually blind. Also, that those who see might be made blind; that those who have a high conceit of their own wisdom, might be sealed up in ignorance. [[sources/commentaries_english/mhenry-concise/john/chapter-9#Verses 39–41|Matthew Henry Concise on John 9]]
+- After Christ's departure out of the temple, in the close of the foregoing chapter, and before this happened which is recorded in this chapter, he had been for some time abroad in the country, it is supposed about two… [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-9|Matthew Henry Complete on John 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: John 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -45,6 +50,7 @@ Primary scope: John 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/john/chapter-9|Matthew Henry Concise, John 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-9|Matthew Henry Complete on John 9]]
 
 ## Open questions
 

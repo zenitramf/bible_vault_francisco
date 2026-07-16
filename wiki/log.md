@@ -139,3 +139,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.1 Complete Volume 4
 
 - Full-file coverage for mhenry-complete/volume-4 (251 files). Passage atlas thickened where mapped. source-coverage --require-zero OK.
+
+## [2026-07-16] campaign | Phase 4.1 Complete Volume 5
+
+- Full-file coverage for mhenry-complete/volume-5 (90 files). Passage atlas thickened where mapped. source-coverage --require-zero OK.

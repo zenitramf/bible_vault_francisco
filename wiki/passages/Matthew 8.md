@@ -5,7 +5,7 @@ description: Authority over disease, demons, and nature displays Messiah’s pow
 tags: [christ, faith, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 40
 bible_book_name: "Matthew"
 ---
@@ -22,8 +22,11 @@ Authority over disease, demons, and nature displays Messiah’s power; disciples
 - Discipleship costs more than impulsive vows; following Christ may mean homelessness and delayed natural duties. [[sources/commentaries_english/mhenry-concise/matthew/chapter-8#Verses 18–22|Matthew Henry Concise on Matthew 8]]
 - Faith may cry out in a storm; Christ rebukes winds and sea, and men marvel at his authority. [[sources/commentaries_english/mhenry-concise/matthew/chapter-8#Verses 23–27|Matthew Henry Concise on Matthew 8]]
 - Demons know him and fear him; the liberated man is a witness, while a city may prefer swine to a Savior. [[sources/commentaries_english/mhenry-concise/matthew/chapter-8#Verses 28–34|Matthew Henry Concise on Matthew 8]]
+- The evangelist having, in the foregoing chapters, given us a specimen of our Lord's preaching, proceeds now to give some instances of the miracles he wrought, which prove him a Teacher come from God, and the great… [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-8|Matthew Henry Complete on Matthew 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening should add Matthew Henry Complete on the same chapter and Spurgeon where he treats the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening
 Primary scope: Matthew 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Matthew 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-8|Matthew Henry Concise, Matthew 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-8|Matthew Henry Complete on Matthew 8]]
 
 ## Open questions
 

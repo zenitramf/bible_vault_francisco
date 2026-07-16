@@ -5,7 +5,7 @@ description: Christ heals a man on the sabbath. (1–6). He teaches humility. (7
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Luke 14: Christ heals a man on the sabbath. (1–6). He
 - Even in the common actions of life, Christ marks what we do, not only in our religious assemblies, but at our tables. We see in many cases, that a man's pride will bring him low, and before honour is humility. [[sources/commentaries_english/mhenry-concise/luke/chapter-14#Verses 7–14|Matthew Henry Concise on Luke 14]]
 - In this parable observe the free grace and mercy of God shining in the gospel of Christ, which will be food and a feast for the soul of a man that knows its own wants and miseries. All found some pretence to put off their attendance. [[sources/commentaries_english/mhenry-concise/luke/chapter-14#Verses 15–24|Matthew Henry Concise on Luke 14]]
 - Though the disciples of Christ are not all crucified, yet they all bear their cross, and must bear it in the way of duty. Jesus bids them count upon it, and then consider of it. [[sources/commentaries_english/mhenry-concise/luke/chapter-14#Verses 25–35|Matthew Henry Concise on Luke 14]]
+- In this chapter we have, I. The cure which our Lord Jesus wrought upon a man that had the dropsy, on the sabbath day, and his justifying himself therein against those who were offended at his doing it on that day, Lu… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-14|Matthew Henry Complete on Luke 14]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 14 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -44,6 +49,7 @@ Primary scope: Luke 14 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-14|Matthew Henry Concise, Luke 14]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-14|Matthew Henry Complete on Luke 14]]
 
 ## Open questions
 

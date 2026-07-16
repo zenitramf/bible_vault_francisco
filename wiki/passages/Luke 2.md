@@ -5,7 +5,7 @@ description: The birth of Christ. (1–7). It is made known to the shepherds. (8
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Luke 2: The birth of Christ. (1–7). It is made known 
 - Our Lord Jesus was not born in sin, and did not need that mortification of a corrupt nature, or that renewal unto holiness, which were signified by circumcision. This ordinance was, in his case, a pledge of his future perfect obedience to the whole law, in the midst of sufferings and temptations, even unto death for… [[sources/commentaries_english/mhenry-concise/luke/chapter-2#Verses 21–24|Matthew Henry Concise on Luke 2]]
 - The same Spirit that provided for the support of Simeon's hope, provided for his joy. Those who would see Christ must go to his temple. [[sources/commentaries_english/mhenry-concise/luke/chapter-2#Verses 25–35|Matthew Henry Concise on Luke 2]]
 - It is for the honour of Christ that children should attend on public worship. His parents did not return till they had stayed all the seven days of the feast. [[sources/commentaries_english/mhenry-concise/luke/chapter-2#Verses 41–52|Matthew Henry Concise on Luke 2]]
+- In this chapter, we have an account of the birth and infancy of our Lord Jesus: having had notice of his conception, and of the birth and infancy of his forerunner, in the former chapter. The First-begotten is here… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-2|Matthew Henry Complete on Luke 2]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 2 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -45,6 +50,7 @@ Primary scope: Luke 2 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-2|Matthew Henry Concise, Luke 2]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-2|Matthew Henry Complete on Luke 2]]
 
 ## Open questions
 

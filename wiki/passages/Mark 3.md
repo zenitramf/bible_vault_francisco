@@ -5,7 +5,7 @@ description: The withered hand healed. (1–5). The people resort to Christ. (6�
 tags: [christ, discipleship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 41
 bible_book_name: "Mark"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Mark 3: The withered hand healed. (1–5). The people r
 - Christ calls whom he will; for his grace is his own. He had called the apostles to separate themselves from the crowd, and they came unto him. [[sources/commentaries_english/mhenry-concise/mark/chapter-3#Verses 13–21|Matthew Henry Concise on Mark 3]]
 - It was plain that the doctrine of Christ had a direct tendency to break the devil's power; and it was as plain, that casting of him out of the bodies of people, confirmed that doctrine; therefore Satan could not support such a design. Christ gave an awful warning against speaking such dangerous words. [[sources/commentaries_english/mhenry-concise/mark/chapter-3#Verses 22–30|Matthew Henry Concise on Mark 3]]
 - It is a great comfort to all true Christians, that they are dearer to Christ than mother, brother, or sister as such, merely as relations in the flesh would have been, even had they been holy. Blessed be God, this great and gracious privilege is ours even now; for though Christ's bodily presence cannot be enjoyed by… [[sources/commentaries_english/mhenry-concise/mark/chapter-3#Verses 31–35|Matthew Henry Concise on Mark 3]]
+- In this chapter, we have, I. Christ's healing a man that had a withered hand, on the sabbath day, and the combination of his enemies against him for it, Mk 3:1-6. II. The universal resort of people to him from all… [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-3|Matthew Henry Complete on Mark 3]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Mark 3 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -43,6 +48,7 @@ Primary scope: Mark 3 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/mark/chapter-3|Matthew Henry Concise, Mark 3]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-3|Matthew Henry Complete on Mark 3]]
 
 ## Open questions
 

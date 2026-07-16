@@ -5,7 +5,7 @@ description: The apostles sent forth. (1–9). The multitude miraculously fed. (
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Luke 9: The apostles sent forth. (1–9). The multitude
 - It is an unspeakable comfort that our Lord Jesus is God's Anointed; this signifies that he was both appointed to be the Messiah, and qualified for it. Jesus discourses concerning his own sufferings and death. [[sources/commentaries_english/mhenry-concise/luke/chapter-9#Verses 18–27|Matthew Henry Concise on Luke 9]]
 - Christ's transfiguration was a specimen of that glory in which he will come to judge the world; and was an encouragement to his disciples to suffer for him. Prayer is a transfiguring, transforming duty, which makes the face to shine. [[sources/commentaries_english/mhenry-concise/luke/chapter-9#Verses 28–36|Matthew Henry Concise on Luke 9]]
 - Here is one that is forward to follow Christ, but seems to have been hasty and rash, and not to have counted the cost. If we mean to follow Christ, we must lay aside the thoughts of great things in the world. [[sources/commentaries_english/mhenry-concise/luke/chapter-9#Verses 57–62|Matthew Henry Concise on Luke 9]]
+- In this chapter we have, I. The commission Christ gave to his twelve apostles to go out for some time to preach the gospel, and confirm it by miracles, Lu 9:1-6. II. Herod's terror at the growing greatness of our Lord… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-9|Matthew Henry Complete on Luke 9]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 9 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -45,6 +50,7 @@ Primary scope: Luke 9 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-9|Matthew Henry Concise, Luke 9]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-9|Matthew Henry Complete on Luke 9]]
 
 ## Open questions
 

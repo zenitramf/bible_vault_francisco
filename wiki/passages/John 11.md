@@ -5,7 +5,7 @@ description: The sickness of Lazarus. (1–6). Christ returns to Judea. (7–10)
 tags: [christ, faith, salvation, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 43
 bible_book_name: "John"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on John 11: The sickness of Lazarus. (1–6). Christ retur
 - Since we are sure to rise again at the last, why should not the believing hope of that resurrection to eternal life, make it as easy for us to put off the body and die, as it is to put off our clothes and go to sleep? A true Christian, when he dies, does but sleep; he rests from the labours of the past day. [[sources/commentaries_english/mhenry-concise/john/chapter-11#Verses 11–16|Matthew Henry Concise on John 11]]
 - Here was a house where the fear of God was, and on which his blessing rested; yet it was made a house of mourning. Grace will keep sorrow from the heart, but not from the house. [[sources/commentaries_english/mhenry-concise/john/chapter-11#Verses 17–32|Matthew Henry Concise on John 11]]
 - Before our gospel passover we must renew our repentance. Thus by a voluntary purification, and by religious exercises, many, more devout than their neighbours, spent some time before the passover at Jerusalem. [[sources/commentaries_english/mhenry-concise/john/chapter-11#Verses 54–57|Matthew Henry Concise on John 11]]
+- In this chapter we have the history of that illustrious miracle which Christ wrought a little before his death—the raising of Lazarus to life, which is recorded only by this evangelist; for the other three confine… [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-11|Matthew Henry Complete on John 11]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: John 11 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -45,6 +50,7 @@ Primary scope: John 11 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/john/chapter-11|Matthew Henry Concise, John 11]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-11|Matthew Henry Complete on John 11]]
 
 ## Open questions
 

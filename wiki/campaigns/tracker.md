@@ -221,7 +221,7 @@ Thicken the existing concise passage atlas with Complete on every matching chapt
 | Volume 2 (Josh–Esth) | reviewed | 250 | Complete vol source-note + passage thickens; 0 uncovered |
 | Volume 3 (Job–Song) | reviewed | 244 | Complete vol source-note + passage thickens; 0 uncovered |
 | Volume 4 (Isa–Mal) | reviewed | 251 | Complete vol source-note + passage thickens; 0 uncovered |
-| Volume 5 (Gospels) | pending | ~90 | Mt–Jn Complete |
+| Volume 5 (Gospels) | reviewed | 90 | Complete vol source-note + passage thickens; 0 uncovered |
 | Volume 6 (Acts–Rev) | pending | ~172 | Acts–Revelation Complete |
 | **4.1 Complete 100%** | **pending** | **~1,189** | Gate: 0 uncovered under `mhenry-complete/` |
 

@@ -5,7 +5,7 @@ description: The temptation of Christ. (1–13). Christ in the synagogue of Naza
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Luke 4: The temptation of Christ. (1–13). Christ in t
 - Christ's being led into the wilderness gave an advantage to the tempter; for there he was alone, none were with him by whose prayers and advice he might be helped in the hour of temptation. He who knew his own strength might give Satan advantage; but we may not, who know our own weakness. [[sources/commentaries_english/mhenry-concise/luke/chapter-4#Verses 1–13|Matthew Henry Concise on Luke 4]]
 - Christ taught in their synagogues, their places of public worship, where they met to read, expound, and apply the word, to pray and praise. All the gifts and graces of the Spirit were upon him and on him, without measure. [[sources/commentaries_english/mhenry-concise/luke/chapter-4#Verses 14–30|Matthew Henry Concise on Luke 4]]
 - Christ's preaching much affected the people; and a working power went with it to the consciences of men. These miracles showed Christ to be a controller and conqueror of Satan, a healer of diseases. [[sources/commentaries_english/mhenry-concise/luke/chapter-4#Verses 31–44|Matthew Henry Concise on Luke 4]]
+- We left Christ newly baptized, and owned by a voice from heaven and the descent of the Holy Ghost upon him. Now, in this chapter, we have, I. A further preparation of him for his public ministry by his being tempted in… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-4|Matthew Henry Complete on Luke 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -43,6 +48,7 @@ Primary scope: Luke 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-4|Matthew Henry Concise, Luke 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-4|Matthew Henry Complete on Luke 4]]
 
 ## Open questions
 

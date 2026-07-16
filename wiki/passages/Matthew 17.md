@@ -5,7 +5,7 @@ description: Transfiguration glory, faith for the demonized boy, passion predict
 tags: [christ, faith, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 40
 bible_book_name: "Matthew"
 ---
@@ -22,8 +22,11 @@ Transfiguration glory, faith for the demonized boy, passion prediction, and temp
 - Unbelief hinders casting out; prayer and fasting mark dependence; nothing is impossible to faith. [[sources/commentaries_english/mhenry-concise/matthew/chapter-17#Verses 14–21|Matthew Henry Concise on Matthew 17]]
 - Christ again foretells betrayal and rising; disciples are distressed. [[sources/commentaries_english/mhenry-concise/matthew/chapter-17#Verses 22, 23|Matthew Henry Concise on Matthew 17]]
 - The temple tax episode shows the Son’s freedom and willingness not to offend needlessly. [[sources/commentaries_english/mhenry-concise/matthew/chapter-17#Verses 24–27|Matthew Henry Concise on Matthew 17]]
+- In this chapter we have, I. Christ in his pomp and glory transfigured, Mt 17:1-3. II. Christ in his power and grace, casting the devil out of a child, Mt 17:14-21. And, III. Christ in his poverty and great humiliation,… [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-17|Matthew Henry Complete on Matthew 17]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening should add Matthew Henry Complete on the same chapter and Spurgeon where he treats the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening
 Primary scope: Matthew 17 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Matthew 17 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-17|Matthew Henry Concise, Matthew 17]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-17|Matthew Henry Complete on Matthew 17]]
 
 ## Open questions
 

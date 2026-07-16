@@ -5,7 +5,7 @@ description: The priests and scribes question Christ's authority. (1–8). The p
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Luke 20: The priests and scribes question Christ's auth
 - Those who are most crafty in their designs against Christ and his gospel, cannot hide them. He did not give a direct answer, but reproved them for offering to impose upon him; and they could not fasten upon any thing wherewith to stir up either the governor or the people against him. [[sources/commentaries_english/mhenry-concise/luke/chapter-20#Verses 20–26|Matthew Henry Concise on Luke 20]]
 - It is common for those who design to undermine any truth of God, to load it with difficulties. But we wrong ourselves, and wrong the truth of Christ, when we form our notions of the world of spirits by this world of sense. [[sources/commentaries_english/mhenry-concise/luke/chapter-20#Verses 27–38|Matthew Henry Concise on Luke 20]]
 - The scribes commended the reply Christ made to the Sadducees about the resurrection, but they were silenced by a question concerning the Messiah. Christ, as God, was David's Lord; but Christ, as man, was David's son. [[sources/commentaries_english/mhenry-concise/luke/chapter-20#Verses 39–47|Matthew Henry Concise on Luke 20]]
+- In this chapter we have, I. Christ's answer to the chief priests' question concerning his authority, Lu 20:1-8. II. The parable of the vineyard let out to the unjust and rebellious husbandmen, Lu 20:9-19. III. Christ's… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-20|Matthew Henry Complete on Luke 20]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 20 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -45,6 +50,7 @@ Primary scope: Luke 20 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-20|Matthew Henry Concise, Luke 20]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-20|Matthew Henry Complete on Luke 20]]
 
 ## Open questions
 

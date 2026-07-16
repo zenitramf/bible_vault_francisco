@@ -5,7 +5,7 @@ description: The Pharisees and the adulteress. (1–11). Christ's discourse with
 tags: [christ, faith, salvation, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 43
 bible_book_name: "John"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on John 8: The Pharisees and the adulteress. (1–11). Chr
 - If we knew Christ better, we should know the Father better. Those become vain in their imaginations concerning God, who will not learn of Christ. [[sources/commentaries_english/mhenry-concise/john/chapter-8#Verses 17–20|Matthew Henry Concise on John 8]]
 - Those that live in unbelief, are for ever undone, if they die in unbelief. The Jews belonged to this present evil world, but Jesus was of a heavenly and Divine nature, so that his doctrine, kingdom, and blessings, would not suit their taste. [[sources/commentaries_english/mhenry-concise/john/chapter-8#Verses 21–29|Matthew Henry Concise on John 8]]
 - Christ and all that are his, depend upon God for honour. Men may be able to dispute about God, yet may not know him. [[sources/commentaries_english/mhenry-concise/john/chapter-8#Verses 54–59|Matthew Henry Concise on John 8]]
+- In this chapter we have, I. Christ's evading the snare which the Jews laid for him, in bringing to him a woman taken in adultery, Joh 8:1-11. II. Divers discourses or conferences of his with the Jews that cavilled at… [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-8|Matthew Henry Complete on John 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: John 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -45,6 +50,7 @@ Primary scope: John 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/john/chapter-8|Matthew Henry Concise, John 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-8|Matthew Henry Complete on John 8]]
 
 ## Open questions
 

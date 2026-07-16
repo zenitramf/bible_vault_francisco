@@ -5,7 +5,7 @@ description: Christ conquers temptation by Scripture, opens Galilean ministry wi
 tags: [christ, spiritual-warfare, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 40
 bible_book_name: "Matthew"
 ---
@@ -22,8 +22,11 @@ Christ conquers temptation by Scripture, opens Galilean ministry with kingdom pr
 - Christ begins ministry in Galilee with the call to repent for the kingdom is at hand; he will not stay long where he is not welcome. [[sources/commentaries_english/mhenry-concise/matthew/chapter-4#Verses 12–17|Matthew Henry Concise on Matthew 4]]
 - He calls ordinary fishermen to become disciples and later preachers and witnesses. [[sources/commentaries_english/mhenry-concise/matthew/chapter-4#Verses 18–22|Matthew Henry Concise on Matthew 4]]
 - Miracles confirm his mission and picture the healing power of his doctrine and the Spirit’s influences. [[sources/commentaries_english/mhenry-concise/matthew/chapter-4#Verses 23–25|Matthew Henry Concise on Matthew 4]]
+- John Baptist said concerning Christ, He must increase, but I must decrease; and so it proved. For, after John had baptized Christ, and borne his testimony to him, we hear little more of his ministry; he had done what… [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-4|Matthew Henry Complete on Matthew 4]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening should add Matthew Henry Complete on the same chapter and Spurgeon where he treats the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening
 Primary scope: Matthew 4 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
@@ -44,6 +49,7 @@ Primary scope: Matthew 4 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-4|Matthew Henry Concise, Matthew 4]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-4|Matthew Henry Complete on Matthew 4]]
 
 ## Open questions
 

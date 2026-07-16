@@ -5,7 +5,7 @@ description: The demoniac healed. (1–20). A woman healed. (21–34). The daugh
 tags: [christ, discipleship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 41
 bible_book_name: "Mark"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Mark 5: The demoniac healed. (1–20). A woman healed. 
 - Some openly wilful sinners are like this madman. The commands of the law are as chains and fetters, to restrain sinners from their wicked courses; but they break those bands in sunder; and it is an evidence of the power of the devil in them. [[sources/commentaries_english/mhenry-concise/mark/chapter-5#Verses 1–20|Matthew Henry Concise on Mark 5]]
 - A despised gospel will go where it will be better received. One of the rulers of a synagogue earnestly besought Christ for a little daughter, about twelve years old, who was dying. [[sources/commentaries_english/mhenry-concise/mark/chapter-5#Verses 21–34|Matthew Henry Concise on Mark 5]]
 - We may suppose Jairus hesitating whether he should ask Christ to go on or not, when told that his daughter was dead. But have we not as much occasion for the grace of God, and the comfort of his Spirit, for the prayers of our ministers and Christian friends, when death is in the house, as when sickness is there? [[sources/commentaries_english/mhenry-concise/mark/chapter-5#Verses 35–43|Matthew Henry Concise on Mark 5]]
+- In this chapter, we have, I. Christ's casting the legion of devils out of the man possessed, and suffering them to enter into the swine, Mk 5:1-20. II. Christ's healing the woman with the bloody issue, in the way as he… [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-5|Matthew Henry Complete on Mark 5]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Mark 5 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -41,6 +46,7 @@ Primary scope: Mark 5 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/mark/chapter-5|Matthew Henry Concise, Mark 5]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-5|Matthew Henry Complete on Mark 5]]
 
 ## Open questions
 

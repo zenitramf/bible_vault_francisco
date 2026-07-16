@@ -5,7 +5,7 @@ description: Evidence for John and the Messiah, woes on unrepentant cities, and 
 tags: [christ, discipleship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 40
 bible_book_name: "Matthew"
 ---
@@ -23,8 +23,11 @@ Evidence for John and the Messiah, woes on unrepentant cities, and the gentle in
 - This generation is like children who will dance to no tune; wisdom is justified by her children. [[sources/commentaries_english/mhenry-concise/matthew/chapter-11#Verses 16–24|Matthew Henry Concise on Matthew 11]]
 - Cities that saw mighty works yet did not repent face heavier judgment; the Father reveals the Son to babes. [[sources/commentaries_english/mhenry-concise/matthew/chapter-11#Verses 16–24|Matthew Henry Concise on Matthew 11]]
 - The weary and heavy-laden are invited to come to Christ for rest; his yoke is easy and burden light. [[sources/commentaries_english/mhenry-concise/matthew/chapter-11#Verses 25–30|Matthew Henry Concise on Matthew 11]]
+- In this chapter we have, I. The constant and unwearied diligence of our Lord Jesus in his great work of preaching the gospel, Mt 11:1. II. His discourse with the disciples of John concerning his being the Messiah, Mt… [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-11|Matthew Henry Complete on Matthew 11]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening should add Matthew Henry Complete on the same chapter and Spurgeon where he treats the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening
 Primary scope: Matthew 11 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -44,6 +49,7 @@ Primary scope: Matthew 11 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-11|Matthew Henry Concise, Matthew 11]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-11|Matthew Henry Complete on Matthew 11]]
 
 ## Open questions
 

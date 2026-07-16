@@ -5,7 +5,7 @@ description: The parable of the vineyard and husbandmen. (1–12). Question abou
 tags: [christ, discipleship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 41
 bible_book_name: "Mark"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Mark 12: The parable of the vineyard and husbandmen. (1
 - A right knowledge of the Scripture, as the fountain whence all revealed religion now flows, and the foundation on which it is built, is the best preservative against error. Christ put aside the objection of the Sadducees, who were the scoffing infidels of that day, by setting the doctrine of the future state in a tr… [[sources/commentaries_english/mhenry-concise/mark/chapter-12#Verses 18–27|Matthew Henry Concise on Mark 12]]
 - Those who sincerely desire to be taught their duty, Christ will guide in judgment, and teach his way. He tells the scribe that the great commandment, which indeed includes all, is, that of loving God with all our hearts. [[sources/commentaries_english/mhenry-concise/mark/chapter-12#Verses 28–34|Matthew Henry Concise on Mark 12]]
 - Let us not forget that Jesus still sees the treasury. He knows how much, and from what motives, men give to his cause. [[sources/commentaries_english/mhenry-concise/mark/chapter-12#Verses 41–44|Matthew Henry Concise on Mark 12]]
+- In this chapter, we have, I. The parable of the vineyard let out to unthankful husbandmen, representing the sin and ruin of the Jewish church, Mk 12:1-12. II. Christ's silencing those who thought to ensnare him with a… [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-12|Matthew Henry Complete on Mark 12]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Mark 12 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -43,6 +48,7 @@ Primary scope: Mark 12 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/mark/chapter-12|Matthew Henry Concise, Mark 12]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-12|Matthew Henry Complete on Mark 12]]
 
 ## Open questions
 

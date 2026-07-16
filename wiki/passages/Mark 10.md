@@ -5,7 +5,7 @@ description: The Pharisees' question concerning divorce. (1–12). Christ's love
 tags: [christ, discipleship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 41
 bible_book_name: "Mark"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Mark 10: The Pharisees' question concerning divorce. (1
 - This young ruler showed great earnestness. He asked what he should do now, that he might be happy for ever. [[sources/commentaries_english/mhenry-concise/mark/chapter-10#Verses 17–22|Matthew Henry Concise on Mark 10]]
 - Christ took this occasion to speak to his disciples about the difficulty of the salvation of those who have abundance of this world. Those who thus eagerly seek the wealth of the world, will never rightly prize Christ and his grace. [[sources/commentaries_english/mhenry-concise/mark/chapter-10#Verses 23–31|Matthew Henry Concise on Mark 10]]
 - Bartimeus had heard of Jesus and his miracles, and learning that he was passing by, hoped to recover his eyesight. In coming to Christ for help and healing, we should look to him as the promised Messiah. [[sources/commentaries_english/mhenry-concise/mark/chapter-10#Verses 46–52|Matthew Henry Concise on Mark 10]]
+- In this chapter, we have, I. Christ's dispute with the Pharisees concerning divorce, Mk 10:1-12. II. The kind entertainment he gave to the little children that were brought to him to be blessed, Mk 10:13-16. III. His… [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-10|Matthew Henry Complete on Mark 10]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Mark 10 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -43,6 +48,7 @@ Primary scope: Mark 10 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/mark/chapter-10|Matthew Henry Concise, Mark 10]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-10|Matthew Henry Complete on Mark 10]]
 
 ## Open questions
 

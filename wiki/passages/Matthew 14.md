@@ -5,7 +5,7 @@ description: John’s death, the feeding of five thousand, walking on water, and
 tags: [christ, faith, discipleship]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 40
 bible_book_name: "Matthew"
 ---
@@ -22,8 +22,11 @@ John’s death, the feeding of five thousand, walking on water, and healings at 
 - Christ multiplies loaves; compassion feeds the crowd before teaching further. [[sources/commentaries_english/mhenry-concise/matthew/chapter-14#Verses 13–21|Matthew Henry Concise on Matthew 14]]
 - Jesus walks on the sea; Peter sinks when he looks at wind rather than Christ; little faith is rebuked and rescued. [[sources/commentaries_english/mhenry-concise/matthew/chapter-14#Verses 22–33|Matthew Henry Concise on Matthew 14]]
 - In Gennesaret, as many as touch the hem of his garment are made whole. [[sources/commentaries_english/mhenry-concise/matthew/chapter-14#Verses 34–36|Matthew Henry Concise on Matthew 14]]
+- John the Baptist had said concerning Christ, He must increase, but I must decrease, Joh 3:30. The morning-star is here disappearing, and the Sun of righteousness rising to its meridian lustre. Here is, I. The martyrdom… [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-14|Matthew Henry Complete on Matthew 14]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening should add Matthew Henry Complete on the same chapter and Spurgeon where he treats the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening
 Primary scope: Matthew 14 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -43,6 +48,7 @@ Primary scope: Matthew 14 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-14|Matthew Henry Concise, Matthew 14]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-14|Matthew Henry Complete on Matthew 14]]
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: Parables of the lost sheep, and the piece of silver. (1–10). The 
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Luke 15: Parables of the lost sheep, and the piece of s
 - The parable of the prodigal son shows the nature of repentance, and the Lord's readiness to welcome and bless all who return to him. It fully sets forth the riches of gospel grace; and it has been, and will be, while the world stands, of unspeakable use to poor sinners, to direct and to encourage them in repenting a… [[sources/commentaries_english/mhenry-concise/luke/chapter-15#Verses 11–16|Matthew Henry Concise on Luke 15]]
 - Having viewed the prodigal in his abject state of misery, we are next to consider his recovery from it. This begins by his coming to himself. [[sources/commentaries_english/mhenry-concise/luke/chapter-15#Verses 17–24|Matthew Henry Concise on Luke 15]]
 - In the latter part of this parable we have the character of the Pharisees, though not of them alone. It sets forth the kindness of the Lord, and the proud manner in which his gracious kindness is often received. [[sources/commentaries_english/mhenry-concise/luke/chapter-15#Verses 25–32|Matthew Henry Concise on Luke 15]]
+- Evil manners, we say, beget good laws; so, in this chapter, the murmuring of the scribes and Pharisees at the grace of Christ, and the favour he showed to publicans and sinners, gave occasion for a more full discovery… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-15|Matthew Henry Complete on Luke 15]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 15 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -44,6 +49,7 @@ Primary scope: Luke 15 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-15|Matthew Henry Concise, Luke 15]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-15|Matthew Henry Complete on Luke 15]]
 
 ## Open questions
 

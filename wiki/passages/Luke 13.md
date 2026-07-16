@@ -5,7 +5,7 @@ description: Christ exhorts to repentance from the case of the Galileans and oth
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Luke 13: Christ exhorts to repentance from the case of 
 - Our Lord Jesus attended upon public worship on the sabbaths. Even bodily infirmities, unless very grievous, should not keep us from public worship on sabbath days. [[sources/commentaries_english/mhenry-concise/luke/chapter-13#Verses 10–17|Matthew Henry Concise on Luke 13]]
 - Here is the progress of the gospel foretold in two parables, as in Mt 13. The kingdom of the Messiah is the kingdom of God. [[sources/commentaries_english/mhenry-concise/luke/chapter-13#Verses 18–22|Matthew Henry Concise on Luke 13]]
 - Christ, in calling Herod a fox, gave him his true character. The greatest of men were accountable to God, therefore it became him to call this proud king by his own name; but it is not an example for us. [[sources/commentaries_english/mhenry-concise/luke/chapter-13#Verses 31–35|Matthew Henry Concise on Luke 13]]
+- In this chapter we have, I. The good improvement Christ made of a piece of news that was brought him concerning some Galileans, that were lately massacred by Pilate, as they were sacrificing in the temple at Jerusalem,… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-13|Matthew Henry Complete on Luke 13]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 13 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -45,6 +50,7 @@ Primary scope: Luke 13 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-13|Matthew Henry Concise, Luke 13]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-13|Matthew Henry Complete on Luke 13]]
 
 ## Open questions
 

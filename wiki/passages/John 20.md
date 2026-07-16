@@ -5,7 +5,7 @@ description: The sepulchre found to be empty. (1–10). Christ appears to Mary. 
 tags: [christ, faith, salvation, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 43
 bible_book_name: "John"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on John 20: The sepulchre found to be empty. (1–10). Chr
 - This was the first day of the week, and this day is afterwards often mentioned by the sacred writers; for it was evidently set apart as the Christian sabbath, in remembrance of Christ's resurrection. The disciples had shut the doors for fear of the Jews; and when they had no such expectation, Jesus himself came and … [[sources/commentaries_english/mhenry-concise/john/chapter-20#Verses 19–25|Matthew Henry Concise on John 20]]
 - That one day in seven should be religiously observed, was an appointment from the beginning. And that, in the kingdom of the Messiah, the first day of the week should be that solemn day, was pointed out, in that Christ on that day once and again met his disciples in a religious assembly. [[sources/commentaries_english/mhenry-concise/john/chapter-20#Verses 26–29|Matthew Henry Concise on John 20]]
 - There were other signs and proofs of our Lord's resurrection, but these were committed to writing, that all might believe that Jesus was the promised Messiah, the Saviour of sinners, and the Son of God; that, by this faith, they might obtain eternal life, by his mercy, truth, and power. May we believe that Jesus is … [[sources/commentaries_english/mhenry-concise/john/chapter-20#Verses 30, 31|Matthew Henry Concise on John 20]]
+- This evangelist, though he began not his gospel as the rest did, yet concludes it as they did, with the history of Christ' resurrection; not of the thing itself, for none of them describe how he rose, but of the proofs… [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-20|Matthew Henry Complete on John 20]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: John 20 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -45,6 +50,7 @@ Primary scope: John 20 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/john/chapter-20|Matthew Henry Concise, John 20]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-20|Matthew Henry Complete on John 20]]
 
 ## Open questions
 

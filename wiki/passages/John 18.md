@@ -5,7 +5,7 @@ description: Christ taken in the garden. (1–12). Christ before Annas and Caiap
 tags: [christ, faith, salvation, holy-spirit]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 43
 bible_book_name: "John"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on John 18: Christ taken in the garden. (1–12). Christ b
 - Simon Peter denied his Master. The particulars have been noticed in the remarks on the other Gospels. [[sources/commentaries_english/mhenry-concise/john/chapter-18#Verses 13–27|Matthew Henry Concise on John 18]]
 - It was unjust to put one to death who had done so much good, therefore the Jews were willing to save themselves from reproach. Many fear the scandal of an ill thing, more than the sin of it. [[sources/commentaries_english/mhenry-concise/john/chapter-18#Verses 28–32|Matthew Henry Concise on John 18]]
 - Art thou the King of the Jews? that King of the Jews who has been so long expected? [[sources/commentaries_english/mhenry-concise/john/chapter-18#Verses 33–40|Matthew Henry Concise on John 18]]
+- Hitherto this evangelist has recorded little of the history of Christ, only so far as was requisite to introduce his discourses; but now that the time drew nigh that Jesus must die he is very particular in relating the… [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-18|Matthew Henry Complete on John 18]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: John 18 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
@@ -44,6 +49,7 @@ Primary scope: John 18 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/john/chapter-18|Matthew Henry Concise, John 18]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-18|Matthew Henry Complete on John 18]]
 
 ## Open questions
 

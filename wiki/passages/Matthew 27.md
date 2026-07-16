@@ -5,7 +5,7 @@ description: Judas’s end, Pilate’s compromise, crucifixion, atoning darkness
 tags: [christ, redemption, salvation, atonement]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 40
 bible_book_name: "Matthew"
 ---
@@ -22,8 +22,11 @@ Judas’s end, Pilate’s compromise, crucifixion, atoning darkness, riven veil,
 - Pilate finds no fault yet yields to the crowd; Barabbas is preferred to Christ. [[sources/commentaries_english/mhenry-concise/matthew/chapter-27#Verses 11–25|Matthew Henry Concise on Matthew 27]]
 - Mocked and crucified, Jesus is numbered with transgressors; darkness and forsaken cry mark atoning agony. [[sources/commentaries_english/mhenry-concise/matthew/chapter-27#Verses 26–30|Matthew Henry Concise on Matthew 27]]
 - The veil is rent—access to God opened; he is buried without pomp, and the sealed tomb prepares proof of resurrection. [[sources/commentaries_english/mhenry-concise/matthew/chapter-27#Verses 51–56|Matthew Henry Concise on Matthew 27]]
+- It is a very affecting story which is recorded in this chapter concerning the sufferings and death of our Lord Jesus. Considering the thing itself, there cannot be a more tragical story told us; common humanity would… [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-27|Matthew Henry Complete on Matthew 27]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening should add Matthew Henry Complete on the same chapter and Spurgeon where he treats the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later deepening
 Primary scope: Matthew 27 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Redemption|Redemption]]
@@ -43,6 +48,7 @@ Primary scope: Matthew 27 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-27|Matthew Henry Concise, Matthew 27]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-27|Matthew Henry Complete on Matthew 27]]
 
 ## Open questions
 

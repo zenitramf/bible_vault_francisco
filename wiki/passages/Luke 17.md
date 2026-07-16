@@ -5,7 +5,7 @@ description: To avoid offences, To pray for increase of faith, Humility taught. 
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -21,8 +21,11 @@ Matthew Henry Concise on Luke 17: To avoid offences, To pray for increase of fai
 - It is no abatement of their guilt by whom an offence comes, nor will it lessen their punishment that offences will come. Faith in God's pardoning mercy, will enable us to get over the greatest difficulties in the way of forgiving our brethren. [[sources/commentaries_english/mhenry-concise/luke/chapter-17#Verses 1–10|Matthew Henry Concise on Luke 17]]
 - A sense of our spiritual leprosy should make us very humble whenever we draw near to Christ. It is enough to refer ourselves to the compassions of Christ, for they fail not. [[sources/commentaries_english/mhenry-concise/luke/chapter-17#Verses 11–19|Matthew Henry Concise on Luke 17]]
 - The kingdom of God was among the Jews, or rather within some of them. It was a spiritual kingdom, set up in the heart by the power of Divine grace. [[sources/commentaries_english/mhenry-concise/luke/chapter-17#Verses 20–37|Matthew Henry Concise on Luke 17]]
+- In this chapter we have, I. Some particular discourses which Christ had with his disciples, in which he teaches them to take heed of giving offence, and to forgive the injuries done them (Lu 17:1-4), encourages them to… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-17|Matthew Henry Complete on Luke 17]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -31,6 +34,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 17 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -43,6 +48,7 @@ Primary scope: Luke 17 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-17|Matthew Henry Concise, Luke 17]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-17|Matthew Henry Complete on Luke 17]]
 
 ## Open questions
 

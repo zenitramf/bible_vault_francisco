@@ -5,7 +5,7 @@ description: The treachery of Judas. (1–6). The passover. (7–18). The Lord's
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Luke 22: The treachery of Judas. (1–6). The passover.
 - The Lord's supper is a sign or memorial of Christ already come, who by dying delivered us; his death is in special manner set before us in that ordinance, by which we are reminded of it. The breaking of Christ's body as a sacrifice for us, is therein brought to our remembrance by the breaking of bread. [[sources/commentaries_english/mhenry-concise/luke/chapter-22#Verses 19, 20|Matthew Henry Concise on Luke 22]]
 - How unbecoming is the worldly ambition of being the greatest, to the character of a follower of Jesus, who took upon him the form of a servant, and humbled himself to the death of the cross! In the way to eternal happiness, we must expect to be assaulted and sifted by Satan. [[sources/commentaries_english/mhenry-concise/luke/chapter-22#Verses 21–38|Matthew Henry Concise on Luke 22]]
 - Those that condemned Jesus for a blasphemer, were the vilest blasphemers. He referred them to his second coming, for the full proof of his being the Christ, to their confusion, since they would not admit the proof of it to their conviction. [[sources/commentaries_english/mhenry-concise/luke/chapter-22#Verses 63–71|Matthew Henry Concise on Luke 22]]
+- All the evangelists, whatever they omit, give us a particular account of the death and resurrection of Christ, because he died for our sins and rose for our justification, this evangelist as fully as any, and with many… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-22|Matthew Henry Complete on Luke 22]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 22 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -45,6 +50,7 @@ Primary scope: Luke 22 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-22|Matthew Henry Concise, Luke 22]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-22|Matthew Henry Complete on Luke 22]]
 
 ## Open questions
 

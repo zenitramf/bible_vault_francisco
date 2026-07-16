@@ -5,7 +5,7 @@ description: The traditions of the elders. (1–13). What defiles the man. (14�
 tags: [christ, discipleship, salvation]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 41
 bible_book_name: "Mark"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Mark 7: The traditions of the elders. (1–13). What de
 - Our wicked thoughts and affections, words and actions, defile us, and these only. As a corrupt fountain sends forth corrupt streams, so does a corrupt heart send forth corrupt reasonings, corrupt appetites and passions, and all the wicked words and actions that come from them. [[sources/commentaries_english/mhenry-concise/mark/chapter-7#Verses 14–23|Matthew Henry Concise on Mark 7]]
 - Christ never put any from him that fell at his feet, which a poor trembling soul may do. As she was a good woman, so a good mother. [[sources/commentaries_english/mhenry-concise/mark/chapter-7#Verses 24–30|Matthew Henry Concise on Mark 7]]
 - Here is a cure of one that was deaf and dumb. Those who brought this poor man to Christ, besought him to observe the case, and put forth his power. [[sources/commentaries_english/mhenry-concise/mark/chapter-7#Verses 31–37|Matthew Henry Concise on Mark 7]]
+- In this chapter we have, I. Christ's dispute with the scribes and Pharisees about eating meat with unwashen hands (Mk 7:1-13); and the needful instructions he gave to the people on that occasion, and further explained… [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-7|Matthew Henry Complete on Mark 7]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Mark 7 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -42,6 +47,7 @@ Primary scope: Mark 7 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/mark/chapter-7|Matthew Henry Concise, Mark 7]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/mark/chapter-7|Matthew Henry Complete on Mark 7]]
 
 ## Open questions
 

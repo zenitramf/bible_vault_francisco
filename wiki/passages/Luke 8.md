@@ -5,7 +5,7 @@ description: The ministry of Christ. (1–3). The parable of the sower. (4–21)
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -22,8 +22,11 @@ Matthew Henry Concise on Luke 8: The ministry of Christ. (1–3). The parable of
 - There are many very needful and excellent rules and cautions for hearing the word, in the parable of the sower, and the application of it. Happy are we, and for ever indebted to free grace, if the same thing that is a parable to others, with which they are only amused, is a plain truth to us, by which we are taught … [[sources/commentaries_english/mhenry-concise/luke/chapter-8#Verses 4–21|Matthew Henry Concise on Luke 8]]
 - Those that put to sea in a calm, even at Christ's word, must yet prepare for a storm, and for great peril in that storm. There is no relief for souls under a sense of guilt, and fear of wrath, but to go to Christ, and call him Master, and say, I am undone, if thou dost not help me. [[sources/commentaries_english/mhenry-concise/luke/chapter-8#Verses 22–40|Matthew Henry Concise on Luke 8]]
 - Let us not complain of a crowd, and a throng, and a hurry, as long as we are in the way of our duty, and doing good; but otherwise every wise man will keep himself out of it as much as he can. And many a poor soul is healed, and helped, and saved by Christ, that is hidden in a crowd, and nobody notices it. [[sources/commentaries_english/mhenry-concise/luke/chapter-8#Verses 41–56|Matthew Henry Concise on Luke 8]]
+- Most of this chapter is a repetition of divers passages of Christ's preaching and miracles which we had before in Matthew and Mark; they are all of such weight, that they are worth repeating, and therefore they are… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-8|Matthew Henry Complete on Luke 8]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -32,6 +35,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 8 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -44,6 +49,7 @@ Primary scope: Luke 8 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-8|Matthew Henry Concise, Luke 8]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-8|Matthew Henry Complete on Luke 8]]
 
 ## Open questions
 

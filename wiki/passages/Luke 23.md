@@ -5,7 +5,7 @@ description: Christ before Pilate. (1–5). Christ before Herod. (6–12). Barab
 tags: [christ, discipleship, salvation, prayer]
 status: seed
 updated: 2026-07-16
-source_count: 1
+source_count: 2
 bible_book_key: 42
 bible_book_name: "Luke"
 ---
@@ -23,8 +23,11 @@ Matthew Henry Concise on Luke 23: Christ before Pilate. (1–5). Christ before H
 - The fear of man brings many into this snare, that they will do an unjust thing, against their consciences, rather than get into trouble. Pilate declares Jesus innocent, and has a mind to release him; yet, to please the people, he would punish him as an evil-doer. [[sources/commentaries_english/mhenry-concise/luke/chapter-23#Verses 13–25|Matthew Henry Concise on Luke 23]]
 - We have here the blessed Jesus, the Lamb of God, led as a lamb to the slaughter, to the sacrifice. Though many reproached and reviled him, yet some pitied him. [[sources/commentaries_english/mhenry-concise/luke/chapter-23#Verses 26–31|Matthew Henry Concise on Luke 23]]
 - Many, though they do not make any show in outward profession, yet, like Joseph of Arimathea, will be far more ready to do real service, when there is occasion, than others who make a greater noise. Christ was buried in haste, because the sabbath drew on. [[sources/commentaries_english/mhenry-concise/luke/chapter-23#Verses 50–56|Matthew Henry Concise on Luke 23]]
+- This chapter carries on and concludes the history of Christ's sufferings and death. We have here, I. His arraignment before Pilate the Roman governor, Lu 23:1-5. II. His examination before Herod, who was tetrarch of… [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-23|Matthew Henry Complete on Luke 23]]
 
 ## Agreements and tensions
+
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
 This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
 
@@ -33,6 +36,8 @@ This chapter synthesis is drawn from Matthew Henry Concise only. Later work may 
 Primary scope: Luke 23 (full chapter).
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -45,6 +50,7 @@ Primary scope: Luke 23 (full chapter).
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/luke/chapter-23|Matthew Henry Concise, Luke 23]]
+- [[sources/commentaries_english/mhenry-complete/volume-5/luke/chapter-23|Matthew Henry Complete on Luke 23]]
 
 ## Open questions
 
