@@ -319,3 +319,7 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4.5 MAE 100%
 
 - All MAE months reviewed; source-coverage --path chspurgeon-mae --require-zero OK.
+
+## [2026-07-16] campaign | Phase 4.6 concept mesh during full ingest
+
+- Related-page mesh from hub concepts to Complete/ToD/sermon/FCB/MAE Phase 4 source-notes. No doctrinal false consensus; inventory links only.

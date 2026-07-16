@@ -29,6 +29,8 @@ The retrieved sources present prayer as sincere address to God rather than publi
 
 ## Agreements and tensions
 
+Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
+
 - Henry and Spurgeon agree that Christian prayer depends on divine help rather than human eloquence.
 - Henry distinguishes the Lord's Prayer taught to disciples from Christ's unique mediatorial prayer; the two are related but not identical. [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-17#Christ's Intercessory Prayer|Matthew Henry on John 17]]
 - Spurgeon's Romans 8 treatment emphasizes the Spirit's interior aid in weakness more than the form and pattern of petition; Henry Concise on Romans 8 and 15 add the same Spirit-help theme plus corporate striving in prayer. [[sources/commentaries_english/chspurgeon-sermons/volume-26/sermon_1532|Spurgeon, The Holy Spirit's Intercession]]
@@ -38,6 +40,8 @@ The retrieved sources present prayer as sincere address to God rather than publi
 Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33.
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Treasury of David Volume 6|Spurgeon Treasury of David Volume 6]]
 
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
 - [[wiki/concepts/Christ|Christ]]

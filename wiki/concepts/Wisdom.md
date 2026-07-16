@@ -36,6 +36,8 @@ In the retrieved sources, wisdom is not a mere cleverness of mind but a God-give
 
 ## Agreements and tensions
 
+Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
+
 - Matthew Henry (Complete and Concise) and Spurgeon (Treasury of David and sermons) agree that the wisdom of Proverbs 16:16 is not a commodity but a moral and spiritual condition rooted in the fear of the Lord, and that this wisdom outranks every earthly possession by a disproportion that conscience is to judge.
 - Both readers treat the comparison as not a *condemnation* of gold and silver but an *outranking* of them. The preachers do not call the rich wicked for being rich; they call the wise incomparably richer, and they call the purchase of wisdom without money the only true bargain.
 - The most theologically loaded convergence is the reading of "wisdom" in Proverbs 8 as Christ himself. Henry's Concise is explicit ("Wisdom, here is Christ"); the Complete commentary builds the same identification through the picture of Wisdom as the covenant partner present with the Father before the world was. Spurgeon makes the parallel move from the other side: the only "gold" that satisfies is the grace of Christ. The seed does not yet develop the Wisdom–Logos–Christ identification in detail; that thickening is an open question below.
@@ -63,6 +65,8 @@ Key loci in the present evidence:
 `bible_reference` is omitted from frontmatter because the concept is multi-passage in the sources used, following the precedent of `wiki/concepts/Creation.md`.
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 3|Matthew Henry Complete Volume 3]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]

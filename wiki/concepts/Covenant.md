@@ -31,6 +31,8 @@ In the retrieved commentary sources, covenant is a God-initiated bond in which G
 
 ## Agreements and tensions
 
+Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
+
 - Henry consistently reads the Abrahamic covenant as the covenant of grace and treats Canaan as typical of heaven, while also retaining concrete historical promises of seed and land. [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-17#The Covenant with Abraham Renewed (1898 BC)|Matthew Henry on Genesis 17]]
 - On Hebrews 8, Henry distinguishes administrations carefully: the Sinai covenant is treated as a darker, preparatory dispensation, while the new covenant is clearer, freer, and better mediated in Christ. He also warns that right theology requires distinguishing covenants rather than flattening them. [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-8#The Old and New Covenant (62 AD)|Matthew Henry on Hebrews 8]]
 - This seed page is drawn mainly from Matthew Henry. Spurgeon material in the first retrieval batch spoke of people living in accordance with covenant more than defining covenant itself; a fuller multi-author synthesis still needs dedicated Spurgeon covenant sermons or notes.
@@ -45,6 +47,9 @@ Primary passages recur across the sources above, but this concept page does not 
 - Hebrews 8
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
+- [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
 
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Salvation|Salvation]]

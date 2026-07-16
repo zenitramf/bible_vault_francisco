@@ -32,6 +32,8 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 
 ## Agreements and tensions
 
+Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
+
 - Henry and Spurgeon agree that justifying faith is trust directed to God's promise and to Christ, not confidence in personal merit.
 - Henry develops faith extensively through Abraham and the catalogue of exemplars; Spurgeon presses the experiential and doxological side of trust as the believer's very being unto God's praise. [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-11#The Nature of Faith (62 AD)|Matthew Henry on Hebrews 11]] [[sources/commentaries_english/chspurgeon-sermons/volume-33/sermon_1978|Spurgeon, Trust]]
 - Romans concise stresses the preached word as the near object of faith; Hebrews stresses unseen realities hoped for—complementary, not competing.
@@ -51,6 +53,9 @@ Key loci in the present evidence:
 No single primary verse is set in frontmatter because the concept is multi-passage in the sources used.
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Faith's Checkbook — January|Spurgeon Faith's Checkbook — January]]
+- [[wiki/source-notes/Spurgeon Sermons Volume 21|Spurgeon Sermons Volume 21]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Galatians|Matthew Henry Concise on Galatians]]
 

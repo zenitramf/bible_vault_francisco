@@ -26,6 +26,8 @@ The sources treat prophecy primarily as God-originated speech, not private inven
 
 ## Agreements and tensions
 
+Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
+
 - This seed page is Henry-dominant. The available Spurgeon hit for the refined prophecy query was less directly definitional and was not forced into consensus.
 - Jeremiah 23 focuses on false prophecy and pastoral failure; 2 Peter 1 on inspiration; 1 Corinthians 14 on congregational use. These are related but not identical senses of "prophecy."
 - Continuity between Old Testament prophetic office and New Testament congregational prophecy remains an open historical-theological question in this vault.
@@ -35,6 +37,9 @@ The sources treat prophecy primarily as God-originated speech, not private inven
 Key loci: 2 Peter 1:19–21; Jeremiah 23:9–32; 1 Corinthians 14:1–5.
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Revelation|Matthew Henry Concise on Revelation]]
 

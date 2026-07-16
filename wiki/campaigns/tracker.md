@@ -299,11 +299,11 @@ Fan durable claims into concepts as each 4.1–4.5 slice lands (do not wait for 
 
 | Section | Status | Notes |
 |---|---|---|
-| Mesh after each Complete volume | pending | Prefer tensions with Concise on same passage |
-| Mesh after each ToD volume | pending | Prayer / Worship / Christ in the Psalms |
-| Mesh after each sermon volume band | pending | Theme tags → concept pages; record Henry vs Spurgeon tensions |
-| Mesh after each FCB/MAE month | pending | Light applicative claims only; doctrine stays on fuller sources |
-| Hub concepts stay multi-source | pending | No false consensus |
+| Mesh after each Complete volume | reviewed | Prefer tensions with Concise on same passage |
+| Mesh after each ToD volume | reviewed | Prayer / Worship / Christ in the Psalms |
+| Mesh after each sermon volume band | reviewed | Theme tags → concept pages; record Henry vs Spurgeon tensions |
+| Mesh after each FCB/MAE month | reviewed | Light applicative claims only; doctrine stays on fuller sources |
+| Hub concepts stay multi-source | reviewed | No false consensus |
 
 ### 4.7 — Phase 4 coverage closeout
 

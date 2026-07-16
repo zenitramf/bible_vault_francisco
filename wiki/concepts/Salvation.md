@@ -31,6 +31,8 @@ Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through fai
 
 ## Agreements and tensions
 
+Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
+
 - Spurgeon and Henry strongly agree that salvation is free grace, Christ-centered, and received by faith rather than merited by works.
 - Spurgeon often presses the singularity of the way of salvation in evangelistic and polemic settings (one way, not grace-plus-law). [[sources/commentaries_english/chspurgeon-sermons/volume-13/sermon_765|Spurgeon, Grace the One Way of Salvation]]
 - Henry's Ephesians 2 exposition holds together natural misery, free grace, faith, new creation unto good works, and Jew-Gentile unity. Good works follow as fruit, not as the cause of acceptance. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-2#The Change Wrought in the Ephesians (61 AD)|Matthew Henry on Ephesians 2]]
@@ -50,6 +52,9 @@ Key loci in the present evidence:
 No single primary verse is set in frontmatter because the concept is multi-passage in the sources used.
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Sermons Volume 31|Spurgeon Sermons Volume 31]]
+- [[wiki/source-notes/Matthew Henry Complete Volume 4|Matthew Henry Complete Volume 4]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Ephesians|Matthew Henry Concise on Ephesians]]
 

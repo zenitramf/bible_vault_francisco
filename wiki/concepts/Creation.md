@@ -27,6 +27,8 @@ Matthew Henry's Genesis 1 expositions present creation as the foundation of reli
 
 ## Agreements and tensions
 
+Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
+
 - Complete and Concise Henry agree closely on Creator sovereignty, word-creation, the Spirit's moving, the image of God, and new-creation analogy.
 - Henry repeatedly spiritualizes creation for pastoral application (chaos as unregenerate soul, light as first saving work). That application is explicit in the sources and should not be mistaken for a denial of historical creation.
 - This seed page is almost entirely Henry. Dedicated Spurgeon creation sermons were not among the strongest first-pass hits and remain a gap.
@@ -38,6 +40,8 @@ Matthew Henry's Genesis 1 expositions present creation as the foundation of reli
 - bible_reference is omitted because the concept covers the whole chapter rather than a single verified verse range.
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]]
 
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
 - [[wiki/concepts/Christ|Christ]]

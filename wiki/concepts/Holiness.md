@@ -27,6 +27,8 @@ In the retrieved sources, holiness is not optional polish for advanced believers
 
 ## Agreements and tensions
 
+Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
+
 - Henry stresses the ethical demand flowing from God's own holiness and from costly redemption. [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-1#Sobriety and Holiness; Exhortation to Brotherly Love (66 AD)|Matthew Henry on 1 Peter 1]]
 - Spurgeon emphasizes Christ's prayer and the sanctifying instrumentality of truth/word, and also the once-for-all perfecting of the sanctified in Hebrews 10:14. [[sources/commentaries_english/chspurgeon-sermons/volume-32/sermon_1890|Spurgeon, Our Lord's Prayer for His People's Sanctification]] [[sources/commentaries_english/chspurgeon-sermons/volume-5/sermon-232|Spurgeon, Perfection in Faith]]
 - Romans concise answers the antinomian abuse of grace with union, baptismal newness, and Spirit-walk—without returning to works as the ground of justification.
@@ -37,6 +39,8 @@ In the retrieved sources, holiness is not optional polish for advanced believers
 Key loci: 1 Peter 1:13–21; John 17:17; Hebrews 10:14; Romans 6; Romans 8:1–14.
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Morning and Evening — January|Spurgeon Morning and Evening — January]]
 
 - [[wiki/source-notes/Matthew Henry Concise on 1 Peter|Matthew Henry Concise on 1 Peter]]
 

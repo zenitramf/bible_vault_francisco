@@ -27,6 +27,8 @@ The sources confess Jesus Christ as the eternal Word who was with God and was Go
 
 ## Agreements and tensions
 
+Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
+
 - Henry and Spurgeon fully agree on the deity and incarnation of Christ.
 - Isaiah 53 in Henry emphasizes substitutionary suffering and justification; John 1 emphasizes eternal deity and incarnate revelation. Both are needed for a full Christ page. [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-53#The Humiliation of the Messiah (706 BC)|Matthew Henry on Isaiah 53]]
 - Matthew concise supplies the narrative arc (birth → confession → passion → commission) that systematic Christology claims need to remain tied to the Gospel story.
@@ -36,6 +38,9 @@ The sources confess Jesus Christ as the eternal Word who was with God and was Go
 Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 53.
 
 ## Related pages
+
+- [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
+- [[wiki/source-notes/Spurgeon Sermons Volume 1|Spurgeon Sermons Volume 1]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Revelation|Matthew Henry Concise on Revelation]]
 

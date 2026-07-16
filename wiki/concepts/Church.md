@@ -27,6 +27,8 @@ The sources present the church as one body animated by one Spirit, called to uni
 
 ## Agreements and tensions
 
+Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
+
 - Henry emphasizes structural unity and gifted ministry for maturation of the body. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-4#Exhortation to Unity; Persuasives to Unity (61 AD)|Matthew Henry on Ephesians 4]]
 - Spurgeon highlights the sufficiency of Christ's presence with small assemblies, not only large institutions. [[sources/commentaries_english/chspurgeon-sermons/volume-30/sermon_1761|Spurgeon, The Lord with Two or Three]]
 - Romans concise stresses concrete relational ethics (weak/strong, co-workers, anti-division) more than formal polity.
@@ -37,6 +39,9 @@ The sources present the church as one body animated by one Spirit, called to uni
 Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Romans 14; Romans 16.
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Sermons Volume 11|Spurgeon Sermons Volume 11]]
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Acts|Matthew Henry Concise on Acts]]
 

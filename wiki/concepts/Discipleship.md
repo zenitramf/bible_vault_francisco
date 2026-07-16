@@ -31,6 +31,8 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 
 ## Agreements and tensions
 
+Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
+
 - Henry and Spurgeon agree that discipleship is costly and Christ-centered rather than casual association.
 - Spurgeon's Luke 14 material is especially severe on rival loves and unfinished commitment; Henry's Matthew 16 treatment balances self-denial with the value of the soul and life lost/found. [[sources/commentaries_english/chspurgeon-sermons/volume-45/sermon_2650|Spurgeon, Characteristics of Christ's Disciples]] [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-16#The Value of the Soul|Matthew Henry on Matthew 16]]
 - Romans 12 shifts from entrance terms (cross) to lifelong offering (body, mind, gifts)—same discipleship, different angle.
@@ -41,6 +43,8 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 
 ## Related pages
+
+- [[wiki/source-notes/Spurgeon Morning and Evening — June|Spurgeon Morning and Evening — June]]
 
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
