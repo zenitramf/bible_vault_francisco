@@ -78,12 +78,28 @@ See also `.qmd/README.md` for collections, path normalization, and models policy
 | `.qmd/bin/benchmark-lexical` | Source BM25 fixture |
 | `.qmd/bin/benchmark-multilingual` | EN/ES lexical + wiki semantic fixture |
 
+### Qdrant Cloud (hosted vectors)
+
+Requires `QCLOUD_BIBLE_CLUSTER_API_KEY`. Details: `.qmd/qdrant-cloud.md`.
+
+| Script | Purpose |
+|---|---|
+| `.tools/scripts/qdrant_bootstrap.py` | Ensure empty `wiki_bm25` + `sources_e5` + payload indexes |
+| `.qmd/bin/qdrant-wiki-upsert` | Sparse BM25 upsert of wiki pages |
+| `.qmd/bin/qdrant-wiki-search` | Sparse wiki search |
+| `.qmd/bin/e5-encode` | Local multilingual-e5-small (ONNX) encode / self-test |
+| `.qmd/bin/qdrant-sources-upsert` | Dense E5 upsert (default corpus: mhenry-concise) |
+| `.qmd/bin/qdrant-sources-search` | Dense sources search (vault-scoped) |
+| `.qmd/bin/qdrant-search` | Multi-channel agent search (wiki and/or sources) |
+
 ```bash
 .qmd/bin/update-safe
 .qmd/bin/embed-wiki-safe
 .qmd/bin/search-wiki-safe "prayer and the Spirit" --json
+.qmd/bin/qdrant-search "prayer without hypocrisy" --channel both --json
+.qmd/bin/qdrant-sources-search "creation of light" --book-key 1 --json
 .qmd/bin/benchmark-lexical
 .qmd/bin/benchmark-multilingual
 ```
 
-Never run bare `qmd vsearch` or `qmd bench` on this server by default. Do not embed full `bible-sources` without explicit approval. Query-expansion and rerank models are intentionally not used in routine ops.
+Never run bare `qmd vsearch` or `qmd bench` on this server by default. Do not embed full `bible-sources` into local qmd without explicit approval. Query-expansion and rerank models are intentionally not used in routine ops.

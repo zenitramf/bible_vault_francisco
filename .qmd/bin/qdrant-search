@@ -1,0 +1,56 @@
+#!/usr/bin/env bash
+# Multi-channel Qdrant search: wiki BM25 + sources E5 (vault-scoped).
+# Loads local E5 only when sources channel is used.
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
+VENV="${ROOT}/.tools/venv-qdrant"
+
+if [[ ! -x "${VENV}/bin/python" ]]; then
+  printf 'Missing %s — create with:\n  python3 -m venv %s && %s/bin/pip install -r %s/.tools/requirements-qdrant.txt\n' \
+    "${VENV}/bin/python" "${VENV}" "${VENV}" "${ROOT}" >&2
+  exit 1
+fi
+
+if (( $# == 0 )); then
+  printf 'Usage: %s <query> [--channel wiki|sources|both] [--json] …\n' "$0" >&2
+  exit 2
+fi
+
+# Sources path loads ONNX E5 (~0.5–1 GiB). Refuse when memory is critically low.
+needs_e5=1
+for arg in "$@"; do
+  if [[ "$arg" == "--channel" ]]; then
+    needs_e5=0  # re-check next
+  fi
+done
+# Detect --channel wiki (no E5)
+channel=both
+prev=
+for arg in "$@"; do
+  if [[ "$prev" == "--channel" ]]; then
+    channel=$arg
+  fi
+  prev=$arg
+done
+if [[ "$channel" == "wiki" ]]; then
+  needs_e5=0
+else
+  needs_e5=1
+fi
+
+if (( needs_e5 == 1 )); then
+  minimum_available_kib=786432  # 768 MiB
+  available_kib=$(awk '/^MemAvailable:/ { print $2 }' /proc/meminfo)
+  if (( available_kib < minimum_available_kib )); then
+    printf 'Refusing sources E5 query: MemAvailable is %s KiB; need >= %s KiB.\n' \
+      "$available_kib" "$minimum_available_kib" >&2
+    exit 1
+  fi
+fi
+
+if [[ -z "${QCLOUD_BIBLE_CLUSTER_API_KEY:-${QDRANT_API_KEY:-}}" ]]; then
+  printf 'Missing QCLOUD_BIBLE_CLUSTER_API_KEY (or QDRANT_API_KEY).\n' >&2
+  exit 2
+fi
+
+exec "${VENV}/bin/python" "${ROOT}/.tools/scripts/qdrant_search.py" "$@"

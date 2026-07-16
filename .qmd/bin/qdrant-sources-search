@@ -12,4 +12,15 @@ if (( $# == 0 )); then
   printf 'Usage: %s <query> [--limit N] [--corpus mhenry-concise] [--json]\n' "$0" >&2
   exit 2
 fi
+if [[ -z "${QCLOUD_BIBLE_CLUSTER_API_KEY:-${QDRANT_API_KEY:-}}" ]]; then
+  printf 'Missing QCLOUD_BIBLE_CLUSTER_API_KEY (or QDRANT_API_KEY).\n' >&2
+  exit 2
+fi
+minimum_available_kib=786432
+available_kib=$(awk '/^MemAvailable:/ { print $2 }' /proc/meminfo)
+if (( available_kib < minimum_available_kib )); then
+  printf 'Refusing sources E5 query: MemAvailable is %s KiB; need >= %s KiB.\n' \
+    "$available_kib" "$minimum_available_kib" >&2
+  exit 1
+fi
 exec "${VENV}/bin/python" "${ROOT}/.tools/scripts/qdrant_sources_search.py" "$@"

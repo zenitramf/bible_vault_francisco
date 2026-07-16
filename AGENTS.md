@@ -213,13 +213,15 @@ python3 .tools/scripts/audit_public.py
 
 ## Query workflow
 
-Search maintained synthesis before raw evidence. Prefer the enriched catalog, then the merged wiki helper, then sources:
+Search maintained synthesis before raw evidence. Prefer the enriched catalog, then wiki, then sources:
 
 ```bash
 python3 .tools/scripts/wiki_tool.py search-catalog --query "query terms"
 python3 .tools/scripts/wiki_tool.py search-catalog --ref "mt 6"
 python3 .tools/scripts/wiki_tool.py search-catalog --tag prayer
 .qmd/bin/search-wiki-safe "natural-language or keyword question" --json
+# Hosted sparse wiki BM25 (Qdrant Cloud; always vault-scoped):
+.qmd/bin/qdrant-search "prayer and the Father" --channel wiki --json
 ```
 
 Channel-level wiki search (debug / fallback):
@@ -227,11 +229,16 @@ Channel-level wiki search (debug / fallback):
 ```bash
 qmd search "query terms" -c bible-wiki --json -n 10
 .qmd/bin/semantic-wiki-safe "natural-language question" --json -n 10
+.qmd/bin/qdrant-wiki-search "intercession" --json
 ```
 
 Consult sources when the wiki is incomplete, a claim requires verification, or interpretations disagree:
 
 ```bash
+# Preferred semantic evidence (Qdrant sources_e5; pilot: mhenry-concise):
+.qmd/bin/qdrant-sources-search "how to pray without hypocrisy" --corpus mhenry-concise --json
+.qmd/bin/qdrant-search "Spirit intercession" --channel both --json
+# Lexical fallback (local qmd BM25; still useful for exact phrases):
 qmd search "precise source terms" -c bible-sources --json -n 15
 qmd search "personal note terms" -c bible-sources --json -n 10
 ```
@@ -242,9 +249,9 @@ Optional personal-notes **vector pilot** (only after `.qmd/bin/embed-notes-safe`
 .qmd/bin/semantic-notes-safe "pregunta personal" --format json -n 5
 ```
 
-Use `qmd get` or `qmd multi-get` to retrieve the selected documents. Cite the local wiki and source pages used in the answer. Map qmd URI path segments back to disk paths for wikilinks when needed. File an answer in `wiki/questions/` only when the user requests it or explicitly approves preserving it as a durable investigation.
+Use `qmd get` or `qmd multi-get` to retrieve the selected documents, or open `vault_rel_path` / wikilink fields from Qdrant hits. Cite the local wiki and source pages used in the answer. Map qmd URI path segments back to disk paths for wikilinks when needed. File an answer in `wiki/questions/` only when the user requests it or explicitly approves preserving it as a durable investigation.
 
-On this server, do not use the full `qmd query` pipeline by default. Do not start a persistent qmd MCP or HTTP daemon. Query expansion and reranking load additional local models that are inappropriate for the machine's available memory. Prefer `.qmd/bin/search-wiki-safe` to merge catalog + lexical + wiki vectors.
+On this server, do not use the full `qmd query` pipeline by default. Do not start a persistent qmd MCP or HTTP daemon. Query expansion and reranking load additional local models that are inappropriate for the machine's available memory. Prefer `.qmd/bin/search-wiki-safe` for local wiki merge; use `.qmd/bin/qdrant-search` for hosted wiki BM25 + sources E5 (requires `QCLOUD_BIBLE_CLUSTER_API_KEY`). See `.qmd/qdrant-cloud.md`.
 
 ## qmd resource safety
 
@@ -255,8 +262,9 @@ This server has limited CPU and memory. All routine index changes use the guarde
 - `.qmd/bin/embed-notes-safe` embeds only the tiny `bible-personal-notes` pilot collection under tighter limits.
 - `.qmd/bin/semantic-wiki-safe` runs an explicit vector-only, no-rerank query against `bible-wiki`. Do not substitute bare `qmd vsearch`; qmd 2.5.3 attempted to initialize the large query-expansion model during validation.
 - `.qmd/bin/search-wiki-safe` merges catalog + BM25 wiki + vector wiki without loading expansion/rerank models.
+- Hosted Qdrant Cloud holds sparse `wiki_bm25` and dense `sources_e5` (E5-small ONNX locally at query time). Use `.qmd/bin/qdrant-search` / `qdrant-sources-search` / `qdrant-wiki-search`. Do not load expand/rerank models for Qdrant either.
 
-Do not embed full `bible-sources` without explicit user approval. The personal-notes pilot is the only pre-approved vector slice outside `bible-wiki`. Files in `raw/` are never indexed or embedded. Do not remove the cgroup, batch-size, CPU, concurrency, or timeout protections. A killed or failed embedding job is preferable to placing other server services under memory pressure.
+Do not embed full `bible-sources` without explicit user approval. The personal-notes pilot is the only pre-approved **local qmd** vector slice outside `bible-wiki`; the approved **hosted** source pilot is mhenry-concise in Qdrant `sources_e5`. Files in `raw/` are never indexed or embedded. Do not remove the cgroup, batch-size, CPU, concurrency, or timeout protections. A killed or failed embedding job is preferable to placing other server services under memory pressure.
 
 Missing generate/rerank models in `qmd doctor` are expected: they are intentionally not used in routine ops.
 

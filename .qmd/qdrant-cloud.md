@@ -99,14 +99,29 @@ Default corpus: **mhenry-concise** (~4.8k chunks after heading-aware split).
 
 Pilot metrics (this host): ~12.5 min wall · ~735 s embed · ~8 s upsert · ~846 MiB max RSS · `sources_e5` **4871** points green.
 
+## Agent search (phase 5)
+
+```bash
+# Multi-channel (wiki BM25 then sources E5; scores not cross-comparable)
+.qmd/bin/qdrant-search "prayer without hypocrisy" --channel both --json
+.qmd/bin/qdrant-search "Spirit intercession" --channel wiki --json
+.qmd/bin/qdrant-search "creation of light" --channel sources --corpus mhenry-concise --book-key 1
+
+# Single-channel
+.qmd/bin/qdrant-sources-search "how to pray" --corpus mhenry-concise --min-score 0.82 --json
+.qmd/bin/qdrant-wiki-search "intercession" --page-type passage --json
+```
+
+JSON hits include `channel`, `vault_rel_path`, `wikilink`, and `text_preview`. Always open the vault path for citations.
+
 ## Agent retrieval order (target)
 
 1. `wiki_tool.py search-catalog`
-2. Qdrant `wiki_bm25` (sparse) — **implemented**
+2. Local `search-wiki-safe` and/or Qdrant `wiki_bm25` — **implemented**
 3. Qdrant `sources_e5` (dense, E5 query prefix) — **pilot (mhenry-concise) implemented**
 4. Open `vault_rel_path` on disk for citations
 
-Local `qmd` BM25 may remain as a transitional lexical channel for sources.
+Local `qmd` BM25 may remain as a transitional lexical channel for sources not yet in Qdrant.
 
 ## Security
 
