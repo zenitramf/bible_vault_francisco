@@ -1221,21 +1221,65 @@ def cmd_source_delta(_: argparse.Namespace) -> int:
     return 0
 
 
-def cmd_source_coverage(_: argparse.Namespace) -> int:
+def cmd_source_coverage(args: argparse.Namespace) -> int:
+    """Report covered vs uncovered sources; optional path filter for Phase 4 gates."""
     rows = load_jsonl(MANIFEST)
     if not rows:
         # fall back to live scan
         rows = build_manifest_rows(accept_covered=True)
+
+    path_filter = (getattr(args, "path", None) or "").strip()
+    if path_filter:
+        rows = [r for r in rows if path_filter in str(r.get("path") or "")]
+
     covered = [r for r in rows if r.get("covered_by")]
     open_rows = [r for r in rows if not r.get("covered_by")]
-    print(f"Total sources: {len(rows)}")
+    scope = f" (filter: {path_filter!r})" if path_filter else ""
+    print(f"Total sources{scope}: {len(rows)}")
     print(f"Covered: {len(covered)}")
     print(f"Uncovered: {len(open_rows)}")
-    print("Covered detail:")
-    for row in covered:
-        print(f"  {row['path']}")
-        for wp in row.get("covered_by") or []:
-            print(f"    <- {wp}")
+
+    uncovered_only = bool(getattr(args, "uncovered_only", False))
+    list_limit = int(getattr(args, "limit", 0) or 0)
+
+    if uncovered_only:
+        print("Uncovered paths:")
+        to_show = open_rows if list_limit <= 0 else open_rows[:list_limit]
+        for row in to_show:
+            print(f"  {row['path']}")
+        if list_limit > 0 and len(open_rows) > list_limit:
+            print(f"  ... and {len(open_rows) - list_limit} more")
+    elif not path_filter:
+        # Full-vault default: covered detail (legacy behavior)
+        print("Covered detail:")
+        to_show = covered if list_limit <= 0 else covered[:list_limit]
+        for row in to_show:
+            print(f"  {row['path']}")
+            for wp in row.get("covered_by") or []:
+                print(f"    <- {wp}")
+        if list_limit > 0 and len(covered) > list_limit:
+            print(f"  ... and {len(covered) - list_limit} more")
+    else:
+        # Scoped filter: compact summary; optional uncovered list with --uncovered-only
+        if open_rows and getattr(args, "verbose", False):
+            print("Uncovered paths:")
+            to_show = open_rows if list_limit <= 0 else open_rows[:list_limit]
+            for row in to_show:
+                print(f"  {row['path']}")
+            if list_limit > 0 and len(open_rows) > list_limit:
+                print(f"  ... and {len(open_rows) - list_limit} more")
+        elif covered and getattr(args, "verbose", False):
+            print("Covered detail:")
+            for row in covered:
+                print(f"  {row['path']}")
+                for wp in row.get("covered_by") or []:
+                    print(f"    <- {wp}")
+
+    if bool(getattr(args, "require_zero", False)) and open_rows:
+        print(f"FAIL: {len(open_rows)} uncovered source(s) in scope (require-zero)")
+        return 1
+    if bool(getattr(args, "require_zero", False)):
+        print("OK: zero uncovered in scope")
     return 0
 
 
@@ -1613,7 +1657,36 @@ def build_parser() -> argparse.ArgumentParser:
 
     sub.add_parser("source-lint", help="Validate source manifest consistency")
     sub.add_parser("source-delta", help="Show disk vs manifest deltas")
-    sub.add_parser("source-coverage", help="Show wiki coverage of sources")
+    cov = sub.add_parser(
+        "source-coverage",
+        help="Show wiki coverage of sources (optional path filter for Phase 4 zero-uncovered gates)",
+    )
+    cov.add_argument(
+        "--path",
+        default="",
+        help="Substring filter on source path (e.g. chspurgeon-sermons, mhenry-complete/volume-1, chspurgeon-fcb/january)",
+    )
+    cov.add_argument(
+        "--uncovered-only",
+        action="store_true",
+        help="List uncovered paths instead of covered detail",
+    )
+    cov.add_argument(
+        "--require-zero",
+        action="store_true",
+        help="Exit 1 if any uncovered files remain in scope (campaign gate)",
+    )
+    cov.add_argument(
+        "--limit",
+        type=int,
+        default=0,
+        help="Max paths to print in detail lists (0 = no limit)",
+    )
+    cov.add_argument(
+        "--verbose",
+        action="store_true",
+        help="With --path, also print uncovered (or covered) path detail",
+    )
 
     search = sub.add_parser("search-catalog", help="Search wiki/catalog.jsonl")
     search.add_argument("--query", default="", help="Search text (optional if a filter is set)")

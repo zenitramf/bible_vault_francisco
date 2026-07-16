@@ -67,4 +67,16 @@ python3 .tools/scripts/wiki_tool.py source-coverage
 python3 .tools/scripts/wiki_tool.py source-delta
 ```
 
-Most of the commentary corpus will remain uncovered by design. Coverage tracks intentional synthesis, not bulk ingestion.
+Outside Phase 4, sparse coverage of the commentary corpus is expected: coverage tracks intentional synthesis, not bulk ingestion.
+
+### Phase 4 full-coverage gates
+
+Phase 4 requires **zero uncovered content files** in each remaining corpus (sermons, Complete, ToD, FCB, MAE). After wiki links land for a volume or month:
+
+```bash
+python3 .tools/scripts/wiki_tool.py source-scan --update --accept-covered
+python3 .tools/scripts/wiki_tool.py source-coverage --path chspurgeon-sermons/volume-12 --require-zero
+python3 .tools/scripts/wiki_tool.py source-coverage --path chspurgeon-fcb/march --uncovered-only
+```
+
+Commit once when the tracker sub-row flips to `reviewed` and its path-scoped gate passes.

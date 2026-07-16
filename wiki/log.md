@@ -113,3 +113,11 @@ append_only: true
 ## [2026-07-16] campaign | Phase 4 plan — full remaining-corpus coverage
 
 - Tracker and source-review-plan now define Phase 4 for 100% wiki coverage of chspurgeon-sermons, mhenry-complete, chspurgeon-tod, chspurgeon-fcb, chspurgeon-mae (~5.5k uncovered files). Subphases 4.0–4.7 with zero-uncovered gates; former QA polish moved to Phase 5. No content ingest yet.
+
+## [2026-07-16] campaign | Phase 4.0 operating gate
+
+- Re-ran source-scan --update --accept-covered: 6836 source docs, 1294 covered vault-wide.
+- Phase 4 corpus baseline (files / covered / uncovered): sermons 3536/27/3509; mhenry-complete 1195/42/1153; fcb 368/6/362; mae 366/7/359; tod 178/19/159. Total 5643 / 101 / 5542.
+- Extended wiki_tool.py source-coverage with --path, --uncovered-only, --require-zero, --limit, --verbose for zero-uncovered gates per volume/month/corpus.
+- Documented gates in schema/command-reference.md and schema/workflow-examples.md; updated tracker 4.0 rows to reviewed and recorded measured baseline table.
+- Commit-per-subphase discipline: one commit when each tracker sub-row flips to reviewed after path-scoped --require-zero passes. No content ingest in 4.0.

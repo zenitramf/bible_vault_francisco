@@ -26,7 +26,10 @@ python3 .tools/scripts/wiki_tool.py <command> [options]
 | `source-scan --update --accept-covered` | Also mark coverage from wiki backlinks |
 | `source-lint` | Manifest consistency and covered-without-links failures |
 | `source-delta` | Sources on disk missing from the manifest |
-| `source-coverage` | Covered vs uncovered summary |
+| `source-coverage` | Covered vs uncovered summary (full vault or path-scoped) |
+| `source-coverage --path PREFIX` | Filter by source path substring (Phase 4 corpus/volume gates) |
+| `source-coverage --path PREFIX --require-zero` | Exit 1 if any uncovered remain in scope |
+| `source-coverage --path PREFIX --uncovered-only` | List only uncovered paths in scope |
 | `search-catalog --query "text"` | Ranked search over the enriched catalog (title, tags, refs, sources) |
 | `search-catalog --tag TAG` | Filter to pages with a thematic tag |
 | `search-catalog --ref "mt 6"` | Filter/boost by Bible reference or book |
@@ -45,6 +48,34 @@ python3 .tools/scripts/wiki_tool.py search-catalog --tag prayer --type "Biblical
 ```
 
 Hits print a score, match reasons, and derived refs when present.
+
+### Phase 4 coverage gates (`source-coverage`)
+
+After each Phase 4 sub-row (volume, volume-band, or calendar month), refresh coverage then assert zero uncovered in that path scope:
+
+```bash
+# Refresh covered_by from wiki source links
+python3 .tools/scripts/wiki_tool.py source-scan --update --accept-covered
+
+# Per-corpus / volume / month checks (exit 0 only when uncovered = 0)
+python3 .tools/scripts/wiki_tool.py source-coverage --path mhenry-complete/volume-1 --require-zero
+python3 .tools/scripts/wiki_tool.py source-coverage --path chspurgeon-tod/volume-1 --require-zero
+python3 .tools/scripts/wiki_tool.py source-coverage --path chspurgeon-sermons/volume-1 --require-zero
+python3 .tools/scripts/wiki_tool.py source-coverage --path chspurgeon-fcb/january --require-zero
+python3 .tools/scripts/wiki_tool.py source-coverage --path chspurgeon-mae/january --require-zero
+
+# Full Phase 4 corpus gates
+python3 .tools/scripts/wiki_tool.py source-coverage --path chspurgeon-sermons --require-zero
+python3 .tools/scripts/wiki_tool.py source-coverage --path mhenry-complete --require-zero
+python3 .tools/scripts/wiki_tool.py source-coverage --path chspurgeon-fcb --require-zero
+python3 .tools/scripts/wiki_tool.py source-coverage --path chspurgeon-mae --require-zero
+python3 .tools/scripts/wiki_tool.py source-coverage --path chspurgeon-tod --require-zero
+
+# Debug remaining gaps
+python3 .tools/scripts/wiki_tool.py source-coverage --path mhenry-complete/volume-1 --uncovered-only --limit 20
+```
+
+`--path` is a substring match on the vault-relative source path. Mark a tracker row `reviewed` only when the matching `--require-zero` check passes. Commit once per completed sub-row (or volume-band).
 
 ## `audit_public.py`
 

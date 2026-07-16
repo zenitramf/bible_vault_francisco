@@ -12,7 +12,7 @@ source_count: 0
 
 Update this page whenever a section is started or finished. Status values: `pending`, `in_progress`, `reviewed`.
 
-**Phase 3 complete (2026-07-16):** all subphases 3.1–3.8 marked reviewed. Phase 4+ remains optional QA polish.
+**Phase 3 complete (2026-07-16):** all subphases 3.1–3.8 marked reviewed. **Phase 4.0 operating gate reviewed** (baseline + coverage helper); 4.1–4.7 full-corpus coverage remains.
 
 ## Phase 0 — Operating system
 
@@ -167,18 +167,30 @@ Track promotion status as source slices land. Status values here may be `seed` /
 
 **Goal:** every content file under the five remaining corpora has at least one wiki `covered_by` link (passage page, source-note, and/or concept claim). Phase 3 left these intentionally thin; Phase 4 finishes **full source → wiki** ingest for tracker-visible completion.
 
-**Baseline (content `.md`, excl. index/LICENSE; ~2026-07-16):**
+**Baseline (content `.md` via `source-manifest.jsonl`, excl. `index.md`; measured 2026-07-16 after `source-scan --update --accept-covered`):**
 
 | Corpus | Files | Covered | Uncovered | Target |
 |---|---:|---:|---:|---|
-| `chspurgeon-sermons` | 3,536 | ~27 | ~3,509 | 100% covered |
-| `mhenry-complete` | 1,189 | ~42 | ~1,147 | 100% covered |
-| `chspurgeon-fcb` | 366 | ~6 | ~360 | 100% covered |
-| `chspurgeon-mae` | 366 | ~7 | ~359 | 100% covered |
-| `chspurgeon-tod` | 171 | ~19 | ~152 | 100% covered |
-| **Phase 4 total** | **~5,628** | **~101** | **~5,527** | **0 uncovered** |
+| `chspurgeon-sermons` | 3,536 | 27 | 3,509 | 100% covered |
+| `mhenry-complete` | 1,195 | 42 | 1,153 | 100% covered |
+| `chspurgeon-fcb` | 368 | 6 | 362 | 100% covered |
+| `chspurgeon-mae` | 366 | 7 | 359 | 100% covered |
+| `chspurgeon-tod` | 178 | 19 | 159 | 100% covered |
+| **Phase 4 total** | **5,643** | **101** | **5,542** | **0 uncovered** |
 
-**Completion rule:** a section is `reviewed` only when `wiki_tool.py source-scan` / coverage shows **zero uncovered content files** in that section’s path scope. Commit once per completed sub-row or volume-band.
+Whole vault at baseline: 6,836 source docs, 1,294 covered (includes already-complete `mhenry-concise` and personal notes).
+
+**Completion rule:** a section is `reviewed` only when `wiki_tool.py source-coverage --path <scope> --require-zero` exits 0 (after `source-scan --update --accept-covered`). Commit once per completed sub-row or volume-band.
+
+**Coverage helper (Phase 4 gate):**
+
+```bash
+python3 .tools/scripts/wiki_tool.py source-scan --update --accept-covered
+python3 .tools/scripts/wiki_tool.py source-coverage --path mhenry-complete/volume-1 --require-zero
+python3 .tools/scripts/wiki_tool.py source-coverage --path chspurgeon-tod --uncovered-only --limit 20
+```
+
+See `schema/command-reference.md` (Phase 4 coverage gates).
 
 **Ingest shapes (full coverage without empty stubs):**
 
@@ -194,9 +206,10 @@ Track promotion status as source slices land. Status values here may be `seed` /
 
 | Section | Status | Notes |
 |---|---|---|
-| Coverage baseline recorded | pending | Re-run `source-scan`; record uncovered counts in log |
-| Coverage helper command documented | pending | e.g. filter manifest by corpus path for zero-uncovered checks |
-| Commit-per-subphase discipline | pending | One git commit when each tracker row below flips to `reviewed` |
+| Coverage baseline recorded | reviewed | 2026-07-16: 5,643 Phase-4 files, 101 covered, 5,542 uncovered (see table above + log) |
+| Coverage helper command documented | reviewed | `source-coverage --path … --require-zero` / `--uncovered-only` in wiki_tool + command-reference |
+| Commit-per-subphase discipline | reviewed | One git commit when each tracker row below flips to `reviewed` and its path gate is zero |
+| **4.0 operating gate** | **reviewed** | Baseline + helper + commit discipline ready for 4.1+ |
 
 ### 4.1 — Matthew Henry Complete (full chapter coverage)
 
