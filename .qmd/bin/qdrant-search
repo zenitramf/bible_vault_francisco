@@ -1,15 +1,9 @@
 #!/usr/bin/env bash
-# Multi-channel Qdrant search: wiki BM25 + sources E5.
-# Embedding compute runs on Qdrant Cloud Inference (not local ONNX).
+# Multi-channel Qdrant search: wiki BM25 + sources E5 (Cloud Inference).
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
-VENV="${ROOT}/.tools/venv-qdrant"
-
-if [[ ! -x "${VENV}/bin/python" ]]; then
-  printf 'Missing %s — create with:\n  python3 -m venv %s && %s/bin/pip install -r %s/.tools/requirements-qdrant.txt\n' \
-    "${VENV}/bin/python" "${VENV}" "${VENV}" "${ROOT}" >&2
-  exit 1
-fi
+# shellcheck source=/dev/null
+source "${ROOT}/.tools/scripts/qdrant-env.sh"
 
 if (( $# == 0 )); then
   printf 'Usage: %s <query> [--channel wiki|sources|both] [--json] …\n' "$0" >&2
@@ -21,4 +15,4 @@ if [[ -z "${QCLOUD_BIBLE_CLUSTER_API_KEY:-${QDRANT_API_KEY:-}}" ]]; then
   exit 2
 fi
 
-exec "${VENV}/bin/python" "${ROOT}/.tools/scripts/qdrant_search.py" "$@"
+qdrant_exec "${ROOT}/.tools/scripts/qdrant_search.py" "$@"

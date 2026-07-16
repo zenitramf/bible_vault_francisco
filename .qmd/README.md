@@ -68,17 +68,18 @@ Local QMD vectors are constrained on this host. Hosted collections live on Qdran
 | `sources_e5` | Dense 384-d (`multilingual-e5-small`) | Source semantic search |
 
 ```bash
-# venv once: python3 -m venv .tools/venv-qdrant && .tools/venv-qdrant/bin/pip install -r .tools/requirements-qdrant.txt
-python3 .tools/scripts/qdrant_bootstrap.py   # empty collections + indexes
+# uv manages .tools/venv-qdrant from .tools/pyproject.toml (+ uv.lock)
+.qmd/bin/qdrant-setup                        # or: UV_PROJECT_ENVIRONMENT=.tools/venv-qdrant uv sync --directory .tools
+.tools/venv-qdrant/bin/python .tools/scripts/qdrant_bootstrap.py
 .qmd/bin/qdrant-wiki-upsert                  # sparse BM25 → wiki_bm25
 .qmd/bin/qdrant-wiki-search "prayer"         # search wiki
-.qmd/bin/e5-encode self-test                 # local multilingual-e5-small (ONNX)
 .qmd/bin/qdrant-sources-upsert               # dense E5 → sources_e5 (mhenry-concise pilot)
 .qmd/bin/qdrant-sources-search "how to pray" # dense source search
 .qmd/bin/qdrant-search "prayer" --channel both --json   # agent multi-channel
+# optional local ONNX helper: .qmd/bin/e5-encode self-test  (uv sync --extra e5-local)
 ```
 
-Requires `QCLOUD_BIBLE_CLUSTER_API_KEY`. **Embeddings run on Qdrant Cloud Inference**
+Requires `uv` on PATH and `QCLOUD_BIBLE_CLUSTER_API_KEY`. **Embeddings run on Qdrant Cloud Inference**
 (`intfloat/multilingual-e5-small`, `Qdrant/bm25`); hermes only chunks + upserts/queries.
 
 ## Recommended agent retrieval order

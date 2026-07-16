@@ -1,11 +1,8 @@
-# Qdrant Cloud tooling — embeddings via Cloud Inference (not local ONNX/GPU).
-# Install into a dedicated venv:
-#   python3 -m venv .tools/venv-qdrant
-#   .tools/venv-qdrant/bin/pip install -r .tools/requirements-qdrant.txt
+# Deprecated for install: use uv + .tools/pyproject.toml instead.
+#
+#   uv sync --directory .tools
+#   # env path: .tools/venv-qdrant  (UV_PROJECT_ENVIRONMENT)
+#
+# Kept as a human-readable dependency list / fallback:
+#   uv pip install --python .tools/venv-qdrant/bin/python -r .tools/requirements-qdrant.txt
 qdrant-client>=1.12
-# Optional offline helpers (e5_embed.py self-test only; not used by upsert/search):
-# fastembed>=0.4
-# onnxruntime>=1.17
-# numpy>=1.26
-# tokenizers>=0.19
-# huggingface_hub>=0.23

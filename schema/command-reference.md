@@ -80,17 +80,24 @@ See also `.qmd/README.md` for collections, path normalization, and models policy
 
 ### Qdrant Cloud (hosted vectors)
 
-Requires `QCLOUD_BIBLE_CLUSTER_API_KEY`. Details: `.qmd/qdrant-cloud.md`.
+Requires `uv` on PATH and `QCLOUD_BIBLE_CLUSTER_API_KEY`. Details: `.qmd/qdrant-cloud.md`.
 
 | Script | Purpose |
 |---|---|
+| `.qmd/bin/qdrant-setup` | `uv sync` → `.tools/venv-qdrant` from `.tools/pyproject.toml` |
 | `.tools/scripts/qdrant_bootstrap.py` | Ensure empty `wiki_bm25` + `sources_e5` + payload indexes |
 | `.qmd/bin/qdrant-wiki-upsert` | Sparse BM25 upsert of wiki pages |
 | `.qmd/bin/qdrant-wiki-search` | Sparse wiki search |
-| `.qmd/bin/e5-encode` | Local multilingual-e5-small (ONNX) encode / self-test |
+| `.qmd/bin/e5-encode` | Optional local E5 ONNX (needs `uv sync --extra e5-local`) |
 | `.qmd/bin/qdrant-sources-upsert` | Dense E5 upsert (default corpus: mhenry-concise) |
 | `.qmd/bin/qdrant-sources-search` | Dense sources search (vault-scoped) |
 | `.qmd/bin/qdrant-search` | Multi-channel agent search (wiki and/or sources) |
+
+```bash
+.qmd/bin/qdrant-setup
+# or: UV_PROJECT_ENVIRONMENT=.tools/venv-qdrant uv sync --directory .tools
+```
+
 
 ```bash
 .qmd/bin/update-safe

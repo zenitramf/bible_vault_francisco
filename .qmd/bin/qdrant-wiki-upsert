@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
-# Upsert wiki pages into Qdrant wiki_bm25 (sparse BM25).
+# Upsert wiki pages into Qdrant wiki_bm25 (Cloud Inference BM25).
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
-VENV="${ROOT}/.tools/venv-qdrant"
-if [[ ! -x "${VENV}/bin/python" ]]; then
-  printf 'Missing %s — create with:\n  python3 -m venv %s && %s/bin/pip install -r %s/.tools/requirements-qdrant.txt\n' \
-    "${VENV}/bin/python" "${VENV}" "${VENV}" "${ROOT}" >&2
-  exit 1
+# shellcheck source=/dev/null
+source "${ROOT}/.tools/scripts/qdrant-env.sh"
+
+if [[ -z "${QCLOUD_BIBLE_CLUSTER_API_KEY:-${QDRANT_API_KEY:-}}" ]]; then
+  printf 'Missing QCLOUD_BIBLE_CLUSTER_API_KEY (or QDRANT_API_KEY).\n' >&2
+  exit 2
 fi
-exec "${VENV}/bin/python" "${ROOT}/.tools/scripts/qdrant_wiki_upsert.py" "$@"
+
+qdrant_exec "${ROOT}/.tools/scripts/qdrant_wiki_upsert.py" "$@"

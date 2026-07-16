@@ -1,15 +1,22 @@
 #!/usr/bin/env bash
-# Local Multilingual E5 Small encoder (ONNX). See e5_embed.py.
+# Optional local Multilingual E5 Small encoder (ONNX). Not used by Qdrant upsert/search.
+# Requires: uv sync --directory .tools --extra e5-local
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
-VENV="${ROOT}/.tools/venv-qdrant"
-if [[ ! -x "${VENV}/bin/python" ]]; then
-  printf 'Missing %s — create with:\n  python3 -m venv %s && %s/bin/pip install -r %s/.tools/requirements-qdrant.txt\n' \
-    "${VENV}/bin/python" "${VENV}" "${VENV}" "${ROOT}" >&2
-  exit 1
-fi
+# shellcheck source=/dev/null
+source "${ROOT}/.tools/scripts/qdrant-env.sh"
+
 if (( $# == 0 )); then
   printf 'Usage: %s passage|query|self-test|info ...\n' "$0" >&2
   exit 2
 fi
-exec "${VENV}/bin/python" "${ROOT}/.tools/scripts/e5_embed.py" "$@"
+
+# Ensure base env, then optional extra if self-test needs it
+qdrant_ensure_env || exit 1
+if [[ "${1:-}" == "self-test" || "${1:-}" == "passage" || "${1:-}" == "query" ]]; then
+  export UV_PROJECT_ENVIRONMENT="$(qdrant_venv_path)"
+  uv sync --directory "${ROOT}/.tools" --extra e5-local --no-dev 2>/dev/null \
+    || uv sync --directory "${ROOT}/.tools" --extra e5-local --no-dev
+fi
+
+exec "$(qdrant_python)" "${ROOT}/.tools/scripts/e5_embed.py" "$@"

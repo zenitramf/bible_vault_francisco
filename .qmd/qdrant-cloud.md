@@ -1,7 +1,7 @@
 ---
 type: Operations Reference
 title: Qdrant Cloud (Bible Vault)
-description: Hosted vector layer — sparse wiki BM25 and dense sources E5; local embeddings, vault-linked metadata.
+description: Hosted vector layer — sparse wiki BM25 and dense sources E5 via Cloud Inference; vault-linked metadata.
 tags: [okf, tooling, retrieval]
 updated: 2026-07-16
 status: developing
@@ -53,18 +53,24 @@ Management (`qcloud` CLI) is separate from the database API key.
 
 - `source_corpus`, `content_kind`, `language`, optional `bible_*`, `chunk_index`
 
-## Bootstrap + local venv
+## Bootstrap with uv
 
 ```bash
 export QCLOUD_BIBLE_CLUSTER_API_KEY=...   # already set on hermes if configured
 
-# One-time tooling env (gitignored)
-python3 -m venv .tools/venv-qdrant
-.tools/venv-qdrant/bin/pip install -r .tools/requirements-qdrant.txt
+# Tooling env (gitignored .tools/venv-qdrant) — uv manages install from .tools/pyproject.toml
+.qmd/bin/qdrant-setup
+# equivalent:
+#   UV_PROJECT_ENVIRONMENT=.tools/venv-qdrant uv sync --directory .tools
 
-python3 .tools/scripts/qdrant_bootstrap.py
-# or: .tools/venv-qdrant/bin/python .tools/scripts/qdrant_bootstrap.py
+# Optional: empty collections + indexes
+UV_PROJECT_ENVIRONMENT=.tools/venv-qdrant uv run --directory .tools \
+  python ../.tools/scripts/qdrant_bootstrap.py
+# or after setup:
+.tools/venv-qdrant/bin/python .tools/scripts/qdrant_bootstrap.py
 ```
+
+Qdrant CLIs (`.qmd/bin/qdrant-*`) call `uv sync` automatically if the env is missing.
 
 ## Wiki sparse (live)
 
