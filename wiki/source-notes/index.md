@@ -80,6 +80,7 @@
 * [[wiki/source-notes/Matthew Henry Concise on Zephaniah|Matthew Henry Concise on Zephaniah]] - Book-level digest of Matthew Henry Concise Zephaniah (3 chapters) for the OT passage atlas (Phase 3.2).
 * [[wiki/source-notes/Pastor Andy Doss y Merced Baptist Church|Pastor Andy Doss y Merced Baptist Church]] - Brief Spanish note on a local sermon series comparing the Holy Spirit to oil (anointing).
 * [[wiki/source-notes/Spurgeon Faith's Checkbook Theme Enrichment|Spurgeon Faith's Checkbook Theme Enrichment]] - Selective month-sample enrichment from Spurgeon daily devotionals for concept mesh (Phase 3.6). Not a calendar mirror.
+* [[wiki/source-notes/Spurgeon Faith's Checkbook — April|Spurgeon Faith's Checkbook — April]] - Phase 4 full-calendar month source-note for Faith's Checkbook April: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — February|Spurgeon Faith's Checkbook — February]] - Phase 4 full-calendar month source-note for Faith's Checkbook February: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — Front Matter|Spurgeon Faith's Checkbook — Front Matter]] - Phase 4 coverage of FCB root preface/verses files outside monthly folders.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — January|Spurgeon Faith's Checkbook — January]] - Phase 4 full-calendar month source-note for Faith's Checkbook January: every daily entry file listed.
