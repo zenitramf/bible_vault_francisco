@@ -399,3 +399,7 @@ append_only: true
 - Added wiki_tool.py tsk CLI (--ref/--chapter, markdown|plain|json).
 - Source note wiki/source-notes/Treasury of Scripture Knowledge.md; tool-only integration (no mass passage injection).
 - Documented in AGENTS.md, command-reference, workflow-examples, llm-wiki-query skill.
+
+## [2026-07-17] ingest | ¿De Quién Es Tu Dinero? — Ringo Ayala
+
+- Moved raw/De Quién Es Tu Dinero - Ringo Ayala.md → sources/transcripts/ (git mv, unchanged). Created wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala.md (7 core claims, 11 Bible refs, status seed). Updated wiki/concepts/Stewardship.md (source_count 4→5; new 1 Chr 29:11–14, Col 1:16, Dt 8:18, 1 Cor 4:2, Ps 50:10–12, Rom 14:12; new 2 open questions). Updated wiki/concepts/Faith.md (10→11; +1 stewardship-faith claim). Updated wiki/concepts/Worship.md (7→8; +1 giving-as-worship claim). raw/index.md emptied; sources/transcripts/index.md seeded (first transcript). Build/lint/source-lint/lint_wiki/audit_public all pass. Manifest coverage 6837→6838.

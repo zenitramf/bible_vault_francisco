@@ -1,18 +1,18 @@
 ---
 type: Biblical Concept
 title: Stewardship
-description: Entrusted life, ministry, and goods—first giving oneself to the Lord, then faithful management and generous care for others (2 Cor 8; 1 Tim 1:12).
-tags: [discipleship, church, pastoral-ministry, christian-life]
+description: Entrusted life, ministry, and goods—first giving oneself to the Lord, then faithful management and generous care for others (2 Cor 8; 1 Tim 1:12; 1 Chr 29:14).
+tags: [discipleship, church, pastoral-ministry, christian-life, worship]
 status: reviewed
-updated: 2026-07-16
-source_count: 4
+updated: 2026-07-17
+source_count: 5
 ---
 
 # Stewardship
 
 ## Summary
 
-Sources present stewardship as faithful handling of what God entrusts: Macedonian generosity begins with giving themselves to the Lord; grace is the root of good works and charity; ministry is a stewardship committed by God with an expectation of faithfulness; considering the poor is blessed. Spurgeon's church batch and the 1 Timothy 1:12 devotional supply ministry-stewardship language; Henry's 2 Corinthians 8 and FCB samples supply material generosity.
+Sources present stewardship as faithful handling of what God entrusts: Macedonian generosity begins with giving themselves to the Lord; grace is the root of good works and charity; ministry is a stewardship committed by God with an expectation of faithfulness; considering the poor is blessed. Spurgeon's church batch and the 1 Timothy 1:12 devotional supply ministry-stewardship language; Henry's 2 Corinthians 8 and FCB samples supply material generosity; Ringo Ayala's Spanish-language sermon on "De quién es tu dinero" grounds stewardship in God's ownership by creation, preservation, and provision, with the believer as steward and giving as a return of what God first gave.
 
 ## Core claims
 
@@ -22,6 +22,9 @@ Sources present stewardship as faithful handling of what God entrusts: Macedonia
 - Blessed is the one who considers the poor; the Lord will deliver him in time of trouble. [[sources/commentaries_english/chspurgeon-fcb/january/january-22|Spurgeon, January 22]] [[wiki/source-notes/Spurgeon Faith's Checkbook Theme Enrichment|FCB theme enrichment]]
 
 - Though Christ was rich, he became poor for our sakes; the best arguments for Christian duties of giving are drawn from the grace and love of Christ. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-8#Verses 7–9|Matthew Henry Concise on 2 Corinthians 8]]
+- God owns everything by creation (Col 1:16), preservation, and provision (1 Chr 29:12; Dt 8:18); the believer is a steward, not an owner, and giving is the act of returning to God what He first gave—David's "de lo recibido de tu mano te damos" (1 Chr 29:14). [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala#14:15|Ringo Ayala on 1 Chr 29:14]] [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
+- Faithfulness, not equal amounts, is the required mark of stewardship (1 Cor 4:2): faithful in little and much, in abundance and trial; stewardship will be reviewed at the Bema (Rom 14:12) for time, health, gifts, family, service, opportunities, and resources. [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala#16:23|Ringo Ayala on 1 Cor 4:2]] [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala#19:25|Ringo Ayala on Rom 14:12]] [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
+- God is not needy and is not served by human hands as if He lacked anything (Ps 50:10–12); giving is therefore not a favor done to God but a privilege and grateful participation in His work. [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala#25:17|Ringo Ayala on Ps 50:10–12]] [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
 
 ## Agreements and tensions
 
@@ -35,6 +38,14 @@ Sources present stewardship as faithful handling of what God entrusts: Macedonia
 - 2 Corinthians 8
 - 1 Timothy 1:12
 - Psalm 41:1 (FCB sample)
+- 1 Chronicles 29:11–14 (God's ownership; "de lo recibido de tu mano te damos")
+- 1 Chronicles 29:12 (riches and glory proceed from God)
+- Psalm 24:1 (the earth and its fullness are the Lord's)
+- Colossians 1:16 (all things created by and for Christ)
+- Deuteronomy 8:18 (God gives the power to make wealth)
+- 1 Corinthians 4:2 (stewards must be found faithful)
+- Psalm 50:10–12 (God is not needy)
+- Romans 14:12 (each will give account to God)
 
 ## Related pages
 
@@ -48,6 +59,7 @@ Sources present stewardship as faithful handling of what God entrusts: Macedonia
 - [[wiki/source-notes/Spurgeon Theme Batch — Church and Pastoral Ministry|Church and Pastoral batch]]
 - [[wiki/source-notes/Devotional on 1 Timothy 1 12|Devotional on 1 Timothy 1:12]]
 - [[wiki/source-notes/Spurgeon Faith's Checkbook Theme Enrichment|FCB theme enrichment]]
+- [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
 
 ## Sources
 
@@ -55,8 +67,11 @@ Sources present stewardship as faithful handling of what God entrusts: Macedonia
 - [[sources/commentaries_english/chspurgeon-sermons/volume-60/sermon_3411|Spurgeon, Sermon 3411: Joining the Church]]
 - [[sources/personal-notes/Devotional on 1 Timothy 1_12|Devotional on 1 Timothy 1:12]]
 - [[sources/commentaries_english/chspurgeon-fcb/january/january-22|Spurgeon, Faith's Checkbook January 22]]
+- [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala (transcript)]]
 
 ## Open questions
 
 - How should later work relate stewardship of spiritual gifts (1 Cor 12; Rom 12) without inventing a full gifts taxonomy?
 - Should "consider the poor" receive a justice mesh to [[wiki/concepts/Justice|Justice]] next?
+- How should the Stewardship page treat the Latin American evangelical "mayordomía" framing (Ringo Ayala) alongside the Reformed/English stewardship language from Henry and Spurgeon without flattening either voice?
+- The Ayala sermon explicitly denies that giving affects salvation; should the Stewardship page add a "Giving is not salvific" line so the next reader does not have to mine the source-notes for that guard?

@@ -28,7 +28,7 @@ Live database view: [[wiki/concepts/index.base|Folder base]]. Static OKF list re
 * [[wiki/concepts/Salvation|Salvation]] - God's free grace in Christ, received by faith and not by works of the law (Acts 15:11; Rom 3–4; Eph 2).
 * [[wiki/concepts/Sin and the Fall|Sin and the Fall]] - Humanity's fall through temptation and transgression, bringing misery, exclusion from Eden, and the need of the promised Seed (Gen 3; Rom 3; Rom 5).
 * [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]] - The Christian life as a real war against the devil, principalities and powers, fought with spiritual weapons and the whole armor of God (Eph 6:10–18; 1 Pe 5:8–9; Jas 4:7; Mt 4:1–11).
-* [[wiki/concepts/Stewardship|Stewardship]] - Entrusted life, ministry, and goods—first giving oneself to the Lord, then faithful management and generous care for others (2 Cor 8; 1 Tim 1:12).
+* [[wiki/concepts/Stewardship|Stewardship]] - Entrusted life, ministry, and goods—first giving oneself to the Lord, then faithful management and generous care for others (2 Cor 8; 1 Tim 1:12; 1 Chr 29:14).
 * [[wiki/concepts/Suffering|Suffering]] - Affliction under God's hand—permitted trial, present groan, and hope of glory; not proof of hypocrisy (Job 1; Rom 8).
 * [[wiki/concepts/Surrender|Surrender]] - The whole-person yielding of the will to God — humiliation, acceptance, obedience, and Spirit-sensitivity — that the Bible presents as the only path to life and salvation (Jas 4:7; Ro 6:13; Mt 16:24–26; Ac 9:6).
 * [[wiki/concepts/Wisdom|Wisdom]] - God-given skill for living that outranks all earthly wealth; in its highest form, the personal Wisdom who is Christ (Pr 16:16; Pr 3:14; Pr 8:10–11, 19; Jb 28; Ps 119:98–100; Col 2:3).
