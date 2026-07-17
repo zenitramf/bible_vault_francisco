@@ -1,14 +1,11 @@
-# Dynamic index of wiki biblical concepts (pairs with index.md; does not replace it).
 filters:
   and:
-    - 'file.inFolder("wiki/concepts")'
-    - 'file.ext == "md"'
-    - 'file.name != "index.md"'
-    - 'type == "Biblical Concept"'
-
+    - file.inFolder("wiki/concepts")
+    - file.ext == "md"
+    - file.name != "index.md"
+    - type == "Biblical Concept"
 formulas:
-  maturity: 'if(status == "reviewed", "✅ Reviewed", if(status == "developing", "🔨 Developing", "🌱 Seed"))'
-
+  maturity: if(status == "reviewed", "✅ Reviewed", if(status == "developing", "🔨 Developing", "🌱 Seed"))
 properties:
   title:
     displayName: Title
@@ -24,10 +21,9 @@ properties:
     displayName: Updated
   formula.maturity:
     displayName: Maturity
-
 views:
   - type: table
-    name: "All concepts"
+    name: All concepts
     order:
       - file.name
       - formula.maturity
@@ -38,44 +34,40 @@ views:
     summaries:
       source_count: Sum
       file.name: Unique
-
   - type: table
-    name: "By status"
+    name: By status
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - file.name
       - tags
       - source_count
       - description
-    groupBy:
-      property: status
-      direction: ASC
-
   - type: table
-    name: "Developing"
+    name: Developing
     filters:
       and:
-        - 'status == "developing"'
+        - status == "developing"
     order:
       - file.name
       - tags
       - source_count
       - updated
       - description
-
   - type: table
-    name: "Lightly sourced"
+    name: Lightly sourced
     filters:
       and:
-        - 'source_count < 2'
+        - source_count < 2
     order:
       - file.name
       - status
       - source_count
       - tags
       - description
-
   - type: cards
-    name: "Browse cards"
+    name: Browse cards
     order:
       - file.name
       - formula.maturity

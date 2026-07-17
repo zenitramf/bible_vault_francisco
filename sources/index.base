@@ -1,11 +1,8 @@
-# Auto-generated counterpart to index.md in sources.
-# Pairs with the static OKF index.md; does not replace it.
 filters:
   and:
-    - 'file.inFolder("sources")'
-    - 'file.ext == "md"'
-    - 'file.name != "index.md"'
-
+    - file.inFolder("sources")
+    - file.ext == "md"
+    - file.name != "index.md"
 properties:
   title:
     displayName: Title
@@ -23,10 +20,9 @@ properties:
     displayName: Link title
   weight:
     displayName: Weight
-
 views:
   - type: table
-    name: "Contents"
+    name: Contents
     order:
       - file.name
       - title
@@ -36,31 +32,28 @@ views:
       - description
     summaries:
       file.name: Unique
-
   - type: table
-    name: "By book"
-    order:
-      - file.name
-      - title
-      - tags
-      - description
+    name: By book
     groupBy:
       property: bible_book_name
       direction: ASC
-
-  - type: table
-    name: "By type"
     order:
       - file.name
       - title
       - tags
       - description
+  - type: table
+    name: By type
     groupBy:
       property: type
       direction: ASC
-
+    order:
+      - file.name
+      - title
+      - tags
+      - description
   - type: cards
-    name: "Cards"
+    name: Cards
     order:
       - file.name
       - title
