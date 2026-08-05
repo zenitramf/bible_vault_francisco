@@ -403,3 +403,14 @@ append_only: true
 ## [2026-07-17] ingest | ¿De Quién Es Tu Dinero? — Ringo Ayala
 
 - Moved raw/De Quién Es Tu Dinero - Ringo Ayala.md → sources/transcripts/ (git mv, unchanged). Created wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala.md (7 core claims, 11 Bible refs, status seed). Updated wiki/concepts/Stewardship.md (source_count 4→5; new 1 Chr 29:11–14, Col 1:16, Dt 8:18, 1 Cor 4:2, Ps 50:10–12, Rom 14:12; new 2 open questions). Updated wiki/concepts/Faith.md (10→11; +1 stewardship-faith claim). Updated wiki/concepts/Worship.md (7→8; +1 giving-as-worship claim). raw/index.md emptied; sources/transcripts/index.md seeded (first transcript). Build/lint/source-lint/lint_wiki/audit_public all pass. Manifest coverage 6837→6838.
+
+## [2026-08-05] ingest | McGee Notes & Outlines Pastoral Epistles + Philemon
+
+- Staged cleaned full text: raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon.md (J. Vernon McGee Thru the Bible Notes & Outlines; PDF 1-2_Timothy-Titus-Philemon.pdf from Bible_LLM_Raw)
+- Added raw/mcgee-thru-the-bible/index.md and sources/commentaries_english/mcgee-thru-the-bible/index.md (promotion of chapter files still open)
+- Created wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon.md (status developing)
+- Thickened passage hubs with McGee claims + source_count 3: 1 Timothy 1, 1 Timothy 3, 2 Timothy 3, 2 Timothy 4, Titus 1, Titus 2, Philemon 1
+- Layered McGee claims onto wiki/concepts/Pastoral Ministry.md (source_count 5)
+- Maintenance: build (1408 catalog rows), source-scan --update --accept-covered (6837), source-lint pass, audit-public pass, doctor pass
+- Lint residual (pre-existing, not this ingest): 9 broken wikilinks to sources/personal-notes/Little Known Bible Heroes
+- Caveat: cleaned corpus remains in raw/ until split into immutable chapter files under sources/commentaries_english/mcgee-thru-the-bible/

@@ -3,9 +3,9 @@ type: Passage Study
 title: 1 Timothy 3
 description: The qualifications and behaviour of gospel bishops. (1–7). And of deacons and their wives. (8–13). The reason of writing about these, and other church affairs. (14–16).
 tags: [pastoral-ministry, church, discipleship]
-status: seed
-updated: 2026-07-16
-source_count: 2
+status: developing
+updated: 2026-08-05
+source_count: 3
 bible_book_key: 54
 bible_book_name: "1 Timothy"
 ---
@@ -14,7 +14,7 @@ bible_book_name: "1 Timothy"
 
 ## Summary
 
-Matthew Henry Concise on 1 Timothy 3: The qualifications and behaviour of gospel bishops. (1–7). And of deacons and their wives. (8–13). The reason of writing about these, and other church affairs. (14–16).
+Matthew Henry Concise on 1 Timothy 3: The qualifications and behaviour of gospel bishops. (1–7). And of deacons and their wives. (8–13). The reason of writing about these, and other church affairs. (14–16). McGee adds that elder and bishop name the same person (person vs. office), lists positive and negative character qualifications, and reads 3:15–16 as the local church’s book of order and a primitive creed of the mystery of godliness.
 
 ## Core claims
 
@@ -22,12 +22,14 @@ Matthew Henry Concise on 1 Timothy 3: The qualifications and behaviour of gospel
 - The deacons were at first appointed to distribute the charity of the church, and to manage its concerns, yet pastors and evangelists were among them. The deacons had a great trust reposed in them. [[sources/commentaries_english/mhenry-concise/1-timothy/chapter-3#Verses 8–13|Matthew Henry Concise on 1 Timothy 3]]
 - The church is the house of God; he dwells there. The church holds forth the Scripture and the doctrine of Christ, as a pillar holds forth a proclamation. [[sources/commentaries_english/mhenry-concise/1-timothy/chapter-3#Verses 14–16|Matthew Henry Concise on 1 Timothy 3]]
 - In this chapter our apostle treats of church-officers. He specifies, I. The qualifications of a person to be admitted to the office of a bishop, 1Ti 3:1-7. II. The qualifications of deacons (1Ti 3:8-10), and of their… [[sources/commentaries_english/mhenry-complete/volume-6/1-timothy/chapter-3|Matthew Henry Complete on 1 Timothy 3]]
+- Elder (*presbuteros*) names the person and bishop (*episkopos*) the office—the same person; positive qualifications include one wife, calm temperance, seriousness, orderly life, and aptitude to teach; negative ones bar drunken conduct, pugnaciousness, covetousness, and contentiousness. [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#A. Requirements for elders, vv. 1–7|McGee on 1 Timothy 3:1–7]]
+- The man is the same in church as in his home—neither dictator nor weakling; a novice must not be appointed lest pride blind him; he must have a good testimony outside. [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#A. Requirements for elders, vv. 1–7|McGee on 1 Timothy 3:4–7]]
+- Deacons are tested ministers/servants holding the mystery of the faith in a pure conscience; their wives must not be gossips; a deacon who serves well gains boldness in witnessing. [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#B. Requirements for deacons, vv. 8–13|McGee on 1 Timothy 3:8–13]]
+- This letter is the book of church order for the local church in Paul’s absence (3:15); 3:16 is likely a primitive creed on the mystery of godliness, set in contrast to the apostasy of chapter 4. [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#C. Report of Paul to Timothy, vv. 14–16|McGee on 1 Timothy 3:14–16]]
 
 ## Agreements and tensions
 
-Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
-
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1). McGee agrees with Henry that bishop/elder character and household management are central; he states elder and bishop are the same person while noting some good men disagree. Henry Concise, Henry Complete, and McGee Notes & Outlines now share this hub.
 
 ## Biblical passages
 
@@ -36,7 +38,7 @@ Primary scope: 1 Timothy 3 (full chapter).
 ## Related pages
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
-
+- [[wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon|McGee Notes and Outlines on Pastoral Epistles and Philemon]]
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -48,7 +50,8 @@ Primary scope: 1 Timothy 3 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-timothy/chapter-3|Matthew Henry Concise, 1 Timothy 3]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-timothy/chapter-3|Matthew Henry Complete on 1 Timothy 3]]
+- [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon|J. Vernon McGee, Notes & Outlines: 1–2 Timothy, Titus, Philemon]]
 
 ## Open questions
 
-- Which Complete-commentary or Spurgeon materials should next thicken the hub claims of this chapter?
+- How should McGee’s elder/bishop identity claim be weighed against later denominational polity readings already flagged on Pastoral Ministry?

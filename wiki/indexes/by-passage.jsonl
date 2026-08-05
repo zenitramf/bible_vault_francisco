@@ -123,7 +123,7 @@
 {"book_key": 52, "count": 1, "key": "1th 3", "kind": "ref", "pages": ["wiki/passages/1 Thessalonians 3.md"]}
 {"book_key": 52, "count": 1, "key": "1th 4", "kind": "ref", "pages": ["wiki/passages/1 Thessalonians 4.md"]}
 {"book_key": 52, "count": 1, "key": "1th 5", "kind": "ref", "pages": ["wiki/passages/1 Thessalonians 5.md"]}
-{"book_key": 54, "count": 3, "key": "1ti 1", "kind": "ref", "pages": ["wiki/passages/1 Timothy 1.md", "wiki/questions/What Sustains Christian Ministry.md", "wiki/source-notes/Devotional on 1 Timothy 1 12.md"]}
+{"book_key": 54, "count": 4, "key": "1ti 1", "kind": "ref", "pages": ["wiki/passages/1 Timothy 1.md", "wiki/questions/What Sustains Christian Ministry.md", "wiki/source-notes/Devotional on 1 Timothy 1 12.md", "wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon.md"]}
 {"book_key": 54, "count": 1, "key": "1ti 1:11-17", "kind": "ref", "pages": ["wiki/concepts/Christ-Centered Ministry.md"]}
 {"book_key": 54, "count": 4, "key": "1ti 1:12", "kind": "ref", "pages": ["wiki/concepts/Stewardship.md", "wiki/passages/1 Timothy 1 12.md", "wiki/questions/What Sustains Christian Ministry.md", "wiki/source-notes/Devotional on 1 Timothy 1 12.md"]}
 {"book_key": 54, "count": 1, "key": "1ti 1:17", "kind": "ref", "pages": ["wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala.md"]}
@@ -247,10 +247,12 @@
 {"book_key": 53, "count": 1, "key": "2th 1", "kind": "ref", "pages": ["wiki/passages/2 Thessalonians 1.md"]}
 {"book_key": 53, "count": 1, "key": "2th 2", "kind": "ref", "pages": ["wiki/passages/2 Thessalonians 2.md"]}
 {"book_key": 53, "count": 1, "key": "2th 3", "kind": "ref", "pages": ["wiki/passages/2 Thessalonians 3.md"]}
-{"book_key": 55, "count": 1, "key": "2ti 1", "kind": "ref", "pages": ["wiki/passages/2 Timothy 1.md"]}
+{"book_key": 55, "count": 2, "key": "2ti 1", "kind": "ref", "pages": ["wiki/passages/2 Timothy 1.md", "wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon.md"]}
 {"book_key": 55, "count": 1, "key": "2ti 2", "kind": "ref", "pages": ["wiki/passages/2 Timothy 2.md"]}
 {"book_key": 55, "count": 1, "key": "2ti 3", "kind": "ref", "pages": ["wiki/passages/2 Timothy 3.md"]}
+{"book_key": 55, "count": 1, "key": "2ti 3:16-17", "kind": "ref", "pages": ["wiki/concepts/Pastoral Ministry.md"]}
 {"book_key": 55, "count": 1, "key": "2ti 4", "kind": "ref", "pages": ["wiki/passages/2 Timothy 4.md"]}
+{"book_key": 55, "count": 1, "key": "2ti 4:2", "kind": "ref", "pages": ["wiki/concepts/Pastoral Ministry.md"]}
 {"book_key": 64, "count": 1, "key": "3jo 1", "kind": "ref", "pages": ["wiki/passages/3 John 1.md"]}
 {"book_key": 44, "count": 1, "key": "ac 1", "kind": "ref", "pages": ["wiki/passages/Acts 1.md"]}
 {"book_key": 44, "count": 1, "key": "ac 10", "kind": "ref", "pages": ["wiki/passages/Acts 10.md"]}
@@ -342,10 +344,10 @@
 {"book_key": 51, "count": 9, "key": "book:51", "kind": "book", "pages": ["wiki/concepts/Stewardship.md", "wiki/concepts/Wisdom.md", "wiki/passages/Colossians 1.md", "wiki/passages/Colossians 2.md", "wiki/passages/Colossians 3.md", "wiki/passages/Colossians 4.md", "wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala.md", "wiki/source-notes/Little Known Bible Heroes.md", "wiki/source-notes/Matthew Henry Concise on Colossians.md"]}
 {"book_key": 52, "count": 6, "key": "book:52", "kind": "book", "pages": ["wiki/passages/1 Thessalonians 1.md", "wiki/passages/1 Thessalonians 2.md", "wiki/passages/1 Thessalonians 3.md", "wiki/passages/1 Thessalonians 4.md", "wiki/passages/1 Thessalonians 5.md", "wiki/source-notes/Matthew Henry Concise on 1 Thessalonians.md"]}
 {"book_key": 53, "count": 4, "key": "book:53", "kind": "book", "pages": ["wiki/passages/2 Thessalonians 1.md", "wiki/passages/2 Thessalonians 2.md", "wiki/passages/2 Thessalonians 3.md", "wiki/source-notes/Matthew Henry Concise on 2 Thessalonians.md"]}
-{"book_key": 54, "count": 15, "key": "book:54", "kind": "book", "pages": ["wiki/concepts/Christ-Centered Ministry.md", "wiki/concepts/Church.md", "wiki/concepts/Pastoral Ministry.md", "wiki/concepts/Stewardship.md", "wiki/passages/1 Timothy 1 12.md", "wiki/passages/1 Timothy 1.md", "wiki/passages/1 Timothy 2.md", "wiki/passages/1 Timothy 3.md", "wiki/passages/1 Timothy 4.md", "wiki/passages/1 Timothy 5.md", "wiki/passages/1 Timothy 6.md", "wiki/questions/What Sustains Christian Ministry.md", "wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala.md", "wiki/source-notes/Devotional on 1 Timothy 1 12.md", "wiki/source-notes/Matthew Henry Concise on 1 Timothy.md"]}
-{"book_key": 55, "count": 5, "key": "book:55", "kind": "book", "pages": ["wiki/passages/2 Timothy 1.md", "wiki/passages/2 Timothy 2.md", "wiki/passages/2 Timothy 3.md", "wiki/passages/2 Timothy 4.md", "wiki/source-notes/Matthew Henry Concise on 2 Timothy.md"]}
-{"book_key": 56, "count": 4, "key": "book:56", "kind": "book", "pages": ["wiki/passages/Titus 1.md", "wiki/passages/Titus 2.md", "wiki/passages/Titus 3.md", "wiki/source-notes/Matthew Henry Concise on Titus.md"]}
-{"book_key": 57, "count": 2, "key": "book:57", "kind": "book", "pages": ["wiki/passages/Philemon 1.md", "wiki/source-notes/Matthew Henry Concise on Philemon.md"]}
+{"book_key": 54, "count": 16, "key": "book:54", "kind": "book", "pages": ["wiki/concepts/Christ-Centered Ministry.md", "wiki/concepts/Church.md", "wiki/concepts/Pastoral Ministry.md", "wiki/concepts/Stewardship.md", "wiki/passages/1 Timothy 1 12.md", "wiki/passages/1 Timothy 1.md", "wiki/passages/1 Timothy 2.md", "wiki/passages/1 Timothy 3.md", "wiki/passages/1 Timothy 4.md", "wiki/passages/1 Timothy 5.md", "wiki/passages/1 Timothy 6.md", "wiki/questions/What Sustains Christian Ministry.md", "wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala.md", "wiki/source-notes/Devotional on 1 Timothy 1 12.md", "wiki/source-notes/Matthew Henry Concise on 1 Timothy.md", "wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon.md"]}
+{"book_key": 55, "count": 7, "key": "book:55", "kind": "book", "pages": ["wiki/concepts/Pastoral Ministry.md", "wiki/passages/2 Timothy 1.md", "wiki/passages/2 Timothy 2.md", "wiki/passages/2 Timothy 3.md", "wiki/passages/2 Timothy 4.md", "wiki/source-notes/Matthew Henry Concise on 2 Timothy.md", "wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon.md"]}
+{"book_key": 56, "count": 6, "key": "book:56", "kind": "book", "pages": ["wiki/concepts/Pastoral Ministry.md", "wiki/passages/Titus 1.md", "wiki/passages/Titus 2.md", "wiki/passages/Titus 3.md", "wiki/source-notes/Matthew Henry Concise on Titus.md", "wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon.md"]}
+{"book_key": 57, "count": 3, "key": "book:57", "kind": "book", "pages": ["wiki/passages/Philemon 1.md", "wiki/source-notes/Matthew Henry Concise on Philemon.md", "wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon.md"]}
 {"book_key": 58, "count": 17, "key": "book:58", "kind": "book", "pages": ["wiki/concepts/Covenant.md", "wiki/concepts/Faith.md", "wiki/concepts/Holiness.md", "wiki/passages/Hebrews 1.md", "wiki/passages/Hebrews 10.md", "wiki/passages/Hebrews 11.md", "wiki/passages/Hebrews 12.md", "wiki/passages/Hebrews 13.md", "wiki/passages/Hebrews 2.md", "wiki/passages/Hebrews 3.md", "wiki/passages/Hebrews 4.md", "wiki/passages/Hebrews 5.md", "wiki/passages/Hebrews 6.md", "wiki/passages/Hebrews 7.md", "wiki/passages/Hebrews 8.md", "wiki/passages/Hebrews 9.md", "wiki/source-notes/Matthew Henry Concise on Hebrews.md"]}
 {"book_key": 59, "count": 9, "key": "book:59", "kind": "book", "pages": ["wiki/concepts/Spiritual Warfare.md", "wiki/concepts/Surrender.md", "wiki/concepts/Wisdom.md", "wiki/passages/James 1.md", "wiki/passages/James 2.md", "wiki/passages/James 3.md", "wiki/passages/James 4.md", "wiki/passages/James 5.md", "wiki/source-notes/Matthew Henry Concise on James.md"]}
 {"book_key": 6, "count": 25, "key": "book:6", "kind": "book", "pages": ["wiki/passages/Joshua 1.md", "wiki/passages/Joshua 10.md", "wiki/passages/Joshua 11.md", "wiki/passages/Joshua 12.md", "wiki/passages/Joshua 13.md", "wiki/passages/Joshua 14.md", "wiki/passages/Joshua 15.md", "wiki/passages/Joshua 16.md", "wiki/passages/Joshua 17.md", "wiki/passages/Joshua 18.md", "wiki/passages/Joshua 19.md", "wiki/passages/Joshua 2.md", "wiki/passages/Joshua 20.md", "wiki/passages/Joshua 21.md", "wiki/passages/Joshua 22.md", "wiki/passages/Joshua 23.md", "wiki/passages/Joshua 24.md", "wiki/passages/Joshua 3.md", "wiki/passages/Joshua 4.md", "wiki/passages/Joshua 5.md", "wiki/passages/Joshua 6.md", "wiki/passages/Joshua 7.md", "wiki/passages/Joshua 8.md", "wiki/passages/Joshua 9.md", "wiki/source-notes/Matthew Henry Concise on Joshua.md"]}
@@ -1064,7 +1066,7 @@
 {"book_key": 4, "count": 1, "key": "nu 8", "kind": "ref", "pages": ["wiki/passages/Numbers 8.md"]}
 {"book_key": 4, "count": 1, "key": "nu 9", "kind": "ref", "pages": ["wiki/passages/Numbers 9.md"]}
 {"book_key": 31, "count": 1, "key": "ob 1", "kind": "ref", "pages": ["wiki/passages/Obadiah 1.md"]}
-{"book_key": 57, "count": 1, "key": "phm 1", "kind": "ref", "pages": ["wiki/passages/Philemon 1.md"]}
+{"book_key": 57, "count": 2, "key": "phm 1", "kind": "ref", "pages": ["wiki/passages/Philemon 1.md", "wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon.md"]}
 {"book_key": 50, "count": 1, "key": "php 1", "kind": "ref", "pages": ["wiki/passages/Philippians 1.md"]}
 {"book_key": 50, "count": 1, "key": "php 2", "kind": "ref", "pages": ["wiki/passages/Philippians 2.md"]}
 {"book_key": 50, "count": 1, "key": "php 2:11", "kind": "ref", "pages": ["wiki/source-notes/Devotional on 1 Timothy 1 12.md"]}
@@ -1339,8 +1341,10 @@
 {"book_key": 22, "count": 1, "key": "so 6", "kind": "ref", "pages": ["wiki/passages/Song of Solomon 6.md"]}
 {"book_key": 22, "count": 1, "key": "so 7", "kind": "ref", "pages": ["wiki/passages/Song of Solomon 7.md"]}
 {"book_key": 22, "count": 1, "key": "so 8", "kind": "ref", "pages": ["wiki/passages/Song of Solomon 8.md"]}
-{"book_key": 56, "count": 1, "key": "tit 1", "kind": "ref", "pages": ["wiki/passages/Titus 1.md"]}
+{"book_key": 56, "count": 2, "key": "tit 1", "kind": "ref", "pages": ["wiki/passages/Titus 1.md", "wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon.md"]}
+{"book_key": 56, "count": 1, "key": "tit 1:5-9", "kind": "ref", "pages": ["wiki/concepts/Pastoral Ministry.md"]}
 {"book_key": 56, "count": 1, "key": "tit 2", "kind": "ref", "pages": ["wiki/passages/Titus 2.md"]}
+{"book_key": 56, "count": 1, "key": "tit 2:1-15", "kind": "ref", "pages": ["wiki/concepts/Pastoral Ministry.md"]}
 {"book_key": 56, "count": 1, "key": "tit 3", "kind": "ref", "pages": ["wiki/passages/Titus 3.md"]}
 {"book_key": 38, "count": 1, "key": "zec 1", "kind": "ref", "pages": ["wiki/passages/Zechariah 1.md"]}
 {"book_key": 38, "count": 1, "key": "zec 10", "kind": "ref", "pages": ["wiki/passages/Zechariah 10.md"]}

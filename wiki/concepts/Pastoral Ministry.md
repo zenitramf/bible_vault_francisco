@@ -4,15 +4,15 @@ title: Pastoral Ministry
 description: Qualified oversight and feeding of Christ's flock for the church's edification (1 Tim 3; 1 Pet 5; Jn 21:16).
 tags: [pastoral-ministry, church, christ, discipleship]
 status: reviewed
-updated: 2026-07-16
-source_count: 4
+updated: 2026-08-05
+source_count: 5
 ---
 
 # Pastoral Ministry
 
 ## Summary
 
-Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn.
+Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn. McGee’s Notes & Outlines add a local-church order frame for the Pastorals, elder/bishop identity, and the charge to preach the Word and hold sound doctrine in days of apostasy.
 
 ## Core claims
 
@@ -22,37 +22,38 @@ Pastoral ministry in the sources is an office of feeding, overseeing, and exempl
 - Christ's charge "Feed my sheep" turns evangelistic fishers into shepherds who must love and feed the flock. [[sources/commentaries_english/chspurgeon-sermons/volume-56/sermon_3211|Spurgeon, Feed My Sheep]]
 - Personal pastoral teaching presents sheep as dependent and easily lost, and pastors as responsible to feed, warn, and guide for the church's perfection under Ephesians 4:11–16. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#La condición de las ovejas|Pastor Andrés Gómez notes]] [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#Las responsabilidades de un pastor|Pastor Andrés Gómez notes]]
 - Pastoral ministry is already connected in the wiki to Christ-enabled stewardship. [[wiki/concepts/Christ-Centered Ministry#Core claims|Christ-Centered Ministry]]
-
 - The church is designed for mutual harmony: no healthy church without biblical leadership, and no successful ministry without a committed congregation; the pastorate is a gift for the church’s perfection and edification (Eph 4:11–16), not a common job. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#Resumen principal|Pastor Andrés Gómez notes]]
 - The church must honor, remember, pray for, and work united with its pastors. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#El deber de la iglesia|Pastor Andrés Gómez notes]]
+- The Pastoral Epistles instruct orderly procedure in local and visible churches; 1 Timothy’s theme is government and order in the local assembly, in contrast to Ephesians’ invisible body. [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#PASTORAL EPISTLES|McGee, Pastoral Epistles intro]] [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#1 TIMOTHY|McGee on 1 Timothy theme]]
+- Elder and bishop are the same person (*presbuteros* the person, *episkopos* the office); qualifications center on character, household rule, and aptitude to teach; the elder is God’s steward, not self-willed. [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#A. Requirements for elders, vv. 1–7|McGee on 1 Timothy 3]] [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#B. An orderly church must have ordained elders who meet prescribed requirements, vv. 5–9|McGee on Titus 1]]
+- In apostasy the good minister warns by teaching the words of the faith; “Preach the word” is the last-days rallying cry; the Scriptures alone fit the man of God for every good work. [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#B. What the "good minister" can do in times of apostasy, vv. 6–16|McGee on 1 Timothy 4]] [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#C. Instructions for the last days, Chapter 4:1–5|McGee on 2 Timothy 4:2]] [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#B. Authority of Scriptures in the last days, Chapter 3:10–17|McGee on 2 Timothy 3:16–17]]
+- The ideal New Testament church is orderly, sound in doctrine, pure in life, and ready for every good work (Titus). [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#THE NEW TESTAMENT CHURCH:|McGee on Titus / NT church]]
 
 ## Agreements and tensions
 
 - Phase 5.2.2: Gómez’s church-duty section complements English commentary on feeding and qualifications; expand later from Hebrews 13 and 1 Thessalonians 5 without inventing local polity.
-
 - Henry, Spurgeon, and the Gómez notes agree that pastoring is flock-care under Christ rather than self-advancement.
 - Henry stresses formal qualifications and motives; Spurgeon stresses love-driven feeding; the Spanish personal note stresses sheeply dependence and concrete pastoral responsibilities. These emphases complement rather than cancel one another.
-- The relation between bishop/elder terminology and later denominational polities is not settled by this seed.
+- McGee agrees on character qualifications and feeding under Christ; he adds a sharper local-vs-invisible church contrast, elder/bishop identity (noting some good men disagree), and a dispensational last-days/apostasy frame for the preaching charge.
+- The relation between bishop/elder terminology and later denominational polities is not settled by this page.
 
 ## Biblical passages
 
-Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16.
+Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 2 Timothy 3:16–17; 2 Timothy 4:2; Titus 1:5–9; Titus 2:1–15.
 
 ## Related pages
 
 - [[wiki/concepts/Stewardship|Stewardship]]
 - [[wiki/passages/Ephesians 4|Ephesians 4]]
-
-- [[wiki/concepts/Stewardship|Stewardship]]
-
 - [[wiki/source-notes/Matthew Henry Concise on 1 Peter|Matthew Henry Concise on 1 Peter]]
-
 - [[wiki/source-notes/Matthew Henry Concise on 1 Timothy|Matthew Henry Concise on 1 Timothy]]
-
+- [[wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon|McGee Notes and Outlines on Pastoral Epistles and Philemon]]
 - [[wiki/passages/1 Peter 5|1 Peter 5]]
-
 - [[wiki/passages/1 Timothy 3|1 Timothy 3]]
-
+- [[wiki/passages/2 Timothy 3|2 Timothy 3]]
+- [[wiki/passages/2 Timothy 4|2 Timothy 4]]
+- [[wiki/passages/Titus 1|Titus 1]]
+- [[wiki/passages/Titus 2|Titus 2]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -60,7 +61,6 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16.
 - [[wiki/questions/What Sustains Christian Ministry|What Sustains Christian Ministry?]]
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 - [[wiki/source-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|The Pastor and His Church — Pastor Andrés Gómez]]
-
 - [[wiki/source-notes/Spurgeon Theme Batch — Church and Pastoral Ministry|Spurgeon Theme Batch — Church and Pastoral Ministry]]
 
 ## Sources
@@ -69,8 +69,10 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16.
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-5|Matthew Henry, 1 Peter 5]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-56/sermon_3211|Spurgeon, Sermon 3211: Feed My Sheep]]
 - [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|Pastor Andrés Gómez, The Pastor and His Church]]
+- [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon|J. Vernon McGee, Notes & Outlines: 1–2 Timothy, Titus, Philemon]]
 
 ## Open questions
 
 - How should calling, ordination, and congregational recognition be ordered from further evidence?
 - How should the church’s duty to honor and pray for pastors (Gómez note) be expanded from Hebrews 13 and 1 Thessalonians 5?
+- When should McGee’s staged raw corpus be promoted into immutable chapter files under `sources/commentaries_english/mcgee-thru-the-bible/`?
