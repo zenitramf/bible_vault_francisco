@@ -4,8 +4,7 @@ title: Source-review campaign tracker
 description: Section status for full source→wiki ingest; Phase 4 tracks 100% coverage of remaining corpora.
 tags: [christian-life]
 status: developing
-updated: 2026-07-16
-source_count: 0
+updated: 2026-08-07
 ---
 
 # Campaign tracker
@@ -28,7 +27,6 @@ Update this page whenever a section is started or finished. Status values: `pend
 | Devotional on 1 Timothy 1:12 | reviewed | Existing source-note + ministry graph |
 | THE PASTOR AND HIS CHURCH (Andrés Gómez) | reviewed | Source-note; Pastoral Ministry + Spiritual Warfare mesh |
 | Ayudas en el estudio bíblico | reviewed | Source-note; Discipleship mesh |
-| Little Known Bible Heroes | reviewed | Source-note; Faith / Discipleship mesh |
 | Pastor Andy Doss y Merced Baptist Church | reviewed | Source-note; Holy Spirit mesh |
 
 ## Phase 2 — mhenry-concise NT
@@ -398,7 +396,6 @@ Phase 5 is **not** more source-file coverage (that was Phase 4). It grows the **
 8. Matthew Henry Complete Hub Deepening
 9. Ayudas en el estudio bíblico
 10. Devotional on 1 Timothy 1:12
-11. Little Known Bible Heroes
 12. Pastor Andy Doss y Merced Baptist Church
 13. The Pastor and His Church — Pastor Andrés Gómez
 
@@ -426,7 +423,6 @@ Phase 5 is **not** more source-file coverage (that was Phase 4). It grows the **
 | Christian love / charity as hub | Weak in priority notes (atlas-backed later) | **Defer** Love |
 | Kingdom of God as hub | Thin theme-note hit (Complete Mic/Messiah kingdom only) | **Defer** Kingdom of God |
 | Evangelism / fishers of men | Church batch language | **Defer** (fold Church/Discipleship for now) |
-| People / obscure servants | Little Known Bible Heroes | **Not concepts** — `wiki/people/` when expanded |
 
 #### 5.2.1 — Expand: new concept seeds gleaned from source-notes
 
@@ -601,7 +597,6 @@ python3 .tools/scripts/audit_public.py
 | No new mass ingest | Open `sources/` only to verify or add a claim already supported by an existing source-note/passage |
 | No systematics dump | Election, full atonement theories, polity schemes only if sources force a tight, multi-claim page |
 | Deferred 5.2.1 candidates stay deferred | Adoption, Assurance, Providence, Love, Kingdom, Election — not required for 5.3 close |
-| People ≠ concepts | Little Known Bible Heroes → `wiki/people/` when expanded |
 | Merge discipline | Sanctification → Holiness; Unity → Church claims (not new pages) |
 
 **Expected explicit defers into/through 5.3 (until thickened):**

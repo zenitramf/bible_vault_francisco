@@ -449,5 +449,19 @@ append_only: true
 - failed: 0
 - skipped: 0
 - maintenance: issues
-- ingested [pdf]: sources/personal-notes/ingest/1_John.pdf extract=sources/personal-notes/ingest/1_John.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 John.md
-- ingested [pdf]: sources/personal-notes/ingest/1_Peter.pdf extract=sources/personal-notes/ingest/1_Peter.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 Peter.md
+- ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 John.md
+- ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 Peter.md
+
+## [2026-08-07] maintain | McGee paths, Pastoral demote, Little Known removal
+
+- Moved 1 John and 1 Peter PDFs + extracts from sources/personal-notes/ingest/ to sources/commentaries_english/mcgee-thru-the-bible/; rewrote wiki wikilinks to *.pdf.extract.md (lint-safe).
+- Demoted McGee Pastoral Epistles source-note after faulty ingest; withdrew raw/mcgee-thru-the-bible claims from Pastoral Ministry and hub passages. Staged PDF: raw/1-2_Timothy-Titus-Philemon.pdf (currently empty file — verify before re-ingest).
+- Removed Little Known Bible Heroes source-note and all wiki references (Faith, Discipleship, Church, campaigns tracker).
+- Dropped chapter-only bible_reference values on McGee-touched 1 Cor / 1 John / 1 Peter passage pages.
+
+## [2026-08-07] ingest | McGee Notes and Outlines on Pastoral Epistles and Philemon
+
+- Moved `raw/1-2_Timothy-Titus-Philemon.pdf` → `sources/commentaries_english/mcgee-thru-the-bible/` (unchanged body).
+- Created pdftotext extract sidecar `1-2_Timothy-Titus-Philemon.pdf.extract.md`.
+- Rebuilt source-note from extract (status developing); restored McGee claims on Pastoral Ministry, Church, Word of God, and hub passages 1 Timothy 1/3, 2 Timothy 3/4, Titus 1/2, Philemon 1.
+- Evidence wikilinks target the extract (lint-safe); `source_path` remains the PDF.

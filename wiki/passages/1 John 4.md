@@ -6,7 +6,6 @@ tags: [christian-life, christ, holiness, faith]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "1jn 4"
 bible_book_key: 62
 bible_book_name: "1 John"
 ---
@@ -23,8 +22,8 @@ Matthew Henry Concise cautions against every pretended spirit and enforces broth
 - The Spirit of God is the Spirit of love. He that does not love the image of God in his people, has no saving knowledge of God. [[sources/commentaries_english/mhenry-concise/1-john/chapter-4#Verses 7–13|Matthew Henry Concise on 1 John 4]]
 - The Father sent the Son, he willed his coming into this world. The apostle attests this. [[sources/commentaries_english/mhenry-concise/1-john/chapter-4#Verses 14–21|Matthew Henry Concise on 1 John 4]]
 - In this chapter the apostle exhorts to try spirits (1Jo 4:1), gives a note to try by (1Jo 4:2,3), shows who are of the world and who of God (1Jo 4:4-6), urges Christian love by divers considerations (1Jo 4:7-16),… [[sources/commentaries_english/mhenry-complete/volume-6/1-john/chapter-4|Matthew Henry Complete on 1 John 4]]
-- McGee: Prove the spirits; love needs knowledge and judgment (Phil 1:9); false teachers inspired by evil spirits deny incarnation and all redemption flowing from it—spirit of Antichrist (cf. 2:22). Greater is he in you (Spirit indwells); world-appeal explains popular false ministry; elect cannot permanently be deceived (4:1–6). [[sources/personal-notes/ingest/1_John.pdf|McGee on 1 John 4:1–6]]
-- McGee: God is love—norm is love working for the beloved’s best interest. Historical evidence: Son given as life and propitiation before our response; unseen God revealed in loving believers; confess Son’s deity; perfect love is Christ the propitiation giving boldness in judgment and security as Christ is secure; we love because he first loved; claiming love for God while hating brother is a lie; love is commanded without options (4:7–21). [[sources/personal-notes/ingest/1_John.pdf|McGee on 1 John 4:7–21]]
+- McGee: Prove the spirits; love needs knowledge and judgment (Phil 1:9); false teachers inspired by evil spirits deny incarnation and all redemption flowing from it—spirit of Antichrist (cf. 2:22). Greater is he in you (Spirit indwells); world-appeal explains popular false ministry; elect cannot permanently be deceived (4:1–6). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee on 1 John 4:1–6]]
+- McGee: God is love—norm is love working for the beloved’s best interest. Historical evidence: Son given as life and propitiation before our response; unseen God revealed in loving believers; confess Son’s deity; perfect love is Christ the propitiation giving boldness in judgment and security as Christ is secure; we love because he first loved; claiming love for God while hating brother is a lie; love is commanded without options (4:7–21). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee on 1 John 4:7–21]]
 
 ## Agreements and tensions
 
@@ -53,7 +52,7 @@ Primary scope: 1 John 4 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-john/chapter-4|Matthew Henry Concise, 1 John 4]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-john/chapter-4|Matthew Henry Complete on 1 John 4]]
-- [[sources/personal-notes/ingest/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 
 ## Open questions
 

@@ -6,7 +6,6 @@ tags: [holiness, christian-life, christ, discipleship, pastoral-ministry]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "1pe 5"
 bible_book_key: 60
 bible_book_name: "1 Peter"
 ---
@@ -23,7 +22,7 @@ Matthew Henry Concise on 1 Peter 5: Elders exhorted and encouraged. (1–4). You
 - Humility preserves peace and order in all Christian churches and societies; pride disturbs them. Where God gives grace to be humble, he will give wisdom, faith, and holiness. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-5#Verses 5–9|Matthew Henry Concise on 1 Peter 5]]
 - In conclusion, the apostle prays to God for them, as the God of all grace. Perfect implies their progress towards perfection. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-5#Verses 10–14|Matthew Henry Concise on 1 Peter 5]]
 - In which the apostle gives particular directions, first to the elders, how to behave themselves towards their flock (1Pe 5:1-4); then to the younger, to be obedient and humble, and to cast their care upon God, 1Pe… [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-5|Matthew Henry Complete on 1 Peter 5]]
-- McGee: Peter calls himself a fellow elder without claiming a superior place; the elder’s business is to feed the flock willingly and not for money—the test of a cult or organization is how much it spends on itself; the leader is an example; the Chief Shepherd will reward; in view of Christ’s coming, humility and casting anxiety on God; be sober/intelligent in an evil world; resist the devil (cf. James 4:7); suffering is on God’s agenda; “Babylon” judged literal, not figurative Rome. [[sources/personal-notes/ingest/1_Peter.pdf|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
+- McGee: Peter calls himself a fellow elder without claiming a superior place; the elder’s business is to feed the flock willingly and not for money—the test of a cult or organization is how much it spends on itself; the leader is an example; the Chief Shepherd will reward; in view of Christ’s coming, humility and casting anxiety on God; be sober/intelligent in an evil world; resist the devil (cf. James 4:7); suffering is on God’s agenda; “Babylon” judged literal, not figurative Rome. [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -51,7 +50,7 @@ Primary scope: 1 Peter 5 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-peter/chapter-5|Matthew Henry Concise, 1 Peter 5]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-5|Matthew Henry Complete on 1 Peter 5]]
-- [[sources/personal-notes/ingest/1_Peter.pdf|J. Vernon McGee, Notes & Outlines: 1 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 
 ## Open questions
 

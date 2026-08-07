@@ -4,8 +4,8 @@ title: Discipleship
 description: Following Christ through self-denial, cross-bearing, and counted cost (Mt 16:24–26; Lk 14:26–30).
 tags: [discipleship, christ, christian-life, faith]
 status: reviewed
-updated: 2026-07-16
-source_count: 11
+updated: 2026-08-07
+source_count: 10
 ---
 
 # Discipleship
@@ -27,7 +27,6 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 - The risen Christ commissions disciples to make disciples of all nations, baptizing and teaching, under his authority and presence. [[sources/commentaries_english/mhenry-concise/matthew/chapter-28#Verses 16–20|Matthew Henry Concise on Matthew 28]]
 - By the mercies of God, believers present their bodies a living sacrifice and are transformed by renewing of the mind rather than conformity to the world. [[sources/commentaries_english/mhenry-concise/romans/chapter-12#Verses 1, 2|Matthew Henry Concise on Romans 12]]
 - Disciplined study asks contextual questions: when written, to whom, and by whom. [[sources/personal-notes/Ayudas en el estudio biblico#El contexto del pasaje|Ayudas en el estudio bíblico]]
-- Hidden faithfulness in lesser-known biblical servants models ordinary discipleship. [[sources/personal-notes/Little Known Bible Heroes|Little Known Bible Heroes]]
 
 ## Agreements and tensions
 
@@ -56,7 +55,6 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 - [[wiki/passages/Romans 12|Romans 12]]
 - [[wiki/source-notes/Ayudas en el estudio biblico|Ayudas en el estudio bíblico]]
-- [[wiki/source-notes/Little Known Bible Heroes|Little Known Bible Heroes]]
 - [[wiki/passages/Matthew 5|Matthew 5]]
 - [[wiki/passages/Matthew 10|Matthew 10]]
 - [[wiki/passages/Matthew 16|Matthew 16]]
@@ -73,7 +71,6 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[sources/commentaries_english/chspurgeon-sermons/volume-20/sermon_1159|Spurgeon, Sermon 1159: Counting the Cost]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-12|Matthew Henry Concise, Romans 12]]
 - [[sources/personal-notes/Ayudas en el estudio biblico|Ayudas en el estudio bíblico]]
-- [[sources/personal-notes/Little Known Bible Heroes|Little Known Bible Heroes]]
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-5|Matthew Henry Concise, Matthew 5]]
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-7|Matthew Henry Concise, Matthew 7]]
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-10|Matthew Henry Concise, Matthew 10]]

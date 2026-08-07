@@ -6,7 +6,6 @@ tags: [church, holiness, christ, christian-life]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "1co 13"
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -23,8 +22,8 @@ Matthew Henry Concise on 1 Corinthians 13: necessity of love; its properties; it
 - Some of the effects of charity are stated, that we may know whether we have this grace; and that if we have not, we may not rest till we have it. This love is a clear proof of regeneration, and is a touchstone of our professed faith in Christ. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-13#Verses 4–7|Matthew Henry Concise on 1 Corinthians 13]]
 - Charity is much to be preferred to the gifts on which the Corinthians prided themselves. From its longer continuance. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-13#Verses 8–13|Matthew Henry Concise on 1 Corinthians 13]]
 - In this chapter the apostle goes on to show more particularly what that more excellent way was of which he had just before been speaking. He recommends it, I. By showing the necessity and importance of it, 1Co 13:1-3.… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-13|Matthew Henry Complete on 1 Corinthians 13]]
-- McGee: eloquence, prophecy, knowledge, faith, sacrifice, and martyrdom are zeros until love is placed before them as the figure that gives value; love must be translated into patience, kindness, absence of envy and boastfulness. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee on 1 Corinthians 13:1–7]]
-- McGee: “Love never faileth” (negative) and “love abideth” (positive); prophecies fulfilled, tongues end, knowledge progresses; faith, hope, and love remain—love dominant; superior to all gifts and essential to their value; chapter is a biography of Christ. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee on 1 Corinthians 13:8–13]]
+- McGee: eloquence, prophecy, knowledge, faith, sacrifice, and martyrdom are zeros until love is placed before them as the figure that gives value; love must be translated into patience, kindness, absence of envy and boastfulness. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee on 1 Corinthians 13:1–7]]
+- McGee: “Love never faileth” (negative) and “love abideth” (positive); prophecies fulfilled, tongues end, knowledge progresses; faith, hope, and love remain—love dominant; superior to all gifts and essential to their value; chapter is a biography of Christ. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee on 1 Corinthians 13:8–13]]
 
 ## Agreements and tensions
 
@@ -51,7 +50,7 @@ Primary scope: 1 Corinthians 13 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-13|Matthew Henry Concise, 1 Corinthians 13]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-13|Matthew Henry Complete on 1 Corinthians 13]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
 
 ## Open questions
 

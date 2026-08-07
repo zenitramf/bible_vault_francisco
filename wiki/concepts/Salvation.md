@@ -28,7 +28,7 @@ Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through fai
 - There is no condemnation for those in Christ who walk after the Spirit; nothing shall separate them from God’s love in Christ. [[sources/commentaries_english/mhenry-concise/romans/chapter-8#Verses 1–9|Matthew Henry Concise on Romans 8]] [[sources/commentaries_english/mhenry-concise/romans/chapter-8#Verses 28–39|Matthew Henry Concise on Romans 8]]
 - The same Lord is rich to all who call on him; faith comes by hearing the word of God. [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 12–17|Matthew Henry Concise on Romans 10]]
 - The Spirit is involved in waiting for the hope of righteousness by faith; salvation by faith is not a Spirit-less transaction. [[sources/commentaries_english/chspurgeon-sermons/volume-21/sermon_1228|Spurgeon, Salvation by Faith and the Work of the Spirit]]
-- McGee on 1 John: Gospel purpose is life through believing (John 20:30–31); epistle purpose is that believers may know they have eternal life and believe on the Son’s name (1 John 5:13). Either one has the Son by faith or not—no middle ground (5:11–12); refusing God’s witness makes him a liar (5:10). [[sources/personal-notes/ingest/1_John.pdf|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
+- McGee on 1 John: Gospel purpose is life through believing (John 20:30–31); epistle purpose is that believers may know they have eternal life and believe on the Son’s name (1 John 5:13). Either one has the Son by faith or not—no middle ground (5:11–12); refusing God’s witness makes him a liar (5:10). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -95,7 +95,7 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-6|Matthew Henry Concise, Romans 6]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-8|Matthew Henry Concise, Romans 8]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-10|Matthew Henry Concise, Romans 10]]
-- [[sources/personal-notes/ingest/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 
 ## Open questions
 

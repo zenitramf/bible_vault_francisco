@@ -6,7 +6,6 @@ tags: [holiness, christian-life, christ, discipleship, hope]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "1pe 1"
 bible_book_key: 60
 bible_book_name: "1 Peter"
 ---
@@ -24,7 +23,7 @@ Matthew Henry Concise on 1 Peter 1: The apostle blesses God for his special bene
 - As the traveller, the racer, the warrior, and the labourer, gathered in their long and loose garments, that they might be ready in their business, so let Christians do by their minds and affections. Be sober, be watchful against all spiritual dangers and enemies, and be temperate in all behaviour. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-1#Verses 13–16|Matthew Henry Concise on 1 Peter 1]]
 - Holy confidence in God as a Father, and awful fear of him as a Judge, agree together; and to regard God always as a Judge, makes him dear to us as a Father. If believers do evil, God will visit them with corrections. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-1#Verses 17–25|Matthew Henry Concise on 1 Peter 1]]
 - The apostle describes the persons to whom he writes, and salutes them (1Pe 1:1,2), blesses God for their regeneration to a lively hope of eternal salvation (1Pe 1:3-5), in the hope of this salvation he shows they had… [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-1|Matthew Henry Complete on 1 Peter 1]]
-- McGee: elect sojourners (Jews of Asia Minor); Trinity in salvation—Father’s foreknowledge/election, Spirit’s sanctification, Son’s blood and obedience; Passover sprinkling picture; living hope by resurrection; incorruptible inheritance reserved in heaven; kept by God’s power; keynote rejoicing in trials that refine faith; prophets saw suffering and glory peaks without the church-age valley; holiness in Christ and costly blood redemption; Word the living instrument of new birth. [[sources/personal-notes/ingest/1_Peter.pdf|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
+- McGee: elect sojourners (Jews of Asia Minor); Trinity in salvation—Father’s foreknowledge/election, Spirit’s sanctification, Son’s blood and obedience; Passover sprinkling picture; living hope by resurrection; incorruptible inheritance reserved in heaven; kept by God’s power; keynote rejoicing in trials that refine faith; prophets saw suffering and glory peaks without the church-age valley; holiness in Christ and costly blood redemption; Word the living instrument of new birth. [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -53,7 +52,7 @@ Primary scope: 1 Peter 1 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-peter/chapter-1|Matthew Henry Concise, 1 Peter 1]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-1|Matthew Henry Complete on 1 Peter 1]]
-- [[sources/personal-notes/ingest/1_Peter.pdf|J. Vernon McGee, Notes & Outlines: 1 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 
 ## Open questions
 

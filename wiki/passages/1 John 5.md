@@ -6,7 +6,6 @@ tags: [christian-life, christ, holiness, faith, salvation]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "1jn 5"
 bible_book_key: 62
 bible_book_name: "1 John"
 ---
@@ -25,9 +24,9 @@ Matthew Henry Concise ties brotherly love to new birth and pleasant obedience, w
 - Upon all this evidence, it is but right that we believe on the name of the Son of God. Believers have eternal life in the covenant of the gospel. [[sources/commentaries_english/mhenry-concise/1-john/chapter-5#Verses 13–17|Matthew Henry Concise on 1 John 5]]
 - All mankind are divided into two parties or dominions; that which belongs to God, and that which belongs to the wicked one. True believers belong to God: they are of God, and from him, and to him, and for him; while the rest, by far the greater number, are in the power of the wicked one; they do his works, and suppo… [[sources/commentaries_english/mhenry-concise/1-john/chapter-5#Verses 18–21|Matthew Henry Concise on 1 John 5]]
 - In this chapter the apostle asserts, I. The dignity of believers, 1Jo 5:1. II. Their obligation to love, and the trial of it, 1Jo 5:1-3. III. Their victory, 1Jo 5:4,5. IV. The credibility and confirmation of their… [[sources/commentaries_english/mhenry-complete/volume-6/1-john/chapter-5|Matthew Henry Complete on 1 John 5]]
-- McGee: Faith produces new birth and love across party lines; commandments of Christ are not burdensome when kept (cf. Mt 11:30). Victory (*nike*, only NT occurrence) over the world is by faith—Jericho pattern, not fighting (5:1–5). [[sources/personal-notes/ingest/1_John.pdf|McGee on 1 John 5:1–5]]
-- McGee: Three witnesses—water (Word), blood (Christ’s death/forgiveness), Spirit (truth); v. 7 not in better manuscripts and adds little; Spirit applies Word and blood. God’s witness is greater than man’s; refusing belief makes God a liar. Life is in the Son—either have Christ by faith or not (5:6–12). Key verse 5:13: written that believers may *know* they have eternal life and believe on the Son’s name (cf. 2 Tim 1:12). [[sources/personal-notes/ingest/1_John.pdf|McGee on 1 John 5:6–13]]
-- McGee: Prayer boldness if according to his will/Word; answered petition is final proof (5:14–15). Sin unto death is physical death chastening (Ananias/Sapphira, Corinth, Absalom, Moses/Aaron); not every sin is unto death (5:16–17). New nature never sins; world lies asleep in the evil one’s arms; Spirit teaches; keep from idols—anything between Christ and the believer (5:18–21). [[sources/personal-notes/ingest/1_John.pdf|McGee on 1 John 5:14–21]]
+- McGee: Faith produces new birth and love across party lines; commandments of Christ are not burdensome when kept (cf. Mt 11:30). Victory (*nike*, only NT occurrence) over the world is by faith—Jericho pattern, not fighting (5:1–5). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee on 1 John 5:1–5]]
+- McGee: Three witnesses—water (Word), blood (Christ’s death/forgiveness), Spirit (truth); v. 7 not in better manuscripts and adds little; Spirit applies Word and blood. God’s witness is greater than man’s; refusing belief makes God a liar. Life is in the Son—either have Christ by faith or not (5:6–12). Key verse 5:13: written that believers may *know* they have eternal life and believe on the Son’s name (cf. 2 Tim 1:12). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee on 1 John 5:6–13]]
+- McGee: Prayer boldness if according to his will/Word; answered petition is final proof (5:14–15). Sin unto death is physical death chastening (Ananias/Sapphira, Corinth, Absalom, Moses/Aaron); not every sin is unto death (5:16–17). New nature never sins; world lies asleep in the evil one’s arms; Spirit teaches; keep from idols—anything between Christ and the believer (5:18–21). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee on 1 John 5:14–21]]
 
 ## Agreements and tensions
 
@@ -56,7 +55,7 @@ Primary scope: 1 John 5 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-john/chapter-5|Matthew Henry Concise, 1 John 5]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-john/chapter-5|Matthew Henry Complete on 1 John 5]]
-- [[sources/personal-notes/ingest/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 
 ## Open questions
 

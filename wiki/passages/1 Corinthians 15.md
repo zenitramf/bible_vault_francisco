@@ -6,7 +6,6 @@ tags: [church, holiness, christ, christian-life]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "1co 15"
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -25,10 +24,10 @@ Matthew Henry Concise on 1 Corinthians 15: certainty of Christ’s resurrection;
 - 1. How are the dead raised up? [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-15#Verses 35–50|Matthew Henry Concise on 1 Corinthians 15]]
 - All the saints should not die, but all would be changed. In the gospel, many truths, before hidden in mystery, are made known. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-15#Verses 51–58|Matthew Henry Concise on 1 Corinthians 15]]
 - In this chapter the apostle treats of that great article of Christianity—the resurrection of the dead. I. He establishes the certainty of our Saviour's resurrection, 1Co 15:1-11. II. He, from this truth, sets himself… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-15|Matthew Henry Complete on 1 Corinthians 15]]
-- McGee: resurrection is part of the gospel—no gospel without it (vv. 1–4); gospel is facts not mere ideas/creeds (Machen cited); church is evidence of resurrection; “according to the scriptures.” Witnesses: Cephas, the twelve, over 500, James, apostles, Paul. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee on 1 Corinthians 15:1–19]]
-- McGee parade (vv. 20–28): Christ the firstfruits; those who are Christ’s (the church); OT saints and Tribulation saints; kingdom set up, Christ reigning; death destroyed; Christ returns to His place in the Trinity (v. 28). [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee on 1 Corinthians 15:20–28]]
-- McGee: resurrection refers only to the body (*anastasis nekron*); sown natural body, raised spiritual body—body carried over; first heresy denied bodily resurrection; contrasts Stoicism, Epicureanism, Platonism. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee on 1 Corinthians 15:29–50]]
-- McGee: not all believers die; all changed in a moment at the Rapture; incorruptible body; death’s triumph ended through Christ; v. 58 steadfast labor not in vain links to 1:9. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee on 1 Corinthians 15:51–58]]
+- McGee: resurrection is part of the gospel—no gospel without it (vv. 1–4); gospel is facts not mere ideas/creeds (Machen cited); church is evidence of resurrection; “according to the scriptures.” Witnesses: Cephas, the twelve, over 500, James, apostles, Paul. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee on 1 Corinthians 15:1–19]]
+- McGee parade (vv. 20–28): Christ the firstfruits; those who are Christ’s (the church); OT saints and Tribulation saints; kingdom set up, Christ reigning; death destroyed; Christ returns to His place in the Trinity (v. 28). [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee on 1 Corinthians 15:20–28]]
+- McGee: resurrection refers only to the body (*anastasis nekron*); sown natural body, raised spiritual body—body carried over; first heresy denied bodily resurrection; contrasts Stoicism, Epicureanism, Platonism. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee on 1 Corinthians 15:29–50]]
+- McGee: not all believers die; all changed in a moment at the Rapture; incorruptible body; death’s triumph ended through Christ; v. 58 steadfast labor not in vain links to 1:9. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee on 1 Corinthians 15:51–58]]
 
 ## Agreements and tensions
 
@@ -57,7 +56,7 @@ Primary scope: 1 Corinthians 15 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-15|Matthew Henry Concise, 1 Corinthians 15]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-15|Matthew Henry Complete on 1 Corinthians 15]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
 
 ## Open questions
 

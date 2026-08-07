@@ -1,6 +1,6 @@
 ---
 type: Source Extract
-original_path: sources/personal-notes/ingest/1_Peter.pdf
+original_path: sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf
 extractor: pdftotext
 quality: high
 extracted_at: "2026-08-07T16:28:57.181Z"

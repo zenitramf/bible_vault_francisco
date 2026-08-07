@@ -6,7 +6,6 @@ tags: [church, holiness, christ, christian-life, holy-spirit]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "1co 12"
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -23,8 +22,8 @@ Matthew Henry Concise on 1 Corinthians 12: variety of gifts; body members; appli
 - Christ and his church form one body, as Head and members. Christians become members of this body by baptism. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-12#Verses 12–26|Matthew Henry Concise on 1 Corinthians 12]]
 - Contempt, hatred, envy, and strife, are very unnatural in Christians. It is like the members of the same body being without concern for one another, or quarrelling with each other. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-12#Verses 27–31|Matthew Henry Concise on 1 Corinthians 12]]
 - In this chapter the apostle, I. Considers the case of spiritual gifts, which were very plentifully poured out on the Corinthian church. He considers their original, that they are from God; their variety and use, that… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-12|Matthew Henry Complete on 1 Corinthians 12]]
-- McGee: problem is divisions; solution is the Holy Spirit (cf. Eph 4:3); *pneumatikos* (“spirituals”)—gifts are one of the spiritualities; lordship of Jesus is central (v. 3; Acts 2:36). [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee on 1 Corinthians 12 intro]]
-- McGee: diversities (*diairesis*) = difference in unity; Spirit bestows gifts, Christ administers, Father supplies power; wisdom/knowledge, faith, healing, miracles, prophecy, discerning spirits, tongues defined briefly; body of Christ one with many members; baptism of the Holy Spirit places each believer into the body to function. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee on 1 Corinthians 12:4–31]]
+- McGee: problem is divisions; solution is the Holy Spirit (cf. Eph 4:3); *pneumatikos* (“spirituals”)—gifts are one of the spiritualities; lordship of Jesus is central (v. 3; Acts 2:36). [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee on 1 Corinthians 12 intro]]
+- McGee: diversities (*diairesis*) = difference in unity; Spirit bestows gifts, Christ administers, Father supplies power; wisdom/knowledge, faith, healing, miracles, prophecy, discerning spirits, tongues defined briefly; body of Christ one with many members; baptism of the Holy Spirit places each believer into the body to function. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee on 1 Corinthians 12:4–31]]
 
 ## Agreements and tensions
 
@@ -51,7 +50,7 @@ Primary scope: 1 Corinthians 12 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-12|Matthew Henry Concise, 1 Corinthians 12]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-12|Matthew Henry Complete on 1 Corinthians 12]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
 
 ## Open questions
 

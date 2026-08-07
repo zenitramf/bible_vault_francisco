@@ -28,7 +28,7 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 - The whole armor of God must be put on: the loins girt about with truth, the breastplate of righteousness, the feet shod with the preparation of the gospel of peace, the shield of faith, the helmet of salvation, and the sword of the Spirit, which is the word of God, with all prayer and supplication in the Spirit. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-6#The Spiritual Warfare (61 AD)|Matthew Henry on Ephesians 6]]
 - The Christian must withstand and then stand: resist in the evil day, and having done all, to stand; many try compromise, but saints have no order from their Captain to patch up a truce or offer concessions. [[sources/commentaries_english/chspurgeon-sermons/volume-37/sermon_2201|Spurgeon, The Sword of the Spirit]] [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-6#The Spiritual Warfare (61 AD)|Matthew Henry on Ephesians 6]]
 - The pastor's interior battle is itself part of the warfare: the pastor walks between two worlds, carrying silent wounds, battles of satanic oppression, and personal frustrations that cannot always be delegated or shared from the pulpit. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#El peso interno y la guerra espiritual del pastor|Pastor Andrés Gómez, El peso interno y la guerra espiritual del pastor]]
-- McGee on 1 Peter 5: “Be sober” is be intelligent—the believer is in an evil and dangerous world; resist the devil (cf. James 4:7); suffering remains on God’s agenda even while the adversary roars. [[sources/personal-notes/ingest/1_Peter.pdf|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
+- McGee on 1 Peter 5: “Be sober” is be intelligent—the believer is in an evil and dangerous world; resist the devil (cf. James 4:7); suffering remains on God’s agenda even while the adversary roars. [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -79,7 +79,7 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[sources/commentaries_english/chspurgeon-sermons/volume-55/sermon_3143|Spurgeon, Sermon 3143: Shoes for Pilgrims and Warriors]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-61/sermon_3466|Spurgeon, Sermon 3466: A Warning to Believers]]
 - [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|Pastor Andrés Gómez, The Pastor and His Church]]
-- [[sources/personal-notes/ingest/1_Peter.pdf|J. Vernon McGee, Notes & Outlines: 1 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 
 ## Open questions
 

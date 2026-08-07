@@ -22,7 +22,7 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - Many of David's psalms are full of complaints, yet some (e.g. Psalm 23) are full of comforts and dependence upon God's goodness. [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-23|Matthew Henry Complete on Psalm 23]] [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Complete hub deepening]]
 - The Lord opens the eyes of the blind and raises them that are bowed down—affliction is not the last word for those who look to him. [[sources/commentaries_english/chspurgeon-fcb/april/april-22|Spurgeon, Faith's Checkbook April 22]]
 - The pastor walks between two worlds with silent wounds and satanic oppression; pastoral suffering is part of the church’s shared warfare and care. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#El peso interno y la guerra espiritual del pastor|Pastor Andrés Gómez notes]]
-- McGee on 1 Peter: suffering (with cognates, sixteen times) is the theme-word tied to hope—Christian hope in the time of trial; 1:6 is keynote (rejoicing in trials that refine faith as furnace metal); Christ’s vicarious suffering is example and atonement (2:21–24); fiery trial is normal, not accidental—partaking of Christ’s sufferings (4:12–13); suffer as a Christian, not as a sinner (4:15–16); suffering is on God’s agenda and yields to the God of all grace (5:10). [[sources/personal-notes/ingest/1_Peter.pdf|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
+- McGee on 1 Peter: suffering (with cognates, sixteen times) is the theme-word tied to hope—Christian hope in the time of trial; 1:6 is keynote (rejoicing in trials that refine faith as furnace metal); Christ’s vicarious suffering is example and atonement (2:21–24); fiery trial is normal, not accidental—partaking of Christ’s sufferings (4:12–13); suffer as a Christian, not as a sinner (4:15–16); suffering is on God’s agenda and yields to the God of all grace (5:10). [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -64,7 +64,7 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - [[sources/commentaries_english/mhenry-concise/job/chapter-1|Matthew Henry Concise, Job 1]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-8|Matthew Henry Concise, Romans 8]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-23|Matthew Henry Complete, Psalm 23]]
-- [[sources/personal-notes/ingest/1_Peter.pdf|J. Vernon McGee, Notes & Outlines: 1 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 
 ## Open questions
 

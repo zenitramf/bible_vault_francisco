@@ -22,7 +22,7 @@ Sources present repentance as humble return to God with confession of sin and pl
 - John the Baptist prepares the way with repentance preaching; Jesus' baptism displays commitment to fulfill all righteousness. [[wiki/passages/Matthew 3|Matthew 3]]
 - Treasury of David thickens experimental penitence on Psalm 51 as suitable for individual loneliness and public assembly of song. [[sources/commentaries_english/chspurgeon-tod/volume-2/psalm-51|Treasury of David, Psalm 51]]
 - The design of the gospel is answered when sinners, through repentance toward God and faith in Jesus Christ, are brought to exercise Christian love. [[sources/commentaries_english/mhenry-concise/1-timothy/chapter-1#Verses 5–11|Matthew Henry Concise on 1 Timothy 1]]
-- McGee on 1 John: Neither drag God down to man’s level nor claim sinless perfection; confess (*homologomen*) means agree with God and spell out the sin; he is faithful and just to forgive and cleanse because of Christ’s blood (1:7–10). Family relationship broken by sin is restored by confession—not a second justification. [[sources/personal-notes/ingest/1_John.pdf|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
+- McGee on 1 John: Neither drag God down to man’s level nor claim sinless perfection; confess (*homologomen*) means agree with God and spell out the sin; he is faithful and just to forgive and cleanse because of Christ’s blood (1:7–10). Family relationship broken by sin is restored by confession—not a second justification. [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -60,7 +60,7 @@ Sources present repentance as humble return to God with confession of sin and pl
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-51|Matthew Henry Concise, Psalm 51]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/psalms/psalm-51|Matthew Henry Complete, Psalm 51]]
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-3|Matthew Henry Concise, Matthew 3]]
-- [[sources/personal-notes/ingest/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 
 ## Open questions
 

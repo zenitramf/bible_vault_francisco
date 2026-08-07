@@ -6,7 +6,6 @@ tags: [christian-life, christ, holiness, faith]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "1jn 3"
 bible_book_key: 62
 bible_book_name: "1 John"
 ---
@@ -25,8 +24,8 @@ Matthew Henry Concise admires God’s love in adoption, purifying hope versus li
 - Here is the condescension, the miracle, the mystery of Divine love, that God would redeem the church with his own blood. Surely we should love those whom God has loved, and so loved. [[sources/commentaries_english/mhenry-concise/1-john/chapter-3#Verses 16–21|Matthew Henry Concise on 1 John 3]]
 - When believers had confidence towards God, through the Spirit of adoption, and by faith in the great High Priest, they might ask what they would of their reconciled Father. They would receive it, if good for them. [[sources/commentaries_english/mhenry-concise/1-john/chapter-3#Verses 22–24|Matthew Henry Concise on 1 John 3]]
 - The apostle here magnifies the love of God in our adoption, 1Jo 3:1,2. He thereupon argues for holiness (1Jo 3:3), and against sin, 1Jo 3:4-19. He presses brotherly love, 1Jo 3:11-18. How to assure our hearts before… [[sources/commentaries_english/mhenry-complete/volume-6/1-john/chapter-3|Matthew Henry Complete on 1 John 3]]
-- McGee: Behold what sort of love—that we should be *named* children of God, and we are; world does not understand us because it did not know him (3:1). We shall be like him when we see him as he is; hope purifies now (3:2–3). [[sources/personal-notes/ingest/1_John.pdf|McGee on 1 John 3:1–3]]
-- McGee: Sin is insubordination to God’s will; Christ takes away practice of sin as well as guilt. Abiding believer does not practice sin; new nature born of God never sins while old nature remains (avocado bud illustration). Practice of righteousness and brother-love identify God’s children; Cain’s envy; love is action (kitchen, not parlor); love in action gives prayer confidence; Christian life in a nutshell at 3:23; Spirit verifies if not grieved (3:4–24). [[sources/personal-notes/ingest/1_John.pdf|McGee on 1 John 3:4–24]]
+- McGee: Behold what sort of love—that we should be *named* children of God, and we are; world does not understand us because it did not know him (3:1). We shall be like him when we see him as he is; hope purifies now (3:2–3). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee on 1 John 3:1–3]]
+- McGee: Sin is insubordination to God’s will; Christ takes away practice of sin as well as guilt. Abiding believer does not practice sin; new nature born of God never sins while old nature remains (avocado bud illustration). Practice of righteousness and brother-love identify God’s children; Cain’s envy; love is action (kitchen, not parlor); love in action gives prayer confidence; Christian life in a nutshell at 3:23; Spirit verifies if not grieved (3:4–24). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee on 1 John 3:4–24]]
 
 ## Agreements and tensions
 
@@ -55,7 +54,7 @@ Primary scope: 1 John 3 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-john/chapter-3|Matthew Henry Concise, 1 John 3]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-john/chapter-3|Matthew Henry Complete on 1 John 3]]
-- [[sources/personal-notes/ingest/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 
 ## Open questions
 

@@ -6,7 +6,6 @@ tags: [holiness, christian-life, christ, discipleship, suffering]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "1pe 4"
 bible_book_key: 60
 bible_book_name: "1 Peter"
 ---
@@ -23,7 +22,7 @@ Matthew Henry Concise on 1 Peter 4: The consideration of Christ's sufferings is 
 - The destruction of the Jewish church and nation, foretold by our Saviour, was very near. And the speedy approach of death and judgment concerns all, to which these words naturally lead our minds. [[sources/commentaries_english/mhenry-concise/1-peter/chapter-4#Verses 7–11|Matthew Henry Concise on 1 Peter 4]]
 - By patience and fortitude in suffering, by dependence on the promises of God, and keeping to the word the Holy Spirit hath revealed, the Holy Spirit is glorified; but by the contempt and reproaches cast upon believers, he is evil spoken of, and is blasphemed. One would think such cautions as these were needless to C… [[sources/commentaries_english/mhenry-concise/1-peter/chapter-4#Verses 12–19|Matthew Henry Concise on 1 Peter 4]]
 - The work of a Christian is twofold—doing the will of God and suffering his pleasure. This chapter directs us in both. The duties we are here exhorted to employ ourselves in are the mortification of sin, living to God,… [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-4|Matthew Henry Complete on 1 Peter 4]]
-- McGee: God sometimes permits suffering to keep believers from sin; the new nature is unsatisfied with fleshly living; unbelievers misread conversion; believers face the judgment seat of Christ; “end of all things” incentives sobriety and love; every believer has a gift to administer in the Spirit’s power; fiery trial (smelting) was already happening—normal, not accidental; partaking of Christ’s sufferings; rejoice if reproved for Christ’s sake; do not suffer as a sinner but as a Christian; judgment begins at God’s house; righteous saved only by faith in Christ; commit souls to a faithful Creator. [[sources/personal-notes/ingest/1_Peter.pdf|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
+- McGee: God sometimes permits suffering to keep believers from sin; the new nature is unsatisfied with fleshly living; unbelievers misread conversion; believers face the judgment seat of Christ; “end of all things” incentives sobriety and love; every believer has a gift to administer in the Spirit’s power; fiery trial (smelting) was already happening—normal, not accidental; partaking of Christ’s sufferings; rejoice if reproved for Christ’s sake; do not suffer as a sinner but as a Christian; judgment begins at God’s house; righteous saved only by faith in Christ; commit souls to a faithful Creator. [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -51,7 +50,7 @@ Primary scope: 1 Peter 4 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-peter/chapter-4|Matthew Henry Concise, 1 Peter 4]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-4|Matthew Henry Complete on 1 Peter 4]]
-- [[sources/personal-notes/ingest/1_Peter.pdf|J. Vernon McGee, Notes & Outlines: 1 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 
 ## Open questions
 

@@ -24,8 +24,8 @@ The sources present the Holy Spirit as another Comforter given by the Father at 
 - Those in Christ walk after the Spirit rather than the flesh; having the Spirit of Christ marks belonging to him. [[sources/commentaries_english/mhenry-concise/romans/chapter-8#Verses 1–9|Matthew Henry Concise on Romans 8]]
 - The Spirit of adoption works the disposition of children and witnesses with the believer’s spirit. [[sources/commentaries_english/mhenry-concise/romans/chapter-8#Verses 10–17|Matthew Henry Concise on Romans 8]]
 - Local preaching has illustrated the Spirit as like oil—an anointing image for his precious work. [[sources/personal-notes/Pastor Andy Doss y Merced Baptist Church|Pastor Andy Doss note]]
-- McGee: God’s wisdom comes by Holy Spirit revelation; the natural man without the Spirit cannot receive the things of God (1 Cor 2); the Spirit bestows gifts, Christ administers, the Father energizes (12:4–6); baptism of the Spirit places each believer into the body of Christ; the body is the Spirit’s temple. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee Notes & Outlines on 1 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee source-note]]
-- McGee on 1 John: Believers have an anointing from the Holy One and need not esoteric teachers—the Spirit is final Teacher (2:20, 27; cf. John 16:12–15). Greater is he that is in you than he in the world (4:4); Spirit indwells every believer (4:13; Rom 8:9; 1 Cor 6:19). Spirit, water (Word), and blood witness to salvation in Christ (5:6–8); Spirit leads into all truth (5:20). [[sources/personal-notes/ingest/1_John.pdf|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
+- McGee: God’s wisdom comes by Holy Spirit revelation; the natural man without the Spirit cannot receive the things of God (1 Cor 2); the Spirit bestows gifts, Christ administers, the Father energizes (12:4–6); baptism of the Spirit places each believer into the body of Christ; the body is the Spirit’s temple. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee Notes & Outlines on 1 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee source-note]]
+- McGee on 1 John: Believers have an anointing from the Holy One and need not esoteric teachers—the Spirit is final Teacher (2:20, 27; cf. John 16:12–15). Greater is he that is in you than he in the world (4:4); Spirit indwells every believer (4:13; Rom 8:9; 1 Cor 6:19). Spirit, water (Word), and blood witness to salvation in Christ (5:6–8); Spirit leads into all truth (5:20). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -77,8 +77,8 @@ Key loci: John 14:15–17; John 16:7–14; Acts 2:1–4; Romans 8:1–27; 1 Cori
 - [[sources/commentaries_english/chspurgeon-sermons/volume-26/sermon_1532|Spurgeon, Sermon 1532: The Holy Spirit's Intercession]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-8|Matthew Henry Concise, Romans 8]]
 - [[sources/personal-notes/Pastor Andy Doss y Merced Baptist Church|Pastor Andy Doss y Merced Baptist Church]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
-- [[sources/personal-notes/ingest/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 
 ## Open questions
 

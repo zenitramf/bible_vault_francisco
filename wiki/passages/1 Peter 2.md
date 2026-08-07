@@ -6,7 +6,6 @@ tags: [holiness, christian-life, christ, discipleship]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "1pe 2"
 bible_book_key: 60
 bible_book_name: "1 Peter"
 ---
@@ -24,7 +23,7 @@ Matthew Henry Concise on 1 Peter 2: A temper suitable to the Christian character
 - A Christian conversation must be honest; which it cannot be, if there is not a just and careful discharge of all relative duties: the apostle here treats of these distinctly. Regard to those duties is the will of God, consequently, the Christian's duty, and the way to silence the base slanders of ignorant and foolis… [[sources/commentaries_english/mhenry-concise/1-peter/chapter-2#Verses 13–17|Matthew Henry Concise on 1 Peter 2]]
 - Servants in those days generally were slaves, and had heathen masters, who often used them cruelly; yet the apostle directs them to be subject to the masters placed over them by Providence, with a fear to dishonour or offend God. And not only to those pleased with reasonable service, but to the severe, and those ang… [[sources/commentaries_english/mhenry-concise/1-peter/chapter-2#Verses 18–25|Matthew Henry Concise on 1 Peter 2]]
 - The general exhortation to holiness is continued, and enforced by several reasons taken from the foundation on which Christians are built, Jesus Christ, and from their spiritual blessings and privileges in him. The… [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-2|Matthew Henry Complete on 1 Peter 2]]
-- McGee: malice is congealed anger; pure spiritual milk for newborn appetite; living Stone is Christ (Acts 4:11); believers living stones and a temple of spiritual sacrifices; Christ stepping-stone or stumbling stone; chosen generation, royal priesthood, holy nation, people for acquisition—to publish his virtues; honesty, civil submission, and fair labor reveal praises; Christ’s vicarious suffering as example and for sins; Isa 53 stripes heal from sin, not primarily physical disease. [[sources/personal-notes/ingest/1_Peter.pdf|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
+- McGee: malice is congealed anger; pure spiritual milk for newborn appetite; living Stone is Christ (Acts 4:11); believers living stones and a temple of spiritual sacrifices; Christ stepping-stone or stumbling stone; chosen generation, royal priesthood, holy nation, people for acquisition—to publish his virtues; honesty, civil submission, and fair labor reveal praises; Christ’s vicarious suffering as example and for sins; Isa 53 stripes heal from sin, not primarily physical disease. [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -52,7 +51,7 @@ Primary scope: 1 Peter 2 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-peter/chapter-2|Matthew Henry Concise, 1 Peter 2]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-2|Matthew Henry Complete on 1 Peter 2]]
-- [[sources/personal-notes/ingest/1_Peter.pdf|J. Vernon McGee, Notes & Outlines: 1 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 
 ## Open questions
 

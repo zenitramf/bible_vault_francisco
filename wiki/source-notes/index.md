@@ -6,7 +6,6 @@ Live database view: [[wiki/source-notes/index.base|Folder base]]. Static OKF lis
 
 * [[wiki/source-notes/Ayudas en el estudio biblico|Ayudas en el estudio bíblico]] - Spanish personal study guide listing contextual questions for reading a biblical passage.
 * [[wiki/source-notes/Devotional on 1 Timothy 1 12|Devotional on 1 Timothy 1:12]] - Personal devotional on Christ-centered, Christ-enabled, faithful ministry from 1 Timothy 1:12.
-* [[wiki/source-notes/Little Known Bible Heroes|Little Known Bible Heroes]] - Working list of lesser-known biblical figures and passages that model hidden faithfulness, courage, and service.
 * [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]] - Selective Complete-commentary deepening on hub chapters already in the concise atlas (Phase 3.5).
 * [[wiki/source-notes/Matthew Henry Complete Volume 1|Matthew Henry Complete Volume 1]] - Full-file Phase 4.1 coverage of Matthew Henry Complete volume 1: every chapter/preface file cited; matching passage atlas thickened.
 * [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]] - Full-file Phase 4.1 coverage of Matthew Henry Complete volume 2: every chapter/preface file cited; matching passage atlas thickened.

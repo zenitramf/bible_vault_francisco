@@ -21,7 +21,7 @@ Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article o
 - Jesus, our Lord, once crucified, dead and buried, now sits upon the throne of glory. [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon, April 22 Morning/Evening]] [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|MAE theme enrichment]]
 - After the atoning darkness of the cross, Christ is buried without pomp, and the sealed tomb prepares proof of resurrection. [[sources/commentaries_english/mhenry-concise/matthew/chapter-27|Matthew Henry Concise on Matthew 27]] [[wiki/passages/Matthew 27|Matthew 27]]
 - Psalm 16 ends with confidence of a resurrection that must be applied to Christ and to him only, not merely private devotion. [[sources/commentaries_english/mhenry-concise/psalms/psalm-16|Matthew Henry Concise on Psalm 16]] [[wiki/passages/Psalm 16|Psalm 16]]
-- McGee: there is no gospel without the resurrection (1 Cor 15:1–4); witnesses include Cephas, the twelve, over 500, James, and Paul; resurrection is of the body; first church heresy denied bodily rising against Stoic, Epicurean, and Platonic alternatives; believers may be changed without dying at the Rapture (vv. 51–58). [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee Notes & Outlines on 1 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee source-note]]
+- McGee: there is no gospel without the resurrection (1 Cor 15:1–4); witnesses include Cephas, the twelve, over 500, James, and Paul; resurrection is of the body; first church heresy denied bodily rising against Stoic, Epicurean, and Platonic alternatives; believers may be changed without dying at the Rapture (vv. 51–58). [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee Notes & Outlines on 1 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -57,7 +57,7 @@ Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article o
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-15|Matthew Henry Concise, 1 Corinthians 15]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon Morning and Evening, April 22]]
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-27|Matthew Henry Concise, Matthew 27]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
 
 ## Open questions
 

@@ -23,7 +23,7 @@ In the Spurgeon sermons retrieved for this concept, redemption is the central go
 - God's people are a redeemed people; counting the church apart from those who have part in the appointed redemption is a dangerous mistake. [[sources/commentaries_english/chspurgeon-sermons/volume-27/sermon_1581|Spurgeon, Silver Sockets]]
 - Justification is free by grace through the redemption that is in Christ Jesus, whom God set forth as a propitiation through faith in his blood. [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-3#Justification by Faith; Christ a Propitiation (58 AD)|Matthew Henry on Romans 3]] [[sources/commentaries_english/mhenry-concise/romans/chapter-3#Verses 21–26|Matthew Henry Concise on Romans 3]]
 - Christ’s death for the ungodly effects reconciliation by his blood; grace through him superabounds beyond Adam’s offense. [[sources/commentaries_english/mhenry-concise/romans/chapter-5#Verses 6–11|Matthew Henry Concise on Romans 5]] [[sources/commentaries_english/mhenry-concise/romans/chapter-5#Verses 20, 21|Matthew Henry Concise on Romans 5]]
-- McGee on 1 Peter: redeemed not with corruptible things (silver and gold) but with the precious blood of Christ as of a lamb without blemish (1:18–19); sprinkling of blood pictures Passover on the doorposts (1:2); the life lived must be weighed against the price he paid; Christ’s vicarious, substitutionary death heals from sin—“by whose stripes ye were healed” (2:24; Isa 53). [[sources/personal-notes/ingest/1_Peter.pdf|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
+- McGee on 1 Peter: redeemed not with corruptible things (silver and gold) but with the precious blood of Christ as of a lamb without blemish (1:18–19); sprinkling of blood pictures Passover on the doorposts (1:2); the life lived must be weighed against the price he paid; Christ’s vicarious, substitutionary death heals from sin—“by whose stripes ye were healed” (2:24; Isa 53). [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -78,7 +78,7 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-3|Matthew Henry, Romans 3]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-3|Matthew Henry Concise, Romans 3]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-5|Matthew Henry Concise, Romans 5]]
-- [[sources/personal-notes/ingest/1_Peter.pdf|J. Vernon McGee, Notes & Outlines: 1 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 
 ## Open questions
 

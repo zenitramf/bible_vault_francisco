@@ -23,7 +23,7 @@ The retrieved sources present prayer as sincere address to God rather than publi
 - Christians should value fervent mutual prayer; those who beg others’ prayers must also pray, striving in prayer by the love of the Spirit. [[sources/commentaries_english/mhenry-concise/romans/chapter-15#Verses 30–33|Matthew Henry Concise on Romans 15]]
 - Phase 3.1 Psalms concise atlas (150 psalms) expands prayer beyond NT form-passages: meditation on the word, penitence, and trust under affliction now have chapter spines for later Treasury of David deepening. [[wiki/passages/Psalm 1|Psalm 1]] [[wiki/passages/Psalm 51|Psalm 51]] [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
 - Treasury of David thickens Psalter prayer language on hub psalms after the concise atlas. [[wiki/source-notes/Spurgeon Treasury of David Volume 1|ToD Vol 1]] [[wiki/passages/Psalm 51|Psalm 51]]
-- McGee on 1 John: Demonstrated brother-love gives confidence in prayer; even when heart condemns, God is greater and still hears (3:19–22). Boldness if we ask according to his will—measured by the Word; answered petitions are final proof (5:14–15). [[sources/personal-notes/ingest/1_John.pdf|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
+- McGee on 1 John: Demonstrated brother-love gives confidence in prayer; even when heart condemns, God is greater and still hears (3:19–22). Boldness if we ask according to his will—measured by the Word; answered petitions are final proof (5:14–15). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -71,7 +71,7 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-6|Matthew Henry Complete, Matthew 6]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-8|Matthew Henry Concise, Romans 8]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-15|Matthew Henry Concise, Romans 15]]
-- [[sources/personal-notes/ingest/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 
 ## Open questions
 

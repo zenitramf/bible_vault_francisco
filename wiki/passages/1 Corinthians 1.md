@@ -6,7 +6,6 @@ tags: [church, holiness, christ, christian-life]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "1co 1"
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -24,8 +23,8 @@ Matthew Henry Concise on 1 Corinthians 1: A salutation and thanksgiving. (1–9)
 - Paul had been bred up in Jewish learning; but the plain preaching of a crucified Jesus, was more powerful than all the oratory and philosophy of the heathen world. This is the sum and substance of the gospel. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-1#Verses 17–25|Matthew Henry Concise on 1 Corinthians 1]]
 - God did not choose philosophers, nor orators, nor statesmen, nor men of wealth, and power, and interest in the world, to publish the gospel of grace and peace. He best judges what men and what measures serve the purposes of his glory. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-1#Verses 26–31|Matthew Henry Concise on 1 Corinthians 1]]
 - In this chapter we have, I. The preface or introduction to the whole epistle, 1Co 1:1-9. II. One principal occasion of writing it hinted, namely, their divisions and the origin of them, 1Co 1:10-13. III. An account of… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-1|Matthew Henry Complete on 1 Corinthians 1]]
-- McGee: subject of the letter is the lordship of Jesus (1:2, 3, 7–10); vv. 1–9 name the Lord Jesus Christ six times; v. 9 is the heart—God is faithful; called into fellowship/partnership (*koinonia*) of His Son with mutual concern, commitment, and compassion; the rest until 15:58 is a parenthesis. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee Notes & Outlines on 1 Corinthians]]
-- McGee: divisions formed around Paul, Cephas, and Apollos; Christ crucified is God’s wisdom and power for the called; Christ is the believer’s wisdom, righteousness, sanctification, and redemption (1:30), with positional, practical, and permanent sanctification distinguished. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee on 1 Corinthians 1:10–31]]
+- McGee: subject of the letter is the lordship of Jesus (1:2, 3, 7–10); vv. 1–9 name the Lord Jesus Christ six times; v. 9 is the heart—God is faithful; called into fellowship/partnership (*koinonia*) of His Son with mutual concern, commitment, and compassion; the rest until 15:58 is a parenthesis. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee Notes & Outlines on 1 Corinthians]]
+- McGee: divisions formed around Paul, Cephas, and Apollos; Christ crucified is God’s wisdom and power for the called; Christ is the believer’s wisdom, righteousness, sanctification, and redemption (1:30), with positional, practical, and permanent sanctification distinguished. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee on 1 Corinthians 1:10–31]]
 
 ## Agreements and tensions
 
@@ -52,7 +51,7 @@ Primary scope: 1 Corinthians 1 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-1|Matthew Henry Concise, 1 Corinthians 1]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-1|Matthew Henry Complete on 1 Corinthians 1]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
 
 ## Open questions
 

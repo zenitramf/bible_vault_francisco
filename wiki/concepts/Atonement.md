@@ -22,7 +22,7 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - At the cross, darkness and the forsaken cry mark atoning agony; the riven veil opens access to God. [[sources/commentaries_english/mhenry-concise/matthew/chapter-27|Matthew Henry Concise on Matthew 27]] [[wiki/passages/Matthew 27|Matthew 27]]
 - The Spirit in the Old Testament prophets testified beforehand the sufferings of Christ and the glory that should follow. [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-53|Matthew Henry Complete on Isaiah 53]] [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Complete hub deepening]]
 - Christ died for sinners who were guilty and hateful while we were still sinners; his death effects reconciliation by his blood. [[sources/commentaries_english/mhenry-concise/romans/chapter-5#Verses 6–11|Matthew Henry Concise on Romans 5]]
-- McGee on 1 John: Christ is advocate with the Father for the sinning believer; propitiation is the mercy-seat/expiation basis on which God extends mercy (2:1–2). God loved first and sent the Son as propitiation for our sins; perfect love (Christ’s propitiatory work) gives boldness in the day of judgment (4:10, 17). Blood of Jesus cleanses from all sin (1:7). [[sources/personal-notes/ingest/1_John.pdf|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
+- McGee on 1 John: Christ is advocate with the Father for the sinning believer; propitiation is the mercy-seat/expiation basis on which God extends mercy (2:1–2). God loved first and sent the Son as propitiation for our sins; perfect love (Christ’s propitiatory work) gives boldness in the day of judgment (4:10, 17). Blood of Jesus cleanses from all sin (1:7). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -66,7 +66,7 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-53|Matthew Henry Concise, Isaiah 53]]
 - [[sources/commentaries_english/mhenry-complete/volume-4/isaiah/chapter-53|Matthew Henry Complete, Isaiah 53]]
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-27|Matthew Henry Concise, Matthew 27]]
-- [[sources/personal-notes/ingest/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 
 ## Open questions
 
