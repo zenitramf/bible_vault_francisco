@@ -4,7 +4,7 @@ title: Matthew Henry Concise on 1 Peter
 description: Book-level digest of Matthew Henry Concise 1 Peter (5 chapters) for the NT passage atlas.
 tags: [holiness, christian-life, christ, discipleship]
 status: seed
-updated: 2026-07-16
+updated: 2026-08-07
 source_count: 5
 source_path: "sources/commentaries_english/mhenry-concise/1-peter/"
 bible_book_key: 60
@@ -15,7 +15,7 @@ bible_book_name: "1 Peter"
 
 ## Summary
 
-Intentional ingest of **Matthew Henry Concise** on 1 Peter as a chapter-by-chapter backbone for the wiki passage atlas (5 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition.
+Intentional ingest of **Matthew Henry Concise** on 1 Peter as a chapter-by-chapter backbone for the wiki passage atlas (5 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition. McGee Notes & Outlines on 1 Peter now thickens the same atlas with hope-in-trial theme framing and chapter outlines ([[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee on 1 Peter]]).
 
 ## Core claims
 
@@ -24,7 +24,7 @@ Intentional ingest of **Matthew Henry Concise** on 1 Peter as a chapter-by-chapt
 
 ## Agreements and tensions
 
-Single-corpus (Henry Concise). Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, personal notes); this atlas supplies the book spine and should be thickened, not treated as exclusive.
+Henry Concise supplies the book spine; Complete and McGee thicken hub claims without treating Concise as exclusive. McGee agrees on Trinitarian salvation, holiness, living stone/priesthood, household conduct, elder feeding, and sober resistance of the devil, while adding literal-Babylon provenance, Cross/Crown prophecy scheme, and Noah-day spirits-in-prison readings that remain single-author outline positions.
 
 ## Biblical passages
 
@@ -34,9 +34,13 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 
 - [[wiki/passages/1 Peter 1|1 Peter 1]] through [[wiki/passages/1 Peter 5|1 Peter 5]]
 - [[wiki/concepts/Holiness|Holiness]]
+- [[wiki/concepts/Hope|Hope]]
+- [[wiki/concepts/Suffering|Suffering]]
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
+- [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee Notes and Outlines on 1 Peter]]
 - [[wiki/campaigns/tracker|Campaign tracker]]
 
 ## Sources
@@ -49,4 +53,4 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 
 ## Open questions
 
-- Which hub chapters in 1 Peter should next receive Henry Complete and Spurgeon deepening?
+- Which hub chapters in 1 Peter should next receive Spurgeon deepening beside Henry and McGee?

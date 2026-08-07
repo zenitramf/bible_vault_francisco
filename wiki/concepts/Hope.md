@@ -5,14 +5,14 @@ description: Confident expectation of glory, resurrection, and God's promise und
 tags: [faith, salvation, prophecy, christian-life]
 status: reviewed
 updated: 2026-08-07
-source_count: 6
+source_count: 7
 ---
 
 # Hope
 
 ## Summary
 
-Sources present Christian hope as future-facing confidence grounded in justification, the Spirit, and the risen Christ: peace and rejoicing in hope of glory; present sufferings not worth comparing with glory to be revealed; creation itself groaning toward redemption's hope; and resurrection of Christ guaranteeing believers' own rising. McGee on 1 Corinthians 15 adds gospel-integral resurrection, bodily rising, victory over death, and *Maranatha* expectancy. The Spurgeon prophecy/hope theme batch frames free-grace wisdom against false self-sufficiency; Henry's Romans and 1 Corinthians atlases supply the doctrinal spine.
+Sources present Christian hope as future-facing confidence grounded in justification, the Spirit, and the risen Christ: peace and rejoicing in hope of glory; present sufferings not worth comparing with glory to be revealed; creation itself groaning toward redemption's hope; and resurrection of Christ guaranteeing believers' own rising. McGee on 1 Corinthians 15 adds gospel-integral resurrection, bodily rising, victory over death, and *Maranatha* expectancy. McGee on 1 Peter calls Peter the apostle of hope and ties living hope to resurrection, reserved inheritance, and joy under trial. The Spurgeon prophecy/hope theme batch frames free-grace wisdom against false self-sufficiency; Henry's Romans and 1 Corinthians atlases supply the doctrinal spine.
 
 ## Core claims
 
@@ -22,18 +22,20 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - Free-grace wisdom exposes self-sufficient "I am rich… and have need of nothing" pretension and calls the wretched to buy gold tried in the fire from Christ. [[sources/commentaries_english/chspurgeon-sermons/volume-28/sermon_1677|Spurgeon, A Great Mistake and the Way to Rectify It]] [[wiki/source-notes/Spurgeon Theme Batch — Prophecy Hope and Wisdom|Prophecy Hope and Wisdom batch]]
 - Jesus Christ is a Christian’s hope; all hopes of eternal life are built upon him. [[sources/commentaries_english/mhenry-concise/1-timothy/chapter-1#Verses 1–4|Matthew Henry Concise on 1 Timothy 1]]
 - McGee: resurrection power means not all believers die; all are changed; death and the grave no longer triumph; victory through Christ; steadfast abounding labor is not in vain (1 Cor 15:51–58); closing *Maranatha*—our Lord cometh (16:22). [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee Notes & Outlines on 1 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee source-note]]
+- McGee on 1 Peter: theme is Christian hope in the time of trial; Peter the apostle of hope; living hope by Christ’s resurrection (1:3); incorruptible inheritance reserved in heaven (1:4); rejoicing in trials (1:6 keynote); resurrection basis of hope (1:21); transforming hope leads to obedience and brother-love (1:22); be ready to give a reason for the hope (3:15); Second Coming produces service, humility, and patience (ch. 5). [[sources/personal-notes/ingest/1_Peter.pdf|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 
 ## Agreements and tensions
 
-- Hope is not detached from suffering: Romans 8 ties hope to groaning and Spirit-helped waiting.
+- Hope is not detached from suffering: Romans 8 ties hope to groaning and Spirit-helped waiting; 1 Peter ties hope to trial and glory.
 - Do not collapse hope into [[wiki/concepts/Prophecy|Prophecy]] (speech of God through messengers) or [[wiki/concepts/Faith|Faith]] (trust receiving the promise); hope is the forward posture those produce.
-- Spurgeon's hope-batch samples are more evangelistic/wisdom-oriented than systematic eschatology; Henry's 1 Corinthians 15 is the fuller resurrection-hope map; McGee adds Rapture-change and *Maranatha* wording as outline emphasis.
+- Spurgeon's hope-batch samples are more evangelistic/wisdom-oriented than systematic eschatology; Henry's 1 Corinthians 15 is the fuller resurrection-hope map; McGee on 1 Corinthians adds Rapture-change and *Maranatha* wording; McGee on 1 Peter supplies the classic “apostle of hope under suffering” frame for the Petrine letter.
 - Salvation synthesis already notes that justification, sanctification, assurance, and final hope must stay distinct though inseparable in experience.
 
 ## Biblical passages
 
 - Romans 5:1–5; Romans 8:18–25
 - 1 Corinthians 15; 1 Corinthians 16:22
+- 1 Peter 1:3–9, 13, 21; 1 Peter 3:15; 1 Peter 5
 - Psalm 130 (hope in prayer; atlas present)
 
 ## Related pages
@@ -47,9 +49,13 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - [[wiki/passages/Romans 5|Romans 5]]
 - [[wiki/passages/Romans 8|Romans 8]]
 - [[wiki/passages/1 Corinthians 15|1 Corinthians 15]]
+- [[wiki/passages/1 Peter 1|1 Peter 1]]
+- [[wiki/passages/1 Peter 3|1 Peter 3]]
+- [[wiki/passages/1 Peter 5|1 Peter 5]]
 - [[wiki/passages/Psalm 130|Psalm 130]]
 - [[wiki/source-notes/Spurgeon Theme Batch — Prophecy Hope and Wisdom|Spurgeon Theme Batch — Prophecy Hope and Wisdom]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee Notes and Outlines on 1 Corinthians]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee Notes and Outlines on 1 Peter]]
 
 ## Sources
 
@@ -59,6 +65,7 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-15|Matthew Henry Concise, 1 Corinthians 15]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-28/sermon_1677|Spurgeon, Sermon 1677]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
+- [[sources/personal-notes/ingest/1_Peter.pdf|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 
 ## Open questions
 

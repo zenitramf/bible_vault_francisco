@@ -4,15 +4,15 @@ title: Faith
 description: Trust in God's promise and in Christ; the means of justification and the principle of the life that pleases God (Gen 15:6; Rom 4; Heb 11).
 tags: [faith, salvation, christ, covenant, stewardship]
 status: reviewed
-updated: 2026-07-17
-source_count: 11
+updated: 2026-08-07
+source_count: 12
 ---
 
 # Faith
 
 ## Summary
 
-In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action.
+In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son.
 
 ## Core claims
 
@@ -27,9 +27,8 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - The righteousness of faith is near in the word; Christ is offered in the gospel promise, and faith comes by hearing that word. [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 5–11|Matthew Henry Concise on Romans 10]] [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 12–17|Matthew Henry Concise on Romans 10]]
 - Lesser-known biblical servants display living faith and courage in brief scriptural scenes (hospitality, loyalty, quiet testimony). [[sources/personal-notes/Little Known Bible Heroes|Little Known Bible Heroes]]
 - Faith governs the ordinary decisions of the Christian life, not only justification: "we walk by faith, not by sight" extends to how a believer uses money, time, and resources—giving "by faith" is the stewardship counterpart to faith's work in salvation. [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala#0:13|Ringo Ayala, "Por fe reconocemos al dueño"]] [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
-
-
 - Concise Genesis 15: Abram believed God with respect to the promised Seed; Christians’ justifying faith always has respect to the person and work of Christ. [[sources/commentaries_english/mhenry-concise/genesis/chapter-15#Verses 2–6|Matthew Henry Concise on Genesis 15]] [[wiki/passages/Genesis 15|Genesis 15]]
+- McGee on 1 John: Victory over the world is by faith (*nike*, only NT occurrence)—Jericho believed rather than fought (5:4–5). Faith produces new birth and love of the reborn; either one has the Son by faith or not (5:1, 12). Assurance rests on believing God’s record concerning his Son (5:9–13). [[sources/personal-notes/ingest/1_John.pdf|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -38,6 +37,7 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - Henry and Spurgeon agree that justifying faith is trust directed to God's promise and to Christ, not confidence in personal merit.
 - Henry develops faith extensively through Abraham and the catalogue of exemplars; Spurgeon presses the experiential and doxological side of trust as the believer's very being unto God's praise. [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-11#The Nature of Faith (62 AD)|Matthew Henry on Hebrews 11]] [[sources/commentaries_english/chspurgeon-sermons/volume-33/sermon_1978|Spurgeon, Trust]]
 - Romans concise stresses the preached word as the near object of faith; Hebrews stresses unseen realities hoped for—complementary, not competing.
+- McGee’s world-victory-by-faith and assurance-by-God’s-witness claims fit the same receiving trust without making faith a work that earns life.
 - The relation between faith and works is only partly treated here. Galatians and Romans in Henry reject works as the ground of justification; fuller treatment of James and of faith's obedience belongs in later expansion.
 - Predestinating purpose and faith appear together in Spurgeon's Trust sermon; this page records that linkage without resolving all systematic questions about decree and means. [[sources/commentaries_english/chspurgeon-sermons/volume-33/sermon_1978|Spurgeon, Trust]]
 
@@ -50,6 +50,7 @@ Key loci in the present evidence:
 - Galatians 3
 - Hebrews 11:1–6
 - Ephesians 1:12–13
+- 1 John 5:1–13
 
 No single primary verse is set in frontmatter because the concept is multi-passage in the sources used.
 
@@ -57,19 +58,12 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 
 - [[wiki/concepts/Hope|Hope]]
 - [[wiki/concepts/Grace|Grace]]
-
 - [[wiki/source-notes/Matthew Henry Concise on Galatians|Matthew Henry Concise on Galatians]]
-
 - [[wiki/source-notes/Matthew Henry Concise on James|Matthew Henry Concise on James]]
-
 - [[wiki/source-notes/Matthew Henry Concise on Hebrews|Matthew Henry Concise on Hebrews]]
-
 - [[wiki/passages/Galatians 3|Galatians 3]]
-
 - [[wiki/passages/James 2|James 2]]
-
 - [[wiki/passages/Hebrews 11|Hebrews 11]]
-
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Salvation|Salvation]]
@@ -81,22 +75,17 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 - [[wiki/passages/Romans 4|Romans 4]]
 - [[wiki/passages/Romans 10|Romans 10]]
+- [[wiki/passages/1 John 5|1 John 5]]
 - [[wiki/source-notes/Little Known Bible Heroes|Little Known Bible Heroes]]
-
 - [[wiki/passages/Genesis 15|Genesis 15]]
-
 - [[wiki/passages/Genesis 22|Genesis 22]]
-
 - [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
-
 - [[wiki/source-notes/Spurgeon Theme Batch — Faith and Prayer|Spurgeon Theme Batch — Faith and Prayer]]
-
 - [[wiki/source-notes/Matthew Henry Concise on Habakkuk|Matthew Henry Concise on Habakkuk]]
-
 - [[wiki/passages/Habakkuk 2|Habakkuk 2]]
-
 - [[wiki/source-notes/Spurgeon Faith's Checkbook Theme Enrichment|Faith's Checkbook enrichment]]
 - [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
 
 ## Sources
 
@@ -111,6 +100,7 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/personal-notes/Little Known Bible Heroes|Little Known Bible Heroes]]
 - [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala (transcript)]]
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-15|Matthew Henry Concise, Genesis 15]]
+- [[sources/personal-notes/ingest/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
 
 ## Open questions
 

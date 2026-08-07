@@ -4,15 +4,15 @@ title: Pastoral Ministry
 description: Qualified oversight and feeding of Christ's flock for the church's edification (1 Tim 3; 1 Pet 5; Jn 21:16).
 tags: [pastoral-ministry, church, christ, discipleship]
 status: reviewed
-updated: 2026-08-05
-source_count: 5
+updated: 2026-08-07
+source_count: 6
 ---
 
 # Pastoral Ministry
 
 ## Summary
 
-Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn. McGee’s Notes & Outlines add a local-church order frame for the Pastorals, elder/bishop identity, and the charge to preach the Word and hold sound doctrine in days of apostasy.
+Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn. McGee’s Notes & Outlines add a local-church order frame for the Pastorals, elder/bishop identity, and the charge to preach the Word and hold sound doctrine in days of apostasy. McGee on 1 Peter 5 adds Peter as fellow elder (not superior), the feed-not-for-money charge, the self-spending “racket” test, example leadership, and the Chief Shepherd’s crown.
 
 ## Core claims
 
@@ -28,6 +28,7 @@ Pastoral ministry in the sources is an office of feeding, overseeing, and exempl
 - Elder and bishop are the same person (*presbuteros* the person, *episkopos* the office); qualifications center on character, household rule, and aptitude to teach; the elder is God’s steward, not self-willed. [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#A. Requirements for elders, vv. 1–7|McGee on 1 Timothy 3]] [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#B. An orderly church must have ordained elders who meet prescribed requirements, vv. 5–9|McGee on Titus 1]]
 - In apostasy the good minister warns by teaching the words of the faith; “Preach the word” is the last-days rallying cry; the Scriptures alone fit the man of God for every good work. [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#B. What the "good minister" can do in times of apostasy, vv. 6–16|McGee on 1 Timothy 4]] [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#C. Instructions for the last days, Chapter 4:1–5|McGee on 2 Timothy 4:2]] [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#B. Authority of Scriptures in the last days, Chapter 3:10–17|McGee on 2 Timothy 3:16–17]]
 - The ideal New Testament church is orderly, sound in doctrine, pure in life, and ready for every good work (Titus). [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon#THE NEW TESTAMENT CHURCH:|McGee on Titus / NT church]]
+- McGee on 1 Peter 5: Peter calls himself a fellow elder without a superior place; the elder’s business is to feed the flock of God willingly and not for money—the test of any cult or Christian organization is how much money it spends on itself; the leader is an example; the Chief Shepherd will reward his own for service. [[sources/personal-notes/ingest/1_Peter.pdf|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -35,6 +36,7 @@ Pastoral ministry in the sources is an office of feeding, overseeing, and exempl
 - Henry, Spurgeon, and the Gómez notes agree that pastoring is flock-care under Christ rather than self-advancement.
 - Henry stresses formal qualifications and motives; Spurgeon stresses love-driven feeding; the Spanish personal note stresses sheeply dependence and concrete pastoral responsibilities. These emphases complement rather than cancel one another.
 - McGee agrees on character qualifications and feeding under Christ; he adds a sharper local-vs-invisible church contrast, elder/bishop identity (noting some good men disagree), and a dispensational last-days/apostasy frame for the preaching charge.
+- McGee’s 1 Peter “religious racket” money test is a pastoral application of “not for filthy lucre” and should be held as outline exhortation, not a full polity or finance treatise.
 - The relation between bishop/elder terminology and later denominational polities is not settled by this page.
 
 ## Biblical passages
@@ -48,6 +50,7 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 
 - [[wiki/source-notes/Matthew Henry Concise on 1 Peter|Matthew Henry Concise on 1 Peter]]
 - [[wiki/source-notes/Matthew Henry Concise on 1 Timothy|Matthew Henry Concise on 1 Timothy]]
 - [[wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon|McGee Notes and Outlines on Pastoral Epistles and Philemon]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee Notes and Outlines on 1 Peter]]
 - [[wiki/passages/1 Peter 5|1 Peter 5]]
 - [[wiki/passages/1 Timothy 3|1 Timothy 3]]
 - [[wiki/passages/2 Timothy 3|2 Timothy 3]]
@@ -70,6 +73,7 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 
 - [[sources/commentaries_english/chspurgeon-sermons/volume-56/sermon_3211|Spurgeon, Sermon 3211: Feed My Sheep]]
 - [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|Pastor Andrés Gómez, The Pastor and His Church]]
 - [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon|J. Vernon McGee, Notes & Outlines: 1–2 Timothy, Titus, Philemon]]
+- [[sources/personal-notes/ingest/1_Peter.pdf|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 
 ## Open questions
 

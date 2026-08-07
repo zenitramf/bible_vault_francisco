@@ -4,7 +4,7 @@ title: Matthew Henry Concise on 1 John
 description: Book-level digest of Matthew Henry Concise 1 John (5 chapters) for the NT passage atlas.
 tags: [christian-life, christ, holiness, faith]
 status: seed
-updated: 2026-07-16
+updated: 2026-08-07
 source_count: 5
 source_path: "sources/commentaries_english/mhenry-concise/1-john/"
 bible_book_key: 62
@@ -15,7 +15,7 @@ bible_book_name: "1 John"
 
 ## Summary
 
-Intentional ingest of **Matthew Henry Concise** on 1 John as a chapter-by-chapter backbone for the wiki passage atlas (5 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition.
+Intentional ingest of **Matthew Henry Concise** on 1 John as a chapter-by-chapter backbone for the wiki passage atlas (5 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition. McGee Notes & Outlines on 1 John now thickens the same atlas with family-epistle, Gnostic, and assurance frames ([[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee on 1 John]]).
 
 ## Core claims
 
@@ -24,7 +24,7 @@ Intentional ingest of **Matthew Henry Concise** on 1 John as a chapter-by-chapte
 
 ## Agreements and tensions
 
-Single-corpus (Henry Concise). Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, personal notes); this atlas supplies the book spine and should be thickened, not treated as exclusive.
+Single-corpus spine (Henry Concise) now paired with McGee outline notes and Henry Complete chapter files on the passage pages. Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, personal notes); this atlas supplies the book spine and should be thickened, not treated as exclusive.
 
 ## Biblical passages
 
@@ -36,6 +36,7 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Faith|Faith]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
 - [[wiki/campaigns/tracker|Campaign tracker]]
 
 ## Sources
@@ -48,4 +49,4 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 
 ## Open questions
 
-- Which hub chapters in 1 John should next receive Henry Complete and Spurgeon deepening?
+- Which hub chapters in 1 John should next receive Spurgeon deepening beside Henry and McGee?

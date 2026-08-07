@@ -440,3 +440,14 @@ append_only: true
 - Moved PDF + extract sidecar from `sources/personal-notes/ingest/` → `sources/commentaries_english/mcgee-thru-the-bible/`.
 - Rewrote wiki citations on the McGee 1 Corinthians source-note, hub passages (1, 2, 3, 11–13, 15), and concepts (Church, Holiness, Holy Spirit, Resurrection, Hope).
 - These Notes & Outlines are commentary corpus, not personal notes.
+
+## [2026-08-07] ingest | batch batch-fa652486-msj5k6y4
+
+- status: partial
+- discovered: 2
+- ingested: 2
+- failed: 0
+- skipped: 0
+- maintenance: issues
+- ingested [pdf]: sources/personal-notes/ingest/1_John.pdf extract=sources/personal-notes/ingest/1_John.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 John.md
+- ingested [pdf]: sources/personal-notes/ingest/1_Peter.pdf extract=sources/personal-notes/ingest/1_Peter.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 Peter.md

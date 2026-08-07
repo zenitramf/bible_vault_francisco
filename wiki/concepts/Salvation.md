@@ -4,15 +4,15 @@ title: Salvation
 description: God's free grace in Christ, received by faith and not by works of the law (Acts 15:11; Rom 3–4; Eph 2).
 tags: [salvation, grace, faith, christ]
 status: reviewed
-updated: 2026-07-16
-source_count: 9
+updated: 2026-08-07
+source_count: 10
 ---
 
 # Salvation
 
 ## Summary
 
-Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory.
+Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. McGee on 1 John adds the epistle’s assurance purpose: written so that those who believe may *know* they have eternal life (1 John 5:13), with life exclusively in the Son. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory.
 
 ## Core claims
 
@@ -28,6 +28,7 @@ Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through fai
 - There is no condemnation for those in Christ who walk after the Spirit; nothing shall separate them from God’s love in Christ. [[sources/commentaries_english/mhenry-concise/romans/chapter-8#Verses 1–9|Matthew Henry Concise on Romans 8]] [[sources/commentaries_english/mhenry-concise/romans/chapter-8#Verses 28–39|Matthew Henry Concise on Romans 8]]
 - The same Lord is rich to all who call on him; faith comes by hearing the word of God. [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 12–17|Matthew Henry Concise on Romans 10]]
 - The Spirit is involved in waiting for the hope of righteousness by faith; salvation by faith is not a Spirit-less transaction. [[sources/commentaries_english/chspurgeon-sermons/volume-21/sermon_1228|Spurgeon, Salvation by Faith and the Work of the Spirit]]
+- McGee on 1 John: Gospel purpose is life through believing (John 20:30–31); epistle purpose is that believers may know they have eternal life and believe on the Son’s name (1 John 5:13). Either one has the Son by faith or not—no middle ground (5:11–12); refusing God’s witness makes him a liar (5:10). [[sources/personal-notes/ingest/1_John.pdf|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -37,6 +38,7 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - Spurgeon often presses the singularity of the way of salvation in evangelistic and polemic settings (one way, not grace-plus-law). [[sources/commentaries_english/chspurgeon-sermons/volume-13/sermon_765|Spurgeon, Grace the One Way of Salvation]]
 - Henry's Ephesians 2 exposition holds together natural misery, free grace, faith, new creation unto good works, and Jew-Gentile unity. Good works follow as fruit, not as the cause of acceptance. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-2#The Change Wrought in the Ephesians (61 AD)|Matthew Henry on Ephesians 2]]
 - Romans concise adds the full salvation arc (need → justification → holiness → Spirit → mission) in one epistle map; detailed justification claims now live primarily on [[wiki/concepts/Justification|Justification]].
+- McGee’s 1 John assurance frame complements Romans security without replacing the justification map; family-fellowship restoration (1 John 1:9) is not a second way of getting saved.
 - The relation between justification, sanctification, assurance, and final hope must still be kept distinct even while inseparable in Christian experience.
 
 ## Biblical passages
@@ -48,6 +50,7 @@ Key loci in the present evidence:
 - Ephesians 2:1–10
 - Galatians 5:5
 - Ephesians 1:12–13
+- 1 John 5:10–13
 
 No single primary verse is set in frontmatter because the concept is multi-passage in the sources used.
 
@@ -57,11 +60,8 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[wiki/concepts/Hope|Hope]]
 - [[wiki/concepts/Atonement|Atonement]]
 - [[wiki/concepts/Resurrection|Resurrection]]
-
 - [[wiki/source-notes/Matthew Henry Concise on Ephesians|Matthew Henry Concise on Ephesians]]
-
 - [[wiki/passages/Ephesians 2|Ephesians 2]]
-
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Justification|Justification]]
@@ -73,18 +73,15 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[wiki/passages/Romans 1|Romans 1]]
 - [[wiki/passages/Romans 3|Romans 3]]
 - [[wiki/passages/Romans 8|Romans 8]]
+- [[wiki/passages/1 John 5|1 John 5]]
 - [[wiki/source-notes/Matthew Henry Concise on Romans|Matthew Henry Concise on Romans]]
-
+- [[wiki/source-notes/Matthew Henry Concise on 1 John|Matthew Henry Concise on 1 John]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
 - [[wiki/source-notes/Matthew Henry Concise on Isaiah|Matthew Henry Concise on Isaiah]]
-
 - [[wiki/passages/Isaiah 53|Isaiah 53]]
-
 - [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
-
 - [[wiki/source-notes/Spurgeon Theme Batch — Salvation and Justification|Spurgeon Theme Batch — Salvation and Justification]]
-
 - [[wiki/source-notes/Matthew Henry Concise on Exodus|Matthew Henry Concise on Exodus]]
-
 - [[wiki/passages/Exodus 12|Exodus 12]]
 
 ## Sources
@@ -98,6 +95,7 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-6|Matthew Henry Concise, Romans 6]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-8|Matthew Henry Concise, Romans 8]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-10|Matthew Henry Concise, Romans 10]]
+- [[sources/personal-notes/ingest/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
 
 ## Open questions
 

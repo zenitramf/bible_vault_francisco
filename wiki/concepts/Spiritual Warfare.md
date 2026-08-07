@@ -4,15 +4,15 @@ title: Spiritual Warfare
 description: The Christian life as a real war against the devil, principalities and powers, fought with spiritual weapons and the whole armor of God (Eph 6:10–18; 1 Pe 5:8–9; Jas 4:7; Mt 4:1–11).
 tags: [christ, holy-spirit, holiness, discipleship, christian-life]
 status: reviewed
-updated: 2026-07-16
-source_count: 12
+updated: 2026-08-07
+source_count: 13
 ---
 
 # Spiritual Warfare
 
 ## Summary
 
-The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith.
+The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7).
 
 ## Core claims
 
@@ -28,6 +28,7 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 - The whole armor of God must be put on: the loins girt about with truth, the breastplate of righteousness, the feet shod with the preparation of the gospel of peace, the shield of faith, the helmet of salvation, and the sword of the Spirit, which is the word of God, with all prayer and supplication in the Spirit. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-6#The Spiritual Warfare (61 AD)|Matthew Henry on Ephesians 6]]
 - The Christian must withstand and then stand: resist in the evil day, and having done all, to stand; many try compromise, but saints have no order from their Captain to patch up a truce or offer concessions. [[sources/commentaries_english/chspurgeon-sermons/volume-37/sermon_2201|Spurgeon, The Sword of the Spirit]] [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-6#The Spiritual Warfare (61 AD)|Matthew Henry on Ephesians 6]]
 - The pastor's interior battle is itself part of the warfare: the pastor walks between two worlds, carrying silent wounds, battles of satanic oppression, and personal frustrations that cannot always be delegated or shared from the pulpit. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#El peso interno y la guerra espiritual del pastor|Pastor Andrés Gómez, El peso interno y la guerra espiritual del pastor]]
+- McGee on 1 Peter 5: “Be sober” is be intelligent—the believer is in an evil and dangerous world; resist the devil (cf. James 4:7); suffering remains on God’s agenda even while the adversary roars. [[sources/personal-notes/ingest/1_Peter.pdf|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -37,6 +38,7 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 - Henry's exposition of the armor is systematic, walking piece by piece through truth, righteousness, peace, faith, salvation, the Word, and prayer; Spurgeon's sermons apply the same elements exhortatively and at length (Sermon 416 on the Shield, Sermon 2201 on the Sword, Sermon 3143 on the Shoes, Sermon 3466 on Standing).
 - Henry emphasizes the devil as the grand accuser and persecutor; Spurgeon emphasizes his subtlety and ceaseless assault. Both belong to a full doctrine of the warfare.
 - Henry treats Christ's temptation (Mt 4) as the pattern for resistance ("It is written"); Spurgeon treats the believer's own conflict as the standing pattern, with Christ's victory supplying the ground of confidence.
+- McGee’s “be intelligent” gloss on sobriety and his James 4:7 cross-link agree with Henry’s sober vigilance and resistance duty on 1 Peter 5.
 - The Spanish pastoral note by Pastor Andrés Gómez names the pastor's interior war and his wife's role in sustaining him — a pastoral angle the English commentaries do not develop. The note is a single seed and should not yet be treated as a comprehensive treatment of ministry warfare.
 - This page does not yet develop a full demonology, the question of territorial spirits, deliverance ministry, or binding and loosing in the strict sense. The corpus here is silent on those questions, and that silence should be acknowledged rather than papered over with speculation.
 
@@ -48,10 +50,9 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 
 - [[wiki/concepts/Surrender|Surrender]]
 - [[wiki/passages/Ephesians 6|Ephesians 6]]
-
+- [[wiki/passages/1 Peter 5|1 Peter 5]]
 - [[wiki/concepts/Sin and the Fall|Sin and the Fall]]
 - [[wiki/concepts/Suffering|Suffering]]
-
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
 - [[wiki/concepts/Prayer|Prayer]]
@@ -61,6 +62,7 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
 - [[wiki/source-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|The Pastor and His Church — Pastor Andrés Gómez]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee Notes and Outlines on 1 Peter]]
 - [[wiki/passages/Matthew 4|Matthew 4]]
 
 ## Sources
@@ -77,6 +79,7 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[sources/commentaries_english/chspurgeon-sermons/volume-55/sermon_3143|Spurgeon, Sermon 3143: Shoes for Pilgrims and Warriors]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-61/sermon_3466|Spurgeon, Sermon 3466: A Warning to Believers]]
 - [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|Pastor Andrés Gómez, The Pastor and His Church]]
+- [[sources/personal-notes/ingest/1_Peter.pdf|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 
 ## Open questions
 
