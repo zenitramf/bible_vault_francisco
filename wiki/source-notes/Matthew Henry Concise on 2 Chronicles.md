@@ -4,7 +4,7 @@ title: Matthew Henry Concise on 2 Chronicles
 description: Book-level digest of Matthew Henry Concise 2 Chronicles (36 chapters) for the OT passage atlas (Phase 3.2).
 tags: [worship, prayer, covenant, holiness]
 status: seed
-updated: 2026-07-16
+updated: 2026-08-07
 source_count: 36
 source_path: "sources/commentaries_english/mhenry-concise/2-chronicles/"
 bible_book_key: 14
@@ -15,7 +15,7 @@ bible_book_name: "2 Chronicles"
 
 ## Summary
 
-Intentional ingest of **Matthew Henry Concise** on 2 Chronicles as a chapter-by-chapter backbone for the wiki passage atlas (36 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition. Part of campaign Phase 3.2 (OT remainder).
+Intentional ingest of **Matthew Henry Concise** on 2 Chronicles as a chapter-by-chapter backbone for the wiki passage atlas (36 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition. Part of campaign Phase 3.2 (OT remainder). Cross-linked to McGee Notes & Outlines on 1–2 Chronicles for multi-source temple dedication, reformation, and captivity-close thickening on hub chapters.
 
 ## Core claims
 
@@ -25,6 +25,8 @@ Intentional ingest of **Matthew Henry Concise** on 2 Chronicles as a chapter-by-
 ## Agreements and tensions
 
 Single-corpus (Henry Concise). Concept pages may already hold multi-source claims; this atlas supplies the book spine and should be thickened, not treated as exclusive.
+
+McGee Thru the Bible Notes & Outlines on 1–2 Chronicles ([[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Chronicles source-note]]) adds five Word-centered reformations, 7:14 Israel-direct application, and Cyrus/sabbath-land close beside this Concise spine—compare rather than merge.
 
 ## Biblical passages
 
@@ -37,6 +39,10 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]
+- [[wiki/concepts/Repentance|Repentance]]
+- [[wiki/concepts/Word of God|Word of God]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Notes and Outlines on 1 and 2 Chronicles]]
+- [[wiki/source-notes/Matthew Henry Concise on 1 Chronicles|Matthew Henry Concise on 1 Chronicles]]
 - [[wiki/campaigns/tracker|Campaign tracker]]
 
 ## Sources

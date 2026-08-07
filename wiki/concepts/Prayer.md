@@ -5,14 +5,14 @@ description: Humble approach to the Father, taught by Christ, helped by the Spir
 tags: [prayer, christ, holy-spirit, discipleship]
 status: reviewed
 updated: 2026-08-07
-source_count: 7
+source_count: 8
 ---
 
 # Prayer
 
 ## Summary
 
-The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit.
+The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). McGee on 1–2 Chronicles adds David’s great temple-offering prayer (1 Chronicles 29:10–19) and Solomon’s dedication prayer (2 Chronicles 6) as major OT models of adoration, dependence, and house-of-prayer orientation. Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit.
 
 ## Core claims
 
@@ -24,6 +24,7 @@ The retrieved sources present prayer as sincere address to God rather than publi
 - Phase 3.1 Psalms concise atlas (150 psalms) expands prayer beyond NT form-passages: meditation on the word, penitence, and trust under affliction now have chapter spines for later Treasury of David deepening. [[wiki/passages/Psalm 1|Psalm 1]] [[wiki/passages/Psalm 51|Psalm 51]] [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
 - Treasury of David thickens Psalter prayer language on hub psalms after the concise atlas. [[wiki/source-notes/Spurgeon Treasury of David Volume 1|ToD Vol 1]] [[wiki/passages/Psalm 51|Psalm 51]]
 - McGee on 1 John: Demonstrated brother-love gives confidence in prayer; even when heart condemns, God is greater and still hears (3:19–22). Boldness if we ask according to his will—measured by the Word; answered petitions are final proof (5:14–15). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
+- McGee on Chronicles: David’s prayer at the temple offerings (1 Chronicles 29:10–19) is all-comprehensive—adoration, praise, thanksgiving, repudiation of human merit, dependence, humiliation, confession, dedication—and McGee links it as background the Lord used in the so-called Lord’s Prayer; Solomon’s dedication prayer (2 Chronicles 6) sets the temple’s place in future God–Israel relationship (Daniel prays toward Jerusalem, Daniel 6:10); God answers by fire and glory (2 Chronicles 7:1). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|McGee Notes & Outlines on 1–2 Chronicles]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Chronicles source-note]] [[wiki/passages/1 Chronicles 29|1 Chronicles 29]] [[wiki/passages/2 Chronicles 7|2 Chronicles 7]]
 
 ## Agreements and tensions
 
@@ -33,10 +34,11 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - Henry distinguishes the Lord's Prayer taught to disciples from Christ's unique mediatorial prayer; the two are related but not identical. [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-17#Christ's Intercessory Prayer|Matthew Henry on John 17]]
 - Spurgeon's Romans 8 treatment emphasizes the Spirit's interior aid in weakness more than the form and pattern of petition; Henry Concise on Romans 8 and 15 add the same Spirit-help theme plus corporate striving in prayer. [[sources/commentaries_english/chspurgeon-sermons/volume-26/sermon_1532|Spurgeon, The Holy Spirit's Intercession]]
 - McGee’s will/Word condition and love-action confidence mesh with Spirit-helped petition without turning answered prayer into a prosperity test.
+- McGee’s claim that the Lord’s Prayer “evidently” used 1 Chronicles 29:10–19 is a single-author radio observation—record as affinity of themes (Father, kingdom, daily provision, forgiveness motifs in broader biblical prayer), not as established literary dependence.
 
 ## Biblical passages
 
-Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John 3:19–22; 5:14–15.
+Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John 3:19–22; 5:14–15; 1 Chronicles 29:10–19; 2 Chronicles 6–7.
 
 ## Related pages
 
@@ -54,6 +56,8 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[wiki/passages/Romans 15|Romans 15]]
 - [[wiki/passages/1 John 3|1 John 3]]
 - [[wiki/passages/1 John 5|1 John 5]]
+- [[wiki/passages/1 Chronicles 29|1 Chronicles 29]]
+- [[wiki/passages/2 Chronicles 7|2 Chronicles 7]]
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 - [[wiki/passages/Psalm 1|Psalm 1]]
 - [[wiki/passages/Psalm 51|Psalm 51]]
@@ -62,6 +66,7 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[wiki/source-notes/Spurgeon Theme Batch — Faith and Prayer|Spurgeon Theme Batch — Faith and Prayer]]
 - [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Morning and Evening enrichment]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Notes and Outlines on 1 and 2 Chronicles]]
 
 ## Sources
 
@@ -72,6 +77,7 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-8|Matthew Henry Concise, Romans 8]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-15|Matthew Henry Concise, Romans 15]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Chronicles]]
 
 ## Open questions
 

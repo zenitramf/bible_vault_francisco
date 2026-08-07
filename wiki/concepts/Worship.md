@@ -4,15 +4,15 @@ title: Worship
 description: Spirit-and-truth approach to the Father in praise, sanctuary service, and accepted offering (Jn 4:20–24; Ps 134).
 tags: [worship, christ, holy-spirit, prayer, stewardship]
 status: reviewed
-updated: 2026-07-17
-source_count: 8
+updated: 2026-08-07
+source_count: 9
 ---
 
 # Worship
 
 ## Summary
 
-The sources define true worship less by sacred geography than by the character of God and the sincerity of the worshiper. Because God is Spirit, true worshipers worship the Father in spirit and in truth. Biblical worship also includes public blessing of the Lord in his house and God's own acceptance of prayer and sacrifice.
+The sources define true worship less by sacred geography than by the character of God and the sincerity of the worshiper. Because God is Spirit, true worshipers worship the Father in spirit and in truth. Biblical worship also includes public blessing of the Lord in his house and God's own acceptance of prayer and sacrifice. McGee on 1–2 Chronicles thickens the OT altar-and-temple frame: Chronicles tells history from the temple rather than the palace, centers David’s passion to build, and records glory filling Solomon’s house as God’s approval.
 
 ## Core claims
 
@@ -28,6 +28,7 @@ The sources define true worship less by sacred geography than by the character o
 - The Psalter ends in a rapture of praise—Praise him in his sanctuary and firmament, for his mighty acts and excellent greatness, with trumpet, psaltery, and harp. [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-150|Treasury of David, Psalm 150]] [[sources/commentaries_english/mhenry-concise/psalms/psalm-150|Matthew Henry Concise on Psalm 150]]
 - Worshipers are resolved to be glad and rejoice in the Lord, rehearsing everlasting praise rather than opening the year with dolorous notes alone. [[sources/commentaries_english/chspurgeon-mae/january/january-1|Spurgeon Morning and Evening, January 1]]
 - Material giving is itself an act of worship: recognizing God as owner and giving back what He first gave is doxological, not transactional—David's "todo es tuyo ... de lo recibido de tu mano te damos" (1 Chr 29:14) is offered as worship. [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala#14:00|Ringo Ayala, "Esto es de Dios ... y eso se convierte en adoración"]] [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
+- McGee on Chronicles: history from the altar (temple center) rather than the throne; David’s chief ambition and final national word concern building the temple; glory fills Solomon’s temple as it filled the tabernacle (2 Chronicles 5:13–14); God accepts dedication sacrifices by fire (7:1); Israel’s witness drew nations to Jerusalem to worship (Psalm 122:1–2), while the church is commanded to go to the world. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|McGee Notes & Outlines on 1–2 Chronicles]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Chronicles source-note]]
 
 ## Agreements and tensions
 
@@ -35,11 +36,12 @@ The sources define true worship less by sacred geography than by the character o
 
 - Henry's John 4 exposition relocates worship from contested holy places to spiritual reality in the gospel era. [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-4#Christ at the Well of Samaria|Matthew Henry on John 4]]
 - Spurgeon on Psalm 134 retains a strong sense of sanctuary service and ministerial leading in blessing. [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-134#Exposition|Spurgeon, Treasury of David on Psalm 134]]
+- McGee’s temple-as-center and nations-come-to-Jerusalem frame thickens OT sanctuary worship beside Henry on 2 Chronicles 7 glory; his note that temple enlargements obscure tabernacle simplicity (Hebrews uses tabernacle typology) should be held as one author’s outline, not exclusive vault typology.
 - This page does not yet yet resolve later debates about liturgy, music, or sacramental worship; those require further sources.
 
 ## Biblical passages
 
-Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3.
+Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3; 1 Chronicles 29; 2 Chronicles 5–6.
 
 ## Related pages
 
@@ -58,10 +60,13 @@ Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3.
 
 - [[wiki/passages/Psalm 150|Psalm 150]]
 
+- [[wiki/passages/1 Chronicles 29|1 Chronicles 29]]
+- [[wiki/passages/2 Chronicles 7|2 Chronicles 7]]
 - [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Leviticus|Matthew Henry Concise on Leviticus]]
 - [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Notes and Outlines on 1 and 2 Chronicles]]
 
 ## Sources
 - [[sources/commentaries_english/mhenry-concise/psalms/psalm-100|Matthew Henry Concise, Psalm 100]]
@@ -73,6 +78,7 @@ Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3.
 - [[sources/commentaries_english/chspurgeon-tod/volume-7/psalm-134|Spurgeon, Treasury of David, Psalm 134]]
 - [[sources/commentaries_english/mhenry-complete/volume-2/2-chronicles/chapter-7|Matthew Henry, 2 Chronicles 7]]
 - [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala (transcript)]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Chronicles]]
 
 ## Open questions
 

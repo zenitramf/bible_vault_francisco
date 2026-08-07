@@ -4,8 +4,8 @@ title: 1 Chronicles 29
 description: David induces the princes and people to offer willingly. (1–9). His thanksgiving and prayer. (10–19). Solomon enthroned. (20–25). David's reign and death. (26–30).
 tags: [worship, covenant, christ, prayer]
 status: seed
-updated: 2026-07-16
-source_count: 2
+updated: 2026-08-07
+source_count: 3
 bible_book_key: 13
 bible_book_name: "1 Chronicles"
 ---
@@ -14,7 +14,7 @@ bible_book_name: "1 Chronicles"
 
 ## Summary
 
-Matthew Henry Concise on 1 Chronicles 29: David induces the princes and people to offer willingly. (1–9). His thanksgiving and prayer. (10–19). Solomon enthroned. (20–25). David's reign and death. (26–30).
+Matthew Henry Concise on 1 Chronicles 29: David induces the princes and people to offer willingly. (1–9). His thanksgiving and prayer. (10–19). Solomon enthroned. (20–25). David's reign and death. (26–30). McGee stresses David’s final national word on building the temple, love for the Lord in generous giving, and the greatness of the prayer in vv. 10–19.
 
 ## Core claims
 
@@ -22,12 +22,15 @@ Matthew Henry Concise on 1 Chronicles 29: David induces the princes and people t
 - This great assembly joined with David in adoring God. Whoever is the mouth of the congregation, those only have the benefit who join him, not by bowing down the head, so much as by lifting up the soul. [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-29#Verses 20–25|Matthew Henry Concise on 1 Chronicles 29]]
 - When we read the second book of Samuel, we could scarcely have expected to behold David appear so illustrious in his closing scene. But his repentance had been as remarkable as his sin; and his conduct during his afflictions, and towards the end of his life, appears to have had a good effect on his subjects. [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-29#Verses 26–30|Matthew Henry Concise on 1 Chronicles 29]]
 - David has said what he had to say to Solomon. But he had something more to say to the congregation before he parted with them. I. He pressed them to contribute, according to their ability, towards the building and… [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-29|Matthew Henry Complete on 1 Chronicles 29]]
+- McGee: David’s final word to the nation concerned building the temple; he loved the Lord (vv. 2–3); vv. 10–19 give a great prayer—all-comprehensive, majestic, filled with adoration, praise, and thanksgiving; it repudiates human merit, declares dependence, reveals self-humiliation, confession, and dedication, admitting all belongs to God; McGee says it was evidently used by our Lord in the so-called Lord’s Prayer; chapter closes with David’s death and Solomon’s ascension. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|McGee Notes & Outlines on 1–2 Chronicles]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Chronicles source-note]]
 
 ## Agreements and tensions
 
 Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
 
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+McGee and Henry agree on willing offering, corporate adoration, and a noble close to David’s life; McGee’s Lord’s-Prayer literary link is a single-author observation and should not be treated as established dependence.
+
+Concise notes are pastoral summaries, not full critical commentary.
 
 ## Biblical passages
 
@@ -36,6 +39,7 @@ Primary scope: 1 Chronicles 29 (full chapter).
 ## Related pages
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Notes and Outlines on 1 and 2 Chronicles]]
 
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Covenant|Covenant]]
@@ -48,6 +52,7 @@ Primary scope: 1 Chronicles 29 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-chronicles/chapter-29|Matthew Henry Concise, 1 Chronicles 29]]
 - [[sources/commentaries_english/mhenry-complete/volume-2/1-chronicles/chapter-29|Matthew Henry Complete on 1 Chronicles 29]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Chronicles]]
 
 ## Open questions
 

@@ -465,3 +465,22 @@ append_only: true
 - Created pdftotext extract sidecar `1-2_Timothy-Titus-Philemon.pdf.extract.md`.
 - Rebuilt source-note from extract (status developing); restored McGee claims on Pastoral Ministry, Church, Word of God, and hub passages 1 Timothy 1/3, 2 Timothy 3/4, Titus 1/2, Philemon 1.
 - Evidence wikilinks target the extract (lint-safe); `source_path` remains the PDF.
+
+## [2026-08-07] ingest | batch batch-53e1a950-msjfomfx
+
+- status: partial
+- discovered: 1
+- ingested: 1
+- failed: 0
+- skipped: 0
+- maintenance: issues
+- ingested [pdf]: sources/personal-notes/ingest/1-2_Chronicles.pdf extract=sources/personal-notes/ingest/1-2_Chronicles.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles.md
+
+## [2026-08-07] maintenance | McGee Chronicles path fix + gate
+
+- Promoted sources/personal-notes/ingest/1-2_Chronicles.pdf (+ extract) to sources/commentaries_english/mcgee-thru-the-bible/
+- Rewrote wiki citations and source-note paths to the commentary tree; cite extract sidecars
+- Cleared personal-notes/ingest index; updated McGee series index
+- Removed invalid chapter-only bible_reference fields on 1 Chronicles 17/29 and 2 Chronicles 7/36
+- Fixed Mastra llm-wiki-ingest classifier (assist-agent-1) to route bare McGee Notes book PDFs to mcgee-thru-the-bible
+- Ran build, source-scan, doctor, lint, source-lint, lint_wiki, audit_public
