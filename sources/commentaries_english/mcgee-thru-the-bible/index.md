@@ -1,7 +1,8 @@
 # J. Vernon McGee — Thru the Bible Notes & Outlines
 
-Cleaned markdown for this series is staged under `raw/mcgee-thru-the-bible/` pending full promotion into immutable chapter files. Cite the staged corpus and the wiki source-notes until chapter files land under this folder.
+Immutable PDF Notes & Outlines for this series live here under `sources/commentaries_english/mcgee-thru-the-bible/`. Cleaned markdown for some books may still be staged under `raw/mcgee-thru-the-bible/` pending chapter-level promotion.
 
 # Contents
 
-* [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon|1 & 2 Timothy, Titus, Philemon]] — Notes & Outlines (Pastoral Epistles and Philemon).
+* `sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf` — Notes & Outlines on 1 Corinthians (PDF).
+* [[raw/mcgee-thru-the-bible/1-2-timothy-titus-philemon|1 & 2 Timothy, Titus, Philemon]] — Notes & Outlines (Pastoral Epistles and Philemon; cleaned markdown still under raw/).

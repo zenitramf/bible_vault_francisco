@@ -4,7 +4,7 @@ title: Matthew Henry Concise on 1 Corinthians
 description: Book-level digest of Matthew Henry Concise 1 Corinthians (16 chapters) for the NT passage atlas.
 tags: [church, holiness, christ, christian-life]
 status: seed
-updated: 2026-07-16
+updated: 2026-08-07
 source_count: 16
 source_path: "sources/commentaries_english/mhenry-concise/1-corinthians/"
 bible_book_key: 46
@@ -15,7 +15,7 @@ bible_book_name: "1 Corinthians"
 
 ## Summary
 
-Intentional ingest of **Matthew Henry Concise** on 1 Corinthians as a chapter-by-chapter backbone for the wiki passage atlas (16 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition.
+Intentional ingest of **Matthew Henry Concise** on 1 Corinthians as a chapter-by-chapter backbone for the wiki passage atlas (16 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition. McGee Notes & Outlines on the same book now supply a parallel book-level outline ([[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee on 1 Corinthians]]).
 
 ## Core claims
 
@@ -24,7 +24,7 @@ Intentional ingest of **Matthew Henry Concise** on 1 Corinthians as a chapter-by
 
 ## Agreements and tensions
 
-Single-corpus (Henry Concise). Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, personal notes); this atlas supplies the book spine and should be thickened, not treated as exclusive.
+Henry Concise is the atlas spine; concept and hub passage pages now also carry Henry Complete and McGee outline claims where ingested. McGee agrees on cross-centered correction of divisions, love over gifts, and bodily resurrection, and adds lordship/fellowship framing, natural/carnal/spiritual anthropology, and dispensational notes on resurrection order and tongues—compare rather than fuse. Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, personal notes); this atlas supplies the book spine and should be thickened, not treated as exclusive.
 
 ## Biblical passages
 
@@ -36,6 +36,8 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Christ|Christ]]
+- [[wiki/concepts/Resurrection|Resurrection]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee Notes and Outlines on 1 Corinthians]]
 - [[wiki/campaigns/tracker|Campaign tracker]]
 
 ## Sources
@@ -59,4 +61,4 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 
 ## Open questions
 
-- Which hub chapters in 1 Corinthians should next receive Henry Complete and Spurgeon deepening?
+- Which hub chapters in 1 Corinthians should next receive Henry Complete and Spurgeon deepening beyond chapters already thickened with McGee?

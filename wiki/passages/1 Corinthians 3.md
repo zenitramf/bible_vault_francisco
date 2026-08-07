@@ -1,11 +1,12 @@
 ---
 type: Passage Study
 title: 1 Corinthians 3
-description: The Corinthians reproved for their contentions. (1–4). The true servants of Christ can do nothing without him. (5–9). He is the only foundation, and every one should take heed what he builds thereon. (10–15). The chur…
+description: The Corinthians reproved for their contentions. (1–4). The true servants of Christ can do nothing without him. (5–9). He is the only foundation, and every one should take heed what he builds thereon. (10–15). The church as God's temple.
 tags: [church, holiness, christ, christian-life]
-status: seed
-updated: 2026-07-16
-source_count: 2
+status: developing
+updated: 2026-08-07
+source_count: 3
+bible_reference: "1co 3"
 bible_book_key: 46
 bible_book_name: "1 Corinthians"
 ---
@@ -14,7 +15,7 @@ bible_book_name: "1 Corinthians"
 
 ## Summary
 
-Matthew Henry Concise on 1 Corinthians 3: The Corinthians reproved for their contentions. (1–4). The true servants of Christ can do nothing without him. (5–9). He is the only foundation, and every one should take heed what he builds thereon. (10–15). The chur….
+Matthew Henry Concise on 1 Corinthians 3: contentions rebuked; ministers as instruments; Christ the only foundation and tested building; temple holiness; worldly wisdom folly. McGee adds carnality proven by envy/strife/divisions, natural vs carnal/spiritual anthropology, six building materials tested by fire for reward or loss with salvation intact, and body as Spirit’s temple.
 
 ## Core claims
 
@@ -24,12 +25,13 @@ Matthew Henry Concise on 1 Corinthians 3: The Corinthians reproved for their con
 - From other parts of the epistle, it appears that the false teachers among the Corinthians taught unholy doctrines. Such teaching tended to corrupt, to pollute, and destroy the building, which should be kept pure and holy for God. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-3#Verses 16, 17|Matthew Henry Concise on 1 Corinthians 3]]
 - To have a high opinion of our own wisdom, is but to flatter ourselves; and self-flattery is the next step to self-deceit. The wisdom that wordly men esteem, is foolishness with God. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-3#Verses 18–23|Matthew Henry Concise on 1 Corinthians 3]]
 - In this chapter the apostle, I. Blames the Corinthians for their carnality and divisions, 1Co 3:1-4. II. He instructs them how what was amiss among them might be rectified, by remembering, 1. That their ministers were… [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-3|Matthew Henry Complete on 1 Corinthians 3]]
+- McGee: carnality is evident in envy, strife, and divisions; human family = natural (Jew/Gentile) or believer (carnal/spiritual); Paul and Apollos were not divided. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee on 1 Corinthians 3:1–10]]
+- McGee: salvation foundation already laid—no working for salvation; believers build with gold, silver, precious stones or wood, hay, stubble; fire tests work—surviving work yields reward, consumed work leaves the believer saved without reward; body is temple of the Holy Spirit; all things and believers belong to one another. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee on 1 Corinthians 3:11–23]]
 
 ## Agreements and tensions
 
-Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
-
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+- Henry and McGee agree Christ alone is foundation, ministers are instruments, and building/temple must stay pure.
+- McGee’s reward-by-fire scheme and carnal Christian category are classic outline emphases; keep distinct from justification and from denying true conversion.
 
 ## Biblical passages
 
@@ -38,9 +40,11 @@ Primary scope: 1 Corinthians 3 (full chapter).
 ## Related pages
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
-
+- [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee Notes and Outlines on 1 Corinthians]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
+- [[wiki/concepts/Stewardship|Stewardship]]
+- [[wiki/concepts/Holy Spirit|Holy Spirit]]
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/passages/1 Corinthians 2|1 Corinthians 2]]
 - [[wiki/passages/1 Corinthians 4|1 Corinthians 4]]
@@ -50,7 +54,8 @@ Primary scope: 1 Corinthians 3 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-3|Matthew Henry Concise, 1 Corinthians 3]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-3|Matthew Henry Complete on 1 Corinthians 3]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
 
 ## Open questions
 
-- Which Complete-commentary or Spurgeon materials should next thicken the hub claims of this chapter?
+- Should stewardship and judgment-seat teaching on this chapter be thickened next from 2 Corinthians 5:10 materials?

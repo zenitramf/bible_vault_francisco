@@ -414,3 +414,29 @@ append_only: true
 - Maintenance: build (1408 catalog rows), source-scan --update --accept-covered (6837), source-lint pass, audit-public pass, doctor pass
 - Lint residual (pre-existing, not this ingest): 9 broken wikilinks to sources/personal-notes/Little Known Bible Heroes
 - Caveat: cleaned corpus remains in raw/ until split into immutable chapter files under sources/commentaries_english/mcgee-thru-the-bible/
+
+## [2026-08-07] ingest | batch batch-e30abeb6-msj2kp3b
+
+- status: partial
+- discovered: 1
+- ingested: 1
+- failed: 0
+- skipped: 0
+- maintenance: issues
+- ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md note=wiki/source-notes/1_Corinthians.md
+
+## [2026-08-07] ingest | batch batch-228e3149-msj2z73y
+
+- status: partial
+- discovered: 1
+- ingested: 1
+- failed: 0
+- skipped: 0
+- maintenance: issues
+- ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 Corinthians.md
+
+## [2026-08-07] maintain | Relocate McGee 1 Corinthians PDF
+
+- Moved PDF + extract sidecar from `sources/personal-notes/ingest/` → `sources/commentaries_english/mcgee-thru-the-bible/`.
+- Rewrote wiki citations on the McGee 1 Corinthians source-note, hub passages (1, 2, 3, 11–13, 15), and concepts (Church, Holiness, Holy Spirit, Resurrection, Hope).
+- These Notes & Outlines are commentary corpus, not personal notes.
