@@ -484,3 +484,13 @@ append_only: true
 - Removed invalid chapter-only bible_reference fields on 1 Chronicles 17/29 and 2 Chronicles 7/36
 - Fixed Mastra llm-wiki-ingest classifier (assist-agent-1) to route bare McGee Notes book PDFs to mcgee-thru-the-bible
 - Ran build, source-scan, doctor, lint, source-lint, lint_wiki, audit_public
+
+## [2026-08-07] ingest | batch batch-e801a565-msjk39x7
+
+- status: partial
+- discovered: 1
+- ingested: 1
+- failed: 0
+- skipped: 0
+- maintenance: issues
+- ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings.md

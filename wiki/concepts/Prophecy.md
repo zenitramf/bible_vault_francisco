@@ -4,15 +4,15 @@ title: Prophecy
 description: God's word spoken through holy messengers, tested against false prophecy, and used for church edification (2 Pet 1; Jer 23; 1 Cor 14).
 tags: [prophecy, holy-spirit, church, justice]
 status: reviewed
-updated: 2026-07-16
-source_count: 5
+updated: 2026-08-07
+source_count: 6
 ---
 
 # Prophecy
 
 ## Summary
 
-The sources treat prophecy primarily as God-originated speech, not private invention. True prophecy comes as holy men of God are moved by the Holy Ghost; false prophets run unsent, soothe people in sin, and substitute dreams of their own hearts. In the gathered church, prophesying is prized for edification, exhortation, and comfort.
+The sources treat prophecy primarily as God-originated speech, not private invention. True prophecy comes as holy men of God are moved by the Holy Ghost; false prophets run unsent, soothe people in sin, and substitute dreams of their own hearts. In the gathered church, prophesying is prized for edification, exhortation, and comfort. McGee on 1–2 Kings thickens the historical spine: in Kings the prophet overtakes the priest as God’s chief instrument; Elijah, Micaiah, Elisha, and the unnamed messengers confront kings, expose Baal’s liars, and announce captivity when the word is refused.
 
 ## Core claims
 
@@ -23,6 +23,7 @@ The sources treat prophecy primarily as God-originated speech, not private inven
 
 
 - Phase 3.1 Isaiah concise atlas supplies the major-prophet backbone (66 chapters); hub chapters for call, holy vision, and the suffering Servant mesh with Christ and salvation pages. [[wiki/passages/Isaiah 6|Isaiah 6]] [[wiki/passages/Isaiah 53|Isaiah 53]] [[sources/commentaries_english/mhenry-concise/isaiah/chapter-53|Matthew Henry Concise on Isaiah 53]]
+- McGee on Kings: feature of the books is prominence of the prophet and insignificance of the priest; king and prophet replace priest as instruments of communication in 2 Kings. Elijah announces drought, wins Carmel against 450 Baal prophets (“one with God is a majority”), flees then hears God in the still small voice, and pronounces judgment on Ahab/Jezebel. Micaiah alone speaks truth against Ahab’s court prophets (1 Kings 22). Elisha’s broader miracle ministry and succession at Elijah’s translation continue the office. Captivity comes after the Lord testified by all the prophets and seers (2 Kings 17:13) and the people would not hear. Jonah is historically confirmed as prophet under Jeroboam II (2 Kings 14:25). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]] [[wiki/passages/1 Kings 18|1 Kings 18]] [[wiki/passages/2 Kings 2|2 Kings 2]] [[wiki/passages/2 Kings 17|2 Kings 17]]
 
 ## Agreements and tensions
 
@@ -30,11 +31,12 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 
 - This seed page is Henry-dominant. The available Spurgeon hit for the refined prophecy query was less directly definitional and was not forced into consensus.
 - Jeremiah 23 focuses on false prophecy and pastoral failure; 2 Peter 1 on inspiration; 1 Corinthians 14 on congregational use. These are related but not identical senses of "prophecy."
+- McGee’s Kings narrative supplies OT office-prophecy under monarchy (true vs Baal court prophets; word fulfilled in Ahab’s death and Jezebel’s end) that pairs with Jeremiah 23’s false-prophet polemic without collapsing office prophecy into NT congregational prophecy.
 - Continuity between Old Testament prophetic office and New Testament congregational prophecy remains an open historical-theological question in this vault.
 
 ## Biblical passages
 
-Key loci: 2 Peter 1:19–21; Jeremiah 23:9–32; 1 Corinthians 14:1–5.
+Key loci: 2 Peter 1:19–21; Jeremiah 23:9–32; 1 Corinthians 14:1–5; 1 Kings 17–19, 22; 2 Kings 2; 2 Kings 17:13–23.
 
 ## Related pages
 
@@ -55,6 +57,10 @@ Key loci: 2 Peter 1:19–21; Jeremiah 23:9–32; 1 Corinthians 14:1–5.
 
 - [[wiki/passages/Isaiah 53|Isaiah 53]]
 
+- [[wiki/passages/1 Kings 18|1 Kings 18]]
+- [[wiki/passages/2 Kings 2|2 Kings 2]]
+- [[wiki/passages/2 Kings 17|2 Kings 17]]
+
 - [[wiki/source-notes/Matthew Henry Concise on Isaiah|Matthew Henry Concise on Isaiah]]
 
 - [[wiki/source-notes/Spurgeon Theme Batch — Prophecy Hope and Wisdom|Spurgeon Theme Batch — Prophecy Hope and Wisdom]]
@@ -64,6 +70,7 @@ Key loci: 2 Peter 1:19–21; Jeremiah 23:9–32; 1 Corinthians 14:1–5.
 - [[wiki/source-notes/Matthew Henry Concise on Daniel|Matthew Henry Concise on Daniel]]
 
 - [[wiki/source-notes/Matthew Henry Concise on Zechariah|Matthew Henry Concise on Zechariah]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Notes and Outlines on 1 and 2 Kings]]
 
 ## Sources
 
@@ -72,6 +79,7 @@ Key loci: 2 Peter 1:19–21; Jeremiah 23:9–32; 1 Corinthians 14:1–5.
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-corinthians/chapter-14|Matthew Henry, 1 Corinthians 14]]
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-53|Matthew Henry Concise, Isaiah 53]]
 - [[sources/commentaries_english/mhenry-concise/isaiah/chapter-6|Matthew Henry Concise, Isaiah 6]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
 
 ## Open questions
 
