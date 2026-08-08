@@ -4,7 +4,7 @@ title: Matthew Henry Concise on Acts
 description: Book-level digest of Matthew Henry Concise Acts (28 chapters) for the NT passage atlas.
 tags: [church, holy-spirit, discipleship]
 status: seed
-updated: 2026-07-16
+updated: 2026-08-08
 source_count: 28
 source_path: "sources/commentaries_english/mhenry-concise/acts/"
 bible_book_key: 44
@@ -15,7 +15,7 @@ bible_book_name: "Acts"
 
 ## Summary
 
-Intentional ingest of **Matthew Henry Concise** on Acts as a chapter-by-chapter backbone for the wiki passage atlas (28 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition.
+Intentional ingest of **Matthew Henry Concise** on Acts as a chapter-by-chapter backbone for the wiki passage atlas (28 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition. Multi-source thickening has begun with Matthew Henry Complete on hub chapters and with [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Notes and Outlines on Acts]] on Acts 1, 2, 9, and 15.
 
 ## Core claims
 
@@ -24,7 +24,7 @@ Intentional ingest of **Matthew Henry Concise** on Acts as a chapter-by-chapter 
 
 ## Agreements and tensions
 
-Single-corpus (Henry Concise). Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, personal notes); this atlas supplies the book spine and should be thickened, not treated as exclusive.
+Primary corpus remains Henry Concise. Concept pages and selected hubs now hold multi-source claims (Henry Complete, McGee Acts outline); this atlas supplies the book spine and should be thickened, not treated as exclusive. McGee’s dispensational frames (Pentecost church-birthday, Acts 15 “after this,” Matthias/Paul) should be compared, not collapsed into Henry.
 
 ## Biblical passages
 
@@ -36,6 +36,7 @@ Acts (full book scope in the atlas).
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
 - [[wiki/concepts/Discipleship|Discipleship]]
+- [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Notes and Outlines on Acts]]
 - [[wiki/campaigns/tracker|Campaign tracker]]
 
 ## Sources
@@ -71,4 +72,4 @@ Acts (full book scope in the atlas).
 
 ## Open questions
 
-- Which hub chapters in Acts should next receive Henry Complete and Spurgeon deepening?
+- Which hub chapters in Acts should next receive Henry Complete and Spurgeon deepening beyond 1, 2, 9, and 15?

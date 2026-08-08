@@ -506,3 +506,15 @@ append_only: true
 - ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel.md
 - ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians.md
 - ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 2 Corinthians.md
+
+## [2026-08-08] ingest | batch batch-0f57bd7e-msjne17a
+
+- status: failed
+- discovered: 3
+- ingested: 0
+- failed: 3
+- skipped: 0
+- maintenance: skipped
+- failed [pdf]: sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md (ToolInvocation must have a result: {"state":"output-error","toolCallId":"call-b3a1aca3-b4e6-43e2-aadb-0b08e39b052c-2","toolName":"bible_vault","args":{"operation":"read","path":"_templates/source-note.md"},"errorText":"Bible Vault reads are limited to wiki notes, their sources, and schema documentation."})
+- failed [pdf]: sources/personal-notes/ingest/Amos-Obadiah.pdf extract=sources/personal-notes/ingest/Amos-Obadiah.pdf.extract.md (ToolInvocation must have a result: {"state":"output-error","toolCallId":"call-b9467d05-3ec3-4b26-bef4-7816d2a4684b-2","toolName":"bible_vault","args":{"operation":"read","path":"_templates/source-note.md"},"errorText":"Bible Vault reads are limited to wiki notes, their sources, and schema documentation."})
+- failed [pdf]: sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md (ToolInvocation must have a result: {"state":"output-error","toolCallId":"call-8eec2844-a7a0-4659-9d1a-96bd7d1477be-2","toolName":"bible_vault","args":{"operation":"read","path":"_templates/source-note.md"},"errorText":"Bible Vault reads are limited to wiki notes, their sources, and schema documentation."})

@@ -4,15 +4,15 @@ title: Grace
 description: God's free, undeserved favor in Christ that grounds salvation, justification, and good works without purchasing merit (Rom 3–5; Eph 2).
 tags: [salvation, faith, christ, christian-life]
 status: reviewed
-updated: 2026-08-07
-source_count: 6
+updated: 2026-08-08
+source_count: 7
 ---
 
 # Grace
 
 ## Summary
 
-In the vault sources, grace is God's free favor toward sinners: salvation is received by faith *so that* it may be by grace and the promise sure; justification is free by grace through the redemption in Christ; and even charity and usefulness spring from grace rather than self-generated merit. Spurgeon presses free-grace reception of salvation; Henry maps free justification and grace that superabounds beyond Adam's offense. McGee on 2 Peter adds the epistle’s closing program—grow in grace and in the knowledge of the Lord and Savior Jesus Christ (2 Peter 3:18)—as the believer’s all-important present path under the threat of apostasy and the certainty of the Lord’s coming.
+In the vault sources, grace is God's free favor toward sinners: salvation is received by faith *so that* it may be by grace and the promise sure; justification is free by grace through the redemption in Christ; and even charity and usefulness spring from grace rather than self-generated merit. Spurgeon presses free-grace reception of salvation; Henry maps free justification and grace that superabounds beyond Adam's offense. McGee on 2 Peter adds the epistle’s closing program—grow in grace and in the knowledge of the Lord and Savior Jesus Christ (2 Peter 3:18)—as the believer’s all-important present path under the threat of apostasy and the certainty of the Lord’s coming. McGee on Acts casts the Jerusalem council as law vs grace/liberty: Gentiles are not put under Moses for salvation, while the same grace may permit Jewish believers to keep precepts when not trusted for standing (Paul’s vow, ch. 21).
 
 ## Core claims
 
@@ -23,6 +23,7 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 
 - By nature people are dead in trespasses and sins; salvation is by grace through faith, not of ourselves, not of works, lest any should boast. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-2|Matthew Henry Complete on Ephesians 2]]
 - McGee on 2 Peter: the epitome of the epistle is “grow in grace, and in the knowledge of our Lord and Savior, Jesus Christ” (3:18); knowledge of God’s program is an incentive to that growth; Paul said “Study,” Peter said “Grow”—both refer believers to the Bible. Addition of Christian graces (1:5–7) gives assurance and guards against spiritual senility. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|McGee Notes & Outlines on 2 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee 2 Peter source-note]] [[wiki/passages/2 Peter 3|2 Peter 3]]
+- McGee on Acts 15: council question is law vs grace/liberty—must Gentiles come under Mosaic Law to be Christians? Decision: no Mosaic demands for standing; courtesy regarding idols and fornication. Same grace that frees Gentiles permits a Jew (Paul) a voluntary vow to win Jews when not trusted for salvation (Acts 21; 1 Cor 7:17–18; 9:19–23). [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]] [[wiki/passages/Acts 15|Acts 15]]
 
 ## Agreements and tensions
 
@@ -31,6 +32,7 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - Henry and Spurgeon agree that grace is free, Christ-centered, and received by faith rather than earned by works.
 - Spurgeon's evangelistic emphasis often pairs "by grace" with the *means* of faith and the certainty of the promise; Henry's Romans expositions stress free justification and grace's superabundance over Adamic ruin.
 - McGee’s 2 Peter “grow in grace” is progressive Christian-life grace under knowledge of Christ, not a second ground of justification—keep distinct from free-justifying grace while noting the same free favor that saves also trains growth.
+- McGee’s Acts law-vs-grace council agrees with Spurgeon’s one-way polemic and Henry Concise Acts 15; Paul’s Jerusalem vow as grace-liberty is a contested pastoral reading McGee defends from 1 Corinthians—hold beside other expositors who question the vow.
 - Do not flatten "grace" into a vague niceness: sources tie grace to propitiation, redemption, and new standing, not moral self-improvement alone.
 - Related hubs [[wiki/concepts/Salvation|Salvation]] and [[wiki/concepts/Justification|Justification]] already carry grace language; this page isolates grace as the free favor that makes those doctrines cohere.
 
@@ -39,6 +41,7 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - Romans 3:21–26; Romans 4:16; Romans 5:15–21
 - Ephesians 2:1–10 (see Salvation synthesis)
 - 2 Corinthians 8:1–9
+- Acts 15; Acts 21
 - 2 Peter 1:2–11; 2 Peter 3:18
 
 ## Related pages
@@ -53,11 +56,13 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/passages/Romans 3|Romans 3]]
 - [[wiki/passages/Romans 5|Romans 5]]
+- [[wiki/passages/Acts 15|Acts 15]]
 - [[wiki/passages/2 Peter 1|2 Peter 1]]
 - [[wiki/passages/2 Peter 3|2 Peter 3]]
 - [[wiki/source-notes/Spurgeon Theme Batch — Salvation and Justification|Spurgeon Theme Batch — Salvation and Justification]]
 - [[wiki/source-notes/Spurgeon Theme Batch — Prophecy Hope and Wisdom|Spurgeon Theme Batch — Prophecy Hope and Wisdom]]
 - [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee Notes and Outlines on 2 Peter]]
+- [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Notes and Outlines on Acts]]
 
 ## Sources
 - [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-2|Matthew Henry Complete, Ephesians 2]]
@@ -67,6 +72,7 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-5|Matthew Henry Concise, Romans 5]]
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-8|Matthew Henry Concise, 2 Corinthians 8]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|J. Vernon McGee, Notes & Outlines: 2 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|J. Vernon McGee, Notes & Outlines: Acts]]
 
 ## Open questions
 

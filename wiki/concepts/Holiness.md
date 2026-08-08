@@ -5,14 +5,14 @@ description: Conformity to the holy God who calls and sanctifies his people thro
 tags: [holiness, christ, salvation, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 11
+source_count: 12
 ---
 
 # Holiness
 
 ## Summary
 
-In the retrieved sources, holiness is not optional polish for advanced believers but the moral and spiritual calling of those elected and redeemed. God who is holy requires a holy manner of life; Christ prays for his people's sanctification through the truth; the gospel that justifies also aims at a purified people. Romans 6–8 (Henry Concise) ties free justification to dying to sin, walking after the Spirit, and presenting the body to God. McGee on 1 Corinthians distinguishes positional, practical, and permanent sanctification in Christ (1:2, 30) and presses bodily holiness as the Spirit’s temple against Corinthian impurity and lawsuits. McGee on 1 John adds God is light, walking in light with confession, two natures (new nature does not practice sin), and purifying hope of seeing Christ. McGee on 1 Peter ties holiness to Scriptures under trial—spiritual health and maturity, holiness only in Christ, costly blood motive, and separation from fleshly works as living stones and a royal priesthood. McGee on 2 Peter presses addition of graces, holy living in view of the world’s fiery end, and growth in grace and knowledge of Christ as the believer’s present program. McGee on 2–3 John ties holy walk to truth: love inside the boundary of truth, walk in truth as obedience, and conduct conforming to apostolic doctrine—true teachers received, false teachers refused. McGee on 1–2 Thessalonians ties purifying and rousing hope to unblamable holiness at Christ’s coming, Spirit-enabled chastity and brotherly love, whole sanctification of spirit/soul/body, and Spirit sanctification in the salvation spectrum of 2 Thessalonians 2:13–14.
+In the retrieved sources, holiness is not optional polish for advanced believers but the moral and spiritual calling of those elected and redeemed. God who is holy requires a holy manner of life; Christ prays for his people's sanctification through the truth; the gospel that justifies also aims at a purified people. Romans 6–8 (Henry Concise) ties free justification to dying to sin, walking after the Spirit, and presenting the body to God. McGee on 1 Corinthians distinguishes positional, practical, and permanent sanctification in Christ (1:2, 30) and presses bodily holiness as the Spirit’s temple against Corinthian impurity and lawsuits. McGee on 1 John adds God is light, walking in light with confession, two natures (new nature does not practice sin), and purifying hope of seeing Christ. McGee on 1 Peter ties holiness to Scriptures under trial—spiritual health and maturity, holiness only in Christ, costly blood motive, and separation from fleshly works as living stones and a royal priesthood. McGee on 2 Peter presses addition of graces, holy living in view of the world’s fiery end, and growth in grace and knowledge of Christ as the believer’s present program. McGee on 2–3 John ties holy walk to truth: love inside the boundary of truth, walk in truth as obedience, and conduct conforming to apostolic doctrine—true teachers received, false teachers refused. McGee on 1–2 Thessalonians ties purifying and rousing hope to unblamable holiness at Christ’s coming, Spirit-enabled chastity and brotherly love, whole sanctification of spirit/soul/body, and Spirit sanctification in the salvation spectrum of 2 Thessalonians 2:13–14. McGee on Colossians pours Christ’s fullness into practical life: heavenly mind where the Head is, mortify old-man members, put off/put on garments, forgive as Christ forgave, word of Christ dwelling richly, and holy relationships.
 
 ## Core claims
 
@@ -30,6 +30,7 @@ In the retrieved sources, holiness is not optional polish for advanced believers
 - McGee on 2 Peter: addition of Christian graces (virtue, knowledge, temperance, patience, godliness, brotherly kindness, charity) gives assurance and counters idle barrenness (1:5–11); knowledge of God’s fiery agenda for the present world makes believers’ lives serious and important (3:11–12); the coming of Christ leads to holy living, patient waiting, and a stable steadfast life (3:14–17); grow in grace and in the knowledge of Christ is the all-important program now (3:18). [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|McGee Notes & Outlines on 2 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee 2 Peter source-note]] [[wiki/passages/2 Peter 1|2 Peter 1]] [[wiki/passages/2 Peter 3|2 Peter 3]]
 - McGee on 2–3 John: love expressed in the boundary of truth (2 John 1–6)—grace, mercy, and peace in truth and love; walking in truth is manner of life in obedience to the Father’s commandments; life expresses the doctrine of Christ; doctrine proves life (2 John 7–9). In 3 John, walk in truth means conduct conforms to doctrine; Gaius’s hospitality and Demetrius’s good report adorn true doctrine; Diotrephes’ evil deeds express false doctrine. [[sources/personal-notes/ingest/2-3_John.pdf|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
 - McGee on 1–2 Thessalonians: coming of Christ is a purifying hope—love aims at unblamable holiness at the coming of the Lord with His saints (1 Thess 3:12–13); walk by Spirit-enabled commandments—chastity, brotherly love, quiet work, honest walk (4:1–12); God sanctifies wholly—spirit, soul, and body preserved blameless (5:23–24); quench not the Spirit (5:19); 2 Thess 2:13–14 joins chosen-to-salvation with sanctification of the Spirit and belief of the truth unto obtaining the glory of our Lord; Word establishes holy stand and work. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee Thessalonians source-note]] [[wiki/passages/1 Thessalonians 3|1 Thessalonians 3]] [[wiki/passages/1 Thessalonians 4|1 Thessalonians 4]] [[wiki/passages/1 Thessalonians 5|1 Thessalonians 5]] [[wiki/passages/2 Thessalonians 2|2 Thessalonians 2]]
+- McGee on Colossians: practical section pours Christ’s fullness into life—raised with Christ, mind things above (3:1–4); mortify old-man members (fornication, uncleanness, passion, evil desire, covetousness as must-have-more-ness); put off old garments / put on new (compassion, kindness, humility, meekness, longsuffering); forgive as Christ forgave; love and peace as Spirit fruit; word of Christ dwell at home (parallel Ephesians 5:18–20); all in Jesus’ name; holy household and work relationships; refuse empty ascetic will-worship that does not hold the Head (2:16–23). [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|McGee Notes & Outlines on Colossians]] [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Colossians source-note]] [[wiki/passages/Colossians 2|Colossians 2]] [[wiki/passages/Colossians 3|Colossians 3]]
 
 ## Agreements and tensions
 
@@ -44,11 +45,12 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - McGee’s 2 Peter grace-ladder and end-of-world holiness agree with Henry Concise on 2 Peter 3 purity from the second-coming doctrine; both treat real knowledge as producing godliness.
 - McGee’s 2–3 John truth-bounded love and doctrine-shaped walk agree with Spurgeon’s sanctify-through-truth and Henry’s early-faith-and-love emphasis; the “fighting fundamentalists / slobbering liberals” polarity is McGee’s homiletic color (Eph 4:15).
 - McGee’s Thessalonians purifying-hope and whole-person sanctification agree with Henry on progressive holiness and with 1 John purifying hope; his claim that the Ten Commandments are not the Christian walk’s standard is a pastoral contrast with Spirit-enabled commands—pair with Romans 8:3–4 and wider law synthesis, not as antinomianism.
+- McGee’s Colossians put-off/put-on and Head-held growth agree with Henry Concise mortification and mutual love; rejection of ascetic “touch not” as empty pride meshes with Henry against will-worship; “must-have-more-ness” and garment habits are radio pedagogy.
 - The relation between positional perfection and progressive purification is present in the sources but not fully systematized here.
 
 ## Biblical passages
 
-Key loci: 1 Peter 1:13–21; 1 Peter 2:1–12; 1 Peter 4:1–6; John 17:17; Hebrews 10:10, 14; Romans 6; Romans 8:1–14; 1 Corinthians 1:2, 30; 3:16–17; 5–6; 1 John 1:5–10; 2:1; 3:3–10; 5:21; 2 Peter 1:5–11; 2 Peter 3:11–18; 2 John 1–11; 3 John 1–12; 1 Thessalonians 3:12–13; 4:1–12; 5:19–24; 2 Thessalonians 2:13–17.
+Key loci: 1 Peter 1:13–21; 1 Peter 2:1–12; 1 Peter 4:1–6; John 17:17; Hebrews 10:10, 14; Romans 6; Romans 8:1–14; 1 Corinthians 1:2, 30; 3:16–17; 5–6; 1 John 1:5–10; 2:1; 3:3–10; 5:21; 2 Peter 1:5–11; 2 Peter 3:11–18; 2 John 1–11; 3 John 1–12; 1 Thessalonians 3:12–13; 4:1–12; 5:19–24; 2 Thessalonians 2:13–17; Colossians 2:16–23; 3:1–25.
 
 ## Related pages
 
@@ -61,6 +63,7 @@ Key loci: 1 Peter 1:13–21; 1 Peter 2:1–12; 1 Peter 4:1–6; John 17:17; Hebr
 - [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee Notes and Outlines on 2 Peter]]
 - [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee Notes and Outlines on 2 and 3 John]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee Notes and Outlines on 1 and 2 Thessalonians]]
+- [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Notes and Outlines on Colossians]]
 - [[wiki/passages/1 Peter 1|1 Peter 1]]
 - [[wiki/passages/1 Peter 2|1 Peter 2]]
 - [[wiki/passages/1 Peter 4|1 Peter 4]]
@@ -76,6 +79,8 @@ Key loci: 1 Peter 1:13–21; 1 Peter 2:1–12; 1 Peter 4:1–6; John 17:17; Hebr
 - [[wiki/passages/1 Thessalonians 4|1 Thessalonians 4]]
 - [[wiki/passages/1 Thessalonians 5|1 Thessalonians 5]]
 - [[wiki/passages/2 Thessalonians 2|2 Thessalonians 2]]
+- [[wiki/passages/Colossians 2|Colossians 2]]
+- [[wiki/passages/Colossians 3|Colossians 3]]
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Salvation|Salvation]]
 - [[wiki/concepts/Justification|Justification]]
@@ -104,6 +109,7 @@ Key loci: 1 Peter 1:13–21; 1 Peter 2:1–12; 1 Peter 4:1–6; John 17:17; Hebr
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|J. Vernon McGee, Notes & Outlines: 2 Peter]]
 - [[sources/personal-notes/ingest/2-3_John.pdf|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|J. Vernon McGee, Notes & Outlines: Colossians]]
 
 ## Open questions
 

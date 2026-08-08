@@ -4,7 +4,7 @@ title: Matthew Henry Concise on Colossians
 description: Book-level digest of Matthew Henry Concise Colossians (4 chapters) for the NT passage atlas.
 tags: [christ, church, holiness]
 status: seed
-updated: 2026-07-16
+updated: 2026-08-08
 source_count: 4
 source_path: "sources/commentaries_english/mhenry-concise/colossians/"
 bible_book_key: 51
@@ -15,7 +15,7 @@ bible_book_name: "Colossians"
 
 ## Summary
 
-Intentional ingest of **Matthew Henry Concise** on Colossians as a chapter-by-chapter backbone for the wiki passage atlas (4 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition.
+Intentional ingest of **Matthew Henry Concise** on Colossians as a chapter-by-chapter backbone for the wiki passage atlas (4 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition. McGee Thru the Bible Notes & Outlines on Colossians now thicken the same atlas with anti-Gnostic *pleroma* Christology and practical put-off/put-on ethics ([[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Notes and Outlines on Colossians]]).
 
 ## Core claims
 
@@ -24,7 +24,7 @@ Intentional ingest of **Matthew Henry Concise** on Colossians as a chapter-by-ch
 
 ## Agreements and tensions
 
-Single-corpus (Henry Concise). Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, personal notes); this atlas supplies the book spine and should be thickened, not treated as exclusive.
+Henry Concise supplies the pastoral atlas spine. McGee adds Head/*pleroma* emphasis, nine-mark Christology, and garment ethics; Complete commentary deepens Concise exposition. Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, personal notes); this atlas should be thickened, not treated as exclusive.
 
 ## Biblical passages
 
@@ -36,6 +36,7 @@ Colossians (full book scope in the atlas).
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]
+- [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Notes and Outlines on Colossians]]
 - [[wiki/campaigns/tracker|Campaign tracker]]
 
 ## Sources
@@ -47,4 +48,4 @@ Colossians (full book scope in the atlas).
 
 ## Open questions
 
-- Which hub chapters in Colossians should next receive Henry Complete and Spurgeon deepening?
+- Which hub chapters in Colossians should next receive Spurgeon deepening beside Henry Complete and McGee?

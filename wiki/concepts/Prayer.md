@@ -4,15 +4,15 @@ title: Prayer
 description: Humble approach to the Father, taught by Christ, helped by the Spirit, and perfected in Christ's intercession (Mt 6:5–15; Jn 17; Rom 8:26–27).
 tags: [prayer, christ, holy-spirit, discipleship]
 status: reviewed
-updated: 2026-08-07
-source_count: 10
+updated: 2026-08-08
+source_count: 11
 ---
 
 # Prayer
 
 ## Summary
 
-The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1–2 Samuel makes prayer a book-level theme: 1 Samuel opens with Hannah’s cry and 2 Samuel closes with David’s altar prayer; God builds the throne on a woman’s cry, and David’s thanksgiving after the covenant (2 Samuel 7) and refusal of a costless offering (24:24) frame royal devotion. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). McGee on 1–2 Chronicles adds David’s great temple-offering prayer (1 Chronicles 29:10–19) and Solomon’s dedication prayer (2 Chronicles 6) as major OT models of adoration, dependence, and house-of-prayer orientation. McGee on 1–2 Kings supplies the throne-narrative parallels: Solomon’s request for wisdom (1 Kings 3), dedication prayer denying a confined God (1 Kings 8:27), Elijah’s brief Carmel prayer and later collapse, and Hezekiah spreading Assyria’s letter before the Lord (2 Kings 19). Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit.
+The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1–2 Samuel makes prayer a book-level theme: 1 Samuel opens with Hannah’s cry and 2 Samuel closes with David’s altar prayer; God builds the throne on a woman’s cry, and David’s thanksgiving after the covenant (2 Samuel 7) and refusal of a costless offering (24:24) frame royal devotion. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). McGee on 1–2 Chronicles adds David’s great temple-offering prayer (1 Chronicles 29:10–19) and Solomon’s dedication prayer (2 Chronicles 6) as major OT models of adoration, dependence, and house-of-prayer orientation. McGee on 1–2 Kings supplies the throne-narrative parallels: Solomon’s request for wisdom (1 Kings 3), dedication prayer denying a confined God (1 Kings 8:27), Elijah’s brief Carmel prayer and later collapse, and Hezekiah spreading Assyria’s letter before the Lord (2 Kings 19). McGee on Colossians adds Paul’s thanksgiving and *epignosis* prayer for the church, prayer-agony for unseen believers, and practical perseverance—inhale prayer / exhale thanksgiving, with petition for the gospel door. Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit.
 
 ## Core claims
 
@@ -27,6 +27,7 @@ The retrieved sources present prayer as sincere address to God rather than publi
 - McGee on 1 John: Demonstrated brother-love gives confidence in prayer; even when heart condemns, God is greater and still hears (3:19–22). Boldness if we ask according to his will—measured by the Word; answered petitions are final proof (5:14–15). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
 - McGee on Chronicles: David’s prayer at the temple offerings (1 Chronicles 29:10–19) is all-comprehensive—adoration, praise, thanksgiving, repudiation of human merit, dependence, humiliation, confession, dedication—and McGee links it as background the Lord used in the so-called Lord’s Prayer; Solomon’s dedication prayer (2 Chronicles 6) sets the temple’s place in future God–Israel relationship (Daniel prays toward Jerusalem, Daniel 6:10); God answers by fire and glory (2 Chronicles 7:1). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf|McGee Notes & Outlines on 1–2 Chronicles]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Chronicles source-note]] [[wiki/passages/1 Chronicles 29|1 Chronicles 29]] [[wiki/passages/2 Chronicles 7|2 Chronicles 7]]
 - McGee on Kings: Solomon asks wisdom—likely political more than spiritual discernment (1 Kings 3)—and God grants it; dedication prayer (1 Kings 8) shows God is not housed by temples (v. 27) and orients captives to pray toward the house; Elijah’s Carmel prayer is brief but effective (18:36–37) while Baal’s frantic rites fail; under the juniper tree Elijah is depleted and God answers with food, sleep, and the still small voice rather than spectacle (ch. 19); Hezekiah spreads Rab-shakeh’s letter in the house of the Lord and receives Isaiah’s answer and deliverance (2 Kings 19); later recovery prayer after appointed death is followed by foolish acts (ch. 20). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]] [[wiki/passages/1 Kings 8|1 Kings 8]] [[wiki/passages/1 Kings 18|1 Kings 18]]
+- McGee on Colossians: thanksgiving goes directly to God the Father (against Gnostic mediated access); Paul puts the Colossians on his prayer list for *epignosin*—superknowledge confined to God’s will in the Word, yielding wisdom and spiritual understanding (1:3, 9–11); “conflict” for Colosse and Laodicea is prayer agony (2:1); practical conduct includes persevering prayer—like breathing, inhale (prayer) and exhale (thanksgiving)—and petition for a gospel door (4:2–4); imprisoned Epaphras continues a ministry of prayer (4:12–13). [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|McGee Notes & Outlines on Colossians]] [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Colossians source-note]] [[wiki/passages/Colossians 1|Colossians 1]] [[wiki/passages/Colossians 4|Colossians 4]]
 
 ## Agreements and tensions
 
@@ -39,10 +40,11 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - McGee’s claim that the Lord’s Prayer “evidently” used 1 Chronicles 29:10–19 is a single-author radio observation—record as affinity of themes (Father, kingdom, daily provision, forgiveness motifs in broader biblical prayer), not as established literary dependence.
 - McGee’s Samuel prayer bookends (Hannah open / Araunah close) and “throne on a woman’s cry” are outline frames that agree with Henry’s Hannah pastoral notes without replacing them.
 - McGee’s reading that Solomon sought political rather than spiritual wisdom, and that Hezekiah “should have died” at the appointed time, are outline judgments—hold beside Henry’s pastoral treatments of the same chapters.
+- McGee’s Colossians inhale/exhale image and prayer-agony (*agony*) language agree with Henry Concise on watching prayer with thanksgiving and ministerial intercession; direct access to the Father against Gnostic mediation meshes with the vault’s Christ-mediator emphasis without denying Christ’s unique intercession.
 
 ## Biblical passages
 
-Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John 3:19–22; 5:14–15; 1 Samuel 1–2; 2 Samuel 7:18–29; 2 Samuel 24:17–25; 1 Chronicles 29:10–19; 2 Chronicles 6–7; 1 Kings 3; 1 Kings 8; 1 Kings 18–19; 2 Kings 19–20.
+Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John 3:19–22; 5:14–15; 1 Samuel 1–2; 2 Samuel 7:18–29; 2 Samuel 24:17–25; 1 Chronicles 29:10–19; 2 Chronicles 6–7; 1 Kings 3; 1 Kings 8; 1 Kings 18–19; 2 Kings 19–20; Colossians 1:3, 9–12; 2:1–3; 4:2–4, 12–13.
 
 ## Related pages
 
@@ -67,6 +69,8 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[wiki/passages/2 Chronicles 7|2 Chronicles 7]]
 - [[wiki/passages/1 Kings 8|1 Kings 8]]
 - [[wiki/passages/1 Kings 18|1 Kings 18]]
+- [[wiki/passages/Colossians 1|Colossians 1]]
+- [[wiki/passages/Colossians 4|Colossians 4]]
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 - [[wiki/passages/Psalm 1|Psalm 1]]
 - [[wiki/passages/Psalm 51|Psalm 51]]
@@ -78,6 +82,7 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Notes and Outlines on 1 and 2 Chronicles]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Notes and Outlines on 1 and 2 Kings]]
+- [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Notes and Outlines on Colossians]]
 
 ## Sources
 
@@ -91,6 +96,7 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Chronicles]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|J. Vernon McGee, Notes & Outlines: Colossians]]
 
 ## Open questions
 

@@ -9,6 +9,10 @@ Immutable PDF Notes & Outlines for this series live here under `sources/commenta
 
 
 
+
+
+* `sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf` — Colossians
+* `sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf` — Acts
 * `sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf` — 2 Corinthians
 * `sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf` — 1 2 Thessalonians
 * `sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf` — 1 2 Samuel

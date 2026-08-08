@@ -4,15 +4,15 @@ title: Church
 description: The church as one body in Christ, gifted for edification, and gathered in his name with his presence (Eph 4; Mt 18).
 tags: [church, christ, holy-spirit, discipleship]
 status: reviewed
-updated: 2026-08-07
-source_count: 10
+updated: 2026-08-08
+source_count: 12
 ---
 
 # Church
 
 ## Summary
 
-The sources present the church as one body animated by one Spirit, called to unity and built up by Christ's gifts. Local gatherings of even two or three in Christ's name have his promised presence. Romans 12–16 (Henry Concise) adds living-sacrifice identity, diverse gifts in one body, mutual forbearance of weak and strong, practical care for co-workers, and vigilance against dividers who depart from sound doctrine. McGee on 1 Corinthians thickens the Corinthian case: lordship of Jesus, correction of party spirit and scandals, body metaphor and Spirit baptism into one body, ordered worship and Lord’s Table, and love as the energy of gifts. McGee on 1 John distinguishes the church body (Pauline positional blessings) from the larger family of God and warns that false professors depart from the Word and that spirits denying the incarnation must be tested. McGee’s Pastoral Epistles outline adds the local assembly’s order, sound doctrine, and elder oversight as the measuring rod of a New Testament church. McGee on 2–3 John puts truth into hospitality practice: refuse support to false teachers; receive and aid true itinerant teachers; resist Diotrephes-type preeminence that rules or ruins the local flock.
+The sources present the church as one body animated by one Spirit, called to unity and built up by Christ's gifts. Local gatherings of even two or three in Christ's name have his promised presence. Romans 12–16 (Henry Concise) adds living-sacrifice identity, diverse gifts in one body, mutual forbearance of weak and strong, practical care for co-workers, and vigilance against dividers who depart from sound doctrine. McGee on 1 Corinthians thickens the Corinthian case: lordship of Jesus, correction of party spirit and scandals, body metaphor and Spirit baptism into one body, ordered worship and Lord’s Table, and love as the energy of gifts. McGee on 1 John distinguishes the church body (Pauline positional blessings) from the larger family of God and warns that false professors depart from the Word and that spirits denying the incarnation must be tested. McGee’s Pastoral Epistles outline adds the local assembly’s order, sound doctrine, and elder oversight as the measuring rod of a New Testament church. McGee on 2–3 John puts truth into hospitality practice: refuse support to false teachers; receive and aid true itinerant teachers; resist Diotrephes-type preeminence that rules or ruins the local flock. McGee on Acts supplies the historical origin spine: church begins at Pentecost; early marks at 2:42; discipline (Ananias/Sapphira), deacons, persecution, Antioch missionary base, Jerusalem council on Gentile liberty, and expansion to Rome. McGee on Colossians stresses Christ the Head (body secondary to Ephesians’ body emphasis), holds the Head for growth, warns against Gnostic exclusive spirit, and closes with a roster of faithful workers in pagan culture.
 
 ## Core claims
 
@@ -28,6 +28,8 @@ The sources present the church as one body animated by one Spirit, called to uni
 - McGee on 1 John: Paul wrote to the church (body with positional blessings, Eph 1:3); John wrote to the family of God—relationship restored by confession (1:9). Family is larger than the church; both in the Kingdom but not synonymous. Pseudo-Christians leave the preaching of the Word—departure identifies them (2:19). Test spirits; false teachers deny incarnation; elect cannot permanently be deceived (4:1–6). Brother-love across cliques and denominations marks the reborn (3:14; 5:1). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
 - McGee: the Pastorals instruct orderly procedure in local and visible churches; 1 Timothy’s theme is local-church government over against Ephesians’ invisible body; Titus measures the ideal church by orderly organization, sound doctrine, pure life, and readiness for every good work. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]] [[wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon|McGee Pastoral Epistles source-note]]
 - McGee on 2–3 John: truth worth standing for (2 John) and working for (3 John). Do not receive into the house or greet teachers who lack the doctrine of Christ—supporters become partners in error (2 John 10–11). Gaius is commended for housing true itinerant teachers (3 John 5–8). Diotrephes loved preeminence: refused John and missionaries, slandered apostles, and expelled hosts—“Diotrephes, the dictator”; evil deeds express false doctrine (3 John 9–11). Elect lady may be a local church extending hospitality too freely (McGee’s lean, not insisted). [[sources/personal-notes/ingest/2-3_John.pdf|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
+- McGee on Acts: Acts records the origin of the spiritual body; five minutes before Pentecost there was no church, five minutes after there was; 2:42 lists visible local-church marks; early church little organization, great power, love, and joy; internal discipline (Ananias/Sapphira) and deacon appointment; persecution scatters witness; Antioch (not Jerusalem) becomes the missionary church; Jerusalem council frees Gentiles from Mosaic obligation while calling for courtesy; gospel ends with Paul preaching to Gentiles in Rome. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
+- McGee on Colossians: prison-epistle contrast—Ephesians stresses the body of which Christ is Head; Colossians stresses the Head, body secondary (1:18). Church at Colosse arose via Ephesian ministry without Paul’s visit; Epaphras ministered and later prayed from prison. Holding the Head is necessary for growth (2:19); Gnostic exclusive aristocratic spirit is answered by presenting every man complete in Christ (1:28). Closing roster (4:7–18) of Tychicus, Onesimus, Aristarchus, Mark, Epaphras, Luke shows faithful workers in pagan Rome (parallel Romans 16 / Hebrews 11). [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|McGee Notes & Outlines on Colossians]] [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Colossians source-note]] [[wiki/passages/Colossians 1|Colossians 1]] [[wiki/passages/Colossians 4|Colossians 4]]
 
 ## Agreements and tensions
 
@@ -37,24 +39,29 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - Spurgeon highlights the sufficiency of Christ's presence with small assemblies, not only large institutions. [[sources/commentaries_english/chspurgeon-sermons/volume-30/sermon_1761|Spurgeon, The Lord with Two or Three]]
 - Romans concise stresses concrete relational ethics (weak/strong, co-workers, anti-division) more than formal polity.
 - McGee supplies a full local-church correction agenda (divisions, discipline, liberty, worship, gifts) from Corinth; his tongues and head-covering applications are single-author outline readings.
+- McGee’s Acts origin narrative (Pentecost birthday; Antioch mission base; council) meshes with Henry Concise Acts atlas; “church not in prophecy” and post-church Davidic restoration (Acts 15:14–17) are dispensational outline frames to hold beside other readings.
 - McGee’s family-larger-than-church scheme is a distinctive outline frame; hold beside body-unity texts without dissolving local-church responsibility.
 - McGee’s 2–3 John hospitality pair (refuse false / receive true) and Diotrephes catalog agree with Henry Concise on deceivers and proud ambition; “elect lady = church” and “first Pope” rhetoric are outline color, not vault dogma.
+- McGee’s Colossians Head-primary / Ephesians body-primary contrast is a helpful prison-epistle teaching frame beside Henry’s shared Head-and-body language; hold both without forcing a false dichotomy.
 - Local/catholic church relations and ordinances still need later sources.
 
 ## Biblical passages
 
-Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Romans 14; Romans 16; 1 Corinthians 1; 3; 11–14; 1 John 1:3–9; 2:19; 4:1–6; 2 John 1–13; 3 John 1–14.
+Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Romans 14; Romans 16; 1 Corinthians 1; 3; 11–14; Acts 2; Acts 6; Acts 11; Acts 13; Acts 15; Acts 20; 1 John 1:3–9; 2:19; 4:1–6; 2 John 1–13; 3 John 1–14; Colossians 1:18, 24–29; 2:19; 4:7–18.
 
 ## Related pages
 
 - [[wiki/concepts/Stewardship|Stewardship]]
 - [[wiki/source-notes/Matthew Henry Concise on Acts|Matthew Henry Concise on Acts]]
+- [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Notes and Outlines on Acts]]
 - [[wiki/source-notes/Matthew Henry Concise on Ephesians|Matthew Henry Concise on Ephesians]]
 - [[wiki/source-notes/Matthew Henry Concise on 1 Corinthians|Matthew Henry Concise on 1 Corinthians]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee Notes and Outlines on 1 Corinthians]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
 - [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee Notes and Outlines on 2 and 3 John]]
+- [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Notes and Outlines on Colossians]]
 - [[wiki/passages/Acts 2|Acts 2]]
+- [[wiki/passages/Acts 15|Acts 15]]
 - [[wiki/passages/Ephesians 4|Ephesians 4]]
 - [[wiki/passages/1 Corinthians 1|1 Corinthians 1]]
 - [[wiki/passages/1 Corinthians 12|1 Corinthians 12]]
@@ -63,6 +70,8 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 - [[wiki/passages/1 John 4|1 John 4]]
 - [[wiki/passages/2 John 1|2 John 1]]
 - [[wiki/passages/3 John 1|3 John 1]]
+- [[wiki/passages/Colossians 1|Colossians 1]]
+- [[wiki/passages/Colossians 4|Colossians 4]]
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -87,6 +96,8 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 - [[sources/personal-notes/ingest/2-3_John.pdf|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|J. Vernon McGee, Notes & Outlines: Acts]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|J. Vernon McGee, Notes & Outlines: Colossians]]
 
 ## Open questions
 

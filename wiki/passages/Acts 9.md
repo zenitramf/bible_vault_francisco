@@ -3,9 +3,10 @@ type: Passage Study
 title: Acts 9
 description: The conversion of Saul. (1–9). Saul converted preaches Christ. (10–22). Saul is persecuted at Damascus, and goes to Jerusalem. (23–31). Cure of Eneas. (32–35). Dorcas raised to life. (36–43).
 tags: [church, holy-spirit, discipleship]
-status: seed
-updated: 2026-07-16
-source_count: 2
+status: developing
+updated: 2026-08-08
+source_count: 3
+bible_reference: "ac 9"
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -14,7 +15,7 @@ bible_book_name: "Acts"
 
 ## Summary
 
-Matthew Henry Concise on Acts 9: The conversion of Saul. (1–9). Saul converted preaches Christ. (10–22). Saul is persecuted at Damascus, and goes to Jerusalem. (23–31). Cure of Eneas. (32–35). Dorcas raised to life. (36–43).
+Matthew Henry Concise on Acts 9: The conversion of Saul. (1–9). Saul converted preaches Christ. (10–22). Saul is persecuted at Damascus, and goes to Jerusalem. (23–31). Cure of Eneas. (32–35). Dorcas raised to life. (36–43). McGee calls Saul’s conversion the greatest event from Pentecost to the Reformation, stresses “Who art thou, Lord?” / “Lord, what wilt thou have me to do?”, Gentile mission and suffering, Barnabas’s sponsorship, and Peter’s Aeneas/Tabitha miracles.
 
 ## Core claims
 
@@ -24,12 +25,11 @@ Matthew Henry Concise on Acts 9: The conversion of Saul. (1–9). Saul converted
 - Christians are saints, or holy people; not only the eminent ones, as Saint Peter and Saint Paul, but every sincere professor of the faith of Christ. Christ chose patients whose diseases were incurable in the course of nature, to show how desperate was the case of fallen mankind. [[sources/commentaries_english/mhenry-concise/acts/chapter-9#Verses 32–35|Matthew Henry Concise on Acts 9]]
 - Many are full of good words, who are empty and barren in good works; but Tabitha was a great doer, no great talker. Christians who have not property to give in charity, may yet be able to do acts of charity, working with their hands, or walking with their feet, for the good of others. [[sources/commentaries_english/mhenry-concise/acts/chapter-9#Verses 36–43|Matthew Henry Concise on Acts 9]]
 - In this chapter we have, I. The famous story of St. Paul's conversion from being an outrageous persecutor of the gospel of Christ to be an illustrious professor and preacher of it. 1. How he was first awakened and… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-9|Matthew Henry Complete on Acts 9]]
+- McGee: conversion of Saul is the greatest event from Pentecost to the Reformation; “Who art thou, Lord?” shows he did not know Jesus; “Lord, what wilt thou have me to do?” yields obedience—faith with works; called to Gentile witness and to suffer more than any other saint; Barnabas sponsors reluctant Jerusalem church; Peter heals Aeneas and raises Tabitha. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
 
 ## Agreements and tensions
 
-Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
-
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+Henry and McGee agree on the greatness of Saul’s turn, the “Lord, what wilt thou have me to do?” hinge, and ongoing trials. McGee’s “greatest event to the Reformation” and suffering-superlative are outline rhetoric; his Shem-slot in the three-conversion triad is typology color.
 
 ## Biblical passages
 
@@ -38,9 +38,11 @@ Primary scope: Acts 9 (full chapter).
 ## Related pages
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
-
+- [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Notes and Outlines on Acts]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holy Spirit|Holy Spirit]]
+- [[wiki/concepts/Salvation|Salvation]]
+- [[wiki/concepts/Surrender|Surrender]]
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/passages/Acts 8|Acts 8]]
 - [[wiki/passages/Acts 10|Acts 10]]
@@ -50,7 +52,8 @@ Primary scope: Acts 9 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-9|Matthew Henry Concise, Acts 9]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-9|Matthew Henry Complete on Acts 9]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|J. Vernon McGee, Notes & Outlines: Acts]]
 
 ## Open questions
 
-- Which Complete-commentary or Spurgeon materials should next thicken the hub claims of this chapter?
+- Should Surrender and Christ-Centered Ministry pages pull McGee’s Ac 9:5–6 pair more explicitly next?
