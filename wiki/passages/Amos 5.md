@@ -6,7 +6,6 @@ tags: [justice, prophecy, holiness, worship, christ]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "am 5"
 bible_book_key: 30
 bible_book_name: "Amos"
 ---
@@ -23,7 +22,7 @@ God pleads that Israel seek Him so judgment may be averted; the day of the LORD 
 - The same almighty power can, for repenting sinners, easily turn affliction and sorrow into prosperity and joy, and as easily turn the prosperity of daring sinners into utter darkness. Evil times will not bear plain dealing; that is, evil men will not. [[sources/commentaries_english/mhenry-concise/amos/chapter-5#Verses 7–17|Matthew Henry Concise on Amos 5]]
 - Woe unto those that desire the day of the Lord's judgments, that wish for times of war and confusion; as some who long for changes, hoping to rise upon the ruins of their country! but this should be so great a desolation, that nobody could gain by it. [[sources/commentaries_english/mhenry-concise/amos/chapter-5#Verses 18–27|Matthew Henry Concise on Amos 5]]
 - The scope of this chapter is to prosecute the exhortation given to Israel in the close of the foregoing chapter to prepare to meet their God; the prophet here tells them, I. What preparation they must make; they must… [[sources/commentaries_english/mhenry-complete/volume-4/amos/chapter-5|Matthew Henry Complete on Amos 5]]
-- McGee: God pleads that they seek Him so judgment could be averted (5:4–6, 8, 14–15). Warning of approaching judgment—“the day of the LORD”—opens with the Great Tribulation (not light, but darkness—vv. 18, 20). The people went through forms of religion and also worshiped idols (vv. 21–26); they must go into Assyrian captivity (v. 27). [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee Notes & Outlines on Amos 5]]
+- McGee: God pleads that they seek Him so judgment could be averted (5:4–6, 8, 14–15). Warning of approaching judgment—“the day of the LORD”—opens with the Great Tribulation (not light, but darkness—vv. 18, 20). The people went through forms of religion and also worshiped idols (vv. 21–26); they must go into Assyrian captivity (v. 27). [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Amos 5]]
 
 ## Agreements and tensions
 
@@ -52,7 +51,7 @@ Primary scope: Amos 5 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/amos/chapter-5|Matthew Henry Concise, Amos 5]]
 - [[sources/commentaries_english/mhenry-complete/volume-4/amos/chapter-5|Matthew Henry Complete on Amos 5]]
-- [[sources/personal-notes/ingest/Amos-Obadiah.pdf|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
 
 ## Open questions
 

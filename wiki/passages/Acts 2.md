@@ -6,7 +6,6 @@ tags: [church, holy-spirit, discipleship]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "ac 2"
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -25,7 +24,7 @@ Matthew Henry Concise on Acts 2: The descent of the Holy Spirit at the day of Pe
 - From this gift of the Holy Ghost, Peter preaches unto them Jesus: and here is the history of Christ. Here is an account of his death and sufferings, which they witnessed but a few weeks before. [[sources/commentaries_english/mhenry-concise/acts/chapter-2#Verses 22–36|Matthew Henry Concise on Acts 2]]
 - In these verses we have the history of the truly primitive church, of the first days of it; its state of infancy indeed, but, like that, the state of its greatest innocence. They kept close to holy ordinances, and abounded in piety and devotion; for Christianity, when admitted in the power of it, will dispose the so… [[sources/commentaries_english/mhenry-concise/acts/chapter-2#Verses 42–47|Matthew Henry Concise on Acts 2]]
 - Between the promise of the Messiah (even the latest of those promises) and his coming many ages intervened; but between the promise of the Spirit and his coming there were but a few days; and during those days the… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-2|Matthew Henry Complete on Acts 2]]
-- McGee: Pentecost fulfills the feast’s meaning as church origin; Spirit baptizes into Christ’s body (1 Cor 12:12–13); phenomena “like” wind and “as of” fire; filling follows regenerating/indwelling/sealing/baptizing; tongues were real Empire languages; Joel is similarity not full fulfillment; emphasis is Jesus and resurrection; 2:42 marks the local church; early church little organization, great power, love, and joy. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
+- McGee: Pentecost fulfills the feast’s meaning as church origin; Spirit baptizes into Christ’s body (1 Cor 12:12–13); phenomena “like” wind and “as of” fire; filling follows regenerating/indwelling/sealing/baptizing; tongues were real Empire languages; Joel is similarity not full fulfillment; emphasis is Jesus and resurrection; 2:42 marks the local church; early church little organization, great power, love, and joy. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
 
 ## Agreements and tensions
 
@@ -51,7 +50,7 @@ Primary scope: Acts 2 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-2|Matthew Henry Concise, Acts 2]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-2|Matthew Henry Complete on Acts 2]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|J. Vernon McGee, Notes & Outlines: Acts]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
 
 ## Open questions
 

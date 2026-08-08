@@ -518,3 +518,23 @@ append_only: true
 - failed [pdf]: sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md (ToolInvocation must have a result: {"state":"output-error","toolCallId":"call-b3a1aca3-b4e6-43e2-aadb-0b08e39b052c-2","toolName":"bible_vault","args":{"operation":"read","path":"_templates/source-note.md"},"errorText":"Bible Vault reads are limited to wiki notes, their sources, and schema documentation."})
 - failed [pdf]: sources/personal-notes/ingest/Amos-Obadiah.pdf extract=sources/personal-notes/ingest/Amos-Obadiah.pdf.extract.md (ToolInvocation must have a result: {"state":"output-error","toolCallId":"call-b9467d05-3ec3-4b26-bef4-7816d2a4684b-2","toolName":"bible_vault","args":{"operation":"read","path":"_templates/source-note.md"},"errorText":"Bible Vault reads are limited to wiki notes, their sources, and schema documentation."})
 - failed [pdf]: sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md (ToolInvocation must have a result: {"state":"output-error","toolCallId":"call-8eec2844-a7a0-4659-9d1a-96bd7d1477be-2","toolName":"bible_vault","args":{"operation":"read","path":"_templates/source-note.md"},"errorText":"Bible Vault reads are limited to wiki notes, their sources, and schema documentation."})
+
+## [2026-08-08] maintain | McGee path fix, extract links, bible_reference cleanup + gate
+
+- Promoted 2-3_John and Amos-Obadiah PDFs + extracts from sources/personal-notes/ingest/ to sources/commentaries_english/mcgee-thru-the-bible/ (workflow misfile)
+- Rewrote vault-wide McGee claim/source wikilinks to *.pdf.extract.md (lint-safe); source_path remains PDF
+- Removed chapter-only bible_reference fields on 49 McGee-touched passage pages (schema requires verse range)
+- Fixed broken [[wiki/passages/2 Kings 1]] link in McGee Kings source-note (page does not exist)
+- Cleared personal-notes/ingest index
+- Gate: doctor pass, build, lint pass, source-lint pass, lint_wiki pass, audit_public pass
+- Note: many workflow-created files still root-owned; recommend chown -R zen:zen on mcgee extracts and wiki source-notes/people
+- Batch failure context: template reads of _templates/ blocked by bible_vault tool path allowlist (logged 2026-08-08)
+
+## [2026-08-08] maintain | McGee classifier, templates allowlist, 2 Kings 1
+
+- assist-agent-1 classify.ts: normalize McGee stems (hyphen/underscore); add dual-book packs (amos_obadiah, 2_3_john, etc.) so bare PDFs no longer fall to personal-notes/ingest
+- bible-vault-tool resolveVaultPath: allow _templates/ reads (fixes batch fail reading source-note template)
+- bible_vault_processor + synthesize-item: cite extract sidecars for PDF claims (lint-safe); source_path remains original PDF
+- smoke-llm-wiki-ingest: cover Amos-Obadiah and 2-3_John routes
+- Created wiki/passages/2 Kings 1.md (Henry Complete + McGee); restored Kings source-note and 2 Kings 2 links
+- Gate: build, lint, lint_wiki, source-scan, source-lint, audit_public, doctor

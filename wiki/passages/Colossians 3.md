@@ -6,7 +6,6 @@ tags: [christ, church, holiness, christian-life]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "col 3"
 bible_book_key: 51
 bible_book_name: "Colossians"
 ---
@@ -24,8 +23,8 @@ Matthew Henry Concise frames Colossians 3 as heavenly-mindedness (1–4); mortif
 - We must not only do no hurt to any, but do what good we can to all. Those who are the elect of God, holy and beloved, ought to be lowly and compassionate towards all. [[sources/commentaries_english/mhenry-concise/colossians/chapter-3#Verses 12–17|Matthew Henry Concise on Colossians 3]]
 - The epistles most taken up in displaying the glory of the Divine grace, and magnifying the Lord Jesus, are the most particular in pressing the duties of the Christian life. We must never separate the privileges and duties of the gospel. [[sources/commentaries_english/mhenry-concise/colossians/chapter-3#Verses 18–25|Matthew Henry Concise on Colossians 3]]
 - I\\. The apostle exhorts us to set our hearts upon heaven and take them off from this world, Col 3:1-4. II. He exhorts to the mortification of sin, in the various instances of it, Col 3:5-11. III. He earnestly presses… [[sources/commentaries_english/mhenry-complete/volume-6/colossians/chapter-3|Matthew Henry Complete on Colossians 3]]
-- McGee: raised with Christ—seek and mind things above; “ye are dead” is *ye have died* with him; when he appears, believers appear. Mortify members (old-man energies): fornication, uncleanness, passion, evil desire, covetousness as must-have-more-ness; put off old garments (malice, filthy communication, lying); put on new wardrobe (compassion, kindness, humility, meekness, longsuffering). [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|McGee Notes & Outlines on Colossians]] [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Colossians source-note]]
-- McGee: forgive as Christ forgave (gospel basis, not merely legal reciprocal petition); love and peace as Spirit fruit; word of Christ dwell at home—Spirit-filled parallel to Ephesians 5:18–20; all in the name of the Lord Jesus; household codes as Ephesians 5–6; service unto Christ is rewarded, man-pleasing is not. [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|McGee on Colossians 3:12–25]]
+- McGee: raised with Christ—seek and mind things above; “ye are dead” is *ye have died* with him; when he appears, believers appear. Mortify members (old-man energies): fornication, uncleanness, passion, evil desire, covetousness as must-have-more-ness; put off old garments (malice, filthy communication, lying); put on new wardrobe (compassion, kindness, humility, meekness, longsuffering). [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|McGee Notes & Outlines on Colossians]] [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Colossians source-note]]
+- McGee: forgive as Christ forgave (gospel basis, not merely legal reciprocal petition); love and peace as Spirit fruit; word of Christ dwell at home—Spirit-filled parallel to Ephesians 5:18–20; all in the name of the Lord Jesus; household codes as Ephesians 5–6; service unto Christ is rewarded, man-pleasing is not. [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|McGee on Colossians 3:12–25]]
 
 ## Agreements and tensions
 
@@ -53,7 +52,7 @@ Primary scope: Colossians 3 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/colossians/chapter-3|Matthew Henry Concise, Colossians 3]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/colossians/chapter-3|Matthew Henry Complete on Colossians 3]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|J. Vernon McGee, Notes & Outlines: Colossians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Colossians]]
 
 ## Open questions
 

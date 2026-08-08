@@ -6,7 +6,6 @@ tags: [church, holy-spirit, discipleship]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "ac 1"
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -24,7 +23,7 @@ Matthew Henry Concise on Acts 1: Proofs of Christ's resurrection. (1–5). Chris
 - God can find hiding-places for his people. They made supplication. [[sources/commentaries_english/mhenry-concise/acts/chapter-1#Verses 12–14|Matthew Henry Concise on Acts 1]]
 - The great thing the apostles were to attest to the world, was, Christ's resurrection; for that was the great proof of his being the Messiah, and the foundation of our hope in him. The apostles were ordained, not to wordly dignity and dominion, but to preach Christ, and the power of his resurrection. [[sources/commentaries_english/mhenry-concise/acts/chapter-1#Verses 15–26|Matthew Henry Concise on Acts 1]]
 - The inspired historian begins his narrative of the Acts of the Apostles, I. With a reference to, and a brief recapitulation of, his gospel, or history of the life of Christ, inscribing this, as he had done that, to his… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-1|Matthew Henry Complete on Acts 1]]
-- McGee: Luke shows Jesus continues ministry after resurrection from a different position (cf. 2:33); water baptism is ritual, Spirit baptism real; kingdom will be restored to Israel—times/seasons not given; 1:8 is personal command to each believer; ascension cloud is Shekinah glory; “this same Jesus” returns bodily (Zech 14:4); Matthias elected without Spirit guidance and is ignored afterward—Saul of Tarsus is the true successor (Gal 1:1). [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
+- McGee: Luke shows Jesus continues ministry after resurrection from a different position (cf. 2:33); water baptism is ritual, Spirit baptism real; kingdom will be restored to Israel—times/seasons not given; 1:8 is personal command to each believer; ascension cloud is Shekinah glory; “this same Jesus” returns bodily (Zech 14:4); Matthias elected without Spirit guidance and is ignored afterward—Saul of Tarsus is the true successor (Gal 1:1). [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
 
 ## Agreements and tensions
 
@@ -48,7 +47,7 @@ Primary scope: Acts 1 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-1|Matthew Henry Concise, Acts 1]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-1|Matthew Henry Complete on Acts 1]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|J. Vernon McGee, Notes & Outlines: Acts]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
 
 ## Open questions
 

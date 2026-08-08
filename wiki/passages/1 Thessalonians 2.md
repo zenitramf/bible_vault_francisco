@@ -6,7 +6,6 @@ tags: [church, salvation, discipleship, hope]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "1th 2"
 bible_book_key: 52
 bible_book_name: "1 Thessalonians"
 ---
@@ -24,7 +23,7 @@ Matthew Henry Concise and Complete recall Paul’s preaching without worldly des
 - We should receive the word of God with affections suitable to its holiness, wisdom, truth, and goodness. The words of men are frail and perishing, like themselves, and sometimes false, foolish, and fickle; but God's word is holy, wise, just, and faithful. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-2#Verses 13–16|Matthew Henry Concise on 1 Thessalonians 2]]
 - This world is not a place where we are to be always, or long together. In heaven holy souls shall meet, and never part more. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-2#Verses 17–20|Matthew Henry Concise on 1 Thessalonians 2]]
 - In this chapter the apostle puts the Thessalonians in mind of the manner of his preaching among them, 1Th 2:1-6. Then of the manner of his conversation among them, 1Th 2:7-12. Afterwards of the success of his ministry. [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-2|Matthew Henry Complete on 1 Thessalonians 2]]
-- McGee: ministry not empty of results; no deceit, uncleanness, or guile; approved of God, not a man-pleaser; nursing-mother gentleness and night-and-day labor; fatherly exhort/comfort/charge to walk worthy of kingdom and glory; Word supernatural in preaching and receiving; suffering glues believers; Satan hindered Paul’s return; crown of rejoicing is converts present at Christ’s coming. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee source-note]]
+- McGee: ministry not empty of results; no deceit, uncleanness, or guile; approved of God, not a man-pleaser; nursing-mother gentleness and night-and-day labor; fatherly exhort/comfort/charge to walk worthy of kingdom and glory; Word supernatural in preaching and receiving; suffering glues believers; Satan hindered Paul’s return; crown of rejoicing is converts present at Christ’s coming. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -53,7 +52,7 @@ Primary scope: 1 Thessalonians 2 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-2|Matthew Henry Concise, 1 Thessalonians 2]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-2|Matthew Henry Complete on 1 Thessalonians 2]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
 
 ## Open questions
 

@@ -6,7 +6,6 @@ tags: [faith, prophecy, holiness, christ, christian-life]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "2pe 3"
 bible_book_key: 61
 bible_book_name: "2 Peter"
 ---
@@ -23,9 +22,9 @@ Matthew Henry Concise on 2 Peter 3 reminds of Christ’s final coming to judgmen
 - Had these scoffers considered the dreadful vengeance with which God swept away a whole world of ungodly men at once, surely they would not have scoffed at his threatening an equally terrible judgment. The heavens and the earth which now are, by the same word, it is declared, will be destroyed by fire. [[sources/commentaries_english/mhenry-concise/2-peter/chapter-3#Verses 5–10|Matthew Henry Concise on 2 Peter 3]]
 - From the doctrine of Christ's second coming, we are exhorted to purity and godliness. This is the effect of real knowledge. [[sources/commentaries_english/mhenry-concise/2-peter/chapter-3#Verses 11–18|Matthew Henry Concise on 2 Peter 3]]
 - The apostle drawing towards the conclusion of his second epistle, begins this last chapter with repeating the account of his design and scope in writing a second time to them, 2Pe 3:1-2. II. He proceeds to mention one… [[sources/commentaries_english/mhenry-complete/volume-6/2-peter/chapter-3|Matthew Henry Complete on 2 Peter 3]]
-- McGee: this second letter confirms Petrine authorship; pure minds are sincere minds. Holy prophets (OT) and apostles (NT) warned that scoffers would come in mockery, ridiculing Christ’s coming on the false premise that there has been no great cataclysm since creation. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|McGee Notes & Outlines on 2 Peter]]
-- McGee three-world agenda: past world (creation to Noah) destroyed by water; present world (Noah to new heaven and earth) reserved for fire; future world—new heaven and new earth—never destroyed. Seeming delay does not mean the Lord is not coming or has postponed it (3:8–9). Day of the Lord: Greek *rhoizedon* for noise (swish of arrow, rush of wings, splash, hiss); elements = basic material/atoms; melt = dissolve; fervent heat = energy—descriptive words that suggest atomic explosion. Inevitable future makes believers’ lives serious and important; hastening unto the coming of the day of God. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|McGee on 2 Peter 3:5–13]]
-- McGee: leads to holy living; patient waiting is mental adjustment to the present world situation; Peter admits Paul wrote of these things in depth—and so did Peter. Coming of Christ should make for a stable and steadfast life. All-important program: grow in grace and in the knowledge of our Lord and Savior Jesus Christ—Paul said “Study,” Peter said “Grow”; both refer believers to the Bible. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|McGee on 2 Peter 3:14–18]]
+- McGee: this second letter confirms Petrine authorship; pure minds are sincere minds. Holy prophets (OT) and apostles (NT) warned that scoffers would come in mockery, ridiculing Christ’s coming on the false premise that there has been no great cataclysm since creation. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|McGee Notes & Outlines on 2 Peter]]
+- McGee three-world agenda: past world (creation to Noah) destroyed by water; present world (Noah to new heaven and earth) reserved for fire; future world—new heaven and new earth—never destroyed. Seeming delay does not mean the Lord is not coming or has postponed it (3:8–9). Day of the Lord: Greek *rhoizedon* for noise (swish of arrow, rush of wings, splash, hiss); elements = basic material/atoms; melt = dissolve; fervent heat = energy—descriptive words that suggest atomic explosion. Inevitable future makes believers’ lives serious and important; hastening unto the coming of the day of God. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|McGee on 2 Peter 3:5–13]]
+- McGee: leads to holy living; patient waiting is mental adjustment to the present world situation; Peter admits Paul wrote of these things in depth—and so did Peter. Coming of Christ should make for a stable and steadfast life. All-important program: grow in grace and in the knowledge of our Lord and Savior Jesus Christ—Paul said “Study,” Peter said “Grow”; both refer believers to the Bible. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|McGee on 2 Peter 3:14–18]]
 
 ## Agreements and tensions
 
@@ -57,7 +56,7 @@ Primary scope: 2 Peter 3 (full chapter). Supporting refs in McGee: 2 Timothy (sw
 
 - [[sources/commentaries_english/mhenry-concise/2-peter/chapter-3|Matthew Henry Concise, 2 Peter 3]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/2-peter/chapter-3|Matthew Henry Complete on 2 Peter 3]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|J. Vernon McGee, Notes & Outlines: 2 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Peter]]
 
 ## Open questions
 

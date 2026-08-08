@@ -22,7 +22,7 @@ Matthew Henry Concise on 2 Kings 17: Reign of Hoshea in Israel, The israelites c
 - Though the destruction of the kingdom of the ten tribes was but briefly related, it is in these verses largely commented upon, and the reasons of it given. It was destruction from the Almighty: the Assyrian was but the rod of his anger, Isa 10:5. [[sources/commentaries_english/mhenry-concise/2-kings/chapter-17#Verses 7–23|Matthew Henry Concise on 2 Kings 17]]
 - The terror of the Almighty will sometimes produce a forced or feigned submission in unconverted men; like those brought from different countries to inhabit Israel. But such will form unworthy thoughts of God, will expect to please him by outward forms, and will vainly try to reconcile his service with the love of the… [[sources/commentaries_english/mhenry-concise/2-kings/chapter-17#Verses 24–41|Matthew Henry Concise on 2 Kings 17]]
 - This chapter gives us an account of the captivity of the ten tribes, and so finishes the history of that kingdom, after it had continued about 265 years, from the setting up of Jeroboam the son of Nebat. In it we have,… [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-17|Matthew Henry Complete on 2 Kings 17]]
-- McGee: Shalmaneser exacts tribute, discovers Hoshea’s conspiracy, besieges Samaria three years, takes the northern tribes captive. Reasons God permitted captivity: (1) disobeyed God (v. 13)—prophets and seers called them to turn and keep commandments; (2) doubted God (v. 14; cf. 2 Chronicles 36:15–16)—hardened necks, did not believe; (3) defied God (v. 15)—including refusal of sabbatic year for 490 years (2 Chronicles 36:21). Story of the nation is the story of every individual (Romans 1:5; 16:20, 26; Acts 7:51; Hebrews 12:16). Assyria brings foreigners to colonize—first mention of Samaritans (v. 29). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]]
+- McGee: Shalmaneser exacts tribute, discovers Hoshea’s conspiracy, besieges Samaria three years, takes the northern tribes captive. Reasons God permitted captivity: (1) disobeyed God (v. 13)—prophets and seers called them to turn and keep commandments; (2) doubted God (v. 14; cf. 2 Chronicles 36:15–16)—hardened necks, did not believe; (3) defied God (v. 15)—including refusal of sabbatic year for 490 years (2 Chronicles 36:21). Story of the nation is the story of every individual (Romans 1:5; 16:20, 26; Acts 7:51; Hebrews 12:16). Assyria brings foreigners to colonize—first mention of Samaritans (v. 29). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]]
 
 ## Agreements and tensions
 
@@ -49,7 +49,7 @@ Primary scope: 2 Kings 17 (full chapter). Cross-refs in McGee: 2 Chronicles 36:1
 
 - [[sources/commentaries_english/mhenry-concise/2-kings/chapter-17|Matthew Henry Concise, 2 Kings 17]]
 - [[sources/commentaries_english/mhenry-complete/volume-2/2-kings/chapter-17|Matthew Henry Complete on 2 Kings 17]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
 
 ## Open questions
 

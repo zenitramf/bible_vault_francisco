@@ -16,10 +16,10 @@ Amos was a layman from Tekoa in Judah—a herdsman and gatherer of sycamore frui
 
 ## Core claims
 
-- Not a school-of-the-prophets graduate but a layman: herdsman and gatherer of sycamore fruit (Amos 1:1; 7:14–15); native of Tekoa about twelve miles south of Jerusalem; born in Judea yet sent primarily to northern Israel and the world in general. [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee Notes & Outlines on Amos]]
-- Ministry under Jeroboam II (Israel) and Uzziah (Judah); contemporary of Hosea, Isaiah, and Micah; dated “two years before the earthquake” (Amos 1:1; cf. Zechariah 14:5). [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee on Amos time]]
-- When Amaziah, priest of Baal at Bethel, ordered him out as a country preacher, Amos confessed his herdsman calling, insisted he was sent by God, and answered with fearful prophecy against Amaziah; he did not leave town. [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee on Amos 7:10–17]]
-- Message: God rules the nations; light creates responsibility; Israel’s unique election heightens judgment (Amos 3:1–3); luxury, empty religion, and idolatry invite the day of the LORD and captivity; yet God will not utterly destroy and will restore David’s fallen booth (9:8–15). [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee on Amos theme and close]]
+- Not a school-of-the-prophets graduate but a layman: herdsman and gatherer of sycamore fruit (Amos 1:1; 7:14–15); native of Tekoa about twelve miles south of Jerusalem; born in Judea yet sent primarily to northern Israel and the world in general. [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Amos]]
+- Ministry under Jeroboam II (Israel) and Uzziah (Judah); contemporary of Hosea, Isaiah, and Micah; dated “two years before the earthquake” (Amos 1:1; cf. Zechariah 14:5). [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee on Amos time]]
+- When Amaziah, priest of Baal at Bethel, ordered him out as a country preacher, Amos confessed his herdsman calling, insisted he was sent by God, and answered with fearful prophecy against Amaziah; he did not leave town. [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee on Amos 7:10–17]]
+- Message: God rules the nations; light creates responsibility; Israel’s unique election heightens judgment (Amos 3:1–3); luxury, empty religion, and idolatry invite the day of the LORD and captivity; yet God will not utterly destroy and will restore David’s fallen booth (9:8–15). [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee on Amos theme and close]]
 
 ## Agreements and tensions
 
@@ -41,7 +41,7 @@ Amos 1:1; 3:1–3; 7:10–17; 7:14–15; 9:11–15; Zechariah 14:5.
 
 ## Sources
 
-- [[sources/personal-notes/ingest/Amos-Obadiah.pdf|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
 
 ## Open questions
 

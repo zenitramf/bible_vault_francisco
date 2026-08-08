@@ -6,7 +6,6 @@ tags: [church, salvation, discipleship, hope, holiness]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "1th 3"
 bible_book_key: 52
 bible_book_name: "1 Thessalonians"
 ---
@@ -23,7 +22,7 @@ Matthew Henry Concise and Complete cover Timothy’s mission to establish and co
 - Thankfulness to God is very imperfect in the present state; but one great end of the ministry of the word is to help faith forward. That which was the instrument to obtain faith, is also the means of increasing and confirming it. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-3#Verses 6–10|Matthew Henry Concise on 1 Thessalonians 3]]
 - Prayer is religious worship, and all religious worship is due unto God only. Prayer is to be offered to God as our Father. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-3#Verses 11–13|Matthew Henry Concise on 1 Thessalonians 3]]
 - In this chapter the apostle gives further evidence of his love to the Thessalonians, reminding them of his sending Timothy to them, with the mention of his design therein and his inducements so to do, 1Th 3:1-5. [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-3|Matthew Henry Complete on 1 Thessalonians 3]]
-- McGee: Paul longs to finish interrupted teaching; love seeks another’s welfare; believers are appointed to suffer (cf. John 16:33; 2 Tim 3:12; 1 Pet 4:12–19); afflictions promote sanctification and reveal genuine profession; good report comforts Paul in his own afflictions; “faith” lacking is doctrine; love (*agape*) must exceed, aiming not as an end in itself but toward holiness—“unblamable” at the coming of the Lord with all His saints; bema judgment of works and character. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee source-note]]
+- McGee: Paul longs to finish interrupted teaching; love seeks another’s welfare; believers are appointed to suffer (cf. John 16:33; 2 Tim 3:12; 1 Pet 4:12–19); afflictions promote sanctification and reveal genuine profession; good report comforts Paul in his own afflictions; “faith” lacking is doctrine; love (*agape*) must exceed, aiming not as an end in itself but toward holiness—“unblamable” at the coming of the Lord with all His saints; bema judgment of works and character. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -53,7 +52,7 @@ Primary scope: 1 Thessalonians 3 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-3|Matthew Henry Concise, 1 Thessalonians 3]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-3|Matthew Henry Complete on 1 Thessalonians 3]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
 
 ## Open questions
 

@@ -22,7 +22,7 @@ Matthew Henry Concise on 1 Kings 2: David's dying charge to Solomon. (1–4). Da
 - Solomon received Bathsheba with all the respect that was owing to a mother; but let none be asked for that which they ought not to grant. It ill becomes a good man to prefer a bad request, or to appear in a bad cause. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-2#Verses 12–25|Matthew Henry Concise on 1 Kings 2]]
 - The old malignity remains in the unconverted heart, and a watchful eye should be kept on those who, like Shimei, have manifested their enmity, but have given no evidence of repentance. No engagements or dangers will restrain worldly men; they go on, though they forfeit their lives and souls. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-2#Verses 35–46|Matthew Henry Concise on 1 Kings 2]]
 - In this chapter we have David setting and Solomon at the same time rising. I. The conclusion of David's reign with his life. 1. The charge he gives to Solomon upon his death-bed, in general, to serve God (1Ki 2:1-4),… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-2|Matthew Henry Complete on 1 Kings 2]]
-- McGee: David’s charge to “show thyself a man” (vv. 2–3) reveals attitude toward a successor reared in palace comfort versus David’s cave discipline; legacy includes transfer of leadership to Judah/David’s house, Jerusalem as capital and worship center, stamping out idolatry, expanded borders, temple planning, uniting the tribes, and national peace. Adonijah’s treachery via Bathsheba ends in death; Abiathar removed, Joab slain, Benaiah captain, Zadok priest, Shimei executed. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]]
+- McGee: David’s charge to “show thyself a man” (vv. 2–3) reveals attitude toward a successor reared in palace comfort versus David’s cave discipline; legacy includes transfer of leadership to Judah/David’s house, Jerusalem as capital and worship center, stamping out idolatry, expanded borders, temple planning, uniting the tribes, and national peace. Adonijah’s treachery via Bathsheba ends in death; Abiathar removed, Joab slain, Benaiah captain, Zadok priest, Shimei executed. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]]
 
 ## Agreements and tensions
 
@@ -49,7 +49,7 @@ Primary scope: 1 Kings 2 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-2|Matthew Henry Concise, 1 Kings 2]]
 - [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-2|Matthew Henry Complete on 1 Kings 2]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
 
 ## Open questions
 

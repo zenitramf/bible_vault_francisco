@@ -1,6 +1,6 @@
 ---
 type: Source Extract
-original_path: sources/personal-notes/ingest/Amos-Obadiah.pdf
+original_path: sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf
 extractor: pdf-inspector
 quality: high
 extracted_at: "2026-08-08T00:47:01.617Z"

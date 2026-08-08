@@ -1,6 +1,6 @@
 ---
 type: Source Extract
-original_path: sources/personal-notes/ingest/2-3_John.pdf
+original_path: sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf
 extractor: firecrawl-parse
 quality: high
 extracted_at: "2026-08-07T23:31:51.622Z"

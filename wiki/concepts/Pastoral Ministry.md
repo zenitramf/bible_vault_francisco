@@ -29,7 +29,7 @@ Pastoral ministry in the sources is an office of feeding, overseeing, and exempl
 - Elder and bishop are the same person (*presbuteros* the person, *episkopos* the office); qualifications center on character, household rule, and aptitude to teach; the elder is God’s steward, not self-willed. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
 - In apostasy the good minister warns by teaching the words of the faith; “Preach the word” is the last-days rallying cry; the Scriptures alone fit the man of God for every good work. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
 - The ideal New Testament church is orderly, sound in doctrine, pure in life, and ready for every good work (Titus). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
-- McGee on 2–3 John: “the elder” (*presbuteros*) is seniority and/or office—John the apostle. Love must stay inside the boundary of truth; do not house or greet teachers who lack Christ’s doctrine (2 John 10–11). Commend and support true teachers (3 John 5–8). Diotrephes loved preeminence—refused John, slandered apostles, blocked missionaries, expelled hosts; evil deeds express false doctrine; opposite of example leadership (3 John 9–11). [[sources/personal-notes/ingest/2-3_John.pdf|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
+- McGee on 2–3 John: “the elder” (*presbuteros*) is seniority and/or office—John the apostle. Love must stay inside the boundary of truth; do not house or greet teachers who lack Christ’s doctrine (2 John 10–11). Commend and support true teachers (3 John 5–8). Diotrephes loved preeminence—refused John, slandered apostles, blocked missionaries, expelled hosts; evil deeds express false doctrine; opposite of example leadership (3 John 9–11). [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
 
 ## Agreements and tensions
 
@@ -76,7 +76,7 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 
 - [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|Pastor Andrés Gómez, The Pastor and His Church]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1–2 Timothy, Titus, Philemon]]
-- [[sources/personal-notes/ingest/2-3_John.pdf|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
 
 ## Open questions
 

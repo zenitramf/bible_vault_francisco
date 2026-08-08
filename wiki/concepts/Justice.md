@@ -22,7 +22,7 @@ In the retrieved sources, justice is not a substitute for worship but the moral 
 - The Lord is a refuge for the oppressed and judges the world in righteousness. [[sources/commentaries_english/chspurgeon-tod/volume-1/psalm-9#Exposition|Spurgeon, Treasury of David on Psalm 9]]
 - Israel is called to seek the Lord rather than trust self-invented forms; the awakening word must be heard, for whether people hear or forbear the word of God shall take effect. [[sources/commentaries_english/mhenry-concise/amos/chapter-5|Matthew Henry Concise on Amos 5]]
 - Sin causes controversy between God and man; God has shown what is good, and plain injustice under religious cover is condemned. [[sources/commentaries_english/mhenry-concise/micah/chapter-6|Matthew Henry Concise on Micah 6]]
-- McGee on Amos: God is ruler of the world; all nations are responsible to Him according to the light they have; the final test is Amos 3:3—“Can two walk together, except they be agreed?” Surrounding nations are judged for cruelty, slave-making, treaty-breaking, revenge, violent crime, and injustice beyond death; Judah for despising the Law; Israel for Amorite-like immorality. Privilege creates responsibility—the higher the blessing, the greater the punishment (Amos 3). Affluence sins (gluttony, heathen music, drunkenness) and empty religion invite captivity. Obadiah adds *lex talionis* catastrophe on Edom’s brother-violence and pride. [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee Notes & Outlines on Amos and Obadiah]] [[wiki/source-notes/McGee Notes and Outlines on Amos and Obadiah|McGee Amos–Obadiah source-note]] [[wiki/passages/Amos 3|Amos 3]] [[wiki/passages/Obadiah 1|Obadiah 1]]
+- McGee on Amos: God is ruler of the world; all nations are responsible to Him according to the light they have; the final test is Amos 3:3—“Can two walk together, except they be agreed?” Surrounding nations are judged for cruelty, slave-making, treaty-breaking, revenge, violent crime, and injustice beyond death; Judah for despising the Law; Israel for Amorite-like immorality. Privilege creates responsibility—the higher the blessing, the greater the punishment (Amos 3). Affluence sins (gluttony, heathen music, drunkenness) and empty religion invite captivity. Obadiah adds *lex talionis* catastrophe on Edom’s brother-violence and pride. [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Amos and Obadiah]] [[wiki/source-notes/McGee Notes and Outlines on Amos and Obadiah|McGee Amos–Obadiah source-note]] [[wiki/passages/Amos 3|Amos 3]] [[wiki/passages/Obadiah 1|Obadiah 1]]
 
 ## Agreements and tensions
 
@@ -58,7 +58,7 @@ Key loci: Micah 6:6–8; Micah 3; Psalm 9; Amos 1–6; Amos 3:1–3; Obadiah 1:1
 - [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-6|Matthew Henry, Micah 6]]
 - [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-3|Matthew Henry, Micah 3]]
 - [[sources/commentaries_english/chspurgeon-tod/volume-1/psalm-9|Spurgeon, Treasury of David, Psalm 9]]
-- [[sources/personal-notes/ingest/Amos-Obadiah.pdf|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
 
 ## Open questions
 

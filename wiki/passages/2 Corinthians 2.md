@@ -6,7 +6,6 @@ tags: [pastoral-ministry, christ, christian-life, faith, repentance]
 status: seed
 updated: 2026-08-08
 source_count: 3
-bible_reference: "2co 2"
 bible_book_key: 47
 bible_book_name: "2 Corinthians"
 ---
@@ -23,7 +22,7 @@ Matthew Henry Concise on 2 Corinthians 2: Reasons for the apostle not coming to 
 - The apostle desires them to receive the person who had done wrong, again into their communion; for he was aware of his fault, and much afflicted under his punishment. Even sorrow for sin should not unfit for other duties, and drive to despair. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-2#Verses 5–11|Matthew Henry Concise on 2 Corinthians 2]]
 - A believer's triumphs are all in Christ. To him be the praise and glory of all, while the success of the gospel is a good reason for a Christian's joy and rejoicing. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-2#Verses 12–17|Matthew Henry Concise on 2 Corinthians 2]]
 - In this chapter the apostle proceeds in the account of the reasons why he did not come to Corinth, 2Co 2:1-4. Then he writes concerning the incestuous person who lay under censure; and gives direction for restoring… [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-2|Matthew Henry Complete on 2 Corinthians 2]]
-- McGee: reference to the sinning saint of 1 Corinthians 5—now repentant; Paul urges restoration; refusal gives Satan an advantage (v. 11). Only report of Troas ministry (v. 12; Acts 20:6–12). Secondary theme: God always causes triumph (v. 14); believer is sweet savor to lost and saved; business is to declare the gospel accurately—responsibility for results rests on the hearer. [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee source-note]]
+- McGee: reference to the sinning saint of 1 Corinthians 5—now repentant; Paul urges restoration; refusal gives Satan an advantage (v. 11). Only report of Troas ministry (v. 12; Acts 20:6–12). Secondary theme: God always causes triumph (v. 14); believer is sweet savor to lost and saved; business is to declare the gospel accurately—responsibility for results rests on the hearer. [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -50,7 +49,7 @@ Primary scope: 2 Corinthians 2 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-2|Matthew Henry Concise, 2 Corinthians 2]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-2|Matthew Henry Complete on 2 Corinthians 2]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
 
 ## Open questions
 

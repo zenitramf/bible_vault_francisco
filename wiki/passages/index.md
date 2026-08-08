@@ -174,6 +174,7 @@ Live database view: [[wiki/passages/index.base|Folder base]]. Static OKF list re
 * [[wiki/passages/2 Corinthians 8|2 Corinthians 8]] - The apostle reminds them of charitable contributions for the poor saints. (1–6). Enforces this by their gifts, and by the love and grace of Christ. (7–9). By the willingness they had shown to this good work. (10–15). …
 * [[wiki/passages/2 Corinthians 9|2 Corinthians 9]] - The reason for sending Titus to collect their alms. (1–5). The Corinthians to be liberal and cheerful, The apostle thanks God for his unspeakable gift. (6–15).
 * [[wiki/passages/2 John 1|2 John 1]] - The apostle salutes the elect lady and her children; joy in faith and love bounded by truth; caution against deceivers who deny Christ come in the flesh; refuse support to false teachers.
+* [[wiki/passages/2 Kings 1|2 Kings 1]] - Ahaziah falls through a lattice and inquires of Baal-zebub; Elijah rebukes him, fire consumes two captain-detachments, and the death sentence is fulfilled.
 * [[wiki/passages/2 Kings 10|2 Kings 10]] - Ahab's sons and Ahaziah's brethren put to death. (1–14). Jehu destroys the worshippers of Baal. (15–28). Jehu follows Jeroboam's sins. (29–36).
 * [[wiki/passages/2 Kings 11|2 Kings 11]] - Athaliah usurps the government of Judah, Jehoash made king. (1–12). Athaliah put to death. (13–16). The worship of the Lord restored. (17–21).
 * [[wiki/passages/2 Kings 12|2 Kings 12]] - Jehoash orders the repair of the temple. (1–16). He is slain by his servants. (17–21).
@@ -244,7 +245,7 @@ Live database view: [[wiki/passages/index.base|Folder base]]. Static OKF list re
 * [[wiki/passages/Acts 17|Acts 17]] - Paul at Thessalonica. (1–9). The noble conduct of the Bereans. (10–15). Paul at Athens. (16–21). He preaches there. (22–31). The scornful conduct of the Athenians. (32–34).
 * [[wiki/passages/Acts 18|Acts 18]] - Paul at Corinth, with Aquila and Priscilla. (1–6). He continues to preach at Corinth. (7–11). Paul before Gallio. (12–17). He visits Jerusalem. (18–23). Apollos teaches at Ephesus and in Achaia. (24–28).
 * [[wiki/passages/Acts 19|Acts 19]] - Paul instructs the disciples of John at Ephesus. (1–7). He teaches there. (8–12). The Jewish exorcists disgraced. Some Ephesians burn their evil books. (13–20). The tumult at Ephesus. (21–31). The tumult appeased. (32…
-* [[wiki/passages/Acts 2|Acts 2]] - The descent of the Holy Spirit at the day of Pentecost. (1–4). The apostles speak in divers languages. (5–13). Peter's address to the Jews. (14–36). Three thousand souls converted. (37–41). The piety and affection of …
+* [[wiki/passages/Acts 2|Acts 2]] - The descent of the Holy Spirit at the day of Pentecost. (1–4). The apostles speak in divers languages. (5–13). Peter's address to the Jews. (14–36). Three thousand souls converted. (37–41). The piety and affection of the primitive church.
 * [[wiki/passages/Acts 20|Acts 20]] - Paul's journeys. (1–6). Eutychus restored to life. (7–12). Paul travels towards Jerusalem. (13–16). Paul's discourse to the elders of Ephesus. (17–27). Their farewell. (28–38).
 * [[wiki/passages/Acts 21|Acts 21]] - Paul's voyage towards Jerusalem. (1–7). Paul at Cesarea. The prophecy of Agabus, Paul at Jerusalem. (8–18). He is persuaded to join in ceremonial observances. (19–26). Being in danger from the Jews, he is rescued by t…
 * [[wiki/passages/Acts 22|Acts 22]] - Paul's account of his conversion. (1–11). Paul directed to preach to the Gentiles. (12–21). The rage of the Jews Paul pleads that he is a Roman citizen. (22–30).
@@ -261,19 +262,19 @@ Live database view: [[wiki/passages/index.base|Folder base]]. Static OKF list re
 * [[wiki/passages/Acts 7|Acts 7]] - Stephen's defence. (1–50). Stephen reproves the Jews for the death of Christ. (51–53). The martyrdom of Stephen. (54–60).
 * [[wiki/passages/Acts 8|Acts 8]] - Saul persecutes the church. (1–4). Philip's success at Samaria. Simon the sorcerer baptized. (5–13). The hypocrisy of Simon detected. (14–25). Philip and the Ethiopian. (26–40).
 * [[wiki/passages/Acts 9|Acts 9]] - The conversion of Saul. (1–9). Saul converted preaches Christ. (10–22). Saul is persecuted at Damascus, and goes to Jerusalem. (23–31). Cure of Eneas. (32–35). Dorcas raised to life. (36–43).
-* [[wiki/passages/Amos 1|Amos 1]] - Matthew Henry Concise on Amos 1.
-* [[wiki/passages/Amos 2|Amos 2]] - Judgments against Moab and Judah. (1–8). The ingratitude and ruin of Israel. (9–16).
-* [[wiki/passages/Amos 3|Amos 3]] - Judgments against Israel. (1–8). The like to other nations. (9–15).
-* [[wiki/passages/Amos 4|Amos 4]] - Israel is reproved. (1–5). Their impenitence shown. (6–13).
-* [[wiki/passages/Amos 5|Amos 5]] - Israel is called to seek the Lord. (1–6). Earnest exhortations to repentance. (7–17). Threatenings respecting idolatries. (18–27).
-* [[wiki/passages/Amos 6|Amos 6]] - The danger of luxury and false security. (1–7). Punishments of sins. (8–14).
-* [[wiki/passages/Amos 7|Amos 7]] - Visions of judgments to come upon Israel. (1–9). Amaziah threatens Amos. (10–17).
-* [[wiki/passages/Amos 8|Amos 8]] - The near approach of the ruin of Israel. (1–3). Oppression reproved. (4–10). A famine of the word of God. (11–14).
-* [[wiki/passages/Amos 9|Amos 9]] - The ruin of Israel. (1–10). The restoration of the Jews and the gospel blessing. (11–15).
-* [[wiki/passages/Colossians 1|Colossians 1]] - The apostle Paul salutes the Colossians, and blesses God for their faith, love, and hope. (1–8). Prays for their fruitfulness in spiritual knowledge. (9–14). Gives a glorious view of Christ. (15–23). And sets out his …
-* [[wiki/passages/Colossians 2|Colossians 2]] - The apostle expresses his love to, and joy in believers. (1–7). He cautions against the errors of heathen philosophy; also against Jewish traditions, and rites which had been fulfilled in Christ. (8–17). Against worsh…
-* [[wiki/passages/Colossians 3|Colossians 3]] - The Colossians exhorted to be heavenly-minded; (1–4). to mortify all corrupt affections; (5–11). to live in mutual love, forbearance, and forgiveness; (12–17). and to practise the duties of wives and husbands, childre…
-* [[wiki/passages/Colossians 4|Colossians 4]] - Masters to do their duty towards servants. (1). Persons of all ranks to persevere in prayer, and Christian prudence. (2–6). The apostle refers to others for an account of his affairs. (7–9). Sends greetings; and concl…
+* [[wiki/passages/Amos 1|Amos 1]] - Introduction and judgments on Syria, Philistia, Phoenicia, Edom, and Ammon; McGee and Henry on the roaring LORD and surrounding nations.
+* [[wiki/passages/Amos 2|Amos 2]] - Judgments on Moab, Judah, and Israel; McGee on Law-despising Judah and Amorite-like Israel.
+* [[wiki/passages/Amos 3|Amos 3]] - Privilege creates responsibility; God's charge against the whole house of Israel (Amos 3:1–3).
+* [[wiki/passages/Amos 4|Amos 4]] - Past punishments ignored; sarcastic invitation to transgress at Bethel (Amos 4).
+* [[wiki/passages/Amos 5|Amos 5]] - Seek the Lord; day of the LORD as darkness; empty religion and coming captivity (Amos 5).
+* [[wiki/passages/Amos 6|Amos 6]] - Luxury, false security, and national sins in a day of affluence (Amos 6).
+* [[wiki/passages/Amos 7|Amos 7]] - Visions of grasshoppers, fire, and plumbline; Amaziah confronts Amos at Bethel (Amos 7).
+* [[wiki/passages/Amos 8|Amos 8]] - Summer fruit ripe for ruin; oppression; famine of the word of God (Amos 8).
+* [[wiki/passages/Amos 9|Amos 9]] - Worldwide dispersion without utter destruction; David’s booth raised and millennial restoration (Amos 9).
+* [[wiki/passages/Colossians 1|Colossians 1]] - Paul salutes the Colossians; prays for knowledge and fruit; sets out Christ’s person, reconciling work, and ministry of the mystery.
+* [[wiki/passages/Colossians 2|Colossians 2]] - Paul expresses concern for believers; warns against philosophy, tradition, and ritual shadows; affirms fullness and victory in Christ.
+* [[wiki/passages/Colossians 3|Colossians 3]] - Believers exhorted to heavenly mind, mortification, mutual love and forgiveness, and household duties in Christ’s name.
+* [[wiki/passages/Colossians 4|Colossians 4]] - Masters’ duty; perseverance in prayer and wise speech; commendation of co-workers and closing greetings.
 * [[wiki/passages/Daniel 1|Daniel 1]] - The captivity of Daniel and his companions. (1-7). Their refusal to eat the king's meat. (8-16). Their improvement in wisdom. (17-21).
 * [[wiki/passages/Daniel 10|Daniel 10]] - Daniel's vision near the river Hiddekel. (1-9). He is to expect a discovery of future events. (10-21).
 * [[wiki/passages/Daniel 11|Daniel 11]] - The vision of the Scriptures of truth. (1-45).
@@ -937,7 +938,7 @@ Live database view: [[wiki/passages/index.base|Folder base]]. Static OKF list re
 * [[wiki/passages/Numbers 7|Numbers 7]] - The offerings of the princes at the dedication of the tabernacle. (1–9). The offerings of the princes at the dedication of the altar. (10–89).
 * [[wiki/passages/Numbers 8|Numbers 8]] - The lamps of the sanctuary. (1–4). Consecration of the Levites, and their service. (5–26).
 * [[wiki/passages/Numbers 9|Numbers 9]] - Of the Passover. (1–14). The removals of the Israelites. (15–23).
-* [[wiki/passages/Obadiah 1|Obadiah 1]] - Destruction to come upon Edom. Their offences against Jacob. (1–16). The restoration of the Jews, and their flourishing state in the latter times. (17–21).
+* [[wiki/passages/Obadiah 1|Obadiah 1]] - Judgment on Edom’s pride and brother-violence; Israel’s restoration and the kingdom the Lord’s (Obadiah 1).
 * [[wiki/passages/Philemon 1|Philemon 1]] - The apostle's joy and praise for Philemon's steady faith in the Lord Jesus, and love to all the saints. (1–7). He recommends Onesimus as one who would make rich amends for the misconduct of which he had been guilty; a…
 * [[wiki/passages/Philippians 1|Philippians 1]] - The apostle offers up thanksgivings and prayers, for the good work of grace in the Philippians. (1–7). He expresses affection, and prays for them. (8–11). Fortifies them against being cast down at his sufferings. (12–…
 * [[wiki/passages/Philippians 2|Philippians 2]] - Exhortations to a kind, humble spirit and behaviour. (1–4). The example of Christ. (5–11). Diligence in the affairs of salvation, and to be examples to the world. (12–18). The apostle's purpose of visiting Philippi. (…

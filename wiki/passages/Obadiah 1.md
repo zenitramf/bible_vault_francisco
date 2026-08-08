@@ -6,7 +6,6 @@ tags: [prophecy, justice, salvation]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "ob 1"
 bible_book_key: 31
 bible_book_name: "Obadiah"
 ---
@@ -22,7 +21,7 @@ The shortest Old Testament book is the LORD’s oracle against Edom: pride in th
 - This prophecy is against Edom. Its destruction seems to have been typical, as their father Esau's rejection; and to refer to the destruction of the enemies of the gospel church. [[sources/commentaries_english/mhenry-concise/obadiah/chapter-1#Verses 1–16|Matthew Henry Concise on Obadiah 1]]
 - There should be deliverance and holiness at Jerusalem, and the house of Jacob would again occupy their possessions. Much of this prophecy was fulfilled when the Jews returned to their own land. [[sources/commentaries_english/mhenry-concise/obadiah/chapter-1#Verses 17–21|Matthew Henry Concise on Obadiah 1]]
 - This book is wholly concerning Edom, a nation nearly allied and near adjoining to Israel, and yet an enemy to the seed of Jacob, inheriting the enmity of their father Esau to Jacob. Now here we have, after the preface,… [[sources/commentaries_english/mhenry-complete/volume-4/obadiah/chapter-1|Matthew Henry Complete on Obadiah 1]]
-- McGee: key is Edom—“How are the things of Esau searched out!” (v. 6; Ginsburg: stripped bare). God hated not Esau at the start but when the nation revealed pride: “The pride of thine heart hath deceived thee, thou who dwellest in the clefts of the rock” (v. 3); Petra’s impregnable fortress bred the boast of not needing God. Outline: Edom destruction—charge (1–9), crime (10–14), catastrophe/*lex talionis* (15–16); Israel restoration—condition (17), calling (18), consummation “And the kingdom shall be the Lord’s” (19–21). Writer unknown beyond the name Servant of Jehovah; date disputed, likely post-Babylonian if v. 11 is historical. [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee Notes & Outlines on Obadiah]]
+- McGee: key is Edom—“How are the things of Esau searched out!” (v. 6; Ginsburg: stripped bare). God hated not Esau at the start but when the nation revealed pride: “The pride of thine heart hath deceived thee, thou who dwellest in the clefts of the rock” (v. 3); Petra’s impregnable fortress bred the boast of not needing God. Outline: Edom destruction—charge (1–9), crime (10–14), catastrophe/*lex talionis* (15–16); Israel restoration—condition (17), calling (18), consummation “And the kingdom shall be the Lord’s” (19–21). Writer unknown beyond the name Servant of Jehovah; date disputed, likely post-Babylonian if v. 11 is historical. [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Obadiah]]
 
 ## Agreements and tensions
 
@@ -48,7 +47,7 @@ Primary scope: Obadiah 1 (full book). Supporting: Genesis 25:24–34; Malachi 1:
 
 - [[sources/commentaries_english/mhenry-concise/obadiah/chapter-1|Matthew Henry Concise, Obadiah 1]]
 - [[sources/commentaries_english/mhenry-complete/volume-4/obadiah/chapter-1|Matthew Henry Complete on Obadiah 1]]
-- [[sources/personal-notes/ingest/Amos-Obadiah.pdf|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
 
 ## Open questions
 

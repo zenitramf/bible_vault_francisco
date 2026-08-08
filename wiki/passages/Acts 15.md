@@ -6,7 +6,6 @@ tags: [church, holy-spirit, discipleship]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "ac 15"
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -24,7 +23,7 @@ Matthew Henry Concise on Acts 15: The dispute raised by Judaizing teachers. (1�
 - Being warranted to declare themselves directed by the immediate influence of the Holy Ghost, the apostles and disciples were assured that it seemed good unto God the Holy Spirit, as well as to them, to lay upon the converts no other burden than the things before mentioned, which were necessary, either on their own a… [[sources/commentaries_english/mhenry-concise/acts/chapter-15#Verses 22–35|Matthew Henry Concise on Acts 15]]
 - Here we have a private quarrel between two ministers, no less than Paul and Barnabas, yet made to end well. Barnabas wished his nephew John Mark to go with them. [[sources/commentaries_english/mhenry-concise/acts/chapter-15#Verses 36–41|Matthew Henry Concise on Acts 15]]
 - Hitherto we have, with a great deal of pleasure, attended the apostles in their glorious travels for the propagating of the gospel in foreign parts, have seen the bounds of the church enlarged by the accession both of… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-15|Matthew Henry Complete on Acts 15]]
-- McGee: question is must Gentiles keep Mosaic Law to be Christians? Peter recounts Cornelius—same experience as Pentecost without Law; Israel never kept the Law (v. 10). James: God takes out of the Gentiles a people for His name now; “after this” = after the church is taken; “I will return” = Second Coming (Rev 19); David’s house rebuilt then; all nations later vs “out of them” now. Decision: no Mosaic demands; courtesy on idols and fornication. Sharp Paul–Barnabas split over Mark; Paul takes Silas. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
+- McGee: question is must Gentiles keep Mosaic Law to be Christians? Peter recounts Cornelius—same experience as Pentecost without Law; Israel never kept the Law (v. 10). James: God takes out of the Gentiles a people for His name now; “after this” = after the church is taken; “I will return” = Second Coming (Rev 19); David’s house rebuilt then; all nations later vs “out of them” now. Decision: no Mosaic demands; courtesy on idols and fornication. Sharp Paul–Barnabas split over Mark; Paul takes Silas. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
 
 ## Agreements and tensions
 
@@ -51,7 +50,7 @@ Primary scope: Acts 15 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-15|Matthew Henry Concise, Acts 15]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-15|Matthew Henry Complete on Acts 15]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|J. Vernon McGee, Notes & Outlines: Acts]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
 
 ## Open questions
 

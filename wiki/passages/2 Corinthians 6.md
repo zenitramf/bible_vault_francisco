@@ -6,7 +6,6 @@ tags: [pastoral-ministry, christ, christian-life, faith, holiness]
 status: seed
 updated: 2026-08-08
 source_count: 3
-bible_reference: "2co 6"
 bible_book_key: 47
 bible_book_name: "2 Corinthians"
 ---
@@ -22,7 +21,7 @@ Matthew Henry Concise on 2 Corinthians 6: The apostle, with others, proved thems
 - The gospel is a word of grace sounding in our ears. The gospel day is a day of salvation, the means of grace the means of salvation, the offers of the gospel the offers of salvation, and the present time the proper time to accept these offers. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-6#Verses 1–10|Matthew Henry Concise on 2 Corinthians 6]]
 - It is wrong for believers to join with the wicked and profane. The word unbeliever applies to all destitute of true faith. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-6#Verses 11–18|Matthew Henry Concise on 2 Corinthians 6]]
 - In this chapter the apostle gives an account of his general errand to all to whom he preached; with the several arguments and methods he used, 2Co 6:1-10. Then he addresses himself particularly to the Corinthians,… [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-6|Matthew Henry Complete on 2 Corinthians 6]]
-- McGee: lists nineteen trying experiences of the ministry (vv. 4–7) and nine contrasts covering total life (vv. 8–10). Minor theme is personal appeal—Corinthian Christians must make a clean break with idolatry (vv. 11–18). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee source-note]]
+- McGee: lists nineteen trying experiences of the ministry (vv. 4–7) and nine contrasts covering total life (vv. 8–10). Minor theme is personal appeal—Corinthian Christians must make a clean break with idolatry (vv. 11–18). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -48,7 +47,7 @@ Primary scope: 2 Corinthians 6 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-6|Matthew Henry Concise, 2 Corinthians 6]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-6|Matthew Henry Complete on 2 Corinthians 6]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
 
 ## Open questions
 

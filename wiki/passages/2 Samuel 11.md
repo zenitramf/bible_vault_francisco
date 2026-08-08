@@ -8,7 +8,6 @@ updated: 2026-08-07
 source_count: 3
 bible_book_key: 10
 bible_book_name: "2 Samuel"
-bible_reference: "2sa 11"
 ---
 
 # 2 Samuel 11
@@ -23,7 +22,7 @@ Matthew Henry Concise on 2 Samuel 11: David's adultery. (1–5). He tries to con
 - Giving way to sin hardens the heart, and provokes the departure of the Holy Spirit. Robbing a man of his reason, is worse than robbing him of his money; and drawing him into sin, is worse than drawing him into any wordly trouble whatever. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-11#Verses 6–13|Matthew Henry Concise on 2 Samuel 11]]
 - Adulteries often occasion murders, and one wickedness is sought to be covered by another. The beginnings of sin are much to be dreaded; for who knows where they will end? [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-11#Verses 14–27|Matthew Henry Concise on 2 Samuel 11]]
 - What David said of the mournful report of Saul's death may more fitly be applied to the sad story of this chapter, the adultery and murder David was guilty of.—"Tell it not in Gath, publish it not in the streets of… [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-11|Matthew Henry Complete on 2 Samuel 11]]
-- McGee: David’s two great sins were committed when David remained in Jerusalem instead of being out with his army where he should have been (v. 1). First adultery with Bathsheba, then plot to murder her husband Uriah. David thought he had gotten by with it, but he had not (v. 27). Uriah the Hittite later appears among David’s mighty men (23:39)—one blot on the escutcheon. Opens the “Troubles of David” half of 2 Samuel (chs. 11–24). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf|McGee Notes & Outlines on 1–2 Samuel]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Samuel source-note]]
+- McGee: David’s two great sins were committed when David remained in Jerusalem instead of being out with his army where he should have been (v. 1). First adultery with Bathsheba, then plot to murder her husband Uriah. David thought he had gotten by with it, but he had not (v. 27). Uriah the Hittite later appears among David’s mighty men (23:39)—one blot on the escutcheon. Opens the “Troubles of David” half of 2 Samuel (chs. 11–24). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf.extract.md|McGee Notes & Outlines on 1–2 Samuel]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Samuel source-note]]
 
 ## Agreements and tensions
 
@@ -50,7 +49,7 @@ Primary scope: 2 Samuel 11 (full chapter). Related: 2 Samuel 12; 23:39; Psalm 51
 
 - [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-11|Matthew Henry Concise, 2 Samuel 11]]
 - [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-11|Matthew Henry Complete on 2 Samuel 11]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Samuel]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Samuel]]
 
 ## Open questions
 

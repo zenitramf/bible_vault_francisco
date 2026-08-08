@@ -16,10 +16,10 @@ Obadiah (“Servant of Jehovah”) is one of four writing prophets about whom al
 
 ## Core claims
 
-- Name means Servant of Jehovah; God willed that his name alone and this brief prophecy be known (Pusey); like Habakkuk, Haggai, and Malachi, biography is otherwise unknown. [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee Notes & Outlines on Obadiah]]
-- Date disputed (early ninth century vs. ~587 B.C. with Jeremiah); turns on whether Obadiah 1:11 is historical or prophetical—natural historic reading favors a date subsequent to the Babylonian captivity. [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee on Obadiah date]]
-- Message is blunt judgment on Edom, keying pride of heart that deceived those dwelling in the clefts of the rock (v. 3); Esau’s small flaw magnified in the nation; Petra’s fortress security bred the boast “Who shall bring me down?”—what God hates is man saying he does not need God. [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee on Edom pride]]
-- Structure: Edom’s destruction (charge, crime against brother, *lex talionis* catastrophe, vv. 1–16) and Israel’s restoration culminating “And the kingdom shall be the Lord’s” (vv. 17–21). [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee Obadiah outline]]
+- Name means Servant of Jehovah; God willed that his name alone and this brief prophecy be known (Pusey); like Habakkuk, Haggai, and Malachi, biography is otherwise unknown. [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Obadiah]]
+- Date disputed (early ninth century vs. ~587 B.C. with Jeremiah); turns on whether Obadiah 1:11 is historical or prophetical—natural historic reading favors a date subsequent to the Babylonian captivity. [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee on Obadiah date]]
+- Message is blunt judgment on Edom, keying pride of heart that deceived those dwelling in the clefts of the rock (v. 3); Esau’s small flaw magnified in the nation; Petra’s fortress security bred the boast “Who shall bring me down?”—what God hates is man saying he does not need God. [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee on Edom pride]]
+- Structure: Edom’s destruction (charge, crime against brother, *lex talionis* catastrophe, vv. 1–16) and Israel’s restoration culminating “And the kingdom shall be the Lord’s” (vv. 17–21). [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Obadiah outline]]
 
 ## Agreements and tensions
 
@@ -42,7 +42,7 @@ Obadiah 1; Genesis 25:24–34; Malachi 1:2–3.
 
 ## Sources
 
-- [[sources/personal-notes/ingest/Amos-Obadiah.pdf|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
 
 ## Open questions
 

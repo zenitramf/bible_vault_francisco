@@ -6,7 +6,6 @@ tags: [church, holy-spirit, discipleship]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "ac 9"
 bible_book_key: 44
 bible_book_name: "Acts"
 ---
@@ -25,7 +24,7 @@ Matthew Henry Concise on Acts 9: The conversion of Saul. (1–9). Saul converted
 - Christians are saints, or holy people; not only the eminent ones, as Saint Peter and Saint Paul, but every sincere professor of the faith of Christ. Christ chose patients whose diseases were incurable in the course of nature, to show how desperate was the case of fallen mankind. [[sources/commentaries_english/mhenry-concise/acts/chapter-9#Verses 32–35|Matthew Henry Concise on Acts 9]]
 - Many are full of good words, who are empty and barren in good works; but Tabitha was a great doer, no great talker. Christians who have not property to give in charity, may yet be able to do acts of charity, working with their hands, or walking with their feet, for the good of others. [[sources/commentaries_english/mhenry-concise/acts/chapter-9#Verses 36–43|Matthew Henry Concise on Acts 9]]
 - In this chapter we have, I. The famous story of St. Paul's conversion from being an outrageous persecutor of the gospel of Christ to be an illustrious professor and preacher of it. 1. How he was first awakened and… [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-9|Matthew Henry Complete on Acts 9]]
-- McGee: conversion of Saul is the greatest event from Pentecost to the Reformation; “Who art thou, Lord?” shows he did not know Jesus; “Lord, what wilt thou have me to do?” yields obedience—faith with works; called to Gentile witness and to suffer more than any other saint; Barnabas sponsors reluctant Jerusalem church; Peter heals Aeneas and raises Tabitha. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
+- McGee: conversion of Saul is the greatest event from Pentecost to the Reformation; “Who art thou, Lord?” shows he did not know Jesus; “Lord, what wilt thou have me to do?” yields obedience—faith with works; called to Gentile witness and to suffer more than any other saint; Barnabas sponsors reluctant Jerusalem church; Peter heals Aeneas and raises Tabitha. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
 
 ## Agreements and tensions
 
@@ -52,7 +51,7 @@ Primary scope: Acts 9 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/acts/chapter-9|Matthew Henry Concise, Acts 9]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-9|Matthew Henry Complete on Acts 9]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|J. Vernon McGee, Notes & Outlines: Acts]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
 
 ## Open questions
 

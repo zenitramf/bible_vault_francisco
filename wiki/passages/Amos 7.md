@@ -6,7 +6,6 @@ tags: [justice, prophecy, holiness, worship, prayer]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "am 7"
 bible_book_key: 30
 bible_book_name: "Amos"
 ---
@@ -22,7 +21,7 @@ Three visions—grasshoppers and fire withdrawn in mercy, then the plumbline of 
 - God bears long, but he will not bear always with a provoking people. The remembrance of the mercies we formerly received, like the produce of the earth of the former growth, should make us submissive to the will of God, when we meet with disappointments in the latter growth. [[sources/commentaries_english/mhenry-concise/amos/chapter-7#Verses 1–9|Matthew Henry Concise on Amos 7]]
 - It is no new thing for the accusers of the brethren, to misrepresent them as enemies to the king and kingdom, as traitors to their prince, and troublers of the land, when they are the best friends to both. Those who make gain their godliness, and are governed by the hopes of wealth and preferment, are ready to think… [[sources/commentaries_english/mhenry-concise/amos/chapter-7#Verses 10–17|Matthew Henry Concise on Amos 7]]
 - In this chapter we have, I. God contending with Israel, by the judgments, but are reprieved, and the judgments turned away at the prayer of Amos, Am 7:1-6. 2. God's patience is at length worn out by their obstinacy,… [[sources/commentaries_english/mhenry-complete/volume-4/amos/chapter-7|Matthew Henry Complete on Amos 7]]
-- McGee: grasshoppers and fire are judgments God withdrew because of tender mercy (7:1–6). When God measures with a plumbline, action is imminent (7:7–8; cf. Isaiah 28:17; Jeremiah 31:38–39; Zechariah 2:1–2); Jeroboam is marked for judgment (v. 9). Amaziah, priest of Baal at Bethel, charges Amos before the king, then sarcastically orders the “country preacher” out of the king’s sanctuary; Amos answers he is herdsman and sycamore gatherer but called of God, turns a fearful prophecy on Amaziah, and apparently does not leave town (7:10–17). [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee Notes & Outlines on Amos 7]]
+- McGee: grasshoppers and fire are judgments God withdrew because of tender mercy (7:1–6). When God measures with a plumbline, action is imminent (7:7–8; cf. Isaiah 28:17; Jeremiah 31:38–39; Zechariah 2:1–2); Jeroboam is marked for judgment (v. 9). Amaziah, priest of Baal at Bethel, charges Amos before the king, then sarcastically orders the “country preacher” out of the king’s sanctuary; Amos answers he is herdsman and sycamore gatherer but called of God, turns a fearful prophecy on Amaziah, and apparently does not leave town (7:10–17). [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Amos 7]]
 
 ## Agreements and tensions
 
@@ -50,7 +49,7 @@ Primary scope: Amos 7 (full chapter). Cross-refs: Isaiah 28:17; Jeremiah 31:38�
 
 - [[sources/commentaries_english/mhenry-concise/amos/chapter-7|Matthew Henry Concise, Amos 7]]
 - [[sources/commentaries_english/mhenry-complete/volume-4/amos/chapter-7|Matthew Henry Complete on Amos 7]]
-- [[sources/personal-notes/ingest/Amos-Obadiah.pdf|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
 
 ## Open questions
 

@@ -6,7 +6,6 @@ tags: [church, salvation, discipleship, hope, holiness, prayer]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "1th 5"
 bible_book_key: 52
 bible_book_name: "1 Thessalonians"
 ---
@@ -25,7 +24,7 @@ Matthew Henry Concise and Complete urge readiness for Christ’s sudden coming, 
 - We are to rejoice in creature-comforts, as if we rejoiced not, and must not expect to live many years, and rejoice in them all; but if we do rejoice in God, we may do that evermore. A truly religious life is a life of constant joy. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-5#Verses 16–22|Matthew Henry Concise on 1 Thessalonians 5]]
 - The apostle prays that they might be sanctified more perfectly, for the best are sanctified but in part while in this world; therefore we should pray for, and press toward, complete holiness. [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-5#Verses 23–28|Matthew Henry Concise on 1 Thessalonians 5]]
 - The apostle, having spoken in the end of the foregoing chapter concerning the resurrection, and the second coming of Christ, proceeds to speak concerning the uselessness of enquiring after the particular time of… [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-5|Matthew Henry Complete on 1 Thessalonians 5]]
-- McGee: times and seasons are not the church’s property—look for a Person; day of the Lord begins with Great Tribulation through Millennium (Isa 2; Joel 2); Lord does not come to the church as a thief; false peace of Antichrist precedes Tribulation; children of light must watch; wrath = great day of His wrath (Rev 6:17)—believers promised deliverance; 22 commandments (comfort/edify; esteem teachers; peace; warn/encourage/support/patience; no evil for evil; rejoice always; pray without ceasing; give thanks; quench not the Spirit; despise not prophesyings; prove all things; hold fast good; abstain from appearance of evil; pray for laborers; holy greeting; read the epistle); man is body, soul, and spirit; God who calls is faithful. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee source-note]]
+- McGee: times and seasons are not the church’s property—look for a Person; day of the Lord begins with Great Tribulation through Millennium (Isa 2; Joel 2); Lord does not come to the church as a thief; false peace of Antichrist precedes Tribulation; children of light must watch; wrath = great day of His wrath (Rev 6:17)—believers promised deliverance; 22 commandments (comfort/edify; esteem teachers; peace; warn/encourage/support/patience; no evil for evil; rejoice always; pray without ceasing; give thanks; quench not the Spirit; despise not prophesyings; prove all things; hold fast good; abstain from appearance of evil; pray for laborers; holy greeting; read the epistle); man is body, soul, and spirit; God who calls is faithful. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -54,7 +53,7 @@ Primary scope: 1 Thessalonians 5 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-thessalonians/chapter-5|Matthew Henry Concise, 1 Thessalonians 5]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/1-thessalonians/chapter-5|Matthew Henry Complete on 1 Thessalonians 5]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
 
 ## Open questions
 

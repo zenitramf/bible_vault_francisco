@@ -6,7 +6,6 @@ tags: [justice, prophecy, holiness, worship]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "am 6"
 bible_book_key: 30
 bible_book_name: "Amos"
 ---
@@ -22,7 +21,7 @@ Israel is admonished in the present: ease in luxury, pride, and sensuality invit
 - Those are looked upon as doing well for themselves, who do well for their bodies; but we are here told what their ease is, and what their woe is. Here is a description of the pride, security, and sensuality, for which God would reckon. [[sources/commentaries_english/mhenry-concise/amos/chapter-6#Verses 1–7|Matthew Henry Concise on Amos 6]]
 - How dreadful, how miserable, is the case of those whose eternal ruin the Lord himself has sworn; for he can execute his purpose, and none can alter it! Those hearts are wretchedly hardened that will not be brought to mention God's name, and to worship him, when the hand of God is gone out against them, when sickness… [[sources/commentaries_english/mhenry-concise/amos/chapter-6#Verses 8–14|Matthew Henry Concise on Amos 6]]
 - In this chapter we have, I. A sinful people studying to put a slight upon God's threatenings and to make them appear trivial, confiding in their privileges and pre-eminences above other nations (Am 6:2,3), and their… [[sources/commentaries_english/mhenry-complete/volume-4/amos/chapter-6|Matthew Henry Complete on Amos 6]]
-- McGee: Israel was taking it easy, sitting in the lap of luxury in a day of affluence (6:1). Three national sins—gluttony (v. 4), heathen music (v. 5), drunkenness (v. 6)—all apart from God; God hated all of this; they had become a godless nation (v. 8); another warning of coming captivity for both nations (v. 14). [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee Notes & Outlines on Amos 6]]
+- McGee: Israel was taking it easy, sitting in the lap of luxury in a day of affluence (6:1). Three national sins—gluttony (v. 4), heathen music (v. 5), drunkenness (v. 6)—all apart from God; God hated all of this; they had become a godless nation (v. 8); another warning of coming captivity for both nations (v. 14). [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Amos 6]]
 
 ## Agreements and tensions
 
@@ -49,7 +48,7 @@ Primary scope: Amos 6 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/amos/chapter-6|Matthew Henry Concise, Amos 6]]
 - [[sources/commentaries_english/mhenry-complete/volume-4/amos/chapter-6|Matthew Henry Complete on Amos 6]]
-- [[sources/personal-notes/ingest/Amos-Obadiah.pdf|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
 
 ## Open questions
 

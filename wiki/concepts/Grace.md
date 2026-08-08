@@ -22,8 +22,8 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - The grace of God is the root and fountain of all good in us or done by us; charitable giving is accepted only when we first give ourselves to the Lord. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-8#Verses 1–6|Matthew Henry Concise on 2 Corinthians 8]]
 
 - By nature people are dead in trespasses and sins; salvation is by grace through faith, not of ourselves, not of works, lest any should boast. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-2|Matthew Henry Complete on Ephesians 2]]
-- McGee on 2 Peter: the epitome of the epistle is “grow in grace, and in the knowledge of our Lord and Savior, Jesus Christ” (3:18); knowledge of God’s program is an incentive to that growth; Paul said “Study,” Peter said “Grow”—both refer believers to the Bible. Addition of Christian graces (1:5–7) gives assurance and guards against spiritual senility. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|McGee Notes & Outlines on 2 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee 2 Peter source-note]] [[wiki/passages/2 Peter 3|2 Peter 3]]
-- McGee on Acts 15: council question is law vs grace/liberty—must Gentiles come under Mosaic Law to be Christians? Decision: no Mosaic demands for standing; courtesy regarding idols and fornication. Same grace that frees Gentiles permits a Jew (Paul) a voluntary vow to win Jews when not trusted for salvation (Acts 21; 1 Cor 7:17–18; 9:19–23). [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]] [[wiki/passages/Acts 15|Acts 15]]
+- McGee on 2 Peter: the epitome of the epistle is “grow in grace, and in the knowledge of our Lord and Savior, Jesus Christ” (3:18); knowledge of God’s program is an incentive to that growth; Paul said “Study,” Peter said “Grow”—both refer believers to the Bible. Addition of Christian graces (1:5–7) gives assurance and guards against spiritual senility. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|McGee Notes & Outlines on 2 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee 2 Peter source-note]] [[wiki/passages/2 Peter 3|2 Peter 3]]
+- McGee on Acts 15: council question is law vs grace/liberty—must Gentiles come under Mosaic Law to be Christians? Decision: no Mosaic demands for standing; courtesy regarding idols and fornication. Same grace that frees Gentiles permits a Jew (Paul) a voluntary vow to win Jews when not trusted for salvation (Acts 21; 1 Cor 7:17–18; 9:19–23). [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]] [[wiki/passages/Acts 15|Acts 15]]
 
 ## Agreements and tensions
 
@@ -71,8 +71,8 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-3|Matthew Henry Concise, Romans 3]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-5|Matthew Henry Concise, Romans 5]]
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-8|Matthew Henry Concise, 2 Corinthians 8]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|J. Vernon McGee, Notes & Outlines: 2 Peter]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf|J. Vernon McGee, Notes & Outlines: Acts]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
 
 ## Open questions
 

@@ -6,7 +6,6 @@ tags: [christ, church, holiness, redemption, prayer]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "col 1"
 bible_book_key: 51
 bible_book_name: "Colossians"
 ---
@@ -24,9 +23,9 @@ Matthew Henry Concise frames Colossians 1 as salute and thanksgiving for faith, 
 - Christ in his human nature, is the visible discovery of the invisible God, and he that hath seen Him hath seen the Father. Let us adore these mysteries in humble faith, and behold the glory of the Lord in Christ Jesus. [[sources/commentaries_english/mhenry-concise/colossians/chapter-1#Verses 15–23|Matthew Henry Concise on Colossians 1]]
 - Both the sufferings of the Head and of the members are called the sufferings of Christ, and make up, as it were, one body of sufferings. But He suffered for the redemption of the church; we suffer on other accounts; for we do but slightly taste that cup of afflictions of which Christ first drank deeply. [[sources/commentaries_english/mhenry-concise/colossians/chapter-1#Verses 24–29|Matthew Henry Concise on Colossians 1]]
 - We have here, I. The inscription, as usual, Col 1:1,2. II. His thanksgiving to God for what he had heard concerning them—their faith, love, and hope, Col 1:3-8. III. His prayer for their knowledge, fruitfulness, and… [[sources/commentaries_english/mhenry-complete/volume-6/colossians/chapter-1|Matthew Henry Complete on Colossians 1]]
-- McGee: writer Paul, about A.D. 62; church he had not visited, pastored by Epaphras; faith–love–hope triad; prayer for *epignosin* (will of God in the Word) against Gnostic superknowledge boast; delivered into the Son’s kingdom; forgiveness tied to blood; redemption frees the enslaved. [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|McGee Notes & Outlines on Colossians]] [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Colossians source-note]]
-- McGee on 1:15–19: nine marks—image of God, firstborn (priority not creaturehood), Creator of all visible/invisible, all things for him, before all things, all things consist in him, head of the body and firstborn from the dead, preeminence, fullness (*pleroma*) dwelling—Jesus 100% God; answers Arian/Socinian creature-Christ errors. [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|McGee on Colossians 1:15–19]]
-- McGee on 1:20–29: peace through cross blood; reconciliation toward man; “body of his flesh” answers Docetism; “if ye continue” is argumentative *since*; Paul fills shareable gospel sufferings, not redemptive ones; mystery is Christ in you; “perfect” means complete. [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|McGee on Colossians 1:20–29]]
+- McGee: writer Paul, about A.D. 62; church he had not visited, pastored by Epaphras; faith–love–hope triad; prayer for *epignosin* (will of God in the Word) against Gnostic superknowledge boast; delivered into the Son’s kingdom; forgiveness tied to blood; redemption frees the enslaved. [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|McGee Notes & Outlines on Colossians]] [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Colossians source-note]]
+- McGee on 1:15–19: nine marks—image of God, firstborn (priority not creaturehood), Creator of all visible/invisible, all things for him, before all things, all things consist in him, head of the body and firstborn from the dead, preeminence, fullness (*pleroma*) dwelling—Jesus 100% God; answers Arian/Socinian creature-Christ errors. [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|McGee on Colossians 1:15–19]]
+- McGee on 1:20–29: peace through cross blood; reconciliation toward man; “body of his flesh” answers Docetism; “if ye continue” is argumentative *since*; Paul fills shareable gospel sufferings, not redemptive ones; mystery is Christ in you; “perfect” means complete. [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|McGee on Colossians 1:20–29]]
 
 ## Agreements and tensions
 
@@ -55,7 +54,7 @@ Primary scope: Colossians 1 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/colossians/chapter-1|Matthew Henry Concise, Colossians 1]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/colossians/chapter-1|Matthew Henry Complete on Colossians 1]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf|J. Vernon McGee, Notes & Outlines: Colossians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Colossians]]
 
 ## Open questions
 

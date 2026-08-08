@@ -22,7 +22,7 @@ Matthew Henry Concise on 1 Kings 18: Elijah sends Ahab notice of his coming. (1�
 - Many of the people wavered in their judgment, and varied in their practice. Elijah called upon them to determine whether Jehovah or Baal was the self-existent, supreme God, the Creator, Governor, and Judge of the world, and to follow him alone. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-18#Verses 21–40|Matthew Henry Concise on 1 Kings 18]]
 - Israel, being so far reformed as to acknowledge the Lord to be God, and to consent to the execution of Baal's prophets, was so far accepted, that God poured out blessing upon the land. Elijah long continued praying. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-18#Verses 41–46|Matthew Henry Concise on 1 Kings 18]]
 - We left the prophet Elijah wrapt up in obscurity. It does not appear that either the increase of the provision or the raising of the child had caused him to be taken notice of at Zarephath, for then Ahab would have… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-18|Matthew Henry Complete on 1 Kings 18]]
-- McGee: meeting with Ahab is dramatic—“Behold, Elijah is here” three times (vv. 8, 11, 14). Contest: Elijah versus 450 prophets of Baal; “One with God is a majority” (John Knox). Baal prophets use every incantation; Elijah’s irony and sarcasm. Elijah repairs altar of twelve stones (nation one), arranges wood and sacrifice, soaks with Mediterranean water, utters brief great prayer (vv. 36–37). After slaying Baal’s prophets he announces the rainstorm. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]]
+- McGee: meeting with Ahab is dramatic—“Behold, Elijah is here” three times (vv. 8, 11, 14). Contest: Elijah versus 450 prophets of Baal; “One with God is a majority” (John Knox). Baal prophets use every incantation; Elijah’s irony and sarcasm. Elijah repairs altar of twelve stones (nation one), arranges wood and sacrifice, soaks with Mediterranean water, utters brief great prayer (vv. 36–37). After slaying Baal’s prophets he announces the rainstorm. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]]
 
 ## Agreements and tensions
 
@@ -49,7 +49,7 @@ Primary scope: 1 Kings 18 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-18|Matthew Henry Concise, 1 Kings 18]]
 - [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-18|Matthew Henry Complete on 1 Kings 18]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
 
 ## Open questions
 

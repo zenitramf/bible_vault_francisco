@@ -6,7 +6,6 @@ tags: [pastoral-ministry, christ, christian-life, faith]
 status: seed
 updated: 2026-08-08
 source_count: 3
-bible_reference: "2co 12"
 bible_book_key: 47
 bible_book_name: "2 Corinthians"
 ---
@@ -23,7 +22,7 @@ Matthew Henry Concise on 2 Corinthians 12: The apostle's revelations. (1–6). W
 - The apostle gives an account of the method God took to keep him humble, and to prevent his being lifted up above measure, on account of the visions and revelations he had. We are not told what this thorn in the flesh was, whether some great trouble, or some great temptation. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-12#Verses 7–10|Matthew Henry Concise on 2 Corinthians 12]]
 - We owe it to good men, to stand up in the defence of their reputation; and we are under special obligations to those from whom we have received benefit, especially spiritual benefit, to own them as instruments in God's hand of good to us. Here is an account of the apostle's behaviour and kind intentions; in which se… [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-12#Verses 11–21|Matthew Henry Concise on 2 Corinthians 12]]
 - In this chapter the apostle proceeds in maintaining the honour of his apostleship. He magnified his office when there were those who vilified it. What he says in his own praise was only in his own justification and the… [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-12|Matthew Henry Complete on 2 Corinthians 12]]
-- McGee: Paul’s experience (see v. 7); he was stoned to death at Lystra (Acts 14:19) and caught up into God’s presence. Three heavens: birds of heaven; stars of heaven; abode of God. God “put a zipper on” Paul’s mouth; thorn in the flesh keeps him humble (v. 7). The man who went to heaven returns to Corinth for the third time in weakness—also in dread (vv. 10, 20; subsidiary subject). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee source-note]]
+- McGee: Paul’s experience (see v. 7); he was stoned to death at Lystra (Acts 14:19) and caught up into God’s presence. Three heavens: birds of heaven; stars of heaven; abode of God. God “put a zipper on” Paul’s mouth; thorn in the flesh keeps him humble (v. 7). The man who went to heaven returns to Corinth for the third time in weakness—also in dread (vv. 10, 20; subsidiary subject). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -53,4 +52,4 @@ Primary scope: 2 Corinthians 12 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-12|Matthew Henry Concise, 2 Corinthians 12]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-12|Matthew Henry Complete on 2 Corinthians 12]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]

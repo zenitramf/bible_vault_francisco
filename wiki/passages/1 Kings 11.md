@@ -22,7 +22,7 @@ Matthew Henry Concise on 1 Kings 11: Solomon's wives and concubines, His idolatr
 - While Solomon kept close to God and to his duty, there was no enemy to give him uneasiness; but here we have an account of two. If against us, he can make us fear even the least, and the very grasshopper shall be a burden. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-11#Verses 14–25|Matthew Henry Concise on 1 Kings 11]]
 - Solomon's reign was as long as his father's, but his life was not so. Sin shortened his days. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-11#Verses 41–43|Matthew Henry Concise on 1 Kings 11]]
 - This chapter begins with as melancholy a "but" as almost any we find in all the Bible. Hitherto we have read nothing of Solomon but what was great and good; but the lustre both of his goodness and of his greatness is… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-11|Matthew Henry Complete on 1 Kings 11]]
-- McGee: Solomon is the most colossal failure on the pages of Scripture (“unto whomsoever much is given, of him shall be much required”); began by failing to remove false religion (3:3)—spot becomes leprosy. Harem of 1000 (vv. 1–3) is licentious versus David’s largely political marriages. Lord angry (v. 9); kingdom to be divided after Solomon’s day for David’s sake (vv. 12–13). Jeroboam promoted, plots per Ahijah (vv. 29–31), flees to Egypt when Solomon seeks his life. Solomon reigns 40 years. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]]
+- McGee: Solomon is the most colossal failure on the pages of Scripture (“unto whomsoever much is given, of him shall be much required”); began by failing to remove false religion (3:3)—spot becomes leprosy. Harem of 1000 (vv. 1–3) is licentious versus David’s largely political marriages. Lord angry (v. 9); kingdom to be divided after Solomon’s day for David’s sake (vv. 12–13). Jeroboam promoted, plots per Ahijah (vv. 29–31), flees to Egypt when Solomon seeks his life. Solomon reigns 40 years. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]]
 
 ## Agreements and tensions
 
@@ -49,7 +49,7 @@ Primary scope: 1 Kings 11 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-11|Matthew Henry Concise, 1 Kings 11]]
 - [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-11|Matthew Henry Complete on 1 Kings 11]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
 
 ## Open questions
 

@@ -8,7 +8,6 @@ updated: 2026-08-07
 source_count: 3
 bible_book_key: 10
 bible_book_name: "2 Samuel"
-bible_reference: "2sa 12"
 ---
 
 # 2 Samuel 12
@@ -23,7 +22,7 @@ Matthew Henry Concise on 2 Samuel 12: Nathan's parable—David confesses his sin
 - David now penned the 51st Psalm, in which, though he had been assured that his sin was pardoned, he prays earnestly for pardon, and greatly laments his sin. He was willing to bear the shame of it, to have it ever before him, to be continually upbraided with it. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-12#Verses 15–25|Matthew Henry Concise on 2 Samuel 12]]
 - To be thus severe in putting the children of Ammon to slavery was a sign that David's heart was not yet made soft by repentance, at the time when this took place. We shall be most compassionate, kind, and forgiving to others, when we most feel our need of the Lord's forgiving love, and taste the sweetness of it in… [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-12#Verses 26–31|Matthew Henry Concise on 2 Samuel 12]]
 - The foregoing chapter gave us the account of David's sin; this gives us the account of his repentance. Though he fell, he was not utterly cast down, but, by the grace of God, recovered himself, and found mercy with… [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-12|Matthew Henry Complete on 2 Samuel 12]]
-- McGee: Nathan faces David about his sins and David repents. Nathan applies the little-ewe-lamb parable (v. 7); pronounces God’s judgment (vv. 10–12); David acknowledges his sin (v. 13). David must learn that man reaps what he sows (v. 14). Solomon is the second son born to Bathsheba. Contrast with Saul’s cover-up “repentance” before the people (1 Samuel 15:30). Family troubles that follow (Amnon, Absalom) illustrate the harvest. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf|McGee Notes & Outlines on 1–2 Samuel]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Samuel source-note]]
+- McGee: Nathan faces David about his sins and David repents. Nathan applies the little-ewe-lamb parable (v. 7); pronounces God’s judgment (vv. 10–12); David acknowledges his sin (v. 13). David must learn that man reaps what he sows (v. 14). Solomon is the second son born to Bathsheba. Contrast with Saul’s cover-up “repentance” before the people (1 Samuel 15:30). Family troubles that follow (Amnon, Absalom) illustrate the harvest. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf.extract.md|McGee Notes & Outlines on 1–2 Samuel]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Samuel source-note]]
 
 ## Agreements and tensions
 
@@ -52,7 +51,7 @@ Primary scope: 2 Samuel 12 (full chapter). Related: 2 Samuel 11; Psalm 51; 1 Sam
 
 - [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-12|Matthew Henry Concise, 2 Samuel 12]]
 - [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-12|Matthew Henry Complete on 2 Samuel 12]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Samuel]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Samuel]]
 
 ## Open questions
 

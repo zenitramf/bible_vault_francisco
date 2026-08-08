@@ -6,7 +6,6 @@ tags: [justice, prophecy, holiness, worship]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "am 2"
 bible_book_key: 30
 bible_book_name: "Amos"
 ---
@@ -22,7 +21,7 @@ Judgment closes on Moab for injustice beyond death, then turns on Judah for desp
 - The evil passions of the heart break out in various forms; but the Lord looks to our motives, as well as our conduct. Those that deal cruelly, shall be cruelly dealt with. [[sources/commentaries_english/mhenry-concise/amos/chapter-2#Verses 1–8|Matthew Henry Concise on Amos 2]]
 - We need often to be reminded of the mercies we have received; which add much to the evil of the sins we have committed. They had helps for their souls, which taught them how to make good use of their earthly enjoyments, and were therefore more valuable. [[sources/commentaries_english/mhenry-concise/amos/chapter-2#Verses 9–16|Matthew Henry Concise on Amos 2]]
 - In this chapter, I. God, by the prophet, proceeds in a like controversy with Moab as before with other nations, Am 2:1-3. II. He shows what quarrel he had with Judah, Am 2:4,5. III. He at length begins his charge… [[sources/commentaries_english/mhenry-complete/volume-4/amos/chapter-2|Matthew Henry Complete on Amos 2]]
-- McGee: Moab’s unrecorded incident reveals injustice that goes beyond death; proud nation extinguished by Nebuchadnezzar (2:1–3). Judah had the Law of God and despised it—judged according to the Law; nations without the Law were not judged by it (2:4–5). Israel (ten tribes) had the Law yet committed Amorite sins; God had put the Amorites out; Israel will go into captivity before Judah (2:6–16). [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee Notes & Outlines on Amos 2]]
+- McGee: Moab’s unrecorded incident reveals injustice that goes beyond death; proud nation extinguished by Nebuchadnezzar (2:1–3). Judah had the Law of God and despised it—judged according to the Law; nations without the Law were not judged by it (2:4–5). Israel (ten tribes) had the Law yet committed Amorite sins; God had put the Amorites out; Israel will go into captivity before Judah (2:6–16). [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Amos 2]]
 
 ## Agreements and tensions
 
@@ -50,7 +49,7 @@ Primary scope: Amos 2 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/amos/chapter-2|Matthew Henry Concise, Amos 2]]
 - [[sources/commentaries_english/mhenry-complete/volume-4/amos/chapter-2|Matthew Henry Complete on Amos 2]]
-- [[sources/personal-notes/ingest/Amos-Obadiah.pdf|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
 
 ## Open questions
 

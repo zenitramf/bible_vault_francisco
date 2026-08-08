@@ -8,7 +8,6 @@ updated: 2026-08-07
 source_count: 3
 bible_book_key: 10
 bible_book_name: "2 Samuel"
-bible_reference: "2sa 7"
 ---
 
 # 2 Samuel 7
@@ -23,7 +22,7 @@ Matthew Henry Concise on 2 Samuel 7: David's care for the ark. (1–3). God's co
 - Blessings are promised to the family and posterity of David. These promises relate to Solomon, David's immediate successor, and the royal line of Judah. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-7#Verses 4–17|Matthew Henry Concise on 2 Samuel 7]]
 - David's prayer is full of the breathings of devout affection toward God. He had low thoughts of his own merits. [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-7#Verses 18–29|Matthew Henry Concise on 2 Samuel 7]]
 - Still the ark is David's care as well as his joy. In this chapter we have, I. His consultation with Nathan about building a house for it; he signifies his purpose to do it (2Sa 7:1,2) and Nathan approves his purpose,… [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-7|Matthew Henry Complete on 2 Samuel 7]]
-- McGee: David desires to house the ark; Nathan first concurs; God corrects Nathan—David is a bloody man and will not build the temple, yet God credits the desire and promises to build David a house. King and kingdom come in David’s line (vv. 12, 13, 16); seven “I wills.” Verse 14 reaches beyond Solomon to Christ (“Christ was made sin for us”; Bishop Horsley). Confirmed by oath (Psalm 89:34–37). David understands a coming king more than a man. OT prophets (Jeremiah 23:5), Matthew 1:1, Gabriel to Mary (Luke 1:32–33), Pentecost (Acts 2:25–36), Romans 1:3, and Revelation 22:16 all rest here; about 59 NT references to David. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf|McGee Notes & Outlines on 1–2 Samuel]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Samuel source-note]]
+- McGee: David desires to house the ark; Nathan first concurs; God corrects Nathan—David is a bloody man and will not build the temple, yet God credits the desire and promises to build David a house. King and kingdom come in David’s line (vv. 12, 13, 16); seven “I wills.” Verse 14 reaches beyond Solomon to Christ (“Christ was made sin for us”; Bishop Horsley). Confirmed by oath (Psalm 89:34–37). David understands a coming king more than a man. OT prophets (Jeremiah 23:5), Matthew 1:1, Gabriel to Mary (Luke 1:32–33), Pentecost (Acts 2:25–36), Romans 1:3, and Revelation 22:16 all rest here; about 59 NT references to David. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf.extract.md|McGee Notes & Outlines on 1–2 Samuel]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Samuel source-note]]
 
 ## Agreements and tensions
 
@@ -51,7 +50,7 @@ Primary scope: 2 Samuel 7 (full chapter). Supporting: Psalm 89:34–37; Jeremiah
 
 - [[sources/commentaries_english/mhenry-concise/2-samuel/chapter-7|Matthew Henry Concise, 2 Samuel 7]]
 - [[sources/commentaries_english/mhenry-complete/volume-2/2-samuel/chapter-7|Matthew Henry Complete on 2 Samuel 7]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Samuel]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Samuel]]
 
 ## Open questions
 

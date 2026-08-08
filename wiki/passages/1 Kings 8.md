@@ -22,7 +22,7 @@ Matthew Henry Concise on 1 Kings 8: The dedication of the temple. (1–11). The 
 - In this excellent prayer, Solomon does as we should do in every prayer; he gives glory to God. Fresh experiences of the truth of God's promises call for larger praises. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-8#Verses 22–53|Matthew Henry Concise on 1 Kings 8]]
 - Solomon offered a great sacrifice. He kept the feast of tabernacles, as it seems, after the feast of dedication. [[sources/commentaries_english/mhenry-concise/1-kings/chapter-8#Verses 62–66|Matthew Henry Concise on 1 Kings 8]]
 - The building and furniture of the temple were very glorious, but the dedication of it exceeds in glory as much as prayer and praise, the work of saints, exceed the casting of metal and the graving of stones, the work… [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-8|Matthew Henry Complete on 1 Kings 8]]
-- McGee: glory of the Lord fills the temple after the ark comes from the tabernacle into the Holy of Holies (vv. 10–11); Solomon dedicates giving proper credit to David (vv. 17–20; cf. 1 Chronicles 22)—it is properly David’s temple. Dedication prayer shows God is not confined to a house (v. 27)—a pagan notion that God dwells in a house. Temple becomes worship center; the world was to come to it; Israel in captivity was to turn toward it to pray. Large animal count (v. 63) explained by temporary altars (v. 64). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]]
+- McGee: glory of the Lord fills the temple after the ark comes from the tabernacle into the Holy of Holies (vv. 10–11); Solomon dedicates giving proper credit to David (vv. 17–20; cf. 1 Chronicles 22)—it is properly David’s temple. Dedication prayer shows God is not confined to a house (v. 27)—a pagan notion that God dwells in a house. Temple becomes worship center; the world was to come to it; Israel in captivity was to turn toward it to pray. Large animal count (v. 63) explained by temporary altars (v. 64). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]]
 
 ## Agreements and tensions
 
@@ -50,7 +50,7 @@ Primary scope: 1 Kings 8 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/1-kings/chapter-8|Matthew Henry Concise, 1 Kings 8]]
 - [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-8|Matthew Henry Complete on 1 Kings 8]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
 
 ## Open questions
 

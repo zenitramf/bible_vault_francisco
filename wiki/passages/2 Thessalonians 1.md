@@ -6,7 +6,6 @@ tags: [salvation, church, christ, hope, suffering]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "2th 1"
 bible_book_key: 53
 bible_book_name: "2 Thessalonians"
 ---
@@ -23,7 +22,7 @@ Matthew Henry Concise and Complete bless God for increasing grace under trial an
 - Religion, if worth anything, is worth every thing; and those have no religion, or none worth having, or know not how to value it, cannot find their hearts to suffer for it. We cannot by all our sufferings, any more than by our services, merit heaven; but by our patience under sufferings, we are prepared for the promised rest. [[sources/commentaries_english/mhenry-concise/2-thessalonians/chapter-1#Verses 5–10|Matthew Henry Concise on 2 Thessalonians 1]]
 - Believing thoughts and expectations of the second coming of Christ should lead us to pray to God more, for ourselves and others. If there is any good in us, it is owing to the good pleasure of his goodness, and therefore it is called grace. [[sources/commentaries_english/mhenry-concise/2-thessalonians/chapter-1#Verses 11, 12|Matthew Henry Concise on 2 Thessalonians 1]]
 - After the introduction (2Th 1:1,2) the apostle begins this epistle with an account of his high esteem for these Thessalonians, 2Th 1:3,4. He then comforts them under their afflictions and persecutions (2Th 1:5-10). [[sources/commentaries_english/mhenry-complete/volume-6/2-thessalonians/chapter-1|Matthew Henry Complete on 2 Thessalonians 1]]
-- McGee: under severe persecution faith and love grew; they were an example in patience (tribulation works patience, Rom 5:3); God is righteous in the Great Tribulation as judgment of sinners; vengeance belongs to the Lord (Rom 12:19); little morbid detail on the lost—those who (1) know not God and (2) obey not the gospel; Christ’s coming to earth in judgment will justify believers and glorify the Savior and the church. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee source-note]]
+- McGee: under severe persecution faith and love grew; they were an example in patience (tribulation works patience, Rom 5:3); God is righteous in the Great Tribulation as judgment of sinners; vengeance belongs to the Lord (Rom 12:19); little morbid detail on the lost—those who (1) know not God and (2) obey not the gospel; Christ’s coming to earth in judgment will justify believers and glorify the Savior and the church. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -51,7 +50,7 @@ Primary scope: 2 Thessalonians 1 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/2-thessalonians/chapter-1|Matthew Henry Concise, 2 Thessalonians 1]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/2-thessalonians/chapter-1|Matthew Henry Complete on 2 Thessalonians 1]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
 
 ## Open questions
 

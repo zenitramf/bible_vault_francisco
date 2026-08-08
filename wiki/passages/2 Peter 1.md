@@ -6,7 +6,6 @@ tags: [faith, prophecy, holiness, christ, christian-life]
 status: developing
 updated: 2026-08-07
 source_count: 3
-bible_reference: "2pe 1"
 bible_book_key: 61
 bible_book_name: "2 Peter"
 ---
@@ -23,8 +22,8 @@ Matthew Henry Concise on 2 Peter 1 covers adding graces to faith (1–11), the a
 - We must be established in the belief of the truth, that we may not be shaken by every wind of doctrine; and especially in the truth necessary for us to know in our day, what belongs to our peace, and what is opposed in our time. The body is but a tabernacle, or tent, of the soul. [[sources/commentaries_english/mhenry-concise/2-peter/chapter-1#Verses 12–15|Matthew Henry Concise on 2 Peter 1]]
 - The gospel is no weak thing, but comes in power, Ro 1:16. The law sets before us our wretched state by sin, but there it leaves us. [[sources/commentaries_english/mhenry-concise/2-peter/chapter-1#Verses 16–21|Matthew Henry Concise on 2 Peter 1]]
 - In this chapter we have, I. An introduction, or preface, making way for, and leading to, what is principally designed by the apostle, 2Pe 1:1-4. II. An exhortation to advance and improve in all Christian graces, 2Pe… [[sources/commentaries_english/mhenry-complete/volume-6/2-peter/chapter-1|Matthew Henry Complete on 2 Peter 1]]
-- McGee: blessings, precious promises, and partaking of the divine nature come through the knowledge of him; graces (virtue as excellence with energy, knowledge, temperance, patience, godliness, brotherly kindness, charity) are supplied in orderly sequence, not one depending on another as priority chain. Barren = idle; sterility and lack of enthusiasm may lead the believer to forget he has been saved. Make calling and election *more* sure—security of the believer is objective; assurance of salvation is subjective. Peter stirs saints to grow lest spiritual senility set in; “decease” is exodus; tradition of head-down crucifixion (John 21:18–19). [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|McGee Notes & Outlines on 2 Peter]]
-- McGee: eyewitness of the Transfiguration (with Matthew 16:28) is real, yet “a more sure word of prophecy” is more reliable and trustworthy; Scripture is light focused on the day star. No prophecy of Scripture is to be interpreted apart from other references to the same subject. Holy men set apart for writing Scripture were carried along by the Holy Spirit like a sailboat by the wind. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|McGee on 2 Peter 1:15–21]]
+- McGee: blessings, precious promises, and partaking of the divine nature come through the knowledge of him; graces (virtue as excellence with energy, knowledge, temperance, patience, godliness, brotherly kindness, charity) are supplied in orderly sequence, not one depending on another as priority chain. Barren = idle; sterility and lack of enthusiasm may lead the believer to forget he has been saved. Make calling and election *more* sure—security of the believer is objective; assurance of salvation is subjective. Peter stirs saints to grow lest spiritual senility set in; “decease” is exodus; tradition of head-down crucifixion (John 21:18–19). [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|McGee Notes & Outlines on 2 Peter]]
+- McGee: eyewitness of the Transfiguration (with Matthew 16:28) is real, yet “a more sure word of prophecy” is more reliable and trustworthy; Scripture is light focused on the day star. No prophecy of Scripture is to be interpreted apart from other references to the same subject. Holy men set apart for writing Scripture were carried along by the Holy Spirit like a sailboat by the wind. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|McGee on 2 Peter 1:15–21]]
 
 ## Agreements and tensions
 
@@ -56,7 +55,7 @@ Primary scope: 2 Peter 1 (full chapter). Supporting refs in McGee: John 17:3; 21
 
 - [[sources/commentaries_english/mhenry-concise/2-peter/chapter-1|Matthew Henry Concise, 2 Peter 1]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/2-peter/chapter-1|Matthew Henry Complete on 2 Peter 1]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|J. Vernon McGee, Notes & Outlines: 2 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Peter]]
 
 ## Open questions
 

@@ -6,7 +6,6 @@ tags: [salvation, church, christ, discipleship, hope]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "2th 3"
 bible_book_key: 53
 bible_book_name: "2 Thessalonians"
 ---
@@ -23,7 +22,7 @@ Matthew Henry Concise and Complete request prayer, charge withdrawal from idle d
 - Those who have received the gospel, are to live according to the gospel. Such as could work, and would not, were not to be maintained in idleness. [[sources/commentaries_english/mhenry-concise/2-thessalonians/chapter-3#Verses 6–15|Matthew Henry Concise on 2 Thessalonians 3]]
 - The apostle prays for the Thessalonians. And let us desire the same blessings for ourselves and our friends. [[sources/commentaries_english/mhenry-concise/2-thessalonians/chapter-3#Verses 16–18|Matthew Henry Concise on 2 Thessalonians 3]]
 - In the close of the foregoing chapter, the apostle had prayed earnestly for the Thessalonians, and now he desires their prayers, encouraging them to trust in God, to which he subjoins another petition for them. [[sources/commentaries_english/mhenry-complete/volume-6/2-thessalonians/chapter-3|Matthew Henry Complete on 2 Thessalonians 3]]
-- McGee: Word enables walk before the wicked; walk in the love of God and patient waiting for Christ; do not walk with the disorderly; follow apostolic example; workers earned their own bread as an example; looking for the Lord makes a worker, not a dreamer—“no work—no food”; busybodies work the wrong way; command to work for their own bread; holders of the blessed hope must not grow weary; disobedient avoided yet admonished as brothers; benediction—prophecy study brings peace, not fanaticism or laziness. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee source-note]]
+- McGee: Word enables walk before the wicked; walk in the love of God and patient waiting for Christ; do not walk with the disorderly; follow apostolic example; workers earned their own bread as an example; looking for the Lord makes a worker, not a dreamer—“no work—no food”; busybodies work the wrong way; command to work for their own bread; holders of the blessed hope must not grow weary; disobedient avoided yet admonished as brothers; benediction—prophecy study brings peace, not fanaticism or laziness. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -51,7 +50,7 @@ Primary scope: 2 Thessalonians 3 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/2-thessalonians/chapter-3|Matthew Henry Concise, 2 Thessalonians 3]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/2-thessalonians/chapter-3|Matthew Henry Complete on 2 Thessalonians 3]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
 
 ## Open questions
 

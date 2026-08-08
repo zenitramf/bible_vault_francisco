@@ -6,7 +6,6 @@ tags: [justice, prophecy, holiness, worship]
 status: developing
 updated: 2026-08-08
 source_count: 3
-bible_reference: "am 8"
 bible_book_key: 30
 bible_book_name: "Amos"
 ---
@@ -23,7 +22,7 @@ The basket of summer fruit signals that Israel’s perishable goodness is ripe f
 - The rich and powerful of the land were the most guilty of oppression, as well as the foremost in idolatry. They were weary of the restraints of the sabbaths and the new moons, and wished them over, because no common work might be done therein. [[sources/commentaries_english/mhenry-concise/amos/chapter-8#Verses 4–10|Matthew Henry Concise on Amos 8]]
 - Here was a token of God's highest displeasure. At any time, and most in a time of trouble, a famine of the word of God is the heaviest judgment. [[sources/commentaries_english/mhenry-concise/amos/chapter-8#Verses 11–14|Matthew Henry Concise on Amos 8]]
 - Sinful times are here attended with sorrowful times, so necessary is the connexion between them; it is threatened here again and again that the laughter shall be turned into mourning. I. By the vision of "basket of… [[sources/commentaries_english/mhenry-complete/volume-4/amos/chapter-8|Matthew Henry Complete on Amos 8]]
-- McGee: Israel’s goodness was like summer fruit—perishable and soon deteriorated; God must judge them now. Dark days would come (v. 10); God would withdraw His Word from them (v. 11); they would become “the wandering Jew” (v. 12). [[sources/personal-notes/ingest/Amos-Obadiah.pdf|McGee Notes & Outlines on Amos 8]]
+- McGee: Israel’s goodness was like summer fruit—perishable and soon deteriorated; God must judge them now. Dark days would come (v. 10); God would withdraw His Word from them (v. 11); they would become “the wandering Jew” (v. 12). [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Amos 8]]
 
 ## Agreements and tensions
 
@@ -51,7 +50,7 @@ Primary scope: Amos 8 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/amos/chapter-8|Matthew Henry Concise, Amos 8]]
 - [[sources/commentaries_english/mhenry-complete/volume-4/amos/chapter-8|Matthew Henry Complete on Amos 8]]
-- [[sources/personal-notes/ingest/Amos-Obadiah.pdf|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
 
 ## Open questions
 

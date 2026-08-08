@@ -6,7 +6,6 @@ tags: [pastoral-ministry, christ, christian-life, faith, discipleship]
 status: seed
 updated: 2026-08-08
 source_count: 3
-bible_reference: "2co 8"
 bible_book_key: 47
 bible_book_name: "2 Corinthians"
 ---
@@ -24,7 +23,7 @@ Matthew Henry Concise on 2 Corinthians 8: The apostle reminds them of charitable
 - Good purposes are like buds and blossoms, pleasant to behold, and give hopes of good fruit; but they are lost, and signify nothing without good deeds. Good beginnings are well; but we lose the benefit, unless there is perseverance. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-8#Verses 10–15|Matthew Henry Concise on 2 Corinthians 8]]
 - The apostle commends the brethren sent to collect their charity, that it might be known who they were, and how safely they might be trusted. It is the duty of all Christians to act prudently; to hinder, as far as we can, all unjust suspicions. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-8#Verses 16–24|Matthew Henry Concise on 2 Corinthians 8]]
 - In this and the following chapter Paul is exhorting and directing the Corinthians about a particular work of charity—to relieve the necessities of the poor saints at Jerusalem and in Judea, according to the good… [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-8|Matthew Henry Complete on 2 Corinthians 8]]
-- McGee: giving is a grace; God wants the person before the gift—Macedonians first gave themselves (v. 5). Principles not rules; tithe not demanded; Christ gave all—not a tenth (v. 9). Explanation continues into 9:5—give to a specific cause (poor saints in Jerusalem), reputable messengers (Titus and company), and in reality not mere promise. [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee source-note]]
+- McGee: giving is a grace; God wants the person before the gift—Macedonians first gave themselves (v. 5). Principles not rules; tithe not demanded; Christ gave all—not a tenth (v. 9). Explanation continues into 9:5—give to a specific cause (poor saints in Jerusalem), reputable messengers (Titus and company), and in reality not mere promise. [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee source-note]]
 
 ## Agreements and tensions
 
@@ -51,7 +50,7 @@ Primary scope: 2 Corinthians 8 (full chapter).
 
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-8|Matthew Henry Concise, 2 Corinthians 8]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-8|Matthew Henry Complete on 2 Corinthians 8]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
 
 ## Open questions
 
