@@ -42,6 +42,7 @@ Varies by daily entry (see individual files).
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/campaigns/tracker|Campaign tracker]]
+- [[wiki/campaigns/mae-concept-mesh|MAE Concept Mesh runbook]] (temporary subagent process)
 
 ## Sources
 

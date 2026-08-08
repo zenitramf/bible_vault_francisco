@@ -542,3 +542,7 @@ append_only: true
 ## [2026-08-08] ingest | Spurgeon MAE January concept mesh
 
 - Meshed all 31 January Morning and Evening days into concept hubs (no month inventory note). Removed wiki/source-notes/Spurgeon Morning and Evening — January.md. Claims + source links on Prayer, Intercession, Christ, Covenant, Grace, Faith, Salvation, Hope, Worship, Holiness, Justification, Atonement, Redemption, Church, Discipleship, Spiritual Warfare, Suffering, Creation, Word of God, Holy Spirit. Updated Theme Enrichment + campaign tracker 4.5 January. Rebuild/coverage 6851/6851; lint clean.
+
+## [2026-08-08] docs | MAE concept-mesh runbook
+
+- Added temporary wiki/campaigns/mae-concept-mesh.md phased subagent runbook (Jan done, Feb–Dec pending). Linked from tracker §4.5, Theme Enrichment, campaigns index.

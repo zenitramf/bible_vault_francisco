@@ -277,6 +277,8 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 
 ### 4.5 — Morning and Evening (full calendar)
 
+**Concept-mesh runbook (temporary, subagent handoff):** [[wiki/campaigns/mae-concept-mesh|MAE Concept Mesh runbook]] — no month inventory notes; mesh each calendar month into concept hubs. January done; Feb–Dec pending.
+
 | Section | Status | Days | Notes |
 |---|---|---:|---|
 | January | reviewed | 31 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
