@@ -5,14 +5,14 @@ description: The church as one body in Christ, gifted for edification, and gathe
 tags: [church, christ, holy-spirit, discipleship]
 status: reviewed
 updated: 2026-08-07
-source_count: 9
+source_count: 10
 ---
 
 # Church
 
 ## Summary
 
-The sources present the church as one body animated by one Spirit, called to unity and built up by Christ's gifts. Local gatherings of even two or three in Christ's name have his promised presence. Romans 12–16 (Henry Concise) adds living-sacrifice identity, diverse gifts in one body, mutual forbearance of weak and strong, practical care for co-workers, and vigilance against dividers who depart from sound doctrine. McGee on 1 Corinthians thickens the Corinthian case: lordship of Jesus, correction of party spirit and scandals, body metaphor and Spirit baptism into one body, ordered worship and Lord’s Table, and love as the energy of gifts. McGee on 1 John distinguishes the church body (Pauline positional blessings) from the larger family of God and warns that false professors depart from the Word and that spirits denying the incarnation must be tested. McGee’s Pastoral Epistles outline adds the local assembly’s order, sound doctrine, and elder oversight as the measuring rod of a New Testament church.
+The sources present the church as one body animated by one Spirit, called to unity and built up by Christ's gifts. Local gatherings of even two or three in Christ's name have his promised presence. Romans 12–16 (Henry Concise) adds living-sacrifice identity, diverse gifts in one body, mutual forbearance of weak and strong, practical care for co-workers, and vigilance against dividers who depart from sound doctrine. McGee on 1 Corinthians thickens the Corinthian case: lordship of Jesus, correction of party spirit and scandals, body metaphor and Spirit baptism into one body, ordered worship and Lord’s Table, and love as the energy of gifts. McGee on 1 John distinguishes the church body (Pauline positional blessings) from the larger family of God and warns that false professors depart from the Word and that spirits denying the incarnation must be tested. McGee’s Pastoral Epistles outline adds the local assembly’s order, sound doctrine, and elder oversight as the measuring rod of a New Testament church. McGee on 2–3 John puts truth into hospitality practice: refuse support to false teachers; receive and aid true itinerant teachers; resist Diotrephes-type preeminence that rules or ruins the local flock.
 
 ## Core claims
 
@@ -26,8 +26,8 @@ The sources present the church as one body animated by one Spirit, called to uni
 - Whatever differs from the sound doctrine of the Scriptures opens a door to divisions; the church must be wise against seducers. [[sources/commentaries_english/mhenry-concise/romans/chapter-16#Verses 17–20|Matthew Henry Concise on Romans 16]]
 - McGee: 1 Corinthians corrects a divided, scandal-ridden local church under the lordship of Jesus; gifts are given to maintain unity in diversity; Spirit baptism places believers into Christ’s body; love energizes gifts; the Lord’s Table requires self-judgment and order. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee Notes & Outlines on 1 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee source-note]]
 - McGee on 1 John: Paul wrote to the church (body with positional blessings, Eph 1:3); John wrote to the family of God—relationship restored by confession (1:9). Family is larger than the church; both in the Kingdom but not synonymous. Pseudo-Christians leave the preaching of the Word—departure identifies them (2:19). Test spirits; false teachers deny incarnation; elect cannot permanently be deceived (4:1–6). Brother-love across cliques and denominations marks the reborn (3:14; 5:1). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
-
 - McGee: the Pastorals instruct orderly procedure in local and visible churches; 1 Timothy’s theme is local-church government over against Ephesians’ invisible body; Titus measures the ideal church by orderly organization, sound doctrine, pure life, and readiness for every good work. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]] [[wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon|McGee Pastoral Epistles source-note]]
+- McGee on 2–3 John: truth worth standing for (2 John) and working for (3 John). Do not receive into the house or greet teachers who lack the doctrine of Christ—supporters become partners in error (2 John 10–11). Gaius is commended for housing true itinerant teachers (3 John 5–8). Diotrephes loved preeminence: refused John and missionaries, slandered apostles, and expelled hosts—“Diotrephes, the dictator”; evil deeds express false doctrine (3 John 9–11). Elect lady may be a local church extending hospitality too freely (McGee’s lean, not insisted). [[sources/personal-notes/ingest/2-3_John.pdf|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
 
 ## Agreements and tensions
 
@@ -38,11 +38,12 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - Romans concise stresses concrete relational ethics (weak/strong, co-workers, anti-division) more than formal polity.
 - McGee supplies a full local-church correction agenda (divisions, discipline, liberty, worship, gifts) from Corinth; his tongues and head-covering applications are single-author outline readings.
 - McGee’s family-larger-than-church scheme is a distinctive outline frame; hold beside body-unity texts without dissolving local-church responsibility.
+- McGee’s 2–3 John hospitality pair (refuse false / receive true) and Diotrephes catalog agree with Henry Concise on deceivers and proud ambition; “elect lady = church” and “first Pope” rhetoric are outline color, not vault dogma.
 - Local/catholic church relations and ordinances still need later sources.
 
 ## Biblical passages
 
-Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Romans 14; Romans 16; 1 Corinthians 1; 3; 11–14; 1 John 1:3–9; 2:19; 4:1–6.
+Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Romans 14; Romans 16; 1 Corinthians 1; 3; 11–14; 1 John 1:3–9; 2:19; 4:1–6; 2 John 1–13; 3 John 1–14.
 
 ## Related pages
 
@@ -52,6 +53,7 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 - [[wiki/source-notes/Matthew Henry Concise on 1 Corinthians|Matthew Henry Concise on 1 Corinthians]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee Notes and Outlines on 1 Corinthians]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
+- [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee Notes and Outlines on 2 and 3 John]]
 - [[wiki/passages/Acts 2|Acts 2]]
 - [[wiki/passages/Ephesians 4|Ephesians 4]]
 - [[wiki/passages/1 Corinthians 1|1 Corinthians 1]]
@@ -59,6 +61,8 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 - [[wiki/passages/1 John 1|1 John 1]]
 - [[wiki/passages/1 John 2|1 John 2]]
 - [[wiki/passages/1 John 4|1 John 4]]
+- [[wiki/passages/2 John 1|2 John 1]]
+- [[wiki/passages/3 John 1|3 John 1]]
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
 - [[wiki/concepts/Worship|Worship]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -82,6 +86,7 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1–2 Timothy, Titus, Philemon]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/personal-notes/ingest/2-3_John.pdf|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
 
 ## Open questions
 

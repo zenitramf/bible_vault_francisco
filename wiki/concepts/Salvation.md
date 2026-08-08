@@ -5,14 +5,14 @@ description: God's free grace in Christ, received by faith and not by works of t
 tags: [salvation, grace, faith, christ]
 status: reviewed
 updated: 2026-08-07
-source_count: 10
+source_count: 11
 ---
 
 # Salvation
 
 ## Summary
 
-Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. McGee on 1 John adds the epistle’s assurance purpose: written so that those who believe may *know* they have eternal life (1 John 5:13), with life exclusively in the Son. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory.
+Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. McGee on 1 John adds the epistle’s assurance purpose: written so that those who believe may *know* they have eternal life (1 John 5:13), with life exclusively in the Son. McGee on 2 Peter distinguishes objective security of the believer from subjective assurance of salvation, and warns that head-knowledge apostates may know the truth without loving it. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory.
 
 ## Core claims
 
@@ -29,6 +29,7 @@ Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through fai
 - The same Lord is rich to all who call on him; faith comes by hearing the word of God. [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 12–17|Matthew Henry Concise on Romans 10]]
 - The Spirit is involved in waiting for the hope of righteousness by faith; salvation by faith is not a Spirit-less transaction. [[sources/commentaries_english/chspurgeon-sermons/volume-21/sermon_1228|Spurgeon, Salvation by Faith and the Work of the Spirit]]
 - McGee on 1 John: Gospel purpose is life through believing (John 20:30–31); epistle purpose is that believers may know they have eternal life and believe on the Son’s name (1 John 5:13). Either one has the Son by faith or not—no middle ground (5:11–12); refusing God’s witness makes him a liar (5:10). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
+- McGee on 2 Peter 1:10: make calling and election *more* sure—it is possible to believe in the security of the believer but lack the assurance of salvation; security is objective, assurance subjective. Sterility may lead a believer to forget he has been saved. Ch. 2: false teachers deny Christ’s redemption; elect cannot be permanently deceived; apostates may have head knowledge without love of the truth—the washed sow returns to the mire. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|McGee Notes & Outlines on 2 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee 2 Peter source-note]] [[wiki/passages/2 Peter 1|2 Peter 1]] [[wiki/passages/2 Peter 2|2 Peter 2]]
 
 ## Agreements and tensions
 
@@ -39,6 +40,7 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - Henry's Ephesians 2 exposition holds together natural misery, free grace, faith, new creation unto good works, and Jew-Gentile unity. Good works follow as fruit, not as the cause of acceptance. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-2#The Change Wrought in the Ephesians (61 AD)|Matthew Henry on Ephesians 2]]
 - Romans concise adds the full salvation arc (need → justification → holiness → Spirit → mission) in one epistle map; detailed justification claims now live primarily on [[wiki/concepts/Justification|Justification]].
 - McGee’s 1 John assurance frame complements Romans security without replacing the justification map; family-fellowship restoration (1 John 1:9) is not a second way of getting saved.
+- McGee’s 2 Peter security/assurance split and elect-not-permanently-deceived claim pair with 1 John’s “know you have life”; the prodigal-pig apostate reading must not be flattened into loss of true regeneration without multi-source comparison.
 - The relation between justification, sanctification, assurance, and final hope must still be kept distinct even while inseparable in Christian experience.
 
 ## Biblical passages
@@ -51,6 +53,7 @@ Key loci in the present evidence:
 - Galatians 5:5
 - Ephesians 1:12–13
 - 1 John 5:10–13
+- 2 Peter 1:5–11; 2 Peter 2:1–22
 
 No single primary verse is set in frontmatter because the concept is multi-passage in the sources used.
 
@@ -74,9 +77,12 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[wiki/passages/Romans 3|Romans 3]]
 - [[wiki/passages/Romans 8|Romans 8]]
 - [[wiki/passages/1 John 5|1 John 5]]
+- [[wiki/passages/2 Peter 1|2 Peter 1]]
+- [[wiki/passages/2 Peter 2|2 Peter 2]]
 - [[wiki/source-notes/Matthew Henry Concise on Romans|Matthew Henry Concise on Romans]]
 - [[wiki/source-notes/Matthew Henry Concise on 1 John|Matthew Henry Concise on 1 John]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
+- [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee Notes and Outlines on 2 Peter]]
 - [[wiki/source-notes/Matthew Henry Concise on Isaiah|Matthew Henry Concise on Isaiah]]
 - [[wiki/passages/Isaiah 53|Isaiah 53]]
 - [[wiki/source-notes/Matthew Henry Concise on Genesis|Matthew Henry Concise on Genesis]]
@@ -96,6 +102,7 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-8|Matthew Henry Concise, Romans 8]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-10|Matthew Henry Concise, Romans 10]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf|J. Vernon McGee, Notes & Outlines: 2 Peter]]
 
 ## Open questions
 

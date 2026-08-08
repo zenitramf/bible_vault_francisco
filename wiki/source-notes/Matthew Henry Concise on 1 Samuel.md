@@ -4,7 +4,7 @@ title: Matthew Henry Concise on 1 Samuel
 description: Book-level digest of Matthew Henry Concise 1 Samuel (31 chapters) for the OT passage atlas (Phase 3.2).
 tags: [faith, prayer, holiness, justice]
 status: seed
-updated: 2026-07-16
+updated: 2026-08-07
 source_count: 31
 source_path: "sources/commentaries_english/mhenry-concise/1-samuel/"
 bible_book_key: 9
@@ -15,7 +15,7 @@ bible_book_name: "1 Samuel"
 
 ## Summary
 
-Intentional ingest of **Matthew Henry Concise** on 1 Samuel as a chapter-by-chapter backbone for the wiki passage atlas (31 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition. Part of campaign Phase 3.2 (OT remainder).
+Intentional ingest of **Matthew Henry Concise** on 1 Samuel as a chapter-by-chapter backbone for the wiki passage atlas (31 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition. Part of campaign Phase 3.2 (OT remainder). Book-level McGee outline now pairs at [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Notes and Outlines on 1 and 2 Samuel]].
 
 ## Core claims
 
@@ -24,7 +24,7 @@ Intentional ingest of **Matthew Henry Concise** on 1 Samuel as a chapter-by-chap
 
 ## Agreements and tensions
 
-Single-corpus (Henry Concise). Concept pages may already hold multi-source claims; this atlas supplies the book spine and should be thickened, not treated as exclusive.
+Single-corpus (Henry Concise) as atlas spine. Concept pages and hub passages may already hold multi-source claims; McGee Thru the Bible Notes & Outlines on 1–2 Samuel thickens prayer, kingdom, prophet, Saul dualism, and Davidic-covenant themes without replacing this spine.
 
 ## Biblical passages
 
@@ -37,6 +37,8 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Holiness|Holiness]]
 - [[wiki/concepts/Justice|Justice]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Notes and Outlines on 1 and 2 Samuel]]
+- [[wiki/source-notes/Matthew Henry Concise on 2 Samuel|Matthew Henry Concise on 2 Samuel]]
 - [[wiki/campaigns/tracker|Campaign tracker]]
 
 ## Sources
@@ -75,4 +77,4 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 
 ## Open questions
 
-- Which hub chapters in 1 Samuel should next receive Henry Complete and Spurgeon deepening?
+- Which hub chapters in 1 Samuel should next receive Henry Complete and Spurgeon deepening beside McGee outline claims?

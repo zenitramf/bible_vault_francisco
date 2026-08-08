@@ -15,7 +15,7 @@ bible_book_name: "1 Peter"
 
 ## Summary
 
-Intentional ingest of **J. Vernon McGee, Thru the Bible Notes & Outlines** on 1 Peter (immutable PDF under `sources/commentaries_english/mcgee-thru-the-bible/`; original raw path `raw/1_Peter.pdf`). McGee presents Simon Peter as writer (1 Peter 1:1), dates the letter about A.D. 64 (2 Peter a short time later; martyrdom within A.D. 64–67), and argues a **literal Babylon** origin (1 Peter 5:13) against the Rome-as-Babylon reading. Theme is **Christian hope in the time of trial**—suffering (with cognates, sixteen times) tied to hope; Peter is called the apostle of hope. Outline moves through security and joy (1:1–9), Scriptures and holiness (1:10–25), Christ’s suffering producing separation, conduct, and obedience (chs. 2–4), and the Second Coming producing service, humility, and patience (ch. 5). High-quality pdftotext extract supports book-level synthesis.
+Intentional ingest of **J. Vernon McGee, Thru the Bible Notes & Outlines** on 1 Peter (immutable PDF under `sources/commentaries_english/mcgee-thru-the-bible/`; original raw path `raw/1_Peter.pdf`). McGee presents Simon Peter as writer (1 Peter 1:1), dates the letter about A.D. 64 (2 Peter a short time later; martyrdom within A.D. 64–67), and argues a **literal Babylon** origin (1 Peter 5:13) against the Rome-as-Babylon reading. Theme is **Christian hope in the time of trial**—suffering (with cognates, sixteen times) tied to hope; Peter is called the apostle of hope. Outline moves through security and joy (1:1–9), Scriptures and holiness (1:10–25), Christ’s suffering producing separation, conduct, and obedience (chs. 2–4), and the Second Coming producing service, humility, and patience (ch. 5). High-quality pdftotext extract supports book-level synthesis. Companion swan-song outline: [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee Notes and Outlines on 2 Peter]].
 
 ## Core claims
 
@@ -39,7 +39,7 @@ Intentional ingest of **J. Vernon McGee, Thru the Bible Notes & Outlines** on 1 
 - Agrees with Henry Concise/Complete atlas on election and Trinity in 1:2, living hope and inheritance, holiness call, living stone and priesthood, household and civil conduct, Christ’s example in suffering, elder feeding without lordship, humility, and sober resistance of the devil ([[wiki/source-notes/Matthew Henry Concise on 1 Peter|Matthew Henry Concise on 1 Peter]]).
 - Adds sharper hope-in-trial theme word-counts, literal-Babylon provenance argument, Cross/Crown mountain-peak prophecy scheme, Passover-sprinkling and Isa 53 sin-healing readings, Noah-day spirits-in-prison view, baptism-as-identification, and elder “religious racket” money test—useful to [[wiki/concepts/Hope|Hope]], [[wiki/concepts/Suffering|Suffering]], [[wiki/concepts/Holiness|Holiness]], [[wiki/concepts/Christ|Christ]], [[wiki/concepts/Redemption|Redemption]], [[wiki/concepts/Word of God|Word of God]], [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]], and [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]].
 - Literal Babylon vs Rome, Scofield election/foreknowledge logical order, and spirits-preached-in-Noah’s-day should be held beside other sources, not as the vault’s sole word.
-- Corpus is single-author outline notes for Thru the Bible radio listeners, not full critical commentary. PDF and extract already live under `sources/commentaries_english/mcgee-thru-the-bible/`; optional chapter-level split remains open (same pattern as 1 Corinthians).
+- Corpus is single-author outline notes for Thru the Bible radio listeners, not full critical commentary. PDF and extract already live under `sources/commentaries_english/mcgee-thru-the-bible/`; optional chapter-level split remains open (same pattern as 1 Corinthians). Companion 2 Peter outline treats the second letter as swan song parallel to 2 Timothy ([[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee on 2 Peter]]).
 
 ## Biblical passages
 
@@ -57,6 +57,7 @@ Intentional ingest of **J. Vernon McGee, Thru the Bible Notes & Outlines** on 1 
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 - [[wiki/source-notes/Matthew Henry Concise on 1 Peter|Matthew Henry Concise on 1 Peter]]
+- [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee Notes and Outlines on 2 Peter]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee Notes and Outlines on 1 Corinthians]]
 - [[wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon|McGee Notes and Outlines on Pastoral Epistles and Philemon]]
@@ -70,4 +71,4 @@ Intentional ingest of **J. Vernon McGee, Thru the Bible Notes & Outlines** on 1 
 
 - When should this Notes & Outlines PDF be split into chapter-level files under `sources/commentaries_english/mcgee-thru-the-bible/`?
 - Which hub chapters (1, 2, 3:18–22, 5) should next receive explicit multi-source comparison of McGee’s Babylon, spirits-in-prison, and election/foreknowledge claims against Henry and Spurgeon?
-- Should a dedicated Biblical Person page for the apostle Peter be seeded from this epistle’s biographical notes and the Gospels/Acts atlas?
+- Should a dedicated Biblical Person page for the apostle Peter be seeded from this epistle’s biographical notes, the 2 Peter companion outline, and the Gospels/Acts atlas?

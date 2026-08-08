@@ -494,3 +494,15 @@ append_only: true
 - skipped: 0
 - maintenance: issues
 - ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings.md
+
+## [2026-08-08] ingest | batch batch-fb5c56bd-msjltxvb
+
+- status: partial
+- discovered: 3
+- ingested: 3
+- failed: 0
+- skipped: 0
+- maintenance: issues
+- ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel.md
+- ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians.md
+- ingested [pdf]: sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf extract=sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md note=wiki/source-notes/McGee Notes and Outlines on 2 Corinthians.md

@@ -4,15 +4,15 @@ title: Holy Spirit
 description: The promised Comforter who indwells, convicts, guides into truth, and empowers the church (Jn 14–16; Acts 2; Rom 8:26).
 tags: [holy-spirit, christ, church, prayer]
 status: reviewed
-updated: 2026-08-07
-source_count: 9
+updated: 2026-08-08
+source_count: 10
 ---
 
 # Holy Spirit
 
 ## Summary
 
-The sources present the Holy Spirit as another Comforter given by the Father at the Son's request, abiding with the church forever. He is the Spirit of truth who convicts the world, guides disciples into truth, and was poured out at Pentecost in fulfillment of promise. Romans 8 deepens the Spirit’s work as the principle of the new walk, the Spirit of adoption, helper in prayer weakness, and seal of inseparable love. McGee on 1 Corinthians adds Spirit-revealed wisdom versus natural blindness (ch. 2), the body as Spirit’s temple, Trinitarian distribution of gifts, and Spirit baptism placing believers into Christ’s body. McGee on 1 John adds the anointing that teaches believers, indwelling as greater than the world, and the Spirit as witness with water and blood. A local Spanish sermon note adds the pastoral image of the Spirit as oil (anointing).
+The sources present the Holy Spirit as another Comforter given by the Father at the Son's request, abiding with the church forever. He is the Spirit of truth who convicts the world, guides disciples into truth, and was poured out at Pentecost in fulfillment of promise. Romans 8 deepens the Spirit’s work as the principle of the new walk, the Spirit of adoption, helper in prayer weakness, and seal of inseparable love. McGee on 1 Corinthians adds Spirit-revealed wisdom versus natural blindness (ch. 2), the body as Spirit’s temple, Trinitarian distribution of gifts, and Spirit baptism placing believers into Christ’s body. McGee on 1 John adds the anointing that teaches believers, indwelling as greater than the world, and the Spirit as witness with water and blood. McGee on 2 Corinthians ties the Comforter vocabulary of comfort to the Spirit who confirms, anoints, seals, and is the earnest; only the Spirit develops Christian character (*metamorphosis*, 3:18); and the Spirit is the General of spiritual warfare with the Word and prayer (ch. 10). A local Spanish sermon note adds the pastoral image of the Spirit as oil (anointing).
 
 ## Core claims
 
@@ -24,8 +24,9 @@ The sources present the Holy Spirit as another Comforter given by the Father at 
 - Those in Christ walk after the Spirit rather than the flesh; having the Spirit of Christ marks belonging to him. [[sources/commentaries_english/mhenry-concise/romans/chapter-8#Verses 1–9|Matthew Henry Concise on Romans 8]]
 - The Spirit of adoption works the disposition of children and witnesses with the believer’s spirit. [[sources/commentaries_english/mhenry-concise/romans/chapter-8#Verses 10–17|Matthew Henry Concise on Romans 8]]
 - Local preaching has illustrated the Spirit as like oil—an anointing image for his precious work. [[sources/personal-notes/Pastor Andy Doss y Merced Baptist Church|Pastor Andy Doss note]]
-- McGee: God’s wisdom comes by Holy Spirit revelation; the natural man without the Spirit cannot receive the things of God (1 Cor 2); the Spirit bestows gifts, Christ administers, the Father energizes (12:4–6); baptism of the Spirit places each believer into the body of Christ; the body is the Spirit’s temple. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee Notes & Outlines on 1 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee source-note]]
-- McGee on 1 John: Believers have an anointing from the Holy One and need not esoteric teachers—the Spirit is final Teacher (2:20, 27; cf. John 16:12–15). Greater is he that is in you than he in the world (4:4); Spirit indwells every believer (4:13; Rom 8:9; 1 Cor 6:19). Spirit, water (Word), and blood witness to salvation in Christ (5:6–8); Spirit leads into all truth (5:20). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
+- McGee: God’s wisdom comes by Holy Spirit revelation; the natural man without the Spirit cannot receive the things of God (1 Cor 2); the Spirit bestows gifts, Christ administers, the Father energizes (12:4–6); baptism of the Spirit places each believer into the body of Christ; the body is the Spirit’s temple. [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|McGee Notes & Outlines on 1 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee source-note]]
+- McGee on 1 John: Believers have an anointing from the Holy One and need not esoteric teachers—the Spirit is final Teacher (2:20, 27; cf. John 16:12–15). Greater is he that is in you than he in the world (4:4); Spirit indwells every believer (4:13; Rom 8:9; 1 Cor 6:19). Spirit, water (Word), and blood witness to salvation in Christ (5:6–8); Spirit leads into all truth (5:20). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
+- McGee on 2 Corinthians: Comfort is the same word used for the Holy Spirit the Comforter—he comes beside the child of God to dispel darkness and relieve loneliness (1:3–7). The Spirit confirms (“establisheth”), anoints, seals, and is the earnest/pledge of more to come (1:21–22; cf. Eph 4:30); Father true, Son absolute, Spirit dwelling within. Only the Spirit develops Christian character; “changed” is *metamorphosis* as at the Transfiguration (3:18). Those led by the Spirit are not under the Law (3:17). In ministry warfare the Holy Spirit is the General, the Word the weapon, prayer the ammunition (10:4). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee 2 Corinthians source-note]]
 
 ## Agreements and tensions
 
@@ -34,11 +35,12 @@ The sources present the Holy Spirit as another Comforter given by the Father at 
 - Romans 8 (concise + Spurgeon on intercession) stresses interior help, adoption, and security more than public Pentecost signs.
 - McGee ties the Spirit to illumination, indwelling temple ethics, and gift distribution for unity; his lean against ongoing tongues practice (1 Cor 14) is outline opinion—charismatic continuities and discontinuities after Pentecost are not adjudicated on this page.
 - McGee’s 1 John anointing and three-witness scheme mesh with Paraclete guidance; “need not that any man teach you” must not cancel pastoral teachers but false esoteric gurus.
+- McGee’s 2 Corinthians seal/earnest tetrad and Comforter-comfort word-link agree with Romans 8 security and John 14–16 Paraclete language; *metamorphosis*/Transfiguration as character goal is a distinctive outline emphasis to hold beside Henry’s gospel-glory reading of ch. 3.
 - The oil/anointing image from the Merced note is pastoral and brief; it must not be stretched beyond the source.
 
 ## Biblical passages
 
-Key loci: John 14:15–17; John 16:7–14; Acts 2:1–4; Romans 8:1–27; 1 Corinthians 2; 3:16–17; 6:19–20; 12–14; 1 John 2:20, 27; 4:4, 13; 5:6–8, 20.
+Key loci: John 14:15–17; John 16:7–14; Acts 2:1–4; Romans 8:1–27; 1 Corinthians 2; 3:16–17; 6:19–20; 12–14; 2 Corinthians 1:3–22; 3:17–18; 10:4; 1 John 2:20, 27; 4:4, 13; 5:6–8, 20.
 
 ## Related pages
 
@@ -47,11 +49,14 @@ Key loci: John 14:15–17; John 16:7–14; Acts 2:1–4; Romans 8:1–27; 1 Cori
 - [[wiki/source-notes/Matthew Henry Concise on John|Matthew Henry Concise on John]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee Notes and Outlines on 1 Corinthians]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
+- [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee Notes and Outlines on 2 Corinthians]]
 - [[wiki/passages/Acts 2|Acts 2]]
 - [[wiki/passages/John 16|John 16]]
 - [[wiki/passages/John 14|John 14]]
 - [[wiki/passages/1 Corinthians 2|1 Corinthians 2]]
 - [[wiki/passages/1 Corinthians 12|1 Corinthians 12]]
+- [[wiki/passages/2 Corinthians 1|2 Corinthians 1]]
+- [[wiki/passages/2 Corinthians 3|2 Corinthians 3]]
 - [[wiki/passages/1 John 2|1 John 2]]
 - [[wiki/passages/1 John 4|1 John 4]]
 - [[wiki/passages/1 John 5|1 John 5]]
@@ -77,8 +82,9 @@ Key loci: John 14:15–17; John 16:7–14; Acts 2:1–4; Romans 8:1–27; 1 Cori
 - [[sources/commentaries_english/chspurgeon-sermons/volume-26/sermon_1532|Spurgeon, Sermon 1532: The Holy Spirit's Intercession]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-8|Matthew Henry Concise, Romans 8]]
 - [[sources/personal-notes/Pastor Andy Doss y Merced Baptist Church|Pastor Andy Doss y Merced Baptist Church]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
 
 ## Open questions
 

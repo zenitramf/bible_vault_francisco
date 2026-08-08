@@ -15,7 +15,7 @@ bible_book_name: "1 Kings"
 
 ## Summary
 
-Intentional ingest of **J. Vernon McGee, Thru the Bible Notes & Outlines** on 1 & 2 Kings (immutable PDF under `sources/commentaries_english/mcgee-thru-the-bible/`; original raw path `raw/1-2_Kings.pdf`). McGee treats Kings as the second of three double books (originally one book, divided by the Septuagint), continuing Samuel’s narrative from David and Solomon’s height through division to the captivities of Israel and Judah. Theme: the kingdom standard “as David his father” (repeated nine times in 1 Kings)—a human standard man failed to attain. First Kings records the *division* of the kingdom; Second Kings the *collapse*. Key verses: 2 Kings 17:22–23 and 25:21. Moral teaching: man’s inability to rule himself and the world; the throne on earth must be in tune with the throne in heaven. High-quality firecrawl-parse extract (32 pages) supports book-level synthesis; chapter files under a McGee commentary tree are not yet promoted.
+Intentional ingest of **J. Vernon McGee, Thru the Bible Notes & Outlines** on 1 & 2 Kings (immutable PDF under `sources/commentaries_english/mcgee-thru-the-bible/`; original raw path `raw/1-2_Kings.pdf`). McGee treats Kings as the second of three double books (originally one book, divided by the Septuagint), continuing Samuel’s narrative from David and Solomon’s height through division to the captivities of Israel and Judah. Theme: the kingdom standard “as David his father” (repeated nine times in 1 Kings)—a human standard man failed to attain. First Kings records the *division* of the kingdom; Second Kings the *collapse*. Key verses: 2 Kings 17:22–23 and 25:21. Moral teaching: man’s inability to rule himself and the world; the throne on earth must be in tune with the throne in heaven. High-quality firecrawl-parse extract (32 pages) supports book-level synthesis; chapter files under a McGee commentary tree are not yet promoted. Kingdom-origin pair: [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Notes and Outlines on 1 and 2 Samuel]].
 
 ## Core claims
 
@@ -40,7 +40,7 @@ Intentional ingest of **J. Vernon McGee, Thru the Bible Notes & Outlines** on 1 
 ## Agreements and tensions
 
 - Agrees with Henry Concise/Complete Kings atlas that temple dedication, Solomon’s fall, Carmel, captivity reasons, Elijah–Elisha succession, and Josiah’s reform are central pastoral hubs.
-- Pairs with [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee on 1–2 Chronicles]]: Kings = throne/political/man’s viewpoint; Chronicles = altar/religious/God’s viewpoint—same ground, different emphasis. Temple “David’s not Solomon’s,” Sheba/burnt-offering witness, and reformation-as-return-to-Word themes recur across both outlines.
+- Pairs with [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee on 1–2 Samuel]] (kingdom origin, Davidic covenant, Saul/David dualism) and [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee on 1–2 Chronicles]]: Kings = throne/political/man’s viewpoint; Chronicles = altar/religious/God’s viewpoint—same ground, different emphasis. Temple “David’s not Solomon’s,” Sheba/burnt-offering witness, and reformation-as-return-to-Word themes recur across both outlines.
 - Adds sharp moral frame (inability to rule for God; David standard repeated nine times), prophet-over-priest prominence, Elijah’s still-small-voice psychology, Elisha axe-head cross typology, and three-part captivity etiology (disobey/doubt/defy).
 - Dispensational and typology notes (tabernacle light/cherubim vs temple windows; axe-head stick = cross; Israel witness vs church go; Hezekiah should have died at appointed time) are McGee radio-outline readings—hold beside Henry and other sources, not as the vault’s sole word.
 - Chronological kings table and recommended-books list are Thru the Bible study aids, not independent critical apparatus.
@@ -68,6 +68,7 @@ Intentional ingest of **J. Vernon McGee, Thru the Bible Notes & Outlines** on 1 
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Repentance|Repentance]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Notes and Outlines on 1 and 2 Samuel]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Notes and Outlines on 1 and 2 Chronicles]]
 - [[wiki/source-notes/Matthew Henry Concise on 1 Kings|Matthew Henry Concise on 1 Kings]]
 - [[wiki/source-notes/Matthew Henry Concise on 2 Kings|Matthew Henry Concise on 2 Kings]]

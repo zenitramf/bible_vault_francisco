@@ -2,10 +2,11 @@
 type: Passage Study
 title: 2 Corinthians 8
 description: The apostle reminds them of charitable contributions for the poor saints. (1–6). Enforces this by their gifts, and by the love and grace of Christ. (7–9). By the willingness they had shown to this good work. (10–15). …
-tags: [pastoral-ministry, christ, christian-life, faith]
+tags: [pastoral-ministry, christ, christian-life, faith, discipleship]
 status: seed
-updated: 2026-07-16
-source_count: 2
+updated: 2026-08-08
+source_count: 3
+bible_reference: "2co 8"
 bible_book_key: 47
 bible_book_name: "2 Corinthians"
 ---
@@ -14,7 +15,7 @@ bible_book_name: "2 Corinthians"
 
 ## Summary
 
-Matthew Henry Concise on 2 Corinthians 8: The apostle reminds them of charitable contributions for the poor saints. (1–6). Enforces this by their gifts, and by the love and grace of Christ. (7–9). By the willingness they had shown to this good work. (10–15). ….
+Matthew Henry Concise on 2 Corinthians 8: The apostle reminds them of charitable contributions for the poor saints. (1–6). Enforces this by their gifts, and by the love and grace of Christ. (7–9). By the willingness they had shown to this good work. (10–15). …. McGee opens the Collection section (Christian giving): giving as grace, person before gift, principles not tithe-rules, and Christ who gave all.
 
 ## Core claims
 
@@ -23,12 +24,11 @@ Matthew Henry Concise on 2 Corinthians 8: The apostle reminds them of charitable
 - Good purposes are like buds and blossoms, pleasant to behold, and give hopes of good fruit; but they are lost, and signify nothing without good deeds. Good beginnings are well; but we lose the benefit, unless there is perseverance. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-8#Verses 10–15|Matthew Henry Concise on 2 Corinthians 8]]
 - The apostle commends the brethren sent to collect their charity, that it might be known who they were, and how safely they might be trusted. It is the duty of all Christians to act prudently; to hinder, as far as we can, all unjust suspicions. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-8#Verses 16–24|Matthew Henry Concise on 2 Corinthians 8]]
 - In this and the following chapter Paul is exhorting and directing the Corinthians about a particular work of charity—to relieve the necessities of the poor saints at Jerusalem and in Judea, according to the good… [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-8|Matthew Henry Complete on 2 Corinthians 8]]
+- McGee: giving is a grace; God wants the person before the gift—Macedonians first gave themselves (v. 5). Principles not rules; tithe not demanded; Christ gave all—not a tenth (v. 9). Explanation continues into 9:5—give to a specific cause (poor saints in Jerusalem), reputable messengers (Titus and company), and in reality not mere promise. [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee source-note]]
 
 ## Agreements and tensions
 
-Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
-
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+Henry and McGee agree grace roots giving, Christ-became-poor is the argument, and integrity of messengers matters. McGee’s “tithe not demanded” is pastoral outline application—hold beside other stewardship voices, not as sole vault rule.
 
 ## Biblical passages
 
@@ -36,20 +36,23 @@ Primary scope: 2 Corinthians 8 (full chapter).
 
 ## Related pages
 
-- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
-
+- [[wiki/concepts/Stewardship|Stewardship]]
+- [[wiki/concepts/Grace|Grace]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/passages/2 Corinthians 7|2 Corinthians 7]]
 - [[wiki/passages/2 Corinthians 9|2 Corinthians 9]]
 - [[wiki/source-notes/Matthew Henry Concise on 2 Corinthians|Matthew Henry Concise on 2 Corinthians]]
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
+- [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee Notes and Outlines on 2 Corinthians]]
 
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-8|Matthew Henry Concise, 2 Corinthians 8]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-8|Matthew Henry Complete on 2 Corinthians 8]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
 
 ## Open questions
 
-- Which Complete-commentary or Spurgeon materials should next thicken the hub claims of this chapter?
+- Should a Christian Giving concept page collect 2 Cor 8–9 with other giving loci?

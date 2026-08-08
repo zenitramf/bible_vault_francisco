@@ -4,4 +4,6 @@ Staging area for unclassified personal notes moved out of `raw/`. McGee Thru the
 
 # Contents
 
+
+* `sources/personal-notes/ingest/2-3_John.pdf` — 2 3 John
 * (empty)

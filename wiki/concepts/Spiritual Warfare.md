@@ -4,15 +4,15 @@ title: Spiritual Warfare
 description: The Christian life as a real war against the devil, principalities and powers, fought with spiritual weapons and the whole armor of God (Eph 6:10–18; 1 Pe 5:8–9; Jas 4:7; Mt 4:1–11).
 tags: [christ, holy-spirit, holiness, discipleship, christian-life]
 status: reviewed
-updated: 2026-08-07
-source_count: 13
+updated: 2026-08-08
+source_count: 14
 ---
 
 # Spiritual Warfare
 
 ## Summary
 
-The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7).
+The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7). McGee on 2 Corinthians adds Satan’s devices against unforgiving churches, gospel-blinding as the god of this world, attractive false ministers, and a weapons triad (Word, Spirit, prayer) with success measured spiritually not by numbers or money.
 
 ## Core claims
 
@@ -28,7 +28,8 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 - The whole armor of God must be put on: the loins girt about with truth, the breastplate of righteousness, the feet shod with the preparation of the gospel of peace, the shield of faith, the helmet of salvation, and the sword of the Spirit, which is the word of God, with all prayer and supplication in the Spirit. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-6#The Spiritual Warfare (61 AD)|Matthew Henry on Ephesians 6]]
 - The Christian must withstand and then stand: resist in the evil day, and having done all, to stand; many try compromise, but saints have no order from their Captain to patch up a truce or offer concessions. [[sources/commentaries_english/chspurgeon-sermons/volume-37/sermon_2201|Spurgeon, The Sword of the Spirit]] [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-6#The Spiritual Warfare (61 AD)|Matthew Henry on Ephesians 6]]
 - The pastor's interior battle is itself part of the warfare: the pastor walks between two worlds, carrying silent wounds, battles of satanic oppression, and personal frustrations that cannot always be delegated or shared from the pulpit. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#El peso interno y la guerra espiritual del pastor|Pastor Andrés Gómez, El peso interno y la guerra espiritual del pastor]]
-- McGee on 1 Peter 5: “Be sober” is be intelligent—the believer is in an evil and dangerous world; resist the devil (cf. James 4:7); suffering remains on God’s agenda even while the adversary roars. [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
+- McGee on 1 Peter 5: “Be sober” is be intelligent—the believer is in an evil and dangerous world; resist the devil (cf. James 4:7); suffering remains on God’s agenda even while the adversary roars. [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
+- McGee on 2 Corinthians: refusal to restore a repentant offender gives Satan an advantage—are we ignorant of his devices? (2:11). Satan as god of this world blinds men at one point—the gospel; the lost world is a prison house of sin with only one way out, Christ (4:3–4; John 14:6). Warfare is spiritual; success is not measured by numbers, money, or outward growth (10:3). Weapons are secret and mighty: the Word of God is the hush-hush weapon, the Holy Spirit the General, prayer the ammunition (10:4). Warriors are successful, not victorious—victory is Christ’s and we enter into it (10:5; cf. 2:14). Ministers of Satan are attractive and winsome and teach false doctrine for material benefit (11:13–15). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee 2 Corinthians source-note]] [[wiki/passages/2 Corinthians 2|2 Corinthians 2]] [[wiki/passages/2 Corinthians 4|2 Corinthians 4]] [[wiki/passages/2 Corinthians 10|2 Corinthians 10]] [[wiki/passages/2 Corinthians 11|2 Corinthians 11]]
 
 ## Agreements and tensions
 
@@ -39,18 +40,23 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 - Henry emphasizes the devil as the grand accuser and persecutor; Spurgeon emphasizes his subtlety and ceaseless assault. Both belong to a full doctrine of the warfare.
 - Henry treats Christ's temptation (Mt 4) as the pattern for resistance ("It is written"); Spurgeon treats the believer's own conflict as the standing pattern, with Christ's victory supplying the ground of confidence.
 - McGee’s “be intelligent” gloss on sobriety and his James 4:7 cross-link agree with Henry’s sober vigilance and resistance duty on 1 Peter 5.
+- McGee’s 2 Corinthians weapons triad (Word / Spirit / prayer) and Christ’s-victory-we-enter frame mesh with Ephesians 6 armor and 2 Cor 10:4 carnal-weapons denial in Henry/Spurgeon; “success not numbers” and attractive false ministers enlarge pastoral application without inventing new demonology.
 - The Spanish pastoral note by Pastor Andrés Gómez names the pastor's interior war and his wife's role in sustaining him — a pastoral angle the English commentaries do not develop. The note is a single seed and should not yet be treated as a comprehensive treatment of ministry warfare.
 - This page does not yet develop a full demonology, the question of territorial spirits, deliverance ministry, or binding and loosing in the strict sense. The corpus here is silent on those questions, and that silence should be acknowledged rather than papered over with speculation.
 
 ## Biblical passages
 
-Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Romans 13:12; 2 Corinthians 6:7; 2 Corinthians 10:4; Genesis 3:1–15.
+Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Romans 13:12; 2 Corinthians 2:11; 4:3–4; 6:7; 10:3–5; 11:13–15; Genesis 3:1–15.
 
 ## Related pages
 
 - [[wiki/concepts/Surrender|Surrender]]
 - [[wiki/passages/Ephesians 6|Ephesians 6]]
 - [[wiki/passages/1 Peter 5|1 Peter 5]]
+- [[wiki/passages/2 Corinthians 2|2 Corinthians 2]]
+- [[wiki/passages/2 Corinthians 4|2 Corinthians 4]]
+- [[wiki/passages/2 Corinthians 10|2 Corinthians 10]]
+- [[wiki/passages/2 Corinthians 11|2 Corinthians 11]]
 - [[wiki/concepts/Sin and the Fall|Sin and the Fall]]
 - [[wiki/concepts/Suffering|Suffering]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -63,6 +69,7 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
 - [[wiki/source-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|The Pastor and His Church — Pastor Andrés Gómez]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee Notes and Outlines on 1 Peter]]
+- [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee Notes and Outlines on 2 Corinthians]]
 - [[wiki/passages/Matthew 4|Matthew 4]]
 
 ## Sources
@@ -79,7 +86,8 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[sources/commentaries_english/chspurgeon-sermons/volume-55/sermon_3143|Spurgeon, Sermon 3143: Shoes for Pilgrims and Warriors]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-61/sermon_3466|Spurgeon, Sermon 3466: A Warning to Believers]]
 - [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|Pastor Andrés Gómez, The Pastor and His Church]]
-- [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf|J. Vernon McGee, Notes & Outlines: 1 Peter]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
 
 ## Open questions
 

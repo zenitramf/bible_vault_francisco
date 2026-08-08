@@ -4,7 +4,7 @@ title: Matthew Henry Concise on 2 Corinthians
 description: Book-level digest of Matthew Henry Concise 2 Corinthians (13 chapters) for the NT passage atlas.
 tags: [pastoral-ministry, christ, christian-life, faith]
 status: seed
-updated: 2026-07-16
+updated: 2026-08-08
 source_count: 13
 source_path: "sources/commentaries_english/mhenry-concise/2-corinthians/"
 bible_book_key: 47
@@ -15,7 +15,7 @@ bible_book_name: "2 Corinthians"
 
 ## Summary
 
-Intentional ingest of **Matthew Henry Concise** on 2 Corinthians as a chapter-by-chapter backbone for the wiki passage atlas (13 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition.
+Intentional ingest of **Matthew Henry Concise** on 2 Corinthians as a chapter-by-chapter backbone for the wiki passage atlas (13 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition. McGee Notes & Outlines on 2 Corinthians now thickens the same atlas with comfort/collection/calling outline and ministry-focused claims.
 
 ## Core claims
 
@@ -24,7 +24,7 @@ Intentional ingest of **Matthew Henry Concise** on 2 Corinthians as a chapter-by
 
 ## Agreements and tensions
 
-Single-corpus (Henry Concise). Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, personal notes); this atlas supplies the book spine and should be thickened, not treated as exclusive.
+Primary Concise atlas spine; Complete commentary and McGee Notes & Outlines thicken hub chapters. Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, McGee, personal notes); this atlas supplies the book spine and should be thickened, not treated as exclusive. McGee contrasts 1 Corinthians (corrections in the church) with 2 Corinthians (conditions of the ministry) and supplies Spirit seal/earnest, reconciliation, grace-giving, and weapons-triad emphases—see [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee Notes and Outlines on 2 Corinthians]].
 
 ## Biblical passages
 
@@ -36,6 +36,7 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
+- [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee Notes and Outlines on 2 Corinthians]]
 - [[wiki/campaigns/tracker|Campaign tracker]]
 
 ## Sources
@@ -56,4 +57,4 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 
 ## Open questions
 
-- Which hub chapters in 2 Corinthians should next receive Henry Complete and Spurgeon deepening?
+- Which hub chapters in 2 Corinthians should next receive Spurgeon deepening beside Henry Complete and McGee?

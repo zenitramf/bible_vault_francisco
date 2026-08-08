@@ -5,14 +5,14 @@ description: Qualified oversight and feeding of Christ's flock for the church's 
 tags: [pastoral-ministry, church, christ, discipleship]
 status: reviewed
 updated: 2026-08-07
-source_count: 6
+source_count: 7
 ---
 
 # Pastoral Ministry
 
 ## Summary
 
-Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn. McGee’s Notes & Outlines add a local-church order frame for the Pastorals, elder/bishop identity, and the charge to preach the Word and hold sound doctrine in days of apostasy. McGee on 1 Peter 5 adds Peter as fellow elder (not superior), the feed-not-for-money charge, the self-spending “racket” test, example leadership, and the Chief Shepherd’s crown.
+Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn. McGee’s Notes & Outlines add a local-church order frame for the Pastorals, elder/bishop identity, and the charge to preach the Word and hold sound doctrine in days of apostasy. McGee on 1 Peter 5 adds Peter as fellow elder (not superior), the feed-not-for-money charge, the self-spending “racket” test, example leadership, and the Chief Shepherd’s crown. McGee on 2–3 John shows the elder as truth-guardian: refuse partnership with false teachers; commend hospitality to true teachers; confront Diotrephes-type preeminence that rules or ruins.
 
 ## Core claims
 
@@ -25,11 +25,11 @@ Pastoral ministry in the sources is an office of feeding, overseeing, and exempl
 - The church is designed for mutual harmony: no healthy church without biblical leadership, and no successful ministry without a committed congregation; the pastorate is a gift for the church’s perfection and edification (Eph 4:11–16), not a common job. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#Resumen principal|Pastor Andrés Gómez notes]]
 - The church must honor, remember, pray for, and work united with its pastors. [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez#El deber de la iglesia|Pastor Andrés Gómez notes]]
 - McGee on 1 Peter 5: Peter calls himself a fellow elder without a superior place; the elder’s business is to feed the flock of God willingly and not for money—the test of any cult or Christian organization is how much money it spends on itself; the leader is an example; the Chief Shepherd will reward his own for service. [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
-
 - The Pastoral Epistles instruct orderly procedure in local and visible churches; 1 Timothy’s theme is government and order in the local assembly, in contrast to Ephesians’ invisible body. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]] [[wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon|McGee Pastoral Epistles source-note]]
 - Elder and bishop are the same person (*presbuteros* the person, *episkopos* the office); qualifications center on character, household rule, and aptitude to teach; the elder is God’s steward, not self-willed. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
 - In apostasy the good minister warns by teaching the words of the faith; “Preach the word” is the last-days rallying cry; the Scriptures alone fit the man of God for every good work. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
 - The ideal New Testament church is orderly, sound in doctrine, pure in life, and ready for every good work (Titus). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
+- McGee on 2–3 John: “the elder” (*presbuteros*) is seniority and/or office—John the apostle. Love must stay inside the boundary of truth; do not house or greet teachers who lack Christ’s doctrine (2 John 10–11). Commend and support true teachers (3 John 5–8). Diotrephes loved preeminence—refused John, slandered apostles, blocked missionaries, expelled hosts; evil deeds express false doctrine; opposite of example leadership (3 John 9–11). [[sources/personal-notes/ingest/2-3_John.pdf|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
 
 ## Agreements and tensions
 
@@ -37,12 +37,12 @@ Pastoral ministry in the sources is an office of feeding, overseeing, and exempl
 - Phase 5.2.2: Gómez’s church-duty section complements English commentary on feeding and qualifications; expand later from Hebrews 13 and 1 Thessalonians 5 without inventing local polity.
 - Henry, Spurgeon, and the Gómez notes agree that pastoring is flock-care under Christ rather than self-advancement.
 - Henry stresses formal qualifications and motives; Spurgeon stresses love-driven feeding; the Spanish personal note stresses sheeply dependence and concrete pastoral responsibilities. These emphases complement rather than cancel one another.
-
+- McGee’s Diotrephes five-charge catalog and “dictator” label illustrate lordship over God’s heritage (1 Pet 5) from a negative case; hold as pastoral warning, not a full polity system.
 - The relation between bishop/elder terminology and later denominational polities is not settled by this page.
 
 ## Biblical passages
 
-Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 2 Timothy 3:16–17; 2 Timothy 4:2; Titus 1:5–9; Titus 2:1–15.
+Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 2 Timothy 3:16–17; 2 Timothy 4:2; Titus 1:5–9; Titus 2:1–15; 2 John 1, 7–11; 3 John 1–11.
 
 ## Related pages
 
@@ -56,6 +56,8 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 
 - [[wiki/passages/2 Timothy 4|2 Timothy 4]]
 - [[wiki/passages/Titus 1|Titus 1]]
 - [[wiki/passages/Titus 2|Titus 2]]
+- [[wiki/passages/2 John 1|2 John 1]]
+- [[wiki/passages/3 John 1|3 John 1]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Discipleship|Discipleship]]
@@ -64,6 +66,7 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 
 - [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 - [[wiki/source-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|The Pastor and His Church — Pastor Andrés Gómez]]
 - [[wiki/source-notes/Spurgeon Theme Batch — Church and Pastoral Ministry|Spurgeon Theme Batch — Church and Pastoral Ministry]]
+- [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee Notes and Outlines on 2 and 3 John]]
 
 ## Sources
 
@@ -73,6 +76,7 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 
 - [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|Pastor Andrés Gómez, The Pastor and His Church]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1–2 Timothy, Titus, Philemon]]
+- [[sources/personal-notes/ingest/2-3_John.pdf|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
 
 ## Open questions
 

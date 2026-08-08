@@ -5,14 +5,14 @@ description: God-initiated relationship sealed by promise and obligation, with C
 tags: [covenant, christ, salvation, faith]
 status: reviewed
 updated: 2026-08-07
-source_count: 9
+source_count: 10
 ---
 
 # Covenant
 
 ## Summary
 
-In the retrieved commentary sources, covenant is a God-initiated bond in which God binds himself by promise and draws a people into mutual relation with himself. Abrahamic covenant materials emphasize God as all-sufficient, the promise of seed and land, and faith as the way of receiving righteousness. Later prophetic and New Testament sources present a new covenant mediated by Christ, written on the heart, and superior to the Sinai administration without cancelling the Abrahamic promise. McGee on 1 Chronicles 17 adds the Davidic house promise in the temple-desire context as Chronicles’ religious reading of the same covenant material as 2 Samuel 7. McGee on 1–2 Kings shows the Davidic standard (“as David his father”) measuring every king, division delayed for David’s sake, Athaliah’s attempt on David’s line, and final Judah captivity under Babylon when the nation exhausts patience—covenant fidelity and failure on the throne.
+In the retrieved commentary sources, covenant is a God-initiated bond in which God binds himself by promise and draws a people into mutual relation with himself. Abrahamic covenant materials emphasize God as all-sufficient, the promise of seed and land, and faith as the way of receiving righteousness. Later prophetic and New Testament sources present a new covenant mediated by Christ, written on the heart, and superior to the Sinai administration without cancelling the Abrahamic promise. McGee on 1–2 Samuel supplies the primary Davidic-covenant locus (2 Samuel 7): God builds David a house, promises king and kingdom in his line, and the NT trajectory (Matthew 1:1; Luke 1:32–33; Acts 2; Romans 1:3; Revelation 22:16) rests on that oath. McGee on 1 Chronicles 17 adds the Davidic house promise in the temple-desire context as Chronicles’ religious reading of the same covenant material. McGee on 1–2 Kings shows the Davidic standard (“as David his father”) measuring every king, division delayed for David’s sake, Athaliah’s attempt on David’s line, and final Judah captivity under Babylon when the nation exhausts patience—covenant fidelity and failure on the throne.
 
 ## Core claims
 
@@ -28,6 +28,7 @@ In the retrieved commentary sources, covenant is a God-initiated bond in which G
 
 - Concise Genesis 15: God assures Abram as shield and counts believing the promise for righteousness; covenant land is sealed with sacrificial sign and vision. [[sources/commentaries_english/mhenry-concise/genesis/chapter-15#Verses 2–6|Matthew Henry Concise on Genesis 15]] [[wiki/passages/Genesis 15|Genesis 15]]
 - Concise Genesis 17: covenant renewal names God all-sufficient and binds Abraham to walk before him; circumcision seals the bond. [[sources/commentaries_english/mhenry-concise/genesis/chapter-17|Matthew Henry Concise on Genesis 17]] [[wiki/passages/Genesis 17|Genesis 17]]
+- McGee on 1–2 Samuel / 2 Samuel 7: one of the great chapters—message of the Bible from this point rests on the promise to David; God refuses bloody David the temple but builds David a house; king and kingdom promised in David’s line (vv. 12, 13, 16); v. 14 reaches to Christ; confirmed by oath (Psalm 89:34–37); David understands a coming king more than a man; OT prophets, Matthew 1:1, Gabriel to Mary, Pentecost, Romans 1:3, and Revelation 22:16 all open from here (~59 NT David references); David’s last words hope in the everlasting covenant (2 Samuel 23:5). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf|McGee Notes & Outlines on 1–2 Samuel]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Samuel source-note]] [[wiki/passages/2 Samuel 7|2 Samuel 7]]
 - McGee on 1 Chronicles 17: David’s desire to build God a house delights the Lord; God makes a covenant with David (same material as 2 Samuel 7); Chronicles stresses David’s line leading to Messiah and the house of David through Judah’s history. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf|McGee Notes & Outlines on 1–2 Chronicles]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Chronicles source-note]] [[wiki/passages/1 Chronicles 17|1 Chronicles 17]]
 - McGee on Kings: kingdom standard is “as David his father” (repeated nine times in 1 Kings)—human standard still unmet; God appears to Solomon and sets David as the measure (1 Kings 9:4); division of the kingdom is judgment yet delayed for David’s sake (11:12–13); David remains the excellence standard for both kingdoms while Jeroboam becomes the northern evil standard; Athaliah nearly wipes out David’s line but Joash is preserved (2 Kings 11); throne on earth must tune to the throne in heaven or blessing fails, yet man’s plan cannot overthrow God’s purposes. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]] [[wiki/passages/1 Kings 11|1 Kings 11]] [[wiki/passages/2 Kings 17|2 Kings 17]]
 
@@ -37,8 +38,8 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 
 - Henry consistently reads the Abrahamic covenant as the covenant of grace and treats Canaan as typical of heaven, while also retaining concrete historical promises of seed and land. [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-17#The Covenant with Abraham Renewed (1898 BC)|Matthew Henry on Genesis 17]]
 - On Hebrews 8, Henry distinguishes administrations carefully: the Sinai covenant is treated as a darker, preparatory dispensation, while the new covenant is clearer, freer, and better mediated in Christ. He also warns that right theology requires distinguishing covenants rather than flattening them. [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-8#The Old and New Covenant (62 AD)|Matthew Henry on Hebrews 8]]
-- McGee’s Davidic-covenant note is outline-level (points to 2 Samuel 7 notes) and messianic via David’s line; Kings adds the operational “David standard” for royal evaluation and preservation-of-line drama without a full multi-author Davidic covenant synthesis—thicken later from Samuel sources and dedicated studies.
-- This seed page is drawn mainly from Matthew Henry. Spurgeon material in the first retrieval batch spoke of people living in accordance with covenant more than defining covenant itself; a fuller multi-author synthesis still needs dedicated Spurgeon covenant sermons or notes.
+- McGee’s Samuel outline gives the primary 2 Samuel 7 Davidic promise with full NT trajectory; Chronicles restates the same house promise from the temple angle; Kings adds the operational “David standard” for royal evaluation and preservation-of-line drama. Horsley Christological renderings of 7:14 and 7:19 are outline citations—hold beside Henry’s Solomon-and-line reading, not as exclusive exegesis.
+- This seed page is drawn mainly from Matthew Henry plus McGee monarchy outlines. Spurgeon material in the first retrieval batch spoke of people living in accordance with covenant more than defining covenant itself; a fuller multi-author synthesis still needs dedicated Spurgeon covenant sermons or notes.
 
 ## Biblical passages
 
@@ -48,7 +49,7 @@ Primary passages recur across the sources above, but this concept page does not 
 - Jeremiah 31:31–34
 - Galatians 3
 - Hebrews 8
-- 1 Chronicles 17 (Davidic covenant; cf. 2 Samuel 7)
+- 2 Samuel 7; 2 Samuel 23:5 (Davidic covenant; cf. 1 Chronicles 17)
 - 1 Kings 9:4; 11:12–13; 2 Kings 11; 17 (David standard, line preservation, covenant breach and exile)
 
 ## Related pages
@@ -69,6 +70,7 @@ Primary passages recur across the sources above, but this concept page does not 
 
 - [[wiki/passages/Genesis 17|Genesis 17]]
 
+- [[wiki/passages/2 Samuel 7|2 Samuel 7]]
 - [[wiki/passages/1 Chronicles 17|1 Chronicles 17]]
 - [[wiki/passages/1 Kings 11|1 Kings 11]]
 - [[wiki/passages/2 Kings 17|2 Kings 17]]
@@ -80,6 +82,7 @@ Primary passages recur across the sources above, but this concept page does not 
 - [[wiki/source-notes/Matthew Henry Concise on Jeremiah|Matthew Henry Concise on Jeremiah]]
 
 - [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Matthew Henry Complete Hub Deepening]]
+- [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Notes and Outlines on 1 and 2 Samuel]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Notes and Outlines on 1 and 2 Chronicles]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Notes and Outlines on 1 and 2 Kings]]
 
@@ -94,6 +97,7 @@ Primary passages recur across the sources above, but this concept page does not 
 - [[sources/commentaries_english/mhenry-complete/volume-6/hebrews/chapter-8|Matthew Henry, Hebrews 8]]
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-15|Matthew Henry Concise, Genesis 15]]
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-17|Matthew Henry Concise, Genesis 17]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Samuel]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Chronicles]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
 

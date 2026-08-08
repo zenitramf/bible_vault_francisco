@@ -5,6 +5,14 @@ Immutable PDF Notes & Outlines for this series live here under `sources/commenta
 # Contents
 
 
+
+
+
+
+* `sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf` — 2 Corinthians
+* `sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf` — 1 2 Thessalonians
+* `sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf` — 1 2 Samuel
+* `sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf` — 2 Peter
 * `sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf` — 1 2 Kings
 * `sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf` — Notes & Outlines on 1–2 Chronicles (PDF); cite [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|extract]].
 * `sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf` — Notes & Outlines on 1 Corinthians (PDF); cite [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|extract]].

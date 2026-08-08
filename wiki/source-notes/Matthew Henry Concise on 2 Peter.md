@@ -4,7 +4,7 @@ title: Matthew Henry Concise on 2 Peter
 description: Book-level digest of Matthew Henry Concise 2 Peter (3 chapters) for the NT passage atlas.
 tags: [faith, prophecy, holiness]
 status: seed
-updated: 2026-07-16
+updated: 2026-08-07
 source_count: 3
 source_path: "sources/commentaries_english/mhenry-concise/2-peter/"
 bible_book_key: 61
@@ -15,7 +15,7 @@ bible_book_name: "2 Peter"
 
 ## Summary
 
-Intentional ingest of **Matthew Henry Concise** on 2 Peter as a chapter-by-chapter backbone for the wiki passage atlas (3 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition.
+Intentional ingest of **Matthew Henry Concise** on 2 Peter as a chapter-by-chapter backbone for the wiki passage atlas (3 chapters). Claims on each chapter page are drawn from the concise commentary headings and pastoral exposition. McGee Notes & Outlines on 2 Peter now thicken the same atlas with knowledge-theme, apostasy, and three-worlds material.
 
 ## Core claims
 
@@ -24,7 +24,7 @@ Intentional ingest of **Matthew Henry Concise** on 2 Peter as a chapter-by-chapt
 
 ## Agreements and tensions
 
-Single-corpus (Henry Concise). Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, personal notes); this atlas supplies the book spine and should be thickened, not treated as exclusive.
+Henry Concise supplies the book spine; McGee Thru the Bible Notes & Outlines ([[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee Notes and Outlines on 2 Peter]]) and Henry Complete thicken hub claims. Concept pages may already hold multi-source claims (Henry Complete, Spurgeon, personal notes); this atlas should be thickened, not treated as exclusive.
 
 ## Biblical passages
 
@@ -36,6 +36,7 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/concepts/Prophecy|Prophecy]]
 - [[wiki/concepts/Holiness|Holiness]]
+- [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee Notes and Outlines on 2 Peter]]
 - [[wiki/campaigns/tracker|Campaign tracker]]
 
 ## Sources
@@ -46,4 +47,4 @@ Single-corpus (Henry Concise). Concept pages may already hold multi-source claim
 
 ## Open questions
 
-- Which hub chapters in 2 Peter should next receive Henry Complete and Spurgeon deepening?
+- Which hub chapters in 2 Peter should next receive Spurgeon deepening beside Henry and McGee?

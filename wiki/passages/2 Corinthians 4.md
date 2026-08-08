@@ -4,8 +4,9 @@ title: 2 Corinthians 4
 description: The apostles laboured with much diligence, sincerity, and faithfulness. (1–7). Their sufferings for the gospel were great, yet with rich supports. (8–12). Prospects of eternal glory keep believers from fainting under …
 tags: [pastoral-ministry, christ, christian-life, faith]
 status: seed
-updated: 2026-07-16
-source_count: 2
+updated: 2026-08-08
+source_count: 3
+bible_reference: "2co 4"
 bible_book_key: 47
 bible_book_name: "2 Corinthians"
 ---
@@ -14,7 +15,7 @@ bible_book_name: "2 Corinthians"
 
 ## Summary
 
-Matthew Henry Concise on 2 Corinthians 4: The apostles laboured with much diligence, sincerity, and faithfulness. (1–7). Their sufferings for the gospel were great, yet with rich supports. (8–12). Prospects of eternal glory keep believers from fainting under ….
+Matthew Henry Concise on 2 Corinthians 4: The apostles laboured with much diligence, sincerity, and faithfulness. (1–7). Their sufferings for the gospel were great, yet with rich supports. (8–12). Prospects of eternal glory keep believers from fainting under …. McGee frames suffering as testing genuineness of ministry, Satan blinding at the gospel, earthen vessels broken for light, and light affliction versus eternal weight of glory.
 
 ## Core claims
 
@@ -22,12 +23,11 @@ Matthew Henry Concise on 2 Corinthians 4: The apostles laboured with much dilige
 - The apostles were great sufferers, yet they met with wonderful support. Believers may be forsaken of their friends, as well as persecuted by enemies; but their God will never leave them nor forsake them. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-4#Verses 8–12|Matthew Henry Concise on 2 Corinthians 4]]
 - The grace of faith is an effectual remedy against fainting in times of trouble. They knew that Christ was raised, and that his resurrection was an earnest and assurance of theirs. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-4#Verses 13–18|Matthew Henry Concise on 2 Corinthians 4]]
 - In this chapter we have an account, I. Of the constancy of the apostle and his fellow-labourers in their work. Their constancy in declared (2Co 4:1), their sincerity is vouched (2Co 4:2), an objection is obviated (2Co… [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-4|Matthew Henry Complete on 2 Corinthians 4]]
+- McGee: suffering tests genuineness; contrasts show suffering is not defeat of ministry. Satan as god of this world blinds at one point—the gospel; prison house of sin with one way out (Christ, John 14:6). “Earthen vessels” (*ostrakinos*, clay pitchers) like Gideon’s 300—must be broken for light. Greek glosses: pressed/not distressed, perplexed/not without way, persecuted/not overpowered. Light affliction versus eternal weight of glory; unseen things eternal (vv. 17–18). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee source-note]]
 
 ## Agreements and tensions
 
-Complete commentary on this chapter deepens the Concise atlas with fuller pastoral and doctrinal exposition (Phase 4.1).
-
-This chapter synthesis is drawn from Matthew Henry Concise only. Later work may add Matthew Henry Complete and Spurgeon on the same pericopes. Concise notes are pastoral summaries, not full critical commentary.
+Henry and McGee agree ministry suffers yet is supported and glory outweighs present pain. McGee’s Satan-blinding focus and Gideon vessel image are distinctive outline colors.
 
 ## Biblical passages
 
@@ -35,20 +35,24 @@ Primary scope: 2 Corinthians 4 (full chapter).
 
 ## Related pages
 
-- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
-
+- [[wiki/concepts/Suffering|Suffering]]
+- [[wiki/concepts/Hope|Hope]]
+- [[wiki/concepts/Spiritual Warfare|Spiritual Warfare]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/passages/2 Corinthians 3|2 Corinthians 3]]
 - [[wiki/passages/2 Corinthians 5|2 Corinthians 5]]
 - [[wiki/source-notes/Matthew Henry Concise on 2 Corinthians|Matthew Henry Concise on 2 Corinthians]]
+- [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
+- [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee Notes and Outlines on 2 Corinthians]]
 
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-4|Matthew Henry Concise, 2 Corinthians 4]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/2-corinthians/chapter-4|Matthew Henry Complete on 2 Corinthians 4]]
+- [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
 
 ## Open questions
 
-- Which Complete-commentary or Spurgeon materials should next thicken the hub claims of this chapter?
+- Which Spurgeon materials should next thicken earthen-vessel and glory-weight claims?
