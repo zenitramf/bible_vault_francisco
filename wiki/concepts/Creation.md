@@ -4,15 +4,15 @@ title: Creation
 description: God's free, ordered work by word and Spirit, establishing his ownership and humanity in his image (Gen 1).
 tags: [creation, holy-spirit, christ]
 status: reviewed
-updated: 2026-07-16
-source_count: 4
+updated: 2026-08-08
+source_count: 5
 ---
 
 # Creation
 
 ## Summary
 
-Matthew Henry's Genesis 1 expositions present creation as the foundation of religion: God freely made heaven and earth by his word, ordered a formless void into a very good world, and formed humanity last as his image-bearing representative. The same sources repeatedly use creation as an analogy for the Spirit's new-creation work in the soul, while insisting that the biblical account is given to lead readers to God rather than to satisfy scientific curiosity.
+Matthew Henry's Genesis 1 expositions present creation as the foundation of religion: God freely made heaven and earth by his word, ordered a formless void into a very good world, and formed humanity last as his image-bearing representative. The same sources repeatedly use creation as an analogy for the Spirit's new-creation work in the soul, while insisting that the biblical account is given to lead readers to God rather than to satisfy scientific curiosity. Spurgeon January MAE (Gen 1:4 morning and evening) links creation light to gospel illumination and the Lord’s pleasure in the light he makes.
 
 ## Core claims
 
@@ -28,7 +28,12 @@ Matthew Henry's Genesis 1 expositions present creation as the foundation of reli
 - After six days God ceased from works of creation, not as one weary but as one well pleased; the sabbath begins the kingdom of grace in sanctifying a day. [[sources/commentaries_english/mhenry-concise/genesis/chapter-2#Verses 1–3|Matthew Henry Concise on Genesis 2]]
 - Every object we behold calls us to bless the Lord; his eternal power and Godhead are shown by the things he has made, and he provides for all creatures. [[sources/commentaries_english/mhenry-concise/psalms/psalm-104|Matthew Henry Concise on Psalm 104]]
 
+- Light is good as the product of God’s fiat; physical light is sweet, but gospel light is more precious—Spirit-given sight of God’s glory in Christ’s face exposes sin and reveals grace. [[sources/commentaries_english/chspurgeon-mae/january/january-5|Spurgeon Morning and Evening, January 5]]
+- God saw the light with complacency; if he has given spiritual light, he regards that light with interest as his handiwork and as likeness to himself who is light. [[sources/commentaries_english/chspurgeon-mae/january/january-5|Spurgeon Morning and Evening, January 5]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines. Partially fills the prior Spurgeon-gap on this Henry-heavy page.
 
 - Phase 5.2.2: Complete and Concise Henry already supply two families and multi-claim depth; Spurgeon-specific creation sermons remain a later thickening opportunity rather than a blocker for developing status.
 
@@ -73,6 +78,7 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 
 - [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-1|Matthew Henry Complete, Genesis 1]]
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-1|Matthew Henry Concise, Genesis 1]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-5|Spurgeon Morning and Evening, January 5]]
 
 ## Open questions
 

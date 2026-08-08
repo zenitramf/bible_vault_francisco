@@ -4,15 +4,15 @@ title: Covenant
 description: God-initiated relationship sealed by promise and obligation, with Christ as mediator of the new covenant (Gen 15–17; Jer 31; Heb 8).
 tags: [covenant, christ, salvation, faith]
 status: reviewed
-updated: 2026-08-07
-source_count: 10
+updated: 2026-08-08
+source_count: 13
 ---
 
 # Covenant
 
 ## Summary
 
-In the retrieved commentary sources, covenant is a God-initiated bond in which God binds himself by promise and draws a people into mutual relation with himself. Abrahamic covenant materials emphasize God as all-sufficient, the promise of seed and land, and faith as the way of receiving righteousness. Later prophetic and New Testament sources present a new covenant mediated by Christ, written on the heart, and superior to the Sinai administration without cancelling the Abrahamic promise. McGee on 1–2 Samuel supplies the primary Davidic-covenant locus (2 Samuel 7): God builds David a house, promises king and kingdom in his line, and the NT trajectory (Matthew 1:1; Luke 1:32–33; Acts 2; Romans 1:3; Revelation 22:16) rests on that oath. McGee on 1 Chronicles 17 adds the Davidic house promise in the temple-desire context as Chronicles’ religious reading of the same covenant material. McGee on 1–2 Kings shows the Davidic standard (“as David his father”) measuring every king, division delayed for David’s sake, Athaliah’s attempt on David’s line, and final Judah captivity under Babylon when the nation exhausts patience—covenant fidelity and failure on the throne.
+In the retrieved commentary sources, covenant is a God-initiated bond in which God binds himself by promise and draws a people into mutual relation with himself. Abrahamic covenant materials emphasize God as all-sufficient, the promise of seed and land, and faith as the way of receiving righteousness. Later prophetic and New Testament sources present a new covenant mediated by Christ, written on the heart, and superior to the Sinai administration without cancelling the Abrahamic promise. McGee on 1–2 Samuel supplies the primary Davidic-covenant locus (2 Samuel 7): God builds David a house, promises king and kingdom in his line, and the NT trajectory (Matthew 1:1; Luke 1:32–33; Acts 2; Romans 1:3; Revelation 22:16) rests on that oath. McGee on 1 Chronicles 17 adds the Davidic house promise in the temple-desire context as Chronicles’ religious reading of the same covenant material. McGee on 1–2 Kings shows the Davidic standard (“as David his father”) measuring every king, division delayed for David’s sake, Athaliah’s attempt on David’s line, and final Judah captivity under Babylon when the nation exhausts patience—covenant fidelity and failure on the throne. Spurgeon January MAE adds covenant-in-Christ language: Christ as covenant substance and gift, “I will be their God” as full satisfaction, and joint inheritance under the federal head.
 
 ## Core claims
 
@@ -32,7 +32,13 @@ In the retrieved commentary sources, covenant is a God-initiated bond in which G
 - McGee on 1 Chronicles 17: David’s desire to build God a house delights the Lord; God makes a covenant with David (same material as 2 Samuel 7); Chronicles stresses David’s line leading to Messiah and the house of David through Judah’s history. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|McGee Notes & Outlines on 1–2 Chronicles]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Chronicles source-note]] [[wiki/passages/1 Chronicles 17|1 Chronicles 17]]
 - McGee on Kings: kingdom standard is “as David his father” (repeated nine times in 1 Kings)—human standard still unmet; God appears to Solomon and sets David as the measure (1 Kings 9:4); division of the kingdom is judgment yet delayed for David’s sake (11:12–13); David remains the excellence standard for both kingdoms while Jeroboam becomes the northern evil standard; Athaliah nearly wipes out David’s line but Joash is preserved (2 Kings 11); throne on earth must tune to the throne in heaven or blessing fails, yet man’s plan cannot overthrow God’s purposes. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]] [[wiki/passages/1 Kings 11|1 Kings 11]] [[wiki/passages/2 Kings 17|2 Kings 17]]
 
+- Jesus Christ is the sum and substance of the covenant and himself its chief gift to the people—covenant blessings are concentrated in the person of the Mediator. [[sources/commentaries_english/chspurgeon-mae/january/january-3|Spurgeon Morning and Evening, January 3]]
+- “I will be their God” is the all-satisfying covenant promise: the believer who has God has enough, for the Immeasurable fills desire. [[sources/commentaries_english/chspurgeon-mae/january/january-9|Spurgeon Morning and Evening, January 9]]
+- As Mediator and federal head of the covenant of grace, Christ has no heritage apart from his people; they are joint heirs of the glorious consequences of his obedience unto death. [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines. Covenant page was Henry/McGee heavy; MAE supplies applicative Spurgeon covenant color without a full covenant-sermon survey.
 
 Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
 
@@ -100,6 +106,9 @@ Primary passages recur across the sources above, but this concept page does not 
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Samuel.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Samuel]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Chronicles]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-3|Spurgeon Morning and Evening, January 3]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-9|Spurgeon Morning and Evening, January 9]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
 
 ## Open questions
 

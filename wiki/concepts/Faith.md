@@ -4,15 +4,15 @@ title: Faith
 description: Trust in God's promise and in Christ; the means of justification and the principle of the life that pleases God (Gen 15:6; Rom 4; Heb 11).
 tags: [faith, salvation, christ, covenant, stewardship]
 status: reviewed
-updated: 2026-08-07
-source_count: 11
+updated: 2026-08-08
+source_count: 18
 ---
 
 # Faith
 
 ## Summary
 
-In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son.
+In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service.
 
 ## Core claims
 
@@ -29,7 +29,18 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - Concise Genesis 15: Abram believed God with respect to the promised Seed; Christians’ justifying faith always has respect to the person and work of Christ. [[sources/commentaries_english/mhenry-concise/genesis/chapter-15#Verses 2–6|Matthew Henry Concise on Genesis 15]] [[wiki/passages/Genesis 15|Genesis 15]]
 - McGee on 1 John: Victory over the world is by faith (*nike*, only NT occurrence)—Jericho believed rather than fought (5:4–5). Faith produces new birth and love of the reborn; either one has the Son by faith or not (5:1, 12). Assurance rests on believing God’s record concerning his Son (5:9–13). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
 
+- Cast all care on him, for he careth for you—faith soothes sorrow by resting on the Father’s personal care rather than wearing a constant brow of anxiety that dishonors the gospel. [[sources/commentaries_english/chspurgeon-mae/january/january-6|Spurgeon Morning and Evening, January 6]]
+- Doubting saints who fear they will never enter heaven should take courage: all the people of God shall enter; the crown is laid up for those who love his appearing. [[sources/commentaries_english/chspurgeon-mae/january/january-10|Spurgeon Morning and Evening, January 10]]
+- Receiving the word with joy is not enough: rocky-ground hearers need self-examination lest temporary feeling replace rooted faith. [[sources/commentaries_english/chspurgeon-mae/january/january-11|Spurgeon Morning and Evening, January 11]]
+- God’s promises are to be used by faith, not stored unused—trading on the promise honors the Giver. [[sources/commentaries_english/chspurgeon-mae/january/january-15|Spurgeon Morning and Evening, January 15]]
+- Providence prospers one and frustrates another in the same business; faith submits to the Lord’s disposal rather than reading success as simple favoritism. [[sources/commentaries_english/chspurgeon-mae/january/january-13|Spurgeon Morning and Evening, January 13]]
+- Even when the axe-head seems lost, the Lord can recover what is borrowed and beyond human skill—faith seeks divine help for impossibilities. [[sources/commentaries_english/chspurgeon-mae/january/january-13|Spurgeon Morning and Evening, January 13]]
+- Running is not everything: the plain way of “Believe and live” outpaces climbing hills of self-works and ravines of self-humiliations. [[sources/commentaries_english/chspurgeon-mae/january/january-31|Spurgeon Morning and Evening, January 31]]
+- Satan asked whether Job served God for nought; true faith serves for God himself, not only for gifts—though the question still probes modern hearts. [[sources/commentaries_english/chspurgeon-mae/january/january-22|Spurgeon Morning and Evening, January 22]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
 
@@ -98,6 +109,13 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala (transcript)]]
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-15|Matthew Henry Concise, Genesis 15]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-6|Spurgeon Morning and Evening, January 6]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-10|Spurgeon Morning and Evening, January 10]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-11|Spurgeon Morning and Evening, January 11]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-15|Spurgeon Morning and Evening, January 15]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-13|Spurgeon Morning and Evening, January 13]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-31|Spurgeon Morning and Evening, January 31]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-22|Spurgeon Morning and Evening, January 22]]
 
 ## Open questions
 

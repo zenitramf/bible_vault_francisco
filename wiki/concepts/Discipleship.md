@@ -4,15 +4,15 @@ title: Discipleship
 description: Following Christ through self-denial, cross-bearing, and counted cost (Mt 16:24–26; Lk 14:26–30).
 tags: [discipleship, christ, christian-life, faith]
 status: reviewed
-updated: 2026-08-07
-source_count: 10
+updated: 2026-08-08
+source_count: 15
 ---
 
 # Discipleship
 
 ## Summary
 
-In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness.
+In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness.
 
 ## Core claims
 
@@ -28,7 +28,15 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 - By the mercies of God, believers present their bodies a living sacrifice and are transformed by renewing of the mind rather than conformity to the world. [[sources/commentaries_english/mhenry-concise/romans/chapter-12#Verses 1, 2|Matthew Henry Concise on Romans 12]]
 - Disciplined study asks contextual questions: when written, to whom, and by whom. [[sources/personal-notes/Ayudas en el estudio biblico#El contexto del pasaje|Ayudas en el estudio bíblico]]
 
+- Prepare the Lord’s way in the wilderness of the heart: exalt valleys of low thoughts and despair, level mountains of pride, straighten crooked things, and smooth rough places so Christ has a road in. [[sources/commentaries_english/chspurgeon-mae/january/january-3|Spurgeon Morning and Evening, January 3]]
+- Martha’s fault was not serving, nor much serving, but being cumbered—distracted and anxious—so that service crowded out sitting at Jesus’ feet; disciples serve without fretting distraction. [[sources/commentaries_english/chspurgeon-mae/january/january-24|Spurgeon Morning and Evening, January 24]]
+- Mary kept and pondered: memory, affection, and intellect exercised on the things of Christ—discipleship stores and meditates, not only hears once. [[sources/commentaries_english/chspurgeon-mae/january/january-27|Spurgeon Morning and Evening, January 27]]
+- To live is Christ begins at new birth and continues as the pearl of great price for whom lesser things are sold—discipleship is living unto him. [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
+- Do not always hide virtue and zeal under a bushel: it is sin to seek perpetual concealment of what should glorify God before others. [[sources/commentaries_english/chspurgeon-mae/january/january-12|Spurgeon Morning and Evening, January 12]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
 
@@ -75,6 +83,11 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-7|Matthew Henry Concise, Matthew 7]]
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-10|Matthew Henry Concise, Matthew 10]]
 - [[sources/commentaries_english/mhenry-concise/matthew/chapter-28|Matthew Henry Concise, Matthew 28]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-3|Spurgeon Morning and Evening, January 3]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-24|Spurgeon Morning and Evening, January 24]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-27|Spurgeon Morning and Evening, January 27]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-12|Spurgeon Morning and Evening, January 12]]
 
 ## Open questions
 

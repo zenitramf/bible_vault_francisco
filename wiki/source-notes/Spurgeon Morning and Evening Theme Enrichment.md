@@ -1,10 +1,10 @@
 ---
 type: Source Note
 title: Spurgeon Morning and Evening Theme Enrichment
-description: Selective month-sample enrichment from Spurgeon daily devotionals for concept mesh (Phase 3.6). Not a calendar mirror.
+description: January meshed into concepts; remaining months still selective/sample or inventory-only.
 tags: [prayer, worship, christ, holiness]
-status: seed
-updated: 2026-07-16
+status: developing
+updated: 2026-08-08
 source_count: 4
 source_path: "sources/commentaries_english/chspurgeon-mae/"
 ---
@@ -13,7 +13,9 @@ source_path: "sources/commentaries_english/chspurgeon-mae/"
 
 ## Summary
 
-Selective thematic enrichment from Spurgeon daily devotionals. **Rule:** enrich concepts and hub passages; do not create one wiki page per calendar day. Phase 3.6.
+Selective thematic enrichment from Spurgeon daily devotionals. **Rule:** enrich concepts and hub passages; do not create month inventory notes or one wiki page per calendar day.
+
+**January (2026-08-08):** full-month concept mesh—durable applicative claims on Prayer, Intercession, Christ, Covenant, Grace, Faith, Salvation, Hope, Worship, Holiness, Justification, Atonement, Redemption, Church, Discipleship, Spiritual Warfare, Suffering, Creation, Word of God, and Holy Spirit. The former January month source-note was removed.
 
 ## Core claims
 
@@ -51,3 +53,4 @@ Varies by daily entry (see individual files).
 ## Open questions
 
 - Which concept pages most need additional devotional color without diluting multi-source claims?
+- Which other MAE months should follow January’s concept-mesh pattern (no month notes)?

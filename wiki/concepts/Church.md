@@ -5,14 +5,14 @@ description: The church as one body in Christ, gifted for edification, and gathe
 tags: [church, christ, holy-spirit, discipleship]
 status: reviewed
 updated: 2026-08-08
-source_count: 12
+source_count: 14
 ---
 
 # Church
 
 ## Summary
 
-The sources present the church as one body animated by one Spirit, called to unity and built up by Christ's gifts. Local gatherings of even two or three in Christ's name have his promised presence. Romans 12–16 (Henry Concise) adds living-sacrifice identity, diverse gifts in one body, mutual forbearance of weak and strong, practical care for co-workers, and vigilance against dividers who depart from sound doctrine. McGee on 1 Corinthians thickens the Corinthian case: lordship of Jesus, correction of party spirit and scandals, body metaphor and Spirit baptism into one body, ordered worship and Lord’s Table, and love as the energy of gifts. McGee on 1 John distinguishes the church body (Pauline positional blessings) from the larger family of God and warns that false professors depart from the Word and that spirits denying the incarnation must be tested. McGee’s Pastoral Epistles outline adds the local assembly’s order, sound doctrine, and elder oversight as the measuring rod of a New Testament church. McGee on 2–3 John puts truth into hospitality practice: refuse support to false teachers; receive and aid true itinerant teachers; resist Diotrephes-type preeminence that rules or ruins the local flock. McGee on Acts supplies the historical origin spine: church begins at Pentecost; early marks at 2:42; discipline (Ananias/Sapphira), deacons, persecution, Antioch missionary base, Jerusalem council on Gentile liberty, and expansion to Rome. McGee on Colossians stresses Christ the Head (body secondary to Ephesians’ body emphasis), holds the Head for growth, warns against Gnostic exclusive spirit, and closes with a roster of faithful workers in pagan culture.
+The sources present the church as one body animated by one Spirit, called to unity and built up by Christ's gifts. Local gatherings of even two or three in Christ's name have his promised presence. Romans 12–16 (Henry Concise) adds living-sacrifice identity, diverse gifts in one body, mutual forbearance of weak and strong, practical care for co-workers, and vigilance against dividers who depart from sound doctrine. McGee on 1 Corinthians thickens the Corinthian case: lordship of Jesus, correction of party spirit and scandals, body metaphor and Spirit baptism into one body, ordered worship and Lord’s Table, and love as the energy of gifts. McGee on 1 John distinguishes the church body (Pauline positional blessings) from the larger family of God and warns that false professors depart from the Word and that spirits denying the incarnation must be tested. McGee’s Pastoral Epistles outline adds the local assembly’s order, sound doctrine, and elder oversight as the measuring rod of a New Testament church. McGee on 2–3 John puts truth into hospitality practice: refuse support to false teachers; receive and aid true itinerant teachers; resist Diotrephes-type preeminence that rules or ruins the local flock. McGee on Acts supplies the historical origin spine: church begins at Pentecost; early marks at 2:42; discipline (Ananias/Sapphira), deacons, persecution, Antioch missionary base, Jerusalem council on Gentile liberty, and expansion to Rome. McGee on Colossians stresses Christ the Head (body secondary to Ephesians’ body emphasis), holds the Head for growth, warns against Gnostic exclusive spirit, and closes with a roster of faithful workers in pagan culture. Spurgeon January MAE adds bridal affection for the church and a call to corporate prayerfulness at times of divine stirring.
 
 ## Core claims
 
@@ -31,7 +31,12 @@ The sources present the church as one body animated by one Spirit, called to uni
 - McGee on Acts: Acts records the origin of the spiritual body; five minutes before Pentecost there was no church, five minutes after there was; 2:42 lists visible local-church marks; early church little organization, great power, love, and joy; internal discipline (Ananias/Sapphira) and deacon appointment; persecution scatters witness; Antioch (not Jerusalem) becomes the missionary church; Jerusalem council frees Gentiles from Mosaic obligation while calling for courtesy; gospel ends with Paul preaching to Gentiles in Rome. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
 - McGee on Colossians: prison-epistle contrast—Ephesians stresses the body of which Christ is Head; Colossians stresses the Head, body secondary (1:18). Church at Colosse arose via Ephesian ministry without Paul’s visit; Epaphras ministered and later prayed from prison. Holding the Head is necessary for growth (2:19); Gnostic exclusive aristocratic spirit is answered by presenting every man complete in Christ (1:28). Closing roster (4:7–18) of Tychicus, Onesimus, Aristarchus, Mark, Epaphras, Luke shows faithful workers in pagan Rome (parallel Romans 16 / Hebrews 11). [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|McGee Notes & Outlines on Colossians]] [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Colossians source-note]] [[wiki/passages/Colossians 1|Colossians 1]] [[wiki/passages/Colossians 4|Colossians 4]]
 
+- Christ addresses his church with bridal titles—sister by incarnation nearness, spouse by heavenly betrothal—affectionate union language for the people he loves. [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
+- Members of Christ’s church should be prayerful for the Spirit’s unction and the kingdom’s coming, and doubly earnest when God specially favors Zion. [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
 
@@ -98,6 +103,8 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 - [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Colossians]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
 
 ## Open questions
 

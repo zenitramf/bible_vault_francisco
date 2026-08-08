@@ -5,14 +5,14 @@ description: Christ as the eternal Word made flesh, God with us, and the sufferi
 tags: [christ, redemption, salvation, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 12
+source_count: 20
 ---
 
 # Christ
 
 ## Summary
 
-The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors.
+The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors. Spurgeon January MAE thickens experiential Christology: covenant fullness, prior knowledge of his own, joy of fellowship, purchased belonging, present help, brotherly choice, and received fullness.
 
 ## Core claims
 
@@ -29,7 +29,18 @@ The sources confess Jesus Christ as the eternal Word who was with God and was Go
 - McGee on 2–3 John: Gnosticism denied Jesus Christ come in the flesh—Cerinthian (Spirit on Jesus at baptism, left at crucifixion) and Docetic (phantom manhood); the Truth in 2 John 7 is Jesus Christ, the truth in v. 9 is doctrine; life is an expression of the doctrine of Christ; rejecting that doctrine marks non-believers; Demetrius adorned the doctrine of Christ (3 John 12). [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
 - McGee on Colossians: Colossians stresses the Head (Christ) more than the body (contrast Ephesians); *pleroma*—Christ is the fullness of God (2:9), not *kenosis* emphasis of Philippians. Nine marks (1:15–19): image of the invisible God; firstborn of all creation (priority/headship, not first creature); Creator of all visible and invisible; all things created *for* him; before all things; all things consist in him; head of the body and firstborn from the dead; preeminence; fullness dwelling—Jesus 100% God. Peace through blood of the cross; “body of his flesh” answers Docetism; Christ answers philosophy (2:1–15) and ritual shadows (2:16–23); believers complete in him. [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|McGee Notes & Outlines on Colossians]] [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Colossians source-note]] [[wiki/passages/Colossians 1|Colossians 1]] [[wiki/passages/Colossians 2|Colossians 2]]
 
+- Jesus Christ is himself the sum and substance of the covenant and the believer’s property by free favor—fullness of Godhead and perfect manhood entailed to his people in him. [[sources/commentaries_english/chspurgeon-mae/january/january-3|Spurgeon Morning and Evening, January 3]]
+- The heavenly Joseph knew his brethren before they knew him: Christ’s knowledge of his own precedes and outruns their knowledge of him, even while they were enemies. [[sources/commentaries_english/chspurgeon-mae/january/january-4|Spurgeon Morning and Evening, January 4]]
+- Nothing gives the believer so much joy as fellowship with Christ—his love is better than wine, surpassing common mercies when taken alone. [[sources/commentaries_english/chspurgeon-mae/january/january-8|Spurgeon Morning and Evening, January 8]]
+- Believers are Christ’s by the Father’s donation, by bloody purchase, and by dedication—belonging that grounds identity and service. [[sources/commentaries_english/chspurgeon-mae/january/january-12|Spurgeon Morning and Evening, January 12]]
+- The Lord says “I will help thee,” pointing to what he has already done; help is small to him who has already redeemed. [[sources/commentaries_english/chspurgeon-mae/january/january-16|Spurgeon Morning and Evening, January 16]]
+- Christ was chosen out of the people to be brother in kindred blood—able to be near as kinsman and yet the chosen Servant. [[sources/commentaries_english/chspurgeon-mae/january/january-23|Spurgeon Morning and Evening, January 23]]
+- Of his fullness have all we received: essential Deity, perfect manhood, atoning blood, justifying righteousness, conquering power, and endless supply for every need. [[sources/commentaries_english/chspurgeon-mae/january/january-27|Spurgeon Morning and Evening, January 27]]
+- Heaven’s vision begins with the Lamb; the chief object of celestial admiration remains the crucified and exalted Christ. [[sources/commentaries_english/chspurgeon-mae/january/january-17|Spurgeon Morning and Evening, January 17]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
 
@@ -103,6 +114,14 @@ Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Colossians]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-3|Spurgeon Morning and Evening, January 3]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-4|Spurgeon Morning and Evening, January 4]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-8|Spurgeon Morning and Evening, January 8]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-12|Spurgeon Morning and Evening, January 12]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-16|Spurgeon Morning and Evening, January 16]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-23|Spurgeon Morning and Evening, January 23]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-27|Spurgeon Morning and Evening, January 27]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-17|Spurgeon Morning and Evening, January 17]]
 
 ## Open questions
 

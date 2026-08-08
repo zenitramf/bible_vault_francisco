@@ -5,14 +5,14 @@ description: The Christian life as a real war against the devil, principalities 
 tags: [christ, holy-spirit, holiness, discipleship, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 14
+source_count: 16
 ---
 
 # Spiritual Warfare
 
 ## Summary
 
-The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7). McGee on 2 Corinthians adds Satan’s devices against unforgiving churches, gospel-blinding as the god of this world, attractive false ministers, and a weapons triad (Word, Spirit, prayer) with success measured spiritually not by numbers or money.
+The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7). McGee on 2 Corinthians adds Satan’s devices against unforgiving churches, gospel-blinding as the god of this world, attractive false ministers, and a weapons triad (Word, Spirit, prayer) with success measured spiritually not by numbers or money. Spurgeon January MAE adds fowler-snare deliverance (prevention and rescue) and the constant nearness of temptation.
 
 ## Core claims
 
@@ -31,7 +31,12 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 - McGee on 1 Peter 5: “Be sober” is be intelligent—the believer is in an evil and dangerous world; resist the devil (cf. James 4:7); suffering remains on God’s agenda even while the adversary roars. [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 - McGee on 2 Corinthians: refusal to restore a repentant offender gives Satan an advantage—are we ignorant of his devices? (2:11). Satan as god of this world blinds men at one point—the gospel; the lost world is a prison house of sin with only one way out, Christ (4:3–4; John 14:6). Warfare is spiritual; success is not measured by numbers, money, or outward growth (10:3). Weapons are secret and mighty: the Word of God is the hush-hush weapon, the Holy Spirit the General, prayer the ammunition (10:4). Warriors are successful, not victorious—victory is Christ’s and we enter into it (10:5; cf. 2:14). Ministers of Satan are attractive and winsome and teach false doctrine for material benefit (11:13–15). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee 2 Corinthians source-note]] [[wiki/passages/2 Corinthians 2|2 Corinthians 2]] [[wiki/passages/2 Corinthians 4|2 Corinthians 4]] [[wiki/passages/2 Corinthians 10|2 Corinthians 10]] [[wiki/passages/2 Corinthians 11|2 Corinthians 11]]
 
+- God delivers from the snare of the fowler in two senses—from entering the snare, and out of it if caught; trouble itself is often the means of deliverance from worse destruction. [[sources/commentaries_english/chspurgeon-mae/january/january-24|Spurgeon Morning and Evening, January 24]]
+- Temptation is never out of reach; David’s idle evening glance warns that home and leisure are not safe zones without watchfulness. [[sources/commentaries_english/chspurgeon-mae/january/january-17|Spurgeon Morning and Evening, January 17]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Phase 5.2.2: multi-source multi-claim bar already met (Henry, Spurgeon sermons, FCB, personal pastoral note); status raised to developing without inventing demonology beyond the corpus.
 
@@ -88,6 +93,8 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[sources/personal-notes/THE PASTOR AND HIS CHURCH - Pastor Andrés Gómez|Pastor Andrés Gómez, The Pastor and His Church]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-24|Spurgeon Morning and Evening, January 24]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-17|Spurgeon Morning and Evening, January 17]]
 
 ## Open questions
 

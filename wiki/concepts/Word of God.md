@@ -5,14 +5,14 @@ description: Divine revelation as wisdom and rule for religion—published, plai
 tags: [wisdom, discipleship, christ, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 11
+source_count: 13
 ---
 
 # Word of God
 
 ## Summary
 
-Sources treat the word of God as divine revelation that guides religion: Henry on Proverbs 8 presents the word as two-fold wisdom—word without wisdom is little, wisdom without a word is little; precepts of wisdom are proclaimed openly, plain to those who understand, and preferable to silver and gold. The vault's Spanish personal study note adds a practical hermeneutical habit: ask when, to whom, and by whom a passage was written before leaping to application. McGee on 1 Peter presents the Word as living instrument of new birth, eternal over against man’s frailty like grass, pure spiritual milk for newborn appetite, and the Scriptures that produce hope and holiness under suffering. McGee on 2 Timothy 3 adds that in days of apostasy the Scriptures alone are the believer’s recourse—every passage God-breathed and profitable so the man of God is complete for every good work. McGee on 1–2 Chronicles adds that Judah’s five major reformations were returns to obedience to the Word of God, producing national repentance and reformation. McGee on 2 Peter anchors the church on Scripture against coming apostasy: a more sure prophetic word than Transfiguration eyewitness, Spirit-carried writers, and the closing charge to grow in the knowledge of Christ through the Bible. McGee on 2–3 John treats “the truth” as the body of apostolic doctrine and “walk in truth” as conduct conforming to that teaching—truth worth standing for and working for. McGee on Amos adds that Judah is judged for despising the Law they had, and that a famine of hearing the words of the LORD is among the heaviest judgments (Amos 2:4–5; 8:11–12).
+Sources treat the word of God as divine revelation that guides religion: Henry on Proverbs 8 presents the word as two-fold wisdom—word without wisdom is little, wisdom without a word is little; precepts of wisdom are proclaimed openly, plain to those who understand, and preferable to silver and gold. The vault's Spanish personal study note adds a practical hermeneutical habit: ask when, to whom, and by whom a passage was written before leaping to application. McGee on 1 Peter presents the Word as living instrument of new birth, eternal over against man’s frailty like grass, pure spiritual milk for newborn appetite, and the Scriptures that produce hope and holiness under suffering. McGee on 2 Timothy 3 adds that in days of apostasy the Scriptures alone are the believer’s recourse—every passage God-breathed and profitable so the man of God is complete for every good work. McGee on 1–2 Chronicles adds that Judah’s five major reformations were returns to obedience to the Word of God, producing national repentance and reformation. McGee on 2 Peter anchors the church on Scripture against coming apostasy: a more sure prophetic word than Transfiguration eyewitness, Spirit-carried writers, and the closing charge to grow in the knowledge of Christ through the Bible. McGee on 2–3 John treats “the truth” as the body of apostolic doctrine and “walk in truth” as conduct conforming to that teaching—truth worth standing for and working for. McGee on Amos adds that Judah is judged for despising the Law they had, and that a famine of hearing the words of the LORD is among the heaviest judgments (Amos 2:4–5; 8:11–12). Spurgeon January MAE stresses Christ opening Scripture and opening understanding—Word and illumination together.
 
 ## Core claims
 
@@ -28,7 +28,12 @@ Sources treat the word of God as divine revelation that guides religion: Henry o
 - McGee on 2–3 John: “the truth” is the body of apostolic doctrine; truth abides and is defended “for the truth’s sake”; walking in truth is obedience to the Father’s commandments; first “the truth” in 3 John 3 is doctrine/teaching, second “truth” (no article) is conduct—conduct must conform to doctrine. Life expresses the doctrine of Christ; refuse teachers who do not bring His teaching; Demetrius has good report of the truth itself. [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
 - McGee on Amos: Judah had the Law of God and despised it—judged according to the Law, unlike nations without it (Amos 2:4–5). Vision of summer fruit leads to dark days and God’s withdrawing His Word (8:10–11); they would become “the wandering Jew” (8:12). Henry Concise likewise calls famine of the word the heaviest judgment. [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Amos and Obadiah]] [[wiki/source-notes/McGee Notes and Outlines on Amos and Obadiah|McGee Amos–Obadiah source-note]] [[sources/commentaries_english/mhenry-concise/amos/chapter-8|Matthew Henry Concise on Amos 8]] [[wiki/passages/Amos 2|Amos 2]] [[wiki/passages/Amos 8|Amos 8]]
 
+- On the Emmaus road the risen Christ opened the Scriptures concerning himself—the best tutor makes the Word yield Christ; disciples need him to interpret the written word. [[sources/commentaries_english/chspurgeon-mae/january/january-18|Spurgeon Morning and Evening, January 18]]
+- He who opens Scripture also opens the understanding; illumination is Christ’s work so that the mind grasps what is written. [[sources/commentaries_english/chspurgeon-mae/january/january-19|Spurgeon Morning and Evening, January 19]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Henry's Proverbs 8 synthesis is Christological (personal Wisdom / Son in creation) *and* revelatory (word published to the sons of men); keep both without forcing every "wisdom" text into bibliology alone—see also [[wiki/concepts/Wisdom|Wisdom]].
 - Ayudas is a seed checklist only; it does not yet develop genre, canonical context, or Christ-centered reading. It complements commentary rather than replacing it.
@@ -95,6 +100,8 @@ Sources treat the word of God as divine revelation that guides religion: Henry o
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Peter]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-18|Spurgeon Morning and Evening, January 18]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-19|Spurgeon Morning and Evening, January 19]]
 
 ## Open questions
 

@@ -5,14 +5,14 @@ description: Affliction under God's hand—permitted trial, present groan, and h
 tags: [faith, christian-life, holiness, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 8
+source_count: 10
 ---
 
 # Suffering
 
 ## Summary
 
-Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble.
+Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble. Spurgeon January MAE applies suffering to care-casting under personal divine care, evening visitations of the Lord’s hand, and inscrutable providence in success and failure.
 
 ## Core claims
 
@@ -26,7 +26,13 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - McGee on 1–2 Thessalonians: believers will not escape trouble—they are appointed to suffer (1 Thess 3:3; cf. John 16:33; 2 Tim 3:12; 1 Pet 4:12–19); afflictions promote sanctification and test genuineness of profession; affliction increases capacity for joy; suffering is the glue holding believers together (2:14); Thessalonian persecution grew faith, love, and patience as an example to other churches (2 Thess 1:3–4; tribulation works patience, Rom 5:3); present trouble is not the day of the Lord already arrived—God will recompense tribulation to troublers and rest to the troubled when the Lord Jesus is revealed (2 Thess 1:6–7). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee Thessalonians source-note]] [[wiki/passages/1 Thessalonians 2|1 Thessalonians 2]] [[wiki/passages/1 Thessalonians 3|1 Thessalonians 3]] [[wiki/passages/2 Thessalonians 1|2 Thessalonians 1]]
 - McGee on 2 Corinthians: comfort is sustaining help (not mere sentiment), the Comforter’s word—God comforted Paul in an Ephesian crisis (probably sickness unto death) so he could comfort others (1:3–14). Suffering tests genuineness of ministry and is not its defeat (ch. 4); earthen vessels (*ostrakinos*) must be broken for light to shine (Gideon pattern); pressed yet having room, persecuted yet not overpowered; present suffering is light in weight versus eternal weight of glory; unseen things are eternal (4:17–18). Body is a tent; death is going home to be with the Lord (5:1–8); thorn in the flesh keeps the third-heaven apostle humble so that strength is perfected in weakness (12:7–10). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee 2 Corinthians source-note]] [[wiki/passages/2 Corinthians 1|2 Corinthians 1]] [[wiki/passages/2 Corinthians 4|2 Corinthians 4]] [[wiki/passages/2 Corinthians 5|2 Corinthians 5]] [[wiki/passages/2 Corinthians 12|2 Corinthians 12]]
 
+- Casting care on the Lord rests on “he careth for you”: what crushes the child is dust on the Father’s scale—patient sufferers are not passed over in providence. [[sources/commentaries_english/chspurgeon-mae/january/january-6|Spurgeon Morning and Evening, January 6]]
+- The hand of the Lord may be felt in evening as chastening rod or as strengthening uplift; either way, submit and seek to be profited. [[sources/commentaries_english/chspurgeon-mae/january/january-6|Spurgeon Morning and Evening, January 6]]
+- Providence prospers one venture and sinks another without simple human explanation; the sufferer of frustration is called to trust the disposer of lots. [[sources/commentaries_english/chspurgeon-mae/january/january-13|Spurgeon Morning and Evening, January 13]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Job and Romans agree that suffering is not outside God's sovereignty and is not the last word; 1 Peter and 1–2 Thessalonians add the pattern of joy, holiness, patience, and glory under trial; 2 Corinthians adds comfort-for-others and light-versus-glory ministry frames.
 - Do not equate every affliction with personal punishment; Job's narrative resists the friends' simplistic retribution (full Job atlas available for later); McGee likewise insists believers must not suffer as evildoers and must not misread ordinary persecution as the eschatological day of the Lord.
@@ -82,6 +88,8 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-6|Spurgeon Morning and Evening, January 6]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-13|Spurgeon Morning and Evening, January 13]]
 
 ## Open questions
 

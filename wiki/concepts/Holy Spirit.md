@@ -5,14 +5,14 @@ description: The promised Comforter who indwells, convicts, guides into truth, a
 tags: [holy-spirit, christ, church, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 11
+source_count: 14
 ---
 
 # Holy Spirit
 
 ## Summary
 
-The sources present the Holy Spirit as another Comforter given by the Father at the Son's request, abiding with the church forever. He is the Spirit of truth who convicts the world, guides disciples into truth, and was poured out at Pentecost in fulfillment of promise. Romans 8 deepens the Spirit’s work as the principle of the new walk, the Spirit of adoption, helper in prayer weakness, and seal of inseparable love. McGee on 1 Corinthians adds Spirit-revealed wisdom versus natural blindness (ch. 2), the body as Spirit’s temple, Trinitarian distribution of gifts, and Spirit baptism placing believers into Christ’s body. McGee on 1 John adds the anointing that teaches believers, indwelling as greater than the world, and the Spirit as witness with water and blood. McGee on 2 Corinthians ties the Comforter vocabulary of comfort to the Spirit who confirms, anoints, seals, and is the earnest; only the Spirit develops Christian character (*metamorphosis*, 3:18); and the Spirit is the General of spiritual warfare with the Word and prayer (ch. 10). McGee on Acts frames the whole book as the ascended Lord at work by the Holy Spirit through the apostles (1:1–2, 8): Pentecost as the Spirit’s “Bethlehem,” Spirit baptism into the body, filling distinct from baptism, known-language tongues, and Spirit-directed mission from Jerusalem to Rome. A local Spanish sermon note adds the pastoral image of the Spirit as oil (anointing).
+The sources present the Holy Spirit as another Comforter given by the Father at the Son's request, abiding with the church forever. He is the Spirit of truth who convicts the world, guides disciples into truth, and was poured out at Pentecost in fulfillment of promise. Romans 8 deepens the Spirit’s work as the principle of the new walk, the Spirit of adoption, helper in prayer weakness, and seal of inseparable love. McGee on 1 Corinthians adds Spirit-revealed wisdom versus natural blindness (ch. 2), the body as Spirit’s temple, Trinitarian distribution of gifts, and Spirit baptism placing believers into Christ’s body. McGee on 1 John adds the anointing that teaches believers, indwelling as greater than the world, and the Spirit as witness with water and blood. McGee on 2 Corinthians ties the Comforter vocabulary of comfort to the Spirit who confirms, anoints, seals, and is the earnest; only the Spirit develops Christian character (*metamorphosis*, 3:18); and the Spirit is the General of spiritual warfare with the Word and prayer (ch. 10). McGee on Acts frames the whole book as the ascended Lord at work by the Holy Spirit through the apostles (1:1–2, 8): Pentecost as the Spirit’s “Bethlehem,” Spirit baptism into the body, filling distinct from baptism, known-language tongues, and Spirit-directed mission from Jerusalem to Rome. A local Spanish sermon note adds the pastoral image of the Spirit as oil (anointing). Spurgeon January MAE ties the Spirit to illuminating light, convicting new birth into living for Christ, and sought unction for the church.
 
 ## Core claims
 
@@ -29,7 +29,13 @@ The sources present the Holy Spirit as another Comforter given by the Father at 
 - McGee on 2 Corinthians: Comfort is the same word used for the Holy Spirit the Comforter—he comes beside the child of God to dispel darkness and relieve loneliness (1:3–7). The Spirit confirms (“establisheth”), anoints, seals, and is the earnest/pledge of more to come (1:21–22; cf. Eph 4:30); Father true, Son absolute, Spirit dwelling within. Only the Spirit develops Christian character; “changed” is *metamorphosis* as at the Transfiguration (3:18). Those led by the Spirit are not under the Law (3:17). In ministry warfare the Holy Spirit is the General, the Word the weapon, prayer the ammunition (10:4). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee 2 Corinthians source-note]]
 - McGee on Acts: the book is the Lord Jesus at work by the Holy Spirit through the apostles (1:1–2); key verse 1:8—power after the Spirit comes for personal witness Jerusalem–Judea–Samaria–uttermost; Pentecost is “Bethlehem of the Holy Spirit” and origin of the church; Spirit baptizes into Christ’s body (1 Cor 12:12–13); filling (not baptism) produced the Pentecost experience after regenerating, indwelling, sealing, and baptizing; tongues were polyglot languages of the Empire; Joel “this is that” is likeness, not full fulfillment; Spirit directs Philip, Peter, and Paul (forbids Asia/Bithynia; Macedonian call); Gentile household receives the Spirit as a “Gentile Pentecost.” [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
 
+- When the Spirit gives spiritual light and opens eyes to God’s glory in Christ’s face, sin is seen truly and grace is known—new-creation light analogous to the first fiat. [[sources/commentaries_english/chspurgeon-mae/january/january-5|Spurgeon Morning and Evening, January 5]]
+- Life unto Christ begins when the Spirit convinces of sin and grace shows the propitiating Savior—the Spirit’s convicting work starts Christian living. [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
+- The church seeks the unction of the Holy One on hearts for kingdom advance—Spirit anointing is prayed for, not presumed. [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Henry and Spurgeon agree on the Spirit as personal Comforter/Paraclete given after Christ's departure.
 - Acts 2 in Henry emphasizes historical outpouring and apostolic empowerment; John 14–16 emphasize ongoing presence, conviction, and guidance. [[sources/commentaries_english/mhenry-complete/volume-6/acts/chapter-2#The Day of Pentecost|Matthew Henry on Acts 2]]
@@ -90,6 +96,9 @@ Key loci: John 14:15–17; John 16:7–14; Acts 1:5–8; Acts 2:1–4; Acts 8–
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-5|Spurgeon Morning and Evening, January 5]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
 
 ## Open questions
 

@@ -5,14 +5,14 @@ description: Confident expectation of glory, resurrection, and God's promise und
 tags: [faith, salvation, prophecy, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 10
+source_count: 14
 ---
 
 # Hope
 
 ## Summary
 
-Sources present Christian hope as future-facing confidence grounded in justification, the Spirit, and the risen Christ: peace and rejoicing in hope of glory; present sufferings not worth comparing with glory to be revealed; creation itself groaning toward redemption's hope; and resurrection of Christ guaranteeing believers' own rising. McGee on 1 Corinthians 15 adds gospel-integral resurrection, bodily rising, victory over death, and *Maranatha* expectancy. McGee on 1 Peter calls Peter the apostle of hope and ties living hope to resurrection, reserved inheritance, and joy under trial. McGee on 1–2 Thessalonians organizes the earliest Pauline letters around the coming of Christ as inspiring, working, purifying, comforting, and rousing hope—faith/love/hope producing work/labor/patience, comfort for the dead in Christ, deliverance from wrath, and industrious waiting that refuses idle fanaticism. McGee on 2 Corinthians adds light affliction versus eternal weight of glory, tent-body departure to be with the Lord, and the *bema* where believers’ works are judged for reward. The Spurgeon prophecy/hope theme batch frames free-grace wisdom against false self-sufficiency; Henry's Romans and 1 Corinthians atlases supply the doctrinal spine. McGee on Amos–Obadiah adds OT restoration hope: David’s booth raised (Amos 9:11–15; Acts 15:16–17) and Obadiah’s climax “And the kingdom shall be the Lord’s,” held beside the warning that the day of the LORD is darkness for the unrepentant (Amos 5:18–20).
+Sources present Christian hope as future-facing confidence grounded in justification, the Spirit, and the risen Christ: peace and rejoicing in hope of glory; present sufferings not worth comparing with glory to be revealed; creation itself groaning toward redemption's hope; and resurrection of Christ guaranteeing believers' own rising. McGee on 1 Corinthians 15 adds gospel-integral resurrection, bodily rising, victory over death, and *Maranatha* expectancy. McGee on 1 Peter calls Peter the apostle of hope and ties living hope to resurrection, reserved inheritance, and joy under trial. McGee on 1–2 Thessalonians organizes the earliest Pauline letters around the coming of Christ as inspiring, working, purifying, comforting, and rousing hope—faith/love/hope producing work/labor/patience, comfort for the dead in Christ, deliverance from wrath, and industrious waiting that refuses idle fanaticism. McGee on 2 Corinthians adds light affliction versus eternal weight of glory, tent-body departure to be with the Lord, and the *bema* where believers’ works are judged for reward. The Spurgeon prophecy/hope theme batch frames free-grace wisdom against false self-sufficiency; Henry's Romans and 1 Corinthians atlases supply the doctrinal spine. McGee on Amos–Obadiah adds OT restoration hope: David’s booth raised (Amos 9:11–15; Acts 15:16–17) and Obadiah’s climax “And the kingdom shall be the Lord’s,” held beside the warning that the day of the LORD is darkness for the unrepentant (Amos 5:18–20). Spurgeon January MAE colors hope with Canaan rest, seeing God, heavenly rest after toil, forward gaze, and the soul’s return to God as only ark of rest.
 
 ## Core claims
 
@@ -27,7 +27,15 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - McGee on 2 Corinthians: suffering in this life is light in weight compared to the eternal weight of glory; unseen things are real because eternal, seen things temporary (4:17–18). Physical death is departure from the tent-body home to be with the Lord (5:1–8). Believers appear before the judgment seat (*bema*) of Christ to see if they receive a reward—works judged (5:9–13). The Spirit is the earnest/pledge that there is more to come (1:22). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee 2 Corinthians source-note]] [[wiki/passages/2 Corinthians 4|2 Corinthians 4]] [[wiki/passages/2 Corinthians 5|2 Corinthians 5]]
 - McGee on Amos–Obadiah: after visions of judgment and worldwide dispersion without utter destruction (Amos 9:8–10), God promises worldwide regathering and restoration of the kingdom (9:11–15), quoted by James at the Jerusalem council (Acts 15:16–17) and read by McGee as yet-future millennial kingdom. Obadiah closes Israel’s restoration with “And the kingdom shall be the Lord’s” (vv. 17–21). Counterweight: day of the LORD warned as darkness, not light, for those who desire it without repentance (Amos 5:18–20). Henry Concise applies Amos 9:11–15 toward gospel gathering of those called by Christ’s name—hold both readings. [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Amos and Obadiah]] [[wiki/source-notes/McGee Notes and Outlines on Amos and Obadiah|McGee Amos–Obadiah source-note]] [[sources/commentaries_english/mhenry-concise/amos/chapter-9|Matthew Henry Concise on Amos 9]] [[wiki/passages/Amos 5|Amos 5]] [[wiki/passages/Amos 9|Amos 9]] [[wiki/passages/Obadiah 1|Obadiah 1]]
 
+- Israel’s wilderness ended in Canaan rest; believers hope to eat the fruit of the land and enter the rest that remains for the people of God—even while some still serve on earth with glory begun below. [[sources/commentaries_english/chspurgeon-mae/january/january-1|Spurgeon Morning and Evening, January 1]]
+- Job’s devout anticipation centers not only on saints or reunion but on “I shall see God”—hope’s summit is the vision of God himself. [[sources/commentaries_english/chspurgeon-mae/january/january-10|Spurgeon Morning and Evening, January 10]]
+- Heaven differs from present toil: no fatigue in the land of the immortal; hope looks to rest after pilgrimage weariness. [[sources/commentaries_english/chspurgeon-mae/january/january-18|Spurgeon Morning and Evening, January 18]]
+- Christian pilgrimage looks forward—crown and goal ahead; the future of sin destroyed, perfected soul, and inheritance with the saints shapes present endurance. [[sources/commentaries_english/chspurgeon-mae/january/january-29|Spurgeon Morning and Evening, January 29]]
+- The dove found no rest outside the ark; the soul learns that earthly things cannot fulfill, and returns to God alone for rest—an evening mercy after the day’s toil. [[sources/commentaries_english/chspurgeon-mae/january/january-29|Spurgeon Morning and Evening, January 29]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Hope is not detached from suffering: Romans 8 ties hope to groaning and Spirit-helped waiting; 1 Peter and 1–2 Thessalonians tie hope to trial, holiness, and glory; 2 Corinthians ties hope to light affliction, home-going, and reward at the *bema*.
 - Do not collapse hope into [[wiki/concepts/Prophecy|Prophecy]] (speech of God through messengers) or [[wiki/concepts/Faith|Faith]] (trust receiving the promise); hope is the forward posture those produce.
@@ -94,6 +102,10 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-1|Spurgeon Morning and Evening, January 1]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-10|Spurgeon Morning and Evening, January 10]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-18|Spurgeon Morning and Evening, January 18]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-29|Spurgeon Morning and Evening, January 29]]
 
 ## Open questions
 

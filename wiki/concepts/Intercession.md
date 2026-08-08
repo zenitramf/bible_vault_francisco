@@ -4,15 +4,15 @@ title: Intercession
 description: Spirit-helped prayer within believers and Christ's mediatorial prayer for his people (Rom 8:26–27; Jn 17).
 tags: [prayer, holy-spirit, christ]
 status: reviewed
-updated: 2026-07-16
-source_count: 5
+updated: 2026-08-08
+source_count: 6
 ---
 
 # Intercession
 
 ## Summary
 
-Intercession in the sources is not merely "praying hard," but divine help in prayer: the Spirit helps infirmities and intercedes with groanings that cannot be uttered, according to the will of God; Christ's John 17 prayer is peculiarly his mediatorial intercession, a specimen that also instructs believers. This page isolates that mediatorial and pneumatic aid; general patterns of petition remain on [[wiki/concepts/Prayer|Prayer]].
+Intercession in the sources is not merely "praying hard," but divine help in prayer: the Spirit helps infirmities and intercedes with groanings that cannot be uttered, according to the will of God; Christ's John 17 prayer is peculiarly his mediatorial intercession, a specimen that also instructs believers. This page isolates that mediatorial and pneumatic aid; general patterns of petition remain on [[wiki/concepts/Prayer|Prayer]]. Spurgeon MAE (Jan 11 evening) presses the Redeemer’s never-ceasing intercession as constant encouragement beside Spirit-helped prayer.
 
 ## Core claims
 
@@ -24,7 +24,11 @@ Intercession in the sources is not merely "praying hard," but divine help in pra
 
 - Christ as High Priest after the order of Melchizedek is able to save to the uttermost those who come to God by him, because he ever lives to make intercession for them (Hebrews’ superior priesthood argument). [[sources/commentaries_english/mhenry-concise/hebrews/chapter-7|Matthew Henry Concise on Hebrews 7]]
 
+- Christ’s intercession never ceases: when we pray he pleads, and when we are silent he still prays; his mediatorial prayer upholds saints who would otherwise fail (as he prayed that Peter’s faith not fail). [[sources/commentaries_english/chspurgeon-mae/january/january-11|Spurgeon Morning and Evening, January 11]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Henry and Spurgeon agree that Christian prayer depends on divine help rather than human eloquence.
 - Henry distinguishes the Lord's Prayer taught to disciples from Christ's unique mediatorial prayer; both relate to intercession but are not identical.
@@ -59,6 +63,7 @@ Intercession in the sources is not merely "praying hard," but divine help in pra
 - [[sources/commentaries_english/chspurgeon-sermons/volume-26/sermon_1532|Spurgeon, Sermon 1532: The Holy Spirit's Intercession]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-8|Matthew Henry Concise, Romans 8]]
 - [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-17|Matthew Henry Complete, John 17]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-11|Spurgeon Morning and Evening, January 11]]
 
 ## Open questions
 

@@ -5,14 +5,14 @@ description: God's free grace in Christ, received by faith and not by works of t
 tags: [salvation, grace, faith, christ]
 status: reviewed
 updated: 2026-08-08
-source_count: 12
+source_count: 16
 ---
 
 # Salvation
 
 ## Summary
 
-Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. McGee on 1 John adds the epistle’s assurance purpose: written so that those who believe may *know* they have eternal life (1 John 5:13), with life exclusively in the Son. McGee on 2 Peter distinguishes objective security of the believer from subjective assurance of salvation, and warns that head-knowledge apostates may know the truth without loving it. McGee on Acts supplies narrative case studies: devout Cornelius still unsaved apart from Christ; three-factor conversion (Spirit, Word, man of God); Philippian jailer gospel in a sentence; Jerusalem council one way of grace for Jew and Gentile; Simon’s empty profession versus Ethiopian heart-faith. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory.
+Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. McGee on 1 John adds the epistle’s assurance purpose: written so that those who believe may *know* they have eternal life (1 John 5:13), with life exclusively in the Son. McGee on 2 Peter distinguishes objective security of the believer from subjective assurance of salvation, and warns that head-knowledge apostates may know the truth without loving it. McGee on Acts supplies narrative case studies: devout Cornelius still unsaved apart from Christ; three-factor conversion (Spirit, Word, man of God); Philippian jailer gospel in a sentence; Jerusalem council one way of grace for Jew and Gentile; Simon’s empty profession versus Ethiopian heart-faith. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory. Spurgeon January MAE frames salvation as whole-work mercy, Spirit-begun living unto Christ, sure deliverance of all God’s Israel, and inheritance secured in the Mediator.
 
 ## Core claims
 
@@ -32,7 +32,14 @@ Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through fai
 - McGee on 2 Peter 1:10: make calling and election *more* sure—it is possible to believe in the security of the believer but lack the assurance of salvation; security is objective, assurance subjective. Sterility may lead a believer to forget he has been saved. Ch. 2: false teachers deny Christ’s redemption; elect cannot be permanently deceived; apostates may have head knowledge without love of the truth—the washed sow returns to the mire. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|McGee Notes & Outlines on 2 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee 2 Peter source-note]] [[wiki/passages/2 Peter 1|2 Peter 1]] [[wiki/passages/2 Peter 2|2 Peter 2]]
 - McGee on Acts: Cornelius is devout, God-fearing, generous, and prayerful yet not saved—works do not make a Christian (ch. 10). Three representative conversions (Ethiopian/Saul/Cornelius = Ham/Shem/Japheth) each require Holy Spirit, Word of God, and man of God. Philippian jailer: “Believe on the Lord Jesus Christ, and thou shalt be saved” (16:31)—household believes separately. Simon Magus goes through ritual without saving faith. Jerusalem council: Gentiles not required to take on Mosaic Law for salvation; Peter recounts same grace as at Pentecost. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
 
+- “To save” names the whole work of salvation—from first holy desire through complete sanctification—mercy packed into a short word. [[sources/commentaries_english/chspurgeon-mae/january/january-14|Spurgeon Morning and Evening, January 14]]
+- The believer did not always live to Christ; life to Christ begins when the Spirit convinces of sin and grace shows the dying Savior as propitiation—new birth starts the Christ-centered life. [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
+- As at the Red Sea not one of Israel was lost, so the Lord’s saving work secures the whole people he redeems—safety is corporate and complete in his power. [[sources/commentaries_english/chspurgeon-mae/january/january-21|Spurgeon Morning and Evening, January 21]]
+- When Jesus gave himself, he gave the rights and privileges that go with himself; salvation includes obtained inheritance in the Beloved. [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
 
@@ -112,6 +119,10 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Peter]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-14|Spurgeon Morning and Evening, January 14]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-21|Spurgeon Morning and Evening, January 21]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
 
 ## Open questions
 

@@ -4,15 +4,15 @@ title: Justification
 description: God's free declaration that sinners are righteous by grace through faith in Christ, not by works of the law (Rom 3–5).
 tags: [salvation, faith, christ, redemption]
 status: reviewed
-updated: 2026-07-16
-source_count: 7
+updated: 2026-08-08
+source_count: 9
 ---
 
 # Justification
 
 ## Summary
 
-In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete on Romans 3–4, justification is God’s free, gracious acceptance of guilty sinners through the righteousness of Christ received by faith. It shuts out boasting, does not rest on works of the law, is illustrated in Abraham, and issues in peace with God and a life that still pursues holiness.
+In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete on Romans 3–4, justification is God’s free, gracious acceptance of guilty sinners through the righteousness of Christ received by faith. It shuts out boasting, does not rest on works of the law, is illustrated in Abraham, and issues in peace with God and a life that still pursues holiness. Spurgeon January MAE applies justification’s comfort: peace from Christ’s perfect righteousness and completeness in him amid felt imperfection.
 
 ## Core claims
 
@@ -25,7 +25,12 @@ In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete o
 
 - Spurgeon batch: salvation is received by trust in Christ; faith is the appointed means that glorifies free grace rather than works. [[wiki/source-notes/Spurgeon Theme Batch — Salvation and Justification|Spurgeon Salvation/Justification batch]] [[sources/commentaries_english/chspurgeon-sermons/volume-23/sermon_1347|Spurgeon, How Is Salvation Received?]]
 
+- The greatest calm of the Christian is to contemplate the perfect righteousness of Christ—“The Lord our Righteousness”—rather than only cataloguing heart corruption; saints are perfect in Christ Jesus. [[sources/commentaries_english/chspurgeon-mae/january/january-31|Spurgeon Morning and Evening, January 31]]
+- Though imperfect in ourselves, we are perfect and complete in Christ Jesus in God’s sight—comfort for those daily taught their lack of perfection. [[sources/commentaries_english/chspurgeon-mae/january/january-28|Spurgeon Morning and Evening, January 28]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Henry Concise and Complete agree on free justification by faith through Christ’s propitiatory work.
 - This page is Henry-heavy by design of the Romans campaign; Spurgeon’s evangelistic sermons on receiving salvation already mesh on [[wiki/concepts/Salvation|Salvation]] and should be pulled onto this page in a later pass.
@@ -65,6 +70,8 @@ Key loci: Romans 3:19–31; Romans 4; Romans 5:1–11; Romans 6:1–2; Genesis 1
 - [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-3|Matthew Henry Complete, Romans 3]]
 - [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-4|Matthew Henry Complete, Romans 4]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-23/sermon_1347|Spurgeon, Sermon 1347]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-31|Spurgeon Morning and Evening, January 31]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-28|Spurgeon Morning and Evening, January 28]]
 
 ## Open questions
 

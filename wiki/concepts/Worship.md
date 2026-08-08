@@ -5,14 +5,14 @@ description: Spirit-and-truth approach to the Father in praise, sanctuary servic
 tags: [worship, christ, holy-spirit, prayer, stewardship]
 status: reviewed
 updated: 2026-08-08
-source_count: 12
+source_count: 17
 ---
 
 # Worship
 
 ## Summary
 
-The sources define true worship less by sacred geography than by the character of God and the sincerity of the worshiper. Because God is Spirit, true worshipers worship the Father in spirit and in truth. Biblical worship also includes public blessing of the Lord in his house and God's own acceptance of prayer and sacrifice. McGee on 1–2 Samuel warns against treating holy objects as charms: Israel’s ark-in-battle superstition, David’s wrong cart transport and Uzzah’s death, Michal’s rebuke of wholehearted ark joy, and David’s refusal of a costless offering at Araunah’s threshing floor (the future temple site). McGee on 1–2 Chronicles thickens the OT altar-and-temple frame: Chronicles tells history from the temple rather than the palace, centers David’s passion to build, and records glory filling Solomon’s house as God’s approval. McGee on 1–2 Kings adds the throne-side narrative: temple glory at dedication (1 Kings 8), Solomon’s early compromise and later idolatry, Israel’s witness when nations came to Jerusalem (queen of Sheba / burnt offering), Jeroboam’s rival calves, Carmel’s contest for true God, Jehu’s partial purge of Baal, and Josiah’s Word-driven reform before Judah’s fall. McGee on Amos adds biting sarcasm against Bethel calf-“worship,” empty religious forms hated by God, and the test that two cannot walk together unless agreed (Amos 3:3; 4–5).
+The sources define true worship less by sacred geography than by the character of God and the sincerity of the worshiper. Because God is Spirit, true worshipers worship the Father in spirit and in truth. Biblical worship also includes public blessing of the Lord in his house and God's own acceptance of prayer and sacrifice. McGee on 1–2 Samuel warns against treating holy objects as charms: Israel’s ark-in-battle superstition, David’s wrong cart transport and Uzzah’s death, Michal’s rebuke of wholehearted ark joy, and David’s refusal of a costless offering at Araunah’s threshing floor (the future temple site). McGee on 1–2 Chronicles thickens the OT altar-and-temple frame: Chronicles tells history from the temple rather than the palace, centers David’s passion to build, and records glory filling Solomon’s house as God’s approval. McGee on 1–2 Kings adds the throne-side narrative: temple glory at dedication (1 Kings 8), Solomon’s early compromise and later idolatry, Israel’s witness when nations came to Jerusalem (queen of Sheba / burnt offering), Jeroboam’s rival calves, Carmel’s contest for true God, Jehu’s partial purge of Baal, and Josiah’s Word-driven reform before Judah’s fall. McGee on Amos adds biting sarcasm against Bethel calf-“worship,” empty religious forms hated by God, and the test that two cannot walk together unless agreed (Amos 3:3; 4–5). January MAE further presses joyful resolve in the Lord, the need of covering for worship’s defects, delight as a mark of accepted service, wonder-as-adoration, and praise from hearing and experience.
 
 ## Core claims
 
@@ -30,7 +30,15 @@ The sources define true worship less by sacred geography than by the character o
 - McGee on Kings: glory fills the temple after the ark is installed (1 Kings 8:10–11); dedication prayer denies that God is confined to a house (8:27); temple is properly David’s (materials in 1 Chronicles 22); windows and measured cherubim signal loss of tabernacle simplicity pointing to Christ; queen of Sheba sees the burnt offering that speaks of substitutionary death; Solomon’s later idolatry and Jeroboam’s calves wreck true worship; Carmel decides Jehovah vs Baal; Josiah’s reform restores temple, Word, and Passover before exile. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]] [[wiki/passages/1 Kings 8|1 Kings 8]] [[wiki/passages/1 Kings 18|1 Kings 18]]
 - McGee on Amos: with biting sarcasm the prophet invited Israel to transgress what they called worship of the golden calf at Bethel (Amos 4:4–5); they went through forms of religion while also worshiping idols (5:21–26); the final test is agreement with God—“Can two walk together, except they be agreed?” (3:3); Amaziah’s Bethel sanctuary is the king’s worship center that rejects the true prophet (7:12–13). [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Amos and Obadiah]] [[wiki/source-notes/McGee Notes and Outlines on Amos and Obadiah|McGee Amos–Obadiah source-note]] [[wiki/passages/Amos 4|Amos 4]] [[wiki/passages/Amos 5|Amos 5]] [[wiki/passages/Amos 7|Amos 7]]
 
+- Public worship, ministry work, and private devotion all carry “the iniquity of the holy things”—hypocrisy, formality, lukewarmness, wandering hearts—so the priestly covering points to need of atonement even for our best services. [[sources/commentaries_english/chspurgeon-mae/january/january-8|Spurgeon Morning and Evening, January 8]]
+- Delight in divine service is a token of acceptance; serving God with a sad, unwilling countenance as if the work were unpleasant is not the spirit of true worship. [[sources/commentaries_english/chspurgeon-mae/january/january-9|Spurgeon Morning and Evening, January 9]]
+- Holy wonder borders real worship: when the soul is overwhelmed by God’s majesty it may silently adore—our incarnate God is “Wonderful.” [[sources/commentaries_english/chspurgeon-mae/january/january-26|Spurgeon Morning and Evening, January 26]]
+- Shepherds praised God for what they heard and what they had seen; worship rises from gospel tidings and from personal experience of the Savior, not hearing alone. [[sources/commentaries_english/chspurgeon-mae/january/january-28|Spurgeon Morning and Evening, January 28]]
+- Mention the Lord’s lovingkindnesses: memory of mercies (conversion, broken chains, milestones of grace) fuels praise even in present gloom. [[sources/commentaries_english/chspurgeon-mae/january/january-25|Spurgeon Morning and Evening, January 25]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Phase 5.2.2 deepening adds Psalter praise (Ps 100/150) and MAE joy language beside John 4 spirit-and-truth and sanctuary service (Ps 134); keep geography-of-worship tension without inventing a liturgy system.
 - Henry's John 4 exposition relocates worship from contested holy places to spiritual reality in the gospel era. [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-4#Christ at the Well of Samaria|Matthew Henry on John 4]]
@@ -88,6 +96,11 @@ Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3; 1 Chronicles 29; 2 Ch
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Chronicles]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-8|Spurgeon Morning and Evening, January 8]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-9|Spurgeon Morning and Evening, January 9]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-26|Spurgeon Morning and Evening, January 26]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-28|Spurgeon Morning and Evening, January 28]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-25|Spurgeon Morning and Evening, January 25]]
 
 ## Open questions
 

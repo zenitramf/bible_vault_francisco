@@ -5,14 +5,14 @@ description: God's free, undeserved favor in Christ that grounds salvation, just
 tags: [salvation, faith, christ, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 7
+source_count: 10
 ---
 
 # Grace
 
 ## Summary
 
-In the vault sources, grace is God's free favor toward sinners: salvation is received by faith *so that* it may be by grace and the promise sure; justification is free by grace through the redemption in Christ; and even charity and usefulness spring from grace rather than self-generated merit. Spurgeon presses free-grace reception of salvation; Henry maps free justification and grace that superabounds beyond Adam's offense. McGee on 2 Peter adds the epistle’s closing program—grow in grace and in the knowledge of the Lord and Savior Jesus Christ (2 Peter 3:18)—as the believer’s all-important present path under the threat of apostasy and the certainty of the Lord’s coming. McGee on Acts casts the Jerusalem council as law vs grace/liberty: Gentiles are not put under Moses for salvation, while the same grace may permit Jewish believers to keep precepts when not trusted for standing (Paul’s vow, ch. 21).
+In the vault sources, grace is God's free favor toward sinners: salvation is received by faith *so that* it may be by grace and the promise sure; justification is free by grace through the redemption in Christ; and even charity and usefulness spring from grace rather than self-generated merit. Spurgeon presses free-grace reception of salvation; Henry maps free justification and grace that superabounds beyond Adam's offense. McGee on 2 Peter adds the epistle’s closing program—grow in grace and in the knowledge of the Lord and Savior Jesus Christ (2 Peter 3:18)—as the believer’s all-important present path under the threat of apostasy and the certainty of the Lord’s coming. McGee on Acts casts the Jerusalem council as law vs grace/liberty: Gentiles are not put under Moses for salvation, while the same grace may permit Jewish believers to keep precepts when not trusted for standing (Paul’s vow, ch. 21). Spurgeon January MAE presses progressive grace: multipoint growth, daily renewal, and humbling that fruitfulness is planted favor not native stock.
 
 ## Core claims
 
@@ -25,7 +25,13 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - McGee on 2 Peter: the epitome of the epistle is “grow in grace, and in the knowledge of our Lord and Savior, Jesus Christ” (3:18); knowledge of God’s program is an incentive to that growth; Paul said “Study,” Peter said “Grow”—both refer believers to the Bible. Addition of Christian graces (1:5–7) gives assurance and guards against spiritual senility. [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|McGee Notes & Outlines on 2 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 2 Peter|McGee 2 Peter source-note]] [[wiki/passages/2 Peter 3|2 Peter 3]]
 - McGee on Acts 15: council question is law vs grace/liberty—must Gentiles come under Mosaic Law to be Christians? Decision: no Mosaic demands for standing; courtesy regarding idols and fornication. Same grace that frees Gentiles permits a Jew (Paul) a voluntary vow to win Jews when not trusted for salvation (Acts 21; 1 Cor 7:17–18; 9:19–23). [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]] [[wiki/passages/Acts 15|Acts 15]]
 
+- Believers must grow in grace—not in one grace only but in all: faith, love, humility, and knowledge of Christ; growth is multipoint, not a single specialty. [[sources/commentaries_english/chspurgeon-mae/january/january-4|Spurgeon Morning and Evening, January 4]]
+- All created life needs renewal; the Christian cannot live on yesterday’s grace but must draw fresh strength from God as trees draw sap day by day. [[sources/commentaries_english/chspurgeon-mae/january/january-2|Spurgeon Morning and Evening, January 2]]
+- God’s people are his vine by grace, not by nature: by nature no better than others, made fruitful only by being planted in a good land by the Lord’s goodness—humbling against pride. [[sources/commentaries_english/chspurgeon-mae/january/january-22|Spurgeon Morning and Evening, January 22]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Phase 5.2.2: added Ephesians 2 Complete so free-grace claims rest on both Spurgeon evangelistic and Henry systematic exposition.
 
@@ -73,6 +79,9 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-8|Matthew Henry Concise, 2 Corinthians 8]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Peter]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-4|Spurgeon Morning and Evening, January 4]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-2|Spurgeon Morning and Evening, January 2]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-22|Spurgeon Morning and Evening, January 22]]
 
 ## Open questions
 

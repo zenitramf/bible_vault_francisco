@@ -5,14 +5,14 @@ description: Humble approach to the Father, taught by Christ, helped by the Spir
 tags: [prayer, christ, holy-spirit, discipleship]
 status: reviewed
 updated: 2026-08-08
-source_count: 11
+source_count: 16
 ---
 
 # Prayer
 
 ## Summary
 
-The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1–2 Samuel makes prayer a book-level theme: 1 Samuel opens with Hannah’s cry and 2 Samuel closes with David’s altar prayer; God builds the throne on a woman’s cry, and David’s thanksgiving after the covenant (2 Samuel 7) and refusal of a costless offering (24:24) frame royal devotion. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). McGee on 1–2 Chronicles adds David’s great temple-offering prayer (1 Chronicles 29:10–19) and Solomon’s dedication prayer (2 Chronicles 6) as major OT models of adoration, dependence, and house-of-prayer orientation. McGee on 1–2 Kings supplies the throne-narrative parallels: Solomon’s request for wisdom (1 Kings 3), dedication prayer denying a confined God (1 Kings 8:27), Elijah’s brief Carmel prayer and later collapse, and Hezekiah spreading Assyria’s letter before the Lord (2 Kings 19). McGee on Colossians adds Paul’s thanksgiving and *epignosis* prayer for the church, prayer-agony for unseen believers, and practical perseverance—inhale prayer / exhale thanksgiving, with petition for the gospel door. Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit.
+The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1–2 Samuel makes prayer a book-level theme: 1 Samuel opens with Hannah’s cry and 2 Samuel closes with David’s altar prayer; God builds the throne on a woman’s cry, and David’s thanksgiving after the covenant (2 Samuel 7) and refusal of a costless offering (24:24) frame royal devotion. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). McGee on 1–2 Chronicles adds David’s great temple-offering prayer (1 Chronicles 29:10–19) and Solomon’s dedication prayer (2 Chronicles 6) as major OT models of adoration, dependence, and house-of-prayer orientation. McGee on 1–2 Kings supplies the throne-narrative parallels: Solomon’s request for wisdom (1 Kings 3), dedication prayer denying a confined God (1 Kings 8:27), Elijah’s brief Carmel prayer and later collapse, and Hezekiah spreading Assyria’s letter before the Lord (2 Kings 19). McGee on Colossians adds Paul’s thanksgiving and *epignosis* prayer for the church, prayer-agony for unseen believers, and practical perseverance—inhale prayer / exhale thanksgiving, with petition for the gospel door. Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit. Spurgeon’s January *Morning and Evening* adds applicative prayer edges: Scripture’s saturation with prayer, sinking-driven petition, using promises, prayer under slander, recovering lost communion in the closet, and corporate prayer at times of divine stirring.
 
 ## Core claims
 
@@ -29,7 +29,16 @@ The retrieved sources present prayer as sincere address to God rather than publi
 - McGee on Kings: Solomon asks wisdom—likely political more than spiritual discernment (1 Kings 3)—and God grants it; dedication prayer (1 Kings 8) shows God is not housed by temples (v. 27) and orients captives to pray toward the house; Elijah’s Carmel prayer is brief but effective (18:36–37) while Baal’s frantic rites fail; under the juniper tree Elijah is depleted and God answers with food, sleep, and the still small voice rather than spectacle (ch. 19); Hezekiah spreads Rab-shakeh’s letter in the house of the Lord and receives Isaiah’s answer and deliverance (2 Kings 19); later recovery prayer after appointed death is followed by foolish acts (ch. 20). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]] [[wiki/passages/1 Kings 8|1 Kings 8]] [[wiki/passages/1 Kings 18|1 Kings 18]]
 - McGee on Colossians: thanksgiving goes directly to God the Father (against Gnostic mediated access); Paul puts the Colossians on his prayer list for *epignosin*—superknowledge confined to God’s will in the Word, yielding wisdom and spiritual understanding (1:3, 9–11); “conflict” for Colosse and Laodicea is prayer agony (2:1); practical conduct includes persevering prayer—like breathing, inhale (prayer) and exhale (thanksgiving)—and petition for a gospel door (4:2–4); imprisoned Epaphras continues a ministry of prayer (4:12–13). [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|McGee Notes & Outlines on Colossians]] [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Colossians source-note]] [[wiki/passages/Colossians 1|Colossians 1]] [[wiki/passages/Colossians 4|Colossians 4]]
 
+- Sacred Scripture is largely occupied with prayer—examples, precepts, and promises—from early men calling on the Lord’s name to closing Amens; believers must continue in prayer as a constant duty, not a rare emergency. [[sources/commentaries_english/chspurgeon-mae/january/january-2|Spurgeon Morning and Evening, January 2]]
+- Sinking times are praying times: when Peter began to sink he cried, “Lord, save me,” and the Lord was ready; distress often drives the soul to the petition it neglected in calm. [[sources/commentaries_english/chspurgeon-mae/january/january-14|Spurgeon Morning and Evening, January 14]]
+- God’s promises were never meant as waste paper—they are minted to be used; pleading the promise is trading with the Lord’s gold rather than storing it unused. [[sources/commentaries_english/chspurgeon-mae/january/january-15|Spurgeon Morning and Evening, January 15]]
+- When falsely accused, David moved the case into a higher court and gave himself to prayer rather than only self-defense—prayer is the believer’s first court of appeal. [[sources/commentaries_english/chspurgeon-mae/january/january-15|Spurgeon Morning and Evening, January 15]]
+- Where fellowship with Christ was lost (often in the closet by restraining prayer) is the place to seek him again; return to neglected means of communion. [[sources/commentaries_english/chspurgeon-mae/january/january-19|Spurgeon Morning and Evening, January 19]]
+- The church should be prayerful for the kingdom’s advance, and doubly earnest when God stirs Zion—like hearing the going in the mulberry tops as a signal to bestir oneself. [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* (January mesh) is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 Phase 4 full-corpus volume/month source-notes are linked under Related pages for inventory coverage; doctrinal claims remain grounded in prior multi-source synthesis (no false consensus).
 
@@ -97,6 +106,11 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Chronicles]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Colossians]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-2|Spurgeon Morning and Evening, January 2]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-14|Spurgeon Morning and Evening, January 14]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-15|Spurgeon Morning and Evening, January 15]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-19|Spurgeon Morning and Evening, January 19]]
+- [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
 
 ## Open questions
 

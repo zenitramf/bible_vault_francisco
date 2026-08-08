@@ -538,3 +538,7 @@ append_only: true
 - smoke-llm-wiki-ingest: cover Amos-Obadiah and 2-3_John routes
 - Created wiki/passages/2 Kings 1.md (Henry Complete + McGee); restored Kings source-note and 2 Kings 2 links
 - Gate: build, lint, lint_wiki, source-scan, source-lint, audit_public, doctor
+
+## [2026-08-08] ingest | Spurgeon MAE January concept mesh
+
+- Meshed all 31 January Morning and Evening days into concept hubs (no month inventory note). Removed wiki/source-notes/Spurgeon Morning and Evening — January.md. Claims + source links on Prayer, Intercession, Christ, Covenant, Grace, Faith, Salvation, Hope, Worship, Holiness, Justification, Atonement, Redemption, Church, Discipleship, Spiritual Warfare, Suffering, Creation, Word of God, Holy Spirit. Updated Theme Enrichment + campaign tracker 4.5 January. Rebuild/coverage 6851/6851; lint clean.

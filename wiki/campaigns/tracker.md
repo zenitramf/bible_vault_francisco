@@ -279,7 +279,7 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 
 | Section | Status | Days | Notes |
 |---|---|---:|---|
-| January | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
+| January | reviewed | 31 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
 | February | reviewed | 29 | Month source-note lists all day files; 0 uncovered |
 | March | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
 | April | reviewed | 30 | Month source-note lists all day files; 0 uncovered |
