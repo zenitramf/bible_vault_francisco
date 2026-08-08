@@ -5,14 +5,15 @@ description: Following Christ through self-denial, cross-bearing, and counted co
 tags: [discipleship, christ, christian-life, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 30
+source_count: 34
 ---
 
 # Discipleship
 
 ## Summary
 
-In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
+In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - If anyone will come after Christ, he must deny himself, take up his cross, and follow him. [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-16#The Value of the Soul|Matthew Henry on Matthew 16]]
@@ -52,6 +53,10 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 - The Beloved bids “Rise up…and come away”: long enough among pots of worldliness; risen with him, do not cleave to the dust of lower loves. [[sources/commentaries_english/chspurgeon-mae/april/april-25|Spurgeon Morning and Evening, April 25]]
 - Christians may forget Christ—hence “This do in remembrance of me”; treacherous memory after blood-bought love is a real, not merely possible, danger. [[sources/commentaries_english/chspurgeon-mae/april/april-26|Spurgeon Morning and Evening, April 26]]
 - Blessed is he that watches: early saints died daily under persecution; present subtler tests still require watchfulness against snare and sleep. [[sources/commentaries_english/chspurgeon-mae/april/april-26|Spurgeon Morning and Evening, April 26]]
+- Blessed working is when Jesus is at our side; God’s people are put in his garden as vine-trimmers, not spectators only. [[sources/commentaries_english/chspurgeon-mae/may/may-9|Spurgeon Morning and Evening, May 9]]
+- Receiving grace makes us God’s servants—unfaithful and unprofitable, yet his: once servants of sin, now wearing his livery and obeying his will. [[sources/commentaries_english/chspurgeon-mae/may/may-17|Spurgeon Morning and Evening, May 17]]
+- Let your citizenship-conduct be as becomes the gospel; the New Jerusalem’s privileges demand a matching walk in the world. [[sources/commentaries_english/chspurgeon-mae/may/may-24|Spurgeon Morning and Evening, May 24]]
+- Perseverance is the badge of true saints: the Christian life is not a beginning only but continuance in God’s ways as long as life lasts. [[sources/commentaries_english/chspurgeon-mae/may/may-26|Spurgeon Morning and Evening, May 26]]
 
 ## Agreements and tensions
 
@@ -122,7 +127,10 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[sources/commentaries_english/chspurgeon-mae/april/april-6|Spurgeon Morning and Evening, April 6]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-25|Spurgeon Morning and Evening, April 25]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-26|Spurgeon Morning and Evening, April 26]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-9|Spurgeon Morning and Evening, May 9]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-17|Spurgeon Morning and Evening, May 17]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-24|Spurgeon Morning and Evening, May 24]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-26|Spurgeon Morning and Evening, May 26]]
 
 ## Open questions
 

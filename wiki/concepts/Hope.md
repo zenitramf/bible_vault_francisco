@@ -5,14 +5,15 @@ description: Confident expectation of glory, resurrection, and God's promise und
 tags: [faith, salvation, prophecy, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 25
+source_count: 30
 ---
 
 # Hope
 
 ## Summary
 
-Sources present Christian hope as future-facing confidence grounded in justification, the Spirit, and the risen Christ: peace and rejoicing in hope of glory; present sufferings not worth comparing with glory to be revealed; creation itself groaning toward redemption's hope; and resurrection of Christ guaranteeing believers' own rising. McGee on 1 Corinthians 15 adds gospel-integral resurrection, bodily rising, victory over death, and *Maranatha* expectancy. McGee on 1 Peter calls Peter the apostle of hope and ties living hope to resurrection, reserved inheritance, and joy under trial. McGee on 1–2 Thessalonians organizes the earliest Pauline letters around the coming of Christ as inspiring, working, purifying, comforting, and rousing hope—faith/love/hope producing work/labor/patience, comfort for the dead in Christ, deliverance from wrath, and industrious waiting that refuses idle fanaticism. McGee on 2 Corinthians adds light affliction versus eternal weight of glory, tent-body departure to be with the Lord, and the *bema* where believers’ works are judged for reward. The Spurgeon prophecy/hope theme batch frames free-grace wisdom against false self-sufficiency; Henry's Romans and 1 Corinthians atlases supply the doctrinal spine. McGee on Amos–Obadiah adds OT restoration hope: David’s booth raised (Amos 9:11–15; Acts 15:16–17) and Obadiah’s climax “And the kingdom shall be the Lord’s,” held beside the warning that the day of the LORD is darkness for the unrepentant (Amos 5:18–20). Spurgeon January MAE colors hope with Canaan rest, seeing God, heavenly rest after toil, forward gaze, and the soul’s return to God as only ark of rest. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
+Sources present Christian hope as future-facing confidence grounded in justification, the Spirit, and the risen Christ: peace and rejoicing in hope of glory; present sufferings not worth comparing with glory to be revealed; creation itself groaning toward redemption's hope; and resurrection of Christ guaranteeing believers' own rising. McGee on 1 Corinthians 15 adds gospel-integral resurrection, bodily rising, victory over death, and *Maranatha* expectancy. McGee on 1 Peter calls Peter the apostle of hope and ties living hope to resurrection, reserved inheritance, and joy under trial. McGee on 1–2 Thessalonians organizes the earliest Pauline letters around the coming of Christ as inspiring, working, purifying, comforting, and rousing hope—faith/love/hope producing work/labor/patience, comfort for the dead in Christ, deliverance from wrath, and industrious waiting that refuses idle fanaticism. McGee on 2 Corinthians adds light affliction versus eternal weight of glory, tent-body departure to be with the Lord, and the *bema* where believers’ works are judged for reward. The Spurgeon prophecy/hope theme batch frames free-grace wisdom against false self-sufficiency; Henry's Romans and 1 Corinthians atlases supply the doctrinal spine. McGee on Amos–Obadiah adds OT restoration hope: David’s booth raised (Amos 9:11–15; Acts 15:16–17) and Obadiah’s climax “And the kingdom shall be the Lord’s,” held beside the warning that the day of the LORD is darkness for the unrepentant (Amos 5:18–20). Spurgeon January MAE colors hope with Canaan rest, seeing God, heavenly rest after toil, forward gaze, and the soul’s return to God as only ark of rest. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - Being justified by faith, the believer has peace with God and is led into hope of the glory of God (Rom 5 fruits of justification). [[sources/commentaries_english/mhenry-concise/romans/chapter-5#Verses 1–5|Matthew Henry Concise on Romans 5]] [[wiki/passages/Romans 5|Romans 5]]
@@ -46,6 +47,11 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - In seasons of darkness and storm the Christian still says, “Thou art my hope in the day of evil”—religion’s path is not always sunshine, yet hope holds. [[sources/commentaries_english/chspurgeon-mae/april/april-29|Spurgeon Morning and Evening, April 29]]
 - Divine omniscience terrifies the ungodly but comforts the child of God: always thought upon, never out of the Father’s observation, precious thoughts that bring consolation. [[sources/commentaries_english/chspurgeon-mae/april/april-30|Spurgeon Morning and Evening, April 30]]
 - God’s people need lifting up forever; heavy by nature, they require divine grace to mount, and saints pray not only for their own ascent but for others’ souls to be raised. [[sources/commentaries_english/chspurgeon-mae/april/april-15|Spurgeon Morning and Evening, April 15]]
+- Going home to be with Jesus is a sweet event for all believers in God’s time; soldiers now fighting will enter their Lord’s joy, yet for now they remain in the world under his prayer. [[sources/commentaries_english/chspurgeon-mae/may/may-2|Spurgeon Morning and Evening, May 2]]
+- A little stay on earth makes heaven more heavenly: toil sweetens rest, alarms make security pleasant, and scarred armour will enhance glory’s joy. [[sources/commentaries_english/chspurgeon-mae/may/may-6|Spurgeon Morning and Evening, May 6]]
+- In a night of trial, cheer the heart with the coming of the Lord; the husbandman waits for harvest, and the patient wait for him who comes quickly with reward. [[sources/commentaries_english/chspurgeon-mae/may/may-13|Spurgeon Morning and Evening, May 13]]
+- How happy are tried Christians afterwards—no calm deeper than after the storm; after the lion, honey; after Hill Difficulty, the arbour’s rest. [[sources/commentaries_english/chspurgeon-mae/may/may-18|Spurgeon Morning and Evening, May 18]]
+- Memory need not be despondency’s slave: wisdom can recall mercies and say with Jeremiah, “This I recall to my mind, therefore have I hope.” [[sources/commentaries_english/chspurgeon-mae/may/may-28|Spurgeon Morning and Evening, May 28]]
 
 ## Agreements and tensions
 
@@ -131,7 +137,11 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - [[sources/commentaries_english/chspurgeon-mae/april/april-20|Spurgeon Morning and Evening, April 20]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-29|Spurgeon Morning and Evening, April 29]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-30|Spurgeon Morning and Evening, April 30]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-2|Spurgeon Morning and Evening, May 2]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-6|Spurgeon Morning and Evening, May 6]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-13|Spurgeon Morning and Evening, May 13]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-18|Spurgeon Morning and Evening, May 18]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-28|Spurgeon Morning and Evening, May 28]]
 
 ## Open questions
 

@@ -5,14 +5,15 @@ description: The Christian life as a real war against the devil, principalities 
 tags: [christ, holy-spirit, holiness, discipleship, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 22
+source_count: 24
 ---
 
 # Spiritual Warfare
 
 ## Summary
 
-The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7). McGee on 2 Corinthians adds Satan’s devices against unforgiving churches, gospel-blinding as the god of this world, attractive false ministers, and a weapons triad (Word, Spirit, prayer) with success measured spiritually not by numbers or money. Spurgeon January MAE adds fowler-snare deliverance (prevention and rescue) and the constant nearness of temptation. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
+The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7). McGee on 2 Corinthians adds Satan’s devices against unforgiving churches, gospel-blinding as the god of this world, attractive false ministers, and a weapons triad (Word, Spirit, prayer) with success measured spiritually not by numbers or money. Spurgeon January MAE adds fowler-snare deliverance (prevention and rescue) and the constant nearness of temptation. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - The Christian religion is much more a warfare than a profession: believers struggle with the opposition of the powers of darkness, with enemies to fight, a captain to fight for, a banner to fight under, and rules of war by which to govern themselves. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-6#The Spiritual Warfare (61 AD)|Matthew Henry on Ephesians 6]]
@@ -41,6 +42,8 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 - Beware the world’s loving face: the enemy’s kisses are deceitful, and religion is often stabbed by those who first profess reverence for it. [[sources/commentaries_english/chspurgeon-mae/march/march-25|Spurgeon Morning and Evening, March 25]]
 
 - The sacramental host still wars on earth under Jesus the Captain; stand fast in ranks—he is with you always to the end of the world. [[sources/commentaries_english/chspurgeon-mae/april/april-20|Spurgeon Morning and Evening, April 20]]
+- As he was cursed who rebuilt Jericho, so labours that rebuild systems of spiritual bondage the gospel once threw down are grave rebellion against gospel liberty. [[sources/commentaries_english/chspurgeon-mae/may/may-29|Spurgeon Morning and Evening, May 29]]
+- Having been between the jaws of the lion and poisoned by the old serpent, the Christian must not re-enter sin’s den as if the war were over. [[sources/commentaries_english/chspurgeon-mae/may/may-30|Spurgeon Morning and Evening, May 30]]
 
 ## Agreements and tensions
 
@@ -109,7 +112,8 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[sources/commentaries_english/chspurgeon-mae/march/march-2|Spurgeon Morning and Evening, March 2]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-25|Spurgeon Morning and Evening, March 25]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-20|Spurgeon Morning and Evening, April 20]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-29|Spurgeon Morning and Evening, May 29]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-30|Spurgeon Morning and Evening, May 30]]
 
 ## Open questions
 

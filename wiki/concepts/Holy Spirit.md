@@ -5,14 +5,15 @@ description: The promised Comforter who indwells, convicts, guides into truth, a
 tags: [holy-spirit, christ, church, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 20
+source_count: 22
 ---
 
 # Holy Spirit
 
 ## Summary
 
-The sources present the Holy Spirit as another Comforter given by the Father at the Son's request, abiding with the church forever. He is the Spirit of truth who convicts the world, guides disciples into truth, and was poured out at Pentecost in fulfillment of promise. Romans 8 deepens the Spirit’s work as the principle of the new walk, the Spirit of adoption, helper in prayer weakness, and seal of inseparable love. McGee on 1 Corinthians adds Spirit-revealed wisdom versus natural blindness (ch. 2), the body as Spirit’s temple, Trinitarian distribution of gifts, and Spirit baptism placing believers into Christ’s body. McGee on 1 John adds the anointing that teaches believers, indwelling as greater than the world, and the Spirit as witness with water and blood. McGee on 2 Corinthians ties the Comforter vocabulary of comfort to the Spirit who confirms, anoints, seals, and is the earnest; only the Spirit develops Christian character (*metamorphosis*, 3:18); and the Spirit is the General of spiritual warfare with the Word and prayer (ch. 10). McGee on Acts frames the whole book as the ascended Lord at work by the Holy Spirit through the apostles (1:1–2, 8): Pentecost as the Spirit’s “Bethlehem,” Spirit baptism into the body, filling distinct from baptism, known-language tongues, and Spirit-directed mission from Jerusalem to Rome. A local Spanish sermon note adds the pastoral image of the Spirit as oil (anointing). Spurgeon January MAE ties the Spirit to illuminating light, convicting new birth into living for Christ, and sought unction for the church. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
+The sources present the Holy Spirit as another Comforter given by the Father at the Son's request, abiding with the church forever. He is the Spirit of truth who convicts the world, guides disciples into truth, and was poured out at Pentecost in fulfillment of promise. Romans 8 deepens the Spirit’s work as the principle of the new walk, the Spirit of adoption, helper in prayer weakness, and seal of inseparable love. McGee on 1 Corinthians adds Spirit-revealed wisdom versus natural blindness (ch. 2), the body as Spirit’s temple, Trinitarian distribution of gifts, and Spirit baptism placing believers into Christ’s body. McGee on 1 John adds the anointing that teaches believers, indwelling as greater than the world, and the Spirit as witness with water and blood. McGee on 2 Corinthians ties the Comforter vocabulary of comfort to the Spirit who confirms, anoints, seals, and is the earnest; only the Spirit develops Christian character (*metamorphosis*, 3:18); and the Spirit is the General of spiritual warfare with the Word and prayer (ch. 10). McGee on Acts frames the whole book as the ascended Lord at work by the Holy Spirit through the apostles (1:1–2, 8): Pentecost as the Spirit’s “Bethlehem,” Spirit baptism into the body, filling distinct from baptism, known-language tongues, and Spirit-directed mission from Jerusalem to Rome. A local Spanish sermon note adds the pastoral image of the Spirit as oil (anointing). Spurgeon January MAE ties the Spirit to illuminating light, convicting new birth into living for Christ, and sought unction for the church. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - Christ promises another Comforter, the Spirit of truth, who will abide forever and dwell with and in the disciples. [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-14#Christ's Consolatory Discourse|Matthew Henry on John 14]]
@@ -40,6 +41,8 @@ The sources present the Holy Spirit as another Comforter given by the Father at 
 - As the Spirit descended on the Head like a dove, so in measure he descends on the members—often with singular rapidity that impels heavenward. [[sources/commentaries_english/chspurgeon-mae/march/march-3|Spurgeon Morning and Evening, March 3]]
 
 - The Spirit can kindle firm calm and inward light when all is dark without—making the Christian’s music independent of shaking worlds. [[sources/commentaries_english/chspurgeon-mae/april/april-8|Spurgeon Morning and Evening, April 8]]
+- To acquaint ourselves with God and be at peace we must know him as revealed not only in one essence but in the plurality of persons—“us” in whose image we are made. [[sources/commentaries_english/chspurgeon-mae/may/may-8|Spurgeon Morning and Evening, May 8]]
+- Sanctification’s perfection is the Spirit’s unfinished work in the regenerate while lusts remain; God will finish what he began. [[sources/commentaries_english/chspurgeon-mae/may/may-15|Spurgeon Morning and Evening, May 15]]
 
 ## Agreements and tensions
 
@@ -113,7 +116,8 @@ Key loci: John 14:15–17; John 16:7–14; Acts 1:5–8; Acts 2:1–4; Acts 8–
 - [[sources/commentaries_english/chspurgeon-mae/february/february-29|Spurgeon Morning and Evening, February 29]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-3|Spurgeon Morning and Evening, March 3]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-8|Spurgeon Morning and Evening, April 8]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-8|Spurgeon Morning and Evening, May 8]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-15|Spurgeon Morning and Evening, May 15]]
 
 ## Open questions
 

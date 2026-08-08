@@ -5,14 +5,15 @@ description: The church as one body in Christ, gifted for edification, and gathe
 tags: [church, christ, holy-spirit, discipleship]
 status: reviewed
 updated: 2026-08-08
-source_count: 19
+source_count: 21
 ---
 
 # Church
 
 ## Summary
 
-The sources present the church as one body animated by one Spirit, called to unity and built up by Christ's gifts. Local gatherings of even two or three in Christ's name have his promised presence. Romans 12–16 (Henry Concise) adds living-sacrifice identity, diverse gifts in one body, mutual forbearance of weak and strong, practical care for co-workers, and vigilance against dividers who depart from sound doctrine. McGee on 1 Corinthians thickens the Corinthian case: lordship of Jesus, correction of party spirit and scandals, body metaphor and Spirit baptism into one body, ordered worship and Lord’s Table, and love as the energy of gifts. McGee on 1 John distinguishes the church body (Pauline positional blessings) from the larger family of God and warns that false professors depart from the Word and that spirits denying the incarnation must be tested. McGee’s Pastoral Epistles outline adds the local assembly’s order, sound doctrine, and elder oversight as the measuring rod of a New Testament church. McGee on 2–3 John puts truth into hospitality practice: refuse support to false teachers; receive and aid true itinerant teachers; resist Diotrephes-type preeminence that rules or ruins the local flock. McGee on Acts supplies the historical origin spine: church begins at Pentecost; early marks at 2:42; discipline (Ananias/Sapphira), deacons, persecution, Antioch missionary base, Jerusalem council on Gentile liberty, and expansion to Rome. McGee on Colossians stresses Christ the Head (body secondary to Ephesians’ body emphasis), holds the Head for growth, warns against Gnostic exclusive spirit, and closes with a roster of faithful workers in pagan culture. Spurgeon January MAE adds bridal affection for the church and a call to corporate prayerfulness at times of divine stirring. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
+The sources present the church as one body animated by one Spirit, called to unity and built up by Christ's gifts. Local gatherings of even two or three in Christ's name have his promised presence. Romans 12–16 (Henry Concise) adds living-sacrifice identity, diverse gifts in one body, mutual forbearance of weak and strong, practical care for co-workers, and vigilance against dividers who depart from sound doctrine. McGee on 1 Corinthians thickens the Corinthian case: lordship of Jesus, correction of party spirit and scandals, body metaphor and Spirit baptism into one body, ordered worship and Lord’s Table, and love as the energy of gifts. McGee on 1 John distinguishes the church body (Pauline positional blessings) from the larger family of God and warns that false professors depart from the Word and that spirits denying the incarnation must be tested. McGee’s Pastoral Epistles outline adds the local assembly’s order, sound doctrine, and elder oversight as the measuring rod of a New Testament church. McGee on 2–3 John puts truth into hospitality practice: refuse support to false teachers; receive and aid true itinerant teachers; resist Diotrephes-type preeminence that rules or ruins the local flock. McGee on Acts supplies the historical origin spine: church begins at Pentecost; early marks at 2:42; discipline (Ananias/Sapphira), deacons, persecution, Antioch missionary base, Jerusalem council on Gentile liberty, and expansion to Rome. McGee on Colossians stresses Christ the Head (body secondary to Ephesians’ body emphasis), holds the Head for growth, warns against Gnostic exclusive spirit, and closes with a roster of faithful workers in pagan culture. Spurgeon January MAE adds bridal affection for the church and a call to corporate prayerfulness at times of divine stirring. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - There is one body and one Spirit, one Lord, one faith, one baptism, and one God and Father of all; therefore Christians must endeavor to keep the unity of the Spirit. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-4#Exhortation to Unity; Persuasives to Unity (61 AD)|Matthew Henry on Ephesians 4]]
@@ -40,6 +41,8 @@ The sources present the church as one body animated by one Spirit, called to uni
 - Christian converse concerning the ways of the Lord is a means of corporate wakefulness on the pilgrimage. [[sources/commentaries_english/chspurgeon-mae/march/march-5|Spurgeon Morning and Evening, March 5]]
 
 - Simon’s cross-bearing after Jesus is a picture of the church through all generations—the corporate cross-bearer following her Lord. [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
+- Brotherly love with a pure heart fervently rests on the high divine nature God implanted—not on law, nature, or philosophy alone. [[sources/commentaries_english/chspurgeon-mae/may/may-4|Spurgeon Morning and Evening, May 4]]
+- The church does not say only “I will go” but “let us go”—earnest labour desires the Lord’s company; vine-trimming is the people’s business with Jesus beside them. [[sources/commentaries_english/chspurgeon-mae/may/may-9|Spurgeon Morning and Evening, May 9]]
 
 ## Agreements and tensions
 
@@ -117,7 +120,8 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 - [[sources/commentaries_english/chspurgeon-mae/march/march-5|Spurgeon Morning and Evening, March 5]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-20|Spurgeon Morning and Evening, March 20]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-4|Spurgeon Morning and Evening, May 4]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-9|Spurgeon Morning and Evening, May 9]]
 
 ## Open questions
 

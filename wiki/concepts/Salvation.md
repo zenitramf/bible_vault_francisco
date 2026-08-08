@@ -5,14 +5,15 @@ description: God's free grace in Christ, received by faith and not by works of t
 tags: [salvation, grace, faith, christ]
 status: reviewed
 updated: 2026-08-08
-source_count: 26
+source_count: 31
 ---
 
 # Salvation
 
 ## Summary
 
-Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. McGee on 1 John adds the epistle’s assurance purpose: written so that those who believe may *know* they have eternal life (1 John 5:13), with life exclusively in the Son. McGee on 2 Peter distinguishes objective security of the believer from subjective assurance of salvation, and warns that head-knowledge apostates may know the truth without loving it. McGee on Acts supplies narrative case studies: devout Cornelius still unsaved apart from Christ; three-factor conversion (Spirit, Word, man of God); Philippian jailer gospel in a sentence; Jerusalem council one way of grace for Jew and Gentile; Simon’s empty profession versus Ethiopian heart-faith. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory. Spurgeon January MAE frames salvation as whole-work mercy, Spirit-begun living unto Christ, sure deliverance of all God’s Israel, and inheritance secured in the Mediator. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
+Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. McGee on 1 John adds the epistle’s assurance purpose: written so that those who believe may *know* they have eternal life (1 John 5:13), with life exclusively in the Son. McGee on 2 Peter distinguishes objective security of the believer from subjective assurance of salvation, and warns that head-knowledge apostates may know the truth without loving it. McGee on Acts supplies narrative case studies: devout Cornelius still unsaved apart from Christ; three-factor conversion (Spirit, Word, man of God); Philippian jailer gospel in a sentence; Jerusalem council one way of grace for Jew and Gentile; Simon’s empty profession versus Ethiopian heart-faith. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory. Spurgeon January MAE frames salvation as whole-work mercy, Spirit-begun living unto Christ, sure deliverance of all God’s Israel, and inheritance secured in the Mediator. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - Salvation comes through the grace of the Lord Jesus Christ as one way for Jew and Gentile alike, not through a law-burden added to the gospel. [[sources/commentaries_english/chspurgeon-sermons/volume-13/sermon_765|Spurgeon, Grace the One Way of Salvation]]
@@ -50,6 +51,11 @@ Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through fai
 - Spring’s opening buds warn the unsaved: it is time to seek the Lord—open the heart in tune with nature’s awakening to receive him. [[sources/commentaries_english/chspurgeon-mae/april/april-1|Spurgeon Morning and Evening, April 1]]
 - The decisive question is not doctrine, ceremony, or a form of experience, but whether you have come to the blood of sprinkling—guilty and helpless, brought by the Spirit. [[sources/commentaries_english/chspurgeon-mae/april/april-17|Spurgeon Morning and Evening, April 17]]
 - The quickened sinner focuses desire on one good—“O that I knew where I might find Him”—earthly gold cannot satisfy when guilt awakens the search for Christ. [[sources/commentaries_english/chspurgeon-mae/april/april-17|Spurgeon Morning and Evening, April 17]]
+- A house for the soul is without money and without price; proud nature wants to pay rent and win Christ, but that purchase blocks free entrance. [[sources/commentaries_english/chspurgeon-mae/may/may-6|Spurgeon Morning and Evening, May 6]]
+- As thirty-eight years of disease ended at Jesus’ word by the pool, the long-weary sinner becomes delightfully sensible of change when Christ heals. [[sources/commentaries_english/chspurgeon-mae/may/may-8|Spurgeon Morning and Evening, May 8]]
+- As joint-heirs with Christ the sole proprietor of creation, believers are admitted to claim the vast estate ratified by joint-heirship with the chosen. [[sources/commentaries_english/chspurgeon-mae/may/may-14|Spurgeon Morning and Evening, May 14]]
+- “If so be ye have tasted that the Lord is gracious” is not universal presumption—special mercy requires enquiry whether we know that grace. [[sources/commentaries_english/chspurgeon-mae/may/may-21|Spurgeon Morning and Evening, May 21]]
+- Poor, suffering, or unknown, review your calling: as surely as you are God’s child, trials end in the glorification that follows the golden chain. [[sources/commentaries_english/chspurgeon-mae/may/may-28|Spurgeon Morning and Evening, May 28]]
 
 ## Agreements and tensions
 
@@ -147,7 +153,11 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/march/march-13|Spurgeon Morning and Evening, March 13]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-1|Spurgeon Morning and Evening, April 1]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-17|Spurgeon Morning and Evening, April 17]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-6|Spurgeon Morning and Evening, May 6]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-8|Spurgeon Morning and Evening, May 8]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-14|Spurgeon Morning and Evening, May 14]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-21|Spurgeon Morning and Evening, May 21]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-28|Spurgeon Morning and Evening, May 28]]
 
 ## Open questions
 

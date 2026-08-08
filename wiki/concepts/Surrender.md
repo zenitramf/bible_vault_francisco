@@ -5,14 +5,14 @@ description: The whole-person yielding of the will to God — humiliation, accep
 tags: [christian-life, faith, discipleship, salvation, christ, holy-spirit, repentance, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 17
+source_count: 18
 ---
 
 # Surrender
 
 ## Summary
 
-In the retrieved sources, surrender is the act by which a creature stops resisting the Creator and throws down every weapon — humility instead of boasting, acceptance of the divine will, prompt obedience, and a Spirit-sensitive heart. Spurgeon calls the Christian form *unconditional surrender* on James 4:7, and structures the saint's life as the practice of the same submission that brings the unsaved to Christ. Matthew Henry repeatedly uses political surrenders (to Babylon, to Assyria) as foils to magnify the wisdom of yielding to the "pleasant and easy yoke" of Christ. The concept is not one Bible verse but a habit of the will that runs from Saul on the Damascus road to the believer's daily prayer, *"Thy will be done."*
+In the retrieved sources, surrender is the act by which a creature stops resisting the Creator and throws down every weapon — humility instead of boasting, acceptance of the divine will, prompt obedience, and a Spirit-sensitive heart. Spurgeon calls the Christian form *unconditional surrender* on James 4:7, and structures the saint's life as the practice of the same submission that brings the unsaved to Christ. Matthew Henry repeatedly uses political surrenders (to Babylon, to Assyria) as foils to magnify the wisdom of yielding to the "pleasant and easy yoke" of Christ. The concept is not one Bible verse but a habit of the will that runs from Saul on the Damascus road to the believer's daily prayer, *"Thy will be done."* May MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -35,6 +35,7 @@ In the retrieved sources, surrender is the act by which a creature stops resisti
 
 - Humiliation of soul is the path of blessing and communion: the poor and contrite, trembling at the word, are those to whom the Lord looks. [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
 - Desire for close communion, high doctrine, and knowing love’s dimensions requires drawing near to Jesus in his person, work, and offices—opening the door to his knock. [[sources/commentaries_english/chspurgeon-mae/april/april-25|Spurgeon Morning and Evening, April 25]]
+- Grace’s practical effect is servant-status under God: not autonomous self-rule but livery, table, and obedience of those freed from sin’s service. [[sources/commentaries_english/chspurgeon-mae/may/may-17|Spurgeon Morning and Evening, May 17]]
 
 ## Agreements and tensions
 
@@ -92,7 +93,7 @@ In the retrieved sources, surrender is the act by which a creature stops resisti
 - [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-20|Matthew Henry Complete, 1 Kings 20]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-25|Spurgeon Morning and Evening, April 25]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-17|Spurgeon Morning and Evening, May 17]]
 
 ## Open questions
 

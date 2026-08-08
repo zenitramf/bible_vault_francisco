@@ -5,14 +5,15 @@ description: Divine revelation as wisdom and rule for religion—published, plai
 tags: [wisdom, discipleship, christ, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 15
+source_count: 16
 ---
 
 # Word of God
 
 ## Summary
 
-Sources treat the word of God as divine revelation that guides religion: Henry on Proverbs 8 presents the word as two-fold wisdom—word without wisdom is little, wisdom without a word is little; precepts of wisdom are proclaimed openly, plain to those who understand, and preferable to silver and gold. The vault's Spanish personal study note adds a practical hermeneutical habit: ask when, to whom, and by whom a passage was written before leaping to application. McGee on 1 Peter presents the Word as living instrument of new birth, eternal over against man’s frailty like grass, pure spiritual milk for newborn appetite, and the Scriptures that produce hope and holiness under suffering. McGee on 2 Timothy 3 adds that in days of apostasy the Scriptures alone are the believer’s recourse—every passage God-breathed and profitable so the man of God is complete for every good work. McGee on 1–2 Chronicles adds that Judah’s five major reformations were returns to obedience to the Word of God, producing national repentance and reformation. McGee on 2 Peter anchors the church on Scripture against coming apostasy: a more sure prophetic word than Transfiguration eyewitness, Spirit-carried writers, and the closing charge to grow in the knowledge of Christ through the Bible. McGee on 2–3 John treats “the truth” as the body of apostolic doctrine and “walk in truth” as conduct conforming to that teaching—truth worth standing for and working for. McGee on Amos adds that Judah is judged for despising the Law they had, and that a famine of hearing the words of the LORD is among the heaviest judgments (Amos 2:4–5; 8:11–12). Spurgeon January MAE stresses Christ opening Scripture and opening understanding—Word and illumination together. February MAE claims are meshed alongside the January applicative edges.
+Sources treat the word of God as divine revelation that guides religion: Henry on Proverbs 8 presents the word as two-fold wisdom—word without wisdom is little, wisdom without a word is little; precepts of wisdom are proclaimed openly, plain to those who understand, and preferable to silver and gold. The vault's Spanish personal study note adds a practical hermeneutical habit: ask when, to whom, and by whom a passage was written before leaping to application. McGee on 1 Peter presents the Word as living instrument of new birth, eternal over against man’s frailty like grass, pure spiritual milk for newborn appetite, and the Scriptures that produce hope and holiness under suffering. McGee on 2 Timothy 3 adds that in days of apostasy the Scriptures alone are the believer’s recourse—every passage God-breathed and profitable so the man of God is complete for every good work. McGee on 1–2 Chronicles adds that Judah’s five major reformations were returns to obedience to the Word of God, producing national repentance and reformation. McGee on 2 Peter anchors the church on Scripture against coming apostasy: a more sure prophetic word than Transfiguration eyewitness, Spirit-carried writers, and the closing charge to grow in the knowledge of Christ through the Bible. McGee on 2–3 John treats “the truth” as the body of apostolic doctrine and “walk in truth” as conduct conforming to that teaching—truth worth standing for and working for. McGee on Amos adds that Judah is judged for despising the Law they had, and that a famine of hearing the words of the LORD is among the heaviest judgments (Amos 2:4–5; 8:11–12). Spurgeon January MAE stresses Christ opening Scripture and opening understanding—Word and illumination together. February MAE claims are meshed alongside the January applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - The word of God is two-fold and, in both senses, is wisdom; divine revelation is the word and wisdom of God, and pure religion is built upon it. [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-8|Matthew Henry Complete on Proverbs 8]] [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Complete hub deepening]] [[wiki/passages/Proverbs 8|Proverbs 8]]
@@ -34,6 +35,7 @@ Sources treat the word of God as divine revelation that guides religion: Henry o
 - Seek a more intelligent understanding of Scripture so as to teach others and resist every wind of doctrine; constantly ask the Spirit’s teaching as Author of the Word. [[sources/commentaries_english/chspurgeon-mae/february/february-21|Spurgeon Morning and Evening, February 21]]
 
 - Whatever the especial need, some promise in Scripture is suited to it; the Bible is a store of hope-words to carry back to the Promiser. [[sources/commentaries_english/chspurgeon-mae/april/april-28|Spurgeon Morning and Evening, April 28]]
+- Right acquaintance with God follows his self-revelation—unity of essence and plurality of persons disclosed in the word that says “Let us make man.” [[sources/commentaries_english/chspurgeon-mae/may/may-8|Spurgeon Morning and Evening, May 8]]
 
 ## Agreements and tensions
 
@@ -108,7 +110,7 @@ Sources treat the word of God as divine revelation that guides religion: Henry o
 - [[sources/commentaries_english/chspurgeon-mae/january/january-19|Spurgeon Morning and Evening, January 19]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-21|Spurgeon Morning and Evening, February 21]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-28|Spurgeon Morning and Evening, April 28]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-8|Spurgeon Morning and Evening, May 8]]
 
 ## Open questions
 

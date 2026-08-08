@@ -5,14 +5,15 @@ description: Christ as the eternal Word made flesh, God with us, and the sufferi
 tags: [christ, redemption, salvation, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 47
+source_count: 58
 ---
 
 # Christ
 
 ## Summary
 
-The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors. Spurgeon January MAE thickens experiential Christology: covenant fullness, prior knowledge of his own, joy of fellowship, purchased belonging, present help, brotherly choice, and received fullness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
+The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors. Spurgeon January MAE thickens experiential Christology: covenant fullness, prior knowledge of his own, joy of fellowship, purchased belonging, present help, brotherly choice, and received fullness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - In the beginning was the Word, and the Word was with God, and the Word was God; all things were made by him. [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-1#The Divinity of Christ|Matthew Henry on John 1]]
@@ -67,6 +68,17 @@ The sources confess Jesus Christ as the eternal Word who was with God and was Go
 - In glory he still appears as the Lamb as it had been slain—wounds as jewels; white with innocence and ruddy with his blood. [[sources/commentaries_english/chspurgeon-mae/april/april-23|Spurgeon Morning and Evening, April 23]]
 - Jesus is truly the Lord’s anointed King forever: fullness dwells in him; as Son of man he is head over all things to the church. [[sources/commentaries_english/chspurgeon-mae/april/april-27|Spurgeon Morning and Evening, April 27]]
 - The Lord takes pleasure in his people with comprehensive love—he numbers hairs and orders steps for mortal and immortal welfare alike. [[sources/commentaries_english/chspurgeon-mae/april/april-29|Spurgeon Morning and Evening, April 29]]
+- Whatever beauty the material world holds, Jesus possesses in the spiritual world in tenfold degree—the rose of the soul’s garden and first place among flowers of grace. [[sources/commentaries_english/chspurgeon-mae/may/may-1|Spurgeon Morning and Evening, May 1]]
+- Crowds of hideous sickness thronged Jesus, yet he was not disgusted: patient readiness for every shape of the monster evil met at his feet. [[sources/commentaries_english/chspurgeon-mae/may/may-7|Spurgeon Morning and Evening, May 7]]
+- The believer’s personal testimony is that Christ is divine to him if human to all the world beside—only God could subdue the stubborn will and melt the adamant heart. [[sources/commentaries_english/chspurgeon-mae/may/may-10|Spurgeon Morning and Evening, May 10]]
+- One who is ever the same and ever with us is the stable rock amid life’s billows; set the heart on him who abides forever faithful, not on moth-eaten treasures. [[sources/commentaries_english/chspurgeon-mae/may/may-11|Spurgeon Morning and Evening, May 11]]
+- The Lord Jesus gives special revelations of himself to his people—manifestations no mere reading or hearing can fully replace in experience. [[sources/commentaries_english/chspurgeon-mae/may/may-12|Spurgeon Morning and Evening, May 12]]
+- The Good Shepherd carries lambs in his bosom because weakness melts his tender heart; sighs, ignorance, and feebleness draw his compassion. [[sources/commentaries_english/chspurgeon-mae/may/may-14|Spurgeon Morning and Evening, May 14]]
+- Jesus is ever giving—oil not stayed while any vessel of grace is unfilled; sun always shining, manna always falling, rock always streaming. [[sources/commentaries_english/chspurgeon-mae/may/may-16|Spurgeon Morning and Evening, May 16]]
+- All the attributes of Christ as God and man are at the believer’s disposal: the fullness of the Godhead is ours to make us complete. [[sources/commentaries_english/chspurgeon-mae/may/may-18|Spurgeon Morning and Evening, May 18]]
+- Unlike cold alms from luxury’s leftovers, the Master’s favours are always performed with the love of his heart—morsels dipped in his own dish. [[sources/commentaries_english/chspurgeon-mae/may/may-20|Spurgeon Morning and Evening, May 20]]
+- From every point the Well-beloved is most fair; various trials are meant as fresh standpoints for clearer views of Jesus’ loveliness. [[sources/commentaries_english/chspurgeon-mae/may/may-22|Spurgeon Morning and Evening, May 22]]
+- Though all more or less suffer the disease of sin, the great Physician is able and willing to heal—life in a look, cures both speedy and complete. [[sources/commentaries_english/chspurgeon-mae/may/may-31|Spurgeon Morning and Evening, May 31]]
 
 ## Agreements and tensions
 
@@ -179,7 +191,17 @@ Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 
 - [[sources/commentaries_english/chspurgeon-mae/april/april-23|Spurgeon Morning and Evening, April 23]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-27|Spurgeon Morning and Evening, April 27]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-29|Spurgeon Morning and Evening, April 29]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-1|Spurgeon Morning and Evening, May 1]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-7|Spurgeon Morning and Evening, May 7]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-10|Spurgeon Morning and Evening, May 10]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-11|Spurgeon Morning and Evening, May 11]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-12|Spurgeon Morning and Evening, May 12]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-14|Spurgeon Morning and Evening, May 14]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-16|Spurgeon Morning and Evening, May 16]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-18|Spurgeon Morning and Evening, May 18]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-20|Spurgeon Morning and Evening, May 20]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-22|Spurgeon Morning and Evening, May 22]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-31|Spurgeon Morning and Evening, May 31]]
 
 ## Open questions
 

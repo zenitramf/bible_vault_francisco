@@ -5,14 +5,15 @@ description: Trust in God's promise and in Christ; the means of justification an
 tags: [faith, salvation, christ, covenant, stewardship]
 status: reviewed
 updated: 2026-08-08
-source_count: 32
+source_count: 41
 ---
 
 # Faith
 
 ## Summary
 
-In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
+In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - Abraham believed in the Lord, and God counted it to him for righteousness; this is the pattern of justification by faith without the works of the law. [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-15#God's Covenant with Abram (1913 BC)|Matthew Henry on Genesis 15]] [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-4#The Case of Abraham (58 AD)|Matthew Henry on Romans 4]]
@@ -56,6 +57,15 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - Rahab’s faith was simple, firm, and obedient: the scarlet line seemed trivial, yet she dared not omit the commanded token of promised preservation. [[sources/commentaries_english/chspurgeon-mae/april/april-18|Spurgeon Morning and Evening, April 18]]
 - Jesus is the Amen—immutable confirmer of every promise; the labouring soul may come for rest because the Speaker will not demean the word he has sealed. [[sources/commentaries_english/chspurgeon-mae/april/april-19|Spurgeon Morning and Evening, April 19]]
 - “Thou shalt not be afraid for the terror by night”: whatever the night-watch ill, the believer’s ground of fearlessness is the promise, not the absence of danger. [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon Morning and Evening, April 22]]
+- The epitaph of the blessed who fell asleep before Christ is that they all died in faith—faith their comfort, guide, and final triumph. [[sources/commentaries_english/chspurgeon-mae/may/may-2|Spurgeon Morning and Evening, May 2]]
+- Many wait by the pool for a wonder while the Healer stands near whose word can restore in a moment—look to Christ rather than to secondary means alone. [[sources/commentaries_english/chspurgeon-mae/may/may-7|Spurgeon Morning and Evening, May 7]]
+- God’s tender love makes him concerned that servants be of good courage; doubts and fears are not small things to him who commands courage. [[sources/commentaries_english/chspurgeon-mae/may/may-11|Spurgeon Morning and Evening, May 11]]
+- When providence appoints a new and anxious path (as Jacob toward Egypt), the promise “I will go down with thee” steadies the step. [[sources/commentaries_english/chspurgeon-mae/may/may-12|Spurgeon Morning and Evening, May 12]]
+- When saints are at their wits’ end and no drop can be procured, the word still is to dig ditches in faith—help is found where the creature fails. [[sources/commentaries_english/chspurgeon-mae/may/may-16|Spurgeon Morning and Evening, May 16]]
+- Providence that never forgets electing love can store a granary for his people even through Egypt’s scarcity—famine does not cancel care. [[sources/commentaries_english/chspurgeon-mae/may/may-21|Spurgeon Morning and Evening, May 21]]
+- Changeful experience asks “Why is it thus?” yet the Lord leads by a right way; darkness after light is not proof of abandonment. [[sources/commentaries_english/chspurgeon-mae/may/may-22|Spurgeon Morning and Evening, May 22]]
+- Confidence that God will perfect that which concerns us is divine confidence—not self-assured grace, faith, love, or resolution, but the Lord’s finishing work. [[sources/commentaries_english/chspurgeon-mae/may/may-23|Spurgeon Morning and Evening, May 23]]
+- Care even over legitimate objects, if carried to excess, has the nature of sin; anxious care is repeatedly forbidden because it denies trust. [[sources/commentaries_english/chspurgeon-mae/may/may-26|Spurgeon Morning and Evening, May 26]]
 
 ## Agreements and tensions
 
@@ -149,7 +159,15 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/april/april-18|Spurgeon Morning and Evening, April 18]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-19|Spurgeon Morning and Evening, April 19]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon Morning and Evening, April 22]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-2|Spurgeon Morning and Evening, May 2]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-7|Spurgeon Morning and Evening, May 7]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-11|Spurgeon Morning and Evening, May 11]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-12|Spurgeon Morning and Evening, May 12]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-16|Spurgeon Morning and Evening, May 16]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-21|Spurgeon Morning and Evening, May 21]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-22|Spurgeon Morning and Evening, May 22]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-23|Spurgeon Morning and Evening, May 23]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-26|Spurgeon Morning and Evening, May 26]]
 
 ## Open questions
 

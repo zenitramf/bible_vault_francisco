@@ -108,12 +108,11 @@ Live database view: [[wiki/source-notes/index.base|Folder base]]. Static OKF lis
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — November|Spurgeon Faith's Checkbook — November]] - Phase 4 full-calendar month source-note for Faith's Checkbook November: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — October|Spurgeon Faith's Checkbook — October]] - Phase 4 full-calendar month source-note for Faith's Checkbook October: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — September|Spurgeon Faith's Checkbook — September]] - Phase 4 full-calendar month source-note for Faith's Checkbook September: every daily entry file listed.
-* [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Spurgeon Morning and Evening Theme Enrichment]] - January–April meshed into concepts; remaining months still selective/sample or inventory-only.
+* [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Spurgeon Morning and Evening Theme Enrichment]] - January–May meshed into concepts; remaining months still selective/sample or inventory-only.
 * [[wiki/source-notes/Spurgeon Morning and Evening — August|Spurgeon Morning and Evening — August]] - Phase 4 full-calendar month source-note for Morning and Evening August: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — December|Spurgeon Morning and Evening — December]] - Phase 4 full-calendar month source-note for Morning and Evening December: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — July|Spurgeon Morning and Evening — July]] - Phase 4 full-calendar month source-note for Morning and Evening July: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — June|Spurgeon Morning and Evening — June]] - Phase 4 full-calendar month source-note for Morning and Evening June: every daily entry file listed.
-* [[wiki/source-notes/Spurgeon Morning and Evening — May|Spurgeon Morning and Evening — May]] - Phase 4 full-calendar month source-note for Morning and Evening May: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — November|Spurgeon Morning and Evening — November]] - Phase 4 full-calendar month source-note for Morning and Evening November: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — October|Spurgeon Morning and Evening — October]] - Phase 4 full-calendar month source-note for Morning and Evening October: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — September|Spurgeon Morning and Evening — September]] - Phase 4 full-calendar month source-note for Morning and Evening September: every daily entry file listed.

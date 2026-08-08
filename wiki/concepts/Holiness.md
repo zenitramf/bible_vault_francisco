@@ -5,14 +5,15 @@ description: Conformity to the holy God who calls and sanctifies his people thro
 tags: [holiness, christ, salvation, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 27
+source_count: 34
 ---
 
 # Holiness
 
 ## Summary
 
-In the retrieved sources, holiness is not optional polish for advanced believers but the moral and spiritual calling of those elected and redeemed. God who is holy requires a holy manner of life; Christ prays for his people's sanctification through the truth; the gospel that justifies also aims at a purified people. Romans 6–8 (Henry Concise) ties free justification to dying to sin, walking after the Spirit, and presenting the body to God. McGee on 1 Corinthians distinguishes positional, practical, and permanent sanctification in Christ (1:2, 30) and presses bodily holiness as the Spirit’s temple against Corinthian impurity and lawsuits. McGee on 1 John adds God is light, walking in light with confession, two natures (new nature does not practice sin), and purifying hope of seeing Christ. McGee on 1 Peter ties holiness to Scriptures under trial—spiritual health and maturity, holiness only in Christ, costly blood motive, and separation from fleshly works as living stones and a royal priesthood. McGee on 2 Peter presses addition of graces, holy living in view of the world’s fiery end, and growth in grace and knowledge of Christ as the believer’s present program. McGee on 2–3 John ties holy walk to truth: love inside the boundary of truth, walk in truth as obedience, and conduct conforming to apostolic doctrine—true teachers received, false teachers refused. McGee on 1–2 Thessalonians ties purifying and rousing hope to unblamable holiness at Christ’s coming, Spirit-enabled chastity and brotherly love, whole sanctification of spirit/soul/body, and Spirit sanctification in the salvation spectrum of 2 Thessalonians 2:13–14. McGee on Colossians pours Christ’s fullness into practical life: heavenly mind where the Head is, mortify old-man members, put off/put on garments, forgive as Christ forgave, word of Christ dwelling richly, and holy relationships. Spurgeon January MAE joins positional perfection in Christ with watchfulness against vanity and temptation, and child-obedience under the new covenant rule. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
+In the retrieved sources, holiness is not optional polish for advanced believers but the moral and spiritual calling of those elected and redeemed. God who is holy requires a holy manner of life; Christ prays for his people's sanctification through the truth; the gospel that justifies also aims at a purified people. Romans 6–8 (Henry Concise) ties free justification to dying to sin, walking after the Spirit, and presenting the body to God. McGee on 1 Corinthians distinguishes positional, practical, and permanent sanctification in Christ (1:2, 30) and presses bodily holiness as the Spirit’s temple against Corinthian impurity and lawsuits. McGee on 1 John adds God is light, walking in light with confession, two natures (new nature does not practice sin), and purifying hope of seeing Christ. McGee on 1 Peter ties holiness to Scriptures under trial—spiritual health and maturity, holiness only in Christ, costly blood motive, and separation from fleshly works as living stones and a royal priesthood. McGee on 2 Peter presses addition of graces, holy living in view of the world’s fiery end, and growth in grace and knowledge of Christ as the believer’s present program. McGee on 2–3 John ties holy walk to truth: love inside the boundary of truth, walk in truth as obedience, and conduct conforming to apostolic doctrine—true teachers received, false teachers refused. McGee on 1–2 Thessalonians ties purifying and rousing hope to unblamable holiness at Christ’s coming, Spirit-enabled chastity and brotherly love, whole sanctification of spirit/soul/body, and Spirit sanctification in the salvation spectrum of 2 Thessalonians 2:13–14. McGee on Colossians pours Christ’s fullness into practical life: heavenly mind where the Head is, mortify old-man members, put off/put on garments, forgive as Christ forgave, word of Christ dwelling richly, and holy relationships. Spurgeon January MAE joins positional perfection in Christ with watchfulness against vanity and temptation, and child-obedience under the new covenant rule. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - Those called by a holy God are commanded to be holy in all manner of conversation, because it is written, "Be ye holy; for I am holy." [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-1#Sobriety and Holiness; Exhortation to Brotherly Love (66 AD)|Matthew Henry on 1 Peter 1]]
@@ -50,6 +51,14 @@ In the retrieved sources, holiness is not optional polish for advanced believers
 - Before honour is humility: empty the heart of self that God may fill it with love; stoop if you would climb, growing downward in contrite poverty of spirit. [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
 - The newborn nature must assert Christ’s purchased rights and, in the Lord’s name, destroy rival reigns within—sanctification of the whole person as passion’s design. [[sources/commentaries_english/chspurgeon-mae/april/april-6|Spurgeon Morning and Evening, April 6]]
 - Having begun in the Spirit, do not seek perfection by the flesh: take sins to Christ’s cross for power; conquerors through him that loved us, not through the law’s strength. [[sources/commentaries_english/chspurgeon-mae/april/april-23|Spurgeon Morning and Evening, April 23]]
+- Believers will one day be like the pure and holy Father; the furnace of affliction is often required refining so that conformity to his image is not easy vanity. [[sources/commentaries_english/chspurgeon-mae/may/may-3|Spurgeon Morning and Evening, May 3]]
+- Spiritual Israel still tends to idolatry: Mammon’s golden calf and shrines of pride and self replace Remphan and Tammuz. [[sources/commentaries_english/chspurgeon-mae/may/may-4|Spurgeon Morning and Evening, May 4]]
+- Christians need both present perfection of justification in Jesus and future perfection of sanctification by the Spirit—corruption remains until God finishes his work. [[sources/commentaries_english/chspurgeon-mae/may/may-15|Spurgeon Morning and Evening, May 15]]
+- Imitate Christ for your own soul’s health: escape sin’s sickness and enjoy growing grace, happy communion, and lift above worldly cares by taking him as model. [[sources/commentaries_english/chspurgeon-mae/may/may-17|Spurgeon Morning and Evening, May 17]]
+- Gospel “conversation” is whole citizenship conduct of the New Jerusalem—not mere talk, but a life that becomes the gospel of Christ. [[sources/commentaries_english/chspurgeon-mae/may/may-24|Spurgeon Morning and Evening, May 24]]
+- Be angry and sin not: there is hardly goodness without hatred of sin; Christ thrice met temptation with “Get thee behind me, Satan.” [[sources/commentaries_english/chspurgeon-mae/may/may-29|Spurgeon Morning and Evening, May 29]]
+- Little foxes spoil the vines: small sins burrow until Christ holds no comfortable fellowship; great falls often begin as little foxes. [[sources/commentaries_english/chspurgeon-mae/may/may-30|Spurgeon Morning and Evening, May 30]]
+- Christian, what hast thou to do with sin? Burnt child, will you play with fire after the lion’s jaws and the serpent’s poison? [[sources/commentaries_english/chspurgeon-mae/may/may-30|Spurgeon Morning and Evening, May 30]]
 
 ## Agreements and tensions
 
@@ -146,7 +155,13 @@ Key loci: 1 Peter 1:13–21; 1 Peter 2:1–12; 1 Peter 4:1–6; John 17:17; Hebr
 - [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-6|Spurgeon Morning and Evening, April 6]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-23|Spurgeon Morning and Evening, April 23]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-3|Spurgeon Morning and Evening, May 3]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-4|Spurgeon Morning and Evening, May 4]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-15|Spurgeon Morning and Evening, May 15]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-17|Spurgeon Morning and Evening, May 17]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-24|Spurgeon Morning and Evening, May 24]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-29|Spurgeon Morning and Evening, May 29]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-30|Spurgeon Morning and Evening, May 30]]
 
 ## Open questions
 

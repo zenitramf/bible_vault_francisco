@@ -5,14 +5,15 @@ description: Spirit-and-truth approach to the Father in praise, sanctuary servic
 tags: [worship, christ, holy-spirit, prayer, stewardship]
 status: reviewed
 updated: 2026-08-08
-source_count: 25
+source_count: 29
 ---
 
 # Worship
 
 ## Summary
 
-The sources define true worship less by sacred geography than by the character of God and the sincerity of the worshiper. Because God is Spirit, true worshipers worship the Father in spirit and in truth. Biblical worship also includes public blessing of the Lord in his house and God's own acceptance of prayer and sacrifice. McGee on 1–2 Samuel warns against treating holy objects as charms: Israel’s ark-in-battle superstition, David’s wrong cart transport and Uzzah’s death, Michal’s rebuke of wholehearted ark joy, and David’s refusal of a costless offering at Araunah’s threshing floor (the future temple site). McGee on 1–2 Chronicles thickens the OT altar-and-temple frame: Chronicles tells history from the temple rather than the palace, centers David’s passion to build, and records glory filling Solomon’s house as God’s approval. McGee on 1–2 Kings adds the throne-side narrative: temple glory at dedication (1 Kings 8), Solomon’s early compromise and later idolatry, Israel’s witness when nations came to Jerusalem (queen of Sheba / burnt offering), Jeroboam’s rival calves, Carmel’s contest for true God, Jehu’s partial purge of Baal, and Josiah’s Word-driven reform before Judah’s fall. McGee on Amos adds biting sarcasm against Bethel calf-“worship,” empty religious forms hated by God, and the test that two cannot walk together unless agreed (Amos 3:3; 4–5). January MAE further presses joyful resolve in the Lord, the need of covering for worship’s defects, delight as a mark of accepted service, wonder-as-adoration, and praise from hearing and experience. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
+The sources define true worship less by sacred geography than by the character of God and the sincerity of the worshiper. Because God is Spirit, true worshipers worship the Father in spirit and in truth. Biblical worship also includes public blessing of the Lord in his house and God's own acceptance of prayer and sacrifice. McGee on 1–2 Samuel warns against treating holy objects as charms: Israel’s ark-in-battle superstition, David’s wrong cart transport and Uzzah’s death, Michal’s rebuke of wholehearted ark joy, and David’s refusal of a costless offering at Araunah’s threshing floor (the future temple site). McGee on 1–2 Chronicles thickens the OT altar-and-temple frame: Chronicles tells history from the temple rather than the palace, centers David’s passion to build, and records glory filling Solomon’s house as God’s approval. McGee on 1–2 Kings adds the throne-side narrative: temple glory at dedication (1 Kings 8), Solomon’s early compromise and later idolatry, Israel’s witness when nations came to Jerusalem (queen of Sheba / burnt offering), Jeroboam’s rival calves, Carmel’s contest for true God, Jehu’s partial purge of Baal, and Josiah’s Word-driven reform before Judah’s fall. McGee on Amos adds biting sarcasm against Bethel calf-“worship,” empty religious forms hated by God, and the test that two cannot walk together unless agreed (Amos 3:3; 4–5). January MAE further presses joyful resolve in the Lord, the need of covering for worship’s defects, delight as a mark of accepted service, wonder-as-adoration, and praise from hearing and experience. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - True worshipers shall worship the Father in spirit and in truth; the Father seeks such worshipers. [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-4#Christ at the Well of Samaria|Matthew Henry on John 4]]
@@ -46,6 +47,10 @@ The sources define true worship less by sacred geography than by the character o
 
 - It is beneficial to mount above this present evil world to the mountain of the Lord—cutting thorns of care and riches that choke heavenly seed. [[sources/commentaries_english/chspurgeon-mae/april/april-4|Spurgeon Morning and Evening, April 4]]
 - The Lord’s table command assumes our memory may fail the dying Lamb; remembrance is appointed worship against treacherous forgetfulness of redeeming love. [[sources/commentaries_english/chspurgeon-mae/april/april-26|Spurgeon Morning and Evening, April 26]]
+- When the flowery month arrives, the soul should put on holiday attire and gather garlands of heavenly thoughts from the beds of spices it already knows—spiritual beauty answering creation’s beauty. [[sources/commentaries_english/chspurgeon-mae/may/may-1|Spurgeon Morning and Evening, May 1]]
+- The believer’s portion is the Lord himself: granaries and golden harvests cannot compare with the God of harvests as inheritance. [[sources/commentaries_english/chspurgeon-mae/may/may-13|Spurgeon Morning and Evening, May 13]]
+- Cold votive offerings signal coldness of heart; backsliding thins the sweet perfume once brought freely to God’s altar. [[sources/commentaries_english/chspurgeon-mae/may/may-23|Spurgeon Morning and Evening, May 23]]
+- The Emmaus disciples constrained the mysterious stranger to stay; when he broke bread they knew him—hospitality and ordinance can open revelation of the risen Lord. [[sources/commentaries_english/chspurgeon-mae/may/may-25|Spurgeon Morning and Evening, May 25]]
 
 ## Agreements and tensions
 
@@ -120,7 +125,10 @@ Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3; 1 Chronicles 29; 2 Ch
 - [[sources/commentaries_english/chspurgeon-mae/march/march-31|Spurgeon Morning and Evening, March 31]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-4|Spurgeon Morning and Evening, April 4]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-26|Spurgeon Morning and Evening, April 26]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-1|Spurgeon Morning and Evening, May 1]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-13|Spurgeon Morning and Evening, May 13]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-23|Spurgeon Morning and Evening, May 23]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-25|Spurgeon Morning and Evening, May 25]]
 
 ## Open questions
 

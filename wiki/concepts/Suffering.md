@@ -5,14 +5,15 @@ description: Affliction under God's hand—permitted trial, present groan, and h
 tags: [faith, christian-life, holiness, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 23
+source_count: 27
 ---
 
 # Suffering
 
 ## Summary
 
-Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble. Spurgeon January MAE applies suffering to care-casting under personal divine care, evening visitations of the Lord’s hand, and inscrutable providence in success and failure. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
+Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble. Spurgeon January MAE applies suffering to care-casting under personal divine care, evening visitations of the Lord’s hand, and inscrutable providence in success and failure. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+
 ## Core claims
 
 - Job's afflictions began from the malice of Satan by the Lord's permission for wise and holy purposes; God has the devil in a chain. [[sources/commentaries_english/mhenry-concise/job/chapter-1#Verses 6–12|Matthew Henry Concise on Job 1]] [[wiki/passages/Job 1|Job 1]]
@@ -45,6 +46,11 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - Deep depression of spirit is the most grievous trial; the Saviour’s melted heart teaches the sufferer to cry “Be not far from me” when heaviness dissolves courage. [[sources/commentaries_english/chspurgeon-mae/april/april-12|Spurgeon Morning and Evening, April 12]]
 - It is well with the righteous always—not only in prosperity or persecution, but in all times, because God’s shalls and wills cannot fail. [[sources/commentaries_english/chspurgeon-mae/april/april-14|Spurgeon Morning and Evening, April 14]]
 - Murmurers still cry against afflictive rods; yet the Father cannot treat the rebel more hardly than desert, and murmuring forgets mercy already received. [[sources/commentaries_english/chspurgeon-mae/april/april-30|Spurgeon Morning and Evening, April 30]]
+- Much refining in affliction’s furnace often precedes easy conformity to the holy Father’s image. [[sources/commentaries_english/chspurgeon-mae/may/may-3|Spurgeon Morning and Evening, May 3]]
+- Tried Christians are happy afterwards; victorious banquets follow well-exercised soldiers. [[sources/commentaries_english/chspurgeon-mae/may/may-18|Spurgeon Morning and Evening, May 18]]
+- When upstarts usurp high places and the great pine in obscurity, providence’s riddle will one day gladden the upright—murmur not if that lot is yours. [[sources/commentaries_english/chspurgeon-mae/may/may-19|Spurgeon Morning and Evening, May 19]]
+- Even Elijah, ordained for chariot translation, prayed “Let me die”—memorable proof that the strongest saints may sink into despondency. [[sources/commentaries_english/chspurgeon-mae/may/may-19|Spurgeon Morning and Evening, May 19]]
+- David at Kidron was both the Lord’s Anointed and the Lord’s Afflicted; if the man after God’s heart was not exempt, why should we expect escape? [[sources/commentaries_english/chspurgeon-mae/may/may-31|Spurgeon Morning and Evening, May 31]]
 
 ## Agreements and tensions
 
@@ -119,7 +125,10 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - [[sources/commentaries_english/chspurgeon-mae/april/april-12|Spurgeon Morning and Evening, April 12]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-14|Spurgeon Morning and Evening, April 14]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-30|Spurgeon Morning and Evening, April 30]]
-
+- [[sources/commentaries_english/chspurgeon-mae/may/may-3|Spurgeon Morning and Evening, May 3]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-18|Spurgeon Morning and Evening, May 18]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-19|Spurgeon Morning and Evening, May 19]]
+- [[sources/commentaries_english/chspurgeon-mae/may/may-31|Spurgeon Morning and Evening, May 31]]
 
 ## Open questions
 
