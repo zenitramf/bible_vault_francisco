@@ -5,15 +5,14 @@ description: The church as one body in Christ, gifted for edification, and gathe
 tags: [church, christ, holy-spirit, discipleship]
 status: reviewed
 updated: 2026-08-08
-source_count: 14
+source_count: 16
 ---
 
 # Church
 
 ## Summary
 
-The sources present the church as one body animated by one Spirit, called to unity and built up by Christ's gifts. Local gatherings of even two or three in Christ's name have his promised presence. Romans 12–16 (Henry Concise) adds living-sacrifice identity, diverse gifts in one body, mutual forbearance of weak and strong, practical care for co-workers, and vigilance against dividers who depart from sound doctrine. McGee on 1 Corinthians thickens the Corinthian case: lordship of Jesus, correction of party spirit and scandals, body metaphor and Spirit baptism into one body, ordered worship and Lord’s Table, and love as the energy of gifts. McGee on 1 John distinguishes the church body (Pauline positional blessings) from the larger family of God and warns that false professors depart from the Word and that spirits denying the incarnation must be tested. McGee’s Pastoral Epistles outline adds the local assembly’s order, sound doctrine, and elder oversight as the measuring rod of a New Testament church. McGee on 2–3 John puts truth into hospitality practice: refuse support to false teachers; receive and aid true itinerant teachers; resist Diotrephes-type preeminence that rules or ruins the local flock. McGee on Acts supplies the historical origin spine: church begins at Pentecost; early marks at 2:42; discipline (Ananias/Sapphira), deacons, persecution, Antioch missionary base, Jerusalem council on Gentile liberty, and expansion to Rome. McGee on Colossians stresses Christ the Head (body secondary to Ephesians’ body emphasis), holds the Head for growth, warns against Gnostic exclusive spirit, and closes with a roster of faithful workers in pagan culture. Spurgeon January MAE adds bridal affection for the church and a call to corporate prayerfulness at times of divine stirring.
-
+The sources present the church as one body animated by one Spirit, called to unity and built up by Christ's gifts. Local gatherings of even two or three in Christ's name have his promised presence. Romans 12–16 (Henry Concise) adds living-sacrifice identity, diverse gifts in one body, mutual forbearance of weak and strong, practical care for co-workers, and vigilance against dividers who depart from sound doctrine. McGee on 1 Corinthians thickens the Corinthian case: lordship of Jesus, correction of party spirit and scandals, body metaphor and Spirit baptism into one body, ordered worship and Lord’s Table, and love as the energy of gifts. McGee on 1 John distinguishes the church body (Pauline positional blessings) from the larger family of God and warns that false professors depart from the Word and that spirits denying the incarnation must be tested. McGee’s Pastoral Epistles outline adds the local assembly’s order, sound doctrine, and elder oversight as the measuring rod of a New Testament church. McGee on 2–3 John puts truth into hospitality practice: refuse support to false teachers; receive and aid true itinerant teachers; resist Diotrephes-type preeminence that rules or ruins the local flock. McGee on Acts supplies the historical origin spine: church begins at Pentecost; early marks at 2:42; discipline (Ananias/Sapphira), deacons, persecution, Antioch missionary base, Jerusalem council on Gentile liberty, and expansion to Rome. McGee on Colossians stresses Christ the Head (body secondary to Ephesians’ body emphasis), holds the Head for growth, warns against Gnostic exclusive spirit, and closes with a roster of faithful workers in pagan culture. Spurgeon January MAE adds bridal affection for the church and a call to corporate prayerfulness at times of divine stirring. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - There is one body and one Spirit, one Lord, one faith, one baptism, and one God and Father of all; therefore Christians must endeavor to keep the unity of the Spirit. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-4#Exhortation to Unity; Persuasives to Unity (61 AD)|Matthew Henry on Ephesians 4]]
@@ -33,6 +32,10 @@ The sources present the church as one body animated by one Spirit, called to uni
 
 - Christ addresses his church with bridal titles—sister by incarnation nearness, spouse by heavenly betrothal—affectionate union language for the people he loves. [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
 - Members of Christ’s church should be prayerful for the Spirit’s unction and the kingdom’s coming, and doubly earnest when God specially favors Zion. [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+
+
+- Christ’s people make him glad by their love—faint as it seems—because the church’s affection is sweet to the Bridegroom. [[sources/commentaries_english/chspurgeon-mae/february/february-15|Spurgeon Morning and Evening, February 15]]
+- Anxious Zion receives good news: captivity will end, children will be brought forth; the church under the rod may still trust stored mercy. [[sources/commentaries_english/chspurgeon-mae/february/february-24|Spurgeon Morning and Evening, February 24]]
 
 ## Agreements and tensions
 
@@ -105,6 +108,9 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 - [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Colossians]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-15|Spurgeon Morning and Evening, February 15]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-24|Spurgeon Morning and Evening, February 24]]
+
 
 ## Open questions
 

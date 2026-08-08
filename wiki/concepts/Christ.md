@@ -5,15 +5,14 @@ description: Christ as the eternal Word made flesh, God with us, and the sufferi
 tags: [christ, redemption, salvation, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 20
+source_count: 25
 ---
 
 # Christ
 
 ## Summary
 
-The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors. Spurgeon January MAE thickens experiential Christology: covenant fullness, prior knowledge of his own, joy of fellowship, purchased belonging, present help, brotherly choice, and received fullness.
-
+The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors. Spurgeon January MAE thickens experiential Christology: covenant fullness, prior knowledge of his own, joy of fellowship, purchased belonging, present help, brotherly choice, and received fullness. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - In the beginning was the Word, and the Word was with God, and the Word was God; all things were made by him. [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-1#The Divinity of Christ|Matthew Henry on John 1]]
@@ -37,6 +36,13 @@ The sources confess Jesus Christ as the eternal Word who was with God and was Go
 - Christ was chosen out of the people to be brother in kindred blood—able to be near as kinsman and yet the chosen Servant. [[sources/commentaries_english/chspurgeon-mae/january/january-23|Spurgeon Morning and Evening, January 23]]
 - Of his fullness have all we received: essential Deity, perfect manhood, atoning blood, justifying righteousness, conquering power, and endless supply for every need. [[sources/commentaries_english/chspurgeon-mae/january/january-27|Spurgeon Morning and Evening, January 27]]
 - Heaven’s vision begins with the Lamb; the chief object of celestial admiration remains the crucified and exalted Christ. [[sources/commentaries_english/chspurgeon-mae/january/january-17|Spurgeon Morning and Evening, January 17]]
+
+
+- The love of Jesus is not second-hand report but what the soul has tasted and handled: wonderful love that restrained, sought, and saved while we were still strangers. [[sources/commentaries_english/chspurgeon-mae/february/february-1|Spurgeon Morning and Evening, February 1]]
+- The believer’s hunger is present communion—“Tell me where thou feedest”—seeking Christ in house, prayer, Word, and ordinances as the only feeding Shepherd. [[sources/commentaries_english/chspurgeon-mae/february/february-3|Spurgeon Morning and Evening, February 3]]
+- Jesus did not come without the Father’s send and assistance; honour for salvation belongs to Father and Son together, not to a truncated Christ-alone piety that forgets the Sender. [[sources/commentaries_english/chspurgeon-mae/february/february-5|Spurgeon Morning and Evening, February 5]]
+- Everything about the Lord Jesus becomes precious for his sake; true faith esteems his person so highly that even what touches him is inestimable. [[sources/commentaries_english/chspurgeon-mae/february/february-8|Spurgeon Morning and Evening, February 8]]
+- From everlasting he had “goings forth” as representative for his people—signing the compact of substitution long before they stood on the stage of time. [[sources/commentaries_english/chspurgeon-mae/february/february-27|Spurgeon Morning and Evening, February 27]]
 
 ## Agreements and tensions
 
@@ -122,6 +128,12 @@ Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 
 - [[sources/commentaries_english/chspurgeon-mae/january/january-23|Spurgeon Morning and Evening, January 23]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-27|Spurgeon Morning and Evening, January 27]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-17|Spurgeon Morning and Evening, January 17]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-1|Spurgeon Morning and Evening, February 1]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-3|Spurgeon Morning and Evening, February 3]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-5|Spurgeon Morning and Evening, February 5]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-8|Spurgeon Morning and Evening, February 8]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-27|Spurgeon Morning and Evening, February 27]]
+
 
 ## Open questions
 

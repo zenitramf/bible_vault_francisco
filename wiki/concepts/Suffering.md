@@ -5,15 +5,14 @@ description: Affliction under God's hand—permitted trial, present groan, and h
 tags: [faith, christian-life, holiness, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 10
+source_count: 13
 ---
 
 # Suffering
 
 ## Summary
 
-Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble. Spurgeon January MAE applies suffering to care-casting under personal divine care, evening visitations of the Lord’s hand, and inscrutable providence in success and failure.
-
+Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble. Spurgeon January MAE applies suffering to care-casting under personal divine care, evening visitations of the Lord’s hand, and inscrutable providence in success and failure. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - Job's afflictions began from the malice of Satan by the Lord's permission for wise and holy purposes; God has the devil in a chain. [[sources/commentaries_english/mhenry-concise/job/chapter-1#Verses 6–12|Matthew Henry Concise on Job 1]] [[wiki/passages/Job 1|Job 1]]
@@ -29,6 +28,11 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - Casting care on the Lord rests on “he careth for you”: what crushes the child is dust on the Father’s scale—patient sufferers are not passed over in providence. [[sources/commentaries_english/chspurgeon-mae/january/january-6|Spurgeon Morning and Evening, January 6]]
 - The hand of the Lord may be felt in evening as chastening rod or as strengthening uplift; either way, submit and seek to be profited. [[sources/commentaries_english/chspurgeon-mae/january/january-6|Spurgeon Morning and Evening, January 6]]
 - Providence prospers one venture and sinks another without simple human explanation; the sufferer of frustration is called to trust the disposer of lots. [[sources/commentaries_english/chspurgeon-mae/january/january-13|Spurgeon Morning and Evening, January 13]]
+
+
+- Providence balances scales: when trials fill one side, consolations fill the other; empty trial and empty comfort often move together. [[sources/commentaries_english/chspurgeon-mae/february/february-12|Spurgeon Morning and Evening, February 12]]
+- Trials develop graces that summer never shows—faith looks grand in winter, hope like a star only in night’s adversity. [[sources/commentaries_english/chspurgeon-mae/february/february-18|Spurgeon Morning and Evening, February 18]]
+- Who comforts like God? Human comforters may fail the melancholy saint, but the God of all comfort reaches where charm cannot. [[sources/commentaries_english/chspurgeon-mae/february/february-20|Spurgeon Morning and Evening, February 20]]
 
 ## Agreements and tensions
 
@@ -90,6 +94,10 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-6|Spurgeon Morning and Evening, January 6]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-13|Spurgeon Morning and Evening, January 13]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-12|Spurgeon Morning and Evening, February 12]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-18|Spurgeon Morning and Evening, February 18]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-20|Spurgeon Morning and Evening, February 20]]
+
 
 ## Open questions
 

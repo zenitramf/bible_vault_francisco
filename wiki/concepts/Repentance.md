@@ -5,15 +5,14 @@ description: Turning to God in contrite confession, pleading mercy through Chris
 tags: [repentance, holiness, salvation, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 10
+source_count: 12
 ---
 
 # Repentance
 
 ## Summary
 
-Sources present repentance as humble return to God with confession of sin and plea for mercy: Psalm 51 is the eminent penitential psalm—David pours out his soul for mercy and grace; cleansing is by the blood of Christ applied by faith, not by costly self-satisfaction. John the Baptist's preaching frames repentance as preparation for the kingdom. Complete and Concise Henry, with ToD hub thickening on Psalm 51, form the present evidence spine. McGee on 1–2 Samuel supplies the narrative origin of that penitence: Nathan faces David after Bathsheba and Uriah; David acknowledges sin (2 Samuel 12:13) and must learn that man reaps what he sows; Saul’s cover-up “repentance” before the people (1 Samuel 15:30) is rejected as hypocrisy. McGee on 1 John adds family-fellowship confession (*homologomen*—say the same thing God says about specific sins) with faithful-and-just forgiveness and cleansing (1 John 1:9), against both moral laxity and claims of sinless perfection. McGee on 1–2 Chronicles adds national reformation as return and obedience to the Word of God under Asa, Jehoshaphat, Joash, Hezekiah, and Josiah. McGee on 1–2 Kings supplies the political-history side of the same reforms and failures: Ahab’s partial repentance delays but does not revoke judgment; Israel’s captivity follows refused prophetic calls to turn; Josiah’s seven-step revival (temple, Word, conviction, idolatry, immorality, Passover, further reform) is the late high-water mark before Judah’s fall. McGee on 2 Corinthians 7:10 defines repentance as a change of mind—in turning to Christ by faith, sinners turn from sin (repentance for salvation)—and urges restoration of the repentant offender (ch. 2).
-
+Sources present repentance as humble return to God with confession of sin and plea for mercy: Psalm 51 is the eminent penitential psalm—David pours out his soul for mercy and grace; cleansing is by the blood of Christ applied by faith, not by costly self-satisfaction. John the Baptist's preaching frames repentance as preparation for the kingdom. Complete and Concise Henry, with ToD hub thickening on Psalm 51, form the present evidence spine. McGee on 1–2 Samuel supplies the narrative origin of that penitence: Nathan faces David after Bathsheba and Uriah; David acknowledges sin (2 Samuel 12:13) and must learn that man reaps what he sows; Saul’s cover-up “repentance” before the people (1 Samuel 15:30) is rejected as hypocrisy. McGee on 1 John adds family-fellowship confession (*homologomen*—say the same thing God says about specific sins) with faithful-and-just forgiveness and cleansing (1 John 1:9), against both moral laxity and claims of sinless perfection. McGee on 1–2 Chronicles adds national reformation as return and obedience to the Word of God under Asa, Jehoshaphat, Joash, Hezekiah, and Josiah. McGee on 1–2 Kings supplies the political-history side of the same reforms and failures: Ahab’s partial repentance delays but does not revoke judgment; Israel’s captivity follows refused prophetic calls to turn; Josiah’s seven-step revival (temple, Word, conviction, idolatry, immorality, Passover, further reform) is the late high-water mark before Judah’s fall. McGee on 2 Corinthians 7:10 defines repentance as a change of mind—in turning to Christ by faith, sinners turn from sin (repentance for salvation)—and urges restoration of the repentant offender (ch. 2). Spurgeon’s February *Morning and Evening* adds further applicative edges (meshed into claims below).
 ## Core claims
 
 - David, convinced of his sin, poured out his soul to God in prayer for mercy and grace; backsliding children should return to the Lord who alone can heal them. [[sources/commentaries_english/mhenry-concise/psalms/psalm-51|Matthew Henry Concise on Psalm 51]] [[wiki/passages/Psalm 51|Psalm 51]]
@@ -28,7 +27,13 @@ Sources present repentance as humble return to God with confession of sin and pl
 - McGee on Kings: God grants Jeroboam a warning chance he finally rejects; Ahab’s measure of repentance after Naboth delays judgment without revoking the sentence on his house and Jezebel (1 Kings 21); Israel’s exile reasons include refused prophetic call—“Turn ye from your evil ways” (2 Kings 17:13)—plus doubt and defiance; Hezekiah’s revival and Josiah’s steps (temple repaired, return to the Word, conviction of sin, put away idolatry and immorality, reinstituted Passover, further reformation) show national turning when king and people heed God; Jehu destroys Baal yet stops at Jeroboam’s calves—limited reform is still recognized and rewarded (2 Kings 10:30) without equating it to full return. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|McGee Notes & Outlines on 1–2 Kings]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Kings|McGee Kings source-note]] [[wiki/passages/2 Kings 17|2 Kings 17]]
 - McGee on 2 Corinthians: after discipline of the sinning saint (1 Cor 5), the offender repented and Paul urges the church to restore him—refusal would give Satan an advantage (2:5–11). V. 7:10 is God’s definition of repentance: a change of mind; in turning to Christ by faith, sinners turn from their sin—this is repentance for salvation (secondary theme of ch. 7). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee 2 Corinthians source-note]] [[wiki/passages/2 Corinthians 2|2 Corinthians 2]] [[wiki/passages/2 Corinthians 7|2 Corinthians 7]]
 
+
+- The legally washed need not confess as culprits before the Judge, yet as children they should daily confess sin to the Father and acknowledge iniquity. [[sources/commentaries_english/chspurgeon-mae/february/february-18|Spurgeon Morning and Evening, February 18]]
+- The leper covered all over with disease pictures the sinner who disclaims all self-righteousness and sees total defilement—honest self-judgment that the law’s strange rule still teaches. [[sources/commentaries_english/chspurgeon-mae/february/february-26|Spurgeon Morning and Evening, February 26]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Penitence is not opposed to grace: sources plead mercy and blood, not penance as purchase of pardon.
 - Keep repentance distinct from [[wiki/concepts/Holiness|Holiness]] (ongoing conformity) and [[wiki/concepts/Surrender|Surrender]] (whole-person yielding), though they mesh in experience.
@@ -82,6 +87,9 @@ Sources present repentance as humble return to God with confession of sin and pl
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Chronicles]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Kings.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Kings]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-18|Spurgeon Morning and Evening, February 18]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-26|Spurgeon Morning and Evening, February 26]]
+
 
 ## Open questions
 

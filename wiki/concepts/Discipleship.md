@@ -5,15 +5,14 @@ description: Following Christ through self-denial, cross-bearing, and counted co
 tags: [discipleship, christ, christian-life, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 15
+source_count: 19
 ---
 
 # Discipleship
 
 ## Summary
 
-In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness.
-
+In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - If anyone will come after Christ, he must deny himself, take up his cross, and follow him. [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-16#The Value of the Soul|Matthew Henry on Matthew 16]]
@@ -33,6 +32,13 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 - Mary kept and pondered: memory, affection, and intellect exercised on the things of Christ—discipleship stores and meditates, not only hears once. [[sources/commentaries_english/chspurgeon-mae/january/january-27|Spurgeon Morning and Evening, January 27]]
 - To live is Christ begins at new birth and continues as the pearl of great price for whom lesser things are sold—discipleship is living unto him. [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
 - Do not always hide virtue and zeal under a bushel: it is sin to seek perpetual concealment of what should glorify God before others. [[sources/commentaries_english/chspurgeon-mae/january/january-12|Spurgeon Morning and Evening, January 12]]
+
+
+- A Christian should be a striking likeness of Jesus: the best life of Christ is written in the words and actions of his people. [[sources/commentaries_english/chspurgeon-mae/february/february-11|Spurgeon Morning and Evening, February 11]]
+- Remember first love—the spring when the burden fell and God was seen reconciled—and do not leave that brightness for colder profession. [[sources/commentaries_english/chspurgeon-mae/february/february-11|Spurgeon Morning and Evening, February 11]]
+- True grace ends spiritual monopoly: as soon as one has found Christ, one begins to find others—Andrew first found his own brother. [[sources/commentaries_english/chspurgeon-mae/february/february-19|Spurgeon Morning and Evening, February 19]]
+- You do not make or choose your own cross; divine love appoints it, and cheerful acceptance is discipleship’s path. [[sources/commentaries_english/chspurgeon-mae/february/february-23|Spurgeon Morning and Evening, February 23]]
+- Jonah fled duty and lost the presence and comfort of God’s love; shrinking from assigned work costs enjoyment of the Lord’s nearness. [[sources/commentaries_english/chspurgeon-mae/february/february-25|Spurgeon Morning and Evening, February 25]]
 
 ## Agreements and tensions
 
@@ -88,6 +94,11 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[sources/commentaries_english/chspurgeon-mae/january/january-27|Spurgeon Morning and Evening, January 27]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-12|Spurgeon Morning and Evening, January 12]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-11|Spurgeon Morning and Evening, February 11]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-19|Spurgeon Morning and Evening, February 19]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-23|Spurgeon Morning and Evening, February 23]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-25|Spurgeon Morning and Evening, February 25]]
+
 
 ## Open questions
 

@@ -5,15 +5,14 @@ description: Confident expectation of glory, resurrection, and God's promise und
 tags: [faith, salvation, prophecy, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 14
+source_count: 18
 ---
 
 # Hope
 
 ## Summary
 
-Sources present Christian hope as future-facing confidence grounded in justification, the Spirit, and the risen Christ: peace and rejoicing in hope of glory; present sufferings not worth comparing with glory to be revealed; creation itself groaning toward redemption's hope; and resurrection of Christ guaranteeing believers' own rising. McGee on 1 Corinthians 15 adds gospel-integral resurrection, bodily rising, victory over death, and *Maranatha* expectancy. McGee on 1 Peter calls Peter the apostle of hope and ties living hope to resurrection, reserved inheritance, and joy under trial. McGee on 1–2 Thessalonians organizes the earliest Pauline letters around the coming of Christ as inspiring, working, purifying, comforting, and rousing hope—faith/love/hope producing work/labor/patience, comfort for the dead in Christ, deliverance from wrath, and industrious waiting that refuses idle fanaticism. McGee on 2 Corinthians adds light affliction versus eternal weight of glory, tent-body departure to be with the Lord, and the *bema* where believers’ works are judged for reward. The Spurgeon prophecy/hope theme batch frames free-grace wisdom against false self-sufficiency; Henry's Romans and 1 Corinthians atlases supply the doctrinal spine. McGee on Amos–Obadiah adds OT restoration hope: David’s booth raised (Amos 9:11–15; Acts 15:16–17) and Obadiah’s climax “And the kingdom shall be the Lord’s,” held beside the warning that the day of the LORD is darkness for the unrepentant (Amos 5:18–20). Spurgeon January MAE colors hope with Canaan rest, seeing God, heavenly rest after toil, forward gaze, and the soul’s return to God as only ark of rest.
-
+Sources present Christian hope as future-facing confidence grounded in justification, the Spirit, and the risen Christ: peace and rejoicing in hope of glory; present sufferings not worth comparing with glory to be revealed; creation itself groaning toward redemption's hope; and resurrection of Christ guaranteeing believers' own rising. McGee on 1 Corinthians 15 adds gospel-integral resurrection, bodily rising, victory over death, and *Maranatha* expectancy. McGee on 1 Peter calls Peter the apostle of hope and ties living hope to resurrection, reserved inheritance, and joy under trial. McGee on 1–2 Thessalonians organizes the earliest Pauline letters around the coming of Christ as inspiring, working, purifying, comforting, and rousing hope—faith/love/hope producing work/labor/patience, comfort for the dead in Christ, deliverance from wrath, and industrious waiting that refuses idle fanaticism. McGee on 2 Corinthians adds light affliction versus eternal weight of glory, tent-body departure to be with the Lord, and the *bema* where believers’ works are judged for reward. The Spurgeon prophecy/hope theme batch frames free-grace wisdom against false self-sufficiency; Henry's Romans and 1 Corinthians atlases supply the doctrinal spine. McGee on Amos–Obadiah adds OT restoration hope: David’s booth raised (Amos 9:11–15; Acts 15:16–17) and Obadiah’s climax “And the kingdom shall be the Lord’s,” held beside the warning that the day of the LORD is darkness for the unrepentant (Amos 5:18–20). Spurgeon January MAE colors hope with Canaan rest, seeing God, heavenly rest after toil, forward gaze, and the soul’s return to God as only ark of rest. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - Being justified by faith, the believer has peace with God and is led into hope of the glory of God (Rom 5 fruits of justification). [[sources/commentaries_english/mhenry-concise/romans/chapter-5#Verses 1–5|Matthew Henry Concise on Romans 5]] [[wiki/passages/Romans 5|Romans 5]]
@@ -32,6 +31,13 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - Heaven differs from present toil: no fatigue in the land of the immortal; hope looks to rest after pilgrimage weariness. [[sources/commentaries_english/chspurgeon-mae/january/january-18|Spurgeon Morning and Evening, January 18]]
 - Christian pilgrimage looks forward—crown and goal ahead; the future of sin destroyed, perfected soul, and inheritance with the saints shapes present endurance. [[sources/commentaries_english/chspurgeon-mae/january/january-29|Spurgeon Morning and Evening, January 29]]
 - The dove found no rest outside the ark; the soul learns that earthly things cannot fulfill, and returns to God alone for rest—an evening mercy after the day’s toil. [[sources/commentaries_english/chspurgeon-mae/january/january-29|Spurgeon Morning and Evening, January 29]]
+
+
+- The last journey approaches for every believer—“Arise, and go forth”—and hope faces death’s path not with empty curiosity but with trust in the Forerunner. [[sources/commentaries_english/chspurgeon-mae/february/february-7|Spurgeon Morning and Evening, February 7]]
+- A great voice will say “Come up hither”: the saints’ joyful anticipation is heavenly invitation after the Forerunner, not dread alone. [[sources/commentaries_english/chspurgeon-mae/february/february-7|Spurgeon Morning and Evening, February 7]]
+- “The Lord was there” thwarted Edom’s designs on desolate land; the presence of God is the special security of his people against enemy schemes. [[sources/commentaries_english/chspurgeon-mae/february/february-17|Spurgeon Morning and Evening, February 17]]
+- Zion’s night of rod and travail is not final: good things are in store; under darkness still trust, for love burns and captivity will end. [[sources/commentaries_english/chspurgeon-mae/february/february-24|Spurgeon Morning and Evening, February 24]]
+- Wilderness Israel moved whenever the pillar moved—change without lasting rest below—yet the abiding God is the traveler’s true rest and hope. [[sources/commentaries_english/chspurgeon-mae/february/february-27|Spurgeon Morning and Evening, February 27]]
 
 ## Agreements and tensions
 
@@ -106,6 +112,11 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - [[sources/commentaries_english/chspurgeon-mae/january/january-10|Spurgeon Morning and Evening, January 10]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-18|Spurgeon Morning and Evening, January 18]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-29|Spurgeon Morning and Evening, January 29]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-7|Spurgeon Morning and Evening, February 7]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-17|Spurgeon Morning and Evening, February 17]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-24|Spurgeon Morning and Evening, February 24]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-27|Spurgeon Morning and Evening, February 27]]
+
 
 ## Open questions
 

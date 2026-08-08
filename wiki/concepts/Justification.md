@@ -5,15 +5,14 @@ description: God's free declaration that sinners are righteous by grace through 
 tags: [salvation, faith, christ, redemption]
 status: reviewed
 updated: 2026-08-08
-source_count: 9
+source_count: 11
 ---
 
 # Justification
 
 ## Summary
 
-In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete on Romans 3–4, justification is God’s free, gracious acceptance of guilty sinners through the righteousness of Christ received by faith. It shuts out boasting, does not rest on works of the law, is illustrated in Abraham, and issues in peace with God and a life that still pursues holiness. Spurgeon January MAE applies justification’s comfort: peace from Christ’s perfect righteousness and completeness in him amid felt imperfection.
-
+In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete on Romans 3–4, justification is God’s free, gracious acceptance of guilty sinners through the righteousness of Christ received by faith. It shuts out boasting, does not rest on works of the law, is illustrated in Abraham, and issues in peace with God and a life that still pursues holiness. Spurgeon January MAE applies justification’s comfort: peace from Christ’s perfect righteousness and completeness in him amid felt imperfection. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - It is vain to seek justification by the works of the law; all must plead guilty before God. [[sources/commentaries_english/mhenry-concise/romans/chapter-3#Verses 19, 20|Matthew Henry Concise on Romans 3]]
@@ -27,6 +26,10 @@ In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete o
 
 - The greatest calm of the Christian is to contemplate the perfect righteousness of Christ—“The Lord our Righteousness”—rather than only cataloguing heart corruption; saints are perfect in Christ Jesus. [[sources/commentaries_english/chspurgeon-mae/january/january-31|Spurgeon Morning and Evening, January 31]]
 - Though imperfect in ourselves, we are perfect and complete in Christ Jesus in God’s sight—comfort for those daily taught their lack of perfection. [[sources/commentaries_english/chspurgeon-mae/january/january-28|Spurgeon Morning and Evening, January 28]]
+
+
+- As creatures we owed God obedience and, after breaking the law, a debt to justice we cannot pay; in Christ the Christian owes justice nothing—the debt is paid—yet owes the more to love and grace. [[sources/commentaries_english/chspurgeon-mae/february/february-3|Spurgeon Morning and Evening, February 3]]
+- Believing in Jesus, the soul is actually cleared from guilt, led out of prison, freed from law-bondage and sin’s fetters, and walks as a freeman under “no condemnation.” [[sources/commentaries_english/chspurgeon-mae/february/february-13|Spurgeon Morning and Evening, February 13]]
 
 ## Agreements and tensions
 
@@ -72,6 +75,9 @@ Key loci: Romans 3:19–31; Romans 4; Romans 5:1–11; Romans 6:1–2; Genesis 1
 - [[sources/commentaries_english/chspurgeon-sermons/volume-23/sermon_1347|Spurgeon, Sermon 1347]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-31|Spurgeon Morning and Evening, January 31]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-28|Spurgeon Morning and Evening, January 28]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-3|Spurgeon Morning and Evening, February 3]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-13|Spurgeon Morning and Evening, February 13]]
+
 
 ## Open questions
 

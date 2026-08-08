@@ -5,15 +5,14 @@ description: God's free, undeserved favor in Christ that grounds salvation, just
 tags: [salvation, faith, christ, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 10
+source_count: 15
 ---
 
 # Grace
 
 ## Summary
 
-In the vault sources, grace is God's free favor toward sinners: salvation is received by faith *so that* it may be by grace and the promise sure; justification is free by grace through the redemption in Christ; and even charity and usefulness spring from grace rather than self-generated merit. Spurgeon presses free-grace reception of salvation; Henry maps free justification and grace that superabounds beyond Adam's offense. McGee on 2 Peter adds the epistle’s closing program—grow in grace and in the knowledge of the Lord and Savior Jesus Christ (2 Peter 3:18)—as the believer’s all-important present path under the threat of apostasy and the certainty of the Lord’s coming. McGee on Acts casts the Jerusalem council as law vs grace/liberty: Gentiles are not put under Moses for salvation, while the same grace may permit Jewish believers to keep precepts when not trusted for standing (Paul’s vow, ch. 21). Spurgeon January MAE presses progressive grace: multipoint growth, daily renewal, and humbling that fruitfulness is planted favor not native stock.
-
+In the vault sources, grace is God's free favor toward sinners: salvation is received by faith *so that* it may be by grace and the promise sure; justification is free by grace through the redemption in Christ; and even charity and usefulness spring from grace rather than self-generated merit. Spurgeon presses free-grace reception of salvation; Henry maps free justification and grace that superabounds beyond Adam's offense. McGee on 2 Peter adds the epistle’s closing program—grow in grace and in the knowledge of the Lord and Savior Jesus Christ (2 Peter 3:18)—as the believer’s all-important present path under the threat of apostasy and the certainty of the Lord’s coming. McGee on Acts casts the Jerusalem council as law vs grace/liberty: Gentiles are not put under Moses for salvation, while the same grace may permit Jewish believers to keep precepts when not trusted for standing (Paul’s vow, ch. 21). Spurgeon January MAE presses progressive grace: multipoint growth, daily renewal, and humbling that fruitfulness is planted favor not native stock. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - Salvation is of faith so that it might be by grace, and the promise might be sure to all the seed—not of law-works that would make the promise uncertain. [[sources/commentaries_english/chspurgeon-sermons/volume-23/sermon_1347|Spurgeon, How Is Salvation Received?]] [[wiki/source-notes/Spurgeon Theme Batch — Salvation and Justification|Salvation theme batch]]
@@ -28,6 +27,13 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - Believers must grow in grace—not in one grace only but in all: faith, love, humility, and knowledge of Christ; growth is multipoint, not a single specialty. [[sources/commentaries_english/chspurgeon-mae/january/january-4|Spurgeon Morning and Evening, January 4]]
 - All created life needs renewal; the Christian cannot live on yesterday’s grace but must draw fresh strength from God as trees draw sap day by day. [[sources/commentaries_english/chspurgeon-mae/january/january-2|Spurgeon Morning and Evening, January 2]]
 - God’s people are his vine by grace, not by nature: by nature no better than others, made fruitful only by being planted in a good land by the Lord’s goodness—humbling against pride. [[sources/commentaries_english/chspurgeon-mae/january/january-22|Spurgeon Morning and Evening, January 22]]
+
+
+- Looking back on wilderness leading shows grace that fed, clothed, bore ill manners, opened the rock, and proved sufficient in every trouble. [[sources/commentaries_english/chspurgeon-mae/february/february-4|Spurgeon Morning and Evening, February 4]]
+- Adoption wonder—“Behold, what manner of love”—calls sinners “sons of God” despite what they were and still feel under remaining corruption. [[sources/commentaries_english/chspurgeon-mae/february/february-13|Spurgeon Morning and Evening, February 13]]
+- Jehovah is slow to anger: mercy races on winged steeds while wrath walks with tardy footsteps, for God takes no pleasure in the sinner’s death. [[sources/commentaries_english/chspurgeon-mae/february/february-22|Spurgeon Morning and Evening, February 22]]
+- Showers of blessing are sovereign mercy—only God can speak to the clouds and give the season’s rain to his people. [[sources/commentaries_english/chspurgeon-mae/february/february-24|Spurgeon Morning and Evening, February 24]]
+- Law-thunders and judgment-terrors may drive toward Christ, but final victory is by lovingkindness—as the father ran to the prodigal. [[sources/commentaries_english/chspurgeon-mae/february/february-29|Spurgeon Morning and Evening, February 29]]
 
 ## Agreements and tensions
 
@@ -82,6 +88,12 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - [[sources/commentaries_english/chspurgeon-mae/january/january-4|Spurgeon Morning and Evening, January 4]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-2|Spurgeon Morning and Evening, January 2]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-22|Spurgeon Morning and Evening, January 22]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-4|Spurgeon Morning and Evening, February 4]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-13|Spurgeon Morning and Evening, February 13]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-22|Spurgeon Morning and Evening, February 22]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-24|Spurgeon Morning and Evening, February 24]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-29|Spurgeon Morning and Evening, February 29]]
+
 
 ## Open questions
 

@@ -5,15 +5,14 @@ description: Humble approach to the Father, taught by Christ, helped by the Spir
 tags: [prayer, christ, holy-spirit, discipleship]
 status: reviewed
 updated: 2026-08-08
-source_count: 16
+source_count: 20
 ---
 
 # Prayer
 
 ## Summary
 
-The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1–2 Samuel makes prayer a book-level theme: 1 Samuel opens with Hannah’s cry and 2 Samuel closes with David’s altar prayer; God builds the throne on a woman’s cry, and David’s thanksgiving after the covenant (2 Samuel 7) and refusal of a costless offering (24:24) frame royal devotion. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). McGee on 1–2 Chronicles adds David’s great temple-offering prayer (1 Chronicles 29:10–19) and Solomon’s dedication prayer (2 Chronicles 6) as major OT models of adoration, dependence, and house-of-prayer orientation. McGee on 1–2 Kings supplies the throne-narrative parallels: Solomon’s request for wisdom (1 Kings 3), dedication prayer denying a confined God (1 Kings 8:27), Elijah’s brief Carmel prayer and later collapse, and Hezekiah spreading Assyria’s letter before the Lord (2 Kings 19). McGee on Colossians adds Paul’s thanksgiving and *epignosis* prayer for the church, prayer-agony for unseen believers, and practical perseverance—inhale prayer / exhale thanksgiving, with petition for the gospel door. Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit. Spurgeon’s January *Morning and Evening* adds applicative prayer edges: Scripture’s saturation with prayer, sinking-driven petition, using promises, prayer under slander, recovering lost communion in the closet, and corporate prayer at times of divine stirring.
-
+The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1–2 Samuel makes prayer a book-level theme: 1 Samuel opens with Hannah’s cry and 2 Samuel closes with David’s altar prayer; God builds the throne on a woman’s cry, and David’s thanksgiving after the covenant (2 Samuel 7) and refusal of a costless offering (24:24) frame royal devotion. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). McGee on 1–2 Chronicles adds David’s great temple-offering prayer (1 Chronicles 29:10–19) and Solomon’s dedication prayer (2 Chronicles 6) as major OT models of adoration, dependence, and house-of-prayer orientation. McGee on 1–2 Kings supplies the throne-narrative parallels: Solomon’s request for wisdom (1 Kings 3), dedication prayer denying a confined God (1 Kings 8:27), Elijah’s brief Carmel prayer and later collapse, and Hezekiah spreading Assyria’s letter before the Lord (2 Kings 19). McGee on Colossians adds Paul’s thanksgiving and *epignosis* prayer for the church, prayer-agony for unseen believers, and practical perseverance—inhale prayer / exhale thanksgiving, with petition for the gospel door. Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit. Spurgeon’s January *Morning and Evening* adds applicative prayer edges: Scripture’s saturation with prayer, sinking-driven petition, using promises, prayer under slander, recovering lost communion in the closet, and corporate prayer at times of divine stirring. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - Prayer must be free of hypocrisy: not practiced to be seen by people, but offered secretly to the Father who sees in secret. [[sources/commentaries_english/mhenry-concise/matthew/chapter-6#Verses 5–8|Matthew Henry Concise on Matthew 6]]
@@ -35,6 +34,12 @@ The retrieved sources present prayer as sincere address to God rather than publi
 - When falsely accused, David moved the case into a higher court and gave himself to prayer rather than only self-defense—prayer is the believer’s first court of appeal. [[sources/commentaries_english/chspurgeon-mae/january/january-15|Spurgeon Morning and Evening, January 15]]
 - Where fellowship with Christ was lost (often in the closet by restraining prayer) is the place to seek him again; return to neglected means of communion. [[sources/commentaries_english/chspurgeon-mae/january/january-19|Spurgeon Morning and Evening, January 19]]
 - The church should be prayerful for the kingdom’s advance, and doubly earnest when God stirs Zion—like hearing the going in the mulberry tops as a signal to bestir oneself. [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+
+
+- Jesus “answered” the Father with thanksgiving when no human question is recorded—teaching constant filial fellowship that hears and replies to the Father’s voice. [[sources/commentaries_english/chspurgeon-mae/february/february-5|Spurgeon Morning and Evening, February 5]]
+- From first mercy-seeking prayer through lifelong petitions for grace, assurance, and deliverance, believers accumulate multitudes of answered and still-needed prayers. [[sources/commentaries_english/chspurgeon-mae/february/february-6|Spurgeon Morning and Evening, February 6]]
+- After victory David still enquired of the Lord before the next battle; success must not replace prayerful dependence. [[sources/commentaries_english/chspurgeon-mae/february/february-9|Spurgeon Morning and Evening, February 9]]
+- Prayer is the forerunner of mercy: great mercies in Scripture and experience are ordinarily heralded by supplication. [[sources/commentaries_english/chspurgeon-mae/february/february-19|Spurgeon Morning and Evening, February 19]]
 
 ## Agreements and tensions
 
@@ -111,6 +116,11 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[sources/commentaries_english/chspurgeon-mae/january/january-15|Spurgeon Morning and Evening, January 15]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-19|Spurgeon Morning and Evening, January 19]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-5|Spurgeon Morning and Evening, February 5]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-6|Spurgeon Morning and Evening, February 6]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-9|Spurgeon Morning and Evening, February 9]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-19|Spurgeon Morning and Evening, February 19]]
+
 
 ## Open questions
 

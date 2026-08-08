@@ -5,15 +5,14 @@ description: The promised Comforter who indwells, convicts, guides into truth, a
 tags: [holy-spirit, christ, church, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 14
+source_count: 18
 ---
 
 # Holy Spirit
 
 ## Summary
 
-The sources present the Holy Spirit as another Comforter given by the Father at the Son's request, abiding with the church forever. He is the Spirit of truth who convicts the world, guides disciples into truth, and was poured out at Pentecost in fulfillment of promise. Romans 8 deepens the Spirit’s work as the principle of the new walk, the Spirit of adoption, helper in prayer weakness, and seal of inseparable love. McGee on 1 Corinthians adds Spirit-revealed wisdom versus natural blindness (ch. 2), the body as Spirit’s temple, Trinitarian distribution of gifts, and Spirit baptism placing believers into Christ’s body. McGee on 1 John adds the anointing that teaches believers, indwelling as greater than the world, and the Spirit as witness with water and blood. McGee on 2 Corinthians ties the Comforter vocabulary of comfort to the Spirit who confirms, anoints, seals, and is the earnest; only the Spirit develops Christian character (*metamorphosis*, 3:18); and the Spirit is the General of spiritual warfare with the Word and prayer (ch. 10). McGee on Acts frames the whole book as the ascended Lord at work by the Holy Spirit through the apostles (1:1–2, 8): Pentecost as the Spirit’s “Bethlehem,” Spirit baptism into the body, filling distinct from baptism, known-language tongues, and Spirit-directed mission from Jerusalem to Rome. A local Spanish sermon note adds the pastoral image of the Spirit as oil (anointing). Spurgeon January MAE ties the Spirit to illuminating light, convicting new birth into living for Christ, and sought unction for the church.
-
+The sources present the Holy Spirit as another Comforter given by the Father at the Son's request, abiding with the church forever. He is the Spirit of truth who convicts the world, guides disciples into truth, and was poured out at Pentecost in fulfillment of promise. Romans 8 deepens the Spirit’s work as the principle of the new walk, the Spirit of adoption, helper in prayer weakness, and seal of inseparable love. McGee on 1 Corinthians adds Spirit-revealed wisdom versus natural blindness (ch. 2), the body as Spirit’s temple, Trinitarian distribution of gifts, and Spirit baptism placing believers into Christ’s body. McGee on 1 John adds the anointing that teaches believers, indwelling as greater than the world, and the Spirit as witness with water and blood. McGee on 2 Corinthians ties the Comforter vocabulary of comfort to the Spirit who confirms, anoints, seals, and is the earnest; only the Spirit develops Christian character (*metamorphosis*, 3:18); and the Spirit is the General of spiritual warfare with the Word and prayer (ch. 10). McGee on Acts frames the whole book as the ascended Lord at work by the Holy Spirit through the apostles (1:1–2, 8): Pentecost as the Spirit’s “Bethlehem,” Spirit baptism into the body, filling distinct from baptism, known-language tongues, and Spirit-directed mission from Jerusalem to Rome. A local Spanish sermon note adds the pastoral image of the Spirit as oil (anointing). Spurgeon January MAE ties the Spirit to illuminating light, convicting new birth into living for Christ, and sought unction for the church. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - Christ promises another Comforter, the Spirit of truth, who will abide forever and dwell with and in the disciples. [[sources/commentaries_english/mhenry-complete/volume-5/john/chapter-14#Christ's Consolatory Discourse|Matthew Henry on John 14]]
@@ -32,6 +31,12 @@ The sources present the Holy Spirit as another Comforter given by the Father at 
 - When the Spirit gives spiritual light and opens eyes to God’s glory in Christ’s face, sin is seen truly and grace is known—new-creation light analogous to the first fiat. [[sources/commentaries_english/chspurgeon-mae/january/january-5|Spurgeon Morning and Evening, January 5]]
 - Life unto Christ begins when the Spirit convinces of sin and grace shows the propitiating Savior—the Spirit’s convicting work starts Christian living. [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
 - The church seeks the unction of the Holy One on hearts for kingdom advance—Spirit anointing is prayed for, not presumed. [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+
+
+- After the Father’s self-revelation to the patriarchs and the Son’s incarnate delight of the eyes, the ascended Redeemer’s era is the Spirit’s personal ministry to the church. [[sources/commentaries_english/chspurgeon-mae/february/february-12|Spurgeon Morning and Evening, February 12]]
+- Forgetting the Holy Spirit is common folly and ingratitude; he is essentially good, benevolently patient, quickening and training for the skies. [[sources/commentaries_english/chspurgeon-mae/february/february-16|Spurgeon Morning and Evening, February 16]]
+- The Spirit who authored Scripture alone enlightens right understanding; ask his teaching to be abler teachers and less tossed by every wind of doctrine. [[sources/commentaries_english/chspurgeon-mae/february/february-21|Spurgeon Morning and Evening, February 21]]
+- All the Father and Son have done remains ineffectual to us until the Spirit reveals it in the soul—election itself is a dead letter without his work. [[sources/commentaries_english/chspurgeon-mae/february/february-29|Spurgeon Morning and Evening, February 29]]
 
 ## Agreements and tensions
 
@@ -99,6 +104,11 @@ Key loci: John 14:15–17; John 16:7–14; Acts 1:5–8; Acts 2:1–4; Acts 8–
 - [[sources/commentaries_english/chspurgeon-mae/january/january-5|Spurgeon Morning and Evening, January 5]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-12|Spurgeon Morning and Evening, February 12]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-16|Spurgeon Morning and Evening, February 16]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-21|Spurgeon Morning and Evening, February 21]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-29|Spurgeon Morning and Evening, February 29]]
+
 
 ## Open questions
 

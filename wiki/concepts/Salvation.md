@@ -5,15 +5,14 @@ description: God's free grace in Christ, received by faith and not by works of t
 tags: [salvation, grace, faith, christ]
 status: reviewed
 updated: 2026-08-08
-source_count: 16
+source_count: 20
 ---
 
 # Salvation
 
 ## Summary
 
-Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. McGee on 1 John adds the epistle’s assurance purpose: written so that those who believe may *know* they have eternal life (1 John 5:13), with life exclusively in the Son. McGee on 2 Peter distinguishes objective security of the believer from subjective assurance of salvation, and warns that head-knowledge apostates may know the truth without loving it. McGee on Acts supplies narrative case studies: devout Cornelius still unsaved apart from Christ; three-factor conversion (Spirit, Word, man of God); Philippian jailer gospel in a sentence; Jerusalem council one way of grace for Jew and Gentile; Simon’s empty profession versus Ethiopian heart-faith. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory. Spurgeon January MAE frames salvation as whole-work mercy, Spirit-begun living unto Christ, sure deliverance of all God’s Israel, and inheritance secured in the Mediator.
-
+Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. McGee on 1 John adds the epistle’s assurance purpose: written so that those who believe may *know* they have eternal life (1 John 5:13), with life exclusively in the Son. McGee on 2 Peter distinguishes objective security of the believer from subjective assurance of salvation, and warns that head-knowledge apostates may know the truth without loving it. McGee on Acts supplies narrative case studies: devout Cornelius still unsaved apart from Christ; three-factor conversion (Spirit, Word, man of God); Philippian jailer gospel in a sentence; Jerusalem council one way of grace for Jew and Gentile; Simon’s empty profession versus Ethiopian heart-faith. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory. Spurgeon January MAE frames salvation as whole-work mercy, Spirit-begun living unto Christ, sure deliverance of all God’s Israel, and inheritance secured in the Mediator. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - Salvation comes through the grace of the Lord Jesus Christ as one way for Jew and Gentile alike, not through a law-burden added to the gospel. [[sources/commentaries_english/chspurgeon-sermons/volume-13/sermon_765|Spurgeon, Grace the One Way of Salvation]]
@@ -36,6 +35,12 @@ Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through fai
 - The believer did not always live to Christ; life to Christ begins when the Spirit convinces of sin and grace shows the dying Savior as propitiation—new birth starts the Christ-centered life. [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
 - As at the Red Sea not one of Israel was lost, so the Lord’s saving work secures the whole people he redeems—safety is corporate and complete in his power. [[sources/commentaries_english/chspurgeon-mae/january/january-21|Spurgeon Morning and Evening, January 21]]
 - When Jesus gave himself, he gave the rights and privileges that go with himself; salvation includes obtained inheritance in the Beloved. [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+
+
+- Cities of refuge were near and clear-pathed; so the word of salvation is near—Jesus a present Saviour reached by renouncing merit and laying hold of him. [[sources/commentaries_english/chspurgeon-mae/february/february-4|Spurgeon Morning and Evening, February 4]]
+- Salvation is far more than escape from hell and entrance to heaven: Christ saves his people *from their sins*—a triumph larger than rescue from wrath alone. [[sources/commentaries_english/chspurgeon-mae/february/february-8|Spurgeon Morning and Evening, February 8]]
+- Sins are like a cloud that darkens Jehovah’s face; yet the gospel answers with blotting out, so that the obscuring mass is removed. [[sources/commentaries_english/chspurgeon-mae/february/february-10|Spurgeon Morning and Evening, February 10]]
+- “Salvation is of the Lord”: he alone quickens the dead soul and upholds spiritual life; prayerfulness, graces, and perseverance are his gifts, not self-preservation. [[sources/commentaries_english/chspurgeon-mae/february/february-26|Spurgeon Morning and Evening, February 26]]
 
 ## Agreements and tensions
 
@@ -123,6 +128,11 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-21|Spurgeon Morning and Evening, January 21]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-4|Spurgeon Morning and Evening, February 4]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-8|Spurgeon Morning and Evening, February 8]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-10|Spurgeon Morning and Evening, February 10]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-26|Spurgeon Morning and Evening, February 26]]
+
 
 ## Open questions
 

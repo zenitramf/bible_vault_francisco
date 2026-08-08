@@ -22,7 +22,7 @@ updated: 2026-08-08
 | Month | Day files | Concept mesh | Month inventory note | Notes |
 |---|---:|---|---|---|
 | January | 31 | **done** (2026-08-08) | **removed** | Template month — copy this pattern |
-| February | 29 | pending | exists | Next recommended slice |
+| February | 29 | **done** (2026-08-08) | **removed** | Concept-meshed; 29/29 day files linked |
 | March | 31 | pending | exists | |
 | April | 30 | pending | exists | Theme Enrichment still holds Apr 1 / Apr 22 samples |
 | May | 31 | pending | exists | |
@@ -40,7 +40,6 @@ Each day file has **Morning** and **Evening** sections (two readings per day).
 **Legacy inventory notes to remove as each month meshes:**
 
 ```
-wiki/source-notes/Spurgeon Morning and Evening — February.md
 wiki/source-notes/Spurgeon Morning and Evening — March.md
 wiki/source-notes/Spurgeon Morning and Evening — April.md
 wiki/source-notes/Spurgeon Morning and Evening — May.md
@@ -342,7 +341,7 @@ Use January claim wording as quality bar: short synthesis + citation, not “fir
 |---|---|
 | Recreate month source-note with 28–31 day bullets | User forbade month notes |
 | One wiki page per day | Violates vault MAE rule |
-| Claims without `[[sources/...]]` | Lint fails; unverifiable |
+| Claims without full-path source wikilinks | Lint fails; unverifiable |
 | Only link mornings; ignore evenings | Half the corpus dropped |
 | Dump inventory quotes as “synthesis” | Not meshable knowledge |
 | Overwrite multi-source doctrine with MAE alone | False consensus / overweight devotionals |

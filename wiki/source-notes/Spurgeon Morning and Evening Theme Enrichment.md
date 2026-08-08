@@ -1,7 +1,7 @@
 ---
 type: Source Note
 title: Spurgeon Morning and Evening Theme Enrichment
-description: January meshed into concepts; remaining months still selective/sample or inventory-only.
+description: January–February meshed into concepts; remaining months still selective/sample or inventory-only.
 tags: [prayer, worship, christ, holiness]
 status: developing
 updated: 2026-08-08
@@ -16,6 +16,8 @@ source_path: "sources/commentaries_english/chspurgeon-mae/"
 Selective thematic enrichment from Spurgeon daily devotionals. **Rule:** enrich concepts and hub passages; do not create month inventory notes or one wiki page per calendar day.
 
 **January (2026-08-08):** full-month concept mesh—durable applicative claims on Prayer, Intercession, Christ, Covenant, Grace, Faith, Salvation, Hope, Worship, Holiness, Justification, Atonement, Redemption, Church, Discipleship, Spiritual Warfare, Suffering, Creation, Word of God, and Holy Spirit. The former January month source-note was removed.
+
+**February (2026-08-08):** full-month concept mesh—29/29 day files linked from concept hubs (Atonement, Christ, Covenant, Prayer, Intercession, Salvation, Justification, Faith, Hope, Worship, Grace, Holiness, Discipleship, Suffering, Holy Spirit, Spiritual Warfare, Church, Word of God, Repentance, Redemption). The former February month source-note was removed.
 
 ## Core claims
 

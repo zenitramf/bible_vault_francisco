@@ -5,15 +5,14 @@ description: The Christian life as a real war against the devil, principalities 
 tags: [christ, holy-spirit, holiness, discipleship, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 16
+source_count: 19
 ---
 
 # Spiritual Warfare
 
 ## Summary
 
-The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7). McGee on 2 Corinthians adds Satan’s devices against unforgiving churches, gospel-blinding as the god of this world, attractive false ministers, and a weapons triad (Word, Spirit, prayer) with success measured spiritually not by numbers or money. Spurgeon January MAE adds fowler-snare deliverance (prevention and rescue) and the constant nearness of temptation.
-
+The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7). McGee on 2 Corinthians adds Satan’s devices against unforgiving churches, gospel-blinding as the god of this world, attractive false ministers, and a weapons triad (Word, Spirit, prayer) with success measured spiritually not by numbers or money. Spurgeon January MAE adds fowler-snare deliverance (prevention and rescue) and the constant nearness of temptation. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - The Christian religion is much more a warfare than a profession: believers struggle with the opposition of the powers of darkness, with enemies to fight, a captain to fight for, a banner to fight under, and rules of war by which to govern themselves. [[sources/commentaries_english/mhenry-complete/volume-6/ephesians/chapter-6#The Spiritual Warfare (61 AD)|Matthew Henry on Ephesians 6]]
@@ -33,6 +32,11 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 
 - God delivers from the snare of the fowler in two senses—from entering the snare, and out of it if caught; trouble itself is often the means of deliverance from worse destruction. [[sources/commentaries_english/chspurgeon-mae/january/january-24|Spurgeon Morning and Evening, January 24]]
 - Temptation is never out of reach; David’s idle evening glance warns that home and leisure are not safe zones without watchfulness. [[sources/commentaries_english/chspurgeon-mae/january/january-17|Spurgeon Morning and Evening, January 17]]
+
+
+- Avoid temptation as prayer teaches: do not seek the lion in the thicket; guard the path of obedience so the devil is not invited to tempt. [[sources/commentaries_english/chspurgeon-mae/february/february-9|Spurgeon Morning and Evening, February 9]]
+- A holy character does not avert temptation—Jesus was tempted; if Satan strikes where sparks die on water, how much more where he finds tinder. [[sources/commentaries_english/chspurgeon-mae/february/february-20|Spurgeon Morning and Evening, February 20]]
+- Joseph’s real strength against temptation is divine aid, not boasted valour; true strength is God-given, ending in smoke if claimed as self. [[sources/commentaries_english/chspurgeon-mae/february/february-22|Spurgeon Morning and Evening, February 22]]
 
 ## Agreements and tensions
 
@@ -95,6 +99,10 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-24|Spurgeon Morning and Evening, January 24]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-17|Spurgeon Morning and Evening, January 17]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-9|Spurgeon Morning and Evening, February 9]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-20|Spurgeon Morning and Evening, February 20]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-22|Spurgeon Morning and Evening, February 22]]
+
 
 ## Open questions
 

@@ -5,15 +5,14 @@ description: Conformity to the holy God who calls and sanctifies his people thro
 tags: [holiness, christ, salvation, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 16
+source_count: 19
 ---
 
 # Holiness
 
 ## Summary
 
-In the retrieved sources, holiness is not optional polish for advanced believers but the moral and spiritual calling of those elected and redeemed. God who is holy requires a holy manner of life; Christ prays for his people's sanctification through the truth; the gospel that justifies also aims at a purified people. Romans 6–8 (Henry Concise) ties free justification to dying to sin, walking after the Spirit, and presenting the body to God. McGee on 1 Corinthians distinguishes positional, practical, and permanent sanctification in Christ (1:2, 30) and presses bodily holiness as the Spirit’s temple against Corinthian impurity and lawsuits. McGee on 1 John adds God is light, walking in light with confession, two natures (new nature does not practice sin), and purifying hope of seeing Christ. McGee on 1 Peter ties holiness to Scriptures under trial—spiritual health and maturity, holiness only in Christ, costly blood motive, and separation from fleshly works as living stones and a royal priesthood. McGee on 2 Peter presses addition of graces, holy living in view of the world’s fiery end, and growth in grace and knowledge of Christ as the believer’s present program. McGee on 2–3 John ties holy walk to truth: love inside the boundary of truth, walk in truth as obedience, and conduct conforming to apostolic doctrine—true teachers received, false teachers refused. McGee on 1–2 Thessalonians ties purifying and rousing hope to unblamable holiness at Christ’s coming, Spirit-enabled chastity and brotherly love, whole sanctification of spirit/soul/body, and Spirit sanctification in the salvation spectrum of 2 Thessalonians 2:13–14. McGee on Colossians pours Christ’s fullness into practical life: heavenly mind where the Head is, mortify old-man members, put off/put on garments, forgive as Christ forgave, word of Christ dwelling richly, and holy relationships. Spurgeon January MAE joins positional perfection in Christ with watchfulness against vanity and temptation, and child-obedience under the new covenant rule.
-
+In the retrieved sources, holiness is not optional polish for advanced believers but the moral and spiritual calling of those elected and redeemed. God who is holy requires a holy manner of life; Christ prays for his people's sanctification through the truth; the gospel that justifies also aims at a purified people. Romans 6–8 (Henry Concise) ties free justification to dying to sin, walking after the Spirit, and presenting the body to God. McGee on 1 Corinthians distinguishes positional, practical, and permanent sanctification in Christ (1:2, 30) and presses bodily holiness as the Spirit’s temple against Corinthian impurity and lawsuits. McGee on 1 John adds God is light, walking in light with confession, two natures (new nature does not practice sin), and purifying hope of seeing Christ. McGee on 1 Peter ties holiness to Scriptures under trial—spiritual health and maturity, holiness only in Christ, costly blood motive, and separation from fleshly works as living stones and a royal priesthood. McGee on 2 Peter presses addition of graces, holy living in view of the world’s fiery end, and growth in grace and knowledge of Christ as the believer’s present program. McGee on 2–3 John ties holy walk to truth: love inside the boundary of truth, walk in truth as obedience, and conduct conforming to apostolic doctrine—true teachers received, false teachers refused. McGee on 1–2 Thessalonians ties purifying and rousing hope to unblamable holiness at Christ’s coming, Spirit-enabled chastity and brotherly love, whole sanctification of spirit/soul/body, and Spirit sanctification in the salvation spectrum of 2 Thessalonians 2:13–14. McGee on Colossians pours Christ’s fullness into practical life: heavenly mind where the Head is, mortify old-man members, put off/put on garments, forgive as Christ forgave, word of Christ dwelling richly, and holy relationships. Spurgeon January MAE joins positional perfection in Christ with watchfulness against vanity and temptation, and child-obedience under the new covenant rule. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - Those called by a holy God are commanded to be holy in all manner of conversation, because it is written, "Be ye holy; for I am holy." [[sources/commentaries_english/mhenry-complete/volume-6/1-peter/chapter-1#Sobriety and Holiness; Exhortation to Brotherly Love (66 AD)|Matthew Henry on 1 Peter 1]]
@@ -36,6 +35,11 @@ In the retrieved sources, holiness is not optional polish for advanced believers
 - Turn away eyes from vanity: worldly folly and dissolute mirth are not the only vanities; even lawful things become vanity when they steal the heart from God. [[sources/commentaries_english/chspurgeon-mae/january/january-20|Spurgeon Morning and Evening, January 20]]
 - We are never out of temptation’s reach—at home or abroad, as David’s evening hour shows; holiness stays watchful rather than presuming safety from setting. [[sources/commentaries_english/chspurgeon-mae/january/january-17|Spurgeon Morning and Evening, January 17]]
 - Adoption ends relation to old Adam and law-as-covenant-of-works, yet places the child under a new rule: first duty is cheerful obedience to the Father’s will, establishing rather than voiding the law’s moral demand. [[sources/commentaries_english/chspurgeon-mae/january/january-25|Spurgeon Morning and Evening, January 25]]
+
+
+- What prayer teaches us to shun we must also avoid in action: do not enter the thicket seeking the lion; walk guardedly so as not to invite temptation. [[sources/commentaries_english/chspurgeon-mae/february/february-9|Spurgeon Morning and Evening, February 9]]
+- Many know how to be abased who have not learned how to abound; prosperity is often a severer crucible than adversity and breeds spiritual leanness. [[sources/commentaries_english/chspurgeon-mae/february/february-10|Spurgeon Morning and Evening, February 10]]
+- Contentment is not natural—murmuring grows like thorns—but must be cultivated as wheat is ploughed and sown. [[sources/commentaries_english/chspurgeon-mae/february/february-16|Spurgeon Morning and Evening, February 16]]
 
 ## Agreements and tensions
 
@@ -121,6 +125,10 @@ Key loci: 1 Peter 1:13–21; 1 Peter 2:1–12; 1 Peter 4:1–6; John 17:17; Hebr
 - [[sources/commentaries_english/chspurgeon-mae/january/january-20|Spurgeon Morning and Evening, January 20]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-17|Spurgeon Morning and Evening, January 17]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-25|Spurgeon Morning and Evening, January 25]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-9|Spurgeon Morning and Evening, February 9]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-10|Spurgeon Morning and Evening, February 10]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-16|Spurgeon Morning and Evening, February 16]]
+
 
 ## Open questions
 

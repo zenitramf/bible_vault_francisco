@@ -546,3 +546,7 @@ append_only: true
 ## [2026-08-08] docs | MAE concept-mesh runbook
 
 - Added temporary wiki/campaigns/mae-concept-mesh.md phased subagent runbook (Jan done, Feb–Dec pending). Linked from tracker §4.5, Theme Enrichment, campaigns index.
+
+## [2026-08-08] ingest | Spurgeon MAE February concept mesh
+
+- Meshed February into concepts (20 hubs); removed month inventory note; 29/29 day files linked from concept hubs; Theme Enrichment and tracker §4.5 updated.

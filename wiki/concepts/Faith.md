@@ -5,15 +5,14 @@ description: Trust in God's promise and in Christ; the means of justification an
 tags: [faith, salvation, christ, covenant, stewardship]
 status: reviewed
 updated: 2026-08-08
-source_count: 18
+source_count: 22
 ---
 
 # Faith
 
 ## Summary
 
-In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service.
-
+In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - Abraham believed in the Lord, and God counted it to him for righteousness; this is the pattern of justification by faith without the works of the law. [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-15#God's Covenant with Abram (1913 BC)|Matthew Henry on Genesis 15]] [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-4#The Case of Abraham (58 AD)|Matthew Henry on Romans 4]]
@@ -37,6 +36,14 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - Even when the axe-head seems lost, the Lord can recover what is borrowed and beyond human skill—faith seeks divine help for impossibilities. [[sources/commentaries_english/chspurgeon-mae/january/january-13|Spurgeon Morning and Evening, January 13]]
 - Running is not everything: the plain way of “Believe and live” outpaces climbing hills of self-works and ravines of self-humiliations. [[sources/commentaries_english/chspurgeon-mae/january/january-31|Spurgeon Morning and Evening, January 31]]
 - Satan asked whether Job served God for nought; true faith serves for God himself, not only for gifts—though the question still probes modern hearts. [[sources/commentaries_english/chspurgeon-mae/january/january-22|Spurgeon Morning and Evening, January 22]]
+
+
+- Like Jehoiachin’s daily pension, the Lord’s people receive a daily portion—faith lives on today’s supply rather than hoarding tomorrow’s unborn needs. [[sources/commentaries_english/chspurgeon-mae/february/february-14|Spurgeon Morning and Evening, February 14]]
+- The woman who touched Jesus’ garment shows ignorant yet earnest faith; misery should face mercy openly, not try to steal a cure from a reluctant Lord. [[sources/commentaries_english/chspurgeon-mae/february/february-14|Spurgeon Morning and Evening, February 14]]
+- Hagar’s casual visit to the well contrasts with Isaac’s dwelling there: worldlings cry to God in trouble and forsake him in prosperity; faith abides at the place of revelation. [[sources/commentaries_english/chspurgeon-mae/february/february-17|Spurgeon Morning and Evening, February 17]]
+- No promise is private interpretation—when God opens a well for one saint, all may drink; covenant promises feed the whole family of faith. [[sources/commentaries_english/chspurgeon-mae/february/february-23|Spurgeon Morning and Evening, February 23]]
+- Expectation from God is the believer’s privilege; looking to the world is a poor hope, but drawing on the bank of faith for temporal and spiritual needs is not vain. [[sources/commentaries_english/chspurgeon-mae/february/february-28|Spurgeon Morning and Evening, February 28]]
+- The widow’s meal wasted not though need was threefold: divine faithfulness meets daily necessity with constant supply. [[sources/commentaries_english/chspurgeon-mae/february/february-28|Spurgeon Morning and Evening, February 28]]
 
 ## Agreements and tensions
 
@@ -116,6 +123,11 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/january/january-13|Spurgeon Morning and Evening, January 13]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-31|Spurgeon Morning and Evening, January 31]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-22|Spurgeon Morning and Evening, January 22]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-14|Spurgeon Morning and Evening, February 14]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-17|Spurgeon Morning and Evening, February 17]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-23|Spurgeon Morning and Evening, February 23]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-28|Spurgeon Morning and Evening, February 28]]
+
 
 ## Open questions
 

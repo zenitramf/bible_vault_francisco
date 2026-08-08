@@ -5,15 +5,14 @@ description: Christ's propitiatory, substitutionary work dealing with guilt—th
 tags: [christ, redemption, salvation]
 status: reviewed
 updated: 2026-08-08
-source_count: 9
+source_count: 12
 ---
 
 # Atonement
 
 ## Summary
 
-Vault sources treat atonement as the gospel's central dealing with sin: Christ suffers for our sins and in our stead; God sets him forth as a propitiation through faith in his blood; the cross's darkness and forsaken cry mark atoning agony. Spurgeon names "Redemption or Atonement" the crux of the gospel under attack; Henry's Isaiah 53, Romans 3, and Matthew 27 supply the substitutionary and propitiatory spine. McGee on 1 John presents Christ as advocate and propitiation (mercy-seat basis of mercy) for the sinning believer and as the Son sent as propitiation because God first loved us. **Distinguish from** [[wiki/concepts/Redemption|Redemption]]: redemption stresses *price-paid belonging*; atonement stresses *guilt dealt with* by sacrificial propitiation. Spurgeon January MAE adds sinless-yet-cut-off Messiah language and Abel’s accepted blood offering as type of Christ.
-
+Vault sources treat atonement as the gospel's central dealing with sin: Christ suffers for our sins and in our stead; God sets him forth as a propitiation through faith in his blood; the cross's darkness and forsaken cry mark atoning agony. Spurgeon names "Redemption or Atonement" the crux of the gospel under attack; Henry's Isaiah 53, Romans 3, and Matthew 27 supply the substitutionary and propitiatory spine. McGee on 1 John presents Christ as advocate and propitiation (mercy-seat basis of mercy) for the sinning believer and as the Son sent as propitiation because God first loved us. **Distinguish from** [[wiki/concepts/Redemption|Redemption]]: redemption stresses *price-paid belonging*; atonement stresses *guilt dealt with* by sacrificial propitiation. Spurgeon January MAE adds sinless-yet-cut-off Messiah language and Abel’s accepted blood offering as type of Christ. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - Redemption or atonement is a central doctrine of the gospel and has often been attacked precisely because it is the crux of the gospel. [[sources/commentaries_english/chspurgeon-sermons/volume-26/sermon_1554|Spurgeon, Redemption By Price]] [[wiki/source-notes/Spurgeon Theme Batch — Christ and the Cross|Christ and the Cross batch]]
@@ -26,6 +25,11 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 
 - Messiah was cut off, but not for himself: no original or actual sin defiled him, so death had no claim upon him—he died for others, the sinless for the sinful. [[sources/commentaries_english/chspurgeon-mae/january/january-16|Spurgeon Morning and Evening, January 16]]
 - Abel as shepherd offered blood sacrifice accepted by the Lord—an early type of Christ the better Shepherd and better sacrifice. [[sources/commentaries_english/chspurgeon-mae/january/january-20|Spurgeon Morning and Evening, January 20]]
+
+
+- Without blood-shedding there is no remission: Jewish types never removed sin without blood, and no pardon stands outside Christ’s atoning blood. [[sources/commentaries_english/chspurgeon-mae/february/february-2|Spurgeon Morning and Evening, February 2]]
+- The believer walks where the storm has already spent itself on the Saviour’s head; remaining drops of sorrow fall from clouds of mercy, not for destruction. [[sources/commentaries_english/chspurgeon-mae/february/february-25|Spurgeon Morning and Evening, February 25]]
+- From everlasting Christ covenanted with the Father to pay blood for blood and death for death on behalf of his people—atonement planned before they appeared in time. [[sources/commentaries_english/chspurgeon-mae/february/february-27|Spurgeon Morning and Evening, February 27]]
 
 ## Agreements and tensions
 
@@ -74,6 +78,10 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-16|Spurgeon Morning and Evening, January 16]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-20|Spurgeon Morning and Evening, January 20]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-2|Spurgeon Morning and Evening, February 2]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-25|Spurgeon Morning and Evening, February 25]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-27|Spurgeon Morning and Evening, February 27]]
+
 
 ## Open questions
 

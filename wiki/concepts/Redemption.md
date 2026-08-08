@@ -5,15 +5,14 @@ description: Price-paid deliverance through Christ, foundational for belonging t
 tags: [redemption, christ, salvation]
 status: reviewed
 updated: 2026-08-08
-source_count: 8
+source_count: 9
 ---
 
 # Redemption
 
 ## Summary
 
-In the Spurgeon sermons retrieved for this concept, redemption is the central gospel doctrine of being bought with a price. Redemption is personal and effectual, not a vague generality; it founds the believer's belonging to God and undergirds the whole structure of salvation. Matthew Henry's Romans 3 commentary joins this language by locating free justification in the redemption that is in Christ Jesus, set forth as a propitiation through faith in his blood. McGee on 1 Peter presses the precious-blood price against corruptible silver and gold and asks whether the life lived is worth what Christ paid. Spurgeon January MAE restates purchased belonging: ye are Christ’s by the price of blood.
-
+In the Spurgeon sermons retrieved for this concept, redemption is the central gospel doctrine of being bought with a price. Redemption is personal and effectual, not a vague generality; it founds the believer's belonging to God and undergirds the whole structure of salvation. Matthew Henry's Romans 3 commentary joins this language by locating free justification in the redemption that is in Christ Jesus, set forth as a propitiation through faith in his blood. McGee on 1 Peter presses the precious-blood price against corruptible silver and gold and asks whether the life lived is worth what Christ paid. Spurgeon January MAE restates purchased belonging: ye are Christ’s by the price of blood. February MAE claims are meshed alongside the January applicative edges.
 ## Core claims
 
 - Redemption or atonement is a central doctrine of the gospel and has often been attacked precisely because of that centrality. [[sources/commentaries_english/chspurgeon-sermons/volume-26/sermon_1554|Spurgeon, Redemption By Price]]
@@ -26,6 +25,9 @@ In the Spurgeon sermons retrieved for this concept, redemption is the central go
 - McGee on 1 Peter: redeemed not with corruptible things (silver and gold) but with the precious blood of Christ as of a lamb without blemish (1:18–19); sprinkling of blood pictures Passover on the doorposts (1:2); the life lived must be weighed against the price he paid; Christ’s vicarious, substitutionary death heals from sin—“by whose stripes ye were healed” (2:24; Isa 53). [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 
 - “Ye are Christ’s” by donation, bloody purchase, and dedication—redemption language that makes belonging personal and costly, not abstract. [[sources/commentaries_english/chspurgeon-mae/january/january-12|Spurgeon Morning and Evening, January 12]]
+
+
+- Christ redeems from the wrath to come, yet his triumph is larger: he saves his people from their sins—redemption that liberates from sin’s power as well as penalty. [[sources/commentaries_english/chspurgeon-mae/february/february-8|Spurgeon Morning and Evening, February 8]]
 
 ## Agreements and tensions
 
@@ -84,6 +86,8 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-5|Matthew Henry Concise, Romans 5]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-12|Spurgeon Morning and Evening, January 12]]
+- [[sources/commentaries_english/chspurgeon-mae/february/february-8|Spurgeon Morning and Evening, February 8]]
+
 
 ## Open questions
 
