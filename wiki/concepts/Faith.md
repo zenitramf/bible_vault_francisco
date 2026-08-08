@@ -5,14 +5,14 @@ description: Trust in God's promise and in Christ; the means of justification an
 tags: [faith, salvation, christ, covenant, stewardship]
 status: reviewed
 updated: 2026-08-08
-source_count: 41
+source_count: 48
 ---
 
 # Faith
 
 ## Summary
 
-In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -66,6 +66,15 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - Changeful experience asks “Why is it thus?” yet the Lord leads by a right way; darkness after light is not proof of abandonment. [[sources/commentaries_english/chspurgeon-mae/may/may-22|Spurgeon Morning and Evening, May 22]]
 - Confidence that God will perfect that which concerns us is divine confidence—not self-assured grace, faith, love, or resolution, but the Lord’s finishing work. [[sources/commentaries_english/chspurgeon-mae/may/may-23|Spurgeon Morning and Evening, May 23]]
 - Care even over legitimate objects, if carried to excess, has the nature of sin; anxious care is repeatedly forbidden because it denies trust. [[sources/commentaries_english/chspurgeon-mae/may/may-26|Spurgeon Morning and Evening, May 26]]
+
+- The Christian’s mark is confidence in Christ’s love and returned affection—faith seals “he loved me,” love countersigns the heart. [[sources/commentaries_english/chspurgeon-mae/june/june-5|Spurgeon Morning and Evening, June 5]]
+- Moses’ unbelief looked to outward means when God promised flesh; look to the Creator, not the creature, for promise-fulfillment. [[sources/commentaries_english/chspurgeon-mae/june/june-8|Spurgeon Morning and Evening, June 8]]
+- Never think lightly of unbelief: mistrusting the Father’s love, truth, and faithfulness grieves him and contradicts every promise. [[sources/commentaries_english/chspurgeon-mae/june/june-16|Spurgeon Morning and Evening, June 16]]
+- “The Lord is my light and my salvation” is personal assurance; without light that reveals darkness and longing for Jesus, salvation’s evidence is thin. [[sources/commentaries_english/chspurgeon-mae/june/june-16|Spurgeon Morning and Evening, June 16]]
+- Genuine faith rests on God in Christ reconciling the world and not imputing trespasses—the Word made flesh and the just suffering for the unjust. [[sources/commentaries_english/chspurgeon-mae/june/june-21|Spurgeon Morning and Evening, June 21]]
+- The three champions before the furnace model steadfastness that will not bow to tyranny even in the jaws of death. [[sources/commentaries_english/chspurgeon-mae/june/june-24|Spurgeon Morning and Evening, June 24]]
+- Satan pushes self-scrutiny (“sins too great,” “no faith enough”); the Spirit turns eyes from self to Jesus. [[sources/commentaries_english/chspurgeon-mae/june/june-28|Spurgeon Morning and Evening, June 28]]
+- Buying a field while Chaldeans besiege models faith that acts on God’s word when sight screams folly. [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
 
 ## Agreements and tensions
 
@@ -168,6 +177,13 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/may/may-22|Spurgeon Morning and Evening, May 22]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-23|Spurgeon Morning and Evening, May 23]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-26|Spurgeon Morning and Evening, May 26]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-5|Spurgeon Morning and Evening, June 5]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-8|Spurgeon Morning and Evening, June 8]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-16|Spurgeon Morning and Evening, June 16]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-21|Spurgeon Morning and Evening, June 21]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-24|Spurgeon Morning and Evening, June 24]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-28|Spurgeon Morning and Evening, June 28]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
 
 ## Open questions
 

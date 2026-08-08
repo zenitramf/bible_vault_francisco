@@ -5,7 +5,7 @@ description: Christ's propitiatory, substitutionary work dealing with guilt—th
 tags: [christ, redemption, salvation]
 status: reviewed
 updated: 2026-08-08
-source_count: 20
+source_count: 22
 ---
 
 # Atonement
@@ -39,6 +39,9 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - The hill of comfort is Calvary: consolation is built of the cross, blessing founded on the riven rock, light springing from Golgotha’s midday midnight. [[sources/commentaries_english/chspurgeon-mae/april/april-10|Spurgeon Morning and Evening, April 10]]
 - Precious blood distills from hands, feet, and side—redeeming and atoning efficacy that reconciles, cleanses from all sin, and whitens scarlet guilt. [[sources/commentaries_english/chspurgeon-mae/april/april-16|Spurgeon Morning and Evening, April 16]]
 - The temple veil rent from top to bottom ends the old ordinances as a worn vesture and opens the way: sacrifices finished because fulfilled in the dying Christ. [[sources/commentaries_english/chspurgeon-mae/april/april-19|Spurgeon Morning and Evening, April 19]]
+
+- The Redeemer’s “It is finished” broke the battle-gear of the church’s foes—cross and woes as hammer against our enemy’s bundles. [[sources/commentaries_english/chspurgeon-mae/june/june-11|Spurgeon Morning and Evening, June 11]]
+- Faith’s foundation includes Christ suffering for sin, the just for the unjust, as God was in Christ reconciling the world. [[sources/commentaries_english/chspurgeon-mae/june/june-21|Spurgeon Morning and Evening, June 21]]
 
 ## Agreements and tensions
 
@@ -98,7 +101,8 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - [[sources/commentaries_english/chspurgeon-mae/april/april-10|Spurgeon Morning and Evening, April 10]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-16|Spurgeon Morning and Evening, April 16]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-19|Spurgeon Morning and Evening, April 19]]
-
+- [[sources/commentaries_english/chspurgeon-mae/june/june-11|Spurgeon Morning and Evening, June 11]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-21|Spurgeon Morning and Evening, June 21]]
 
 ## Open questions
 

@@ -5,14 +5,14 @@ description: Christ as the eternal Word made flesh, God with us, and the sufferi
 tags: [christ, redemption, salvation, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 58
+source_count: 65
 ---
 
 # Christ
 
 ## Summary
 
-The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors. Spurgeon January MAE thickens experiential Christology: covenant fullness, prior knowledge of his own, joy of fellowship, purchased belonging, present help, brotherly choice, and received fullness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors. Spurgeon January MAE thickens experiential Christology: covenant fullness, prior knowledge of his own, joy of fellowship, purchased belonging, present help, brotherly choice, and received fullness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -79,6 +79,15 @@ The sources confess Jesus Christ as the eternal Word who was with God and was Go
 - Unlike cold alms from luxury’s leftovers, the Master’s favours are always performed with the love of his heart—morsels dipped in his own dish. [[sources/commentaries_english/chspurgeon-mae/may/may-20|Spurgeon Morning and Evening, May 20]]
 - From every point the Well-beloved is most fair; various trials are meant as fresh standpoints for clearer views of Jesus’ loveliness. [[sources/commentaries_english/chspurgeon-mae/may/may-22|Spurgeon Morning and Evening, May 22]]
 - Though all more or less suffer the disease of sin, the great Physician is able and willing to heal—life in a look, cures both speedy and complete. [[sources/commentaries_english/chspurgeon-mae/may/may-31|Spurgeon Morning and Evening, May 31]]
+
+- Nothing is sweeter than Spirit-led communion with the Saviour’s love-history—a thousand acts of affection open to meditation. [[sources/commentaries_english/chspurgeon-mae/june/june-4|Spurgeon Morning and Evening, June 4]]
+- The Well-beloved was despised and filled with sorrows in the days of his flesh, yet that humiliation belongs to the mystery of godliness. [[sources/commentaries_english/chspurgeon-mae/june/june-4|Spurgeon Morning and Evening, June 4]]
+- True love to Jesus is not self-generated: as planets shine only with the sun’s light, so we love because he first loved us. [[sources/commentaries_english/chspurgeon-mae/june/june-11|Spurgeon Morning and Evening, June 11]]
+- Jesus is altogether ours forever—king, priest, and prophet for us; every new title of the Redeemer is ours to appropriate. [[sources/commentaries_english/chspurgeon-mae/june/june-18|Spurgeon Morning and Evening, June 18]]
+- “My Beloved is mine, and I am his” overflows with assurance and contentment like the twenty-third Psalm. [[sources/commentaries_english/chspurgeon-mae/june/june-19|Spurgeon Morning and Evening, June 19]]
+- The entire person of Jesus is one gem and one seal-impression—complete not only in parts but as a gracious all-glorious whole. [[sources/commentaries_english/chspurgeon-mae/june/june-21|Spurgeon Morning and Evening, June 21]]
+- Christ himself builds his spiritual temple on unchangeable affection, omnipotent grace, and infallible truth. [[sources/commentaries_english/chspurgeon-mae/june/june-22|Spurgeon Morning and Evening, June 22]]
+- Behold his superlative liberality: he has given us his all, not mere crumbs from angels’ tables. [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
 
 ## Agreements and tensions
 
@@ -202,6 +211,13 @@ Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 
 - [[sources/commentaries_english/chspurgeon-mae/may/may-20|Spurgeon Morning and Evening, May 20]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-22|Spurgeon Morning and Evening, May 22]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-31|Spurgeon Morning and Evening, May 31]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-4|Spurgeon Morning and Evening, June 4]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-11|Spurgeon Morning and Evening, June 11]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-18|Spurgeon Morning and Evening, June 18]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-19|Spurgeon Morning and Evening, June 19]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-21|Spurgeon Morning and Evening, June 21]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-22|Spurgeon Morning and Evening, June 22]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
 
 ## Open questions
 

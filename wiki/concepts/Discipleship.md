@@ -5,14 +5,14 @@ description: Following Christ through self-denial, cross-bearing, and counted co
 tags: [discipleship, christ, christian-life, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 34
+source_count: 41
 ---
 
 # Discipleship
 
 ## Summary
 
-In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -57,6 +57,15 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 - Receiving grace makes us God’s servants—unfaithful and unprofitable, yet his: once servants of sin, now wearing his livery and obeying his will. [[sources/commentaries_english/chspurgeon-mae/may/may-17|Spurgeon Morning and Evening, May 17]]
 - Let your citizenship-conduct be as becomes the gospel; the New Jerusalem’s privileges demand a matching walk in the world. [[sources/commentaries_english/chspurgeon-mae/may/may-24|Spurgeon Morning and Evening, May 24]]
 - Perseverance is the badge of true saints: the Christian life is not a beginning only but continuance in God’s ways as long as life lasts. [[sources/commentaries_english/chspurgeon-mae/may/may-26|Spurgeon Morning and Evening, May 26]]
+
+- Jesus is Master as both ruler and teacher: the disciple delights to run on his errands and sit at his feet. [[sources/commentaries_english/chspurgeon-mae/june/june-2|Spurgeon Morning and Evening, June 2]]
+- Even menial potters for the king serve in royal privilege; lowly work for the Lord is still the king’s service. [[sources/commentaries_english/chspurgeon-mae/june/june-3|Spurgeon Morning and Evening, June 3]]
+- Jesus is the great teacher of lowliness—towel and basin, Servant of servants—pride has no place under that biography. [[sources/commentaries_english/chspurgeon-mae/june/june-3|Spurgeon Morning and Evening, June 3]]
+- World conversion advances under God by the zeal of the church; lukewarm hearts win few crowns for the Saviour. [[sources/commentaries_english/chspurgeon-mae/june/june-7|Spurgeon Morning and Evening, June 7]]
+- If God willed, conversion could pass straight to heaven; remaining on earth is for living unto the Lord, not aimless tarrying. [[sources/commentaries_english/chspurgeon-mae/june/june-10|Spurgeon Morning and Evening, June 10]]
+- Simon and Andrew obeyed the call at once; prompt practice of what we hear enriches more than mere attendance at means. [[sources/commentaries_english/chspurgeon-mae/june/june-20|Spurgeon Morning and Evening, June 20]]
+- Knowing Christ is like climbing a mountain: higher stages reveal more of his glory than the valley base imagined. [[sources/commentaries_english/chspurgeon-mae/june/june-25|Spurgeon Morning and Evening, June 25]]
+- It is not office but earnestness that magnifies God—ordinary callings can be lived for him as truly as pulpits. [[sources/commentaries_english/chspurgeon-mae/june/june-27|Spurgeon Morning and Evening, June 27]]
 
 ## Agreements and tensions
 
@@ -131,6 +140,13 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[sources/commentaries_english/chspurgeon-mae/may/may-17|Spurgeon Morning and Evening, May 17]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-24|Spurgeon Morning and Evening, May 24]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-26|Spurgeon Morning and Evening, May 26]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-2|Spurgeon Morning and Evening, June 2]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-3|Spurgeon Morning and Evening, June 3]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-7|Spurgeon Morning and Evening, June 7]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-10|Spurgeon Morning and Evening, June 10]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-20|Spurgeon Morning and Evening, June 20]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-25|Spurgeon Morning and Evening, June 25]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-27|Spurgeon Morning and Evening, June 27]]
 
 ## Open questions
 

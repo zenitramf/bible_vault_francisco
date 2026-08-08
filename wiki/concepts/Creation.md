@@ -5,14 +5,14 @@ description: God's free, ordered work by word and Spirit, establishing his owner
 tags: [creation, holy-spirit, christ]
 status: reviewed
 updated: 2026-08-08
-source_count: 6
+source_count: 7
 ---
 
 # Creation
 
 ## Summary
 
-Matthew Henry's Genesis 1 expositions present creation as the foundation of religion: God freely made heaven and earth by his word, ordered a formless void into a very good world, and formed humanity last as his image-bearing representative. The same sources repeatedly use creation as an analogy for the Spirit's new-creation work in the soul, while insisting that the biblical account is given to lead readers to God rather than to satisfy scientific curiosity. Spurgeon January MAE (Gen 1:4 morning and evening) links creation light to gospel illumination and the Lord’s pleasure in the light he makes. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below).
+Matthew Henry's Genesis 1 expositions present creation as the foundation of religion: God freely made heaven and earth by his word, ordered a formless void into a very good world, and formed humanity last as his image-bearing representative. The same sources repeatedly use creation as an analogy for the Spirit's new-creation work in the soul, while insisting that the biblical account is given to lead readers to God rather than to satisfy scientific curiosity. Spurgeon January MAE (Gen 1:4 morning and evening) links creation light to gospel illumination and the Lord’s pleasure in the light he makes. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). June MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -31,6 +31,8 @@ Matthew Henry's Genesis 1 expositions present creation as the foundation of reli
 - Light is good as the product of God’s fiat; physical light is sweet, but gospel light is more precious—Spirit-given sight of God’s glory in Christ’s face exposes sin and reveals grace. [[sources/commentaries_english/chspurgeon-mae/january/january-5|Spurgeon Morning and Evening, January 5]]
 - God saw the light with complacency; if he has given spiritual light, he regards that light with interest as his handiwork and as likeness to himself who is light. [[sources/commentaries_english/chspurgeon-mae/january/january-5|Spurgeon Morning and Evening, January 5]]
 - The grandeur of the heavens laughs human boasting to scorn: we cannot bind Pleiades or loose Orion; nature humbles the pretender to power. [[sources/commentaries_english/chspurgeon-mae/march/march-21|Spurgeon Morning and Evening, March 21]]
+
+- Light and darkness already divided the first day of creation; so believers must expect changes from prosperity’s sunshine to adversity’s midnight in circumstances and soul. [[sources/commentaries_english/chspurgeon-mae/june/june-1|Spurgeon Morning and Evening, June 1]]
 
 ## Agreements and tensions
 
@@ -81,6 +83,7 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-1|Matthew Henry Concise, Genesis 1]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-5|Spurgeon Morning and Evening, January 5]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-21|Spurgeon Morning and Evening, March 21]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-1|Spurgeon Morning and Evening, June 1]]
 
 ## Open questions
 

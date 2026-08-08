@@ -5,7 +5,7 @@ description: Price-paid deliverance through Christ, foundational for belonging t
 tags: [redemption, christ, salvation]
 status: reviewed
 updated: 2026-08-08
-source_count: 11
+source_count: 13
 ---
 
 # Redemption
@@ -31,6 +31,9 @@ In the Spurgeon sermons retrieved for this concept, redemption is the central go
 
 - By his death Christ purchased not a part but the entire man—spirit, soul, and body—to reign supreme without rival in that triple kingdom. [[sources/commentaries_english/chspurgeon-mae/april/april-6|Spurgeon Morning and Evening, April 6]]
 - Job’s marrow of comfort is the possessive “My” and a living Redeemer: gold in the mine does not enrich; we must have property in a living Christ. [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
+
+- Jesus the Redeemer is altogether ours forever; every office and title of his is held on the church’s behalf. [[sources/commentaries_english/chspurgeon-mae/june/june-18|Spurgeon Morning and Evening, June 18]]
+- He has given us his all—superlative liberality that would not rest until the whole inheritance of the Son was shared. [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
 
 ## Agreements and tensions
 
@@ -92,7 +95,8 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/february/february-8|Spurgeon Morning and Evening, February 8]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-6|Spurgeon Morning and Evening, April 6]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
-
+- [[sources/commentaries_english/chspurgeon-mae/june/june-18|Spurgeon Morning and Evening, June 18]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
 
 ## Open questions
 

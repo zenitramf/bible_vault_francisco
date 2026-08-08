@@ -5,7 +5,7 @@ description: Turning to God in contrite confession, pleading mercy through Chris
 tags: [repentance, holiness, salvation, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 17
+source_count: 19
 ---
 
 # Repentance
@@ -36,6 +36,9 @@ Sources present repentance as humble return to God with confession of sin and pl
 - All the elect confess with one chorus, “All we like sheep have gone astray,” yet each also owns a particular waywardness—“every one to his own way.” [[sources/commentaries_english/chspurgeon-mae/april/april-3|Spurgeon Morning and Evening, April 3]]
 - In confession name sin truly: David said bloodguiltiness, not manslaughter or accident—plain speech before God rather than self-flattering euphemism. [[sources/commentaries_english/chspurgeon-mae/april/april-7|Spurgeon Morning and Evening, April 7]]
 - Even the favoured race is charged as impudent and hardhearted; the best share the accusation, so the heart takes shame where it has been bold in evil. [[sources/commentaries_english/chspurgeon-mae/april/april-28|Spurgeon Morning and Evening, April 28]]
+
+- A deep sight of sin’s heinousness should make Christians lie low before the throne—favoured yet ungrateful, privileged yet fruit-poor. [[sources/commentaries_english/chspurgeon-mae/june/june-14|Spurgeon Morning and Evening, June 14]]
+- Claiming “I also am an Israelite” needs self-search; many usurp the title without the evidence of belonging to God’s Israel. [[sources/commentaries_english/chspurgeon-mae/june/june-6|Spurgeon Morning and Evening, June 6]]
 
 ## Agreements and tensions
 
@@ -100,7 +103,8 @@ Sources present repentance as humble return to God with confession of sin and pl
 - [[sources/commentaries_english/chspurgeon-mae/april/april-3|Spurgeon Morning and Evening, April 3]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-7|Spurgeon Morning and Evening, April 7]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-28|Spurgeon Morning and Evening, April 28]]
-
+- [[sources/commentaries_english/chspurgeon-mae/june/june-6|Spurgeon Morning and Evening, June 6]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-14|Spurgeon Morning and Evening, June 14]]
 
 ## Open questions
 

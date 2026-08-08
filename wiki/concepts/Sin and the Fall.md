@@ -5,14 +5,14 @@ description: Humanity's fall through temptation and transgression, bringing mise
 tags: [salvation, christ, creation, holiness]
 status: reviewed
 updated: 2026-08-08
-source_count: 10
+source_count: 11
 ---
 
 # Sin and the Fall
 
 ## Summary
 
-Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the tempter assaults our first parents; they transgress; God sentences serpent, woman, and man; man is driven from the garden. Romans adds universal guilt and dominion of sin, and Adam's offense exposing mankind to condemnation—set against the free gift in Christ. This page holds fall and sin's entrance; ongoing personal sin and penitence mesh with [[wiki/concepts/Repentance|Repentance]] and [[wiki/concepts/Holiness|Holiness]]. Creation remains the "very good" backdrop on [[wiki/concepts/Creation|Creation]]. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges.
+Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the tempter assaults our first parents; they transgress; God sentences serpent, woman, and man; man is driven from the garden. Romans adds universal guilt and dominion of sin, and Adam's offense exposing mankind to condemnation—set against the free gift in Christ. This page holds fall and sin's entrance; ongoing personal sin and penitence mesh with [[wiki/concepts/Repentance|Repentance]] and [[wiki/concepts/Holiness|Holiness]]. Creation remains the "very good" backdrop on [[wiki/concepts/Creation|Creation]]. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -27,6 +27,8 @@ Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the t
 - The king’s garden recalls paradise ruined: sin drove out Adam’s children to thorn-bearing ground; remember the fall as thy fall and weep that the head of the race so treated the Lord of love. [[sources/commentaries_english/chspurgeon-mae/april/april-12|Spurgeon Morning and Evening, April 12]]
 - Idolatry vexes the spiritual Israel as it did ancient Israel—self and mammon struggle to seat themselves on the heart’s throne. [[sources/commentaries_english/chspurgeon-mae/may/may-4|Spurgeon Morning and Evening, May 4]]
 - Sin has already cost enough: do not step again into the den of the old serpent who once poisoned all the veins. [[sources/commentaries_english/chspurgeon-mae/may/may-30|Spurgeon Morning and Evening, May 30]]
+
+- Sin has already blinded, deafened, and turned the heart from the Redeemer—reason enough to hate evil as a mortal enemy. [[sources/commentaries_english/chspurgeon-mae/june/june-7|Spurgeon Morning and Evening, June 7]]
 
 ## Agreements and tensions
 
@@ -72,6 +74,7 @@ Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the t
 - [[sources/commentaries_english/chspurgeon-mae/april/april-12|Spurgeon Morning and Evening, April 12]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-4|Spurgeon Morning and Evening, May 4]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-30|Spurgeon Morning and Evening, May 30]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-7|Spurgeon Morning and Evening, June 7]]
 
 ## Open questions
 

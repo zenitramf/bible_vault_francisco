@@ -5,14 +5,14 @@ description: Christ's rising from the dead as gospel foundation and the believer
 tags: [christ, salvation, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 9
+source_count: 10
 ---
 
 # Resurrection
 
 ## Summary
 
-Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article of Christianity: Christ's rising is proved; without it there would be no justification or salvation; those united to Christ by faith are assured of their own rising. McGee’s Notes & Outlines thicken the same chapter: resurrection is integral to the gospel facts, bodily (*anastasis nekron*), opposed to Greek denials, and climaxed in momentary change and steadfast labor (15:58). McGee on 1 Thessalonians 4 adds the pastoral question of believers who die before the Lord’s coming for His own: sleep is of the body only, Jesus died a substitutionary death, the dead in Christ rise first, and the living are caught up (*harpazo*). McGee on Acts makes resurrection the center of gospel preaching from Pentecost through Paul’s defenses (Ps 16; Sanhedrin split; arrest for preaching the rising). Devotional enrichment adds pastoral warmth—Jesus once crucified, dead, and buried now sits on the throne of glory. Matthew 27's sealed tomb prepares proof of resurrection at the close of the passion narrative. May MAE claims are meshed alongside earlier applicative edges.
+Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article of Christianity: Christ's rising is proved; without it there would be no justification or salvation; those united to Christ by faith are assured of their own rising. McGee’s Notes & Outlines thicken the same chapter: resurrection is integral to the gospel facts, bodily (*anastasis nekron*), opposed to Greek denials, and climaxed in momentary change and steadfast labor (15:58). McGee on 1 Thessalonians 4 adds the pastoral question of believers who die before the Lord’s coming for His own: sleep is of the body only, Jesus died a substitutionary death, the dead in Christ rise first, and the living are caught up (*harpazo*). McGee on Acts makes resurrection the center of gospel preaching from Pentecost through Paul’s defenses (Ps 16; Sanhedrin split; arrest for preaching the rising). Devotional enrichment adds pastoral warmth—Jesus once crucified, dead, and buried now sits on the throne of glory. Matthew 27's sealed tomb prepares proof of resurrection at the close of the passion narrative. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -28,6 +28,8 @@ Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article o
 - Through death he destroyed him that had the power of death; the child of God need not fear dying when Calvary has broken the devil’s hold. [[sources/commentaries_english/chspurgeon-mae/april/april-20|Spurgeon Morning and Evening, April 20]]
 - Once crucified, dead, and buried, Jesus sits on the throne of glory by undisputed right—exaltation following the grave as the church’s representative joy. [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon Morning and Evening, April 22]]
 - The whole system of Christianity rests on “Christ is risen from the dead”; if he is not risen, preaching and faith are vain and we remain in our sins. [[sources/commentaries_english/chspurgeon-mae/may/may-10|Spurgeon Morning and Evening, May 10]]
+
+- Saints who sleep in Jesus are with him; the soul is not insensible but before the throne until the resurrection hope is complete. [[sources/commentaries_english/chspurgeon-mae/june/june-29|Spurgeon Morning and Evening, June 29]]
 
 ## Agreements and tensions
 
@@ -78,6 +80,7 @@ Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article o
 - [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-20|Spurgeon Morning and Evening, April 20]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-10|Spurgeon Morning and Evening, May 10]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-29|Spurgeon Morning and Evening, June 29]]
 
 ## Open questions
 

@@ -5,14 +5,14 @@ description: God's free, undeserved favor in Christ that grounds salvation, just
 tags: [salvation, faith, christ, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 26
+source_count: 29
 ---
 
 # Grace
 
 ## Summary
 
-In the vault sources, grace is God's free favor toward sinners: salvation is received by faith *so that* it may be by grace and the promise sure; justification is free by grace through the redemption in Christ; and even charity and usefulness spring from grace rather than self-generated merit. Spurgeon presses free-grace reception of salvation; Henry maps free justification and grace that superabounds beyond Adam's offense. McGee on 2 Peter adds the epistle’s closing program—grow in grace and in the knowledge of the Lord and Savior Jesus Christ (2 Peter 3:18)—as the believer’s all-important present path under the threat of apostasy and the certainty of the Lord’s coming. McGee on Acts casts the Jerusalem council as law vs grace/liberty: Gentiles are not put under Moses for salvation, while the same grace may permit Jewish believers to keep precepts when not trusted for standing (Paul’s vow, ch. 21). Spurgeon January MAE presses progressive grace: multipoint growth, daily renewal, and humbling that fruitfulness is planted favor not native stock. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+In the vault sources, grace is God's free favor toward sinners: salvation is received by faith *so that* it may be by grace and the promise sure; justification is free by grace through the redemption in Christ; and even charity and usefulness spring from grace rather than self-generated merit. Spurgeon presses free-grace reception of salvation; Henry maps free justification and grace that superabounds beyond Adam's offense. McGee on 2 Peter adds the epistle’s closing program—grow in grace and in the knowledge of the Lord and Savior Jesus Christ (2 Peter 3:18)—as the believer’s all-important present path under the threat of apostasy and the certainty of the Lord’s coming. McGee on Acts casts the Jerusalem council as law vs grace/liberty: Gentiles are not put under Moses for salvation, while the same grace may permit Jewish believers to keep precepts when not trusted for standing (Paul’s vow, ch. 21). Spurgeon January MAE presses progressive grace: multipoint growth, daily renewal, and humbling that fruitfulness is planted favor not native stock. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -48,6 +48,10 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - The Father draws with cords of love, yet we are slow to run; he would have simpler faith and care cast on him, while we still cling like Martha. [[sources/commentaries_english/chspurgeon-mae/may/may-20|Spurgeon Morning and Evening, May 20]]
 - Tasting that the Lord is gracious is special mercy, not a general fact about every human; examine whether that taste is yours. [[sources/commentaries_english/chspurgeon-mae/may/may-21|Spurgeon Morning and Evening, May 21]]
 - The more grace we have, the less we think of ourselves—grace like light reveals impurity; eminent saints scarcely know what to compare themselves to. [[sources/commentaries_english/chspurgeon-mae/may/may-27|Spurgeon Morning and Evening, May 27]]
+
+- Sarah’s miracle son was contrary to nature; so a barren, withered sinner receiving the indwelling Spirit is grace beyond ordinary rules. [[sources/commentaries_english/chspurgeon-mae/june/june-15|Spurgeon Morning and Evening, June 15]]
+- The wilderness well of Beer was promise-backed water; saints still need fresh supplies of heavenly grace gathered to the same gracious Giver. [[sources/commentaries_english/chspurgeon-mae/june/june-17|Spurgeon Morning and Evening, June 17]]
+- Things that can be shaken must not own the Christian’s store of value; grace anchors in what cannot be shaken. [[sources/commentaries_english/chspurgeon-mae/june/june-22|Spurgeon Morning and Evening, June 22]]
 
 ## Agreements and tensions
 
@@ -118,6 +122,9 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - [[sources/commentaries_english/chspurgeon-mae/may/may-20|Spurgeon Morning and Evening, May 20]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-21|Spurgeon Morning and Evening, May 21]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-27|Spurgeon Morning and Evening, May 27]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-15|Spurgeon Morning and Evening, June 15]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-17|Spurgeon Morning and Evening, June 17]]
+- [[sources/commentaries_english/chspurgeon-mae/june/june-22|Spurgeon Morning and Evening, June 22]]
 
 ## Open questions
 
