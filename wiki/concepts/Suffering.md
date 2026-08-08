@@ -5,14 +5,14 @@ description: Affliction under God's hand—permitted trial, present groan, and h
 tags: [faith, christian-life, holiness, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 13
+source_count: 18
 ---
 
 # Suffering
 
 ## Summary
 
-Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble. Spurgeon January MAE applies suffering to care-casting under personal divine care, evening visitations of the Lord’s hand, and inscrutable providence in success and failure. February MAE claims are meshed alongside the January applicative edges.
+Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble. Spurgeon January MAE applies suffering to care-casting under personal divine care, evening visitations of the Lord’s hand, and inscrutable providence in success and failure. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
 ## Core claims
 
 - Job's afflictions began from the malice of Satan by the Lord's permission for wise and holy purposes; God has the devil in a chain. [[sources/commentaries_english/mhenry-concise/job/chapter-1#Verses 6–12|Matthew Henry Concise on Job 1]] [[wiki/passages/Job 1|Job 1]]
@@ -33,6 +33,12 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - Providence balances scales: when trials fill one side, consolations fill the other; empty trial and empty comfort often move together. [[sources/commentaries_english/chspurgeon-mae/february/february-12|Spurgeon Morning and Evening, February 12]]
 - Trials develop graces that summer never shows—faith looks grand in winter, hope like a star only in night’s adversity. [[sources/commentaries_english/chspurgeon-mae/february/february-18|Spurgeon Morning and Evening, February 18]]
 - Who comforts like God? Human comforters may fail the melancholy saint, but the God of all comfort reaches where charm cannot. [[sources/commentaries_english/chspurgeon-mae/february/february-20|Spurgeon Morning and Evening, February 20]]
+- Anything is better than dead calm of indifference: the north wind of trouble may be sanctified to draw forth the perfume of graces. [[sources/commentaries_english/chspurgeon-mae/march/march-1|Spurgeon Morning and Evening, March 1]]
+- God says, “I have chosen thee in the furnace of affliction”—chosen status is comfort in the flame, not exemption from it. [[sources/commentaries_english/chspurgeon-mae/march/march-3|Spurgeon Morning and Evening, March 3]]
+- God’s people were never chosen to untried ease; they enter the kingdom through much tribulation by design, not by accident. [[sources/commentaries_english/chspurgeon-mae/march/march-8|Spurgeon Morning and Evening, March 8]]
+- Rachel named Ben-oni (son of sorrow) while Jacob named Benjamin (son of the right hand): faith can read mercy on the bright side of trial. [[sources/commentaries_english/chspurgeon-mae/march/march-8|Spurgeon Morning and Evening, March 8]]
+- Man is of few days and full of trouble—a mournful fact that loosens grip on earthly things and humbles prosperity’s boast. [[sources/commentaries_english/chspurgeon-mae/march/march-10|Spurgeon Morning and Evening, March 10]]
+- The Captain of salvation was made perfect through suffering; members must not expect a dainty lap when the Head wore thorns. [[sources/commentaries_english/chspurgeon-mae/march/march-29|Spurgeon Morning and Evening, March 29]]
 
 ## Agreements and tensions
 
@@ -97,7 +103,11 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - [[sources/commentaries_english/chspurgeon-mae/february/february-12|Spurgeon Morning and Evening, February 12]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-18|Spurgeon Morning and Evening, February 18]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-20|Spurgeon Morning and Evening, February 20]]
-
+- [[sources/commentaries_english/chspurgeon-mae/march/march-1|Spurgeon Morning and Evening, March 1]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-3|Spurgeon Morning and Evening, March 3]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-8|Spurgeon Morning and Evening, March 8]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-10|Spurgeon Morning and Evening, March 10]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-29|Spurgeon Morning and Evening, March 29]]
 
 ## Open questions
 

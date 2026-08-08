@@ -5,14 +5,14 @@ description: God-initiated relationship sealed by promise and obligation, with C
 tags: [covenant, christ, salvation, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 16
+source_count: 18
 ---
 
 # Covenant
 
 ## Summary
 
-In the retrieved commentary sources, covenant is a God-initiated bond in which God binds himself by promise and draws a people into mutual relation with himself. Abrahamic covenant materials emphasize God as all-sufficient, the promise of seed and land, and faith as the way of receiving righteousness. Later prophetic and New Testament sources present a new covenant mediated by Christ, written on the heart, and superior to the Sinai administration without cancelling the Abrahamic promise. McGee on 1–2 Samuel supplies the primary Davidic-covenant locus (2 Samuel 7): God builds David a house, promises king and kingdom in his line, and the NT trajectory (Matthew 1:1; Luke 1:32–33; Acts 2; Romans 1:3; Revelation 22:16) rests on that oath. McGee on 1 Chronicles 17 adds the Davidic house promise in the temple-desire context as Chronicles’ religious reading of the same covenant material. McGee on 1–2 Kings shows the Davidic standard (“as David his father”) measuring every king, division delayed for David’s sake, Athaliah’s attempt on David’s line, and final Judah captivity under Babylon when the nation exhausts patience—covenant fidelity and failure on the throne. Spurgeon January MAE adds covenant-in-Christ language: Christ as covenant substance and gift, “I will be their God” as full satisfaction, and joint inheritance under the federal head. February MAE claims are meshed alongside the January applicative edges.
+In the retrieved commentary sources, covenant is a God-initiated bond in which God binds himself by promise and draws a people into mutual relation with himself. Abrahamic covenant materials emphasize God as all-sufficient, the promise of seed and land, and faith as the way of receiving righteousness. Later prophetic and New Testament sources present a new covenant mediated by Christ, written on the heart, and superior to the Sinai administration without cancelling the Abrahamic promise. McGee on 1–2 Samuel supplies the primary Davidic-covenant locus (2 Samuel 7): God builds David a house, promises king and kingdom in his line, and the NT trajectory (Matthew 1:1; Luke 1:32–33; Acts 2; Romans 1:3; Revelation 22:16) rests on that oath. McGee on 1 Chronicles 17 adds the Davidic house promise in the temple-desire context as Chronicles’ religious reading of the same covenant material. McGee on 1–2 Kings shows the Davidic standard (“as David his father”) measuring every king, division delayed for David’s sake, Athaliah’s attempt on David’s line, and final Judah captivity under Babylon when the nation exhausts patience—covenant fidelity and failure on the throne. Spurgeon January MAE adds covenant-in-Christ language: Christ as covenant substance and gift, “I will be their God” as full satisfaction, and joint inheritance under the federal head. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
 ## Core claims
 
 - Covenant begins with God making himself known and taking the initiative to establish relationship, not with human negotiation. [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-17#The Covenant with Abraham Renewed (1898 BC)|Matthew Henry on Genesis 17]]
@@ -39,6 +39,9 @@ In the retrieved commentary sources, covenant is a God-initiated bond in which G
 - Sovereign electing choice and everlasting love predate the earth’s foundations; covenant benefits are of vast antiquity, not a late afterthought. [[sources/commentaries_english/chspurgeon-mae/february/february-2|Spurgeon Morning and Evening, February 2]]
 - “I will never leave thee, nor forsake thee” is an all-conquering covenant word that slays doubt and fear when grasped by faith. [[sources/commentaries_english/chspurgeon-mae/february/february-21|Spurgeon Morning and Evening, February 21]]
 - Christ’s everlasting compact with the Father—blood for blood, suffering for suffering—grounds the covenant of grace before history unfolds. [[sources/commentaries_english/chspurgeon-mae/february/february-27|Spurgeon Morning and Evening, February 27]]
+- Chosen in the furnace of affliction is covenant speech: election does not cancel the furnace but claims the sufferer inside it. [[sources/commentaries_english/chspurgeon-mae/march/march-3|Spurgeon Morning and Evening, March 3]]
+- All the children of God share one fatherhood by faith in Christ Jesus—Little-faith is no less a covenant child than Great-heart. [[sources/commentaries_english/chspurgeon-mae/march/march-18|Spurgeon Morning and Evening, March 18]]
+- As the Father loved the Son, so Jesus loves his people with everlasting love—covenant affection without temporal beginning. [[sources/commentaries_english/chspurgeon-mae/march/march-18|Spurgeon Morning and Evening, March 18]]
 
 ## Agreements and tensions
 
@@ -116,7 +119,8 @@ Primary passages recur across the sources above, but this concept page does not 
 - [[sources/commentaries_english/chspurgeon-mae/february/february-2|Spurgeon Morning and Evening, February 2]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-21|Spurgeon Morning and Evening, February 21]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-27|Spurgeon Morning and Evening, February 27]]
-
+- [[sources/commentaries_english/chspurgeon-mae/march/march-3|Spurgeon Morning and Evening, March 3]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-18|Spurgeon Morning and Evening, March 18]]
 
 ## Open questions
 

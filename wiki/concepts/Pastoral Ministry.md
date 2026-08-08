@@ -4,15 +4,15 @@ title: Pastoral Ministry
 description: Qualified oversight and feeding of Christ's flock for the church's edification (1 Tim 3; 1 Pet 5; Jn 21:16).
 tags: [pastoral-ministry, church, christ, discipleship]
 status: reviewed
-updated: 2026-08-07
-source_count: 7
+updated: 2026-08-08
+source_count: 8
 ---
 
 # Pastoral Ministry
 
 ## Summary
 
-Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn. McGee’s Notes & Outlines add a local-church order frame for the Pastorals, elder/bishop identity, and the charge to preach the Word and hold sound doctrine in days of apostasy. McGee on 1 Peter 5 adds Peter as fellow elder (not superior), the feed-not-for-money charge, the self-spending “racket” test, example leadership, and the Chief Shepherd’s crown. McGee on 2–3 John shows the elder as truth-guardian: refuse partnership with false teachers; commend hospitality to true teachers; confront Diotrephes-type preeminence that rules or ruins.
+Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn. McGee’s Notes & Outlines add a local-church order frame for the Pastorals, elder/bishop identity, and the charge to preach the Word and hold sound doctrine in days of apostasy. McGee on 1 Peter 5 adds Peter as fellow elder (not superior), the feed-not-for-money charge, the self-spending “racket” test, example leadership, and the Chief Shepherd’s crown. McGee on 2–3 John shows the elder as truth-guardian: refuse partnership with false teachers; commend hospitality to true teachers; confront Diotrephes-type preeminence that rules or ruins. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below).
 
 ## Core claims
 
@@ -30,8 +30,11 @@ Pastoral ministry in the sources is an office of feeding, overseeing, and exempl
 - In apostasy the good minister warns by teaching the words of the faith; “Preach the word” is the last-days rallying cry; the Scriptures alone fit the man of God for every good work. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
 - The ideal New Testament church is orderly, sound in doctrine, pure in life, and ready for every good work (Titus). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
 - McGee on 2–3 John: “the elder” (*presbuteros*) is seniority and/or office—John the apostle. Love must stay inside the boundary of truth; do not house or greet teachers who lack Christ’s doctrine (2 John 10–11). Commend and support true teachers (3 John 5–8). Diotrephes loved preeminence—refused John, slandered apostles, blocked missionaries, expelled hosts; evil deeds express false doctrine; opposite of example leadership (3 John 9–11). [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
+- Paul counted it great privilege to preach the gospel, not drudgery; yet success humbled him—the fuller the vessel, the deeper it sinks. [[sources/commentaries_english/chspurgeon-mae/march/march-2|Spurgeon Morning and Evening, March 2]]
 
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - McGee agrees on character qualifications and feeding under Christ; he adds a sharper local-vs-invisible church contrast, elder/bishop identity (noting some good men disagree), and a dispensational last-days/apostasy frame for the preaching charge.
 - Phase 5.2.2: Gómez’s church-duty section complements English commentary on feeding and qualifications; expand later from Hebrews 13 and 1 Thessalonians 5 without inventing local polity.
@@ -77,6 +80,7 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1–2 Timothy, Titus, Philemon]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-2|Spurgeon Morning and Evening, March 2]]
 
 ## Open questions
 

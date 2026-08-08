@@ -550,3 +550,7 @@ append_only: true
 ## [2026-08-08] ingest | Spurgeon MAE February concept mesh
 
 - Meshed February into concepts (20 hubs); removed month inventory note; 29/29 day files linked from concept hubs; Theme Enrichment and tracker §4.5 updated.
+
+## [2026-08-08] ingest | Spurgeon MAE March concept mesh
+
+- Meshed March into concepts; removed month inventory note; 31 day files linked from concept hubs.

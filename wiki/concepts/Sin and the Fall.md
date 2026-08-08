@@ -4,15 +4,15 @@ title: Sin and the Fall
 description: Humanity's fall through temptation and transgression, bringing misery, exclusion from Eden, and the need of the promised Seed (Gen 3; Rom 3; Rom 5).
 tags: [salvation, christ, creation, holiness]
 status: reviewed
-updated: 2026-07-16
-source_count: 5
+updated: 2026-08-08
+source_count: 7
 ---
 
 # Sin and the Fall
 
 ## Summary
 
-Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the tempter assaults our first parents; they transgress; God sentences serpent, woman, and man; man is driven from the garden. Romans adds universal guilt and dominion of sin, and Adam's offense exposing mankind to condemnation—set against the free gift in Christ. This page holds fall and sin's entrance; ongoing personal sin and penitence mesh with [[wiki/concepts/Repentance|Repentance]] and [[wiki/concepts/Holiness|Holiness]]. Creation remains the "very good" backdrop on [[wiki/concepts/Creation|Creation]].
+Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the tempter assaults our first parents; they transgress; God sentences serpent, woman, and man; man is driven from the garden. Romans adds universal guilt and dominion of sin, and Adam's offense exposing mankind to condemnation—set against the free gift in Christ. This page holds fall and sin's entrance; ongoing personal sin and penitence mesh with [[wiki/concepts/Repentance|Repentance]] and [[wiki/concepts/Holiness|Holiness]]. Creation remains the "very good" backdrop on [[wiki/concepts/Creation|Creation]]. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below).
 
 ## Core claims
 
@@ -21,8 +21,12 @@ Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the t
 - All mankind are under sin's guilt as a burden and under sin's dominion as slaves; it is vain to seek justification by works of the law. [[sources/commentaries_english/mhenry-concise/romans/chapter-3|Matthew Henry Concise on Romans 3]] [[wiki/passages/Romans 3|Romans 3]]
 - Adam's offense exposed mankind to condemnation; the free gift of righteousness through Jesus Christ brings a safer standing than the misery Adam introduced. [[sources/commentaries_english/mhenry-concise/romans/chapter-5|Matthew Henry Concise on Romans 5]] [[wiki/passages/Romans 5|Romans 5]]
 - Faith's Checkbook opens the year with the enmity between the serpent and the woman's seed—the gospel promise amid the fall. [[sources/commentaries_english/chspurgeon-fcb/january/january-1|Spurgeon, January 1]] [[wiki/source-notes/Spurgeon Faith's Checkbook Theme Enrichment|FCB theme enrichment]]
+- Sin is “exceeding sinful”: light thoughts of sin dull the conscience that conversion first made tender. [[sources/commentaries_english/chspurgeon-mae/march/march-11|Spurgeon Morning and Evening, March 11]]
+- A haughty heart is safely the sign of coming destruction—pride as the prelude of the fall’s ongoing pattern. [[sources/commentaries_english/chspurgeon-mae/march/march-6|Spurgeon Morning and Evening, March 6]]
 
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Complete and Concise Henry agree closely on the fall narrative; Complete is longer and more annotated.
 - Keep the historical fall claim of the sources distinct from purely symbolic readings the sources do not teach; pastoral applications (chaos of the soul, etc.) on Creation should not erase Gen 3 as real transgression.
@@ -59,6 +63,8 @@ Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the t
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-3|Matthew Henry Concise, Romans 3]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-5|Matthew Henry Concise, Romans 5]]
 - [[sources/commentaries_english/chspurgeon-fcb/january/january-1|Spurgeon, Faith's Checkbook January 1]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-6|Spurgeon Morning and Evening, March 6]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-11|Spurgeon Morning and Evening, March 11]]
 
 ## Open questions
 

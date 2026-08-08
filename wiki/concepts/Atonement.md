@@ -5,14 +5,14 @@ description: Christ's propitiatory, substitutionary work dealing with guilt—th
 tags: [christ, redemption, salvation]
 status: reviewed
 updated: 2026-08-08
-source_count: 12
+source_count: 16
 ---
 
 # Atonement
 
 ## Summary
 
-Vault sources treat atonement as the gospel's central dealing with sin: Christ suffers for our sins and in our stead; God sets him forth as a propitiation through faith in his blood; the cross's darkness and forsaken cry mark atoning agony. Spurgeon names "Redemption or Atonement" the crux of the gospel under attack; Henry's Isaiah 53, Romans 3, and Matthew 27 supply the substitutionary and propitiatory spine. McGee on 1 John presents Christ as advocate and propitiation (mercy-seat basis of mercy) for the sinning believer and as the Son sent as propitiation because God first loved us. **Distinguish from** [[wiki/concepts/Redemption|Redemption]]: redemption stresses *price-paid belonging*; atonement stresses *guilt dealt with* by sacrificial propitiation. Spurgeon January MAE adds sinless-yet-cut-off Messiah language and Abel’s accepted blood offering as type of Christ. February MAE claims are meshed alongside the January applicative edges.
+Vault sources treat atonement as the gospel's central dealing with sin: Christ suffers for our sins and in our stead; God sets him forth as a propitiation through faith in his blood; the cross's darkness and forsaken cry mark atoning agony. Spurgeon names "Redemption or Atonement" the crux of the gospel under attack; Henry's Isaiah 53, Romans 3, and Matthew 27 supply the substitutionary and propitiatory spine. McGee on 1 John presents Christ as advocate and propitiation (mercy-seat basis of mercy) for the sinning believer and as the Son sent as propitiation because God first loved us. **Distinguish from** [[wiki/concepts/Redemption|Redemption]]: redemption stresses *price-paid belonging*; atonement stresses *guilt dealt with* by sacrificial propitiation. Spurgeon January MAE adds sinless-yet-cut-off Messiah language and Abel’s accepted blood offering as type of Christ. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
 ## Core claims
 
 - Redemption or atonement is a central doctrine of the gospel and has often been attacked precisely because it is the crux of the gospel. [[sources/commentaries_english/chspurgeon-sermons/volume-26/sermon_1554|Spurgeon, Redemption By Price]] [[wiki/source-notes/Spurgeon Theme Batch — Christ and the Cross|Christ and the Cross batch]]
@@ -30,6 +30,10 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - Without blood-shedding there is no remission: Jewish types never removed sin without blood, and no pardon stands outside Christ’s atoning blood. [[sources/commentaries_english/chspurgeon-mae/february/february-2|Spurgeon Morning and Evening, February 2]]
 - The believer walks where the storm has already spent itself on the Saviour’s head; remaining drops of sorrow fall from clouds of mercy, not for destruction. [[sources/commentaries_english/chspurgeon-mae/february/february-25|Spurgeon Morning and Evening, February 25]]
 - From everlasting Christ covenanted with the Father to pay blood for blood and death for death on behalf of his people—atonement planned before they appeared in time. [[sources/commentaries_english/chspurgeon-mae/february/february-27|Spurgeon Morning and Evening, February 27]]
+- Bloody sweat in Gethsemane proves how tremendous the weight of sin was when it crushed the Saviour into drops of blood. [[sources/commentaries_english/chspurgeon-mae/march/march-23|Spurgeon Morning and Evening, March 23]]
+- Jesus was numbered with the transgressors so he might the better become their advocate—identified with clients he would save. [[sources/commentaries_english/chspurgeon-mae/march/march-30|Spurgeon Morning and Evening, March 30]]
+- With his stripes we are healed: the Roman scourge’s lacerations belong to the price of our healing in the suffering Servant. [[sources/commentaries_english/chspurgeon-mae/march/march-31|Spurgeon Morning and Evening, March 31]]
+- Whether active or passive, Christ’s righteousness is a sweet savour to the Most High—accepted fragrance in which his people are received. [[sources/commentaries_english/chspurgeon-mae/march/march-28|Spurgeon Morning and Evening, March 28]]
 
 ## Agreements and tensions
 
@@ -81,7 +85,10 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - [[sources/commentaries_english/chspurgeon-mae/february/february-2|Spurgeon Morning and Evening, February 2]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-25|Spurgeon Morning and Evening, February 25]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-27|Spurgeon Morning and Evening, February 27]]
-
+- [[sources/commentaries_english/chspurgeon-mae/march/march-23|Spurgeon Morning and Evening, March 23]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-28|Spurgeon Morning and Evening, March 28]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-30|Spurgeon Morning and Evening, March 30]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-31|Spurgeon Morning and Evening, March 31]]
 
 ## Open questions
 

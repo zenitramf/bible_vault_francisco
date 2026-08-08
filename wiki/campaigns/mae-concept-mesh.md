@@ -23,7 +23,7 @@ updated: 2026-08-08
 |---|---:|---|---|---|
 | January | 31 | **done** (2026-08-08) | **removed** | Template month — copy this pattern |
 | February | 29 | **done** (2026-08-08) | **removed** | Concept-meshed; 29/29 day files linked |
-| March | 31 | pending | exists | |
+| March | 31 | **done** (2026-08-08) | **removed** | Concept-meshed; 31/31 day files linked |
 | April | 30 | pending | exists | Theme Enrichment still holds Apr 1 / Apr 22 samples |
 | May | 31 | pending | exists | |
 | June | 30 | pending | exists | |
@@ -40,7 +40,6 @@ Each day file has **Morning** and **Evening** sections (two readings per day).
 **Legacy inventory notes to remove as each month meshes:**
 
 ```
-wiki/source-notes/Spurgeon Morning and Evening — March.md
 wiki/source-notes/Spurgeon Morning and Evening — April.md
 wiki/source-notes/Spurgeon Morning and Evening — May.md
 wiki/source-notes/Spurgeon Morning and Evening — June.md
@@ -52,7 +51,7 @@ wiki/source-notes/Spurgeon Morning and Evening — November.md
 wiki/source-notes/Spurgeon Morning and Evening — December.md
 ```
 
-(January already removed.)
+(January–March already removed.)
 
 **Related:**
 

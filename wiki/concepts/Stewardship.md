@@ -5,14 +5,14 @@ description: Entrusted life, ministry, and goods—first giving oneself to the L
 tags: [discipleship, church, pastoral-ministry, christian-life, worship]
 status: reviewed
 updated: 2026-08-08
-source_count: 6
+source_count: 8
 ---
 
 # Stewardship
 
 ## Summary
 
-Sources present stewardship as faithful handling of what God entrusts: Macedonian generosity begins with giving themselves to the Lord; grace is the root of good works and charity; ministry is a stewardship committed by God with an expectation of faithfulness; considering the poor is blessed. Spurgeon's church batch and the 1 Timothy 1:12 devotional supply ministry-stewardship language; Henry's 2 Corinthians 8 and FCB samples supply material generosity; McGee on 2 Corinthians 8–9 frames Christian giving as grace (not demanded tithe rule), person-before-gift, cheerful/hilarious giving, and never out-giving God; Ringo Ayala's Spanish-language sermon on "De quién es tu dinero" grounds stewardship in God's ownership by creation, preservation, and provision, with the believer as steward and giving as a return of what God first gave.
+Sources present stewardship as faithful handling of what God entrusts: Macedonian generosity begins with giving themselves to the Lord; grace is the root of good works and charity; ministry is a stewardship committed by God with an expectation of faithfulness; considering the poor is blessed. Spurgeon's church batch and the 1 Timothy 1:12 devotional supply ministry-stewardship language; Henry's 2 Corinthians 8 and FCB samples supply material generosity; McGee on 2 Corinthians 8–9 frames Christian giving as grace (not demanded tithe rule), person-before-gift, cheerful/hilarious giving, and never out-giving God; Ringo Ayala's Spanish-language sermon on "De quién es tu dinero" grounds stewardship in God's ownership by creation, preservation, and provision, with the believer as steward and giving as a return of what God first gave. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below).
 
 ## Core claims
 
@@ -25,8 +25,12 @@ Sources present stewardship as faithful handling of what God entrusts: Macedonia
 - Faithfulness, not equal amounts, is the required mark of stewardship (1 Cor 4:2): faithful in little and much, in abundance and trial; stewardship will be reviewed at the Bema (Rom 14:12) for time, health, gifts, family, service, opportunities, and resources. [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala#16:23|Ringo Ayala on 1 Cor 4:2]] [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala#19:25|Ringo Ayala on Rom 14:12]] [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
 - God is not needy and is not served by human hands as if He lacked anything (Ps 50:10–12); giving is therefore not a favor done to God but a privilege and grateful participation in His work. [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala#25:17|Ringo Ayala on Ps 50:10–12]] [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
 - McGee on 2 Corinthians 8–9: Giving is a grace; God wants the person before He asks for the gift—Macedonians first gave themselves (8:5). Principles not rules; the tithe is not demanded; Christ gave all—not a tenth (8:9). Give to a specific cause (poor saints in Jerusalem), reputable messengers (Titus and company), and in reality not mere promise. Give generously; do not give grudgingly—give hilariously (9:7); God gives the grace to give; give bountifully (probably more than a tithe); give according to need; we can never out-give God (9:15). [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|McGee Notes & Outlines on 2 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 2 Corinthians|McGee 2 Corinthians source-note]] [[wiki/passages/2 Corinthians 8|2 Corinthians 8]] [[wiki/passages/2 Corinthians 9|2 Corinthians 9]]
+- “Remember the poor”: God could make all his children rich, yet allows poverty for wise ends—care for the poor is gospel duty, not optional charity only. [[sources/commentaries_english/chspurgeon-mae/march/march-17|Spurgeon Morning and Evening, March 17]]
+- Whole-hearted work prospers under God’s moral order; idle men receive harvests of thistles, not buried treasure without digging. [[sources/commentaries_english/chspurgeon-mae/march/march-15|Spurgeon Morning and Evening, March 15]]
 
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Material stewardship and ministry stewardship share the same root: nothing is owned absolutely; all is entrusted.
 - Do not reduce stewardship to fundraising technique; sources prioritize self-giving to the Lord and grace-enabled generosity.
@@ -72,6 +76,8 @@ Sources present stewardship as faithful handling of what God entrusts: Macedonia
 - [[sources/commentaries_english/chspurgeon-fcb/january/january-22|Spurgeon, Faith's Checkbook January 22]]
 - [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala (transcript)]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 Corinthians]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-15|Spurgeon Morning and Evening, March 15]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-17|Spurgeon Morning and Evening, March 17]]
 
 ## Open questions
 

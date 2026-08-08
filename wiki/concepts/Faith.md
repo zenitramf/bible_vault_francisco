@@ -5,14 +5,14 @@ description: Trust in God's promise and in Christ; the means of justification an
 tags: [faith, salvation, christ, covenant, stewardship]
 status: reviewed
 updated: 2026-08-08
-source_count: 22
+source_count: 26
 ---
 
 # Faith
 
 ## Summary
 
-In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges.
+In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
 ## Core claims
 
 - Abraham believed in the Lord, and God counted it to him for righteousness; this is the pattern of justification by faith without the works of the law. [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-15#God's Covenant with Abram (1913 BC)|Matthew Henry on Genesis 15]] [[sources/commentaries_english/mhenry-complete/volume-6/romans/chapter-4#The Case of Abraham (58 AD)|Matthew Henry on Romans 4]]
@@ -44,6 +44,11 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - No promise is private interpretation—when God opens a well for one saint, all may drink; covenant promises feed the whole family of faith. [[sources/commentaries_english/chspurgeon-mae/february/february-23|Spurgeon Morning and Evening, February 23]]
 - Expectation from God is the believer’s privilege; looking to the world is a poor hope, but drawing on the bank of faith for temporal and spiritual needs is not vain. [[sources/commentaries_english/chspurgeon-mae/february/february-28|Spurgeon Morning and Evening, February 28]]
 - The widow’s meal wasted not though need was threefold: divine faithfulness meets daily necessity with constant supply. [[sources/commentaries_english/chspurgeon-mae/february/february-28|Spurgeon Morning and Evening, February 28]]
+- Faith is the foot of the soul for the road of the commandments—love may speed the step, but without faith the chariot loses its wheels. [[sources/commentaries_english/chspurgeon-mae/march/march-7|Spurgeon Morning and Evening, March 7]]
+- It is better to trust in the Lord than to put confidence in man; looking to visible help mars the noble simplicity of reliance on God. [[sources/commentaries_english/chspurgeon-mae/march/march-7|Spurgeon Morning and Evening, March 7]]
+- Little-faith and Great-heart are equally God’s children by faith in Christ Jesus; courage does not grade adoption. [[sources/commentaries_english/chspurgeon-mae/march/march-18|Spurgeon Morning and Evening, March 18]]
+- Faith is the only way to obtain blessings—prayer draws answers only as the earnest prayer of the one who believes. [[sources/commentaries_english/chspurgeon-mae/march/march-19|Spurgeon Morning and Evening, March 19]]
+- The Syrophoenician gained comfort by thinking great thoughts of Christ: abundance on the Master’s table means crumbs enough for dogs. [[sources/commentaries_english/chspurgeon-mae/march/march-27|Spurgeon Morning and Evening, March 27]]
 
 ## Agreements and tensions
 
@@ -127,7 +132,10 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/february/february-17|Spurgeon Morning and Evening, February 17]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-23|Spurgeon Morning and Evening, February 23]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-28|Spurgeon Morning and Evening, February 28]]
-
+- [[sources/commentaries_english/chspurgeon-mae/march/march-7|Spurgeon Morning and Evening, March 7]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-18|Spurgeon Morning and Evening, March 18]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-19|Spurgeon Morning and Evening, March 19]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-27|Spurgeon Morning and Evening, March 27]]
 
 ## Open questions
 

@@ -5,14 +5,14 @@ description: God's free declaration that sinners are righteous by grace through 
 tags: [salvation, faith, christ, redemption]
 status: reviewed
 updated: 2026-08-08
-source_count: 11
+source_count: 12
 ---
 
 # Justification
 
 ## Summary
 
-In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete on Romans 3–4, justification is God’s free, gracious acceptance of guilty sinners through the righteousness of Christ received by faith. It shuts out boasting, does not rest on works of the law, is illustrated in Abraham, and issues in peace with God and a life that still pursues holiness. Spurgeon January MAE applies justification’s comfort: peace from Christ’s perfect righteousness and completeness in him amid felt imperfection. February MAE claims are meshed alongside the January applicative edges.
+In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete on Romans 3–4, justification is God’s free, gracious acceptance of guilty sinners through the righteousness of Christ received by faith. It shuts out boasting, does not rest on works of the law, is illustrated in Abraham, and issues in peace with God and a life that still pursues holiness. Spurgeon January MAE applies justification’s comfort: peace from Christ’s perfect righteousness and completeness in him amid felt imperfection. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
 ## Core claims
 
 - It is vain to seek justification by the works of the law; all must plead guilty before God. [[sources/commentaries_english/mhenry-concise/romans/chapter-3#Verses 19, 20|Matthew Henry Concise on Romans 3]]
@@ -30,6 +30,7 @@ In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete o
 
 - As creatures we owed God obedience and, after breaking the law, a debt to justice we cannot pay; in Christ the Christian owes justice nothing—the debt is paid—yet owes the more to love and grace. [[sources/commentaries_english/chspurgeon-mae/february/february-3|Spurgeon Morning and Evening, February 3]]
 - Believing in Jesus, the soul is actually cleared from guilt, led out of prison, freed from law-bondage and sin’s fetters, and walks as a freeman under “no condemnation.” [[sources/commentaries_english/chspurgeon-mae/february/february-13|Spurgeon Morning and Evening, February 13]]
+- God accepts his people with the sweet savour of the Redeemer’s merits—active obedience and passive suffering equally fragrant before him. [[sources/commentaries_english/chspurgeon-mae/march/march-28|Spurgeon Morning and Evening, March 28]]
 
 ## Agreements and tensions
 
@@ -77,7 +78,7 @@ Key loci: Romans 3:19–31; Romans 4; Romans 5:1–11; Romans 6:1–2; Genesis 1
 - [[sources/commentaries_english/chspurgeon-mae/january/january-28|Spurgeon Morning and Evening, January 28]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-3|Spurgeon Morning and Evening, February 3]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-13|Spurgeon Morning and Evening, February 13]]
-
+- [[sources/commentaries_english/chspurgeon-mae/march/march-28|Spurgeon Morning and Evening, March 28]]
 
 ## Open questions
 

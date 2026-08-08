@@ -5,14 +5,14 @@ description: Following Christ through self-denial, cross-bearing, and counted co
 tags: [discipleship, christ, christian-life, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 19
+source_count: 27
 ---
 
 # Discipleship
 
 ## Summary
 
-In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges.
+In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges.
 ## Core claims
 
 - If anyone will come after Christ, he must deny himself, take up his cross, and follow him. [[sources/commentaries_english/mhenry-complete/volume-5/matthew/chapter-16#The Value of the Soul|Matthew Henry on Matthew 16]]
@@ -39,6 +39,14 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 - True grace ends spiritual monopoly: as soon as one has found Christ, one begins to find others—Andrew first found his own brother. [[sources/commentaries_english/chspurgeon-mae/february/february-19|Spurgeon Morning and Evening, February 19]]
 - You do not make or choose your own cross; divine love appoints it, and cheerful acceptance is discipleship’s path. [[sources/commentaries_english/chspurgeon-mae/february/february-23|Spurgeon Morning and Evening, February 23]]
 - Jonah fled duty and lost the presence and comfort of God’s love; shrinking from assigned work costs enjoyment of the Lord’s nearness. [[sources/commentaries_english/chspurgeon-mae/february/february-25|Spurgeon Morning and Evening, February 25]]
+- Promote Christian wakefulness by holy conversation; good discourse, as Christian and Hopeful learned, prevents drowsiness on the way. [[sources/commentaries_english/chspurgeon-mae/march/march-5|Spurgeon Morning and Evening, March 5]]
+- “Love thy neighbour” forbids coveting the rich neighbour’s estate and hard thoughts—contentment and goodwill are neighbour-love’s duty. [[sources/commentaries_english/chspurgeon-mae/march/march-12|Spurgeon Morning and Evening, March 12]]
+- Those who work with all their heart prosper in the moral universe; half-hearted labour reaps thistles, not harvests from God. [[sources/commentaries_english/chspurgeon-mae/march/march-15|Spurgeon Morning and Evening, March 15]]
+- The believer walks as a stranger with God in a world that forgets him—pilgrim fellowship with the Lord who is a stranger in his own world. [[sources/commentaries_english/chspurgeon-mae/march/march-16|Spurgeon Morning and Evening, March 16]]
+- Peacemakers approach the perfect man in Christ; blessedness on earth requires this seventh beatitude’s practice of peace. [[sources/commentaries_english/chspurgeon-mae/march/march-17|Spurgeon Morning and Evening, March 17]]
+- Christ’s love for the church is the golden example husbands and disciples must imitate—his life is the transcript of the virtue he teaches. [[sources/commentaries_english/chspurgeon-mae/march/march-20|Spurgeon Morning and Evening, March 20]]
+- If partakers with Jesus in his shame, we shall share the lustre of his appearing; vital union means cross now and glory then. [[sources/commentaries_english/chspurgeon-mae/march/march-26|Spurgeon Morning and Evening, March 26]]
+- All the disciples forsook him and fled—frailty of believers left to themselves; sheep flee when the wolf comes unless held by grace. [[sources/commentaries_english/chspurgeon-mae/march/march-27|Spurgeon Morning and Evening, March 27]]
 
 ## Agreements and tensions
 
@@ -98,7 +106,14 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[sources/commentaries_english/chspurgeon-mae/february/february-19|Spurgeon Morning and Evening, February 19]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-23|Spurgeon Morning and Evening, February 23]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-25|Spurgeon Morning and Evening, February 25]]
-
+- [[sources/commentaries_english/chspurgeon-mae/march/march-5|Spurgeon Morning and Evening, March 5]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-12|Spurgeon Morning and Evening, March 12]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-15|Spurgeon Morning and Evening, March 15]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-16|Spurgeon Morning and Evening, March 16]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-17|Spurgeon Morning and Evening, March 17]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-20|Spurgeon Morning and Evening, March 20]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-26|Spurgeon Morning and Evening, March 26]]
+- [[sources/commentaries_english/chspurgeon-mae/march/march-27|Spurgeon Morning and Evening, March 27]]
 
 ## Open questions
 
