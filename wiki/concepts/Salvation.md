@@ -5,7 +5,7 @@ description: God's free grace in Christ, received by faith and not by works of t
 tags: [salvation, grace, faith, christ]
 status: reviewed
 updated: 2026-08-08
-source_count: 24
+source_count: 26
 ---
 
 # Salvation
@@ -46,6 +46,10 @@ Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through fai
 - No neutralities exist in religion: we belong either under Immanuel’s banner or as vassals of Satan—“To whom belongest thou?” [[sources/commentaries_english/chspurgeon-mae/march/march-12|Spurgeon Morning and Evening, March 12]]
 - The lepers’ question “Why sit we here until we die?” presses the unsaved: remain and perish, or go to Jesus where alone there is hope. [[sources/commentaries_english/chspurgeon-mae/march/march-13|Spurgeon Morning and Evening, March 13]]
 - The weary dove returns to the ark as her only rest; Noah pulls her in—picture of the soul received into Christ when strength is spent. [[sources/commentaries_english/chspurgeon-mae/march/march-13|Spurgeon Morning and Evening, March 13]]
+
+- Spring’s opening buds warn the unsaved: it is time to seek the Lord—open the heart in tune with nature’s awakening to receive him. [[sources/commentaries_english/chspurgeon-mae/april/april-1|Spurgeon Morning and Evening, April 1]]
+- The decisive question is not doctrine, ceremony, or a form of experience, but whether you have come to the blood of sprinkling—guilty and helpless, brought by the Spirit. [[sources/commentaries_english/chspurgeon-mae/april/april-17|Spurgeon Morning and Evening, April 17]]
+- The quickened sinner focuses desire on one good—“O that I knew where I might find Him”—earthly gold cannot satisfy when guilt awakens the search for Christ. [[sources/commentaries_english/chspurgeon-mae/april/april-17|Spurgeon Morning and Evening, April 17]]
 
 ## Agreements and tensions
 
@@ -141,6 +145,9 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/march/march-6|Spurgeon Morning and Evening, March 6]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-12|Spurgeon Morning and Evening, March 12]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-13|Spurgeon Morning and Evening, March 13]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-1|Spurgeon Morning and Evening, April 1]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-17|Spurgeon Morning and Evening, April 17]]
+
 
 ## Open questions
 

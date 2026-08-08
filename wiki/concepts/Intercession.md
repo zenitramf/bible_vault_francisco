@@ -5,7 +5,7 @@ description: Spirit-helped prayer within believers and Christ's mediatorial pray
 tags: [prayer, holy-spirit, christ]
 status: reviewed
 updated: 2026-08-08
-source_count: 9
+source_count: 10
 ---
 
 # Intercession
@@ -29,6 +29,8 @@ Intercession in the sources is not merely "praying hard," but divine help in pra
 - Intercessory prayer is among the sweetest God hears, for Christ’s own prayer is of this character—incense with no grain for himself; the more our petitions resemble his, the sweeter they are. [[sources/commentaries_english/chspurgeon-mae/february/february-6|Spurgeon Morning and Evening, February 6]]
 - Christ’s high-priestly will—“Father, I will that they also… be with me”—secures the believer’s presence with him beyond death’s reach. [[sources/commentaries_english/chspurgeon-mae/march/march-22|Spurgeon Morning and Evening, March 22]]
 - In the hour of his own trial he interposed a word of power for his disciples’ freedom, interceding care that sets the sheep free while he is taken. [[sources/commentaries_english/chspurgeon-mae/march/march-26|Spurgeon Morning and Evening, March 26]]
+
+- Who is even at the right hand of God: the exalted Christ continues representative ministry—his session securing the people’s acceptance and honour. [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
 
 ## Agreements and tensions
 
@@ -71,6 +73,8 @@ Intercession in the sources is not merely "praying hard," but divine help in pra
 - [[sources/commentaries_english/chspurgeon-mae/february/february-6|Spurgeon Morning and Evening, February 6]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-22|Spurgeon Morning and Evening, March 22]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-26|Spurgeon Morning and Evening, March 26]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
+
 
 ## Open questions
 

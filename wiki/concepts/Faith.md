@@ -5,7 +5,7 @@ description: Trust in God's promise and in Christ; the means of justification an
 tags: [faith, salvation, christ, covenant, stewardship]
 status: reviewed
 updated: 2026-08-08
-source_count: 26
+source_count: 32
 ---
 
 # Faith
@@ -49,6 +49,13 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - Little-faith and Great-heart are equally God’s children by faith in Christ Jesus; courage does not grade adoption. [[sources/commentaries_english/chspurgeon-mae/march/march-18|Spurgeon Morning and Evening, March 18]]
 - Faith is the only way to obtain blessings—prayer draws answers only as the earnest prayer of the one who believes. [[sources/commentaries_english/chspurgeon-mae/march/march-19|Spurgeon Morning and Evening, March 19]]
 - The Syrophoenician gained comfort by thinking great thoughts of Christ: abundance on the Master’s table means crumbs enough for dogs. [[sources/commentaries_english/chspurgeon-mae/march/march-27|Spurgeon Morning and Evening, March 27]]
+
+- The Holy Ghost can make the Christian independent of outward circumstances—bright within when dark without, peaceful when earth’s pillars shake, even sweetened by death’s approach. [[sources/commentaries_english/chspurgeon-mae/april/april-8|Spurgeon Morning and Evening, April 8]]
+- In shipwreck storm one man stayed calm because a secret Friend stood by him; the Lord still despatches courage that steadies others by a word of good cheer. [[sources/commentaries_english/chspurgeon-mae/april/april-10|Spurgeon Morning and Evening, April 10]]
+- Faith is not a light touch on the Substitute but leaning heavily—as the hand on the bullock transferred guilt—contact that rests full weight on Christ made sin for us. [[sources/commentaries_english/chspurgeon-mae/april/april-13|Spurgeon Morning and Evening, April 13]]
+- Rahab’s faith was simple, firm, and obedient: the scarlet line seemed trivial, yet she dared not omit the commanded token of promised preservation. [[sources/commentaries_english/chspurgeon-mae/april/april-18|Spurgeon Morning and Evening, April 18]]
+- Jesus is the Amen—immutable confirmer of every promise; the labouring soul may come for rest because the Speaker will not demean the word he has sealed. [[sources/commentaries_english/chspurgeon-mae/april/april-19|Spurgeon Morning and Evening, April 19]]
+- “Thou shalt not be afraid for the terror by night”: whatever the night-watch ill, the believer’s ground of fearlessness is the promise, not the absence of danger. [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon Morning and Evening, April 22]]
 
 ## Agreements and tensions
 
@@ -136,6 +143,13 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/march/march-18|Spurgeon Morning and Evening, March 18]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-19|Spurgeon Morning and Evening, March 19]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-27|Spurgeon Morning and Evening, March 27]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-8|Spurgeon Morning and Evening, April 8]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-10|Spurgeon Morning and Evening, April 10]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-13|Spurgeon Morning and Evening, April 13]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-18|Spurgeon Morning and Evening, April 18]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-19|Spurgeon Morning and Evening, April 19]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon Morning and Evening, April 22]]
+
 
 ## Open questions
 

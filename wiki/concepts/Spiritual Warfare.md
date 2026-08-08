@@ -5,7 +5,7 @@ description: The Christian life as a real war against the devil, principalities 
 tags: [christ, holy-spirit, holiness, discipleship, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 21
+source_count: 22
 ---
 
 # Spiritual Warfare
@@ -39,6 +39,8 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 - Joseph’s real strength against temptation is divine aid, not boasted valour; true strength is God-given, ending in smoke if claimed as self. [[sources/commentaries_english/chspurgeon-mae/february/february-22|Spurgeon Morning and Evening, February 22]]
 - War with the Philistines of evil demands every weapon: preaching, teaching, praying, giving—even mean tools may slay Philistines. [[sources/commentaries_english/chspurgeon-mae/march/march-2|Spurgeon Morning and Evening, March 2]]
 - Beware the world’s loving face: the enemy’s kisses are deceitful, and religion is often stabbed by those who first profess reverence for it. [[sources/commentaries_english/chspurgeon-mae/march/march-25|Spurgeon Morning and Evening, March 25]]
+
+- The sacramental host still wars on earth under Jesus the Captain; stand fast in ranks—he is with you always to the end of the world. [[sources/commentaries_english/chspurgeon-mae/april/april-20|Spurgeon Morning and Evening, April 20]]
 
 ## Agreements and tensions
 
@@ -106,6 +108,8 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[sources/commentaries_english/chspurgeon-mae/february/february-22|Spurgeon Morning and Evening, February 22]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-2|Spurgeon Morning and Evening, March 2]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-25|Spurgeon Morning and Evening, March 25]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-20|Spurgeon Morning and Evening, April 20]]
+
 
 ## Open questions
 

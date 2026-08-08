@@ -5,7 +5,7 @@ description: Christ's rising from the dead as gospel foundation and the believer
 tags: [christ, salvation, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 7
+source_count: 8
 ---
 
 # Resurrection
@@ -25,7 +25,12 @@ Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article o
 - McGee on 1 Thessalonians 4:13–18: “sleep” (*koimaomai*) is body-sleep, never soul-sleep—only a body lies down or stands up in resurrection (*anastasis*); body returns to dust, spirit to God (Gen 3:19; Eccl 12:7); Christian death is absence from the body and presence with the Lord; Jesus *died* (redemptive separation); believers *sleep in Jesus*; by the word of the Lord the living will not precede the dead; shout/voice/trumpet is the Son’s solo commanding voice; dead in Christ rise first; living are “caught up” (*harpazo*—grasped hastily, raptured); this comforts the church. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|McGee Notes & Outlines on 1–2 Thessalonians]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee Thessalonians source-note]] [[wiki/passages/1 Thessalonians 4|1 Thessalonians 4]]
 - McGee on Acts: special feature is prominence of the resurrection as the center of gospel preaching; Peter’s Pentecost sermon applies Psalm 16 to Messiah’s rising, not David; apostles arrested for preaching the resurrection (4:2); Paul divides the Sanhedrin on the resurrection of the dead (ch. 23); Stephen “fell asleep” awaiting the Rapture; McGee links Paul’s Lystra stoning to death and raising with 2 Cor 12. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
 
+- Through death he destroyed him that had the power of death; the child of God need not fear dying when Calvary has broken the devil’s hold. [[sources/commentaries_english/chspurgeon-mae/april/april-20|Spurgeon Morning and Evening, April 20]]
+- Once crucified, dead, and buried, Jesus sits on the throne of glory by undisputed right—exaltation following the grave as the church’s representative joy. [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon Morning and Evening, April 22]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Resurrection is gospel foundation, not a mere appendix to ethics; Henry's 1 Cor 15 is explicit that denying resurrection undercuts salvation; McGee agrees and stresses factual gospel content.
 - McGee’s “parade” (firstfruits, church, OT/Tribulation saints, kingdom, death destroyed, Son subject to Father) is a dispensational outline reading of 15:20–28—compare with Henry; do not treat as sole vault eschatology.
@@ -70,6 +75,8 @@ Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article o
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Corinthians]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Thessalonians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 & 2 Thessalonians]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-20|Spurgeon Morning and Evening, April 20]]
+
 
 ## Open questions
 

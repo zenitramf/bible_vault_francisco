@@ -5,7 +5,7 @@ description: Christ's propitiatory, substitutionary work dealing with guilt—th
 tags: [christ, redemption, salvation]
 status: reviewed
 updated: 2026-08-08
-source_count: 16
+source_count: 20
 ---
 
 # Atonement
@@ -34,6 +34,11 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - Jesus was numbered with the transgressors so he might the better become their advocate—identified with clients he would save. [[sources/commentaries_english/chspurgeon-mae/march/march-30|Spurgeon Morning and Evening, March 30]]
 - With his stripes we are healed: the Roman scourge’s lacerations belong to the price of our healing in the suffering Servant. [[sources/commentaries_english/chspurgeon-mae/march/march-31|Spurgeon Morning and Evening, March 31]]
 - Whether active or passive, Christ’s righteousness is a sweet savour to the Most High—accepted fragrance in which his people are received. [[sources/commentaries_english/chspurgeon-mae/march/march-28|Spurgeon Morning and Evening, March 28]]
+
+- If the innocent green-tree Substitute is not spared, what will become of the dry tree—the unregenerate without Christ—in the hands of an angry God? [[sources/commentaries_english/chspurgeon-mae/april/april-8|Spurgeon Morning and Evening, April 8]]
+- The hill of comfort is Calvary: consolation is built of the cross, blessing founded on the riven rock, light springing from Golgotha’s midday midnight. [[sources/commentaries_english/chspurgeon-mae/april/april-10|Spurgeon Morning and Evening, April 10]]
+- Precious blood distills from hands, feet, and side—redeeming and atoning efficacy that reconciles, cleanses from all sin, and whitens scarlet guilt. [[sources/commentaries_english/chspurgeon-mae/april/april-16|Spurgeon Morning and Evening, April 16]]
+- The temple veil rent from top to bottom ends the old ordinances as a worn vesture and opens the way: sacrifices finished because fulfilled in the dying Christ. [[sources/commentaries_english/chspurgeon-mae/april/april-19|Spurgeon Morning and Evening, April 19]]
 
 ## Agreements and tensions
 
@@ -89,6 +94,11 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - [[sources/commentaries_english/chspurgeon-mae/march/march-28|Spurgeon Morning and Evening, March 28]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-30|Spurgeon Morning and Evening, March 30]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-31|Spurgeon Morning and Evening, March 31]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-8|Spurgeon Morning and Evening, April 8]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-10|Spurgeon Morning and Evening, April 10]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-16|Spurgeon Morning and Evening, April 16]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-19|Spurgeon Morning and Evening, April 19]]
+
 
 ## Open questions
 

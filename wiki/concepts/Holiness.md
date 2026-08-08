@@ -5,7 +5,7 @@ description: Conformity to the holy God who calls and sanctifies his people thro
 tags: [holiness, christ, salvation, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 24
+source_count: 27
 ---
 
 # Holiness
@@ -46,6 +46,10 @@ In the retrieved sources, holiness is not optional polish for advanced believers
 - He who boasts of grace has little grace to boast of; the one who thinks he stands must take heed lest he fall. [[sources/commentaries_english/chspurgeon-mae/march/march-14|Spurgeon Morning and Evening, March 14]]
 - “I will take heed to my ways” is pilgrim wisdom in a world of pitch—watch often if hands are to stay clean. [[sources/commentaries_english/chspurgeon-mae/march/march-14|Spurgeon Morning and Evening, March 14]]
 - Presumptuous sins rush the soul headlong; grace must bridle an ill-tempered nature or it will not be held back from the precipice. [[sources/commentaries_english/chspurgeon-mae/march/march-16|Spurgeon Morning and Evening, March 16]]
+
+- Before honour is humility: empty the heart of self that God may fill it with love; stoop if you would climb, growing downward in contrite poverty of spirit. [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
+- The newborn nature must assert Christ’s purchased rights and, in the Lord’s name, destroy rival reigns within—sanctification of the whole person as passion’s design. [[sources/commentaries_english/chspurgeon-mae/april/april-6|Spurgeon Morning and Evening, April 6]]
+- Having begun in the Spirit, do not seek perfection by the flesh: take sins to Christ’s cross for power; conquerors through him that loved us, not through the law’s strength. [[sources/commentaries_english/chspurgeon-mae/april/april-23|Spurgeon Morning and Evening, April 23]]
 
 ## Agreements and tensions
 
@@ -139,6 +143,10 @@ Key loci: 1 Peter 1:13–21; 1 Peter 2:1–12; 1 Peter 4:1–6; John 17:17; Hebr
 - [[sources/commentaries_english/chspurgeon-mae/march/march-11|Spurgeon Morning and Evening, March 11]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-14|Spurgeon Morning and Evening, March 14]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-16|Spurgeon Morning and Evening, March 16]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-6|Spurgeon Morning and Evening, April 6]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-23|Spurgeon Morning and Evening, April 23]]
+
 
 ## Open questions
 

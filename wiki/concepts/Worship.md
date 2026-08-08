@@ -5,7 +5,7 @@ description: Spirit-and-truth approach to the Father in praise, sanctuary servic
 tags: [worship, christ, holy-spirit, prayer, stewardship]
 status: reviewed
 updated: 2026-08-08
-source_count: 23
+source_count: 25
 ---
 
 # Worship
@@ -43,6 +43,9 @@ The sources define true worship less by sacred geography than by the character o
 - The fatness of God’s house abundantly satisfies; grace’s board outshines Solomon’s sumptuous table. [[sources/commentaries_english/chspurgeon-mae/march/march-4|Spurgeon Morning and Evening, March 4]]
 - If disciples held their peace, the stones would cry out—creation itself is ready to praise the Maker who called it by his word. [[sources/commentaries_english/chspurgeon-mae/march/march-23|Spurgeon Morning and Evening, March 23]]
 - Rizpah’s long vigil over her slain sons shames weary meditation: shall we tire of considering the sufferings of our blessed Lord? [[sources/commentaries_english/chspurgeon-mae/march/march-31|Spurgeon Morning and Evening, March 31]]
+
+- It is beneficial to mount above this present evil world to the mountain of the Lord—cutting thorns of care and riches that choke heavenly seed. [[sources/commentaries_english/chspurgeon-mae/april/april-4|Spurgeon Morning and Evening, April 4]]
+- The Lord’s table command assumes our memory may fail the dying Lamb; remembrance is appointed worship against treacherous forgetfulness of redeeming love. [[sources/commentaries_english/chspurgeon-mae/april/april-26|Spurgeon Morning and Evening, April 26]]
 
 ## Agreements and tensions
 
@@ -115,6 +118,9 @@ Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3; 1 Chronicles 29; 2 Ch
 - [[sources/commentaries_english/chspurgeon-mae/march/march-4|Spurgeon Morning and Evening, March 4]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-23|Spurgeon Morning and Evening, March 23]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-31|Spurgeon Morning and Evening, March 31]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-4|Spurgeon Morning and Evening, April 4]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-26|Spurgeon Morning and Evening, April 26]]
+
 
 ## Open questions
 

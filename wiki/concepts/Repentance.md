@@ -5,7 +5,7 @@ description: Turning to God in contrite confession, pleading mercy through Chris
 tags: [repentance, holiness, salvation, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 14
+source_count: 17
 ---
 
 # Repentance
@@ -32,6 +32,10 @@ Sources present repentance as humble return to God with confession of sin and pl
 - The leper covered all over with disease pictures the sinner who disclaims all self-righteousness and sees total defilement—honest self-judgment that the law’s strange rule still teaches. [[sources/commentaries_english/chspurgeon-mae/february/february-26|Spurgeon Morning and Evening, February 26]]
 - “Let us search and try our ways, and turn again to the Lord”—love that misses Christ’s face seeks restored communion by self-examination and return. [[sources/commentaries_english/chspurgeon-mae/march/march-30|Spurgeon Morning and Evening, March 30]]
 - Before destruction the heart is haughty; pride’s shadow warns the soul to turn before the fall it prophesies. [[sources/commentaries_english/chspurgeon-mae/march/march-6|Spurgeon Morning and Evening, March 6]]
+
+- All the elect confess with one chorus, “All we like sheep have gone astray,” yet each also owns a particular waywardness—“every one to his own way.” [[sources/commentaries_english/chspurgeon-mae/april/april-3|Spurgeon Morning and Evening, April 3]]
+- In confession name sin truly: David said bloodguiltiness, not manslaughter or accident—plain speech before God rather than self-flattering euphemism. [[sources/commentaries_english/chspurgeon-mae/april/april-7|Spurgeon Morning and Evening, April 7]]
+- Even the favoured race is charged as impudent and hardhearted; the best share the accusation, so the heart takes shame where it has been bold in evil. [[sources/commentaries_english/chspurgeon-mae/april/april-28|Spurgeon Morning and Evening, April 28]]
 
 ## Agreements and tensions
 
@@ -93,6 +97,10 @@ Sources present repentance as humble return to God with confession of sin and pl
 - [[sources/commentaries_english/chspurgeon-mae/february/february-26|Spurgeon Morning and Evening, February 26]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-6|Spurgeon Morning and Evening, March 6]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-30|Spurgeon Morning and Evening, March 30]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-3|Spurgeon Morning and Evening, April 3]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-7|Spurgeon Morning and Evening, April 7]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-28|Spurgeon Morning and Evening, April 28]]
+
 
 ## Open questions
 

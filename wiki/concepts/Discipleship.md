@@ -5,7 +5,7 @@ description: Following Christ through self-denial, cross-bearing, and counted co
 tags: [discipleship, christ, christian-life, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 27
+source_count: 30
 ---
 
 # Discipleship
@@ -47,6 +47,11 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 - Christ’s love for the church is the golden example husbands and disciples must imitate—his life is the transcript of the virtue he teaches. [[sources/commentaries_english/chspurgeon-mae/march/march-20|Spurgeon Morning and Evening, March 20]]
 - If partakers with Jesus in his shame, we shall share the lustre of his appearing; vital union means cross now and glory then. [[sources/commentaries_english/chspurgeon-mae/march/march-26|Spurgeon Morning and Evening, March 26]]
 - All the disciples forsook him and fled—frailty of believers left to themselves; sheep flee when the wolf comes unless held by grace. [[sources/commentaries_english/chspurgeon-mae/march/march-27|Spurgeon Morning and Evening, March 27]]
+
+- Jesus went without the camp; disciples leave the world’s sin and religion not to be singular but to follow the Master who was not of the world. [[sources/commentaries_english/chspurgeon-mae/april/april-6|Spurgeon Morning and Evening, April 6]]
+- The Beloved bids “Rise up…and come away”: long enough among pots of worldliness; risen with him, do not cleave to the dust of lower loves. [[sources/commentaries_english/chspurgeon-mae/april/april-25|Spurgeon Morning and Evening, April 25]]
+- Christians may forget Christ—hence “This do in remembrance of me”; treacherous memory after blood-bought love is a real, not merely possible, danger. [[sources/commentaries_english/chspurgeon-mae/april/april-26|Spurgeon Morning and Evening, April 26]]
+- Blessed is he that watches: early saints died daily under persecution; present subtler tests still require watchfulness against snare and sleep. [[sources/commentaries_english/chspurgeon-mae/april/april-26|Spurgeon Morning and Evening, April 26]]
 
 ## Agreements and tensions
 
@@ -114,6 +119,10 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[sources/commentaries_english/chspurgeon-mae/march/march-20|Spurgeon Morning and Evening, March 20]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-26|Spurgeon Morning and Evening, March 26]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-27|Spurgeon Morning and Evening, March 27]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-6|Spurgeon Morning and Evening, April 6]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-25|Spurgeon Morning and Evening, April 25]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-26|Spurgeon Morning and Evening, April 26]]
+
 
 ## Open questions
 

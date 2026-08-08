@@ -5,7 +5,7 @@ description: The church as one body in Christ, gifted for edification, and gathe
 tags: [church, christ, holy-spirit, discipleship]
 status: reviewed
 updated: 2026-08-08
-source_count: 18
+source_count: 19
 ---
 
 # Church
@@ -38,6 +38,8 @@ The sources present the church as one body animated by one Spirit, called to uni
 - Anxious Zion receives good news: captivity will end, children will be brought forth; the church under the rod may still trust stored mercy. [[sources/commentaries_english/chspurgeon-mae/february/february-24|Spurgeon Morning and Evening, February 24]]
 - Christ loved the church and gave himself for it—the pattern and ground of the church’s bridal identity and of Christian love within it. [[sources/commentaries_english/chspurgeon-mae/march/march-20|Spurgeon Morning and Evening, March 20]]
 - Christian converse concerning the ways of the Lord is a means of corporate wakefulness on the pilgrimage. [[sources/commentaries_english/chspurgeon-mae/march/march-5|Spurgeon Morning and Evening, March 5]]
+
+- Simon’s cross-bearing after Jesus is a picture of the church through all generations—the corporate cross-bearer following her Lord. [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
 
 ## Agreements and tensions
 
@@ -114,6 +116,8 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 - [[sources/commentaries_english/chspurgeon-mae/february/february-24|Spurgeon Morning and Evening, February 24]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-5|Spurgeon Morning and Evening, March 5]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-20|Spurgeon Morning and Evening, March 20]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
+
 
 ## Open questions
 

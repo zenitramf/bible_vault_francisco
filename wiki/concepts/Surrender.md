@@ -4,8 +4,8 @@ title: Surrender
 description: The whole-person yielding of the will to God — humiliation, acceptance, obedience, and Spirit-sensitivity — that the Bible presents as the only path to life and salvation (Jas 4:7; Ro 6:13; Mt 16:24–26; Ac 9:6).
 tags: [christian-life, faith, discipleship, salvation, christ, holy-spirit, repentance, prayer]
 status: reviewed
-updated: 2026-07-16
-source_count: 15
+updated: 2026-08-08
+source_count: 17
 ---
 
 # Surrender
@@ -33,7 +33,12 @@ In the retrieved sources, surrender is the act by which a creature stops resisti
 - Believers yield themselves to God as those alive from the dead, and their members as instruments of righteousness—not to sin as master. [[sources/commentaries_english/mhenry-concise/romans/chapter-6#Verses 11–15|Matthew Henry Concise on Romans 6]]
 - By the mercies of God the body is presented as a living sacrifice; the mind is renewed rather than conformed to the world. [[sources/commentaries_english/mhenry-concise/romans/chapter-12#Verses 1, 2|Matthew Henry Concise on Romans 12]]
 
+- Humiliation of soul is the path of blessing and communion: the poor and contrite, trembling at the word, are those to whom the Lord looks. [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
+- Desire for close communion, high doctrine, and knowing love’s dimensions requires drawing near to Jesus in his person, work, and offices—opening the door to his knock. [[sources/commentaries_english/chspurgeon-mae/april/april-25|Spurgeon Morning and Evening, April 25]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - **Henry and Spurgeon agree** that surrender is *unconditional* and *total*. Spurgeon's saint-level exposition (humility + acceptance + obedience + Spirit-sensitivity) corresponds exactly to Henry's gospel-application of Jeremiah's political advice: yield the whole man, the whole city, the whole kingdom.
 - **Spurgeon emphasizes the experiential and momentary**: the Damascus road, the awakened conscience, the sermon-seized will. **Henry emphasizes the scriptural-analogical**: Babylon as type, Hezekiah's refusal as counter-example, Ahab as warning.
@@ -85,6 +90,9 @@ In the retrieved sources, surrender is the act by which a creature stops resisti
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-6|Matthew Henry Concise, Romans 6]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-12|Matthew Henry Concise, Romans 12]]
 - [[sources/commentaries_english/mhenry-complete/volume-2/1-kings/chapter-20|Matthew Henry Complete, 1 Kings 20]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-25|Spurgeon Morning and Evening, April 25]]
+
 
 ## Open questions
 

@@ -1,7 +1,7 @@
 ---
 type: Source Note
 title: Spurgeon Morning and Evening Theme Enrichment
-description: January–March meshed into concepts; remaining months still selective/sample or inventory-only.
+description: January–April meshed into concepts; remaining months still selective/sample or inventory-only.
 tags: [prayer, worship, christ, holiness]
 status: developing
 updated: 2026-08-08
@@ -20,6 +20,8 @@ Selective thematic enrichment from Spurgeon daily devotionals. **Rule:** enrich 
 **February (2026-08-08):** full-month concept mesh—29/29 day files linked from concept hubs (Atonement, Christ, Covenant, Prayer, Intercession, Salvation, Justification, Faith, Hope, Worship, Grace, Holiness, Discipleship, Suffering, Holy Spirit, Spiritual Warfare, Church, Word of God, Repentance, Redemption). The former February month source-note was removed.
 
 **March (2026-08-08):** full-month concept mesh—31/31 day files linked from concept hubs (Christ, Suffering, Grace, Faith, Salvation, Prayer, Intercession, Atonement, Justification, Spiritual Warfare, Discipleship, Worship, Holiness, Holy Spirit, Hope, Church, Covenant, Repentance, Creation, Stewardship, Pastoral Ministry, Sin and the Fall). The former March month source-note was removed.
+
+**April (2026-08-08):** full-month concept mesh—30/30 day files linked from concept hubs (Christ, Atonement, Justification, Redemption, Suffering, Discipleship, Prayer, Faith, Hope, Salvation, Repentance, Sin and the Fall, Holiness, Covenant, Grace, Spiritual Warfare, Church, Worship, Holy Spirit, Word of God, Surrender, Resurrection, Intercession). The former April month source-note was removed.
 
 ## Core claims
 
@@ -58,4 +60,4 @@ Varies by daily entry (see individual files).
 ## Open questions
 
 - Which concept pages most need additional devotional color without diluting multi-source claims?
-- Which other MAE months should follow January’s concept-mesh pattern (no month notes)?
+- Which remaining MAE months (May–Dec) should next follow the concept-mesh pattern (no month notes)?

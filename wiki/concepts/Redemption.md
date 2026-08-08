@@ -5,7 +5,7 @@ description: Price-paid deliverance through Christ, foundational for belonging t
 tags: [redemption, christ, salvation]
 status: reviewed
 updated: 2026-08-08
-source_count: 9
+source_count: 11
 ---
 
 # Redemption
@@ -28,6 +28,9 @@ In the Spurgeon sermons retrieved for this concept, redemption is the central go
 
 
 - Christ redeems from the wrath to come, yet his triumph is larger: he saves his people from their sins—redemption that liberates from sin’s power as well as penalty. [[sources/commentaries_english/chspurgeon-mae/february/february-8|Spurgeon Morning and Evening, February 8]]
+
+- By his death Christ purchased not a part but the entire man—spirit, soul, and body—to reign supreme without rival in that triple kingdom. [[sources/commentaries_english/chspurgeon-mae/april/april-6|Spurgeon Morning and Evening, April 6]]
+- Job’s marrow of comfort is the possessive “My” and a living Redeemer: gold in the mine does not enrich; we must have property in a living Christ. [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
 
 ## Agreements and tensions
 
@@ -87,6 +90,8 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 Peter]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-12|Spurgeon Morning and Evening, January 12]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-8|Spurgeon Morning and Evening, February 8]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-6|Spurgeon Morning and Evening, April 6]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
 
 
 ## Open questions

@@ -5,7 +5,7 @@ description: Humble approach to the Father, taught by Christ, helped by the Spir
 tags: [prayer, christ, holy-spirit, discipleship]
 status: reviewed
 updated: 2026-08-08
-source_count: 24
+source_count: 30
 ---
 
 # Prayer
@@ -44,6 +44,13 @@ The retrieved sources present prayer as sincere address to God rather than publi
 - David prayed to be kept from presumptuous sins; if the man after God’s heart needed that bridle, babes in grace need it more. [[sources/commentaries_english/chspurgeon-mae/march/march-16|Spurgeon Morning and Evening, March 16]]
 - Jesus’ Gethsemane prayer was lonely prayer: family, social, and church prayer will not suffice; trial especially calls for solitude with the Father. [[sources/commentaries_english/chspurgeon-mae/march/march-22|Spurgeon Morning and Evening, March 22]]
 - Prayer sometimes tarries at the gate until the King comes; great faith is often tried by long delayings and a brazen sky. [[sources/commentaries_english/chspurgeon-mae/march/march-29|Spurgeon Morning and Evening, March 29]]
+
+- It is easy to pray when desires are grounded on God’s own promise—immutable veracity cannot lie; plead the word for the fulfilment of what the Spirit prompts concerning Christ. [[sources/commentaries_english/chspurgeon-mae/april/april-2|Spurgeon Morning and Evening, April 2]]
+- Well when prayers about sorrows link with pleas about sins: take both pain and offence to the same God who counts hairs and forgives iniquity. [[sources/commentaries_english/chspurgeon-mae/april/april-11|Spurgeon Morning and Evening, April 11]]
+- In soul conflict, wrestling with sin needs private prayer that holds up the covenant token—Moses’ upheld rod discomfited the enemy more than Joshua’s sword alone. [[sources/commentaries_english/chspurgeon-mae/april/april-16|Spurgeon Morning and Evening, April 16]]
+- Jacob’s master plea at Jabbok was “Thou saidst, I will surely do thee good”—holding God to his word as a mightier holdfast than abstract attribute alone. [[sources/commentaries_english/chspurgeon-mae/april/april-18|Spurgeon Morning and Evening, April 18]]
+- Strange how little use we make of “our own God”: seldom counsel, often self-burden-bearing, while he invites application for guidance and help. [[sources/commentaries_english/chspurgeon-mae/april/april-27|Spurgeon Morning and Evening, April 27]]
+- For every special need some Bible promise suits; read it, then take it back to the great Promiser and ask him to fulfil his own word. [[sources/commentaries_english/chspurgeon-mae/april/april-28|Spurgeon Morning and Evening, April 28]]
 
 ## Agreements and tensions
 
@@ -128,6 +135,13 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[sources/commentaries_english/chspurgeon-mae/march/march-16|Spurgeon Morning and Evening, March 16]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-22|Spurgeon Morning and Evening, March 22]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-29|Spurgeon Morning and Evening, March 29]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-2|Spurgeon Morning and Evening, April 2]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-11|Spurgeon Morning and Evening, April 11]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-16|Spurgeon Morning and Evening, April 16]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-18|Spurgeon Morning and Evening, April 18]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-27|Spurgeon Morning and Evening, April 27]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-28|Spurgeon Morning and Evening, April 28]]
+
 
 ## Open questions
 

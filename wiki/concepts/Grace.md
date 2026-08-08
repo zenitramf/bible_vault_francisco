@@ -5,7 +5,7 @@ description: God's free, undeserved favor in Christ that grounds salvation, just
 tags: [salvation, faith, christ, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 19
+source_count: 21
 ---
 
 # Grace
@@ -39,6 +39,9 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - Surpassing grace is seen in that we were not only sought but sought out—persevering search for those far gone in the ruins of the fall. [[sources/commentaries_english/chspurgeon-mae/march/march-11|Spurgeon Morning and Evening, March 11]]
 - Christ has grace without measure and empties it for his people like a reservoir into the pipes—fullness received, grace for grace. [[sources/commentaries_english/chspurgeon-mae/march/march-15|Spurgeon Morning and Evening, March 15]]
 - When Jesus hosts the table, no guest goes empty; head, heart, hope, and desire are satisfied with the bread he gives. [[sources/commentaries_english/chspurgeon-mae/march/march-19|Spurgeon Morning and Evening, March 19]]
+
+- David ascribes greatness to God’s gentleness, goodness, and providence—not his own; providence is goodness in action, the flower of the bud of divine kindness. [[sources/commentaries_english/chspurgeon-mae/april/april-9|Spurgeon Morning and Evening, April 9]]
+- After winter depression, spring of the soul returns: slumbering graces rise like flowers under the Sun of Righteousness, and gratitude sings again. [[sources/commentaries_english/chspurgeon-mae/april/april-24|Spurgeon Morning and Evening, April 24]]
 
 ## Agreements and tensions
 
@@ -102,6 +105,9 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - [[sources/commentaries_english/chspurgeon-mae/march/march-11|Spurgeon Morning and Evening, March 11]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-15|Spurgeon Morning and Evening, March 15]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-19|Spurgeon Morning and Evening, March 19]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-9|Spurgeon Morning and Evening, April 9]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-24|Spurgeon Morning and Evening, April 24]]
+
 
 ## Open questions
 

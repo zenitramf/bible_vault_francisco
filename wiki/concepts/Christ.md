@@ -5,7 +5,7 @@ description: Christ as the eternal Word made flesh, God with us, and the sufferi
 tags: [christ, redemption, salvation, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 34
+source_count: 47
 ---
 
 # Christ
@@ -53,6 +53,20 @@ The sources confess Jesus Christ as the eternal Word who was with God and was Go
 - Jesus preferred the lowly title “Son of man,” teaching humility though he might always have claimed divine names of glory. [[sources/commentaries_english/chspurgeon-mae/march/march-25|Spurgeon Morning and Evening, March 25]]
 - Even in arrest he cared for his sheep—“If ye seek me, let these go their way”—ruling passion strong in death to free his disciples. [[sources/commentaries_english/chspurgeon-mae/march/march-26|Spurgeon Morning and Evening, March 26]]
 - The love of Christ in sweetness, fulness, greatness, and faithfulness passes all human comprehension; language cannot sound its depth. [[sources/commentaries_english/chspurgeon-mae/march/march-28|Spurgeon Morning and Evening, March 28]]
+
+- Beginning a passion-focused month, the elect spouse leaps at once to desire the Beloved—no prefatory delay, only hunger for his kisses of communion. [[sources/commentaries_english/chspurgeon-mae/april/april-1|Spurgeon Morning and Evening, April 1]]
+- Before Pilate he answered never a word: silence as perfect self-sacrifice, refusing speech that might stay the slaughter of the life he had dedicated as an offering. [[sources/commentaries_english/chspurgeon-mae/april/april-2|Spurgeon Morning and Evening, April 2]]
+- After a night of agony and shuttle of unjust courts, they led him away loaded with the cross—dolorous procession without rest while enemies thirsted for his blood. [[sources/commentaries_english/chspurgeon-mae/april/april-3|Spurgeon Morning and Evening, April 3]]
+- The world’s “honours” for its long-expected King were a mock procession, derisive shouts, and a cross—glory turned into shame. [[sources/commentaries_english/chspurgeon-mae/april/april-7|Spurgeon Morning and Evening, April 7]]
+- Some gracious souls wept along the way of woe; the believer joins their lament with deeper cause than they knew—innocence maltreated for the guilty. [[sources/commentaries_english/chspurgeon-mae/april/april-9|Spurgeon Morning and Evening, April 9]]
+- Christ is a whole bundle of myrrh, not a drop: precious, fragrant, healing, sacrificial plenty enough for every necessity if we will use him. [[sources/commentaries_english/chspurgeon-mae/april/april-13|Spurgeon Morning and Evening, April 13]]
+- Mockery was a great ingredient of the Lord’s woe—from Judas and priests through Herod, soldiers, Pilate, and the tree—ridicule cutting hardest in intense pain. [[sources/commentaries_english/chspurgeon-mae/april/april-14|Spurgeon Morning and Evening, April 14]]
+- Calvary’s deepest agony is the forsaken cry: physical weakness, mental shame, and spiritual desolation meeting when the Father’s face is hid. [[sources/commentaries_english/chspurgeon-mae/april/april-15|Spurgeon Morning and Evening, April 15]]
+- At the Father’s right hand the once-despised Son is the people’s representative—his session is their favour, honour, and dignity. [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
+- God has exalted the crucified Lord; as Mediator his heavenly honours are representative, the heritage of those united to him. [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon Morning and Evening, April 22]]
+- In glory he still appears as the Lamb as it had been slain—wounds as jewels; white with innocence and ruddy with his blood. [[sources/commentaries_english/chspurgeon-mae/april/april-23|Spurgeon Morning and Evening, April 23]]
+- Jesus is truly the Lord’s anointed King forever: fullness dwells in him; as Son of man he is head over all things to the church. [[sources/commentaries_english/chspurgeon-mae/april/april-27|Spurgeon Morning and Evening, April 27]]
+- The Lord takes pleasure in his people with comprehensive love—he numbers hairs and orders steps for mortal and immortal welfare alike. [[sources/commentaries_english/chspurgeon-mae/april/april-29|Spurgeon Morning and Evening, April 29]]
 
 ## Agreements and tensions
 
@@ -152,6 +166,20 @@ Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 
 - [[sources/commentaries_english/chspurgeon-mae/march/march-25|Spurgeon Morning and Evening, March 25]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-26|Spurgeon Morning and Evening, March 26]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-28|Spurgeon Morning and Evening, March 28]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-1|Spurgeon Morning and Evening, April 1]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-2|Spurgeon Morning and Evening, April 2]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-3|Spurgeon Morning and Evening, April 3]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-7|Spurgeon Morning and Evening, April 7]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-9|Spurgeon Morning and Evening, April 9]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-13|Spurgeon Morning and Evening, April 13]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-14|Spurgeon Morning and Evening, April 14]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-15|Spurgeon Morning and Evening, April 15]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon Morning and Evening, April 22]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-23|Spurgeon Morning and Evening, April 23]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-27|Spurgeon Morning and Evening, April 27]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-29|Spurgeon Morning and Evening, April 29]]
+
 
 ## Open questions
 

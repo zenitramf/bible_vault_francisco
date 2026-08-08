@@ -5,7 +5,7 @@ description: The promised Comforter who indwells, convicts, guides into truth, a
 tags: [holy-spirit, christ, church, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 19
+source_count: 20
 ---
 
 # Holy Spirit
@@ -38,6 +38,8 @@ The sources present the Holy Spirit as another Comforter given by the Father at 
 - The Spirit who authored Scripture alone enlightens right understanding; ask his teaching to be abler teachers and less tossed by every wind of doctrine. [[sources/commentaries_english/chspurgeon-mae/february/february-21|Spurgeon Morning and Evening, February 21]]
 - All the Father and Son have done remains ineffectual to us until the Spirit reveals it in the soul—election itself is a dead letter without his work. [[sources/commentaries_english/chspurgeon-mae/february/february-29|Spurgeon Morning and Evening, February 29]]
 - As the Spirit descended on the Head like a dove, so in measure he descends on the members—often with singular rapidity that impels heavenward. [[sources/commentaries_english/chspurgeon-mae/march/march-3|Spurgeon Morning and Evening, March 3]]
+
+- The Spirit can kindle firm calm and inward light when all is dark without—making the Christian’s music independent of shaking worlds. [[sources/commentaries_english/chspurgeon-mae/april/april-8|Spurgeon Morning and Evening, April 8]]
 
 ## Agreements and tensions
 
@@ -110,6 +112,8 @@ Key loci: John 14:15–17; John 16:7–14; Acts 1:5–8; Acts 2:1–4; Acts 8–
 - [[sources/commentaries_english/chspurgeon-mae/february/february-21|Spurgeon Morning and Evening, February 21]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-29|Spurgeon Morning and Evening, February 29]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-3|Spurgeon Morning and Evening, March 3]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-8|Spurgeon Morning and Evening, April 8]]
+
 
 ## Open questions
 

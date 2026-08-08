@@ -5,7 +5,7 @@ description: God's free declaration that sinners are righteous by grace through 
 tags: [salvation, faith, christ, redemption]
 status: reviewed
 updated: 2026-08-08
-source_count: 12
+source_count: 13
 ---
 
 # Justification
@@ -31,6 +31,8 @@ In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete o
 - As creatures we owed God obedience and, after breaking the law, a debt to justice we cannot pay; in Christ the Christian owes justice nothing—the debt is paid—yet owes the more to love and grace. [[sources/commentaries_english/chspurgeon-mae/february/february-3|Spurgeon Morning and Evening, February 3]]
 - Believing in Jesus, the soul is actually cleared from guilt, led out of prison, freed from law-bondage and sin’s fetters, and walks as a freeman under “no condemnation.” [[sources/commentaries_english/chspurgeon-mae/february/february-13|Spurgeon Morning and Evening, February 13]]
 - God accepts his people with the sweet savour of the Redeemer’s merits—active obedience and passive suffering equally fragrant before him. [[sources/commentaries_english/chspurgeon-mae/march/march-28|Spurgeon Morning and Evening, March 28]]
+
+- Mourning over inbred corruption, look to the perfect Lord: complete in him, as perfect in God’s sight as if never sinned, clothed with the righteousness of God in the Lord our Righteousness. [[sources/commentaries_english/chspurgeon-mae/april/april-4|Spurgeon Morning and Evening, April 4]]
 
 ## Agreements and tensions
 
@@ -79,6 +81,8 @@ Key loci: Romans 3:19–31; Romans 4; Romans 5:1–11; Romans 6:1–2; Genesis 1
 - [[sources/commentaries_english/chspurgeon-mae/february/february-3|Spurgeon Morning and Evening, February 3]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-13|Spurgeon Morning and Evening, February 13]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-28|Spurgeon Morning and Evening, March 28]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-4|Spurgeon Morning and Evening, April 4]]
+
 
 ## Open questions
 

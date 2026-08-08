@@ -5,7 +5,7 @@ description: Humanity's fall through temptation and transgression, bringing mise
 tags: [salvation, christ, creation, holiness]
 status: reviewed
 updated: 2026-08-08
-source_count: 7
+source_count: 8
 ---
 
 # Sin and the Fall
@@ -23,6 +23,8 @@ Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the t
 - Faith's Checkbook opens the year with the enmity between the serpent and the woman's seed—the gospel promise amid the fall. [[sources/commentaries_english/chspurgeon-fcb/january/january-1|Spurgeon, January 1]] [[wiki/source-notes/Spurgeon Faith's Checkbook Theme Enrichment|FCB theme enrichment]]
 - Sin is “exceeding sinful”: light thoughts of sin dull the conscience that conversion first made tender. [[sources/commentaries_english/chspurgeon-mae/march/march-11|Spurgeon Morning and Evening, March 11]]
 - A haughty heart is safely the sign of coming destruction—pride as the prelude of the fall’s ongoing pattern. [[sources/commentaries_english/chspurgeon-mae/march/march-6|Spurgeon Morning and Evening, March 6]]
+
+- The king’s garden recalls paradise ruined: sin drove out Adam’s children to thorn-bearing ground; remember the fall as thy fall and weep that the head of the race so treated the Lord of love. [[sources/commentaries_english/chspurgeon-mae/april/april-12|Spurgeon Morning and Evening, April 12]]
 
 ## Agreements and tensions
 
@@ -65,6 +67,8 @@ Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the t
 - [[sources/commentaries_english/chspurgeon-fcb/january/january-1|Spurgeon, Faith's Checkbook January 1]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-6|Spurgeon Morning and Evening, March 6]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-11|Spurgeon Morning and Evening, March 11]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-12|Spurgeon Morning and Evening, April 12]]
+
 
 ## Open questions
 

@@ -108,8 +108,7 @@ Live database view: [[wiki/source-notes/index.base|Folder base]]. Static OKF lis
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — November|Spurgeon Faith's Checkbook — November]] - Phase 4 full-calendar month source-note for Faith's Checkbook November: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — October|Spurgeon Faith's Checkbook — October]] - Phase 4 full-calendar month source-note for Faith's Checkbook October: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — September|Spurgeon Faith's Checkbook — September]] - Phase 4 full-calendar month source-note for Faith's Checkbook September: every daily entry file listed.
-* [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Spurgeon Morning and Evening Theme Enrichment]] - January–March meshed into concepts; remaining months still selective/sample or inventory-only.
-* [[wiki/source-notes/Spurgeon Morning and Evening — April|Spurgeon Morning and Evening — April]] - Phase 4 full-calendar month source-note for Morning and Evening April: every daily entry file listed.
+* [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Spurgeon Morning and Evening Theme Enrichment]] - January–April meshed into concepts; remaining months still selective/sample or inventory-only.
 * [[wiki/source-notes/Spurgeon Morning and Evening — August|Spurgeon Morning and Evening — August]] - Phase 4 full-calendar month source-note for Morning and Evening August: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — December|Spurgeon Morning and Evening — December]] - Phase 4 full-calendar month source-note for Morning and Evening December: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Morning and Evening — July|Spurgeon Morning and Evening — July]] - Phase 4 full-calendar month source-note for Morning and Evening July: every daily entry file listed.

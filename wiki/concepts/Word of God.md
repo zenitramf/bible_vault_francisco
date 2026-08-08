@@ -5,7 +5,7 @@ description: Divine revelation as wisdom and rule for religion—published, plai
 tags: [wisdom, discipleship, christ, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 14
+source_count: 15
 ---
 
 # Word of God
@@ -32,6 +32,8 @@ Sources treat the word of God as divine revelation that guides religion: Henry o
 
 
 - Seek a more intelligent understanding of Scripture so as to teach others and resist every wind of doctrine; constantly ask the Spirit’s teaching as Author of the Word. [[sources/commentaries_english/chspurgeon-mae/february/february-21|Spurgeon Morning and Evening, February 21]]
+
+- Whatever the especial need, some promise in Scripture is suited to it; the Bible is a store of hope-words to carry back to the Promiser. [[sources/commentaries_english/chspurgeon-mae/april/april-28|Spurgeon Morning and Evening, April 28]]
 
 ## Agreements and tensions
 
@@ -105,6 +107,7 @@ Sources treat the word of God as divine revelation that guides religion: Henry o
 - [[sources/commentaries_english/chspurgeon-mae/january/january-18|Spurgeon Morning and Evening, January 18]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-19|Spurgeon Morning and Evening, January 19]]
 - [[sources/commentaries_english/chspurgeon-mae/february/february-21|Spurgeon Morning and Evening, February 21]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-28|Spurgeon Morning and Evening, April 28]]
 
 
 ## Open questions

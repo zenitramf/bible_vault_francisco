@@ -5,7 +5,7 @@ description: Confident expectation of glory, resurrection, and God's promise und
 tags: [faith, salvation, prophecy, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 21
+source_count: 25
 ---
 
 # Hope
@@ -41,6 +41,11 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - Jacob’s Benjamin-name over Rachel’s Ben-oni teaches hope to read the right-hand mercy within sorrow’s naming of trial. [[sources/commentaries_english/chspurgeon-mae/march/march-8|Spurgeon Morning and Evening, March 8]]
 - Christ wills that those given him be with him where he is—death cannot finally snatch the excellent whom he claims for his presence. [[sources/commentaries_english/chspurgeon-mae/march/march-22|Spurgeon Morning and Evening, March 22]]
 - Sharers of his shame will share the glory of his Father’s coming with the holy angels; hope looks to that lustre. [[sources/commentaries_english/chspurgeon-mae/march/march-26|Spurgeon Morning and Evening, March 26]]
+
+- Death has lost its sting because the devil’s power over it is destroyed; living near Calvary strengthens for the dread hour by firm belief of the Redeemer’s death. [[sources/commentaries_english/chspurgeon-mae/april/april-20|Spurgeon Morning and Evening, April 20]]
+- In seasons of darkness and storm the Christian still says, “Thou art my hope in the day of evil”—religion’s path is not always sunshine, yet hope holds. [[sources/commentaries_english/chspurgeon-mae/april/april-29|Spurgeon Morning and Evening, April 29]]
+- Divine omniscience terrifies the ungodly but comforts the child of God: always thought upon, never out of the Father’s observation, precious thoughts that bring consolation. [[sources/commentaries_english/chspurgeon-mae/april/april-30|Spurgeon Morning and Evening, April 30]]
+- God’s people need lifting up forever; heavy by nature, they require divine grace to mount, and saints pray not only for their own ascent but for others’ souls to be raised. [[sources/commentaries_english/chspurgeon-mae/april/april-15|Spurgeon Morning and Evening, April 15]]
 
 ## Agreements and tensions
 
@@ -122,6 +127,11 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - [[sources/commentaries_english/chspurgeon-mae/march/march-8|Spurgeon Morning and Evening, March 8]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-22|Spurgeon Morning and Evening, March 22]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-26|Spurgeon Morning and Evening, March 26]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-15|Spurgeon Morning and Evening, April 15]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-20|Spurgeon Morning and Evening, April 20]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-29|Spurgeon Morning and Evening, April 29]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-30|Spurgeon Morning and Evening, April 30]]
+
 
 ## Open questions
 

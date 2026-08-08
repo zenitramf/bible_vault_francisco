@@ -5,7 +5,7 @@ description: Affliction under God's hand—permitted trial, present groan, and h
 tags: [faith, christian-life, holiness, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 18
+source_count: 23
 ---
 
 # Suffering
@@ -39,6 +39,12 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - Rachel named Ben-oni (son of sorrow) while Jacob named Benjamin (son of the right hand): faith can read mercy on the bright side of trial. [[sources/commentaries_english/chspurgeon-mae/march/march-8|Spurgeon Morning and Evening, March 8]]
 - Man is of few days and full of trouble—a mournful fact that loosens grip on earthly things and humbles prosperity’s boast. [[sources/commentaries_english/chspurgeon-mae/march/march-10|Spurgeon Morning and Evening, March 10]]
 - The Captain of salvation was made perfect through suffering; members must not expect a dainty lap when the Head wore thorns. [[sources/commentaries_english/chspurgeon-mae/march/march-29|Spurgeon Morning and Evening, March 29]]
+
+- Simon bearing the cross after Jesus pictures the church’s calling: Christ exempts from sin, not from sorrow; he bears a cross that we may endure, not escape, suffering. [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
+- On the cross he was poured out like water—ligaments strained, bones dislocated, faintness mounting through six long hours of woe. [[sources/commentaries_english/chspurgeon-mae/april/april-11|Spurgeon Morning and Evening, April 11]]
+- Deep depression of spirit is the most grievous trial; the Saviour’s melted heart teaches the sufferer to cry “Be not far from me” when heaviness dissolves courage. [[sources/commentaries_english/chspurgeon-mae/april/april-12|Spurgeon Morning and Evening, April 12]]
+- It is well with the righteous always—not only in prosperity or persecution, but in all times, because God’s shalls and wills cannot fail. [[sources/commentaries_english/chspurgeon-mae/april/april-14|Spurgeon Morning and Evening, April 14]]
+- Murmurers still cry against afflictive rods; yet the Father cannot treat the rebel more hardly than desert, and murmuring forgets mercy already received. [[sources/commentaries_english/chspurgeon-mae/april/april-30|Spurgeon Morning and Evening, April 30]]
 
 ## Agreements and tensions
 
@@ -108,6 +114,12 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - [[sources/commentaries_english/chspurgeon-mae/march/march-8|Spurgeon Morning and Evening, March 8]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-10|Spurgeon Morning and Evening, March 10]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-29|Spurgeon Morning and Evening, March 29]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-5|Spurgeon Morning and Evening, April 5]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-11|Spurgeon Morning and Evening, April 11]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-12|Spurgeon Morning and Evening, April 12]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-14|Spurgeon Morning and Evening, April 14]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-30|Spurgeon Morning and Evening, April 30]]
+
 
 ## Open questions
 

@@ -5,7 +5,7 @@ description: God-initiated relationship sealed by promise and obligation, with C
 tags: [covenant, christ, salvation, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 18
+source_count: 19
 ---
 
 # Covenant
@@ -42,6 +42,8 @@ In the retrieved commentary sources, covenant is a God-initiated bond in which G
 - Chosen in the furnace of affliction is covenant speech: election does not cancel the furnace but claims the sufferer inside it. [[sources/commentaries_english/chspurgeon-mae/march/march-3|Spurgeon Morning and Evening, March 3]]
 - All the children of God share one fatherhood by faith in Christ Jesus—Little-faith is no less a covenant child than Great-heart. [[sources/commentaries_english/chspurgeon-mae/march/march-18|Spurgeon Morning and Evening, March 18]]
 - As the Father loved the Son, so Jesus loves his people with everlasting love—covenant affection without temporal beginning. [[sources/commentaries_english/chspurgeon-mae/march/march-18|Spurgeon Morning and Evening, March 18]]
+
+- Believers may fitly renew a sure covenant after sickness, deliverance, or sin that grieved the Spirit—returning to the cross for fresh consecration. [[sources/commentaries_english/chspurgeon-mae/april/april-24|Spurgeon Morning and Evening, April 24]]
 
 ## Agreements and tensions
 
@@ -121,6 +123,8 @@ Primary passages recur across the sources above, but this concept page does not 
 - [[sources/commentaries_english/chspurgeon-mae/february/february-27|Spurgeon Morning and Evening, February 27]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-3|Spurgeon Morning and Evening, March 3]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-18|Spurgeon Morning and Evening, March 18]]
+- [[sources/commentaries_english/chspurgeon-mae/april/april-24|Spurgeon Morning and Evening, April 24]]
+
 
 ## Open questions
 

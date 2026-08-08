@@ -554,3 +554,7 @@ append_only: true
 ## [2026-08-08] ingest | Spurgeon MAE March concept mesh
 
 - Meshed March into concepts; removed month inventory note; 31 day files linked from concept hubs.
+
+## [2026-08-08] ingest | Spurgeon MAE April concept mesh
+
+- Meshed April into concepts (23 hubs); removed month inventory note; 30/30 day files linked from concept hubs. Passion/Calvary early month; exaltation, covenant renewal, promise-prayer, and watchfulness later.
