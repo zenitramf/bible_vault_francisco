@@ -5,14 +5,14 @@ description: Spirit-helped prayer within believers and Christ's mediatorial pray
 tags: [prayer, holy-spirit, christ]
 status: reviewed
 updated: 2026-08-08
-source_count: 11
+source_count: 12
 ---
 
 # Intercession
 
 ## Summary
 
-Intercession in the sources is not merely "praying hard," but divine help in prayer: the Spirit helps infirmities and intercedes with groanings that cannot be uttered, according to the will of God; Christ's John 17 prayer is peculiarly his mediatorial intercession, a specimen that also instructs believers. This page isolates that mediatorial and pneumatic aid; general patterns of petition remain on [[wiki/concepts/Prayer|Prayer]]. Spurgeon MAE (Jan 11 evening) presses the Redeemer’s never-ceasing intercession as constant encouragement beside Spirit-helped prayer. Spurgeon’s February *Morning and Evening* adds further applicative edges (meshed into claims below). March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+Intercession in the sources is not merely "praying hard," but divine help in prayer: the Spirit helps infirmities and intercedes with groanings that cannot be uttered, according to the will of God; Christ's John 17 prayer is peculiarly his mediatorial intercession, a specimen that also instructs believers. This page isolates that mediatorial and pneumatic aid; general patterns of petition remain on [[wiki/concepts/Prayer|Prayer]]. Spurgeon MAE (Jan 11 evening) presses the Redeemer’s never-ceasing intercession as constant encouragement beside Spirit-helped prayer. Spurgeon’s February *Morning and Evening* adds further applicative edges (meshed into claims below). March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -33,6 +33,8 @@ Intercession in the sources is not merely "praying hard," but divine help in pra
 
 - Who is even at the right hand of God: the exalted Christ continues representative ministry—his session securing the people’s acceptance and honour. [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
 - Christ prays that his people be kept from the evil though not taken out of the world—mediatorial prayer for pilgrims still in the fight. [[sources/commentaries_english/chspurgeon-mae/may/may-2|Spurgeon Morning and Evening, May 2]]
+
+- Pray for ministers with household fervency—the apostolic request still binds the church to its labourers. [[sources/commentaries_english/chspurgeon-mae/july/july-7|Spurgeon Morning and Evening, July 7]]
 
 ## Agreements and tensions
 
@@ -77,6 +79,7 @@ Intercession in the sources is not merely "praying hard," but divine help in pra
 - [[sources/commentaries_english/chspurgeon-mae/march/march-26|Spurgeon Morning and Evening, March 26]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-2|Spurgeon Morning and Evening, May 2]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-7|Spurgeon Morning and Evening, July 7]]
 
 ## Open questions
 

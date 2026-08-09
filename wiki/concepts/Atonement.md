@@ -5,7 +5,7 @@ description: Christ's propitiatory, substitutionary work dealing with guilt—th
 tags: [christ, redemption, salvation]
 status: reviewed
 updated: 2026-08-08
-source_count: 22
+source_count: 24
 ---
 
 # Atonement
@@ -42,6 +42,9 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 
 - The Redeemer’s “It is finished” broke the battle-gear of the church’s foes—cross and woes as hammer against our enemy’s bundles. [[sources/commentaries_english/chspurgeon-mae/june/june-11|Spurgeon Morning and Evening, June 11]]
 - Faith’s foundation includes Christ suffering for sin, the just for the unjust, as God was in Christ reconciling the world. [[sources/commentaries_english/chspurgeon-mae/june/june-21|Spurgeon Morning and Evening, June 21]]
+
+- God was “for us” when he smote the Only-begotten and laid the full weight of wrath upon him—substitutional love beyond speech. [[sources/commentaries_english/chspurgeon-mae/july/july-13|Spurgeon Morning and Evening, July 13]]
+- Every sin of the elect laid on the Champion and carried away by the atonement leaves no charge against God’s elect. [[sources/commentaries_english/chspurgeon-mae/july/july-27|Spurgeon Morning and Evening, July 27]]
 
 ## Agreements and tensions
 
@@ -103,6 +106,8 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - [[sources/commentaries_english/chspurgeon-mae/april/april-19|Spurgeon Morning and Evening, April 19]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-11|Spurgeon Morning and Evening, June 11]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-21|Spurgeon Morning and Evening, June 21]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-13|Spurgeon Morning and Evening, July 13]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-27|Spurgeon Morning and Evening, July 27]]
 
 ## Open questions
 

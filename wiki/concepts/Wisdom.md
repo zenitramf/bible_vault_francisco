@@ -5,14 +5,14 @@ description: God-given skill for living that outranks all earthly wealth; in its
 tags: [wisdom, christ, christian-life, holiness, salvation, discipleship]
 status: reviewed
 updated: 2026-08-08
-source_count: 8
+source_count: 9
 ---
 
 # Wisdom
 
 ## Summary
 
-In the retrieved sources, wisdom is not a mere cleverness of mind but a God-given skill for living that orients the whole person to his Creator. Solomon places it above every earthly possession — *better than gold, better than silver, better than rubies* (Pr 16:16; Pr 3:14; Pr 8:10–11, 19) — and Job grounds the comparison in the fact that no metal the mines yield can purchase the wisdom that comes from the fear of the Lord (Jb 28). The same commentaries read "wisdom" in Proverbs 8 as ultimately Christward: Christ is "in whom are all the treasures of wisdom and knowledge" (Col 2:3), and the wisdom the gospel imparts is at once knowledge, righteousness, sanctification, and redemption (1 Cor 1:30). Spurgeon gathers this into a single pastoral line: the only gold that truly satisfies is "gold tried in the fire" — the grace of God in Christ, received "without money and without price" (Re 3:18). May MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, wisdom is not a mere cleverness of mind but a God-given skill for living that orients the whole person to his Creator. Solomon places it above every earthly possession — *better than gold, better than silver, better than rubies* (Pr 16:16; Pr 3:14; Pr 8:10–11, 19) — and Job grounds the comparison in the fact that no metal the mines yield can purchase the wisdom that comes from the fear of the Lord (Jb 28). The same commentaries read "wisdom" in Proverbs 8 as ultimately Christward: Christ is "in whom are all the treasures of wisdom and knowledge" (Col 2:3), and the wisdom the gospel imparts is at once knowledge, righteousness, sanctification, and redemption (1 Cor 1:30). Spurgeon gathers this into a single pastoral line: the only gold that truly satisfies is "gold tried in the fire" — the grace of God in Christ, received "without money and without price" (Re 3:18). May MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -34,6 +34,8 @@ In the retrieved sources, wisdom is not a mere cleverness of mind but a God-give
 
 - Phase 3.1 adds a full Proverbs 1–31 concise atlas; hub chapters 1, 3, 8, and 16 now have dedicated passage pages for wiki-first retrieval. [[wiki/passages/Proverbs 1|Proverbs 1]] [[wiki/passages/Proverbs 8|Proverbs 8]] [[wiki/source-notes/Matthew Henry Concise on Proverbs|Matthew Henry Concise on Proverbs]]
 - Wisdom is man’s true strength and richest enjoyment; without it man is as the wild ass’s colt, rushing without guidance to his ends. [[sources/commentaries_english/chspurgeon-mae/may/may-5|Spurgeon Morning and Evening, May 5]]
+
+- David confessed foolish envy at the wicked’s prosperity; the man after God’s heart still needed to name his ignorance before God. [[sources/commentaries_english/chspurgeon-mae/july/july-28|Spurgeon Morning and Evening, July 28]]
 
 ## Agreements and tensions
 
@@ -108,6 +110,7 @@ Key loci in the present evidence:
 - [[sources/commentaries_english/chspurgeon-tod/volume-6/psalm-119/verses-97-104|Spurgeon, Treasury of David on Psalm 119:97–104]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-28/sermon_1677|Spurgeon, Sermon 1677: A Great Mistake and the Way to Rectify It (Revelation 3:17–18)]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-5|Spurgeon Morning and Evening, May 5]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-28|Spurgeon Morning and Evening, July 28]]
 
 ## Open questions
 

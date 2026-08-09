@@ -5,14 +5,14 @@ description: The whole-person yielding of the will to God — humiliation, accep
 tags: [christian-life, faith, discipleship, salvation, christ, holy-spirit, repentance, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 19
+source_count: 20
 ---
 
 # Surrender
 
 ## Summary
 
-In the retrieved sources, surrender is the act by which a creature stops resisting the Creator and throws down every weapon — humility instead of boasting, acceptance of the divine will, prompt obedience, and a Spirit-sensitive heart. Spurgeon calls the Christian form *unconditional surrender* on James 4:7, and structures the saint's life as the practice of the same submission that brings the unsaved to Christ. Matthew Henry repeatedly uses political surrenders (to Babylon, to Assyria) as foils to magnify the wisdom of yielding to the "pleasant and easy yoke" of Christ. The concept is not one Bible verse but a habit of the will that runs from Saul on the Damascus road to the believer's daily prayer, *"Thy will be done."* May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, surrender is the act by which a creature stops resisting the Creator and throws down every weapon — humility instead of boasting, acceptance of the divine will, prompt obedience, and a Spirit-sensitive heart. Spurgeon calls the Christian form *unconditional surrender* on James 4:7, and structures the saint's life as the practice of the same submission that brings the unsaved to Christ. Matthew Henry repeatedly uses political surrenders (to Babylon, to Assyria) as foils to magnify the wisdom of yielding to the "pleasant and easy yoke" of Christ. The concept is not one Bible verse but a habit of the will that runs from Saul on the Damascus road to the believer's daily prayer, *"Thy will be done."* May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -38,6 +38,8 @@ In the retrieved sources, surrender is the act by which a creature stops resisti
 - Grace’s practical effect is servant-status under God: not autonomous self-rule but livery, table, and obedience of those freed from sin’s service. [[sources/commentaries_english/chspurgeon-mae/may/may-17|Spurgeon Morning and Evening, May 17]]
 
 - The world’s Pharaoh still bargains for half-distance religion; gospel freedom refuses a compromise that keeps Egypt in view. [[sources/commentaries_english/chspurgeon-mae/june/june-27|Spurgeon Morning and Evening, June 27]]
+
+- When reduced to great straits with no path forward or back, obey “Stand still” rather than force your own exit. [[sources/commentaries_english/chspurgeon-mae/july/july-24|Spurgeon Morning and Evening, July 24]]
 
 ## Agreements and tensions
 
@@ -97,6 +99,7 @@ In the retrieved sources, surrender is the act by which a creature stops resisti
 - [[sources/commentaries_english/chspurgeon-mae/april/april-25|Spurgeon Morning and Evening, April 25]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-17|Spurgeon Morning and Evening, May 17]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-27|Spurgeon Morning and Evening, June 27]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-24|Spurgeon Morning and Evening, July 24]]
 
 ## Open questions
 

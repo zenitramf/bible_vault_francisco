@@ -5,7 +5,7 @@ description: Turning to God in contrite confession, pleading mercy through Chris
 tags: [repentance, holiness, salvation, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 19
+source_count: 21
 ---
 
 # Repentance
@@ -39,6 +39,9 @@ Sources present repentance as humble return to God with confession of sin and pl
 
 - A deep sight of sin’s heinousness should make Christians lie low before the throne—favoured yet ungrateful, privileged yet fruit-poor. [[sources/commentaries_english/chspurgeon-mae/june/june-14|Spurgeon Morning and Evening, June 14]]
 - Claiming “I also am an Israelite” needs self-search; many usurp the title without the evidence of belonging to God’s Israel. [[sources/commentaries_english/chspurgeon-mae/june/june-6|Spurgeon Morning and Evening, June 6]]
+
+- Weigh how great the sin of God’s people is—iniquities heaped mountain upon mountain, not a few alps of occasional fault. [[sources/commentaries_english/chspurgeon-mae/july/july-6|Spurgeon Morning and Evening, July 6]]
+- Peter’s tears at the memory of denial suit the whole redeemed family according to the measure of their remembered falls. [[sources/commentaries_english/chspurgeon-mae/july/july-30|Spurgeon Morning and Evening, July 30]]
 
 ## Agreements and tensions
 
@@ -105,6 +108,8 @@ Sources present repentance as humble return to God with confession of sin and pl
 - [[sources/commentaries_english/chspurgeon-mae/april/april-28|Spurgeon Morning and Evening, April 28]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-6|Spurgeon Morning and Evening, June 6]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-14|Spurgeon Morning and Evening, June 14]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-6|Spurgeon Morning and Evening, July 6]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-30|Spurgeon Morning and Evening, July 30]]
 
 ## Open questions
 

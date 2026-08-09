@@ -5,14 +5,14 @@ description: Trust in God's promise and in Christ; the means of justification an
 tags: [faith, salvation, christ, covenant, stewardship]
 status: reviewed
 updated: 2026-08-08
-source_count: 48
+source_count: 54
 ---
 
 # Faith
 
 ## Summary
 
-In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -75,6 +75,13 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - The three champions before the furnace model steadfastness that will not bow to tyranny even in the jaws of death. [[sources/commentaries_english/chspurgeon-mae/june/june-24|Spurgeon Morning and Evening, June 24]]
 - Satan pushes self-scrutiny (“sins too great,” “no faith enough”); the Spirit turns eyes from self to Jesus. [[sources/commentaries_english/chspurgeon-mae/june/june-28|Spurgeon Morning and Evening, June 28]]
 - Buying a field while Chaldeans besiege models faith that acts on God’s word when sight screams folly. [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
+
+- Rest upon such a God with all your weight; drive out unbelief that grieves the Father as a child who will not trust a loving parent. [[sources/commentaries_english/chspurgeon-mae/july/july-5|Spurgeon Morning and Evening, July 5]]
+- Faith’s strength lies in the food it feeds on—the promise as grace overflowing from God’s heart, therefore certain of fulfillment. [[sources/commentaries_english/chspurgeon-mae/july/july-8|Spurgeon Morning and Evening, July 8]]
+- Strong faith looks with calm contempt on haughty foes: they attempt impossibilities against eternal life God has given. [[sources/commentaries_english/chspurgeon-mae/july/july-21|Spurgeon Morning and Evening, July 21]]
+- When shut up with no retreat, “Stand still” is the Master’s word—listen rather than thrash in frantic self-help. [[sources/commentaries_english/chspurgeon-mae/july/july-24|Spurgeon Morning and Evening, July 24]]
+- For full assurance under the Spirit, give diligence: right-kind faith depends on Christ alone, not mere doctrinal assent. [[sources/commentaries_english/chspurgeon-mae/july/july-26|Spurgeon Morning and Evening, July 26]]
+- Tread the promises like grapes in the press; meditating hallowed words is often the prelude to their fulfilment. [[sources/commentaries_english/chspurgeon-mae/july/july-27|Spurgeon Morning and Evening, July 27]]
 
 ## Agreements and tensions
 
@@ -184,6 +191,12 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/june/june-24|Spurgeon Morning and Evening, June 24]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-28|Spurgeon Morning and Evening, June 28]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-5|Spurgeon Morning and Evening, July 5]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-8|Spurgeon Morning and Evening, July 8]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-21|Spurgeon Morning and Evening, July 21]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-24|Spurgeon Morning and Evening, July 24]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-26|Spurgeon Morning and Evening, July 26]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-27|Spurgeon Morning and Evening, July 27]]
 
 ## Open questions
 

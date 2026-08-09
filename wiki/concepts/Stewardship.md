@@ -5,14 +5,14 @@ description: Entrusted life, ministry, and goods—first giving oneself to the L
 tags: [discipleship, church, pastoral-ministry, christian-life, worship]
 status: reviewed
 updated: 2026-08-08
-source_count: 11
+source_count: 12
 ---
 
 # Stewardship
 
 ## Summary
 
-Sources present stewardship as faithful handling of what God entrusts: Macedonian generosity begins with giving themselves to the Lord; grace is the root of good works and charity; ministry is a stewardship committed by God with an expectation of faithfulness; considering the poor is blessed. Spurgeon's church batch and the 1 Timothy 1:12 devotional supply ministry-stewardship language; Henry's 2 Corinthians 8 and FCB samples supply material generosity; McGee on 2 Corinthians 8–9 frames Christian giving as grace (not demanded tithe rule), person-before-gift, cheerful/hilarious giving, and never out-giving God; Ringo Ayala's Spanish-language sermon on "De quién es tu dinero" grounds stewardship in God's ownership by creation, preservation, and provision, with the believer as steward and giving as a return of what God first gave. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
+Sources present stewardship as faithful handling of what God entrusts: Macedonian generosity begins with giving themselves to the Lord; grace is the root of good works and charity; ministry is a stewardship committed by God with an expectation of faithfulness; considering the poor is blessed. Spurgeon's church batch and the 1 Timothy 1:12 devotional supply ministry-stewardship language; Henry's 2 Corinthians 8 and FCB samples supply material generosity; McGee on 2 Corinthians 8–9 frames Christian giving as grace (not demanded tithe rule), person-before-gift, cheerful/hilarious giving, and never out-giving God; Ringo Ayala's Spanish-language sermon on "De quién es tu dinero" grounds stewardship in God's ownership by creation, preservation, and provision, with the believer as steward and giving as a return of what God first gave. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -31,6 +31,8 @@ Sources present stewardship as faithful handling of what God entrusts: Macedonia
 
 - The king needed potters as well as princes; lowly clay-work in royal service is true stewardship of assigned place. [[sources/commentaries_english/chspurgeon-mae/june/june-3|Spurgeon Morning and Evening, June 3]]
 - Magnify God in the calling where you are found—earnestness in ordinary work, not only clerical office, serves the Most High. [[sources/commentaries_english/chspurgeon-mae/june/june-27|Spurgeon Morning and Evening, June 27]]
+
+- A large-hearted Christian has springs of comfort beyond self—God first, then arguments of love to others in trouble. [[sources/commentaries_english/chspurgeon-mae/july/july-16|Spurgeon Morning and Evening, July 16]]
 
 ## Agreements and tensions
 
@@ -85,6 +87,7 @@ Sources present stewardship as faithful handling of what God entrusts: Macedonia
 - [[sources/commentaries_english/chspurgeon-mae/may/may-20|Spurgeon Morning and Evening, May 20]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-3|Spurgeon Morning and Evening, June 3]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-27|Spurgeon Morning and Evening, June 27]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-16|Spurgeon Morning and Evening, July 16]]
 
 ## Open questions
 

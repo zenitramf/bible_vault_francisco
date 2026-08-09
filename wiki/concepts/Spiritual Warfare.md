@@ -5,14 +5,14 @@ description: The Christian life as a real war against the devil, principalities 
 tags: [christ, holy-spirit, holiness, discipleship, christian-life]
 status: reviewed
 updated: 2026-08-08
-source_count: 28
+source_count: 30
 ---
 
 # Spiritual Warfare
 
 ## Summary
 
-The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7). McGee on 2 Corinthians adds Satan’s devices against unforgiving churches, gospel-blinding as the god of this world, attractive false ministers, and a weapons triad (Word, Spirit, prayer) with success measured spiritually not by numbers or money. Spurgeon January MAE adds fowler-snare deliverance (prevention and rescue) and the constant nearness of temptation. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
+The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7). McGee on 2 Corinthians adds Satan’s devices against unforgiving churches, gospel-blinding as the god of this world, attractive false ministers, and a weapons triad (Word, Spirit, prayer) with success measured spiritually not by numbers or money. Spurgeon January MAE adds fowler-snare deliverance (prevention and rescue) and the constant nearness of temptation. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -49,6 +49,9 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 - “It is finished” was the death-knell of the church’s adversaries: Golgotha’s cross as anvil shatters arrows, shield, and sword. [[sources/commentaries_english/chspurgeon-mae/june/june-11|Spurgeon Morning and Evening, June 11]]
 - Every sifting comes by divine permission; Satan may hold the sieve, but the Overruler sifts to purify the corn, not destroy it. [[sources/commentaries_english/chspurgeon-mae/june/june-20|Spurgeon Morning and Evening, June 20]]
 - When God casts a divine principle into the heart, counterfeits and swarms of foes are swallowed as Aaron’s rod swallowed the magicians’ serpents. [[sources/commentaries_english/chspurgeon-mae/june/june-28|Spurgeon Morning and Evening, June 28]]
+
+- Jehovah is a man of war; all heaven’s forces wait at his beck—consider the mightiness of the Lord who is your defence. [[sources/commentaries_english/chspurgeon-mae/july/july-24|Spurgeon Morning and Evening, July 24]]
+- Israel forsook the true God after sundry miracles and mercies; breaking the hedges of the sacred garden is spiritual treason. [[sources/commentaries_english/chspurgeon-mae/july/july-20|Spurgeon Morning and Evening, July 20]]
 
 ## Agreements and tensions
 
@@ -123,6 +126,8 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[sources/commentaries_english/chspurgeon-mae/june/june-11|Spurgeon Morning and Evening, June 11]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-20|Spurgeon Morning and Evening, June 20]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-28|Spurgeon Morning and Evening, June 28]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-20|Spurgeon Morning and Evening, July 20]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-24|Spurgeon Morning and Evening, July 24]]
 
 ## Open questions
 

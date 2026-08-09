@@ -1,7 +1,7 @@
 ---
 type: Source Note
 title: Spurgeon Morning and Evening Theme Enrichment
-description: January–June meshed into concepts; remaining months still selective/sample or inventory-only.
+description: January–July meshed into concepts; remaining months still selective/sample or inventory-only.
 tags: [prayer, worship, christ, holiness]
 status: developing
 updated: 2026-08-08
@@ -26,6 +26,8 @@ Selective thematic enrichment from Spurgeon daily devotionals. **Rule:** enrich 
 **May (2026-08-08):** full-month concept mesh—31/31 day files linked from concept hubs (Worship, Christ, Hope, Faith, Holiness, Covenant, Sin and the Fall, Church, Wisdom, Salvation, Grace, Holy Spirit, Resurrection, Justification, Discipleship, Suffering, Prayer, Intercession, Spiritual Warfare, Stewardship, Surrender, Word of God, Pastoral Ministry). The former May month source-note was removed.
 
 **June (2026-08-08):** full-month concept mesh—30/30 day files linked from concept hubs (Creation, Hope, Holiness, Discipleship, Christ, Salvation, Faith, Sin and the Fall, Spiritual Warfare, Word of God, Grace, Worship, Repentance, Prayer, Church, Holy Spirit, Suffering, Atonement, Redemption, Covenant, Stewardship, Resurrection, Surrender). The former June month source-note was removed.
+
+**July (2026-08-08):** full-month concept mesh—31/31 day files linked from concept hubs (Christ, Prayer, Hope, Suffering, Holiness, Faith, Salvation, Grace, Repentance, Discipleship, Covenant, Word of God, Church, Spiritual Warfare, Atonement, Justification, Worship, Holy Spirit, Intercession, Stewardship, Creation, Wisdom, Surrender, Resurrection, Redemption). The former July month source-note was removed.
 
 ## Core claims
 
@@ -64,4 +66,4 @@ Varies by daily entry (see individual files).
 ## Open questions
 
 - Which concept pages most need additional devotional color without diluting multi-source claims?
-- Which remaining MAE months (July–Dec) should next follow the concept-mesh pattern (no month notes)?
+- Which remaining MAE months (August–Dec) should next follow the concept-mesh pattern (no month notes)?

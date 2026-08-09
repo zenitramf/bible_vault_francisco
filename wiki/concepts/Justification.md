@@ -5,14 +5,14 @@ description: God's free declaration that sinners are righteous by grace through 
 tags: [salvation, faith, christ, redemption]
 status: reviewed
 updated: 2026-08-08
-source_count: 14
+source_count: 16
 ---
 
 # Justification
 
 ## Summary
 
-In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete on Romans 3–4, justification is God’s free, gracious acceptance of guilty sinners through the righteousness of Christ received by faith. It shuts out boasting, does not rest on works of the law, is illustrated in Abraham, and issues in peace with God and a life that still pursues holiness. Spurgeon January MAE applies justification’s comfort: peace from Christ’s perfect righteousness and completeness in him amid felt imperfection. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges.
+In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete on Romans 3–4, justification is God’s free, gracious acceptance of guilty sinners through the righteousness of Christ received by faith. It shuts out boasting, does not rest on works of the law, is illustrated in Abraham, and issues in peace with God and a life that still pursues holiness. Spurgeon January MAE applies justification’s comfort: peace from Christ’s perfect righteousness and completeness in him amid felt imperfection. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -36,6 +36,9 @@ In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete o
 - Mourning over inbred corruption, look to the perfect Lord: complete in him, as perfect in God’s sight as if never sinned, clothed with the righteousness of God in the Lord our Righteousness. [[sources/commentaries_english/chspurgeon-mae/april/april-4|Spurgeon Morning and Evening, April 4]]
 - The believer receives a present justification: faith yields this fruit now when the soul closes with Christ, as truly justified as those who walk in white above. [[sources/commentaries_english/chspurgeon-mae/may/may-15|Spurgeon Morning and Evening, May 15]]
 - Two perfections are needed—justification in Jesus’ person now, and sanctification wrought by the Spirit unto completion. [[sources/commentaries_english/chspurgeon-mae/may/may-15|Spurgeon Morning and Evening, May 15]]
+
+- There is no sin in God’s book against his people; they are justified in Christ forever when guilt was taken away. [[sources/commentaries_english/chspurgeon-mae/july/july-27|Spurgeon Morning and Evening, July 27]]
+- Clean hands matter: wash them in Jesus’ blood rather than treat works with contempt under a perverted free-grace slogan. [[sources/commentaries_english/chspurgeon-mae/july/july-4|Spurgeon Morning and Evening, July 4]]
 
 ## Agreements and tensions
 
@@ -86,6 +89,8 @@ Key loci: Romans 3:19–31; Romans 4; Romans 5:1–11; Romans 6:1–2; Genesis 1
 - [[sources/commentaries_english/chspurgeon-mae/march/march-28|Spurgeon Morning and Evening, March 28]]
 - [[sources/commentaries_english/chspurgeon-mae/april/april-4|Spurgeon Morning and Evening, April 4]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-15|Spurgeon Morning and Evening, May 15]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-4|Spurgeon Morning and Evening, July 4]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-27|Spurgeon Morning and Evening, July 27]]
 
 ## Open questions
 

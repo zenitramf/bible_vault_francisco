@@ -27,7 +27,7 @@ updated: 2026-08-08
 | April | 30 | **done** (2026-08-08) | **removed** | Concept-meshed; 30/30 day files linked |
 | May | 31 | **done** (2026-08-08) | **removed** | Concept-meshed; 31/31 day files linked |
 | June | 30 | **done** (2026-08-08) | **removed** | Concept-meshed; 30/30 day files linked |
-| July | 31 | pending | exists | |
+| July | 31 | **done** (2026-08-08) | **removed** | Concept-meshed; 31/31 day files linked |
 | August | 31 | pending | exists | |
 | September | 30 | pending | exists | |
 | October | 31 | pending | exists | |
@@ -40,7 +40,6 @@ Each day file has **Morning** and **Evening** sections (two readings per day).
 **Legacy inventory notes to remove as each month meshes:**
 
 ```
-wiki/source-notes/Spurgeon Morning and Evening — July.md
 wiki/source-notes/Spurgeon Morning and Evening — August.md
 wiki/source-notes/Spurgeon Morning and Evening — September.md
 wiki/source-notes/Spurgeon Morning and Evening — October.md
@@ -48,7 +47,7 @@ wiki/source-notes/Spurgeon Morning and Evening — November.md
 wiki/source-notes/Spurgeon Morning and Evening — December.md
 ```
 
-(January–June already removed.)
+(January–July already removed.)
 
 **Related:**
 

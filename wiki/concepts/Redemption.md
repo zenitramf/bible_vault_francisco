@@ -5,7 +5,7 @@ description: Price-paid deliverance through Christ, foundational for belonging t
 tags: [redemption, christ, salvation]
 status: reviewed
 updated: 2026-08-08
-source_count: 13
+source_count: 14
 ---
 
 # Redemption
@@ -34,6 +34,8 @@ In the Spurgeon sermons retrieved for this concept, redemption is the central go
 
 - Jesus the Redeemer is altogether ours forever; every office and title of his is held on the church’s behalf. [[sources/commentaries_english/chspurgeon-mae/june/june-18|Spurgeon Morning and Evening, June 18]]
 - He has given us his all—superlative liberality that would not rest until the whole inheritance of the Son was shared. [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
+
+- The whole of the Church’s purchase-money was paid before the Spirit brought her to know and love her Husband. [[sources/commentaries_english/chspurgeon-mae/july/july-22|Spurgeon Morning and Evening, July 22]]
 
 ## Agreements and tensions
 
@@ -97,6 +99,7 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-18|Spurgeon Morning and Evening, June 18]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-22|Spurgeon Morning and Evening, July 22]]
 
 ## Open questions
 

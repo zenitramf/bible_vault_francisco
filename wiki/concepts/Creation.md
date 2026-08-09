@@ -5,14 +5,14 @@ description: God's free, ordered work by word and Spirit, establishing his owner
 tags: [creation, holy-spirit, christ]
 status: reviewed
 updated: 2026-08-08
-source_count: 7
+source_count: 9
 ---
 
 # Creation
 
 ## Summary
 
-Matthew Henry's Genesis 1 expositions present creation as the foundation of religion: God freely made heaven and earth by his word, ordered a formless void into a very good world, and formed humanity last as his image-bearing representative. The same sources repeatedly use creation as an analogy for the Spirit's new-creation work in the soul, while insisting that the biblical account is given to lead readers to God rather than to satisfy scientific curiosity. Spurgeon January MAE (Gen 1:4 morning and evening) links creation light to gospel illumination and the Lord’s pleasure in the light he makes. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). June MAE claims are meshed alongside earlier applicative edges.
+Matthew Henry's Genesis 1 expositions present creation as the foundation of religion: God freely made heaven and earth by his word, ordered a formless void into a very good world, and formed humanity last as his image-bearing representative. The same sources repeatedly use creation as an analogy for the Spirit's new-creation work in the soul, while insisting that the biblical account is given to lead readers to God rather than to satisfy scientific curiosity. Spurgeon January MAE (Gen 1:4 morning and evening) links creation light to gospel illumination and the Lord’s pleasure in the light he makes. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -33,6 +33,9 @@ Matthew Henry's Genesis 1 expositions present creation as the foundation of reli
 - The grandeur of the heavens laughs human boasting to scorn: we cannot bind Pleiades or loose Orion; nature humbles the pretender to power. [[sources/commentaries_english/chspurgeon-mae/march/march-21|Spurgeon Morning and Evening, March 21]]
 
 - Light and darkness already divided the first day of creation; so believers must expect changes from prosperity’s sunshine to adversity’s midnight in circumstances and soul. [[sources/commentaries_english/chspurgeon-mae/june/june-1|Spurgeon Morning and Evening, June 1]]
+
+- Even evening “darkness” and morning “light” together take the name of day from the light—creation’s naming mirrors spiritual identity. [[sources/commentaries_english/chspurgeon-mae/july/july-10|Spurgeon Morning and Evening, July 10]]
+- Order in locust columns and rolling spheres alike shows the Lord has infused order into the smallest and greatest of his works. [[sources/commentaries_english/chspurgeon-mae/july/july-18|Spurgeon Morning and Evening, July 18]]
 
 ## Agreements and tensions
 
@@ -84,6 +87,8 @@ Phase 4 full-corpus volume/month source-notes are linked under Related pages for
 - [[sources/commentaries_english/chspurgeon-mae/january/january-5|Spurgeon Morning and Evening, January 5]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-21|Spurgeon Morning and Evening, March 21]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-1|Spurgeon Morning and Evening, June 1]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-10|Spurgeon Morning and Evening, July 10]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-18|Spurgeon Morning and Evening, July 18]]
 
 ## Open questions
 

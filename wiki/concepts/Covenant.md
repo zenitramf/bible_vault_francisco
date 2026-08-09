@@ -5,14 +5,14 @@ description: God-initiated relationship sealed by promise and obligation, with C
 tags: [covenant, christ, salvation, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 23
+source_count: 25
 ---
 
 # Covenant
 
 ## Summary
 
-In the retrieved commentary sources, covenant is a God-initiated bond in which God binds himself by promise and draws a people into mutual relation with himself. Abrahamic covenant materials emphasize God as all-sufficient, the promise of seed and land, and faith as the way of receiving righteousness. Later prophetic and New Testament sources present a new covenant mediated by Christ, written on the heart, and superior to the Sinai administration without cancelling the Abrahamic promise. McGee on 1–2 Samuel supplies the primary Davidic-covenant locus (2 Samuel 7): God builds David a house, promises king and kingdom in his line, and the NT trajectory (Matthew 1:1; Luke 1:32–33; Acts 2; Romans 1:3; Revelation 22:16) rests on that oath. McGee on 1 Chronicles 17 adds the Davidic house promise in the temple-desire context as Chronicles’ religious reading of the same covenant material. McGee on 1–2 Kings shows the Davidic standard (“as David his father”) measuring every king, division delayed for David’s sake, Athaliah’s attempt on David’s line, and final Judah captivity under Babylon when the nation exhausts patience—covenant fidelity and failure on the throne. Spurgeon January MAE adds covenant-in-Christ language: Christ as covenant substance and gift, “I will be their God” as full satisfaction, and joint inheritance under the federal head. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
+In the retrieved commentary sources, covenant is a God-initiated bond in which God binds himself by promise and draws a people into mutual relation with himself. Abrahamic covenant materials emphasize God as all-sufficient, the promise of seed and land, and faith as the way of receiving righteousness. Later prophetic and New Testament sources present a new covenant mediated by Christ, written on the heart, and superior to the Sinai administration without cancelling the Abrahamic promise. McGee on 1–2 Samuel supplies the primary Davidic-covenant locus (2 Samuel 7): God builds David a house, promises king and kingdom in his line, and the NT trajectory (Matthew 1:1; Luke 1:32–33; Acts 2; Romans 1:3; Revelation 22:16) rests on that oath. McGee on 1 Chronicles 17 adds the Davidic house promise in the temple-desire context as Chronicles’ religious reading of the same covenant material. McGee on 1–2 Kings shows the Davidic standard (“as David his father”) measuring every king, division delayed for David’s sake, Athaliah’s attempt on David’s line, and final Judah captivity under Babylon when the nation exhausts patience—covenant fidelity and failure on the throne. Spurgeon January MAE adds covenant-in-Christ language: Christ as covenant substance and gift, “I will be their God” as full satisfaction, and joint inheritance under the federal head. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -50,6 +50,9 @@ In the retrieved commentary sources, covenant is a God-initiated bond in which G
 - Like Mephibosheth at David’s table for Jonathan’s sake, the unworthy sit continually at the King’s board because of the Beloved’s features seen in them. [[sources/commentaries_english/chspurgeon-mae/may/may-27|Spurgeon Morning and Evening, May 27]]
 
 - Things which cannot be shaken remain when all under the rolling skies changes—covenant realities outlast moth-eaten treasures. [[sources/commentaries_english/chspurgeon-mae/june/june-22|Spurgeon Morning and Evening, June 22]]
+
+- God’s great design in all works is the manifestation of his own glory—any lesser aim is unworthy of himself. [[sources/commentaries_english/chspurgeon-mae/july/july-19|Spurgeon Morning and Evening, July 19]]
+- Spiritual privileges set us among princes: fellowship with Father and Son, a chosen generation and royal priesthood. [[sources/commentaries_english/chspurgeon-mae/july/july-26|Spurgeon Morning and Evening, July 26]]
 
 ## Agreements and tensions
 
@@ -134,6 +137,8 @@ Primary passages recur across the sources above, but this concept page does not 
 - [[sources/commentaries_english/chspurgeon-mae/may/may-5|Spurgeon Morning and Evening, May 5]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-27|Spurgeon Morning and Evening, May 27]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-22|Spurgeon Morning and Evening, June 22]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-19|Spurgeon Morning and Evening, July 19]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-26|Spurgeon Morning and Evening, July 26]]
 
 ## Open questions
 

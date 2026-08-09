@@ -5,14 +5,14 @@ description: Affliction under God's hand—permitted trial, present groan, and h
 tags: [faith, christian-life, holiness, prayer]
 status: reviewed
 updated: 2026-08-08
-source_count: 29
+source_count: 31
 ---
 
 # Suffering
 
 ## Summary
 
-Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble. Spurgeon January MAE applies suffering to care-casting under personal divine care, evening visitations of the Lord’s hand, and inscrutable providence in success and failure. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
+Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble. Spurgeon January MAE applies suffering to care-casting under personal divine care, evening visitations of the Lord’s hand, and inscrutable providence in success and failure. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -54,6 +54,9 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 
 - Siftings of the house of Israel are under divine command; the sieve that feels like Satan’s destruction is heaven’s purification. [[sources/commentaries_english/chspurgeon-mae/june/june-20|Spurgeon Morning and Evening, June 20]]
 - The three holy children’s courage under threat trains young Christians for firmness when truth meets tyranny. [[sources/commentaries_english/chspurgeon-mae/june/june-24|Spurgeon Morning and Evening, June 24]]
+
+- We must not claim suffering with Christ if we are not in Christ; only those trusting Jesus only may hope to reign with him. [[sources/commentaries_english/chspurgeon-mae/july/july-3|Spurgeon Morning and Evening, July 3]]
+- Losses and adversities are often the Shepherd’s dogs that worry wandering sheep back to the fold—taming lions by bringing them down. [[sources/commentaries_english/chspurgeon-mae/july/july-25|Spurgeon Morning and Evening, July 25]]
 
 ## Agreements and tensions
 
@@ -134,6 +137,8 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - [[sources/commentaries_english/chspurgeon-mae/may/may-31|Spurgeon Morning and Evening, May 31]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-20|Spurgeon Morning and Evening, June 20]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-24|Spurgeon Morning and Evening, June 24]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-3|Spurgeon Morning and Evening, July 3]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-25|Spurgeon Morning and Evening, July 25]]
 
 ## Open questions
 

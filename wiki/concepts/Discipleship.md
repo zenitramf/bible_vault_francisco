@@ -5,14 +5,14 @@ description: Following Christ through self-denial, cross-bearing, and counted co
 tags: [discipleship, christ, christian-life, faith]
 status: reviewed
 updated: 2026-08-08
-source_count: 41
+source_count: 49
 ---
 
 # Discipleship
 
 ## Summary
 
-In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -66,6 +66,15 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 - Simon and Andrew obeyed the call at once; prompt practice of what we hear enriches more than mere attendance at means. [[sources/commentaries_english/chspurgeon-mae/june/june-20|Spurgeon Morning and Evening, June 20]]
 - Knowing Christ is like climbing a mountain: higher stages reveal more of his glory than the valley base imagined. [[sources/commentaries_english/chspurgeon-mae/june/june-25|Spurgeon Morning and Evening, June 25]]
 - It is not office but earnestness that magnifies God—ordinary callings can be lived for him as truly as pulpits. [[sources/commentaries_english/chspurgeon-mae/june/june-27|Spurgeon Morning and Evening, June 27]]
+
+- All whom God has called and sanctified are saints; do not reserve the title for apostles as if ordinary believers faced lesser weakness. [[sources/commentaries_english/chspurgeon-mae/july/july-5|Spurgeon Morning and Evening, July 5]]
+- Ask still to be led onward like a child and further instructed in truth’s alphabet—experimental teaching is lifelong. [[sources/commentaries_english/chspurgeon-mae/july/july-8|Spurgeon Morning and Evening, July 8]]
+- Mark God’s hand in your own life as profitably as in ancient saints—goodness, mercy, and covenant faithfulness toward you. [[sources/commentaries_english/chspurgeon-mae/july/july-9|Spurgeon Morning and Evening, July 9]]
+- Citizens of heaven live under heaven’s government: Christ reigns in the heart and the Great King’s decrees are cheerfully obeyed. [[sources/commentaries_english/chspurgeon-mae/july/july-10|Spurgeon Morning and Evening, July 10]]
+- Hand down gospel and covenant witness from the family hearth; a bad preacher who neglects home is a worse Christian parent who does. [[sources/commentaries_english/chspurgeon-mae/july/july-11|Spurgeon Morning and Evening, July 11]]
+- Learn from Mary Magdalene: early, hungering seeking obtains fellowship; a heart content to wait for distant communion never finds it. [[sources/commentaries_english/chspurgeon-mae/july/july-14|Spurgeon Morning and Evening, July 14]]
+- Greatness of pre-conversion sin does not bar the highest fellowship—Mary Magdalene, special trophy of delivering power, saw him first. [[sources/commentaries_english/chspurgeon-mae/july/july-15|Spurgeon Morning and Evening, July 15]]
+- Brotherly kindness was due from Edom; a bad action is worse when “thou” of all people commits it against the people of God. [[sources/commentaries_english/chspurgeon-mae/july/july-23|Spurgeon Morning and Evening, July 23]]
 
 ## Agreements and tensions
 
@@ -147,6 +156,14 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[sources/commentaries_english/chspurgeon-mae/june/june-20|Spurgeon Morning and Evening, June 20]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-25|Spurgeon Morning and Evening, June 25]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-27|Spurgeon Morning and Evening, June 27]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-5|Spurgeon Morning and Evening, July 5]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-8|Spurgeon Morning and Evening, July 8]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-9|Spurgeon Morning and Evening, July 9]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-10|Spurgeon Morning and Evening, July 10]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-11|Spurgeon Morning and Evening, July 11]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-14|Spurgeon Morning and Evening, July 14]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-15|Spurgeon Morning and Evening, July 15]]
+- [[sources/commentaries_english/chspurgeon-mae/july/july-23|Spurgeon Morning and Evening, July 23]]
 
 ## Open questions
 
