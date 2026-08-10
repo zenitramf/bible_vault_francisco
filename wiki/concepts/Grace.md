@@ -4,15 +4,15 @@ title: Grace
 description: God's free, undeserved favor in Christ that grounds salvation, justification, and good works without purchasing merit (Rom 3–5; Eph 2).
 tags: [salvation, faith, christ, christian-life]
 status: reviewed
-updated: 2026-08-08
-source_count: 33
+updated: 2026-08-09
+source_count: 40
 ---
 
 # Grace
 
 ## Summary
 
-In the vault sources, grace is God's free favor toward sinners: salvation is received by faith *so that* it may be by grace and the promise sure; justification is free by grace through the redemption in Christ; and even charity and usefulness spring from grace rather than self-generated merit. Spurgeon presses free-grace reception of salvation; Henry maps free justification and grace that superabounds beyond Adam's offense. McGee on 2 Peter adds the epistle’s closing program—grow in grace and in the knowledge of the Lord and Savior Jesus Christ (2 Peter 3:18)—as the believer’s all-important present path under the threat of apostasy and the certainty of the Lord’s coming. McGee on Acts casts the Jerusalem council as law vs grace/liberty: Gentiles are not put under Moses for salvation, while the same grace may permit Jewish believers to keep precepts when not trusted for standing (Paul’s vow, ch. 21). Spurgeon January MAE presses progressive grace: multipoint growth, daily renewal, and humbling that fruitfulness is planted favor not native stock. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
+In the vault sources, grace is God's free favor toward sinners: salvation is received by faith *so that* it may be by grace and the promise sure; justification is free by grace through the redemption in Christ; and even charity and usefulness spring from grace rather than self-generated merit. Spurgeon presses free-grace reception of salvation; Henry maps free justification and grace that superabounds beyond Adam's offense. McGee on 2 Peter adds the epistle’s closing program—grow in grace and in the knowledge of the Lord and Savior Jesus Christ (2 Peter 3:18)—as the believer’s all-important present path under the threat of apostasy and the certainty of the Lord’s coming. McGee on Acts casts the Jerusalem council as law vs grace/liberty: Gentiles are not put under Moses for salvation, while the same grace may permit Jewish believers to keep precepts when not trusted for standing (Paul’s vow, ch. 21). Spurgeon January MAE presses progressive grace: multipoint growth, daily renewal, and humbling that fruitfulness is planted favor not native stock. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -57,6 +57,15 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - Never live on old manna: fresh oil must be poured; all richest enjoyments depend on the Lord’s present good will in Jesus. [[sources/commentaries_english/chspurgeon-mae/july/july-16|Spurgeon Morning and Evening, July 16]]
 - The Danites marched rear yet shared pillar, manna, rock, and inheritance—position in the host does not cancel equal grace. [[sources/commentaries_english/chspurgeon-mae/july/july-18|Spurgeon Morning and Evening, July 18]]
 - The bruised reed and smoking flax are not crushed or quenched; the weakest believers are met with tender care, not contempt. [[sources/commentaries_english/chspurgeon-mae/july/july-19|Spurgeon Morning and Evening, July 19]]
+
+- All the year round, every hour, God richly blesses: his lovingkindness flows like a river inexhaustible as his nature. [[sources/commentaries_english/chspurgeon-mae/august/august-1|Spurgeon Morning and Evening, August 1]]
+- God’s mercy is tender, great, and infinite—he heals the brokenhearted with gentle touch and forgives great sins to great sinners. [[sources/commentaries_english/chspurgeon-mae/august/august-17|Spurgeon Morning and Evening, August 17]]
+- Times of barrenness—lifeless prayer, cold love, weak faith—call for the refreshing shower, not despair of being his planting. [[sources/commentaries_english/chspurgeon-mae/august/august-28|Spurgeon Morning and Evening, August 28]]
+
+- Heart-cheering truth: God delights in his saints though they see no reason in themselves and often groan under unfaithfulness. [[sources/commentaries_english/chspurgeon-mae/september/september-21|Spurgeon Morning and Evening, September 21]]
+- Knocking was not enough for a cold heart; the touch of effectual grace made the soul bestir—longsuffering Beloved who tarries and knocks again. [[sources/commentaries_english/chspurgeon-mae/september/september-27|Spurgeon Morning and Evening, September 27]]
+- God stoops from the throne to attend human woes—grace pictured as personal visitation, not distant indifference. [[sources/commentaries_english/chspurgeon-mae/september/september-28|Spurgeon Morning and Evening, September 28]]
+- Life in its humblest spiritual form is superior to death: the lowest degree of grace beats the noblest unregenerate nature. [[sources/commentaries_english/chspurgeon-mae/september/september-30|Spurgeon Morning and Evening, September 30]]
 
 ## Agreements and tensions
 
@@ -134,6 +143,13 @@ In the vault sources, grace is God's free favor toward sinners: salvation is rec
 - [[sources/commentaries_english/chspurgeon-mae/july/july-16|Spurgeon Morning and Evening, July 16]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-18|Spurgeon Morning and Evening, July 18]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-19|Spurgeon Morning and Evening, July 19]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-1|Spurgeon Morning and Evening, August 1]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-17|Spurgeon Morning and Evening, August 17]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-28|Spurgeon Morning and Evening, August 28]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-21|Spurgeon Morning and Evening, September 21]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-27|Spurgeon Morning and Evening, September 27]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-28|Spurgeon Morning and Evening, September 28]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-30|Spurgeon Morning and Evening, September 30]]
 
 ## Open questions
 

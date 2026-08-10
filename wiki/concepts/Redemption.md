@@ -4,8 +4,8 @@ title: Redemption
 description: Price-paid deliverance through Christ, foundational for belonging to God and freedom from sin (1 Cor 6:19–20; Rom 3:24–26).
 tags: [redemption, christ, salvation]
 status: reviewed
-updated: 2026-08-08
-source_count: 14
+updated: 2026-08-09
+source_count: 16
 ---
 
 # Redemption
@@ -36,6 +36,10 @@ In the Spurgeon sermons retrieved for this concept, redemption is the central go
 - He has given us his all—superlative liberality that would not rest until the whole inheritance of the Son was shared. [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
 
 - The whole of the Church’s purchase-money was paid before the Spirit brought her to know and love her Husband. [[sources/commentaries_english/chspurgeon-mae/july/july-22|Spurgeon Morning and Evening, July 22]]
+
+- He bought us as part of the Lamb’s light-joy in heaven: purchased belonging stands among the clusters of Eshcol for the glorified. [[sources/commentaries_english/chspurgeon-mae/august/august-3|Spurgeon Morning and Evening, August 3]] September MAE claims are meshed alongside earlier applicative edges.
+
+- Bought with blood, you are not your own: the Redeemer’s jealousy will not endure that you treat yourself as the world’s or self’s property. [[sources/commentaries_english/chspurgeon-mae/september/september-12|Spurgeon Morning and Evening, September 12]]
 
 ## Agreements and tensions
 
@@ -100,6 +104,8 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/june/june-18|Spurgeon Morning and Evening, June 18]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-30|Spurgeon Morning and Evening, June 30]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-22|Spurgeon Morning and Evening, July 22]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-3|Spurgeon Morning and Evening, August 3]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-12|Spurgeon Morning and Evening, September 12]]
 
 ## Open questions
 

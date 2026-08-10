@@ -4,15 +4,15 @@ title: Pastoral Ministry
 description: Qualified oversight and feeding of Christ's flock for the church's edification (1 Tim 3; 1 Pet 5; Jn 21:16).
 tags: [pastoral-ministry, church, christ, discipleship]
 status: reviewed
-updated: 2026-08-08
-source_count: 9
+updated: 2026-08-09
+source_count: 11
 ---
 
 # Pastoral Ministry
 
 ## Summary
 
-Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn. McGee’s Notes & Outlines add a local-church order frame for the Pastorals, elder/bishop identity, and the charge to preach the Word and hold sound doctrine in days of apostasy. McGee on 1 Peter 5 adds Peter as fellow elder (not superior), the feed-not-for-money charge, the self-spending “racket” test, example leadership, and the Chief Shepherd’s crown. McGee on 2–3 John shows the elder as truth-guardian: refuse partnership with false teachers; commend hospitality to true teachers; confront Diotrephes-type preeminence that rules or ruins. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges.
+Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn. McGee’s Notes & Outlines add a local-church order frame for the Pastorals, elder/bishop identity, and the charge to preach the Word and hold sound doctrine in days of apostasy. McGee on 1 Peter 5 adds Peter as fellow elder (not superior), the feed-not-for-money charge, the self-spending “racket” test, example leadership, and the Chief Shepherd’s crown. McGee on 2–3 John shows the elder as truth-guardian: refuse partnership with false teachers; commend hospitality to true teachers; confront Diotrephes-type preeminence that rules or ruins. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -32,6 +32,10 @@ Pastoral ministry in the sources is an office of feeding, overseeing, and exempl
 - McGee on 2–3 John: “the elder” (*presbuteros*) is seniority and/or office—John the apostle. Love must stay inside the boundary of truth; do not house or greet teachers who lack Christ’s doctrine (2 John 10–11). Commend and support true teachers (3 John 5–8). Diotrephes loved preeminence—refused John, slandered apostles, blocked missionaries, expelled hosts; evil deeds express false doctrine; opposite of example leadership (3 John 9–11). [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
 - Paul counted it great privilege to preach the gospel, not drudgery; yet success humbled him—the fuller the vessel, the deeper it sinks. [[sources/commentaries_english/chspurgeon-mae/march/march-2|Spurgeon Morning and Evening, March 2]]
 - It is the faithful shepherd’s office to carry the weak: tender heart and melting compassion for the flock’s little ones mark true care under the Good Shepherd. [[sources/commentaries_english/chspurgeon-mae/may/may-14|Spurgeon Morning and Evening, May 14]]
+
+- Casting fire-brands of error or lasciviousness sets souls ablaze with hell’s fire—guilt beyond estimate; even forgiven, the mischief grieves the retrospect. [[sources/commentaries_english/chspurgeon-mae/august/august-24|Spurgeon Morning and Evening, August 24]]
+
+- When all means fail for a child in the worst case, the parental act of faith is still “Bring him unto me”—anxiety with children is met at Jesus’ feet. [[sources/commentaries_english/chspurgeon-mae/september/september-17|Spurgeon Morning and Evening, September 17]]
 
 ## Agreements and tensions
 
@@ -83,6 +87,8 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 
 - [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
 - [[sources/commentaries_english/chspurgeon-mae/march/march-2|Spurgeon Morning and Evening, March 2]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-14|Spurgeon Morning and Evening, May 14]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-24|Spurgeon Morning and Evening, August 24]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-17|Spurgeon Morning and Evening, September 17]]
 
 ## Open questions
 

@@ -4,7 +4,7 @@ title: Source-review campaign tracker
 description: Section status for full source→wiki ingest; Phase 4 tracks 100% coverage of remaining corpora.
 tags: [christian-life]
 status: developing
-updated: 2026-08-07
+updated: 2026-08-09
 ---
 
 # Campaign tracker
@@ -277,7 +277,7 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 
 ### 4.5 — Morning and Evening (full calendar)
 
-**Concept-mesh runbook (temporary, subagent handoff):** [[wiki/campaigns/mae-concept-mesh|MAE Concept Mesh runbook]] — no month inventory notes; mesh each calendar month into concept hubs. January–July done; August–Dec pending.
+**Concept-mesh runbook (temporary, subagent handoff):** [[wiki/campaigns/mae-concept-mesh|MAE Concept Mesh runbook]] — no month inventory notes; mesh each calendar month into concept hubs. January–September done; October–Dec pending.
 
 | Section | Status | Days | Notes |
 |---|---|---:|---|
@@ -288,8 +288,8 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 | May | reviewed | 31 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
 | June | reviewed | 30 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
 | July | reviewed | 31 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| August | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
-| September | reviewed | 30 | Month source-note lists all day files; 0 uncovered |
+| August | reviewed | 31 | **Concept-meshed (2026-08-09)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
+| September | reviewed | 30 | **Concept-meshed (2026-08-09)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
 | October | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
 | November | reviewed | 30 | Month source-note lists all day files; 0 uncovered |
 | December | reviewed | 31 | Month source-note lists all day files; 0 uncovered |

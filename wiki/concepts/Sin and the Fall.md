@@ -4,15 +4,15 @@ title: Sin and the Fall
 description: Humanity's fall through temptation and transgression, bringing misery, exclusion from Eden, and the need of the promised Seed (Gen 3; Rom 3; Rom 5).
 tags: [salvation, christ, creation, holiness]
 status: reviewed
-updated: 2026-08-08
-source_count: 11
+updated: 2026-08-09
+source_count: 12
 ---
 
 # Sin and the Fall
 
 ## Summary
 
-Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the tempter assaults our first parents; they transgress; God sentences serpent, woman, and man; man is driven from the garden. Romans adds universal guilt and dominion of sin, and Adam's offense exposing mankind to condemnation—set against the free gift in Christ. This page holds fall and sin's entrance; ongoing personal sin and penitence mesh with [[wiki/concepts/Repentance|Repentance]] and [[wiki/concepts/Holiness|Holiness]]. Creation remains the "very good" backdrop on [[wiki/concepts/Creation|Creation]]. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges.
+Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the tempter assaults our first parents; they transgress; God sentences serpent, woman, and man; man is driven from the garden. Romans adds universal guilt and dominion of sin, and Adam's offense exposing mankind to condemnation—set against the free gift in Christ. This page holds fall and sin's entrance; ongoing personal sin and penitence mesh with [[wiki/concepts/Repentance|Repentance]] and [[wiki/concepts/Holiness|Holiness]]. Creation remains the "very good" backdrop on [[wiki/concepts/Creation|Creation]]. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -29,6 +29,8 @@ Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the t
 - Sin has already cost enough: do not step again into the den of the old serpent who once poisoned all the veins. [[sources/commentaries_english/chspurgeon-mae/may/may-30|Spurgeon Morning and Evening, May 30]]
 
 - Sin has already blinded, deafened, and turned the heart from the Redeemer—reason enough to hate evil as a mortal enemy. [[sources/commentaries_english/chspurgeon-mae/june/june-7|Spurgeon Morning and Evening, June 7]]
+
+- The spider-web religion of hypocrisy catches prey; Pharisee reward and Magus-like profession still trap the foolish. [[sources/commentaries_english/chspurgeon-mae/august/august-8|Spurgeon Morning and Evening, August 8]]
 
 ## Agreements and tensions
 
@@ -75,6 +77,7 @@ Genesis 3 is, in Henry's Complete, among the saddest stories in Scripture: the t
 - [[sources/commentaries_english/chspurgeon-mae/may/may-4|Spurgeon Morning and Evening, May 4]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-30|Spurgeon Morning and Evening, May 30]]
 - [[sources/commentaries_english/chspurgeon-mae/june/june-7|Spurgeon Morning and Evening, June 7]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-8|Spurgeon Morning and Evening, August 8]]
 
 ## Open questions
 

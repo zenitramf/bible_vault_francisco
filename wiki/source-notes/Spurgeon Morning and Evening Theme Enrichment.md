@@ -1,10 +1,10 @@
 ---
 type: Source Note
 title: Spurgeon Morning and Evening Theme Enrichment
-description: January–July meshed into concepts; remaining months still selective/sample or inventory-only.
+description: January–September meshed into concepts; remaining months still selective/sample or inventory-only.
 tags: [prayer, worship, christ, holiness]
 status: developing
-updated: 2026-08-08
+updated: 2026-08-09
 source_count: 4
 source_path: "sources/commentaries_english/chspurgeon-mae/"
 ---
@@ -28,6 +28,10 @@ Selective thematic enrichment from Spurgeon daily devotionals. **Rule:** enrich 
 **June (2026-08-08):** full-month concept mesh—30/30 day files linked from concept hubs (Creation, Hope, Holiness, Discipleship, Christ, Salvation, Faith, Sin and the Fall, Spiritual Warfare, Word of God, Grace, Worship, Repentance, Prayer, Church, Holy Spirit, Suffering, Atonement, Redemption, Covenant, Stewardship, Resurrection, Surrender). The former June month source-note was removed.
 
 **July (2026-08-08):** full-month concept mesh—31/31 day files linked from concept hubs (Christ, Prayer, Hope, Suffering, Holiness, Faith, Salvation, Grace, Repentance, Discipleship, Covenant, Word of God, Church, Spiritual Warfare, Atonement, Justification, Worship, Holy Spirit, Intercession, Stewardship, Creation, Wisdom, Surrender, Resurrection, Redemption). The former July month source-note was removed.
+
+**August (2026-08-09):** full-month concept mesh—31/31 day files linked from concept hubs (Faith, Grace, Salvation, Christ, Wisdom, Suffering, Hope, Church, Spiritual Warfare, Prayer, Holiness, Discipleship, Worship, Covenant, Holy Spirit, Atonement, Justification, Redemption, Repentance, Stewardship, Pastoral Ministry, Sin and the Fall). The former August month source-note was removed.
+
+**September (2026-08-09):** full-month concept mesh—30/30 day files linked from concept hubs (Wisdom, Faith, Discipleship, Christ, Suffering, Holiness, Justification, Salvation, Resurrection, Prayer, Hope, Spiritual Warfare, Redemption, Repentance, Covenant, Holy Spirit, Church, Grace, Worship, Word of God, Pastoral Ministry). The former September month source-note was removed.
 
 ## Core claims
 
@@ -66,4 +70,4 @@ Varies by daily entry (see individual files).
 ## Open questions
 
 - Which concept pages most need additional devotional color without diluting multi-source claims?
-- Which remaining MAE months (August–Dec) should next follow the concept-mesh pattern (no month notes)?
+- Which remaining MAE months (October–Dec) should next follow the concept-mesh pattern (no month notes)?

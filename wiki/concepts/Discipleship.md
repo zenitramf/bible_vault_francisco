@@ -4,15 +4,15 @@ title: Discipleship
 description: Following Christ through self-denial, cross-bearing, and counted cost (Mt 16:24–26; Lk 14:26–30).
 tags: [discipleship, christ, christian-life, faith]
 status: reviewed
-updated: 2026-08-08
-source_count: 49
+updated: 2026-08-09
+source_count: 61
 ---
 
 # Discipleship
 
 ## Summary
 
-In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -75,6 +75,21 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 - Learn from Mary Magdalene: early, hungering seeking obtains fellowship; a heart content to wait for distant communion never finds it. [[sources/commentaries_english/chspurgeon-mae/july/july-14|Spurgeon Morning and Evening, July 14]]
 - Greatness of pre-conversion sin does not bar the highest fellowship—Mary Magdalene, special trophy of delivering power, saw him first. [[sources/commentaries_english/chspurgeon-mae/july/july-15|Spurgeon Morning and Evening, July 15]]
 - Brotherly kindness was due from Edom; a bad action is worse when “thou” of all people commits it against the people of God. [[sources/commentaries_english/chspurgeon-mae/july/july-23|Spurgeon Morning and Evening, July 23]]
+
+- Numbers look back on sweet communion as past and wear present gloom; recover nearness to Jesus rather than live on old days only. [[sources/commentaries_english/chspurgeon-mae/august/august-11|Spurgeon Morning and Evening, August 11]]
+- David’s varied trials make him instructive and a type of the Lord; study saints’ experience as pattern and warning. [[sources/commentaries_english/chspurgeon-mae/august/august-20|Spurgeon Morning and Evening, August 20]]
+- To get, give; to be spiritually vigorous, seek others’ good—in watering others we ourselves are watered. [[sources/commentaries_english/chspurgeon-mae/august/august-21|Spurgeon Morning and Evening, August 21]]
+- Ordinances need not terrify the devout: baptism and the table are for those who discern the Lord’s body, not for the self-condemned to stay away forever. [[sources/commentaries_english/chspurgeon-mae/august/august-25|Spurgeon Morning and Evening, August 25]]
+- Commit your spirit to God in life and death—the choice treasure is the soul, not body or estate. [[sources/commentaries_english/chspurgeon-mae/august/august-27|Spurgeon Morning and Evening, August 27]]
+
+- Household joys and cares need not hinder ministry; they may even deepen it by witnessing the Lord’s work in one’s own flesh and blood. [[sources/commentaries_english/chspurgeon-mae/september/september-2|Spurgeon Morning and Evening, September 2]]
+- Shine so that those who live with you a week cannot miss the gospel—conversation should reflect whose you are and whom you serve. [[sources/commentaries_english/chspurgeon-mae/september/september-6|Spurgeon Morning and Evening, September 6]]
+- Jesus calls whom he wills; rejoice to be a doorkeeper if he permits any service rather than fret for the highest place. [[sources/commentaries_english/chspurgeon-mae/september/september-10|Spurgeon Morning and Evening, September 10]]
+- Comfort dug by one saint becomes a well for those who follow—write and live so that later travelers find water. [[sources/commentaries_english/chspurgeon-mae/september/september-13|Spurgeon Morning and Evening, September 13]]
+- God uses ordinary saints to encourage one another; a brother’s sympathy often fits better than an angel’s visit. [[sources/commentaries_english/chspurgeon-mae/september/september-17|Spurgeon Morning and Evening, September 17]]
+- Like Gideon’s band: break the earthen pitcher so the light shines, and sound the trumpet of the gospel. [[sources/commentaries_english/chspurgeon-mae/september/september-20|Spurgeon Morning and Evening, September 20]]
+- Have you evening work for Jesus? Sinners perish while opportunities return with the close of day. [[sources/commentaries_english/chspurgeon-mae/september/september-20|Spurgeon Morning and Evening, September 20]]
+- Follow the Shepherd unhesitatingly: bought with a price, not your own—his right to lead is as clear as a captain’s over his soldier. [[sources/commentaries_english/chspurgeon-mae/september/september-18|Spurgeon Morning and Evening, September 18]]
 
 ## Agreements and tensions
 
@@ -164,6 +179,18 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[sources/commentaries_english/chspurgeon-mae/july/july-14|Spurgeon Morning and Evening, July 14]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-15|Spurgeon Morning and Evening, July 15]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-23|Spurgeon Morning and Evening, July 23]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-11|Spurgeon Morning and Evening, August 11]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-20|Spurgeon Morning and Evening, August 20]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-21|Spurgeon Morning and Evening, August 21]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-25|Spurgeon Morning and Evening, August 25]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-27|Spurgeon Morning and Evening, August 27]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-2|Spurgeon Morning and Evening, September 2]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-6|Spurgeon Morning and Evening, September 6]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-10|Spurgeon Morning and Evening, September 10]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-13|Spurgeon Morning and Evening, September 13]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-17|Spurgeon Morning and Evening, September 17]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-18|Spurgeon Morning and Evening, September 18]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-20|Spurgeon Morning and Evening, September 20]]
 
 ## Open questions
 

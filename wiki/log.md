@@ -570,3 +570,11 @@ append_only: true
 ## [2026-08-09] ingest | Spurgeon MAE July concept mesh
 
 - Meshed July into concepts; removed month inventory note; 31 day files linked from concept hubs.
+
+## [2026-08-09] ingest | Spurgeon MAE August concept mesh
+
+- Meshed August into concepts; removed month inventory note; 31 day files linked from concept hubs.
+
+## [2026-08-09] ingest | Spurgeon MAE September concept mesh
+
+- Meshed September into concepts; removed month inventory note; 30 day files linked from concept hubs.

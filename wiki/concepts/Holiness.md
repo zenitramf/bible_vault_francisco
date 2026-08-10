@@ -4,15 +4,15 @@ title: Holiness
 description: Conformity to the holy God who calls and sanctifies his people through truth (1 Pet 1; Jn 17:17; Heb 10:14; 1 Thess 3–5).
 tags: [holiness, christ, salvation, christian-life]
 status: reviewed
-updated: 2026-08-08
-source_count: 49
+updated: 2026-08-09
+source_count: 58
 ---
 
 # Holiness
 
 ## Summary
 
-In the retrieved sources, holiness is not optional polish for advanced believers but the moral and spiritual calling of those elected and redeemed. God who is holy requires a holy manner of life; Christ prays for his people's sanctification through the truth; the gospel that justifies also aims at a purified people. Romans 6–8 (Henry Concise) ties free justification to dying to sin, walking after the Spirit, and presenting the body to God. McGee on 1 Corinthians distinguishes positional, practical, and permanent sanctification in Christ (1:2, 30) and presses bodily holiness as the Spirit’s temple against Corinthian impurity and lawsuits. McGee on 1 John adds God is light, walking in light with confession, two natures (new nature does not practice sin), and purifying hope of seeing Christ. McGee on 1 Peter ties holiness to Scriptures under trial—spiritual health and maturity, holiness only in Christ, costly blood motive, and separation from fleshly works as living stones and a royal priesthood. McGee on 2 Peter presses addition of graces, holy living in view of the world’s fiery end, and growth in grace and knowledge of Christ as the believer’s present program. McGee on 2–3 John ties holy walk to truth: love inside the boundary of truth, walk in truth as obedience, and conduct conforming to apostolic doctrine—true teachers received, false teachers refused. McGee on 1–2 Thessalonians ties purifying and rousing hope to unblamable holiness at Christ’s coming, Spirit-enabled chastity and brotherly love, whole sanctification of spirit/soul/body, and Spirit sanctification in the salvation spectrum of 2 Thessalonians 2:13–14. McGee on Colossians pours Christ’s fullness into practical life: heavenly mind where the Head is, mortify old-man members, put off/put on garments, forgive as Christ forgave, word of Christ dwelling richly, and holy relationships. Spurgeon January MAE joins positional perfection in Christ with watchfulness against vanity and temptation, and child-obedience under the new covenant rule. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, holiness is not optional polish for advanced believers but the moral and spiritual calling of those elected and redeemed. God who is holy requires a holy manner of life; Christ prays for his people's sanctification through the truth; the gospel that justifies also aims at a purified people. Romans 6–8 (Henry Concise) ties free justification to dying to sin, walking after the Spirit, and presenting the body to God. McGee on 1 Corinthians distinguishes positional, practical, and permanent sanctification in Christ (1:2, 30) and presses bodily holiness as the Spirit’s temple against Corinthian impurity and lawsuits. McGee on 1 John adds God is light, walking in light with confession, two natures (new nature does not practice sin), and purifying hope of seeing Christ. McGee on 1 Peter ties holiness to Scriptures under trial—spiritual health and maturity, holiness only in Christ, costly blood motive, and separation from fleshly works as living stones and a royal priesthood. McGee on 2 Peter presses addition of graces, holy living in view of the world’s fiery end, and growth in grace and knowledge of Christ as the believer’s present program. McGee on 2–3 John ties holy walk to truth: love inside the boundary of truth, walk in truth as obedience, and conduct conforming to apostolic doctrine—true teachers received, false teachers refused. McGee on 1–2 Thessalonians ties purifying and rousing hope to unblamable holiness at Christ’s coming, Spirit-enabled chastity and brotherly love, whole sanctification of spirit/soul/body, and Spirit sanctification in the salvation spectrum of 2 Thessalonians 2:13–14. McGee on Colossians pours Christ’s fullness into practical life: heavenly mind where the Head is, mortify old-man members, put off/put on garments, forgive as Christ forgave, word of Christ dwelling richly, and holy relationships. Spurgeon January MAE joins positional perfection in Christ with watchfulness against vanity and temptation, and child-obedience under the new covenant rule. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -77,6 +77,18 @@ In the retrieved sources, holiness is not optional polish for advanced believers
 - Not one of our Baal-sins must escape: as Elijah slew the prophets at Kishon, every doomed sin must be put to death. [[sources/commentaries_english/chspurgeon-mae/july/july-17|Spurgeon Morning and Evening, July 17]]
 - Some sins are only conquered by flight; the mere gaze of wickedness can fascinate—haste away from occasions of evil. [[sources/commentaries_english/chspurgeon-mae/july/july-25|Spurgeon Morning and Evening, July 25]]
 - Anger is not always sinful, yet it runs wild: ask “Doest thou well to be angry?” lest the madman’s firebrand replace Elijah’s holy fire. [[sources/commentaries_english/chspurgeon-mae/july/july-13|Spurgeon Morning and Evening, July 13]]
+
+- The hypocrite’s religion is a spider’s web—meant to catch prey and fatten the Pharisee; loud profession entrapping the simple. [[sources/commentaries_english/chspurgeon-mae/august/august-8|Spurgeon Morning and Evening, August 8]]
+- A heart of flesh is tender about sin and God’s will; a heart of stone calls great iniquity nothing. [[sources/commentaries_english/chspurgeon-mae/august/august-15|Spurgeon Morning and Evening, August 15]]
+- Nazarite strictness about wine—even juice and dried fruit—images careful separation from near occasions of broken vows. [[sources/commentaries_english/chspurgeon-mae/august/august-29|Spurgeon Morning and Evening, August 29]]
+- Walk as he is in the light: the Father who is light without darkness is the model—“Be ye perfect” as he is perfect. [[sources/commentaries_english/chspurgeon-mae/august/august-31|Spurgeon Morning and Evening, August 31]]
+
+- Weights and measures must match justice’s standard—and moral balances no less: righteousness should shelter in believing hearts. [[sources/commentaries_english/chspurgeon-mae/september/september-4|Spurgeon Morning and Evening, September 4]]
+- You must live among an ungodly world; Jesus did not pray you out of it—meet the difficulty in his strength and glorify him in it. [[sources/commentaries_english/chspurgeon-mae/september/september-5|Spurgeon Morning and Evening, September 5]]
+- While in the world, not of it: “to live” should be Christ; lay treasure in heaven and keep the great object of life distinct from the world’s. [[sources/commentaries_english/chspurgeon-mae/september/september-11|Spurgeon Morning and Evening, September 11]]
+- The world’s bitter watch for your halting is an argument for special care—turn scrutiny into fuel for careful walking. [[sources/commentaries_english/chspurgeon-mae/september/september-11|Spurgeon Morning and Evening, September 11]]
+- True faith is never unattended by true godliness; the life of faith and the walk of faith are vital twin points of experimental religion. [[sources/commentaries_english/chspurgeon-mae/september/september-18|Spurgeon Morning and Evening, September 18]]
+- Paradox of experience: the spouse may sleep yet the heart hears—mourn sloth in duty, yet hope in the wakefulness Christ still finds. [[sources/commentaries_english/chspurgeon-mae/september/september-24|Spurgeon Morning and Evening, September 24]]
 
 ## Agreements and tensions
 
@@ -195,6 +207,15 @@ Key loci: 1 Peter 1:13–21; 1 Peter 2:1–12; 1 Peter 4:1–6; John 17:17; Hebr
 - [[sources/commentaries_english/chspurgeon-mae/july/july-13|Spurgeon Morning and Evening, July 13]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-17|Spurgeon Morning and Evening, July 17]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-25|Spurgeon Morning and Evening, July 25]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-8|Spurgeon Morning and Evening, August 8]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-15|Spurgeon Morning and Evening, August 15]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-29|Spurgeon Morning and Evening, August 29]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-31|Spurgeon Morning and Evening, August 31]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-4|Spurgeon Morning and Evening, September 4]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-5|Spurgeon Morning and Evening, September 5]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-11|Spurgeon Morning and Evening, September 11]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-18|Spurgeon Morning and Evening, September 18]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-24|Spurgeon Morning and Evening, September 24]]
 
 ## Open questions
 

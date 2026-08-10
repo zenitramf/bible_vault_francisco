@@ -4,15 +4,15 @@ title: Suffering
 description: Affliction under God's hand—permitted trial, present groan, and hope of glory; not proof of hypocrisy (Job 1; Rom 8; 1 Thess 3; 2 Thess 1).
 tags: [faith, christian-life, holiness, prayer]
 status: reviewed
-updated: 2026-08-08
-source_count: 31
+updated: 2026-08-09
+source_count: 40
 ---
 
 # Suffering
 
 ## Summary
 
-Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble. Spurgeon January MAE applies suffering to care-casting under personal divine care, evening visitations of the Lord’s hand, and inscrutable providence in success and failure. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
+Sources frame suffering as real affliction under God's wise permission: Job's troubles begin from Satan's malice by the Lord's leave; Job looks above instruments to the First Cause—"the Lord gave, and the Lord has taken away." Romans 8 sets present sufferings as not worth comparing with glory to be revealed, while creation and believers groan toward hope. Psalmic complaint and comfort (Complete hub contrast on Ps 23 vs complaint psalms) supply the prayer language of affliction. McGee on 1 Peter centers the whole epistle on Christian hope in the time of trial—suffering (sixteen times with cognates) refined by joy, holiness, fellowship with Christ’s sufferings, and coming glory. McGee on 1–2 Thessalonians adds that believers are appointed to affliction, that afflictions promote sanctification and test genuine faith, that suffering glues the church, and that present persecution is not itself the day of the Lord—God will recompense troublers and give rest at Christ’s revelation. McGee on 2 Corinthians frames comfort in suffering ministry: God comforts so we can comfort; earthen vessels broken for light; light affliction versus eternal weight of glory; tent-body and home with the Lord; thorn that keeps the apostle humble. Spurgeon January MAE applies suffering to care-casting under personal divine care, evening visitations of the Lord’s hand, and inscrutable providence in success and failure. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -57,6 +57,17 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 
 - We must not claim suffering with Christ if we are not in Christ; only those trusting Jesus only may hope to reign with him. [[sources/commentaries_english/chspurgeon-mae/july/july-3|Spurgeon Morning and Evening, July 3]]
 - Losses and adversities are often the Shepherd’s dogs that worry wandering sheep back to the fold—taming lions by bringing them down. [[sources/commentaries_english/chspurgeon-mae/july/july-25|Spurgeon Morning and Evening, July 25]]
+
+- Mysterious destroyers of soul-crop—smut, rust, mildew of the heart—are more dreadful than open hail; give thanks when spared, and seek healing when blighted. [[sources/commentaries_english/chspurgeon-mae/august/august-4|Spurgeon Morning and Evening, August 4]]
+- There is a limit to sickness: “unto” restrains the waves of pain—the Lord’s purpose is instruction, not destruction. [[sources/commentaries_english/chspurgeon-mae/august/august-17|Spurgeon Morning and Evening, August 17]]
+- The great Physician alone removes spiritual disease; natural means may help the body, but soul-sickness is his prerogative. [[sources/commentaries_english/chspurgeon-mae/august/august-30|Spurgeon Morning and Evening, August 30]]
+- Jesus the Physician knows all about us—no need for the patient to pry; hush the fluttering heart that peeps and suspects. [[sources/commentaries_english/chspurgeon-mae/august/august-14|Spurgeon Morning and Evening, August 14]]
+
+- All events are under Providence; trials march out through the golden gate of God’s ordinance—every providence is a door to trial. [[sources/commentaries_english/chspurgeon-mae/september/september-3|Spurgeon Morning and Evening, September 3]]
+- While you are safe ashore, others may be in hurricane; God hears the cry of those the sea seems to seek. [[sources/commentaries_english/chspurgeon-mae/september/september-7|Spurgeon Morning and Evening, September 7]]
+- Job felt too insignificant to be so watched and chastened; yet man is more troublesome than the sea and needs divine restraint. [[sources/commentaries_english/chspurgeon-mae/september/september-16|Spurgeon Morning and Evening, September 16]]
+- When the heart is wiped empty like a dish and thrown on its beam-ends, discoveries of inward corruption can overwhelm—yet the Rock remains. [[sources/commentaries_english/chspurgeon-mae/september/september-22|Spurgeon Morning and Evening, September 22]]
+- The crash of a falling oak warns every tree: we are all marked for the axe; the fall of one should sober the living. [[sources/commentaries_english/chspurgeon-mae/september/september-26|Spurgeon Morning and Evening, September 26]]
 
 ## Agreements and tensions
 
@@ -139,6 +150,15 @@ Sources frame suffering as real affliction under God's wise permission: Job's tr
 - [[sources/commentaries_english/chspurgeon-mae/june/june-24|Spurgeon Morning and Evening, June 24]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-3|Spurgeon Morning and Evening, July 3]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-25|Spurgeon Morning and Evening, July 25]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-4|Spurgeon Morning and Evening, August 4]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-14|Spurgeon Morning and Evening, August 14]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-17|Spurgeon Morning and Evening, August 17]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-30|Spurgeon Morning and Evening, August 30]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-3|Spurgeon Morning and Evening, September 3]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-7|Spurgeon Morning and Evening, September 7]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-16|Spurgeon Morning and Evening, September 16]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-22|Spurgeon Morning and Evening, September 22]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-26|Spurgeon Morning and Evening, September 26]]
 
 ## Open questions
 

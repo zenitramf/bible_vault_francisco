@@ -4,8 +4,8 @@ title: Atonement
 description: Christ's propitiatory, substitutionary work dealing with guilt—the gospel crux beside redemption as price-paid deliverance (Rom 3; Isa 53; Mt 27).
 tags: [christ, redemption, salvation]
 status: reviewed
-updated: 2026-08-08
-source_count: 24
+updated: 2026-08-09
+source_count: 26
 ---
 
 # Atonement
@@ -45,6 +45,9 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 
 - God was “for us” when he smote the Only-begotten and laid the full weight of wrath upon him—substitutional love beyond speech. [[sources/commentaries_english/chspurgeon-mae/july/july-13|Spurgeon Morning and Evening, July 13]]
 - Every sin of the elect laid on the Champion and carried away by the atonement leaves no charge against God’s elect. [[sources/commentaries_english/chspurgeon-mae/july/july-27|Spurgeon Morning and Evening, July 27]]
+
+- Full atonement for forgiven sin is ground for joy that outlives common trials—sin settled, the worst smiting can be borne. [[sources/commentaries_english/chspurgeon-mae/august/august-14|Spurgeon Morning and Evening, August 14]]
+- Jesus put the myrrhed wine-cup from his lips: he measured the whole descent of expiation and would not abate a jot of sufficient atonement. [[sources/commentaries_english/chspurgeon-mae/august/august-18|Spurgeon Morning and Evening, August 18]]
 
 ## Agreements and tensions
 
@@ -108,6 +111,8 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - [[sources/commentaries_english/chspurgeon-mae/june/june-21|Spurgeon Morning and Evening, June 21]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-13|Spurgeon Morning and Evening, July 13]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-27|Spurgeon Morning and Evening, July 27]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-14|Spurgeon Morning and Evening, August 14]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-18|Spurgeon Morning and Evening, August 18]]
 
 ## Open questions
 

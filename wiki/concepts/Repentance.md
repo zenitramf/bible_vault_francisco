@@ -4,8 +4,8 @@ title: Repentance
 description: Turning to God in contrite confession, pleading mercy through Christ's blood, not self-satisfaction for sin (Ps 51; Mt 3).
 tags: [repentance, holiness, salvation, prayer]
 status: reviewed
-updated: 2026-08-08
-source_count: 21
+updated: 2026-08-09
+source_count: 24
 ---
 
 # Repentance
@@ -42,6 +42,11 @@ Sources present repentance as humble return to God with confession of sin and pl
 
 - Weigh how great the sin of God’s people is—iniquities heaped mountain upon mountain, not a few alps of occasional fault. [[sources/commentaries_english/chspurgeon-mae/july/july-6|Spurgeon Morning and Evening, July 6]]
 - Peter’s tears at the memory of denial suit the whole redeemed family according to the measure of their remembered falls. [[sources/commentaries_english/chspurgeon-mae/july/july-30|Spurgeon Morning and Evening, July 30]]
+
+- Carey chose “Have mercy upon me, O God” for a funeral text—the poor sinful creature leans on mercy, not self-eulogy. [[sources/commentaries_english/chspurgeon-mae/august/august-29|Spurgeon Morning and Evening, August 29]] September MAE claims are meshed alongside earlier applicative edges.
+
+- David found no remedy for sin’s drought until full confession; silence dammed grief like a blocked mountain tarn—open the outlet before the throne. [[sources/commentaries_english/chspurgeon-mae/september/september-14|Spurgeon Morning and Evening, September 14]]
+- When corruption covers the whole man like leprosy, honest total self-judgment is the path the type points toward cleansing grace. [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]
 
 ## Agreements and tensions
 
@@ -110,6 +115,9 @@ Sources present repentance as humble return to God with confession of sin and pl
 - [[sources/commentaries_english/chspurgeon-mae/june/june-14|Spurgeon Morning and Evening, June 14]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-6|Spurgeon Morning and Evening, July 6]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-30|Spurgeon Morning and Evening, July 30]]
+- [[sources/commentaries_english/chspurgeon-mae/august/august-29|Spurgeon Morning and Evening, August 29]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-14|Spurgeon Morning and Evening, September 14]]
+- [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]
 
 ## Open questions
 
