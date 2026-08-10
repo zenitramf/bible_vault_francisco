@@ -4,15 +4,15 @@ title: Christ
 description: Christ as the eternal Word made flesh, God with us, and the suffering Messiah who bears iniquity (Jn 1; Mt 1; Isa 53).
 tags: [christ, redemption, salvation, faith]
 status: reviewed
-updated: 2026-08-09
-source_count: 89
+updated: 2026-08-10
+source_count: 100
 ---
 
 # Christ
 
 ## Summary
 
-The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors. Spurgeon January MAE thickens experiential Christology: covenant fullness, prior knowledge of his own, joy of fellowship, purchased belonging, present help, brotherly choice, and received fullness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors. Spurgeon January MAE thickens experiential Christology: covenant fullness, prior knowledge of his own, joy of fellowship, purchased belonging, present help, brotherly choice, and received fullness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -117,6 +117,19 @@ The sources confess Jesus Christ as the eternal Word who was with God and was Go
 - Sail with Jesus even in a little ship: storms may still rise, but the Lord High Admiral’s presence preserves the convoy. [[sources/commentaries_english/chspurgeon-mae/september/september-14|Spurgeon Morning and Evening, September 14]]
 - Christ is made unto us wisdom: do not seek rest for the intellect apart from the cross or dilute its simplicity with philosophy. [[sources/commentaries_english/chspurgeon-mae/september/september-25|Spurgeon Morning and Evening, September 25]]
 - If none on earth is like him, and he receives us despite past sinfulness, put down idols and raise the standard of the Lord Jesus. [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]
+
+- Do not forget you are greatly beloved: bought with the blood of the spotless Lamb, you share the title heaven gives. [[sources/commentaries_english/chspurgeon-mae/october/october-2|Spurgeon Morning and Evening, October 2]]
+- Jesus was tempted as you are—to the same sins into which we fall; do not dissociate him from common manhood in the dark room of trial. [[sources/commentaries_english/chspurgeon-mae/october/october-3|Spurgeon Morning and Evening, October 3]]
+- If any man sin, we have an advocate still—sin does not forfeit the believer’s interest in the Lord Jesus. [[sources/commentaries_english/chspurgeon-mae/october/october-4|Spurgeon Morning and Evening, October 4]]
+- The believer finds enough in Jesus to satisfy now and forever—a spring of joy that ends weary days and long nights. [[sources/commentaries_english/chspurgeon-mae/october/october-6|Spurgeon Morning and Evening, October 6]]
+- Christ’s strange choice marries the fair lily to one who confesses herself black—wonder of angels, joy of the redeemed. [[sources/commentaries_english/chspurgeon-mae/october/october-6|Spurgeon Morning and Evening, October 6]]
+- His love, not ours, is strong as death: our poor living love is no match for the conqueror’s might pictured in the Song. [[sources/commentaries_english/chspurgeon-mae/october/october-13|Spurgeon Morning and Evening, October 13]]
+- Spiritual knowledge of Christ must be personal and intelligent—not borrowed acquaintance or visionary dream, but Word-revealed. [[sources/commentaries_english/chspurgeon-mae/october/october-14|Spurgeon Morning and Evening, October 14]]
+- “Come and dine” invites holy nearness: same table, same meat—union that feasts on Christ himself. [[sources/commentaries_english/chspurgeon-mae/october/october-16|Spurgeon Morning and Evening, October 16]]
+- The good Shepherd’s care is impartial: the weakest lamb is as dear as the strongest, and his arm protects lagging wanderers. [[sources/commentaries_english/chspurgeon-mae/october/october-17|Spurgeon Morning and Evening, October 17]]
+- Daily he still does what is analogous to washing soiled feet—accepting poor actions, feeling deep sorrow, forgiving every transgression. [[sources/commentaries_english/chspurgeon-mae/october/october-24|Spurgeon Morning and Evening, October 24]]
+- Comparisons fail for Jesus’ head of pure gold—deity precious beyond the best metaphor the spouse can reach. [[sources/commentaries_english/chspurgeon-mae/october/october-28|Spurgeon Morning and Evening, October 28]]
+- How often disciples should have known him and did not—so you may sit at his table and miss his face; seek fresher recognition. [[sources/commentaries_english/chspurgeon-mae/october/october-29|Spurgeon Morning and Evening, October 29]]
 
 ## Agreements and tensions
 
@@ -271,6 +284,17 @@ Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 
 - [[sources/commentaries_english/chspurgeon-mae/september/september-14|Spurgeon Morning and Evening, September 14]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-25|Spurgeon Morning and Evening, September 25]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-2|Spurgeon Morning and Evening, October 2]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-3|Spurgeon Morning and Evening, October 3]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-4|Spurgeon Morning and Evening, October 4]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-6|Spurgeon Morning and Evening, October 6]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-13|Spurgeon Morning and Evening, October 13]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-14|Spurgeon Morning and Evening, October 14]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-16|Spurgeon Morning and Evening, October 16]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-17|Spurgeon Morning and Evening, October 17]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-24|Spurgeon Morning and Evening, October 24]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-28|Spurgeon Morning and Evening, October 28]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-29|Spurgeon Morning and Evening, October 29]]
 
 ## Open questions
 

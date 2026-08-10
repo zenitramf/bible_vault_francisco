@@ -4,15 +4,15 @@ title: Salvation
 description: God's free grace in Christ, received by faith and not by works of the law (Acts 15:11; Rom 3–4; Eph 2).
 tags: [salvation, grace, faith, christ]
 status: reviewed
-updated: 2026-08-09
-source_count: 51
+updated: 2026-08-10
+source_count: 56
 ---
 
 # Salvation
 
 ## Summary
 
-Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. McGee on 1 John adds the epistle’s assurance purpose: written so that those who believe may *know* they have eternal life (1 John 5:13), with life exclusively in the Son. McGee on 2 Peter distinguishes objective security of the believer from subjective assurance of salvation, and warns that head-knowledge apostates may know the truth without loving it. McGee on Acts supplies narrative case studies: devout Cornelius still unsaved apart from Christ; three-factor conversion (Spirit, Word, man of God); Philippian jailer gospel in a sentence; Jerusalem council one way of grace for Jew and Gentile; Simon’s empty profession versus Ethiopian heart-faith. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory. Spurgeon January MAE frames salvation as whole-work mercy, Spirit-begun living unto Christ, sure deliverance of all God’s Israel, and inheritance secured in the Mediator. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through faith. Sinners are naturally dead and short of God's glory; God saves freely in Christ; faith receives what grace provides; works neither purchase nor complete that acceptance. The Romans concise backbone adds the epistle’s own map: gospel righteousness from faith to faith, universal need, free justification, peace and access, Spirit-given life without condemnation, and a call that still produces holiness and church love. McGee on 1 John adds the epistle’s assurance purpose: written so that those who believe may *know* they have eternal life (1 John 5:13), with life exclusively in the Son. McGee on 2 Peter distinguishes objective security of the believer from subjective assurance of salvation, and warns that head-knowledge apostates may know the truth without loving it. McGee on Acts supplies narrative case studies: devout Cornelius still unsaved apart from Christ; three-factor conversion (Spirit, Word, man of God); Philippian jailer gospel in a sentence; Jerusalem council one way of grace for Jew and Gentile; Simon’s empty profession versus Ethiopian heart-faith. The sources refuse to detach salvation from the Spirit’s work and from a life ordered to the praise of God’s glory. Spurgeon January MAE frames salvation as whole-work mercy, Spirit-begun living unto Christ, sure deliverance of all God’s Israel, and inheritance secured in the Mediator. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -80,6 +80,12 @@ Across Spurgeon and Matthew Henry, salvation is of the Lord by grace through fai
 - Fear that one might still be gathered with the wicked can spring from holy anxiety over past sin; even the pardoned man may cry for final gathering with the righteous. [[sources/commentaries_english/chspurgeon-mae/september/september-21|Spurgeon Morning and Evening, September 21]]
 - When a man sees himself altogether leprous and ruined, the law’s strange “clean” verdict on total white points to the grace that meets confessed total need. [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]
 - The lowest degree of grace is superior to the noblest unregenerate nature: better least in the kingdom than greatest outside it. [[sources/commentaries_english/chspurgeon-mae/september/september-30|Spurgeon Morning and Evening, September 30]]
+
+- St. Kilda’s answers piled repentance, true heart, and prayer—yet MacDonald pressed the missing note: faith in the Lord Jesus Christ. [[sources/commentaries_english/chspurgeon-mae/october/october-5|Spurgeon Morning and Evening, October 5]]
+- In some sense heaven’s path is safe, yet without grace one false step drops us; he is able to keep you from falling. [[sources/commentaries_english/chspurgeon-mae/october/october-9|Spurgeon Morning and Evening, October 9]]
+- The promise is gloriously personal—“I will, I will”—Jehovah himself interposes to deliver; not a word of self-rescue first. [[sources/commentaries_english/chspurgeon-mae/october/october-10|Spurgeon Morning and Evening, October 10]]
+- Holy calling is not according to works but purpose and grace—a touchstone for whether the call is God’s. [[sources/commentaries_english/chspurgeon-mae/october/october-11|Spurgeon Morning and Evening, October 11]]
+- Christ Jesus came into the world to save sinners—a faithful saying worthy of all acceptation. [[sources/commentaries_english/chspurgeon-mae/october/october-27|Spurgeon Morning and Evening, October 27]]
 
 ## Agreements and tensions
 
@@ -202,6 +208,11 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/september/september-21|Spurgeon Morning and Evening, September 21]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-30|Spurgeon Morning and Evening, September 30]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-5|Spurgeon Morning and Evening, October 5]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-9|Spurgeon Morning and Evening, October 9]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-10|Spurgeon Morning and Evening, October 10]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-11|Spurgeon Morning and Evening, October 11]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-27|Spurgeon Morning and Evening, October 27]]
 
 ## Open questions
 

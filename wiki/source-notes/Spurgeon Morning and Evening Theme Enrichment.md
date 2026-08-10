@@ -1,10 +1,10 @@
 ---
 type: Source Note
 title: Spurgeon Morning and Evening Theme Enrichment
-description: January–September meshed into concepts; remaining months still selective/sample or inventory-only.
+description: January–October meshed into concepts; remaining months still selective/sample or inventory-only.
 tags: [prayer, worship, christ, holiness]
 status: developing
-updated: 2026-08-09
+updated: 2026-08-10
 source_count: 4
 source_path: "sources/commentaries_english/chspurgeon-mae/"
 ---
@@ -32,6 +32,8 @@ Selective thematic enrichment from Spurgeon daily devotionals. **Rule:** enrich 
 **August (2026-08-09):** full-month concept mesh—31/31 day files linked from concept hubs (Faith, Grace, Salvation, Christ, Wisdom, Suffering, Hope, Church, Spiritual Warfare, Prayer, Holiness, Discipleship, Worship, Covenant, Holy Spirit, Atonement, Justification, Redemption, Repentance, Stewardship, Pastoral Ministry, Sin and the Fall). The former August month source-note was removed.
 
 **September (2026-08-09):** full-month concept mesh—30/30 day files linked from concept hubs (Wisdom, Faith, Discipleship, Christ, Suffering, Holiness, Justification, Salvation, Resurrection, Prayer, Hope, Spiritual Warfare, Redemption, Repentance, Covenant, Holy Spirit, Church, Grace, Worship, Word of God, Pastoral Ministry). The former September month source-note was removed.
+
+**October (2026-08-10):** full-month concept mesh—31/31 day files linked from concept hubs (Worship, Grace, Hope, Christ, Intercession, Discipleship, Salvation, Faith, Prayer, Holy Spirit, Word of God, Repentance, Holiness, Redemption, Atonement, Stewardship, Suffering, Spiritual Warfare, Church, Sin and the Fall, Covenant, Surrender). The former October month source-note was removed.
 
 ## Core claims
 
@@ -70,4 +72,4 @@ Varies by daily entry (see individual files).
 ## Open questions
 
 - Which concept pages most need additional devotional color without diluting multi-source claims?
-- Which remaining MAE months (October–Dec) should next follow the concept-mesh pattern (no month notes)?
+- Which remaining MAE months (November–Dec) should next follow the concept-mesh pattern (no month notes)?

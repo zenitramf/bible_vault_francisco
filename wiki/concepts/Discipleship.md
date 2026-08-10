@@ -4,15 +4,15 @@ title: Discipleship
 description: Following Christ through self-denial, cross-bearing, and counted cost (Mt 16:24–26; Lk 14:26–30).
 tags: [discipleship, christ, christian-life, faith]
 status: reviewed
-updated: 2026-08-09
-source_count: 61
+updated: 2026-08-10
+source_count: 66
 ---
 
 # Discipleship
 
 ## Summary
 
-In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -90,6 +90,13 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 - Like Gideon’s band: break the earthen pitcher so the light shines, and sound the trumpet of the gospel. [[sources/commentaries_english/chspurgeon-mae/september/september-20|Spurgeon Morning and Evening, September 20]]
 - Have you evening work for Jesus? Sinners perish while opportunities return with the close of day. [[sources/commentaries_english/chspurgeon-mae/september/september-20|Spurgeon Morning and Evening, September 20]]
 - Follow the Shepherd unhesitatingly: bought with a price, not your own—his right to lead is as clear as a captain’s over his soldier. [[sources/commentaries_english/chspurgeon-mae/september/september-18|Spurgeon Morning and Evening, September 18]]
+
+- Strength God supplies is meant for service, not wantonness—Elijah’s cake under the juniper fitted him to go in the strength of that meat. [[sources/commentaries_english/chspurgeon-mae/october/october-5|Spurgeon Morning and Evening, October 5]]
+- In soul-saving God works by means: the miraculous draught still used fisherman, boat, and nets—human agency is not ignored. [[sources/commentaries_english/chspurgeon-mae/october/october-8|Spurgeon Morning and Evening, October 8]]
+- Do not rest content to be stunted year after year; grow up into him in all things rather than remain in the green blade. [[sources/commentaries_english/chspurgeon-mae/october/october-20|Spurgeon Morning and Evening, October 20]]
+- “How much owest thou unto my Lord?”—forgiven sin, robe of righteousness, feet on a rock, heaven prepared—love constrains return. [[sources/commentaries_english/chspurgeon-mae/october/october-21|Spurgeon Morning and Evening, October 21]]
+- When many forsake him he still asks, “Will ye also go away?”—has he been a wilderness when you simply trusted him? [[sources/commentaries_english/chspurgeon-mae/october/october-23|Spurgeon Morning and Evening, October 23]]
+- Backward we are to all good; grace teaches us to go forward in God’s ways—converted or seeking, move toward him. [[sources/commentaries_english/chspurgeon-mae/october/october-20|Spurgeon Morning and Evening, October 20]]
 
 ## Agreements and tensions
 
@@ -191,6 +198,11 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[sources/commentaries_english/chspurgeon-mae/september/september-17|Spurgeon Morning and Evening, September 17]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-18|Spurgeon Morning and Evening, September 18]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-20|Spurgeon Morning and Evening, September 20]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-5|Spurgeon Morning and Evening, October 5]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-8|Spurgeon Morning and Evening, October 8]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-20|Spurgeon Morning and Evening, October 20]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-21|Spurgeon Morning and Evening, October 21]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-23|Spurgeon Morning and Evening, October 23]]
 
 ## Open questions
 

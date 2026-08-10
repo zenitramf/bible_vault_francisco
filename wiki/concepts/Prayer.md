@@ -4,15 +4,15 @@ title: Prayer
 description: Humble approach to the Father, taught by Christ, helped by the Spirit, and perfected in Christ's intercession (Mt 6:5–15; Jn 17; Rom 8:26–27).
 tags: [prayer, christ, holy-spirit, discipleship]
 status: reviewed
-updated: 2026-08-09
-source_count: 42
+updated: 2026-08-10
+source_count: 46
 ---
 
 # Prayer
 
 ## Summary
 
-The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1–2 Samuel makes prayer a book-level theme: 1 Samuel opens with Hannah’s cry and 2 Samuel closes with David’s altar prayer; God builds the throne on a woman’s cry, and David’s thanksgiving after the covenant (2 Samuel 7) and refusal of a costless offering (24:24) frame royal devotion. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). McGee on 1–2 Chronicles adds David’s great temple-offering prayer (1 Chronicles 29:10–19) and Solomon’s dedication prayer (2 Chronicles 6) as major OT models of adoration, dependence, and house-of-prayer orientation. McGee on 1–2 Kings supplies the throne-narrative parallels: Solomon’s request for wisdom (1 Kings 3), dedication prayer denying a confined God (1 Kings 8:27), Elijah’s brief Carmel prayer and later collapse, and Hezekiah spreading Assyria’s letter before the Lord (2 Kings 19). McGee on Colossians adds Paul’s thanksgiving and *epignosis* prayer for the church, prayer-agony for unseen believers, and practical perseverance—inhale prayer / exhale thanksgiving, with petition for the gospel door. Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit. Spurgeon’s January *Morning and Evening* adds applicative prayer edges: Scripture’s saturation with prayer, sinking-driven petition, using promises, prayer under slander, recovering lost communion in the closet, and corporate prayer at times of divine stirring. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1–2 Samuel makes prayer a book-level theme: 1 Samuel opens with Hannah’s cry and 2 Samuel closes with David’s altar prayer; God builds the throne on a woman’s cry, and David’s thanksgiving after the covenant (2 Samuel 7) and refusal of a costless offering (24:24) frame royal devotion. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). McGee on 1–2 Chronicles adds David’s great temple-offering prayer (1 Chronicles 29:10–19) and Solomon’s dedication prayer (2 Chronicles 6) as major OT models of adoration, dependence, and house-of-prayer orientation. McGee on 1–2 Kings supplies the throne-narrative parallels: Solomon’s request for wisdom (1 Kings 3), dedication prayer denying a confined God (1 Kings 8:27), Elijah’s brief Carmel prayer and later collapse, and Hezekiah spreading Assyria’s letter before the Lord (2 Kings 19). McGee on Colossians adds Paul’s thanksgiving and *epignosis* prayer for the church, prayer-agony for unseen believers, and practical perseverance—inhale prayer / exhale thanksgiving, with petition for the gospel door. Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit. Spurgeon’s January *Morning and Evening* adds applicative prayer edges: Scripture’s saturation with prayer, sinking-driven petition, using promises, prayer under slander, recovering lost communion in the closet, and corporate prayer at times of divine stirring. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -68,6 +68,11 @@ The retrieved sources present prayer as sincere address to God rather than publi
 - “Call unto me, and I will answer thee” opens reserved things in Christian experience—special attainments beyond the common path, shown to those who ask. [[sources/commentaries_english/chspurgeon-mae/september/september-9|Spurgeon Morning and Evening, September 9]]
 - Mercies named Samuel—“asked of God”—are especially dear; devout souls delight to see particular love in answered supplication. [[sources/commentaries_english/chspurgeon-mae/september/september-19|Spurgeon Morning and Evening, September 19]]
 - Success is certain when the Lord has promised: Elijah on Carmel kept wrestling though the sky stayed brass—God is not deaf to glory-seeking prayer. [[sources/commentaries_english/chspurgeon-mae/september/september-28|Spurgeon Morning and Evening, September 28]]
+
+- True prayer’s grand mark is “in the Holy Ghost”: only the desire he writes on the heart moves his heart and brings the answer. [[sources/commentaries_english/chspurgeon-mae/october/october-8|Spurgeon Morning and Evening, October 8]]
+- Prayer is an inventory of wants and a revelation of emptiness—favours without asking would hide how poor we are. [[sources/commentaries_english/chspurgeon-mae/october/october-11|Spurgeon Morning and Evening, October 11]]
+- An especial path that drops fatness is the closet: starving souls live far from the mercy-seat. [[sources/commentaries_english/chspurgeon-mae/october/october-18|Spurgeon Morning and Evening, October 18]]
+- True prayer begins with adoption—“Our Father”—then ascends to adoration of the Father in heaven. [[sources/commentaries_english/chspurgeon-mae/october/october-29|Spurgeon Morning and Evening, October 29]]
 
 ## Agreements and tensions
 
@@ -170,6 +175,10 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[sources/commentaries_english/chspurgeon-mae/september/september-9|Spurgeon Morning and Evening, September 9]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-19|Spurgeon Morning and Evening, September 19]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-28|Spurgeon Morning and Evening, September 28]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-8|Spurgeon Morning and Evening, October 8]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-11|Spurgeon Morning and Evening, October 11]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-18|Spurgeon Morning and Evening, October 18]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-29|Spurgeon Morning and Evening, October 29]]
 
 ## Open questions
 

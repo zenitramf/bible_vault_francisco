@@ -4,8 +4,8 @@ title: Repentance
 description: Turning to God in contrite confession, pleading mercy through Christ's blood, not self-satisfaction for sin (Ps 51; Mt 3).
 tags: [repentance, holiness, salvation, prayer]
 status: reviewed
-updated: 2026-08-09
-source_count: 24
+updated: 2026-08-10
+source_count: 26
 ---
 
 # Repentance
@@ -46,7 +46,10 @@ Sources present repentance as humble return to God with confession of sin and pl
 - Carey chose “Have mercy upon me, O God” for a funeral text—the poor sinful creature leans on mercy, not self-eulogy. [[sources/commentaries_english/chspurgeon-mae/august/august-29|Spurgeon Morning and Evening, August 29]] September MAE claims are meshed alongside earlier applicative edges.
 
 - David found no remedy for sin’s drought until full confession; silence dammed grief like a blocked mountain tarn—open the outlet before the throne. [[sources/commentaries_english/chspurgeon-mae/september/september-14|Spurgeon Morning and Evening, September 14]]
-- When corruption covers the whole man like leprosy, honest total self-judgment is the path the type points toward cleansing grace. [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]
+- When corruption covers the whole man like leprosy, honest total self-judgment is the path the type points toward cleansing grace. [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]. October MAE claims are meshed alongside earlier applicative edges.
+
+- Genuine mourning for sin is the Spirit’s work—penitence never grows in nature’s garden without divine grace. [[sources/commentaries_english/chspurgeon-mae/october/october-13|Spurgeon Morning and Evening, October 13]]
+- A backslider with a spark of life groans for restoration; renewal needs the same repentance and faith as first conversion. [[sources/commentaries_english/chspurgeon-mae/october/october-31|Spurgeon Morning and Evening, October 31]]
 
 ## Agreements and tensions
 
@@ -118,6 +121,8 @@ Sources present repentance as humble return to God with confession of sin and pl
 - [[sources/commentaries_english/chspurgeon-mae/august/august-29|Spurgeon Morning and Evening, August 29]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-14|Spurgeon Morning and Evening, September 14]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-13|Spurgeon Morning and Evening, October 13]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-31|Spurgeon Morning and Evening, October 31]]
 
 ## Open questions
 

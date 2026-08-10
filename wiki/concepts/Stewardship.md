@@ -4,15 +4,15 @@ title: Stewardship
 description: Entrusted life, ministry, and goods—first giving oneself to the Lord, then faithful management and generous care for others (2 Cor 8; 1 Tim 1:12; 1 Chr 29:14).
 tags: [discipleship, church, pastoral-ministry, christian-life, worship]
 status: reviewed
-updated: 2026-08-09
-source_count: 13
+updated: 2026-08-10
+source_count: 15
 ---
 
 # Stewardship
 
 ## Summary
 
-Sources present stewardship as faithful handling of what God entrusts: Macedonian generosity begins with giving themselves to the Lord; grace is the root of good works and charity; ministry is a stewardship committed by God with an expectation of faithfulness; considering the poor is blessed. Spurgeon's church batch and the 1 Timothy 1:12 devotional supply ministry-stewardship language; Henry's 2 Corinthians 8 and FCB samples supply material generosity; McGee on 2 Corinthians 8–9 frames Christian giving as grace (not demanded tithe rule), person-before-gift, cheerful/hilarious giving, and never out-giving God; Ringo Ayala's Spanish-language sermon on "De quién es tu dinero" grounds stewardship in God's ownership by creation, preservation, and provision, with the believer as steward and giving as a return of what God first gave. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges.
+Sources present stewardship as faithful handling of what God entrusts: Macedonian generosity begins with giving themselves to the Lord; grace is the root of good works and charity; ministry is a stewardship committed by God with an expectation of faithfulness; considering the poor is blessed. Spurgeon's church batch and the 1 Timothy 1:12 devotional supply ministry-stewardship language; Henry's 2 Corinthians 8 and FCB samples supply material generosity; McGee on 2 Corinthians 8–9 frames Christian giving as grace (not demanded tithe rule), person-before-gift, cheerful/hilarious giving, and never out-giving God; Ringo Ayala's Spanish-language sermon on "De quién es tu dinero" grounds stewardship in God's ownership by creation, preservation, and provision, with the believer as steward and giving as a return of what God first gave. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -35,6 +35,9 @@ Sources present stewardship as faithful handling of what God entrusts: Macedonia
 - A large-hearted Christian has springs of comfort beyond self—God first, then arguments of love to others in trouble. [[sources/commentaries_english/chspurgeon-mae/july/july-16|Spurgeon Morning and Evening, July 16]]
 
 - Scatter to accumulate spiritual vigor: efforts to be useful draw out powers for usefulness and return water to the waterer. [[sources/commentaries_english/chspurgeon-mae/august/august-21|Spurgeon Morning and Evening, August 21]]
+
+- Strength supplied is for service; dainty fare under the juniper was fuel for the journey, not luxury for show. [[sources/commentaries_english/chspurgeon-mae/october/october-5|Spurgeon Morning and Evening, October 5]]
+- Stinting the ministry and missions under “economy” impoverishes the soul—neglecting God’s house is sure loss. [[sources/commentaries_english/chspurgeon-mae/october/october-26|Spurgeon Morning and Evening, October 26]]
 
 ## Agreements and tensions
 
@@ -91,6 +94,8 @@ Sources present stewardship as faithful handling of what God entrusts: Macedonia
 - [[sources/commentaries_english/chspurgeon-mae/june/june-27|Spurgeon Morning and Evening, June 27]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-16|Spurgeon Morning and Evening, July 16]]
 - [[sources/commentaries_english/chspurgeon-mae/august/august-21|Spurgeon Morning and Evening, August 21]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-5|Spurgeon Morning and Evening, October 5]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-26|Spurgeon Morning and Evening, October 26]]
 
 ## Open questions
 

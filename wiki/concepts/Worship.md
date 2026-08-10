@@ -4,15 +4,15 @@ title: Worship
 description: Spirit-and-truth approach to the Father in praise, sanctuary service, and accepted offering (Jn 4:20–24; Ps 134).
 tags: [worship, christ, holy-spirit, prayer, stewardship]
 status: reviewed
-updated: 2026-08-09
-source_count: 38
+updated: 2026-08-10
+source_count: 41
 ---
 
 # Worship
 
 ## Summary
 
-The sources define true worship less by sacred geography than by the character of God and the sincerity of the worshiper. Because God is Spirit, true worshipers worship the Father in spirit and in truth. Biblical worship also includes public blessing of the Lord in his house and God's own acceptance of prayer and sacrifice. McGee on 1–2 Samuel warns against treating holy objects as charms: Israel’s ark-in-battle superstition, David’s wrong cart transport and Uzzah’s death, Michal’s rebuke of wholehearted ark joy, and David’s refusal of a costless offering at Araunah’s threshing floor (the future temple site). McGee on 1–2 Chronicles thickens the OT altar-and-temple frame: Chronicles tells history from the temple rather than the palace, centers David’s passion to build, and records glory filling Solomon’s house as God’s approval. McGee on 1–2 Kings adds the throne-side narrative: temple glory at dedication (1 Kings 8), Solomon’s early compromise and later idolatry, Israel’s witness when nations came to Jerusalem (queen of Sheba / burnt offering), Jeroboam’s rival calves, Carmel’s contest for true God, Jehu’s partial purge of Baal, and Josiah’s Word-driven reform before Judah’s fall. McGee on Amos adds biting sarcasm against Bethel calf-“worship,” empty religious forms hated by God, and the test that two cannot walk together unless agreed (Amos 3:3; 4–5). January MAE further presses joyful resolve in the Lord, the need of covering for worship’s defects, delight as a mark of accepted service, wonder-as-adoration, and praise from hearing and experience. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+The sources define true worship less by sacred geography than by the character of God and the sincerity of the worshiper. Because God is Spirit, true worshipers worship the Father in spirit and in truth. Biblical worship also includes public blessing of the Lord in his house and God's own acceptance of prayer and sacrifice. McGee on 1–2 Samuel warns against treating holy objects as charms: Israel’s ark-in-battle superstition, David’s wrong cart transport and Uzzah’s death, Michal’s rebuke of wholehearted ark joy, and David’s refusal of a costless offering at Araunah’s threshing floor (the future temple site). McGee on 1–2 Chronicles thickens the OT altar-and-temple frame: Chronicles tells history from the temple rather than the palace, centers David’s passion to build, and records glory filling Solomon’s house as God’s approval. McGee on 1–2 Kings adds the throne-side narrative: temple glory at dedication (1 Kings 8), Solomon’s early compromise and later idolatry, Israel’s witness when nations came to Jerusalem (queen of Sheba / burnt offering), Jeroboam’s rival calves, Carmel’s contest for true God, Jehu’s partial purge of Baal, and Josiah’s Word-driven reform before Judah’s fall. McGee on Amos adds biting sarcasm against Bethel calf-“worship,” empty religious forms hated by God, and the test that two cannot walk together unless agreed (Amos 3:3; 4–5). January MAE further presses joyful resolve in the Lord, the need of covering for worship’s defects, delight as a mark of accepted service, wonder-as-adoration, and praise from hearing and experience. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -64,6 +64,10 @@ The sources define true worship less by sacred geography than by the character o
 - Be glad that the Lord reigneth: rejoicing has its spring in who sits on the throne, not in shifting circumstance. [[sources/commentaries_english/chspurgeon-mae/september/september-22|Spurgeon Morning and Evening, September 22]]
 - Praise is not optional whim—it is God’s righteous due; grace-recipients are bound to praise him day by day. [[sources/commentaries_english/chspurgeon-mae/september/september-30|Spurgeon Morning and Evening, September 30]]
 - If Christ is fairest and receives returning sinners, let the daughters of Jerusalem extol him with open praise. [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]
+
+- Lay up for the Beloved all manner of pleasant fruits—old mercies remembered and new life, joy, and gratitude offered as autumn stores. [[sources/commentaries_english/chspurgeon-mae/october/october-1|Spurgeon Morning and Evening, October 1]]
+- Anyone can sing by day; the harder grace is a song in the night when the harp must be tuned without fair weather. [[sources/commentaries_english/chspurgeon-mae/october/october-19|Spurgeon Morning and Evening, October 19]]
+- Praise should always follow answered prayer—let ripe gratitude drop when heaven’s love warms the ground. [[sources/commentaries_english/chspurgeon-mae/october/october-30|Spurgeon Morning and Evening, October 30]]
 
 ## Agreements and tensions
 
@@ -151,6 +155,9 @@ Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3; 1 Chronicles 29; 2 Ch
 - [[sources/commentaries_english/chspurgeon-mae/september/september-22|Spurgeon Morning and Evening, September 22]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-30|Spurgeon Morning and Evening, September 30]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-1|Spurgeon Morning and Evening, October 1]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-19|Spurgeon Morning and Evening, October 19]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-30|Spurgeon Morning and Evening, October 30]]
 
 ## Open questions
 

@@ -4,7 +4,7 @@ title: MAE Concept Mesh (temporary runbook)
 description: Phased subagent runbook to mesh Spurgeon Morning and Evening into concept hubs without month inventory notes.
 tags: [christian-life, prayer, worship, christ]
 status: developing
-updated: 2026-08-09
+updated: 2026-08-10
 ---
 
 # MAE Concept Mesh — Temporary Subagent Runbook
@@ -30,7 +30,7 @@ updated: 2026-08-09
 | July | 31 | **done** (2026-08-08) | **removed** | Concept-meshed; 31/31 day files linked |
 | August | 31 | **done** (2026-08-09) | **removed** | Concept-meshed; 31/31 day files linked |
 | September | 30 | **done** (2026-08-09) | **removed** | Concept-meshed; 30/30 day files linked |
-| October | 31 | pending | exists | |
+| October | 31 | **done** (2026-08-10) | **removed** | Concept-meshed; 31/31 day files linked |
 | November | 30 | pending | exists | |
 | December | 31 | pending | exists | |
 
@@ -40,12 +40,11 @@ Each day file has **Morning** and **Evening** sections (two readings per day).
 **Legacy inventory notes to remove as each month meshes:**
 
 ```
-wiki/source-notes/Spurgeon Morning and Evening — October.md
 wiki/source-notes/Spurgeon Morning and Evening — November.md
 wiki/source-notes/Spurgeon Morning and Evening — December.md
 ```
 
-(January–September already removed.)
+(January–October already removed.)
 
 **Related:**
 

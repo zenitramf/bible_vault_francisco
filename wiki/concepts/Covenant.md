@@ -4,15 +4,15 @@ title: Covenant
 description: God-initiated relationship sealed by promise and obligation, with Christ as mediator of the new covenant (Gen 15–17; Jer 31; Heb 8).
 tags: [covenant, christ, salvation, faith]
 status: reviewed
-updated: 2026-08-09
-source_count: 30
+updated: 2026-08-10
+source_count: 31
 ---
 
 # Covenant
 
 ## Summary
 
-In the retrieved commentary sources, covenant is a God-initiated bond in which God binds himself by promise and draws a people into mutual relation with himself. Abrahamic covenant materials emphasize God as all-sufficient, the promise of seed and land, and faith as the way of receiving righteousness. Later prophetic and New Testament sources present a new covenant mediated by Christ, written on the heart, and superior to the Sinai administration without cancelling the Abrahamic promise. McGee on 1–2 Samuel supplies the primary Davidic-covenant locus (2 Samuel 7): God builds David a house, promises king and kingdom in his line, and the NT trajectory (Matthew 1:1; Luke 1:32–33; Acts 2; Romans 1:3; Revelation 22:16) rests on that oath. McGee on 1 Chronicles 17 adds the Davidic house promise in the temple-desire context as Chronicles’ religious reading of the same covenant material. McGee on 1–2 Kings shows the Davidic standard (“as David his father”) measuring every king, division delayed for David’s sake, Athaliah’s attempt on David’s line, and final Judah captivity under Babylon when the nation exhausts patience—covenant fidelity and failure on the throne. Spurgeon January MAE adds covenant-in-Christ language: Christ as covenant substance and gift, “I will be their God” as full satisfaction, and joint inheritance under the federal head. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+In the retrieved commentary sources, covenant is a God-initiated bond in which God binds himself by promise and draws a people into mutual relation with himself. Abrahamic covenant materials emphasize God as all-sufficient, the promise of seed and land, and faith as the way of receiving righteousness. Later prophetic and New Testament sources present a new covenant mediated by Christ, written on the heart, and superior to the Sinai administration without cancelling the Abrahamic promise. McGee on 1–2 Samuel supplies the primary Davidic-covenant locus (2 Samuel 7): God builds David a house, promises king and kingdom in his line, and the NT trajectory (Matthew 1:1; Luke 1:32–33; Acts 2; Romans 1:3; Revelation 22:16) rests on that oath. McGee on 1 Chronicles 17 adds the Davidic house promise in the temple-desire context as Chronicles’ religious reading of the same covenant material. McGee on 1–2 Kings shows the Davidic standard (“as David his father”) measuring every king, division delayed for David’s sake, Athaliah’s attempt on David’s line, and final Judah captivity under Babylon when the nation exhausts patience—covenant fidelity and failure on the throne. Spurgeon January MAE adds covenant-in-Christ language: Christ as covenant substance and gift, “I will be their God” as full satisfaction, and joint inheritance under the federal head. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -60,6 +60,8 @@ In the retrieved commentary sources, covenant is a God-initiated bond in which G
 
 - The old covenant dispensation was distance—bounds about the mount; the gospel brings nearness the law only foreshadowed. [[sources/commentaries_english/chspurgeon-mae/september/september-15|Spurgeon Morning and Evening, September 15]]
 - Partakers of the divine nature are not deified in essence, but renewed by the Spirit into the image of the Most High. [[sources/commentaries_english/chspurgeon-mae/september/september-16|Spurgeon Morning and Evening, September 16]]
+
+- Grace is given to the redeemed because of covenant, to the called because of promise—not bare whim detached from oath. [[sources/commentaries_english/chspurgeon-mae/october/october-1|Spurgeon Morning and Evening, October 1]]
 
 ## Agreements and tensions
 
@@ -151,6 +153,7 @@ Primary passages recur across the sources above, but this concept page does not 
 - [[sources/commentaries_english/chspurgeon-mae/august/august-26|Spurgeon Morning and Evening, August 26]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-15|Spurgeon Morning and Evening, September 15]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-16|Spurgeon Morning and Evening, September 16]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-1|Spurgeon Morning and Evening, October 1]]
 
 ## Open questions
 

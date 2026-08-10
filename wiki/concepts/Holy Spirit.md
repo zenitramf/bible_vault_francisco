@@ -4,15 +4,15 @@ title: Holy Spirit
 description: The promised Comforter who indwells, convicts, guides into truth, and empowers the church (Jn 14–16; Acts 2; Rom 8:26).
 tags: [holy-spirit, christ, church, prayer]
 status: reviewed
-updated: 2026-08-09
-source_count: 30
+updated: 2026-08-10
+source_count: 33
 ---
 
 # Holy Spirit
 
 ## Summary
 
-The sources present the Holy Spirit as another Comforter given by the Father at the Son's request, abiding with the church forever. He is the Spirit of truth who convicts the world, guides disciples into truth, and was poured out at Pentecost in fulfillment of promise. Romans 8 deepens the Spirit’s work as the principle of the new walk, the Spirit of adoption, helper in prayer weakness, and seal of inseparable love. McGee on 1 Corinthians adds Spirit-revealed wisdom versus natural blindness (ch. 2), the body as Spirit’s temple, Trinitarian distribution of gifts, and Spirit baptism placing believers into Christ’s body. McGee on 1 John adds the anointing that teaches believers, indwelling as greater than the world, and the Spirit as witness with water and blood. McGee on 2 Corinthians ties the Comforter vocabulary of comfort to the Spirit who confirms, anoints, seals, and is the earnest; only the Spirit develops Christian character (*metamorphosis*, 3:18); and the Spirit is the General of spiritual warfare with the Word and prayer (ch. 10). McGee on Acts frames the whole book as the ascended Lord at work by the Holy Spirit through the apostles (1:1–2, 8): Pentecost as the Spirit’s “Bethlehem,” Spirit baptism into the body, filling distinct from baptism, known-language tongues, and Spirit-directed mission from Jerusalem to Rome. A local Spanish sermon note adds the pastoral image of the Spirit as oil (anointing). Spurgeon January MAE ties the Spirit to illuminating light, convicting new birth into living for Christ, and sought unction for the church. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+The sources present the Holy Spirit as another Comforter given by the Father at the Son's request, abiding with the church forever. He is the Spirit of truth who convicts the world, guides disciples into truth, and was poured out at Pentecost in fulfillment of promise. Romans 8 deepens the Spirit’s work as the principle of the new walk, the Spirit of adoption, helper in prayer weakness, and seal of inseparable love. McGee on 1 Corinthians adds Spirit-revealed wisdom versus natural blindness (ch. 2), the body as Spirit’s temple, Trinitarian distribution of gifts, and Spirit baptism placing believers into Christ’s body. McGee on 1 John adds the anointing that teaches believers, indwelling as greater than the world, and the Spirit as witness with water and blood. McGee on 2 Corinthians ties the Comforter vocabulary of comfort to the Spirit who confirms, anoints, seals, and is the earnest; only the Spirit develops Christian character (*metamorphosis*, 3:18); and the Spirit is the General of spiritual warfare with the Word and prayer (ch. 10). McGee on Acts frames the whole book as the ascended Lord at work by the Holy Spirit through the apostles (1:1–2, 8): Pentecost as the Spirit’s “Bethlehem,” Spirit baptism into the body, filling distinct from baptism, known-language tongues, and Spirit-directed mission from Jerusalem to Rome. A local Spanish sermon note adds the pastoral image of the Spirit as oil (anointing). Spurgeon January MAE ties the Spirit to illuminating light, convicting new birth into living for Christ, and sought unction for the church. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -55,6 +55,10 @@ The sources present the Holy Spirit as another Comforter given by the Father at 
 
 - By renewal of the Holy Spirit we are made, in a yet diviner sense, in the image of God—partakers of the divine nature without crossing the Creator–creature gulf. [[sources/commentaries_english/chspurgeon-mae/september/september-16|Spurgeon Morning and Evening, September 16]]
 - Where the Holy Ghost implants divine life, the least living grace outranks the highest dead morality. [[sources/commentaries_english/chspurgeon-mae/september/september-30|Spurgeon Morning and Evening, September 30]]
+
+- This age is the Spirit’s dispensation: Jesus cheers the church by the indwelling Comforter, not yet by visible personal presence. [[sources/commentaries_english/chspurgeon-mae/october/october-12|Spurgeon Morning and Evening, October 12]]
+- Promises and doctrines avail little until a gracious hand applies them—the Spirit brings the water-brook to the faint. [[sources/commentaries_english/chspurgeon-mae/october/october-22|Spurgeon Morning and Evening, October 22]]
+- Without sap the tree dies: vitality must be infused by the Holy Ghost, or the Christian name is a dead thing. [[sources/commentaries_english/chspurgeon-mae/october/october-24|Spurgeon Morning and Evening, October 24]]
 
 ## Agreements and tensions
 
@@ -138,6 +142,9 @@ Key loci: John 14:15–17; John 16:7–14; Acts 1:5–8; Acts 2:1–4; Acts 8–
 - [[sources/commentaries_english/chspurgeon-mae/august/august-28|Spurgeon Morning and Evening, August 28]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-16|Spurgeon Morning and Evening, September 16]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-30|Spurgeon Morning and Evening, September 30]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-12|Spurgeon Morning and Evening, October 12]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-22|Spurgeon Morning and Evening, October 22]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-24|Spurgeon Morning and Evening, October 24]]
 
 ## Open questions
 

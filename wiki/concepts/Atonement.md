@@ -4,8 +4,8 @@ title: Atonement
 description: Christ's propitiatory, substitutionary work dealing with guilt—the gospel crux beside redemption as price-paid deliverance (Rom 3; Isa 53; Mt 27).
 tags: [christ, redemption, salvation]
 status: reviewed
-updated: 2026-08-09
-source_count: 26
+updated: 2026-08-10
+source_count: 27
 ---
 
 # Atonement
@@ -47,7 +47,9 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - Every sin of the elect laid on the Champion and carried away by the atonement leaves no charge against God’s elect. [[sources/commentaries_english/chspurgeon-mae/july/july-27|Spurgeon Morning and Evening, July 27]]
 
 - Full atonement for forgiven sin is ground for joy that outlives common trials—sin settled, the worst smiting can be borne. [[sources/commentaries_english/chspurgeon-mae/august/august-14|Spurgeon Morning and Evening, August 14]]
-- Jesus put the myrrhed wine-cup from his lips: he measured the whole descent of expiation and would not abate a jot of sufficient atonement. [[sources/commentaries_english/chspurgeon-mae/august/august-18|Spurgeon Morning and Evening, August 18]]
+- Jesus put the myrrhed wine-cup from his lips: he measured the whole descent of expiation and would not abate a jot of sufficient atonement. [[sources/commentaries_english/chspurgeon-mae/august/august-18|Spurgeon Morning and Evening, August 18]]. October MAE claims are meshed alongside earlier applicative edges.
+
+- Unclean firstborn could not be sacrificed yet could not go free: redemption by a substitute lamb was the only escape. [[sources/commentaries_english/chspurgeon-mae/october/october-15|Spurgeon Morning and Evening, October 15]]
 
 ## Agreements and tensions
 
@@ -113,6 +115,7 @@ Vault sources treat atonement as the gospel's central dealing with sin: Christ s
 - [[sources/commentaries_english/chspurgeon-mae/july/july-27|Spurgeon Morning and Evening, July 27]]
 - [[sources/commentaries_english/chspurgeon-mae/august/august-14|Spurgeon Morning and Evening, August 14]]
 - [[sources/commentaries_english/chspurgeon-mae/august/august-18|Spurgeon Morning and Evening, August 18]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-15|Spurgeon Morning and Evening, October 15]]
 
 ## Open questions
 

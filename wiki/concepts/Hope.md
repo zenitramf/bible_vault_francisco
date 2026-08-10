@@ -4,15 +4,15 @@ title: Hope
 description: Confident expectation of glory, resurrection, and God's promise under present suffering—not optimism but faith-forward waiting (Rom 5; Rom 8; 1 Cor 15; 1–2 Thess).
 tags: [faith, salvation, prophecy, christian-life]
 status: reviewed
-updated: 2026-08-09
-source_count: 50
+updated: 2026-08-10
+source_count: 55
 ---
 
 # Hope
 
 ## Summary
 
-Sources present Christian hope as future-facing confidence grounded in justification, the Spirit, and the risen Christ: peace and rejoicing in hope of glory; present sufferings not worth comparing with glory to be revealed; creation itself groaning toward redemption's hope; and resurrection of Christ guaranteeing believers' own rising. McGee on 1 Corinthians 15 adds gospel-integral resurrection, bodily rising, victory over death, and *Maranatha* expectancy. McGee on 1 Peter calls Peter the apostle of hope and ties living hope to resurrection, reserved inheritance, and joy under trial. McGee on 1–2 Thessalonians organizes the earliest Pauline letters around the coming of Christ as inspiring, working, purifying, comforting, and rousing hope—faith/love/hope producing work/labor/patience, comfort for the dead in Christ, deliverance from wrath, and industrious waiting that refuses idle fanaticism. McGee on 2 Corinthians adds light affliction versus eternal weight of glory, tent-body departure to be with the Lord, and the *bema* where believers’ works are judged for reward. The Spurgeon prophecy/hope theme batch frames free-grace wisdom against false self-sufficiency; Henry's Romans and 1 Corinthians atlases supply the doctrinal spine. McGee on Amos–Obadiah adds OT restoration hope: David’s booth raised (Amos 9:11–15; Acts 15:16–17) and Obadiah’s climax “And the kingdom shall be the Lord’s,” held beside the warning that the day of the LORD is darkness for the unrepentant (Amos 5:18–20). Spurgeon January MAE colors hope with Canaan rest, seeing God, heavenly rest after toil, forward gaze, and the soul’s return to God as only ark of rest. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+Sources present Christian hope as future-facing confidence grounded in justification, the Spirit, and the risen Christ: peace and rejoicing in hope of glory; present sufferings not worth comparing with glory to be revealed; creation itself groaning toward redemption's hope; and resurrection of Christ guaranteeing believers' own rising. McGee on 1 Corinthians 15 adds gospel-integral resurrection, bodily rising, victory over death, and *Maranatha* expectancy. McGee on 1 Peter calls Peter the apostle of hope and ties living hope to resurrection, reserved inheritance, and joy under trial. McGee on 1–2 Thessalonians organizes the earliest Pauline letters around the coming of Christ as inspiring, working, purifying, comforting, and rousing hope—faith/love/hope producing work/labor/patience, comfort for the dead in Christ, deliverance from wrath, and industrious waiting that refuses idle fanaticism. McGee on 2 Corinthians adds light affliction versus eternal weight of glory, tent-body departure to be with the Lord, and the *bema* where believers’ works are judged for reward. The Spurgeon prophecy/hope theme batch frames free-grace wisdom against false self-sufficiency; Henry's Romans and 1 Corinthians atlases supply the doctrinal spine. McGee on Amos–Obadiah adds OT restoration hope: David’s booth raised (Amos 9:11–15; Acts 15:16–17) and Obadiah’s climax “And the kingdom shall be the Lord’s,” held beside the warning that the day of the LORD is darkness for the unrepentant (Amos 5:18–20). Spurgeon January MAE colors hope with Canaan rest, seeing God, heavenly rest after toil, forward gaze, and the soul’s return to God as only ark of rest. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -76,6 +76,12 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - Around the throne the elders sit as equals in glory—no second-class citizenship among the redeemed before the King. [[sources/commentaries_english/chspurgeon-mae/september/september-9|Spurgeon Morning and Evening, September 9]]
 - Be glad of heart, but let gladness spring in the Lord: he is King, and every attribute is a fountain of joy. [[sources/commentaries_english/chspurgeon-mae/september/september-22|Spurgeon Morning and Evening, September 22]]
 - Christianity does not make men miserable; it makes them sons of God—shall foes inherit mirth and home-born children only mourning? [[sources/commentaries_english/chspurgeon-mae/september/september-27|Spurgeon Morning and Evening, September 27]]
+
+- Hope in Christ for the future is the mainspring of joy here—heaven’s promised rest animates the weary toilworn pilgrim. [[sources/commentaries_english/chspurgeon-mae/october/october-2|Spurgeon Morning and Evening, October 2]]
+- Angels are unseen attendants of the saints; loyalty to their Lord makes them deep-interested helpers of his children. [[sources/commentaries_english/chspurgeon-mae/october/october-3|Spurgeon Morning and Evening, October 3]]
+- At eventide it shall be light: for many saints old age is the choicest season—quieter seas as the shore of immortality nears. [[sources/commentaries_english/chspurgeon-mae/october/october-4|Spurgeon Morning and Evening, October 4]]
+- The Saviour who keeps his people to the end will present them faultless—a glorious church without spot. [[sources/commentaries_english/chspurgeon-mae/october/october-10|Spurgeon Morning and Evening, October 10]]
+- Everything sublunary is on the move; change and death rule below—drive the heart to the unchanging God. [[sources/commentaries_english/chspurgeon-mae/october/october-26|Spurgeon Morning and Evening, October 26]]
 
 ## Agreements and tensions
 
@@ -186,6 +192,11 @@ Sources present Christian hope as future-facing confidence grounded in justifica
 - [[sources/commentaries_english/chspurgeon-mae/september/september-9|Spurgeon Morning and Evening, September 9]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-22|Spurgeon Morning and Evening, September 22]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-27|Spurgeon Morning and Evening, September 27]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-2|Spurgeon Morning and Evening, October 2]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-3|Spurgeon Morning and Evening, October 3]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-4|Spurgeon Morning and Evening, October 4]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-10|Spurgeon Morning and Evening, October 10]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-26|Spurgeon Morning and Evening, October 26]]
 
 ## Open questions
 

@@ -4,15 +4,15 @@ title: Intercession
 description: Spirit-helped prayer within believers and Christ's mediatorial prayer for his people (Rom 8:26–27; Jn 17).
 tags: [prayer, holy-spirit, christ]
 status: reviewed
-updated: 2026-08-08
-source_count: 12
+updated: 2026-08-10
+source_count: 13
 ---
 
 # Intercession
 
 ## Summary
 
-Intercession in the sources is not merely "praying hard," but divine help in prayer: the Spirit helps infirmities and intercedes with groanings that cannot be uttered, according to the will of God; Christ's John 17 prayer is peculiarly his mediatorial intercession, a specimen that also instructs believers. This page isolates that mediatorial and pneumatic aid; general patterns of petition remain on [[wiki/concepts/Prayer|Prayer]]. Spurgeon MAE (Jan 11 evening) presses the Redeemer’s never-ceasing intercession as constant encouragement beside Spirit-helped prayer. Spurgeon’s February *Morning and Evening* adds further applicative edges (meshed into claims below). March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges.
+Intercession in the sources is not merely "praying hard," but divine help in prayer: the Spirit helps infirmities and intercedes with groanings that cannot be uttered, according to the will of God; Christ's John 17 prayer is peculiarly his mediatorial intercession, a specimen that also instructs believers. This page isolates that mediatorial and pneumatic aid; general patterns of petition remain on [[wiki/concepts/Prayer|Prayer]]. Spurgeon MAE (Jan 11 evening) presses the Redeemer’s never-ceasing intercession as constant encouragement beside Spirit-helped prayer. Spurgeon’s February *Morning and Evening* adds further applicative edges (meshed into claims below). March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -35,6 +35,8 @@ Intercession in the sources is not merely "praying hard," but divine help in pra
 - Christ prays that his people be kept from the evil though not taken out of the world—mediatorial prayer for pilgrims still in the fight. [[sources/commentaries_english/chspurgeon-mae/may/may-2|Spurgeon Morning and Evening, May 2]]
 
 - Pray for ministers with household fervency—the apostolic request still binds the church to its labourers. [[sources/commentaries_english/chspurgeon-mae/july/july-7|Spurgeon Morning and Evening, July 7]]
+
+- “If any man sin, we have an advocate”: not that sin forfeits counsel, but that sinners still have him. [[sources/commentaries_english/chspurgeon-mae/october/october-4|Spurgeon Morning and Evening, October 4]]
 
 ## Agreements and tensions
 
@@ -80,6 +82,7 @@ Intercession in the sources is not merely "praying hard," but divine help in pra
 - [[sources/commentaries_english/chspurgeon-mae/april/april-21|Spurgeon Morning and Evening, April 21]]
 - [[sources/commentaries_english/chspurgeon-mae/may/may-2|Spurgeon Morning and Evening, May 2]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-7|Spurgeon Morning and Evening, July 7]]
+- [[sources/commentaries_english/chspurgeon-mae/october/october-4|Spurgeon Morning and Evening, October 4]]
 
 ## Open questions
 
