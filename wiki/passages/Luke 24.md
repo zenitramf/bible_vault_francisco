@@ -38,8 +38,9 @@ Primary scope: Luke 24 (full chapter).
 ## Related pages
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 5|Matthew Henry Complete Volume 5]]
-
+- [[wiki/concepts/Hermeneutics|Hermeneutics]]
 - [[wiki/concepts/Christ|Christ]]
+- [[wiki/concepts/Resurrection|Resurrection]]
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Salvation|Salvation]]

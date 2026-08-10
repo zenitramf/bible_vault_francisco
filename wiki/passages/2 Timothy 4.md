@@ -42,7 +42,9 @@ Primary scope: 2 Timothy 4 (full chapter).
 ## Related pages
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 6|Matthew Henry Complete Volume 6]]
+- [[wiki/concepts/Homiletics|Homiletics]]
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
+- [[wiki/concepts/Word of God|Word of God]]
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/concepts/Faith|Faith]]
 - [[wiki/passages/2 Timothy 3|2 Timothy 3]]

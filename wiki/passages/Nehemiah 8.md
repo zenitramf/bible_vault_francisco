@@ -36,7 +36,9 @@ Primary scope: Nehemiah 8 (full chapter).
 ## Related pages
 
 - [[wiki/source-notes/Matthew Henry Complete Volume 2|Matthew Henry Complete Volume 2]]
-
+- [[wiki/concepts/Hermeneutics|Hermeneutics]]
+- [[wiki/concepts/Homiletics|Homiletics]]
+- [[wiki/concepts/Word of God|Word of God]]
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Covenant|Covenant]]
 - [[wiki/concepts/Holiness|Holiness]]

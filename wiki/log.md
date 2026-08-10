@@ -594,3 +594,10 @@ append_only: true
 ## [2026-08-10] maintain | MAE mesh process closeout
 
 - Deleted temporary mae-concept-mesh runbook and Morning and Evening Theme Enrichment note; stripped links; tracker/plan demoted to completion record only.
+
+## [2026-08-10] concepts | Hermeneutics and Homiletics
+
+- Seed concept hubs for reading method (Hermeneutics) and preaching the Word (Homiletics).
+- Moved context/illumination/Christ-centered search claims from Word of God onto Hermeneutics; Word of God keeps nature/authority/fruit of revelation.
+- Homiletics owns preach-charge and expounding posture; Pastoral Ministry keeps office/flock with pointers.
+- Reciprocal links: Ayudas source-note, Nehemiah 8, 2 Timothy 4, Luke 24, Christ-Centered Ministry.

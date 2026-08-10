@@ -4,7 +4,7 @@ title: Pastoral Ministry
 description: Qualified oversight and feeding of Christ's flock for the church's edification (1 Tim 3; 1 Pet 5; Jn 21:16).
 tags: [pastoral-ministry, church, christ, discipleship]
 status: reviewed
-updated: 2026-08-09
+updated: 2026-08-10
 source_count: 11
 ---
 
@@ -12,7 +12,7 @@ source_count: 11
 
 ## Summary
 
-Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn. McGee’s Notes & Outlines add a local-church order frame for the Pastorals, elder/bishop identity, and the charge to preach the Word and hold sound doctrine in days of apostasy. McGee on 1 Peter 5 adds Peter as fellow elder (not superior), the feed-not-for-money charge, the self-spending “racket” test, example leadership, and the Chief Shepherd’s crown. McGee on 2–3 John shows the elder as truth-guardian: refuse partnership with false teachers; commend hospitality to true teachers; confront Diotrephes-type preeminence that rules or ruins. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+Pastoral ministry in the sources is an office of feeding, overseeing, and exemplifying among God's flock. Qualifications of character and household management are required; motives must be willing rather than greedy or domineering. Christ remains the chief Shepherd, and personal pastoral teaching in the vault stresses the dependence of sheep and the pastor's duty to feed and warn. McGee’s Notes & Outlines add a local-church order frame for the Pastorals, elder/bishop identity, and the charge to preach the Word and hold sound doctrine in days of apostasy—detail on the *ministry of the Word* itself lives on [[wiki/concepts/Homiletics|Homiletics]]. McGee on 1 Peter 5 adds Peter as fellow elder (not superior), the feed-not-for-money charge, the self-spending “racket” test, example leadership, and the Chief Shepherd’s crown. McGee on 2–3 John shows the elder as truth-guardian: refuse partnership with false teachers; commend hospitality to true teachers; confront Diotrephes-type preeminence that rules or ruins. Spurgeon’s March *Morning and Evening* adds further applicative edges (meshed into claims below). May MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -27,7 +27,7 @@ Pastoral ministry in the sources is an office of feeding, overseeing, and exempl
 - McGee on 1 Peter 5: Peter calls himself a fellow elder without a superior place; the elder’s business is to feed the flock of God willingly and not for money—the test of any cult or Christian organization is how much money it spends on itself; the leader is an example; the Chief Shepherd will reward his own for service. [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 - The Pastoral Epistles instruct orderly procedure in local and visible churches; 1 Timothy’s theme is government and order in the local assembly, in contrast to Ephesians’ invisible body. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]] [[wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon|McGee Pastoral Epistles source-note]]
 - Elder and bishop are the same person (*presbuteros* the person, *episkopos* the office); qualifications center on character, household rule, and aptitude to teach; the elder is God’s steward, not self-willed. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
-- In apostasy the good minister warns by teaching the words of the faith; “Preach the word” is the last-days rallying cry; the Scriptures alone fit the man of God for every good work. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
+- In apostasy the good minister warns by teaching the words of the faith; “Preach the word” is the last-days rallying cry; the Scriptures alone fit the man of God for every good work—see [[wiki/concepts/Homiletics|Homiletics]] for the preaching charge and [[wiki/concepts/Word of God|Word of God]] for God-breathed equipment. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
 - The ideal New Testament church is orderly, sound in doctrine, pure in life, and ready for every good work (Titus). [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]]
 - McGee on 2–3 John: “the elder” (*presbuteros*) is seniority and/or office—John the apostle. Love must stay inside the boundary of truth; do not house or greet teachers who lack Christ’s doctrine (2 John 10–11). Commend and support true teachers (3 John 5–8). Diotrephes loved preeminence—refused John, slandered apostles, blocked missionaries, expelled hosts; evil deeds express false doctrine; opposite of example leadership (3 John 9–11). [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
 - Paul counted it great privilege to preach the gospel, not drudgery; yet success humbled him—the fuller the vessel, the deeper it sinks. [[sources/commentaries_english/chspurgeon-mae/march/march-2|Spurgeon Morning and Evening, March 2]]
@@ -67,6 +67,9 @@ Key loci: 1 Timothy 3:1–13; 1 Peter 5:1–4; John 21:16; Ephesians 4:11–16; 
 - [[wiki/passages/2 John 1|2 John 1]]
 - [[wiki/passages/3 John 1|3 John 1]]
 - [[wiki/concepts/Christ-Centered Ministry|Christ-Centered Ministry]]
+- [[wiki/concepts/Homiletics|Homiletics]]
+- [[wiki/concepts/Hermeneutics|Hermeneutics]]
+- [[wiki/concepts/Word of God|Word of God]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Discipleship|Discipleship]]
 - [[wiki/passages/1 Timothy 1 12|1 Timothy 1:12]]

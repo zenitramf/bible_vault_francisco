@@ -41,6 +41,7 @@ Christ-centered ministry is Christ's work before it is the minister's career: he
 ## Related pages
 
 - [[wiki/concepts/Pastoral Ministry|Pastoral Ministry]]
+- [[wiki/concepts/Homiletics|Homiletics]]
 - [[wiki/concepts/Stewardship|Stewardship]]
 - [[wiki/concepts/Christ|Christ]]
 - [[wiki/concepts/Church|Church]]
