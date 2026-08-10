@@ -4,7 +4,7 @@ title: Source-review campaign tracker
 description: Section status for full source→wiki ingest; Phase 4 tracks 100% coverage of remaining corpora.
 tags: [christian-life]
 status: developing
-updated: 2026-08-09
+updated: 2026-08-10
 ---
 
 # Campaign tracker
@@ -124,8 +124,8 @@ Ingest every remaining corpus into the wiki (passage atlas, selective source-not
 | Section | Status | Notes |
 |---|---|---|
 | Faith's Checkbook (chspurgeon-fcb) | reviewed | Theme enrichment source-note (month samples) |
-| Morning and Evening (chspurgeon-mae) | reviewed | Theme enrichment source-note (month samples) |
-| **Devotional rule** | — | Concept enrichment; no calendar mirror |
+| Morning and Evening (chspurgeon-mae) | reviewed | Full calendar concept-meshed (2026-08-10); no month inventory notes |
+| **Devotional rule** | — | Durable claims on concept hubs; no calendar mirror |
 
 ### 3.7 — Empty / future source trees
 
@@ -200,7 +200,7 @@ See `schema/command-reference.md` (Phase 4 coverage gates).
 | chspurgeon-tod | Thicken every `wiki/passages/Psalm N` with ToD; volume source-note lists every psalm file | ToD volume / psalm |
 | chspurgeon-sermons | **Volume source-note** citing every sermon file in the volume (digest claims + full Sources list); mesh themes into concepts — **not** one wiki page per sermon | Sermon volume (1–63) |
 | chspurgeon-fcb | **Month source-note** citing every daily entry that month | Calendar month |
-| chspurgeon-mae | **Month source-note** citing every morning/evening entry that month | Calendar month |
+| chspurgeon-mae | **Concept hubs** with durable MAE claims + day-file Sources links (no month inventory notes) | Calendar month → concepts |
 
 ### 4.0 — Phase 4 operating gate
 
@@ -277,23 +277,12 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 
 ### 4.5 — Morning and Evening (full calendar)
 
-**Concept-mesh runbook (temporary, subagent handoff):** [[wiki/campaigns/mae-concept-mesh|MAE Concept Mesh runbook]] — no month inventory notes; mesh each calendar month into concept hubs. **All twelve months concept-meshed (2026-08-10).**
+**MAE concept mesh complete (2026-08-10).** All twelve calendar months meshed into concept hubs; month inventory notes removed; coverage via concept source links. Temporary runbook and Theme Enrichment process note deleted.
 
 | Section | Status | Days | Notes |
 |---|---|---:|---|
-| January | reviewed | 31 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| February | reviewed | 29 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| March | reviewed | 31 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| April | reviewed | 30 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| May | reviewed | 31 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| June | reviewed | 30 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| July | reviewed | 31 | **Concept-meshed (2026-08-08)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| August | reviewed | 31 | **Concept-meshed (2026-08-09)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| September | reviewed | 30 | **Concept-meshed (2026-08-09)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| October | reviewed | 31 | **Concept-meshed (2026-08-10)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| November | reviewed | 30 | **Concept-meshed (2026-08-10)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| December | reviewed | 31 | **Concept-meshed (2026-08-10)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| **4.5 MAE 100%** | **reviewed** | **366** | Gate: 0 uncovered under `chspurgeon-mae/` |
+| January–December | reviewed | 366 | Concept-meshed; 0 uncovered under `chspurgeon-mae/` |
+| **4.5 MAE 100%** | **reviewed** | **366** | Inventory strategy deprecated; doctrine weight remains on fuller sources |
 
 ### 4.6 — Concept mesh during full ingest
 
@@ -340,7 +329,7 @@ Phase 5 is **not** more source-file coverage (that was Phase 4). It grows the **
 
 **Goal:** Mine high-signal source-notes for themes that deserve standalone concept pages; create them as `seed` with real claims; then deepen **every** concept still at `seed` (and thin hubs) until it meets the vault bar for **`developing`**: multi-source **and** multi-claim, each material claim source-linked.
 
-**In scope evidence (wiki only first):** theme batches, personal notes, Complete hub deepening, ToD volume notes, FCB/MAE theme enrichments, book-level concise source-notes. Open `sources/` only to verify a claim already asserted on a source-note or to fix a broken link—not for new mass ingest.
+**In scope evidence (wiki only first):** theme batches, personal notes, Complete hub deepening, ToD volume notes, FCB theme enrichment (if present), book-level concise source-notes. MAE is already concept-meshed—open `sources/commentaries_english/chspurgeon-mae/` day files only to verify claims. Open other `sources/` only to verify a claim already asserted on a source-note or to fix a broken link—not for new mass ingest.
 
 **Out of scope:** rewriting sources; one-page-per-sermon/day; promoting to `reviewed` (that is 5.3’s plan / follow-on).
 
@@ -378,12 +367,12 @@ Phase 5 is **not** more source-file coverage (that was Phase 4). It grows the **
 | Category | Count | Harvest role |
 |---|---:|---|
 | Spurgeon theme batches | 5 | **Primary** theme signal |
-| FCB + MAE theme enrichments | 2 | **Primary** applicative themes |
+| FCB theme enrichment | 1 | Applicative (MAE enrichment retired; MAE lives on concepts) |
 | Personal notes | 5 | **Primary** vault-local (ministry, study, heroes, Spirit oil) |
 | Matthew Henry Complete hub deepening | 1 | **Primary** contested hubs |
 | Concise book source-notes | 66 | Secondary (passage-bound; use when candidate needs atlas claims) |
 | Sermon volume inventories | 63 | Coverage lists only — **skip** for theme harvest |
-| FCB/MAE month inventories | 25 | Coverage lists only — **skip** |
+| FCB month inventories | ~12 | Coverage lists only — **skip** (MAE month inventories removed) |
 | ToD + Complete volume inventories | 13 | Coverage digests — **skip** except hub-linked claims already on Complete hub note |
 
 **High-signal harvest set actually read (13):**
@@ -394,7 +383,7 @@ Phase 5 is **not** more source-file coverage (that was Phase 4). It grows the **
 4. Spurgeon Theme Batch — Church and Pastoral Ministry
 5. Spurgeon Theme Batch — Prophecy Hope and Wisdom
 6. Spurgeon Faith's Checkbook Theme Enrichment
-7. Spurgeon Morning and Evening Theme Enrichment
+7. ~~Spurgeon Morning and Evening Theme Enrichment~~ (retired 2026-08-10; claims live on concept hubs)
 8. Matthew Henry Complete Hub Deepening
 9. Ayudas en el estudio bíblico
 10. Devotional on 1 Timothy 1:12

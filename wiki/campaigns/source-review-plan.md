@@ -98,7 +98,7 @@ Answer a sample of [[wiki/questions/Core Query Suite|Core Query Suite]] items fr
 | Deepen | Every `seed` (old + new) reaches multi-source multi-claim `developing`, or is explicitly deferred |
 | Gate | `wiki_tool.py build` + `lint`; log; tracker rows |
 
-**Primary harvest surfaces:** Spurgeon theme batches, FCB/MAE theme enrichments, Matthew Henry Complete hub deepening, personal notes, ToD/volume notes only where they assert thematic claims (not mere file lists).
+**Primary harvest surfaces:** Spurgeon theme batches, FCB theme enrichment (if still present), Matthew Henry Complete hub deepening, personal notes, ToD/volume notes only where they assert thematic claims (not mere file lists). MAE is already concept-meshed—do not recreate month notes or a Theme Enrichment process page.
 
 **Anti-pattern:** Creating synonym stubs (e.g. Sanctification next to Holiness) without a source-driven distinction.
 

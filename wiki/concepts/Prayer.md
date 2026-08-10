@@ -134,7 +134,6 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[wiki/passages/Psalm 23|Psalm 23]]
 - [[wiki/source-notes/Matthew Henry Concise on Psalms|Matthew Henry Concise on Psalms]]
 - [[wiki/source-notes/Spurgeon Theme Batch — Faith and Prayer|Spurgeon Theme Batch — Faith and Prayer]]
-- [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Morning and Evening enrichment]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Samuel|McGee Notes and Outlines on 1 and 2 Samuel]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Notes and Outlines on 1 and 2 Chronicles]]

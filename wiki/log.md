@@ -590,3 +590,7 @@ append_only: true
 ## [2026-08-10] ingest | Spurgeon MAE December concept mesh
 
 - Meshed December into concepts; removed month inventory note; 31 day files linked; all twelve MAE months now concept-meshed.
+
+## [2026-08-10] maintain | MAE mesh process closeout
+
+- Deleted temporary mae-concept-mesh runbook and Morning and Evening Theme Enrichment note; stripped links; tracker/plan demoted to completion record only.

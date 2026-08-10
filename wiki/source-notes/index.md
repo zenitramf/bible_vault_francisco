@@ -108,7 +108,6 @@ Live database view: [[wiki/source-notes/index.base|Folder base]]. Static OKF lis
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — November|Spurgeon Faith's Checkbook — November]] - Phase 4 full-calendar month source-note for Faith's Checkbook November: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — October|Spurgeon Faith's Checkbook — October]] - Phase 4 full-calendar month source-note for Faith's Checkbook October: every daily entry file listed.
 * [[wiki/source-notes/Spurgeon Faith's Checkbook — September|Spurgeon Faith's Checkbook — September]] - Phase 4 full-calendar month source-note for Faith's Checkbook September: every daily entry file listed.
-* [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Spurgeon Morning and Evening Theme Enrichment]] - All twelve calendar months meshed into concept hubs; month inventory notes removed.
 * [[wiki/source-notes/Spurgeon Sermons Volume 1|Spurgeon Sermons Volume 1]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 1.
 * [[wiki/source-notes/Spurgeon Sermons Volume 10|Spurgeon Sermons Volume 10]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 10.
 * [[wiki/source-notes/Spurgeon Sermons Volume 11|Spurgeon Sermons Volume 11]] - Phase 4.3 volume source-note listing every sermon file in Spurgeon sermons volume 11.

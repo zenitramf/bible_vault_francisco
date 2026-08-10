@@ -94,7 +94,6 @@ Key loci: John 4:20–24; Psalm 134; 2 Chronicles 7:1–3; 1 Chronicles 29; 2 Ch
 
 - [[wiki/concepts/Word of God|Word of God]]
 - [[wiki/passages/Psalm 134|Psalm 134]]
-- [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|MAE theme enrichment]]
 - [[wiki/concepts/Prayer|Prayer]]
 - [[wiki/concepts/Church|Church]]
 - [[wiki/concepts/Holiness|Holiness]]

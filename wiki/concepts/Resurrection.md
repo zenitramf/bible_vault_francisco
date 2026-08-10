@@ -18,7 +18,7 @@ Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article o
 
 - The apostle establishes the certainty of Christ's resurrection; without it there would have been no justification or salvation. [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-15|Matthew Henry Concise on 1 Corinthians 15]] [[wiki/passages/1 Corinthians 15|1 Corinthians 15]]
 - All who are by faith united to Christ are by his resurrection assured of their own; as in Adam all die, so in Christ shall all be made alive (in the sense of the passage's argument). [[sources/commentaries_english/mhenry-concise/1-corinthians/chapter-15|Matthew Henry Concise on 1 Corinthians 15]]
-- Jesus, our Lord, once crucified, dead and buried, now sits upon the throne of glory. [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon, April 22 Morning/Evening]] [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|MAE theme enrichment]]
+- Jesus, our Lord, once crucified, dead and buried, now sits upon the throne of glory. [[sources/commentaries_english/chspurgeon-mae/april/april-22|Spurgeon, April 22 Morning/Evening]]
 - After the atoning darkness of the cross, Christ is buried without pomp, and the sealed tomb prepares proof of resurrection. [[sources/commentaries_english/mhenry-concise/matthew/chapter-27|Matthew Henry Concise on Matthew 27]] [[wiki/passages/Matthew 27|Matthew 27]]
 - Psalm 16 ends with confidence of a resurrection that must be applied to Christ and to him only, not merely private devotion. [[sources/commentaries_english/mhenry-concise/psalms/psalm-16|Matthew Henry Concise on Psalm 16]] [[wiki/passages/Psalm 16|Psalm 16]]
 - McGee: there is no gospel without the resurrection (1 Cor 15:1–4); witnesses include Cephas, the twelve, over 500, James, and Paul; resurrection is of the body; first church heresy denied bodily rising against Stoic, Epicurean, and Platonic alternatives; believers may be changed without dying at the Rapture (vv. 51–58). [[sources/commentaries_english/mcgee-thru-the-bible/1_Corinthians.pdf.extract.md|McGee Notes & Outlines on 1 Corinthians]] [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee source-note]]
@@ -70,7 +70,6 @@ Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article o
 - [[wiki/passages/Acts 2|Acts 2]]
 - [[wiki/passages/Matthew 27|Matthew 27]]
 - [[wiki/passages/Psalm 16|Psalm 16]]
-- [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|MAE theme enrichment]]
 - [[wiki/source-notes/Matthew Henry Concise on 1 Corinthians|Matthew Henry Concise on 1 Corinthians]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 Corinthians|McGee Notes and Outlines on 1 Corinthians]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Thessalonians|McGee Notes and Outlines on 1 and 2 Thessalonians]]
