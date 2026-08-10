@@ -277,7 +277,7 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 
 ### 4.5 — Morning and Evening (full calendar)
 
-**Concept-mesh runbook (temporary, subagent handoff):** [[wiki/campaigns/mae-concept-mesh|MAE Concept Mesh runbook]] — no month inventory notes; mesh each calendar month into concept hubs. January–November done; December pending.
+**Concept-mesh runbook (temporary, subagent handoff):** [[wiki/campaigns/mae-concept-mesh|MAE Concept Mesh runbook]] — no month inventory notes; mesh each calendar month into concept hubs. **All twelve months concept-meshed (2026-08-10).**
 
 | Section | Status | Days | Notes |
 |---|---|---:|---|
@@ -292,7 +292,7 @@ Optional finer tracking (mark when used): individual volume rows may be expanded
 | September | reviewed | 30 | **Concept-meshed (2026-08-09)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
 | October | reviewed | 31 | **Concept-meshed (2026-08-10)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
 | November | reviewed | 30 | **Concept-meshed (2026-08-10)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
-| December | reviewed | 31 | Month source-note lists all day files; 0 uncovered |
+| December | reviewed | 31 | **Concept-meshed (2026-08-10)** — month inventory note removed; claims on concept hubs; 0 uncovered via concept source links |
 | **4.5 MAE 100%** | **reviewed** | **366** | Gate: 0 uncovered under `chspurgeon-mae/` |
 
 ### 4.6 — Concept mesh during full ingest

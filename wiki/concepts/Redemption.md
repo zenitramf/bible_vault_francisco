@@ -5,7 +5,7 @@ description: Price-paid deliverance through Christ, foundational for belonging t
 tags: [redemption, christ, salvation]
 status: reviewed
 updated: 2026-08-10
-source_count: 19
+source_count: 20
 ---
 
 # Redemption
@@ -44,7 +44,9 @@ In the Spurgeon sermons retrieved for this concept, redemption is the central go
 - The unclean ass still owed the Lord his due; only substitution of a lamb could redeem it—no free pass from the claim. [[sources/commentaries_english/chspurgeon-mae/october/october-15|Spurgeon Morning and Evening, October 15]]
 - Jehovah pledges his own arm to redeem and deliver so that he alone has the glory. [[sources/commentaries_english/chspurgeon-mae/october/october-10|Spurgeon Morning and Evening, October 10]]. November MAE claims are meshed alongside earlier applicative edges.
 
-- In Christ we have redemption through his blood, the forgiveness of sins—the silver notes of jubilee to the captive. [[sources/commentaries_english/chspurgeon-mae/november/november-27|Spurgeon Morning and Evening, November 27]]
+- In Christ we have redemption through his blood, the forgiveness of sins—the silver notes of jubilee to the captive. [[sources/commentaries_english/chspurgeon-mae/november/november-27|Spurgeon Morning and Evening, November 27]]. December MAE claims are meshed alongside earlier applicative edges.
+
+- Under the law of grace every redeemed soul is one with Christ the federal head, as the race was one with Adam under works. [[sources/commentaries_english/chspurgeon-mae/december/december-26|Spurgeon Morning and Evening, December 26]]
 
 ## Agreements and tensions
 
@@ -114,6 +116,7 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/october/october-10|Spurgeon Morning and Evening, October 10]]
 - [[sources/commentaries_english/chspurgeon-mae/october/october-15|Spurgeon Morning and Evening, October 15]]
 - [[sources/commentaries_english/chspurgeon-mae/november/november-27|Spurgeon Morning and Evening, November 27]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-26|Spurgeon Morning and Evening, December 26]]
 
 ## Open questions
 

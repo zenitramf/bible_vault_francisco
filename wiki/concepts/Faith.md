@@ -5,14 +5,14 @@ description: Trust in God's promise and in Christ; the means of justification an
 tags: [faith, salvation, christ, covenant, stewardship]
 status: reviewed
 updated: 2026-08-10
-source_count: 80
+source_count: 83
 ---
 
 # Faith
 
 ## Summary
 
-In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges. December MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -114,6 +114,10 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - Faith untried may be true but dwarfish; tempests train her and lightnings illuminate—she prospers when all is against her. [[sources/commentaries_english/chspurgeon-mae/november/november-12|Spurgeon Morning and Evening, November 12]]
 - “Thou hast pleaded the causes of my soul”—speak of deliverance as fact, not mere hope, when grace opens the mouth. [[sources/commentaries_english/chspurgeon-mae/november/november-20|Spurgeon Morning and Evening, November 20]]
 - Conies are weak yet wise to hide in the rock; exposed hearts should learn the same shelter. [[sources/commentaries_english/chspurgeon-mae/november/november-20|Spurgeon Morning and Evening, November 20]]
+
+- What he has done once he will do again—man’s ways vary, but God’s ways are everlasting by wise deliberation. [[sources/commentaries_english/chspurgeon-mae/december/december-12|Spurgeon Morning and Evening, December 12]]
+- The lot’s disposal is the Lord’s; much more the hairs of your head and the events of your entire life. [[sources/commentaries_english/chspurgeon-mae/december/december-19|Spurgeon Morning and Evening, December 19]]
+- Jehovah himself shall guide thee—not a mere angel; Moses would not go up without his presence. [[sources/commentaries_english/chspurgeon-mae/december/december-27|Spurgeon Morning and Evening, December 27]]
 
 ## Agreements and tensions
 
@@ -255,6 +259,9 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/november/november-9|Spurgeon Morning and Evening, November 9]]
 - [[sources/commentaries_english/chspurgeon-mae/november/november-12|Spurgeon Morning and Evening, November 12]]
 - [[sources/commentaries_english/chspurgeon-mae/november/november-20|Spurgeon Morning and Evening, November 20]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-12|Spurgeon Morning and Evening, December 12]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-19|Spurgeon Morning and Evening, December 19]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-27|Spurgeon Morning and Evening, December 27]]
 
 ## Open questions
 

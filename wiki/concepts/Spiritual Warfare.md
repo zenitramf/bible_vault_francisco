@@ -5,14 +5,14 @@ description: The Christian life as a real war against the devil, principalities 
 tags: [christ, holy-spirit, holiness, discipleship, christian-life]
 status: reviewed
 updated: 2026-08-10
-source_count: 37
+source_count: 39
 ---
 
 # Spiritual Warfare
 
 ## Summary
 
-The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7). McGee on 2 Corinthians adds Satan’s devices against unforgiving churches, gospel-blinding as the god of this world, attractive false ministers, and a weapons triad (Word, Spirit, prayer) with success measured spiritually not by numbers or money. Spurgeon January MAE adds fowler-snare deliverance (prevention and rescue) and the constant nearness of temptation. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges.
+The retrieved sources present the Christian life as a real war, not a metaphor. The enemy is personal: the devil, "a roaring lion" who walks about seeking whom he may devour, commanding principalities and powers and spiritual wickedness in high places. The conflict is not against flesh and blood, so the weapons are not carnal; the armor of God — truth, righteousness, the gospel of peace, faith, salvation, the Spirit and the Word, and prayer — is the standing equipment of every believer. Christ himself entered the wilderness and defeated every assault of the tempter with "It is written," and by his victory supplies the pattern and the ground of the believer's resistance. The Christian therefore stands and withstands, sober and vigilant, resisting the devil steadfast in the faith. McGee on 1 Peter 5 echoes sober intelligence in an evil world and resistance of the devil (with James 4:7). McGee on 2 Corinthians adds Satan’s devices against unforgiving churches, gospel-blinding as the god of this world, attractive false ministers, and a weapons triad (Word, Spirit, prayer) with success measured spiritually not by numbers or money. Spurgeon January MAE adds fowler-snare deliverance (prevention and rescue) and the constant nearness of temptation. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges. December MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -63,6 +63,9 @@ The retrieved sources present the Christian life as a real war, not a metaphor. 
 
 - In Joshua the high priest we see the accused child of God; the adversary resists, yet the Lord rebukes and clothes with change of raiment. [[sources/commentaries_english/chspurgeon-mae/november/november-27|Spurgeon Morning and Evening, November 27]]
 - War will rage between the two sovereignties until one is crushed; peace between good and evil would be darkness’s triumph. [[sources/commentaries_english/chspurgeon-mae/november/november-30|Spurgeon Morning and Evening, November 30]]
+
+- Four terrible horns scatter, but the Lord shows carpenters to fray them—every opposing power has its appointed counter. [[sources/commentaries_english/chspurgeon-mae/december/december-5|Spurgeon Morning and Evening, December 5]]
+- The Christian will make enemies by doing right and believing true; losing earthly friends is small if the great Friend remains. [[sources/commentaries_english/chspurgeon-mae/december/december-28|Spurgeon Morning and Evening, December 28]]
 
 ## Agreements and tensions
 
@@ -146,6 +149,8 @@ Key loci: Ephesians 6:10–18; 1 Peter 5:8–9; James 4:7; Matthew 4:1–11; Rom
 - [[sources/commentaries_english/chspurgeon-mae/october/october-9|Spurgeon Morning and Evening, October 9]]
 - [[sources/commentaries_english/chspurgeon-mae/november/november-27|Spurgeon Morning and Evening, November 27]]
 - [[sources/commentaries_english/chspurgeon-mae/november/november-30|Spurgeon Morning and Evening, November 30]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-5|Spurgeon Morning and Evening, December 5]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-28|Spurgeon Morning and Evening, December 28]]
 
 ## Open questions
 

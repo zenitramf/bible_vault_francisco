@@ -3,7 +3,7 @@ type: Campaign
 title: MAE Concept Mesh (temporary runbook)
 description: Phased subagent runbook to mesh Spurgeon Morning and Evening into concept hubs without month inventory notes.
 tags: [christian-life, prayer, worship, christ]
-status: developing
+status: reviewed
 updated: 2026-08-10
 ---
 
@@ -32,7 +32,7 @@ updated: 2026-08-10
 | September | 30 | **done** (2026-08-09) | **removed** | Concept-meshed; 30/30 day files linked |
 | October | 31 | **done** (2026-08-10) | **removed** | Concept-meshed; 31/31 day files linked |
 | November | 30 | **done** (2026-08-10) | **removed** | Concept-meshed; 30/30 day files linked |
-| December | 31 | pending | exists | |
+| December | 31 | **done** (2026-08-10) | **removed** | Concept-meshed; 31/31 day files linked |
 
 **Source tree:** `sources/commentaries_english/chspurgeon-mae/<month>/<month>-N.md`  
 Each day file has **Morning** and **Evening** sections (two readings per day).
@@ -40,14 +40,14 @@ Each day file has **Morning** and **Evening** sections (two readings per day).
 **Legacy inventory notes to remove as each month meshes:**
 
 ```
-wiki/source-notes/Spurgeon Morning and Evening — December.md
+(none remaining)
 ```
 
-(January–November already removed.)
+(January–December all removed.)
 
 **Related:**
 
-- [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Theme Enrichment]] — sample note; keep until months are meshed; update when a month completes
+- [[wiki/source-notes/Spurgeon Morning and Evening Theme Enrichment|Theme Enrichment]] — progress residue; all twelve months meshed; optional fold-away later
 - [[wiki/campaigns/tracker|Campaign tracker]] §4.5 — coverage history; mesh progress lives here
 - Concept hubs under `wiki/concepts/`
 

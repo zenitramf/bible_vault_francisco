@@ -4,15 +4,15 @@ title: Justification
 description: God's free declaration that sinners are righteous by grace through faith in Christ, not by works of the law (Rom 3–5).
 tags: [salvation, faith, christ, redemption]
 status: reviewed
-updated: 2026-08-09
-source_count: 20
+updated: 2026-08-10
+source_count: 21
 ---
 
 # Justification
 
 ## Summary
 
-In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete on Romans 3–4, justification is God’s free, gracious acceptance of guilty sinners through the righteousness of Christ received by faith. It shuts out boasting, does not rest on works of the law, is illustrated in Abraham, and issues in peace with God and a life that still pursues holiness. Spurgeon January MAE applies justification’s comfort: peace from Christ’s perfect righteousness and completeness in him amid felt imperfection. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete on Romans 3–4, justification is God’s free, gracious acceptance of guilty sinners through the righteousness of Christ received by faith. It shuts out boasting, does not rest on works of the law, is illustrated in Abraham, and issues in peace with God and a life that still pursues holiness. Spurgeon January MAE applies justification’s comfort: peace from Christ’s perfect righteousness and completeness in him amid felt imperfection. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. December MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -45,6 +45,8 @@ In the Romans backbone of Matthew Henry Concise, and in earlier Henry Complete o
 - Judged by the law, no flesh living is justified; blessed are those led by the Spirit rather than standing on legal footing for acceptance. [[sources/commentaries_english/chspurgeon-mae/september/september-6|Spurgeon Morning and Evening, September 6]]
 - Accepted in the Beloved means more than bare justification: objects of divine complacence and delight—only in him, not in our experience. [[sources/commentaries_english/chspurgeon-mae/september/september-23|Spurgeon Morning and Evening, September 23]]
 - Being justified by faith, conscience no longer accuses as before a condemning court; Christ paid the debt to the last jot, so memory may grieve sin without dreading unpaid penalty. [[sources/commentaries_english/chspurgeon-mae/september/september-25|Spurgeon Morning and Evening, September 25]]
+
+- Walk in white: constant sense of justification by faith—Christ’s righteousness imputed, robes washed in the blood of the Lamb. [[sources/commentaries_english/chspurgeon-mae/december/december-8|Spurgeon Morning and Evening, December 8]]
 
 ## Agreements and tensions
 
@@ -101,6 +103,7 @@ Key loci: Romans 3:19–31; Romans 4; Romans 5:1–11; Romans 6:1–2; Genesis 1
 - [[sources/commentaries_english/chspurgeon-mae/september/september-6|Spurgeon Morning and Evening, September 6]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-23|Spurgeon Morning and Evening, September 23]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-25|Spurgeon Morning and Evening, September 25]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-8|Spurgeon Morning and Evening, December 8]]
 
 ## Open questions
 

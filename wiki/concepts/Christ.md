@@ -5,14 +5,14 @@ description: Christ as the eternal Word made flesh, God with us, and the sufferi
 tags: [christ, redemption, salvation, faith]
 status: reviewed
 updated: 2026-08-10
-source_count: 109
+source_count: 117
 ---
 
 # Christ
 
 ## Summary
 
-The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors. Spurgeon January MAE thickens experiential Christology: covenant fullness, prior knowledge of his own, joy of fellowship, purchased belonging, present help, brotherly choice, and received fullness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges.
+The sources confess Jesus Christ as the eternal Word who was with God and was God, made flesh and dwelling among us. He is Emmanuel, God with us, and the suffering servant on whom the Lord laid the iniquity of us all. Matthew’s concise atlas adds messianic lineage, kingdom authority, the cross, atoning death with opened access to God, and the risen Lord’s commission under all authority. McGee on 1 John presses apostolic sense-witness against Gnostic denial of full humanity and presents Christ as advocate and propitiation for the family of God. McGee on 1 Peter presents Christ as living Stone, vicarious sufferer whose stripes heal from sin, once-for-sins Savior, and Chief Shepherd who will crown undershepherds. McGee on 2–3 John applies the same anti-Gnostic incarnation doctrine to hospitality: the Truth is Jesus Christ; life expresses the doctrine of Christ; deceivers who deny Christ come in the flesh are antichrist. McGee on Colossians centers the Head of the body: nine marks of deity and preeminence, *pleroma* fullness of God bodily, Creator and sustainer, reconciling blood, and Christ as answer to philosophy and ritual—against Gnostic creature-Christ errors. Spurgeon January MAE thickens experiential Christology: covenant fullness, prior knowledge of his own, joy of fellowship, purchased belonging, present help, brotherly choice, and received fullness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges. December MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -140,6 +140,15 @@ The sources confess Jesus Christ as the eternal Word who was with God and was Go
 - Better to be Lazarus and commune than only Martha and serve when season calls for the clusters of fellowship. [[sources/commentaries_english/chspurgeon-mae/november/november-21|Spurgeon Morning and Evening, November 21]]
 - Union with Christ makes interests mutual: what he loves we love—fellowship in his love toward the saints. [[sources/commentaries_english/chspurgeon-mae/november/november-23|Spurgeon Morning and Evening, November 23]]
 - Mordecai’s use of exaltation for Israel’s good types Jesus on the throne, spending power for his people, not himself. [[sources/commentaries_english/chspurgeon-mae/november/november-28|Spurgeon Morning and Evening, November 28]]
+
+- Nothing can satisfy the entire man but the Lord’s love and the Lord’s own self; other anchorages prove fatal refuges. [[sources/commentaries_english/chspurgeon-mae/december/december-2|Spurgeon Morning and Evening, December 2]]
+- In Patmos John saw one like the Son of Man girt with gold—never ungirt for service on earth, still ready before the throne. [[sources/commentaries_english/chspurgeon-mae/december/december-6|Spurgeon Morning and Evening, December 6]]
+- Even the sweetest visits from Christ are short here; full unending sight waits when we are forever with the Lord. [[sources/commentaries_english/chspurgeon-mae/december/december-10|Spurgeon Morning and Evening, December 10]]
+- Jesus the great I AM is the door into the true church and access to God—saved, safe, free, and fed. [[sources/commentaries_english/chspurgeon-mae/december/december-17|Spurgeon Morning and Evening, December 17]]
+- Though eternally rich, for our sakes he became poor; true communion with him shares that self-emptying pattern. [[sources/commentaries_english/chspurgeon-mae/december/december-24|Spurgeon Morning and Evening, December 24]]
+- Go down to Bethlehem: by faith claim interest in the child born and the son given—King of the Jews for us also. [[sources/commentaries_english/chspurgeon-mae/december/december-25|Spurgeon Morning and Evening, December 25]]
+- The great test of soul health is what you think of Christ—fairer than men, chief among ten thousand, altogether lovely. [[sources/commentaries_english/chspurgeon-mae/december/december-29|Spurgeon Morning and Evening, December 29]]
+- Patience had her perfect work in Jesus: to the last day of the feast he pleaded and waited to be gracious. [[sources/commentaries_english/chspurgeon-mae/december/december-31|Spurgeon Morning and Evening, December 31]]
 
 ## Agreements and tensions
 
@@ -314,6 +323,14 @@ Key loci: John 1:1–14; Matthew 1; Matthew 16:13–28; Matthew 27–28; Isaiah 
 - [[sources/commentaries_english/chspurgeon-mae/november/november-21|Spurgeon Morning and Evening, November 21]]
 - [[sources/commentaries_english/chspurgeon-mae/november/november-23|Spurgeon Morning and Evening, November 23]]
 - [[sources/commentaries_english/chspurgeon-mae/november/november-28|Spurgeon Morning and Evening, November 28]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-2|Spurgeon Morning and Evening, December 2]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-6|Spurgeon Morning and Evening, December 6]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-10|Spurgeon Morning and Evening, December 10]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-17|Spurgeon Morning and Evening, December 17]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-24|Spurgeon Morning and Evening, December 24]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-25|Spurgeon Morning and Evening, December 25]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-29|Spurgeon Morning and Evening, December 29]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-31|Spurgeon Morning and Evening, December 31]]
 
 ## Open questions
 

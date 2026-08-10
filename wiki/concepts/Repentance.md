@@ -5,7 +5,7 @@ description: Turning to God in contrite confession, pleading mercy through Chris
 tags: [repentance, holiness, salvation, prayer]
 status: reviewed
 updated: 2026-08-10
-source_count: 26
+source_count: 28
 ---
 
 # Repentance
@@ -49,7 +49,11 @@ Sources present repentance as humble return to God with confession of sin and pl
 - When corruption covers the whole man like leprosy, honest total self-judgment is the path the type points toward cleansing grace. [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]. October MAE claims are meshed alongside earlier applicative edges.
 
 - Genuine mourning for sin is the Spirit’s work—penitence never grows in nature’s garden without divine grace. [[sources/commentaries_english/chspurgeon-mae/october/october-13|Spurgeon Morning and Evening, October 13]]
-- A backslider with a spark of life groans for restoration; renewal needs the same repentance and faith as first conversion. [[sources/commentaries_english/chspurgeon-mae/october/october-31|Spurgeon Morning and Evening, October 31]]
+- A backslider with a spark of life groans for restoration; renewal needs the same repentance and faith as first conversion. [[sources/commentaries_english/chspurgeon-mae/october/october-31|Spurgeon Morning and Evening, October 31]]. December MAE claims are meshed alongside earlier applicative edges.
+
+- Beloved and redeemed, yet you have dealt treacherously with God your best friend—sorrowful honesty about backsliding. [[sources/commentaries_english/chspurgeon-mae/december/december-12|Spurgeon Morning and Evening, December 12]]
+- Garment-rending is easy and often hypocritical; true repentance of heart is harder and far less common. [[sources/commentaries_english/chspurgeon-mae/december/december-18|Spurgeon Morning and Evening, December 18]]
+- Wise merchants take stock; cry “Search me” and examine whether trade with heaven prospers or declines. [[sources/commentaries_english/chspurgeon-mae/december/december-18|Spurgeon Morning and Evening, December 18]]
 
 ## Agreements and tensions
 
@@ -123,6 +127,8 @@ Sources present repentance as humble return to God with confession of sin and pl
 - [[sources/commentaries_english/chspurgeon-mae/september/september-29|Spurgeon Morning and Evening, September 29]]
 - [[sources/commentaries_english/chspurgeon-mae/october/october-13|Spurgeon Morning and Evening, October 13]]
 - [[sources/commentaries_english/chspurgeon-mae/october/october-31|Spurgeon Morning and Evening, October 31]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-12|Spurgeon Morning and Evening, December 12]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-18|Spurgeon Morning and Evening, December 18]]
 
 ## Open questions
 

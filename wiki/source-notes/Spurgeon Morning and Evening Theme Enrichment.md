@@ -1,7 +1,7 @@
 ---
 type: Source Note
 title: Spurgeon Morning and Evening Theme Enrichment
-description: January–November meshed into concepts; remaining months still selective/sample or inventory-only.
+description: All twelve calendar months meshed into concept hubs; month inventory notes removed.
 tags: [prayer, worship, christ, holiness]
 status: developing
 updated: 2026-08-10
@@ -36,6 +36,8 @@ Selective thematic enrichment from Spurgeon daily devotionals. **Rule:** enrich 
 **October (2026-08-10):** full-month concept mesh—31/31 day files linked from concept hubs (Worship, Grace, Hope, Christ, Intercession, Discipleship, Salvation, Faith, Prayer, Holy Spirit, Word of God, Repentance, Holiness, Redemption, Atonement, Stewardship, Suffering, Spiritual Warfare, Church, Sin and the Fall, Covenant, Surrender). The former October month source-note was removed.
 
 **November (2026-08-10):** full-month concept mesh—30/30 day files linked from concept hubs (Church, Salvation, Hope, Holiness, Prayer, Discipleship, Christ, Faith, Atonement, Covenant, Grace, Worship, Justice, Holy Spirit, Suffering, Resurrection, Redemption, Spiritual Warfare, Stewardship, Wisdom). The former November month source-note was removed.
+
+**December (2026-08-10):** full-month concept mesh—31/31 day files linked from concept hubs (Covenant, Worship, Church, Christ, Salvation, Hope, Prayer, Spiritual Warfare, Justification, Grace, Discipleship, Faith, Repentance, Atonement, Holiness, Suffering, Stewardship, Redemption). The former December month source-note was removed. **MAE full-year concept mesh complete.**
 
 ## Core claims
 
@@ -74,4 +76,4 @@ Varies by daily entry (see individual files).
 ## Open questions
 
 - Which concept pages most need additional devotional color without diluting multi-source claims?
-- Which remaining MAE months (December) should next follow the concept-mesh pattern (no month notes)?
+- Whether Theme Enrichment remains as a progress residue or is folded away now that all twelve months are meshed.

@@ -5,14 +5,14 @@ description: Humble approach to the Father, taught by Christ, helped by the Spir
 tags: [prayer, christ, holy-spirit, discipleship]
 status: reviewed
 updated: 2026-08-10
-source_count: 50
+source_count: 53
 ---
 
 # Prayer
 
 ## Summary
 
-The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1–2 Samuel makes prayer a book-level theme: 1 Samuel opens with Hannah’s cry and 2 Samuel closes with David’s altar prayer; God builds the throne on a woman’s cry, and David’s thanksgiving after the covenant (2 Samuel 7) and refusal of a costless offering (24:24) frame royal devotion. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). McGee on 1–2 Chronicles adds David’s great temple-offering prayer (1 Chronicles 29:10–19) and Solomon’s dedication prayer (2 Chronicles 6) as major OT models of adoration, dependence, and house-of-prayer orientation. McGee on 1–2 Kings supplies the throne-narrative parallels: Solomon’s request for wisdom (1 Kings 3), dedication prayer denying a confined God (1 Kings 8:27), Elijah’s brief Carmel prayer and later collapse, and Hezekiah spreading Assyria’s letter before the Lord (2 Kings 19). McGee on Colossians adds Paul’s thanksgiving and *epignosis* prayer for the church, prayer-agony for unseen believers, and practical perseverance—inhale prayer / exhale thanksgiving, with petition for the gospel door. Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit. Spurgeon’s January *Morning and Evening* adds applicative prayer edges: Scripture’s saturation with prayer, sinking-driven petition, using promises, prayer under slander, recovering lost communion in the closet, and corporate prayer at times of divine stirring. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges.
+The retrieved sources present prayer as sincere address to God rather than public performance, taught by Christ in a pattern of childlike dependence, and sustained by the Spirit's help in weakness. Christ's own intercession in John 17 stands as both sample and ground of Christian praying. McGee on 1–2 Samuel makes prayer a book-level theme: 1 Samuel opens with Hannah’s cry and 2 Samuel closes with David’s altar prayer; God builds the throne on a woman’s cry, and David’s thanksgiving after the covenant (2 Samuel 7) and refusal of a costless offering (24:24) frame royal devotion. McGee on 1 John adds love-in-action confidence toward God (3:19–22) and boldness when asking according to his will/Word (5:14–15). McGee on 1–2 Chronicles adds David’s great temple-offering prayer (1 Chronicles 29:10–19) and Solomon’s dedication prayer (2 Chronicles 6) as major OT models of adoration, dependence, and house-of-prayer orientation. McGee on 1–2 Kings supplies the throne-narrative parallels: Solomon’s request for wisdom (1 Kings 3), dedication prayer denying a confined God (1 Kings 8:27), Elijah’s brief Carmel prayer and later collapse, and Hezekiah spreading Assyria’s letter before the Lord (2 Kings 19). McGee on Colossians adds Paul’s thanksgiving and *epignosis* prayer for the church, prayer-agony for unseen believers, and practical perseverance—inhale prayer / exhale thanksgiving, with petition for the gospel door. Prayer therefore belongs to ordinary discipleship and to the mediatorial work of Christ and the Spirit. Spurgeon’s January *Morning and Evening* adds applicative prayer edges: Scripture’s saturation with prayer, sinking-driven petition, using promises, prayer under slander, recovering lost communion in the closet, and corporate prayer at times of divine stirring. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges. December MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -79,6 +79,10 @@ The retrieved sources present prayer as sincere address to God rather than publi
 - If the spotless Lord lived in supplication, how much more his people; love to the Father and the church kept him at prayer. [[sources/commentaries_english/chspurgeon-mae/november/november-12|Spurgeon Morning and Evening, November 12]]
 - Men ought always to pray and not faint—still more the church on intercessory mission for a dumb creation. [[sources/commentaries_english/chspurgeon-mae/november/november-13|Spurgeon Morning and Evening, November 13]]
 - In extremity the cry is for the Father’s face before healing or vindication—Job’s first longing was God himself. [[sources/commentaries_english/chspurgeon-mae/november/november-19|Spurgeon Morning and Evening, November 19]]
+
+- Ask, seek, knock: like St. Cross Hospital’s dole of bread, Christ has open provision for every traveller who comes. [[sources/commentaries_english/chspurgeon-mae/december/december-5|Spurgeon Morning and Evening, December 5]]
+- God often delays answers—Jacob wrestled till dawn, the Syrophoenician waited—delay is not denial of intent to bless. [[sources/commentaries_english/chspurgeon-mae/december/december-9|Spurgeon Morning and Evening, December 9]]
+- After household festivities, imitate Job’s early rising to sanctify the family—cheer can slide into sinful levity without prayer. [[sources/commentaries_english/chspurgeon-mae/december/december-25|Spurgeon Morning and Evening, December 25]]
 
 ## Agreements and tensions
 
@@ -189,6 +193,9 @@ Key loci: Matthew 6:5–15; John 17; Romans 8:26–27; Romans 15:30–33; 1 John
 - [[sources/commentaries_english/chspurgeon-mae/november/november-12|Spurgeon Morning and Evening, November 12]]
 - [[sources/commentaries_english/chspurgeon-mae/november/november-13|Spurgeon Morning and Evening, November 13]]
 - [[sources/commentaries_english/chspurgeon-mae/november/november-19|Spurgeon Morning and Evening, November 19]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-5|Spurgeon Morning and Evening, December 5]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-9|Spurgeon Morning and Evening, December 9]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-25|Spurgeon Morning and Evening, December 25]]
 
 ## Open questions
 

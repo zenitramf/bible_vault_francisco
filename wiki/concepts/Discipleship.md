@@ -5,14 +5,14 @@ description: Following Christ through self-denial, cross-bearing, and counted co
 tags: [discipleship, christ, christian-life, faith]
 status: reviewed
 updated: 2026-08-10
-source_count: 73
+source_count: 79
 ---
 
 # Discipleship
 
 ## Summary
 
-In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, a disciple is one who comes after Christ. Discipleship requires self-denial, taking up the cross, and following Jesus rather than prescribing to him. Spurgeon presses the severity of the terms: Christ must outrank even closest natural loves, and no one should begin without counting the cost of finishing. Matthew’s concise atlas adds Sermon-on-the-Mount formation, mission among wolves, childlike greatness, and the risen commission to make disciples of all nations. Romans 12 frames lifelong offering; personal notes add study habits and hidden faithfulness. Spurgeon January MAE forms discipleship as heart-preparation for the Lord, service without cumber, pondering meditation, living unto Christ, and unashamed witness. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges. December MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -106,6 +106,13 @@ In the retrieved sources, a disciple is one who comes after Christ. Discipleship
 - Spend short days doing good rather than disputing minor matters that wreck churches with practical uselessness. [[sources/commentaries_english/chspurgeon-mae/november/november-19|Spurgeon Morning and Evening, November 19]]
 - Whatsoever thy hand finds to do, do—not schemes left in the heart alone if you would be eminently useful. [[sources/commentaries_english/chspurgeon-mae/november/november-26|Spurgeon Morning and Evening, November 26]]
 - Small beginnings under Zerubbabel were not to be despised; the plummet was in good hands until the headstone. [[sources/commentaries_english/chspurgeon-mae/november/november-26|Spurgeon Morning and Evening, November 26]]
+
+- The word of service was spoken not to kings first but to common servants—serve the Lord Christ in ordinary callings. [[sources/commentaries_english/chspurgeon-mae/december/december-11|Spurgeon Morning and Evening, December 11]]
+- They go from strength to strength: progress is the pilgrim path, not stagnant standing. [[sources/commentaries_english/chspurgeon-mae/december/december-14|Spurgeon Morning and Evening, December 14]]
+- Orpah kissed and returned; Ruth clave—affection is tested when ease and comfort are set against costly following. [[sources/commentaries_english/chspurgeon-mae/december/december-15|Spurgeon Morning and Evening, December 15]]
+- God is a good paymaster even while you work: an easy conscience after faithful speech for Jesus is present wages. [[sources/commentaries_english/chspurgeon-mae/december/december-20|Spurgeon Morning and Evening, December 20]]
+- First approach to God is with fear and trembling under guilt; nearness grows from that humbled start. [[sources/commentaries_english/chspurgeon-mae/december/december-23|Spurgeon Morning and Evening, December 23]]
+- Hitherto the Lord hath helped—point the hand at the whole past through poverty, wealth, sickness, and sea. [[sources/commentaries_english/chspurgeon-mae/december/december-29|Spurgeon Morning and Evening, December 29]]
 
 ## Agreements and tensions
 
@@ -219,6 +226,12 @@ Key loci: Matthew 16:24–26; Luke 14:26–30; Romans 12:1–8.
 - [[sources/commentaries_english/chspurgeon-mae/november/november-14|Spurgeon Morning and Evening, November 14]]
 - [[sources/commentaries_english/chspurgeon-mae/november/november-19|Spurgeon Morning and Evening, November 19]]
 - [[sources/commentaries_english/chspurgeon-mae/november/november-26|Spurgeon Morning and Evening, November 26]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-11|Spurgeon Morning and Evening, December 11]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-14|Spurgeon Morning and Evening, December 14]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-15|Spurgeon Morning and Evening, December 15]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-20|Spurgeon Morning and Evening, December 20]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-23|Spurgeon Morning and Evening, December 23]]
+- [[sources/commentaries_english/chspurgeon-mae/december/december-29|Spurgeon Morning and Evening, December 29]]
 
 ## Open questions
 
