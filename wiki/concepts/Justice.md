@@ -4,15 +4,15 @@ title: Justice
 description: God's righteous requirement to do justly, love mercy, and defend the oppressed (Mic 6:6–8; Ps 9).
 tags: [justice, prophecy, holiness, christian-life]
 status: reviewed
-updated: 2026-08-08
-source_count: 6
+updated: 2026-08-10
+source_count: 7
 ---
 
 # Justice
 
 ## Summary
 
-In the retrieved sources, justice is not a substitute for worship but the moral requirement God has already shown. Leaders who pervert judgment are condemned; God himself is a refuge for the oppressed and a righteous judge. Biblical justice joins right dealing with mercy and humble walking with God. McGee on Amos adds that God rules the nations, measures responsibility by the light a people has, and judges chosen Israel more severely because privilege creates responsibility (Amos 3:1–3).
+In the retrieved sources, justice is not a substitute for worship but the moral requirement God has already shown. Leaders who pervert judgment are condemned; God himself is a refuge for the oppressed and a righteous judge. Biblical justice joins right dealing with mercy and humble walking with God. McGee on Amos adds that God rules the nations, measures responsibility by the light a people has, and judges chosen Israel more severely because privilege creates responsibility (Amos 3:1–3). November MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -24,7 +24,11 @@ In the retrieved sources, justice is not a substitute for worship but the moral 
 - Sin causes controversy between God and man; God has shown what is good, and plain injustice under religious cover is condemned. [[sources/commentaries_english/mhenry-concise/micah/chapter-6|Matthew Henry Concise on Micah 6]]
 - McGee on Amos: God is ruler of the world; all nations are responsible to Him according to the light they have; the final test is Amos 3:3—“Can two walk together, except they be agreed?” Surrounding nations are judged for cruelty, slave-making, treaty-breaking, revenge, violent crime, and injustice beyond death; Judah for despising the Law; Israel for Amorite-like immorality. Privilege creates responsibility—the higher the blessing, the greater the punishment (Amos 3). Affluence sins (gluttony, heathen music, drunkenness) and empty religion invite captivity. Obadiah adds *lex talionis* catastrophe on Edom’s brother-violence and pride. [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|McGee Notes & Outlines on Amos and Obadiah]] [[wiki/source-notes/McGee Notes and Outlines on Amos and Obadiah|McGee Amos–Obadiah source-note]] [[wiki/passages/Amos 3|Amos 3]] [[wiki/passages/Obadiah 1|Obadiah 1]]
 
+- Oppressors who split the poor like logs should mind the splinter: Jesus is persecuted in every injured saint and mighty to avenge. [[sources/commentaries_english/chspurgeon-mae/november/november-17|Spurgeon Morning and Evening, November 17]]
+
 ## Agreements and tensions
+
+- Spurgeon *Morning and Evening* is brief and applicative: use for pastoral color and experiential edges; do not overweight against fuller Henry/sermon treatments of the same doctrines.
 
 - Henry's Micah expositions concentrate on covenant lawsuit, social oppression, and false religious leadership. [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-3#The Crimes of the Princes and Prophets (726 BC)|Matthew Henry on Micah 3]]
 - Spurgeon's Psalm 9 material emphasizes God's judicial character and protection of the oppressed more than programmatic social reform. [[sources/commentaries_english/chspurgeon-tod/volume-1/psalm-9#Exposition|Spurgeon, Treasury of David on Psalm 9]]
@@ -59,6 +63,7 @@ Key loci: Micah 6:6–8; Micah 3; Psalm 9; Amos 1–6; Amos 3:1–3; Obadiah 1:1
 - [[sources/commentaries_english/mhenry-complete/volume-4/micah/chapter-3|Matthew Henry, Micah 3]]
 - [[sources/commentaries_english/chspurgeon-tod/volume-1/psalm-9|Spurgeon, Treasury of David, Psalm 9]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Amos-Obadiah.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Amos & Obadiah]]
+- [[sources/commentaries_english/chspurgeon-mae/november/november-17|Spurgeon Morning and Evening, November 17]]
 
 ## Open questions
 

@@ -31,7 +31,7 @@ updated: 2026-08-10
 | August | 31 | **done** (2026-08-09) | **removed** | Concept-meshed; 31/31 day files linked |
 | September | 30 | **done** (2026-08-09) | **removed** | Concept-meshed; 30/30 day files linked |
 | October | 31 | **done** (2026-08-10) | **removed** | Concept-meshed; 31/31 day files linked |
-| November | 30 | pending | exists | |
+| November | 30 | **done** (2026-08-10) | **removed** | Concept-meshed; 30/30 day files linked |
 | December | 31 | pending | exists | |
 
 **Source tree:** `sources/commentaries_english/chspurgeon-mae/<month>/<month>-N.md`  
@@ -40,11 +40,10 @@ Each day file has **Morning** and **Evening** sections (two readings per day).
 **Legacy inventory notes to remove as each month meshes:**
 
 ```
-wiki/source-notes/Spurgeon Morning and Evening — November.md
 wiki/source-notes/Spurgeon Morning and Evening — December.md
 ```
 
-(January–October already removed.)
+(January–November already removed.)
 
 **Related:**
 

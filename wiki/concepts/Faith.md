@@ -5,14 +5,14 @@ description: Trust in God's promise and in Christ; the means of justification an
 tags: [faith, salvation, christ, covenant, stewardship]
 status: reviewed
 updated: 2026-08-10
-source_count: 74
+source_count: 80
 ---
 
 # Faith
 
 ## Summary
 
-In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, faith is not a work that earns acceptance but the receiving trust by which sinners are justified and live before God. Abraham is the standing example: he believed God against natural impossibility, and righteousness was counted to him. Romans concise adds that gospel righteousness runs from faith to faith, that the word of faith is near in the preached Christ, and that faith comes by hearing. Hebrews describes faith as the substance of things hoped for and the evidence of things not seen, while Spurgeon presents trust in Christ as essential to a life unto the praise of God's glory. A personal heroes list further illustrates quiet, often overlooked faith in action. McGee on 1 John adds victory over the world by faith (*nike*) and assurance that rests on believing God’s witness concerning his Son. Spurgeon January MAE applies faith to care-casting, assurance of final entrance, self-examination of temporary hearing, using promises, providence, recovered impossibilities, the plain path of believing, and disinterested service. February MAE claims are meshed alongside the January applicative edges. March MAE claims are meshed alongside the January–February applicative edges. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. October MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -106,6 +106,14 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - Particular providence is over the saints: the angel of the Lord encamps round about those who fear him. [[sources/commentaries_english/chspurgeon-mae/october/october-21|Spurgeon Morning and Evening, October 21]]
 - Ruth’s “hap” looked like accident; providence guided every step among the sheaves. [[sources/commentaries_english/chspurgeon-mae/october/october-25|Spurgeon Morning and Evening, October 25]]
 - When ordinances and human counsel fail to comfort, God may be driving you to the fountain head—blessed to live there. [[sources/commentaries_english/chspurgeon-mae/october/october-16|Spurgeon Morning and Evening, October 16]]
+
+- Remember national deliverances that mark God’s hand—plot discovered, rescue wrought—and trust the same Guardian still. [[sources/commentaries_english/chspurgeon-mae/november/november-5|Spurgeon Morning and Evening, November 5]]
+- When low and sad, dark doleful fears do not lift the soul; chaining the eagle’s wing will not make it mount. [[sources/commentaries_english/chspurgeon-mae/november/november-6|Spurgeon Morning and Evening, November 6]]
+- The life of faith is receiving—a gift accepted like earth drinking rain, with nothing of merit given in exchange. [[sources/commentaries_english/chspurgeon-mae/november/november-8|Spurgeon Morning and Evening, November 8]]
+- Shall heaven’s storehouses fail? Your Father knows you need food and raiment; doubt of the promise is needless. [[sources/commentaries_english/chspurgeon-mae/november/november-9|Spurgeon Morning and Evening, November 9]]
+- Faith untried may be true but dwarfish; tempests train her and lightnings illuminate—she prospers when all is against her. [[sources/commentaries_english/chspurgeon-mae/november/november-12|Spurgeon Morning and Evening, November 12]]
+- “Thou hast pleaded the causes of my soul”—speak of deliverance as fact, not mere hope, when grace opens the mouth. [[sources/commentaries_english/chspurgeon-mae/november/november-20|Spurgeon Morning and Evening, November 20]]
+- Conies are weak yet wise to hide in the rock; exposed hearts should learn the same shelter. [[sources/commentaries_english/chspurgeon-mae/november/november-20|Spurgeon Morning and Evening, November 20]]
 
 ## Agreements and tensions
 
@@ -241,6 +249,12 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/chspurgeon-mae/october/october-17|Spurgeon Morning and Evening, October 17]]
 - [[sources/commentaries_english/chspurgeon-mae/october/october-21|Spurgeon Morning and Evening, October 21]]
 - [[sources/commentaries_english/chspurgeon-mae/october/october-25|Spurgeon Morning and Evening, October 25]]
+- [[sources/commentaries_english/chspurgeon-mae/november/november-5|Spurgeon Morning and Evening, November 5]]
+- [[sources/commentaries_english/chspurgeon-mae/november/november-6|Spurgeon Morning and Evening, November 6]]
+- [[sources/commentaries_english/chspurgeon-mae/november/november-8|Spurgeon Morning and Evening, November 8]]
+- [[sources/commentaries_english/chspurgeon-mae/november/november-9|Spurgeon Morning and Evening, November 9]]
+- [[sources/commentaries_english/chspurgeon-mae/november/november-12|Spurgeon Morning and Evening, November 12]]
+- [[sources/commentaries_english/chspurgeon-mae/november/november-20|Spurgeon Morning and Evening, November 20]]
 
 ## Open questions
 

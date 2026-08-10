@@ -4,15 +4,15 @@ title: Wisdom
 description: God-given skill for living that outranks all earthly wealth; in its highest form, the personal Wisdom who is Christ (Pr 16:16; Pr 3:14; Pr 8:10–11, 19; Jb 28; Ps 119:98–100; Col 2:3).
 tags: [wisdom, christ, christian-life, holiness, salvation, discipleship]
 status: reviewed
-updated: 2026-08-09
-source_count: 13
+updated: 2026-08-10
+source_count: 14
 ---
 
 # Wisdom
 
 ## Summary
 
-In the retrieved sources, wisdom is not a mere cleverness of mind but a God-given skill for living that orients the whole person to his Creator. Solomon places it above every earthly possession — *better than gold, better than silver, better than rubies* (Pr 16:16; Pr 3:14; Pr 8:10–11, 19) — and Job grounds the comparison in the fact that no metal the mines yield can purchase the wisdom that comes from the fear of the Lord (Jb 28). The same commentaries read "wisdom" in Proverbs 8 as ultimately Christward: Christ is "in whom are all the treasures of wisdom and knowledge" (Col 2:3), and the wisdom the gospel imparts is at once knowledge, righteousness, sanctification, and redemption (1 Cor 1:30). Spurgeon gathers this into a single pastoral line: the only gold that truly satisfies is "gold tried in the fire" — the grace of God in Christ, received "without money and without price" (Re 3:18). May MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+In the retrieved sources, wisdom is not a mere cleverness of mind but a God-given skill for living that orients the whole person to his Creator. Solomon places it above every earthly possession — *better than gold, better than silver, better than rubies* (Pr 16:16; Pr 3:14; Pr 8:10–11, 19) — and Job grounds the comparison in the fact that no metal the mines yield can purchase the wisdom that comes from the fear of the Lord (Jb 28). The same commentaries read "wisdom" in Proverbs 8 as ultimately Christward: Christ is "in whom are all the treasures of wisdom and knowledge" (Col 2:3), and the wisdom the gospel imparts is at once knowledge, righteousness, sanctification, and redemption (1 Cor 1:30). Spurgeon gathers this into a single pastoral line: the only gold that truly satisfies is "gold tried in the fire" — the grace of God in Christ, received "without money and without price" (Re 3:18). May MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. August MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -42,6 +42,8 @@ In the retrieved sources, wisdom is not a mere cleverness of mind but a God-give
 
 - A sense of our own folly is a great step toward wisdom when it drives us to rely on God’s counsel rather than our own heart. [[sources/commentaries_english/chspurgeon-mae/september/september-1|Spurgeon Morning and Evening, September 1]]
 - Human knowledge has bounds; universal knowledge is God’s alone—and spiritual mysteries remain still more reserved. [[sources/commentaries_english/chspurgeon-mae/september/september-5|Spurgeon Morning and Evening, September 5]]
+
+- Some second prizes must wait until the first is secured—order in duties saves from Laban-like confusion of priorities. [[sources/commentaries_english/chspurgeon-mae/november/november-14|Spurgeon Morning and Evening, November 14]]
 
 ## Agreements and tensions
 
@@ -121,6 +123,7 @@ Key loci in the present evidence:
 - [[sources/commentaries_english/chspurgeon-mae/august/august-15|Spurgeon Morning and Evening, August 15]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-1|Spurgeon Morning and Evening, September 1]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-5|Spurgeon Morning and Evening, September 5]]
+- [[sources/commentaries_english/chspurgeon-mae/november/november-14|Spurgeon Morning and Evening, November 14]]
 
 ## Open questions
 

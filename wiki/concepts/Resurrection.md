@@ -4,15 +4,15 @@ title: Resurrection
 description: Christ's rising from the dead as gospel foundation and the believer's assured future rising (1 Cor 15; 1 Thess 4; gospel passion narratives).
 tags: [christ, salvation, faith]
 status: reviewed
-updated: 2026-08-09
-source_count: 13
+updated: 2026-08-10
+source_count: 14
 ---
 
 # Resurrection
 
 ## Summary
 
-Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article of Christianity: Christ's rising is proved; without it there would be no justification or salvation; those united to Christ by faith are assured of their own rising. McGee’s Notes & Outlines thicken the same chapter: resurrection is integral to the gospel facts, bodily (*anastasis nekron*), opposed to Greek denials, and climaxed in momentary change and steadfast labor (15:58). McGee on 1 Thessalonians 4 adds the pastoral question of believers who die before the Lord’s coming for His own: sleep is of the body only, Jesus died a substitutionary death, the dead in Christ rise first, and the living are caught up (*harpazo*). McGee on Acts makes resurrection the center of gospel preaching from Pentecost through Paul’s defenses (Ps 16; Sanhedrin split; arrest for preaching the rising). Devotional enrichment adds pastoral warmth—Jesus once crucified, dead, and buried now sits on the throne of glory. Matthew 27's sealed tomb prepares proof of resurrection at the close of the passion narrative. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges.
+Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article of Christianity: Christ's rising is proved; without it there would be no justification or salvation; those united to Christ by faith are assured of their own rising. McGee’s Notes & Outlines thicken the same chapter: resurrection is integral to the gospel facts, bodily (*anastasis nekron*), opposed to Greek denials, and climaxed in momentary change and steadfast labor (15:58). McGee on 1 Thessalonians 4 adds the pastoral question of believers who die before the Lord’s coming for His own: sleep is of the body only, Jesus died a substitutionary death, the dead in Christ rise first, and the living are caught up (*harpazo*). McGee on Acts makes resurrection the center of gospel preaching from Pentecost through Paul’s defenses (Ps 16; Sanhedrin split; arrest for preaching the rising). Devotional enrichment adds pastoral warmth—Jesus once crucified, dead, and buried now sits on the throne of glory. Matthew 27's sealed tomb prepares proof of resurrection at the close of the passion narrative. May MAE claims are meshed alongside earlier applicative edges. June MAE claims are meshed alongside earlier applicative edges. July MAE claims are meshed alongside earlier applicative edges. September MAE claims are meshed alongside earlier applicative edges. November MAE claims are meshed alongside earlier applicative edges.
 
 ## Core claims
 
@@ -35,6 +35,8 @@ Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article o
 - Jesus appeared first to Mary Magdalene—resurrection joy for a special trophy of his delivering power. [[sources/commentaries_english/chspurgeon-mae/july/july-15|Spurgeon Morning and Evening, July 15]]
 
 - Nothing short of divine power raised Christ; when the dead rise by their own power, then conversion may be credited to human will alone. [[sources/commentaries_english/chspurgeon-mae/september/september-8|Spurgeon Morning and Evening, September 8]]
+
+- A risen Saviour is the corner-stone of Christianity and key-stone of salvation’s arch—streams of living water from that one fact. [[sources/commentaries_english/chspurgeon-mae/november/november-22|Spurgeon Morning and Evening, November 22]]
 
 ## Agreements and tensions
 
@@ -89,6 +91,7 @@ Henry's 1 Corinthians 15 atlas establishes the resurrection as a great article o
 - [[sources/commentaries_english/chspurgeon-mae/july/july-14|Spurgeon Morning and Evening, July 14]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-15|Spurgeon Morning and Evening, July 15]]
 - [[sources/commentaries_english/chspurgeon-mae/september/september-8|Spurgeon Morning and Evening, September 8]]
+- [[sources/commentaries_english/chspurgeon-mae/november/november-22|Spurgeon Morning and Evening, November 22]]
 
 ## Open questions
 
