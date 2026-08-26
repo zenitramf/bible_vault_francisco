@@ -4,8 +4,8 @@ title: Faith
 description: Trust in God's promise and in Christ; the means of justification and the principle of the life that pleases God (Gen 15:6; Rom 4; Heb 11).
 tags: [faith, salvation, christ, covenant, stewardship]
 status: reviewed
-updated: 2026-08-10
-source_count: 83
+updated: 2026-08-26
+source_count: 84
 ---
 
 # Faith
@@ -25,6 +25,7 @@ In the retrieved sources, faith is not a work that earns acceptance but the rece
 - Gospel righteousness is revealed from faith to faith; it is not from faith to works as if works later keep what faith began. [[sources/commentaries_english/mhenry-concise/romans/chapter-1#Verses 16, 17|Matthew Henry Concise on Romans 1]]
 - Abraham’s justification by faith was recorded to teach later ages the same way of believing in Jesus Christ and his righteousness. [[sources/commentaries_english/mhenry-concise/romans/chapter-4#Verses 23–25|Matthew Henry Concise on Romans 4]]
 - The righteousness of faith is near in the word; Christ is offered in the gospel promise, and faith comes by hearing that word. [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 5–11|Matthew Henry Concise on Romans 10]] [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 12–17|Matthew Henry Concise on Romans 10]]
+- Faith comes by hearing, and hearing by the word of God (Rom 10:17): people must hear a gospel messenger in order to believe and then call; not all who hear obey. [[sources/transcripts/How Shall They Hear - Paul Chappell|Paul Chappell, How Shall They Hear]] [[wiki/source-notes/How Shall They Hear - Paul Chappell|How Shall They Hear — Paul Chappell]] [[wiki/passages/Romans 10|Romans 10]]
 - Faith governs the ordinary decisions of the Christian life, not only justification: "we walk by faith, not by sight" extends to how a believer uses money, time, and resources—giving "by faith" is the stewardship counterpart to faith's work in salvation. [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala#0:13|Ringo Ayala, "Por fe reconocemos al dueño"]] [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
 - Concise Genesis 15: Abram believed God with respect to the promised Seed; Christians’ justifying faith always has respect to the person and work of Christ. [[sources/commentaries_english/mhenry-concise/genesis/chapter-15#Verses 2–6|Matthew Henry Concise on Genesis 15]] [[wiki/passages/Genesis 15|Genesis 15]]
 - McGee on 1 John: Victory over the world is by faith (*nike*, only NT occurrence)—Jericho believed rather than fought (5:4–5). Faith produces new birth and love of the reborn; either one has the Son by faith or not (5:1, 12). Assurance rests on believing God’s record concerning his Son (5:9–13). [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|McGee Notes & Outlines on 1 John]] [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee source-note]]
@@ -175,6 +176,7 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[wiki/passages/Habakkuk 2|Habakkuk 2]]
 - [[wiki/source-notes/Spurgeon Faith's Checkbook Theme Enrichment|Faith's Checkbook enrichment]]
 - [[wiki/source-notes/De Quien Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala]]
+- [[wiki/source-notes/How Shall They Hear - Paul Chappell|How Shall They Hear — Paul Chappell]]
 - [[wiki/source-notes/McGee Notes and Outlines on 1 John|McGee Notes and Outlines on 1 John]]
 
 ## Sources
@@ -188,6 +190,7 @@ No single primary verse is set in frontmatter because the concept is multi-passa
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-4|Matthew Henry Concise, Romans 4]]
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-10|Matthew Henry Concise, Romans 10]]
 - [[sources/transcripts/De Quién Es Tu Dinero - Ringo Ayala|¿De Quién Es Tu Dinero? — Ringo Ayala (transcript)]]
+- [[sources/transcripts/How Shall They Hear - Paul Chappell|How Shall They Hear — Paul Chappell (transcript)]]
 - [[sources/commentaries_english/mhenry-concise/genesis/chapter-15|Matthew Henry Concise, Genesis 15]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-6|Spurgeon Morning and Evening, January 6]]

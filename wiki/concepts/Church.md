@@ -4,8 +4,8 @@ title: Church
 description: The church as one body in Christ, gifted for edification, and gathered in his name with his presence (Eph 4; Mt 18).
 tags: [church, christ, holy-spirit, discipleship]
 status: reviewed
-updated: 2026-08-10
-source_count: 42
+updated: 2026-08-26
+source_count: 43
 ---
 
 # Church
@@ -29,6 +29,7 @@ The sources present the church as one body animated by one Spirit, called to uni
 - McGee: the Pastorals instruct orderly procedure in local and visible churches; 1 Timothy’s theme is local-church government over against Ephesians’ invisible body; Titus measures the ideal church by orderly organization, sound doctrine, pure life, and readiness for every good work. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]] [[wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon|McGee Pastoral Epistles source-note]]
 - McGee on 2–3 John: truth worth standing for (2 John) and working for (3 John). Do not receive into the house or greet teachers who lack the doctrine of Christ—supporters become partners in error (2 John 10–11). Gaius is commended for housing true itinerant teachers (3 John 5–8). Diotrephes loved preeminence: refused John and missionaries, slandered apostles, and expelled hosts—“Diotrephes, the dictator”; evil deeds express false doctrine (3 John 9–11). Elect lady may be a local church extending hospitality too freely (McGee’s lean, not insisted). [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|McGee Notes & Outlines on 2–3 John]] [[wiki/source-notes/McGee Notes and Outlines on 2 and 3 John|McGee 2–3 John source-note]]
 - McGee on Acts: Acts records the origin of the spiritual body; five minutes before Pentecost there was no church, five minutes after there was; 2:42 lists visible local-church marks; early church little organization, great power, love, and joy; internal discipline (Ananias/Sapphira) and deacon appointment; persecution scatters witness; Antioch (not Jerusalem) becomes the missionary church; Jerusalem council frees Gentiles from Mosaic obligation while calling for courtesy; gospel ends with Paul preaching to Gentiles in Rome. [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|McGee Notes & Outlines on Acts]] [[wiki/source-notes/McGee Notes and Outlines on Acts|McGee Acts source-note]]
+- Romans 10:15—“how shall they preach except they be sent?”—binds local churches to separate and send gospel laborers (Acts 13 pattern) so that “whosoever” may hear; soulwinning, missionary support, and raising preachers are church responsibilities, not optional extras. [[sources/transcripts/How Shall They Hear - Paul Chappell|Paul Chappell, How Shall They Hear]] [[wiki/source-notes/How Shall They Hear - Paul Chappell|How Shall They Hear — Paul Chappell]] [[wiki/passages/Romans 10|Romans 10]]
 - McGee on Colossians: prison-epistle contrast—Ephesians stresses the body of which Christ is Head; Colossians stresses the Head, body secondary (1:18). Church at Colosse arose via Ephesian ministry without Paul’s visit; Epaphras ministered and later prayed from prison. Holding the Head is necessary for growth (2:19); Gnostic exclusive aristocratic spirit is answered by presenting every man complete in Christ (1:28). Closing roster (4:7–18) of Tychicus, Onesimus, Aristarchus, Mark, Epaphras, Luke shows faithful workers in pagan Rome (parallel Romans 16 / Hebrews 11). [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|McGee Notes & Outlines on Colossians]] [[wiki/source-notes/McGee Notes and Outlines on Colossians|McGee Colossians source-note]] [[wiki/passages/Colossians 1|Colossians 1]] [[wiki/passages/Colossians 4|Colossians 4]]
 
 - Christ addresses his church with bridal titles—sister by incarnation nearness, spouse by heavenly betrothal—affectionate union language for the people he loves. [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
@@ -140,6 +141,7 @@ Key loci: Ephesians 4:1–16; Matthew 18:20; 1 Timothy 3:14–16; Romans 12; Rom
 - [[sources/commentaries_english/mcgee-thru-the-bible/1_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 1 John]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/2-3_John.pdf.extract.md|J. Vernon McGee, Notes & Outlines: 2 John & 3 John]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Acts.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Acts]]
+- [[sources/transcripts/How Shall They Hear - Paul Chappell|How Shall They Hear — Paul Chappell (transcript)]]
 - [[sources/commentaries_english/mcgee-thru-the-bible/Colossians.pdf.extract.md|J. Vernon McGee, Notes & Outlines: Colossians]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-7|Spurgeon Morning and Evening, January 7]]
 - [[sources/commentaries_english/chspurgeon-mae/january/january-30|Spurgeon Morning and Evening, January 30]]

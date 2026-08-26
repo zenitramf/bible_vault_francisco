@@ -601,3 +601,7 @@ append_only: true
 - Moved context/illumination/Christ-centered search claims from Word of God onto Hermeneutics; Word of God keeps nature/authority/fruit of revelation.
 - Homiletics owns preach-charge and expounding posture; Pastoral Ministry keeps office/flock with pointers.
 - Reciprocal links: Ayudas source-note, Nehemiah 8, 2 Timothy 4, Luke 24, Christ-Centered Ministry.
+
+## [2026-08-26] ingest | How Shall They Hear — Paul Chappell
+
+- YouTube transcript (Rom 10:14-17) staged to sources/transcripts/; source-note + Romans 10, Faith, Word of God, Salvation, Homiletics, Christ-Centered Ministry, Church updated; catalog rebuilt.

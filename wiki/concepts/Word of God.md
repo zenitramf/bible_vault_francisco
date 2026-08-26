@@ -4,8 +4,8 @@ title: Word of God
 description: Divine revelation as wisdom and rule for religion—published, plain, living, and authoritative (Pr 8; 2 Tim 3).
 tags: [wisdom, discipleship, christ, christian-life]
 status: reviewed
-updated: 2026-08-10
-source_count: 19
+updated: 2026-08-26
+source_count: 20
 ---
 
 # Word of God
@@ -20,6 +20,7 @@ Sources treat the word of God as divine revelation that guides religion: Henry o
 - Wisdom's precepts are proclaimed aloud, from on high, in places of concourse, and are plain to those who understand—not a sealed book for the willfully ignorant. [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-8|Matthew Henry Complete on Proverbs 8]] [[sources/commentaries_english/mhenry-concise/proverbs/chapter-8|Matthew Henry Concise on Proverbs 8]]
 - The foundation of religion is laid in relation to God as Creator, and the book of divine revelations is given as guide, support, and rule of religion. [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-1|Matthew Henry Complete on Genesis 1]] [[wiki/source-notes/Matthew Henry Complete Hub Deepening|Complete hub deepening]]
 - Faith comes by hearing, and hearing by the word of God; the same Lord is rich to all who call on him. [[sources/commentaries_english/mhenry-concise/romans/chapter-10#Verses 12–17|Matthew Henry Concise on Romans 10]]
+- Romans 10:17 applied pastorally: hearers are saved by a believing heart that hears the word; provision without proclamation leaves “whosoever” still unreached, so the word must be spoken by sent messengers. [[sources/transcripts/How Shall They Hear - Paul Chappell|Paul Chappell, How Shall They Hear]] [[wiki/source-notes/How Shall They Hear - Paul Chappell|How Shall They Hear — Paul Chappell]] [[wiki/passages/Romans 10|Romans 10]]
 - McGee on 1 Peter: suffering and the Scriptures produce holiness (1:10–25); the Word is the living, non-sterile instrument of new birth (1:23); man’s feebleness is like grass beside the eternal Word (1:24–25; Ps 119:89); pure spiritual milk is the newborn’s appetite (2:2–3); Christ in the Word is a stumbling stone to many (2:8). [[sources/commentaries_english/mcgee-thru-the-bible/1_Peter.pdf.extract.md|McGee Notes & Outlines on 1 Peter]] [[wiki/source-notes/McGee Notes and Outlines on 1 Peter|McGee source-note]]
 - McGee on 2 Timothy 3: over against last-days impostors, the believer has recourse to a knowledge of the Scriptures; every passage is God-breathed and profitable for teaching, conviction, setting right, and discipline; the man of God is complete and fitted for every good work (3:16–17). For the charge “Preach the word,” see [[wiki/concepts/Homiletics|Homiletics]]. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Timothy-Titus-Philemon.pdf.extract.md|McGee Notes & Outlines on Pastoral Epistles]] [[wiki/source-notes/McGee Notes and Outlines on Pastoral Epistles and Philemon|McGee Pastoral Epistles source-note]]
 - McGee on Chronicles: the five Judah reformations (Asa, Jehoshaphat, Joash, Hezekiah, Josiah) are each marked as return and obedience to the Word of God (e.g. Asa 15:8–9; Jehoshaphat 17:3–4; Josiah 34:18–21); a return to the Word led to the repentance of the people and the reformation of the nation. [[sources/commentaries_english/mcgee-thru-the-bible/1-2_Chronicles.pdf.extract.md|McGee Notes & Outlines on 1–2 Chronicles]] [[wiki/source-notes/McGee Notes and Outlines on 1 and 2 Chronicles|McGee Chronicles source-note]]
@@ -102,6 +103,7 @@ Sources treat the word of God as divine revelation that guides religion: Henry o
 ## Sources
 
 - [[sources/commentaries_english/mhenry-concise/romans/chapter-10|Matthew Henry Concise, Romans 10]]
+- [[sources/transcripts/How Shall They Hear - Paul Chappell|How Shall They Hear — Paul Chappell (transcript)]]
 - [[sources/commentaries_english/mhenry-concise/proverbs/chapter-8|Matthew Henry Concise, Proverbs 8]]
 - [[sources/commentaries_english/mhenry-complete/volume-3/proverbs/chapter-8|Matthew Henry Complete, Proverbs 8]]
 - [[sources/commentaries_english/mhenry-complete/volume-1/genesis/chapter-1|Matthew Henry Complete, Genesis 1]]

@@ -4,8 +4,8 @@ title: Christ-Centered Ministry
 description: Ministry put into men by Christ, focused on his worth and gospel, enabled by his sufficiency, and exercised as faithful stewardship (1 Tim 1:12; 2 Cor 3:5; 12:9–10).
 tags: [christ, pastoral-ministry, discipleship]
 status: reviewed
-updated: 2026-07-16
-source_count: 5
+updated: 2026-08-26
+source_count: 6
 ---
 
 # Christ-Centered Ministry
@@ -23,6 +23,7 @@ Christ-centered ministry is Christ's work before it is the minister's career: he
 - God's strength is made perfect in weakness; when grace is sufficient, the minister has no reason to complain if the thorn remains. [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-12|Matthew Henry Concise on 2 Corinthians 12]] [[sources/personal-notes/Devotional on 1 Timothy 1_12#The Force of our Ministry|Devotional on 1 Timothy 1:12]]
 - Ministry is a stewardship committed to trust; the minister must be counted faithful with the Master's resources. [[sources/personal-notes/Devotional on 1 Timothy 1_12#The Fortitude of our Ministry|Devotional on 1 Timothy 1:12]] [[sources/personal-notes/Devotional on 1 Timothy 1_12#The Take-away|Devotional on 1 Timothy 1:12]]
 - Christ's charge "Feed my sheep" turns fishers into shepherds who must love and feed the flock—ministry centered on Christ is still flock-care, not platform-building. [[sources/commentaries_english/chspurgeon-sermons/volume-56/sermon_3211|Spurgeon, Feed My Sheep]]
+- Call to preach and go is tied to Christ’s sending (“As the Father hath sent me, so send I you”) and to churches that separate and send laborers (Acts 13); for those truly called, Christ himself—not a secular fallback major—is the sufficient trust. [[sources/transcripts/How Shall They Hear - Paul Chappell|Paul Chappell, How Shall They Hear]] [[wiki/source-notes/How Shall They Hear - Paul Chappell|How Shall They Hear — Paul Chappell]]
 
 ## Agreements and tensions
 
@@ -62,6 +63,7 @@ Christ-centered ministry is Christ's work before it is the minister's career: he
 - [[sources/commentaries_english/mhenry-concise/2-corinthians/chapter-12|Matthew Henry Concise, 2 Corinthians 12]]
 - [[sources/personal-notes/Devotional on 1 Timothy 1_12|Devotional on 1 Timothy 1:12]]
 - [[sources/commentaries_english/chspurgeon-sermons/volume-56/sermon_3211|Spurgeon, Sermon 3211: Feed My Sheep]]
+- [[sources/transcripts/How Shall They Hear - Paul Chappell|How Shall They Hear — Paul Chappell (transcript)]]
 
 ## Open questions
 

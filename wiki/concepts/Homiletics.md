@@ -3,9 +3,9 @@ type: Biblical Concept
 title: Homiletics
 description: Preaching the Word—charge, aim, and posture of public ministry under Christ for the flock’s edification.
 tags: [pastoral-ministry, church, discipleship]
-status: seed
-updated: 2026-08-10
-source_count: 9
+status: developing
+updated: 2026-08-26
+source_count: 10
 bible_reference: "2ti 4:1-5"
 bible_book_key: 55
 bible_book_name: "2 Timothy"
@@ -29,6 +29,7 @@ Homiletics here is the charge and posture of *preaching the Word*—public minis
 - Paul counted it great privilege to preach the gospel, not drudgery; yet success humbled him—the fuller the vessel, the deeper it sinks. [[sources/commentaries_english/chspurgeon-mae/march/march-2|Spurgeon Morning and Evening, March 2]]
 - Nehemiah 8 joins public reading and expounding: praying and preaching are services of religion; the law is made plain so hearers understand. [[sources/commentaries_english/mhenry-concise/nehemiah/chapter-8#Verses 1–8|Matthew Henry Concise on Nehemiah 8]] [[wiki/passages/Nehemiah 8|Nehemiah 8]]
 - God’s altar of unhewn stones forbids human skill dressing the cross into another gospel congenial to fallen taste—content fidelity bounds homiletic creativity. [[sources/commentaries_english/chspurgeon-mae/july/july-14|Spurgeon Morning and Evening, July 14]]
+- Romans 10:14–15 presses that people hear the gospel through preachers the church sends; the greatest need is not another secular vocation but the preaching of Christ’s blood, and pastors should challenge hearers to consider that call. [[sources/transcripts/How Shall They Hear - Paul Chappell|Paul Chappell, How Shall They Hear]] [[wiki/source-notes/How Shall They Hear - Paul Chappell|How Shall They Hear — Paul Chappell]] [[wiki/passages/Romans 10|Romans 10]]
 
 ## Agreements and tensions
 
@@ -77,6 +78,7 @@ Homiletics here is the charge and posture of *preaching the Word*—public minis
 - [[sources/commentaries_english/chspurgeon-mae/march/march-2|Spurgeon Morning and Evening, March 2]]
 - [[sources/commentaries_english/mhenry-concise/nehemiah/chapter-8|Matthew Henry Concise, Nehemiah 8]]
 - [[sources/commentaries_english/chspurgeon-mae/july/july-14|Spurgeon Morning and Evening, July 14]]
+- [[sources/transcripts/How Shall They Hear - Paul Chappell|How Shall They Hear — Paul Chappell (transcript)]]
 
 ## Open questions
 
